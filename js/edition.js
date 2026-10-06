@@ -13,6 +13,18 @@
     return i < 0 ? t : `${t.slice(0, i)}<mark>${h}</mark>${t.slice(i + h.length)}`;
   }
 
+  // Bild zur Meldung, nur frei lizenzierte Bilder (Quelle und Lizenz stehen darunter).
+  const safeUrl = u => /^https:\/\//.test(u || "") ? u : "";
+  function figure(img) {
+    if (!img || !safeUrl(img.url)) return "";
+    const credit = [img.credit, img.license].filter(Boolean).map(esc).join(" · ");
+    const src = safeUrl(img.source);
+    return `<figure class="news-img">
+      <img src="${esc(img.url)}" alt="${esc(img.alt || "")}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('figure').remove()">
+      ${credit ? `<figcaption>Bild: ${src ? `<a href="${esc(src)}" target="_blank" rel="noopener">${credit}</a>` : credit}</figcaption>` : ""}
+    </figure>`;
+  }
+
   function render(ed) {
     const date = fmtLong(ed.date);
     document.title = `Wrenfell · ${issueNo(ed.nr)} vom ${Heft.fmtShort(ed.date)}`;
@@ -53,6 +65,7 @@
           <div class="col">
             <h3>${esc(it.title)}</h3>
             ${it.lead ? `<p class="lead">${esc(it.lead)}</p>` : ""}
+            ${figure(it.image)}
             <div class="body">${(it.body || []).map(p => `<p>${paragraphWithMark(p, it.highlight)}</p>`).join("")}</div>
             ${(it.assessment || []).length ? `<aside class="assess" aria-label="Einschätzung">
               <span class="assess-tab">${ICON_ASSESS}Einschätzung</span>

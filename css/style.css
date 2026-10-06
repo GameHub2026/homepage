@@ -390,6 +390,15 @@ mark {
 }
 mark.is-drawn { background-size: 100% 100%; }
 
+/* Bild zur Meldung */
+.news-img { margin: 26px 0 4px; }
+.news-img img {
+  display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
+  border: 1.5px solid var(--ink); border-radius: 14px; background: var(--paper-hi);
+}
+.news-img figcaption { margin-top: 8px; font: 400 12px/1.4 var(--display); color: var(--ink-2); }
+.news-img figcaption a { color: inherit; text-underline-offset: 3px; }
+
 /* Einschätzung als Tipp-Kasten */
 .assess {
   margin-top: 40px; position: relative;
@@ -430,13 +439,21 @@ mark.is-drawn { background-size: 100% 100%; }
   display: grid; grid-template-columns: 52px 1fr auto; gap: 2px 14px; align-items: baseline;
   padding: 12px 14px 12px 0; border: 1.5px solid var(--ink); background: var(--paper-hi);
 }
+.ledger-list .status { align-self: center; }
 .ledger-list .lbl-no { align-self: stretch; grid-row: span 2; display: grid; place-items: center; border-right: 1.5px solid var(--ink); margin: -12px 0; }
 .lbl-no { font: 800 15px var(--display); font-stretch: 70%; color: var(--anhang); font-variant-numeric: tabular-nums; }
 .lbl-name { font: 700 19px var(--display); font-stretch: 95%; letter-spacing: -0.01em; }
-.lbl-state {
-  font: 600 11px var(--display); font-stretch: 80%; text-transform: uppercase; letter-spacing: .12em;
-  padding: 3px 8px; border: 1px solid var(--ink-2); border-radius: 999px; color: var(--ink-2);
+/* Status-Etiketten: getönter Grund, Symbol und Schrift in derselben Farbe */
+.status {
+  display: inline-flex; align-items: center; gap: 7px; white-space: nowrap;
+  padding: 5px 11px 5px 7px; border-radius: 9px;
+  font: 600 13px/1 var(--display); letter-spacing: 0;
 }
+.status svg { width: 16px; height: 16px; flex: none; }
+.status-progress { background: #F0E6FC; color: #7A2FC9; }
+.status-pending  { background: #FCEBD5; color: #B65A06; }
+.status-idea     { background: #DCEEFA; color: #1670A8; }
+.status-empty    { background: #E6E5E0; color: #5E5D59; }
 .lbl-text { grid-column: 2 / -1; font-size: 16px; color: var(--ink-2); line-height: 1.45; }
 .ledger-empty { padding-top: 16px; color: var(--ink-2); font-size: 16px; max-width: 42ch; }
 
