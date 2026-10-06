@@ -202,33 +202,35 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   max-width: 46ch; font: 400 16px/1.55 var(--display); color: var(--ink-2);
   margin-bottom: 26px;
 }
-.hero-stage {
-  position: relative; flex: 1;
-  width: calc(100% + 2 * var(--gutter) + var(--tab-w));
-  margin-left: calc(-1 * var(--gutter)); margin-right: calc(-1 * (var(--gutter) + var(--tab-w)));
-  margin-top: clamp(24px, 4.5vh, 56px);
-  min-height: clamp(220px, 34vh, 420px); margin-top: clamp(8px, 2vh, 24px);
-}
 /* Mensch (links) greift zur offenen KI-Hand (rechts), dazwischen schwebt die Kugel.
    Mensch: 1437×503, Zeigefingerspitze bei (98,8 %, 52 %).
-   KI: 1388×484, vorderste Fingerspitzen bei (1,2 %, 35 %).
-   Beide Fingerspitzen liegen --gap von der Mitte entfernt, beide Arme reichen bis zum Rand. */
+   KI: 1388×484, vorderste Fingerspitzen bei (1,2 %, 30–35 %).
+   Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt; beide Arme reichen bis zum Rand.
+   Die Textmitte liegt eine halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
 .hero-stage {
+  position: relative; flex: none;
   container-type: inline-size;
+  width: calc(100% + 2 * var(--gutter) + var(--tab-w));
+  margin: clamp(28px, 5vh, 64px) calc(-1 * (var(--gutter) + var(--tab-w))) 0 calc(-1 * var(--gutter));
+  --shift: calc(var(--tab-w) / 2);
+  --c: calc(50cqw - var(--shift));
   --bleed: 3cqw;
-  --gap: 12cqw;
-  --w: calc((50cqw - var(--gap) + var(--bleed)) / .988);
-  --h: calc(var(--w) / 2.86);
-  --ai-top: 4cqw;
-  flex: none; min-height: 0; height: calc(4vw + (50vw - 12vw + 3vw) / .988 / 2.86 + 1vw);
+  --gap: 15.5cqw;
+  --wh: calc((var(--c) - var(--gap) + var(--bleed)) / .988);
+  --wa: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .988);
+  --hh: calc(var(--wh) / 2.857);
+  --ha: calc(var(--wa) / 2.868);
+  --top: 4cqw;
+  --globe: clamp(64px, calc(var(--gap) * .72), 230px);
+  height: calc(var(--top) + var(--ha) + 1.5cqw);
 }
-.hand { position: absolute; margin: 0; pointer-events: none; width: var(--w); }
+.hand { position: absolute; margin: 0; pointer-events: none; }
 .hand img { display: block; width: 100%; height: auto; max-width: none; }
-.hand-human { left: calc(-1 * var(--bleed)); top: calc(var(--ai-top) + .25 * var(--h) - .52 * var(--h)); }
-.hand-ai { right: calc(-1 * var(--bleed)); top: var(--ai-top); }
+.hand-human { width: var(--wh); left: calc(-1 * var(--bleed)); top: calc(var(--top) + .25 * var(--ha) - .52 * var(--hh)); }
+.hand-ai { width: var(--wa); right: calc(-1 * var(--bleed)); top: var(--top); }
 .hero-globe {
-  position: absolute; left: 50%; top: calc(var(--ai-top) + .26 * var(--h));
-  width: calc(var(--gap) * 1.32); aspect-ratio: 1;
+  position: absolute; left: var(--c); top: calc(var(--top) + .28 * var(--ha));
+  width: var(--globe); height: var(--globe);
   transform: translate(-50%, -50%);
 }
 
@@ -535,9 +537,12 @@ mark.is-drawn { background-size: 100% 100%; }
   .hero-title { font-size: clamp(30px, 8.6vw, 40px); }
   .hero-title br { display: none; }
   .hero-sub { font-size: 15px; }
-  .hero-stage { min-height: 200px; }
   .hero { margin-right: 0; padding-right: var(--gutter); }
-  .hero-stage { --bleed: 14cqw; --gap: 13cqw; --ai-top: 8cqw; height: calc(8vw + (50vw - 13vw + 14vw) / .988 / 2.86 + 2vw); margin-right: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); }
+  .hero-stage {
+    width: calc(100% + 2 * var(--gutter)); margin-right: calc(-1 * var(--gutter));
+    --shift: 0px; --bleed: 14cqw; --gap: 15cqw; --top: 7cqw; --globe: calc(var(--gap) * 1.05);
+    height: calc(var(--top) + var(--ha) + 3cqw);
+  }
   .strip-items { gap: 6px 8px; }
   .strip-label #runhead-issue { display: none; }
   .strip-items a { font-size: 14px; }
