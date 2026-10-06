@@ -1,14 +1,22 @@
 [
-  {
-    "nr": 0,
-    "date": "2026-10-06",
-    "example": true,
-    "counts": { "ki": 2, "gaming": 1, "geschichte": 1 },
-    "titles": [
-      "Beispielmeldung: So ist eine Meldung aufgebaut",
-      "Beispielmeldung: Eine zweite Meldung im selben Kapitel",
-      "Beispielmeldung: Das Gaming-Kapitel",
-      "Beispielmeldung: Das Geschichtskapitel"
-    ]
-  }
+ {
+  "nr": 1,
+  "date": "2026-10-06",
+  "counts": {
+   "ki": 3,
+   "gaming": 3,
+   "geschichte": 3
+  },
+  "titles": [
+   "DeepSeek sammelt mindestens 12 Milliarden Dollar ein",
+   "Google zeigt Gemini 4 Argon, zuerst nur für Cyber-Verteidiger",
+   "Anthropics Börsenprospekt: rasantes Wachstum und eine Warnung vor Washington",
+   "Gears of War: E-Day ist da, und die meisten Kritiker sind begeistert",
+   "GTA 6: Rockstar zeigt neue Bilder im Love Magazine",
+   "Star Wars: Galactic Racer bringt das Wettrennen zurück",
+   "Verlorene Römerstadt an der Donau entdeckt, vielleicht das rätselhafte Claudivium",
+   "Badanj-Höhle: Menschen waren 5.000 Jahre früher da als gedacht",
+   "Seltenes 4.000 Jahre altes Steinkammergrab in Norwegen ausgegraben"
+  ]
+ }
 ]

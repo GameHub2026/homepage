@@ -1,80 +1,288 @@
 {
-  "nr": 0,
-  "date": "2026-10-06",
-  "example": true,
-  "intro": "Dies ist eine Beispielausgabe. Sie zeigt, wie die tägliche Ausgabe aussieht, sobald der automatische Lauf echte Meldungen liefert. Alle Texte hier beschreiben nur das Format, es sind keine echten Nachrichten.",
-  "sections": [
+ "nr": 1,
+ "date": "2026-10-06",
+ "intro": "Das erste echte Heft. Bei der KI geht es heute um Geld und Macht: DeepSeek sammelt Milliarden ein, Google zeigt sein stärkstes Modell, und Anthropic legt seine Zahlen offen. Im Gaming-Kapitel startet Gears of War: E-Day, und Rockstar heizt die Vorfreude auf GTA 6 an. Die Geschichte führt zu einer verlorenen Römerstadt an der Donau, in eine Höhle in Bosnien und zu einem Steingrab in Norwegen.",
+ "sections": [
+  {
+   "category": "ki",
+   "items": [
     {
-      "category": "ki",
-      "items": [
-        {
-          "title": "Beispielmeldung: So ist eine Meldung aufgebaut",
-          "lead": "Jede Meldung beginnt mit einem Vorspann von ein bis zwei Sätzen, der sagt, worum es geht.",
-          "body": [
-            "Danach folgt der ausführliche Text in mehreren Absätzen. Er wird nicht gekürzt, denn du liest die Nachrichten vor allem hier und nicht in den Quellen.",
-            "Ein Satz pro Meldung wird mit dem Textmarker hervorgehoben: der Satz, auf den es ankommt. Wer nur überfliegt, bekommt so trotzdem den Kern mit.",
-            "Absätze bleiben kurz genug, um sie auf dem Handy bequem zu lesen, und lang genug, um Zusammenhänge zu erklären."
-          ],
-          "highlight": "Ein Satz pro Meldung wird mit dem Textmarker hervorgehoben: der Satz, auf den es ankommt.",
-          "assessment": [
-            "Unter jeder Meldung steht die Einschätzung: Was bedeutet das, wie ist es einzuordnen, und warum sollte es dich interessieren?",
-            "Hier darf die Bewertung deutlich sein. Sie trennt Fakten von Meinung, weil sie optisch klar vom Meldungstext abgesetzt ist."
-          ],
-          "sources": [
-            { "name": "Quelle A (Beispiel)", "url": "https://example.com" },
-            { "name": "Quelle B (Beispiel)", "url": "https://example.com" }
-          ]
-        },
-        {
-          "title": "Beispielmeldung: Eine zweite Meldung im selben Kapitel",
-          "lead": "Mehrere Meldungen pro Kapitel bekommen fortlaufende Seitenzahlen, damit das Inhaltsverzeichnis darauf verweisen kann.",
-          "body": [
-            "Die Seitenzahl steht am Rand jeder Meldung und oben im Laufkopf. Beim Scrollen springt sie mit.",
-            "Merkt sich die Seite, wo du zuletzt gelesen hast, setzt sie dort ein Lesezeichen. Beim nächsten Besuch kannst du direkt dorthin springen."
-          ],
-          "highlight": "Merkt sich die Seite, wo du zuletzt gelesen hast, setzt sie dort ein Lesezeichen.",
-          "assessment": [
-            "Das Lesezeichen wird nur in deinem Browser gespeichert. Auf einem anderen Gerät beginnt das Heft wieder vorne."
-          ],
-          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
-        }
-      ]
+     "title": "DeepSeek sammelt mindestens 12 Milliarden Dollar ein",
+     "lead": "Das chinesische KI-Labor DeepSeek holt in seiner neuen Finanzierungsrunde deutlich mehr Geld als geplant. Die größten Geldgeber sind Tencent und der Batteriehersteller CATL.",
+     "body": [
+      "Nach Informationen von Bloomberg, die Reuters am 6. Oktober aufgegriffen hat, sammelt DeepSeek mindestens 80 Milliarden Yuan ein, umgerechnet rund 11,9 Milliarden Dollar. Angepeilt waren ursprünglich etwa 50 Milliarden Yuan. Auf Basis bereits unterschriebener Eckpunktevereinbarungen könnte die Runde sogar auf annähernd 100 Milliarden Yuan wachsen.",
+      "Zu den größten Investoren gehören der Internetkonzern Tencent, der unter anderem WeChat betreibt, und der Batteriehersteller Contemporary Amperex Technology, kurz CATL.",
+      "Als Grund für die hohe Nachfrage gilt der erfolgreiche Start des Modells DeepSeek-V4.1-Flash. Parallel bereitet das Unternehmen mit der Investmentbank CITIC Securities einen möglichen Börsengang am STAR Market vor, Chinas Technologiebörse in Shanghai. Zeitpunkt, Bewertung und Volumen stehen noch nicht fest, im Gespräch ist Anfang 2027.",
+      "Außerdem vertieft DeepSeek die Zusammenarbeit mit Huawei bei KI-Chips und verringert damit die Abhängigkeit von Nvidia."
+     ],
+     "highlight": "Als Grund für die hohe Nachfrage gilt der erfolgreiche Start des Modells DeepSeek-V4.1-Flash.",
+     "assessment": [
+      "Die Runde zeigt, dass Chinas KI-Szene längst ein eigener Machtblock ist und nicht mehr als Nachahmer des Silicon Valley gilt. Dass ein Internetkonzern und ein Batteriehersteller gemeinsam einsteigen, ist kein Zufall: KI wird in China als Industriepolitik betrieben, nicht als reine Start-up-Wette.",
+      "Spannender als die Summe ist der Teil mit Huawei. Wer seine Modelle auf heimischen Chips trainiert, ist gegen US-Exportbeschränkungen besser geschützt. Gelingt das, verliert Washingtons wichtigster Hebel gegen Chinas KI-Industrie an Wirkung."
+     ],
+     "sources": [
+      {
+       "name": "Leadersnet (Reuters/Bloomberg)",
+       "url": "https://www.leadersnet.de/news/104389,deepseek-sammelt-mindestens-12-milliarden-dollar-ein.html"
+      },
+      {
+       "name": "finanznachrichten.de",
+       "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69766010-deepseek-ki-lab-sammelt-in-neuer-finanzierungsrunde-mindestens-zwoelf-milliarden-us-dollar-ein-046.htm"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Hangzhou_Skyline_against_the_West_Lake.png/1280px-Hangzhou_Skyline_against_the_West_Lake.png",
+      "alt": "Skyline von Hangzhou hinter dem Westsee, der Stadt, in der DeepSeek sitzt",
+      "credit": "Y Chen",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hangzhou_Skyline_against_the_West_Lake.png"
+     }
     },
     {
-      "category": "gaming",
-      "items": [
-        {
-          "title": "Beispielmeldung: Das Gaming-Kapitel",
-          "lead": "Gaming und Entertainment bekommen ein eigenes Kapitel mit eigener Farbe.",
-          "body": [
-            "Hier landen Spiele, Konsolen, Studios, Filme und Serien. Der automatische Lauf sortiert jede Meldung in genau ein Kapitel.",
-            "Wenn an einem Tag in einem Kapitel nichts Wichtiges passiert, bleibt es kurz oder entfällt. Das Inhaltsverzeichnis passt sich an."
-          ],
-          "highlight": "Der automatische Lauf sortiert jede Meldung in genau ein Kapitel.",
-          "assessment": [
-            "Die Einschätzung kann hier auch persönlich werden: Lohnt sich ein Spiel für dich, passt es in deine Spielebibliothek?"
-          ],
-          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
-        }
-      ]
+     "title": "Google zeigt Gemini 4 Argon, zuerst nur für Cyber-Verteidiger",
+     "lead": "Mit Argon bringt Google das erste Modell der Gemini-4-Reihe. Es soll Sicherheitslücken in Software selbstständig finden, prüfen und schließen können.",
+     "body": [
+      "Google hat am 30. September Gemini 4 Argon vorgestellt, das bislang leistungsfähigste Modell des Konzerns. Es ist auf tiefes Schlussfolgern über lange, verschachtelte Arbeitsabläufe ausgelegt und soll beim Programmieren, bei Recherche und Texten helfen, beim Debuggen und beim Umziehen ganzer Codebasen. Videos und Diagramme kann es ebenfalls auswerten.",
+      "Laut Google kann Argon kritische Schwachstellen in Software eigenständig aufspüren, bestätigen und beheben. Zum Start bekommen deshalb nur ausgewählte Sicherheitspartner Zugang, über Googles Sicherheitsprogramm Fairwind. Das Modell wurde gezielt für defensive Sicherheitsarbeit trainiert. Einen Termin für die allgemeine Freigabe nennt Google noch nicht.",
+      "In Benchmarks will Google besser abschneiden als OpenAIs GPT-6 Astra sowie Anthropics Modelle Fable und Opus. Das Benchmark-Start-up Vals führt Argon auf Platz eins seines Modell-Index.",
+      "Im Hintergrund steht ein Wettlauf um Nutzer: Die Gemini-App hatte im August eine Milliarde monatliche Nutzer erreicht und damit zu ChatGPT aufgeschlossen."
+     ],
+     "highlight": "Laut Google kann Argon kritische Schwachstellen in Software eigenständig aufspüren, bestätigen und beheben.",
+     "assessment": [
+      "Interessanter als die Benchmarks ist der vorsichtige Start. Ein Modell, das Lücken selbst findet und schließt, könnte sie genauso gut ausnutzen. Indem Google zuerst Verteidiger ausstattet, verschafft es ihnen einen Vorsprung und sich selbst Vertrauen.",
+      "Für den Alltag heißt das: Die nächste Welle der KI kommt weniger als Chatbot, sondern als unsichtbarer Arbeiter im Hintergrund, der Code prüft und repariert. Ob Argon die Konkurrenz wirklich überholt, zeigen erst unabhängige Tests, nicht die Zahlen des Herstellers."
+     ],
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Abstellplatz_f%C3%BCr_Google-Fahrr%C3%A4der_--_2022_--_2899.jpg/1280px-Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Abstellplatz_f%C3%BCr_Google-Fahrr%C3%A4der_--_2022_--_2899.jpg",
+      "alt": "Bunte Google-Fahrräder auf dem Firmengelände in Mountain View",
+      "credit": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Abstellplatz_f%C3%BCr_Google-Fahrr%C3%A4der_--_2022_--_2899.jpg"
+     }
     },
     {
-      "category": "geschichte",
-      "items": [
-        {
-          "title": "Beispielmeldung: Das Geschichtskapitel",
-          "lead": "Archäologische Funde, Forschung, Jahrestage und neue Bücher.",
-          "body": [
-            "Geschichtsmeldungen brauchen oft mehr Hintergrund als Technikmeldungen. Deshalb dürfen sie länger sein und Zusammenhänge über Jahrhunderte erklären.",
-            "Am Ende des Hefts steht zusätzlich, was an diesem Kalendertag in der Geschichte geschah. Diese Liste kommt live aus Wikipedia."
-          ],
-          "highlight": "Geschichtsmeldungen brauchen oft mehr Hintergrund als Technikmeldungen.",
-          "assessment": [
-            "In der Einschätzung lohnt sich oft der Bogen in die Gegenwart: Was lernen wir daraus für heute?"
-          ],
-          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
-        }
-      ]
+     "title": "Anthropics Börsenprospekt: rasantes Wachstum und eine Warnung vor Washington",
+     "lead": "Der Prospekt für den geplanten Börsengang von Anthropic nennt erstmals Umsatzzahlen und warnt ungewöhnlich deutlich vor Risiken durch die US-Regierung.",
+     "body": [
+      "Anthropic, das Unternehmen hinter den Claude-Modellen, bereitet seinen Gang an die Nasdaq vor. Laut dem Prospekt, über den am 2. Oktober berichtet wurde, lag der Umsatz 2025 bei rund 4,6 Milliarden Dollar, bei einem operativen Verlust von mehr als 8 Milliarden Dollar. Im zweiten Quartal 2026 stieg der Umsatz auf 11,5 Milliarden Dollar.",
+      "Ungewöhnlich deutlich warnt das Dokument vor Risiken durch die US-Regierung. Es verweist auf eine Anordnung des Präsidenten vom Februar, die Bundesbehörden die Nutzung von Anthropics Modellen untersagt, auf die Einstufung als Lieferkettenrisiko durch das Verteidigungsministerium und auf Exportbeschränkungen des Handelsministeriums vom Juni für die Modelle Fable 5 und Mythos 5. Solche Vorgänge könnten erheblichen Reputationsschaden verursachen. Aufträge der Regierung machen laut Prospekt weniger als ein Prozent des Jahresumsatzes aus.",
+      "Mögliche Investoren rechnen mit einer Bewertung zwischen 1,8 und 2 Billionen Dollar. Morgan Stanley, Goldman Sachs und JPMorgan begleiten den Börsengang. Die Roadshow für Investoren könnte in der Woche ab dem 9. November beginnen, die Notierung ist noch vor Thanksgiving geplant."
+     ],
+     "highlight": "Ungewöhnlich deutlich warnt das Dokument vor Risiken durch die US-Regierung.",
+     "assessment": [
+      "Vorweg ein Hinweis: Dieses Heft wird von Claude geschrieben, einem Modell von Anthropic. Die Einordnung bleibt deshalb bewusst nüchtern.",
+      "Die Zahlen zeigen das Muster der ganzen Branche: Der Umsatz wächst rasant, die Kosten für Rechenleistung wachsen mit. Bemerkenswert ist, wie offen politische Risiken im Prospekt stehen. Bei KI-Firmen entscheidet über den Wert inzwischen nicht nur die Technik, sondern auch das Verhältnis zur eigenen Regierung."
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-prospectus-warns-u-133449998.html"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1280px-Nasdaq_MarketSite_%2851494550508%29.jpg",
+      "alt": "Die Nasdaq MarketSite am Times Square in New York",
+      "credit": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+     }
     }
-  ]
+   ]
+  },
+  {
+   "category": "gaming",
+   "items": [
+    {
+     "title": "Gears of War: E-Day ist da, und die meisten Kritiker sind begeistert",
+     "lead": "Das Prequel von The Coalition ist seit dem 6. Oktober für Xbox Series X/S und PC erhältlich, zum Start auch im Game Pass.",
+     "body": [
+      "E-Day springt 14 Jahre vor das erste Gears of War zurück. Erzählt wird, wie der junge Marcus Fenix und Dominic Santiago das erste Auftauchen der Locust-Horde auf dem Planeten Sera erleben. Neben der Kampagne gibt es Koop für zwei Spieler am geteilten Bildschirm, Online-Koop für vier, den erweiterten Modus Horde Siege und einen überarbeiteten Versus-Mehrspielermodus. Gebaut ist das Spiel mit der Unreal Engine 5, Bewegung und Fortbewegung wurden modernisiert.",
+      "Die Wertungen fallen überwiegend stark aus. Pure Xbox, Day One und The Outhaven vergeben 10 von 10, IGN und der Daily Star 9 von 10, VGC und GAMINGbible je 8. Bei Metacritic steht das Spiel bei 88 Punkten. Gelobt werden vor allem die Kampagne, das Spielgefühl im Kampf, die Figuren und die Inszenierung.",
+      "Es gibt auch Gegenstimmen. Der Guardian vergibt 6 von 10 und schreibt, das Spiel zeige all seine Ideen in den ersten Stunden und baue danach nicht mehr sinnvoll darauf auf. Einige Tests merken an, dass die Geschichte hinter der Action zurücktritt.",
+      "Wichtig für die Einordnung: Versus und Horde Siege waren während der Testphase gesperrt. Die Wertungen beziehen sich also fast nur auf die Kampagne. Spielbar ist E-Day ab dem ersten Tag in Xbox Game Pass Ultimate und PC Game Pass."
+     ],
+     "highlight": "Bei Metacritic steht das Spiel bei 88 Punkten.",
+     "assessment": [
+      "Für Xbox ist E-Day mehr als ein normales Spiel. Microsoft braucht Hits, die zeigen, dass Game Pass mehr ist als ein Archiv älterer Titel. Ein Gears, das sich wieder wie früher anfühlt, ist genau dieses Signal.",
+      "Die Kritik ist typisch für ein Prequel: Das Spielgefühl stimmt, aber die Geschichte läuft auf Bekanntes zu. Wer die alte Trilogie mochte, wird hier glücklich. Wer vor allem online spielt, sollte die ersten Eindrücke zu Versus und Horde abwarten."
+     ],
+     "sources": [
+      {
+       "name": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/10/roundup-heres-what-the-critics-have-to-say-about-gears-of-war-e-day"
+      },
+      {
+       "name": "dlcompare",
+       "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-october-2026-week-41"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Xbox_Series_X_2.jpg/1280px-Xbox_Series_X_2.jpg",
+      "alt": "Eine Xbox Series X, die Konsole, für die E-Day erscheint",
+      "credit": "Der. Bellemer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_2.jpg"
+     }
+    },
+    {
+     "title": "GTA 6: Rockstar zeigt neue Bilder im Love Magazine",
+     "lead": "Gut sechs Wochen vor dem Start am 19. November gibt Rockstar einen neuen Einblick, diesmal über ein Modemagazin statt über einen Trailer.",
+     "body": [
+      "Rockstar Games hatte das nächste offizielle Update zu GTA 6 für Montag, den 5. Oktober angekündigt. Es kam als Titelgeschichte im Love Magazine.",
+      "Die neuen Screenshots zeigen die beiden Hauptfiguren Jason und Lucia in einem Restaurant und in einem Garten hinter einem Haus, dazu einen blauen Wagen auf den Straßen der offenen Spielwelt.",
+      "Rockstar beschreibt die beiden als „verletzlich, zäh, fehlerhaft“, als „perfekt unperfekt“ und „unbestreitbar echt“. Ihr gemeinsamer Verbrechenszug sei „hoffnungsvoll und naiv“.",
+      "GTA 6 erscheint am 19. November 2026 für PlayStation und Xbox. Der Online-Modus wird nach bisherigem Stand erst 2027 erwartet. Zuvor war das Spiel bereits Titelthema bei Game Informer."
+     ],
+     "highlight": "GTA 6 erscheint am 19. November 2026 für PlayStation und Xbox.",
+     "assessment": [
+      "Ein Modemagazin statt eines Trailers: Rockstar inszeniert GTA 6 bewusst als Popkultur-Ereignis, nicht als ein Spiel unter vielen. Das passt zu einem Titel, der das größte Unterhaltungsereignis des Jahres werden dürfte.",
+      "Die Zitate deuten auf ein Gangsterpaar mit mehr Gefühl als Zynismus hin, ein spürbarer Tonwechsel gegenüber GTA 5. Und für PC-Spieler: Eine PC-Version wird in den Berichten nicht erwähnt, sie müssen sich wie schon bei früheren Teilen gedulden."
+     ],
+     "sources": [
+      {
+       "name": "Game Rant",
+       "url": "https://gamerant.com/gta-6-love-magazine-release-images/"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Miami_Beach_-_Ocean_Drive_%282023%29.jpg/1280px-Miami_Beach_-_Ocean_Drive_%282023%29.jpg",
+      "alt": "Ocean Drive in Miami Beach, Vorbild für die Spielwelt von GTA",
+      "credit": "P. Hughes",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Miami_Beach_-_Ocean_Drive_(2023).jpg"
+     }
+    },
+    {
+     "title": "Star Wars: Galactic Racer bringt das Wettrennen zurück",
+     "lead": "Seit dem 6. Oktober gibt es wieder ein Star-Wars-Rennspiel, für PlayStation 5, Xbox Series X/S und PC.",
+     "body": [
+      "Galactic Racer ist ein Arcade-Rennspiel mit hohem Tempo, das über bekannte und neue Schauplätze aus dem Star-Wars-Universum führt.",
+      "Eine der auffälligsten Strecken liegt auf Jakku und schlängelt sich durch die Wracks von Sternzerstörern und AT-ATs. Neben einzelnen Rennen gibt es einen Kampagnenmodus.",
+      "Das Spiel startet in derselben Woche wie Gears of War: E-Day, also mitten im dichten Herbstprogramm vor dem Start von GTA 6."
+     ],
+     "highlight": "Eine der auffälligsten Strecken liegt auf Jakku und schlängelt sich durch die Wracks von Sternzerstörern und AT-ATs.",
+     "assessment": [
+      "Viele warten seit Episode I Racer von 1999 auf ein richtiges Star-Wars-Rennspiel. Das Potenzial ist riesig: Kaum ein Universum hat so viele ikonische Orte, die sich als Strecken eignen.",
+      "Ob Galactic Racer mehr ist als ein Fanprodukt, entscheidet die Steuerung. Arcade-Racer leben vom Gefühl für Tempo und Drift. Eine Kampagne ist ein gutes Zeichen, weil sie Abwechslung jenseits einzelner Rennen verspricht."
+     ],
+     "sources": [
+      {
+       "name": "dlcompare",
+       "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-october-2026-week-41"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Playstation_5_DualSense_controller_in_Midnight_Black%2C_2026-02-07_%28front%29.jpg/1280px-Playstation_5_DualSense_controller_in_Midnight_Black%2C_2026-02-07_%28front%29.jpg",
+      "alt": "Ein schwarzer DualSense-Controller der PlayStation 5",
+      "credit": "Chris Woodrich",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Playstation_5_DualSense_controller_in_Midnight_Black,_2026-02-07_(front).jpg"
+     }
+    }
+   ]
+  },
+  {
+   "category": "geschichte",
+   "items": [
+    {
+     "title": "Verlorene Römerstadt an der Donau entdeckt, vielleicht das rätselhafte Claudivium",
+     "lead": "In Niederösterreich haben Forscher eine bisher unbekannte römische Stadt mit Straßenraster und einem Amphitheater für rund 8.000 Menschen aufgespürt.",
+     "body": [
+      "Die Fundstelle liegt bei St. Pantaleon-Erla in Niederösterreich. Entdeckt hat sie ein Team der Universität Innsbruck gemeinsam mit dem Donau-Limes-Forum, GeoSphere Austria und den archäologischen Diensten Ober- und Niederösterreichs. Gegraben wurde dafür kaum: Die Forscher setzten auf geophysikalische Messungen und Luftbildarchäologie.",
+      "Die Siedlung bedeckte schätzungsweise 25 bis 30 Hektar und hatte ein regelmäßiges Straßennetz. Das Amphitheater bot etwa 8.000 Zuschauern Platz und ist damit ähnlich groß wie das von Carnuntum. In der Nähe lagen zwei Militärlager, ein Holz-Erde-Kastell aus dem 1. und ein Steinkastell aus dem 2. Jahrhundert. Sie kontrollierten vermutlich einen Donauübergang nahe der Mündung der Aist.",
+      "Spannend ist die mögliche Verbindung zu Claudivium. Der Geograf Claudius Ptolemäus nannte im 2. Jahrhundert Koordinaten für diesen Ort, die gut zur Fundstelle passen, ebenso seine Erwähnung eines Flusses, der von Norden in die Donau mündet. Eine Inschrift, die den Namen bestätigt, fehlt allerdings noch.",
+      "Die Stadt bestand nur etwa ein Jahrhundert, von rund 80 bis 180 nach Christus. Spuren einer Zerstörung gibt es nicht, sie wurde offenbar planmäßig aufgegeben."
+     ],
+     "highlight": "Die Stadt bestand nur etwa ein Jahrhundert, von rund 80 bis 180 nach Christus.",
+     "assessment": [
+      "Der Archäologe Gerald Grabherr nennt eine 25 bis 30 Hektar große Planstadt für ein Kastell mit rund 500 Soldaten im Römischen Reich beispiellos. Das macht den Fund so besonders: Rom hat hier offenbar groß geplant, für eine Grenze, die es für dauerhaft hielt.",
+      "Dass die Stadt um 180 aufgegeben wurde, fällt in die Zeit der Markomannenkriege an der Donau. Ein direkter Zusammenhang ist nicht belegt, aber die Frage drängt sich auf. Der Fund zeigt außerdem, wie viel moderne Messtechnik noch unter unseren Feldern finden kann, ganz ohne Spaten."
+     ],
+     "sources": [
+      {
+       "name": "HeritageDaily",
+       "url": "https://www.heritagedaily.com/2026/09/lost-roman-city-discovered-on-the-danube-frontier-in-austria/159445"
+      },
+      {
+       "name": "Smithsonian Magazine",
+       "url": "https://www.smithsonianmag.com/smart-news/the-roman-city-of-claudivium-disappeared-from-historical-records-almost-2000-years-ago-it-may-have-been-hiding-in-austria-180989614/"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ancient_Roman_amphitheatre_in_Petronell-Carnuntum.JPG/1280px-Ancient_Roman_amphitheatre_in_Petronell-Carnuntum.JPG",
+      "alt": "Das römische Amphitheater von Carnuntum, vergleichbar groß wie das neu entdeckte",
+      "credit": "Pudelek (Marcin Szala)",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_amphitheatre_in_Petronell-Carnuntum.JPG"
+     }
+    },
+    {
+     "title": "Badanj-Höhle: Menschen waren 5.000 Jahre früher da als gedacht",
+     "lead": "Neue Radiokarbondaten zeigen, dass Jäger und Sammler die Höhle Badanj in Bosnien und Herzegowina schon vor rund 20.000 Jahren nutzten.",
+     "body": [
+      "Ein Team um Aitor Ruiz-Redondo, Nikola Vukosavljević und Marc Vander Linden hat 29 Proben mit der Radiokarbonmethode datiert, 22 davon aus gesicherten Fundschichten. Die Studie erschien in der Fachzeitschrift Radiocarbon.",
+      "Das Ergebnis: Menschen nutzten den Felsüberhang bei Stolac schon vor rund 20.000 Jahren, etwa 5.000 Jahre früher als bisher belegt. Über Generationen kamen Gruppen immer wieder zurück, bis vor etwa 12.000 Jahren. Damit deckt die Fundstelle die großen Umweltveränderungen am Ende der letzten Eiszeit ab.",
+      "Gefunden wurden Steinwerkzeuge, bearbeitete Tierknochen, Schmuck und gravierte Steine der Epigravettien-Kultur. Eine Ritzzeichnung, die traditionell als Teil einer Tierfigur gedeutet wird, gilt als eines der bekanntesten Beispiele altsteinzeitlicher Kunst in Bosnien und Herzegowina.",
+      "Unter den ältesten Schichten wurde der Fels noch nicht erreicht. Es könnte also noch frühere Spuren geben."
+     ],
+     "highlight": "Menschen nutzten den Felsüberhang bei Stolac schon vor rund 20.000 Jahren, etwa 5.000 Jahre früher als bisher belegt.",
+     "assessment": [
+      "Der eigentliche Wert liegt in der langen Zeitspanne an einem einzigen Ort. Statt verstreute Fundstellen zu vergleichen, kann man hier verfolgen, wie sich dieselben Menschen an ein wärmer werdendes Klima anpassten.",
+      "Für heute ist das eine leise Lektion: Klimawandel ist für Menschen nichts Neues, wohl aber das Tempo. Die Jäger und Sammler von Badanj hatten Jahrtausende Zeit, wir haben Jahrzehnte."
+     ],
+     "sources": [
+      {
+       "name": "Sott.net (Bericht zur Studie)",
+       "url": "https://www.sott.net/article/508727-People-reached-Badanj-Cave-in-Bosnia-20000-years-ago-5000-years-earlier-than-previously-thought"
+      },
+      {
+       "name": "Radiocarbon (Cambridge University Press)",
+       "url": "https://doi.org/10.1017/RDC.2026.10220"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Badanj.jpg",
+      "alt": "Der Felsüberhang der Badanj-Höhle bei Stolac",
+      "credit": "Prof saxx (English Wikipedia)",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Badanj.jpg"
+     }
+    },
+    {
+     "title": "Seltenes 4.000 Jahre altes Steinkammergrab in Norwegen ausgegraben",
+     "lead": "Auf dem Svinesund-Plateau bei Halden haben Archäologen ein Galeriegrab freigelegt, eine Grabform, von der es in Norwegen nur rund 20 Beispiele gibt.",
+     "body": [
+      "Das Museum für Kulturgeschichte in Oslo grub die Anlage vor einem geplanten Industriegebiet aus, Grabungsleiterin war Carine Rosenvinge. Solche Rettungsgrabungen sollen Funde dokumentieren und bergen, bevor gebaut wird.",
+      "Die Grabkammer besteht aus Steinplatten, die jeweils mehrere hundert Kilogramm wiegen. Sorgfältig gesetzte Steine bilden einen Boden. Das Grab stammt aus der Zeit um 4.000 vor heute, dem Übergang von der Stein- zur Bronzezeit. Das genaue Alter soll die Analyse von Holzkohleproben klären.",
+      "Gefunden wurden eine Pfeilspitze, eine Bernsteinperle, eine Scherbe mit Schnurmuster und Holzkohle. Ungewöhnlich ist, was fehlt: Feuersteindolche, die in solchen Gräbern sonst häufig liegen.",
+      "Zum Vergleich: In Schweden sind rund 2.000 solcher Gräber bekannt, in Dänemark etwa 150, in Norwegen nur rund 20."
+     ],
+     "highlight": "Ungewöhnlich ist, was fehlt: Feuersteindolche, die in solchen Gräbern sonst häufig liegen.",
+     "assessment": [
+      "Gerade das Fehlen der Dolche macht den Fund interessant. Es deutet auf andere Bestattungsbräuche hin als im Nachbarland Schweden. Rosenvinge fragt sich sogar, ob die Holzkohle von verbranntem Knochen stammt, also von einer Brandbestattung.",
+      "Dass der Fund nur durch eine Rettungsgrabung ans Licht kam, ist typisch: Ein großer Teil der Archäologie in Europa entsteht heute dort, wo gebaut wird. Ohne Bauprojekt wäre dieses Grab wohl nie entdeckt worden, mit Bauprojekt bleibt nur kurz Zeit."
+     ],
+     "sources": [
+      {
+       "name": "ScienceNorway",
+       "url": "https://www.sciencenorway.no/archaeology-culture-humanities/rare-4000-year-old-gallery-grave-unearthed-in-norway/2716452"
+      }
+     ],
+     "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/H%C3%A4llkista_idag.jpg/1280px-H%C3%A4llkista_idag.jpg",
+      "alt": "Ein ähnliches Steinkammergrab (Hällkista) in Schweden, nicht das neue Grab aus Norwegen",
+      "credit": "Anita Synnestvedt",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4llkista_idag.jpg"
+     }
+    }
+   ]
+  }
+ ]
 }
