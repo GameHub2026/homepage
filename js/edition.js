@@ -15,8 +15,8 @@
 
   function render(ed) {
     const date = fmtLong(ed.date);
-    document.title = `${issueNo(ed.nr)} · ${date} · kevin grisch`;
-    $("runhead-issue").textContent = `${issueNo(ed.nr)} · ${date}`;
+    document.title = `Wrenfell · ${issueNo(ed.nr)} vom ${Heft.fmtShort(ed.date)}`;
+    $("runhead-issue").textContent = `· ${issueNo(ed.nr)} · ${date}`;
     $("tag-example").hidden = !ed.example;
     $("toc-intro").textContent = ed.intro || "";
 
@@ -68,6 +68,10 @@
     });
 
     $("toc-list").innerHTML = toc;
+    $("strip-items").innerHTML = sections.map(sec => {
+      const n = sec.items.length;
+      return `<li><a class="ch-${sec.category}" href="#kapitel-${sec.category}"><i></i>${esc(CHAPTERS[sec.category].name)}<b>${n}</b></a></li>`;
+    }).join("");
     $("chapters").innerHTML = html;
 
     const anhang = $("anhang");
@@ -147,7 +151,19 @@
     }
   }
 
+  // Begrüßung nach Tageszeit.
+  function greet() {
+    const h = new Date().getHours();
+    const text = h < 5 ? "Noch wach? Willkommen bei Wrenfell."
+      : h < 11 ? "Guten Morgen, schön dass du da bist."
+      : h < 17 ? "Schönen Tag, willkommen bei Wrenfell."
+      : h < 22 ? "Guten Abend, schön dass du da bist."
+      : "Späte Runde? Willkommen bei Wrenfell.";
+    $("greet").textContent = text;
+  }
+
   async function init() {
+    greet();
     const wanted = new URLSearchParams(location.search).get("d");
     let ed;
     try {

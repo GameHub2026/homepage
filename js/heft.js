@@ -54,3 +54,12 @@ const Heft = (() => {
 
   return { CHAPTERS, ORDER, esc, pad, parseDate, fmtLong, fmtShort, issueNo, store, getJSON, trackPages };
 })();
+
+// Header bekommt eine Linie, sobald man scrollt.
+(() => {
+  const h = document.getElementById("site-header");
+  if (!h) return;
+  const on = () => h.classList.toggle("is-scrolled", scrollY > 8);
+  addEventListener("scroll", on, { passive: true });
+  on();
+})();

@@ -3,18 +3,30 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Archiv · kevin grisch</title>
+  <title>Archiv · Wrenfell</title>
   <meta name="description" content="Alle bisherigen Tagesausgaben, durchsuchbar.">
   <meta name="theme-color" content="#EEEDE9">
   <link rel="preload" href="fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="icon" href="assets/wren.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="wren" viewBox="0 0 100 100"><path fill="currentColor" fill-rule="evenodd" d="M96 40.5 L81 37.6 C78.8 30 71.5 26.6 64.5 28 C58.6 29.2 54.6 33.6 52.2 39 C47.8 42.4 42.6 43.6 37.6 42.4 C34.4 33.6 27.4 21.4 19 11.5 C20.2 25 23.4 40 29.6 51.6 C26.8 62 30.6 72.2 39.6 77.2 C48.8 82.2 61.4 80.6 69.4 73 C76.2 66.6 79.2 57.6 79.4 49.6 C79.6 46 80.8 43 82.6 41.6 Z M69.6 33.4 a2.3 2.3 0 1 0 0.01 0 Z M40 56.5 C50.5 64.5 63.5 64.2 73.5 55 C63.5 60.4 51 61.4 40 56.5 Z M45.5 65 C53.5 70.6 62.5 70.6 69 65.4 C61.6 68 53.4 68.2 45.5 65 Z"/></symbol>
+</svg>
 
-<header class="runhead">
-  <a href="./" class="runhead-logo">kevin grisch</a>
-  <p class="runhead-issue">Archiv aller Hefte</p>
-  <p class="runhead-page"><span>S.</span> <b id="runhead-page">01</b></p>
+<header class="site-header" id="site-header">
+  <a href="./" class="brand" id="brand" aria-label="Wrenfell, Startseite"><svg class="brand-mark" aria-hidden="true"><use href="#wren"/></svg><span class="brand-word">Wrenfell</span></a>
+  <nav class="site-nav" aria-label="Hauptnavigation">
+    <a href="./#inhalt">Heute</a>
+    <a href="archiv.html" aria-current="page">Archiv</a>
+    <a href="./#anhang">Projekte</a>
+    <a href="./#regal-title">Regal</a>
+  </nav>
+  <div class="site-actions">
+    <span class="pill pill-light page-pill"><span>S.</span>&nbsp;<b id="runhead-page">01</b></span>
+    <a class="pill pill-dark" href="./#inhalt">Heute lesen</a>
+  </div>
 </header>
 
 <nav class="tabs" aria-label="Kapitel">
@@ -42,7 +54,7 @@
 
 <footer class="colophon">
   <div class="colophon-inner">
-    <p class="colophon-logo">kevin grisch</p>
+    <p class="colophon-logo"><svg class="brand-mark" aria-hidden="true"><use href="#wren"/></svg>Wrenfell</p>
     <p>Erscheint täglich. Recherchiert und eingeschätzt von Claude, gelesen von mir.</p>
     <nav aria-label="Fußzeile">
       <a href="./">Aktuelles Heft</a>

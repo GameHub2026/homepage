@@ -3,21 +3,57 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Tagesausgabe · kevin grisch</title>
-  <meta name="description" content="Kevins tägliches Heft: KI & Technologie, Gaming & Entertainment, Geschichte. Dazu Projekte, Regal und Notizen.">
+  <title>Wrenfell</title>
+  <meta name="description" content="Wrenfell, Kevins tägliches Heft: KI & Technologie, Gaming & Entertainment, Geschichte. Dazu Projekte, Regal und Notizen.">
   <meta name="theme-color" content="#EEEDE9">
   <link rel="preload" href="fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/caveat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="icon" href="assets/wren.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="wren" viewBox="0 0 100 100"><path fill="currentColor" fill-rule="evenodd" d="M96 40.5 L81 37.6 C78.8 30 71.5 26.6 64.5 28 C58.6 29.2 54.6 33.6 52.2 39 C47.8 42.4 42.6 43.6 37.6 42.4 C34.4 33.6 27.4 21.4 19 11.5 C20.2 25 23.4 40 29.6 51.6 C26.8 62 30.6 72.2 39.6 77.2 C48.8 82.2 61.4 80.6 69.4 73 C76.2 66.6 79.2 57.6 79.4 49.6 C79.6 46 80.8 43 82.6 41.6 Z M69.6 33.4 a2.3 2.3 0 1 0 0.01 0 Z M40 56.5 C50.5 64.5 63.5 64.2 73.5 55 C63.5 60.4 51 61.4 40 56.5 Z M45.5 65 C53.5 70.6 62.5 70.6 69 65.4 C61.6 68 53.4 68.2 45.5 65 Z"/></symbol>
+</svg>
+
+<div class="intro" id="intro" aria-hidden="true">
+  <div class="intro-lockup" id="intro-lockup">
+    <svg class="intro-mark" id="intro-mark" viewBox="0 0 100 100">
+      <defs>
+        <filter id="ink" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+          <feTurbulence id="ink-noise" type="fractalNoise" baseFrequency="0.06" numOctaves="2" seed="3" result="noise"/>
+          <feDisplacementMap id="ink-disp" in="SourceGraphic" in2="noise" scale="34" xChannelSelector="R" yChannelSelector="G" result="moved"/>
+          <feGaussianBlur id="ink-blur" in="moved" stdDeviation="2.4" result="soft"/>
+          <feColorMatrix in="soft" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -9"/>
+        </filter>
+        <mask id="ink-mask" maskUnits="userSpaceOnUse" x="-50" y="-50" width="200" height="200">
+          <circle id="ink-reveal" cx="52" cy="66" r="0" fill="#fff"/>
+        </mask>
+      </defs>
+      <g id="ink-body" filter="url(#ink)"><g mask="url(#ink-mask)"><use href="#wren"/></g></g>
+      <circle id="ink-dot" cx="54" cy="58" r="0" fill="currentColor"/>
+      <g id="ink-sparks" fill="currentColor"></g>
+    </svg>
+    <span class="intro-word" id="intro-word">Wrenfell</span>
+  </div>
+</div>
+
 <a class="skip" href="#inhalt">Zum Inhaltsverzeichnis</a>
 
-<header class="runhead">
-  <a href="./" class="runhead-logo">kevin grisch</a>
-  <p class="runhead-issue" id="runhead-issue">Tagesausgabe</p>
-  <p class="runhead-page" aria-live="off"><span>S.</span> <b id="runhead-page">01</b></p>
+<header class="site-header" id="site-header">
+  <a href="./" class="brand" id="brand" aria-label="Wrenfell, Startseite"><svg class="brand-mark" aria-hidden="true"><use href="#wren"/></svg><span class="brand-word">Wrenfell</span></a>
+  <nav class="site-nav" aria-label="Hauptnavigation">
+    <a href="#inhalt">Heute</a>
+    <a href="archiv.html">Archiv</a>
+    <a href="#anhang">Projekte</a>
+    <a href="#regal-title">Regal</a>
+  </nav>
+  <div class="site-actions">
+    <span class="pill pill-light page-pill" title="Seite im heutigen Heft"><span>S.</span>&nbsp;<b id="runhead-page">01</b></span>
+    <a class="pill pill-dark" href="#inhalt">Heute lesen</a>
+  </div>
 </header>
 
 <nav class="tabs" aria-label="Kapitel">
@@ -30,24 +66,26 @@
 
 <main>
 
-  <section class="cover" data-page="1" aria-labelledby="cover-title">
-    <h1 class="cover-title" id="cover-title">Tages&shy;ausgabe</h1>
-    <p class="cover-topics">KI &amp; Technologie <i></i> Gaming &amp; Entertainment <i></i> Geschichte<span class="tag-example" id="tag-example" hidden>Beispielausgabe</span></p>
+  <section class="hero" data-page="1" aria-labelledby="hero-title">
+    <p class="hero-greet" id="greet">Schön, dass du da bist.</p>
+    <h1 class="hero-title" id="hero-title">Neugier fliegt am höchsten. <br>Getragen von Mensch und Maschine.</h1>
+    <p class="hero-sub">Mein tägliches Heft zu KI, Gaming und Geschichte, dazu alles, woran ich gerade baue. Recherchiert von Claude, eingeordnet für mich.</p>
+    <a class="pill pill-dark pill-lg" href="#inhalt">Heute lesen</a>
 
-    <div class="cover-stage">
-    <figure class="hand hand-human">
-      <img src="assets/hand-human.png" alt="Menschliche Hand, die von links ins Bild greift" width="1437" height="503" onerror="this.closest('figure').classList.add('is-missing')">
-      <div class="hand-slot" aria-hidden="true">Foto deiner Hand<br><small>assets/hand-human.png</small></div>
-      <figcaption class="callout callout-human"><b>A</b> Mensch</figcaption>
-    </figure>
-
-    <figure class="hand hand-ai">
-      <img src="assets/hand-ai.png" alt="Weiß-goldener Roboterarm, der von rechts ins Bild greift" width="1426" height="696">
-      <figcaption class="callout callout-ai"><b>B</b> Maschine</figcaption>
-    </figure>
+    <div class="hero-stage">
+      <figure class="hand hand-human">
+        <img src="assets/hand-human.png" alt="" width="1437" height="503">
+      </figure>
+      <svg class="hero-wren" role="img" aria-label="Der Zaunkönig von Wrenfell"><use href="#wren"/></svg>
+      <figure class="hand hand-ai">
+        <img src="assets/hand-ai.png" alt="" width="1426" height="696">
+      </figure>
     </div>
 
-    <p class="cover-page">01</p>
+    <div class="hero-strip">
+      <p class="strip-label">Im heutigen Heft <span id="runhead-issue"></span><span class="tag-example" id="tag-example" hidden>Beispielausgabe</span></p>
+      <ul class="strip-items" id="strip-items"></ul>
+    </div>
   </section>
 
   <section class="toc" id="inhalt" data-page="2" aria-labelledby="toc-title">
@@ -106,8 +144,8 @@
 
 <footer class="colophon">
   <div class="colophon-inner">
-    <p class="colophon-logo">kevin grisch</p>
-    <p>Erscheint täglich. Recherchiert und eingeschätzt von Claude, gelesen von mir.</p>
+    <p class="colophon-logo"><svg class="brand-mark" aria-hidden="true"><use href="#wren"/></svg>Wrenfell</p>
+    <p>Wrenfell kommt vom englischen <i>wren</i>, dem Zaunkönig. Im Märchen der Brüder Grimm fliegt er höher als der Adler, weil er sich von ihm tragen lässt. Erscheint täglich, recherchiert von Claude, gelesen von Kevin.</p>
     <nav aria-label="Fußzeile">
       <a href="archiv.html">Archiv</a>
       <a href="#anhang">Projekte</a>
@@ -117,6 +155,7 @@
   </div>
 </footer>
 
+<script src="js/intro.js"></script>
 <script src="js/heft.js"></script>
 <script src="js/edition.js"></script>
 </body>
