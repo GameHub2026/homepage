@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tagesausgabe · kevin grisch</title>
+  <meta name="description" content="Kevins tägliches Heft: KI & Technologie, Gaming & Entertainment, Geschichte. Dazu Projekte, Regal und Notizen.">
+  <meta name="theme-color" content="#EEEDE9">
+  <link rel="preload" href="fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<a class="skip" href="#inhalt">Zum Inhaltsverzeichnis</a>
+
+<header class="runhead">
+  <a href="./" class="runhead-logo">kevin grisch</a>
+  <p class="runhead-issue" id="runhead-issue">Tagesausgabe</p>
+  <p class="runhead-page" aria-live="off"><span>S.</span> <b id="runhead-page">01</b></p>
+</header>
+
+<nav class="tabs" aria-label="Kapitel">
+  <a class="tab" href="#kapitel-ki" data-ch="ki">KI</a>
+  <a class="tab" href="#kapitel-gaming" data-ch="gaming">Gaming</a>
+  <a class="tab" href="#kapitel-geschichte" data-ch="geschichte">Geschichte</a>
+  <a class="tab" href="#anhang" data-ch="anhang">Anhang</a>
+  <a class="tab" href="archiv.html" data-ch="archiv">Archiv</a>
+</nav>
+
+<main>
+
+  <section class="cover" data-page="1" aria-labelledby="cover-title">
+    <p class="cover-meta" id="cover-meta">&nbsp;</p>
+    <h1 class="cover-title" id="cover-title">Tages&shy;ausgabe</h1>
+    <p class="cover-topics">KI &amp; Technologie <i></i> Gaming &amp; Entertainment <i></i> Geschichte</p>
+
+    <div class="cover-stage">
+    <figure class="hand hand-human">
+      <img src="assets/hand-human.png" alt="" onerror="this.closest('figure').classList.add('is-missing')">
+      <div class="hand-slot" aria-hidden="true">Foto deiner Hand<br><small>assets/hand-human.png</small></div>
+      <figcaption class="callout callout-human"><b>A</b> Mensch</figcaption>
+    </figure>
+
+    <figure class="hand hand-ai">
+      <img src="assets/hand-ai.png" alt="Weiß-goldener Roboterarm, der von rechts ins Bild greift" width="1426" height="696">
+      <figcaption class="callout callout-ai"><b>B</b> Maschine</figcaption>
+    </figure>
+    </div>
+
+    <p class="cover-page">01</p>
+  </section>
+
+  <section class="toc" id="inhalt" data-page="2" aria-labelledby="toc-title">
+    <div class="toc-head">
+      <h2 id="toc-title">Inhalt</h2>
+      <p class="toc-intro" id="toc-intro"></p>
+      <a class="bookmark-resume" id="bookmark-resume" href="#" hidden></a>
+    </div>
+    <ol class="toc-list" id="toc-list"></ol>
+    <p class="page-no">02</p>
+  </section>
+
+  <div id="chapters"></div>
+
+  <section class="chapter ch-anhang" id="anhang" aria-labelledby="anhang-title">
+    <header class="opener">
+      <p class="opener-no"><small>Kapitel</small><span id="anhang-no">4</span></p>
+      <h2 class="opener-title" id="anhang-title">Anhang</h2>
+      <p class="opener-sub">Projekte, Regal und Notizen</p>
+    </header>
+
+    <div class="appendix">
+      <section class="ledger" aria-labelledby="projekte-title">
+        <h3 id="projekte-title">Projekte</h3>
+        <ol class="ledger-list">
+          <li><span class="lbl-no">P1</span><span class="lbl-name">Spielebibliothek</span><span class="lbl-state">in Arbeit</span><span class="lbl-text">Alle meine Spiele an einem Ort, mit Status und Bewertung.</span></li>
+          <li><span class="lbl-no">P2</span><span class="lbl-name">Drop Gaming Management</span><span class="lbl-state">in Arbeit</span><span class="lbl-text">Beschreibung folgt.</span></li>
+          <li><span class="lbl-no">P3</span><span class="lbl-name">Mein Garten</span><span class="lbl-state">offen</span><span class="lbl-text">Ein großes, offenes Projekt: Beete, Pflanzen, Pläne, Saison für Saison.</span></li>
+          <li><span class="lbl-no">P4</span><span class="lbl-name">Second Brain</span><span class="lbl-state">Idee</span><span class="lbl-text">Bisher nur eine Idee: ein Ort für Wissen, Notizen und Verknüpfungen.</span></li>
+        </ol>
+      </section>
+
+      <section class="ledger" aria-labelledby="regal-title">
+        <h3 id="regal-title">Regal</h3>
+        <ol class="ledger-list">
+          <li><span class="lbl-no">R1</span><span class="lbl-name">Bücher</span><span class="lbl-state">leer</span><span class="lbl-text">Was ich lese und gelesen habe.</span></li>
+          <li><span class="lbl-no">R2</span><span class="lbl-name">Spiele</span><span class="lbl-state">leer</span><span class="lbl-text">Was ich gerade spiele.</span></li>
+          <li><span class="lbl-no">R3</span><span class="lbl-name">Filme &amp; Serien</span><span class="lbl-state">leer</span><span class="lbl-text">Was ich schaue.</span></li>
+        </ol>
+      </section>
+
+      <section class="ledger" aria-labelledby="notizen-title">
+        <h3 id="notizen-title">Fotos, Reisen, Notizen</h3>
+        <p class="ledger-empty">Noch keine Einträge. Hier landen später Fotos, Reiseberichte und kurze Notizen.</p>
+      </section>
+
+      <section class="onthisday" aria-labelledby="otd-title">
+        <h3 id="otd-title">An diesem Tag</h3>
+        <ol class="otd-list" id="otd-list"><li class="otd-wait">Wird geladen …</li></ol>
+        <p class="otd-source">Quelle: Wikipedia, „Was geschah am …“</p>
+      </section>
+    </div>
+  </section>
+
+</main>
+
+<footer class="colophon">
+  <div class="colophon-inner">
+    <p class="colophon-logo">kevin grisch</p>
+    <p>Erscheint täglich. Recherchiert und eingeschätzt von Claude, gelesen von mir.</p>
+    <nav aria-label="Fußzeile">
+      <a href="archiv.html">Archiv</a>
+      <a href="#anhang">Projekte</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="impressum.html#datenschutz">Datenschutz</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="js/heft.js"></script>
+<script src="js/edition.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "nr": 0,
+  "date": "2026-10-06",
+  "example": true,
+  "intro": "Dies ist eine Beispielausgabe. Sie zeigt, wie die tägliche Ausgabe aussieht, sobald der automatische Lauf echte Meldungen liefert. Alle Texte hier beschreiben nur das Format, es sind keine echten Nachrichten.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Beispielmeldung: So ist eine Meldung aufgebaut",
+          "lead": "Jede Meldung beginnt mit einem Vorspann von ein bis zwei Sätzen, der sagt, worum es geht.",
+          "body": [
+            "Danach folgt der ausführliche Text in mehreren Absätzen. Er wird nicht gekürzt, denn du liest die Nachrichten vor allem hier und nicht in den Quellen.",
+            "Ein Satz pro Meldung wird mit dem Textmarker hervorgehoben: der Satz, auf den es ankommt. Wer nur überfliegt, bekommt so trotzdem den Kern mit.",
+            "Absätze bleiben kurz genug, um sie auf dem Handy bequem zu lesen, und lang genug, um Zusammenhänge zu erklären."
+          ],
+          "highlight": "Ein Satz pro Meldung wird mit dem Textmarker hervorgehoben: der Satz, auf den es ankommt.",
+          "assessment": [
+            "Unter jeder Meldung steht die Einschätzung: Was bedeutet das, wie ist es einzuordnen, und warum sollte es dich interessieren?",
+            "Hier darf die Bewertung deutlich sein. Sie trennt Fakten von Meinung, weil sie optisch klar vom Meldungstext abgesetzt ist."
+          ],
+          "sources": [
+            { "name": "Quelle A (Beispiel)", "url": "https://example.com" },
+            { "name": "Quelle B (Beispiel)", "url": "https://example.com" }
+          ]
+        },
+        {
+          "title": "Beispielmeldung: Eine zweite Meldung im selben Kapitel",
+          "lead": "Mehrere Meldungen pro Kapitel bekommen fortlaufende Seitenzahlen, damit das Inhaltsverzeichnis darauf verweisen kann.",
+          "body": [
+            "Die Seitenzahl steht am Rand jeder Meldung und oben im Laufkopf. Beim Scrollen springt sie mit.",
+            "Merkt sich die Seite, wo du zuletzt gelesen hast, setzt sie dort ein Lesezeichen. Beim nächsten Besuch kannst du direkt dorthin springen."
+          ],
+          "highlight": "Merkt sich die Seite, wo du zuletzt gelesen hast, setzt sie dort ein Lesezeichen.",
+          "assessment": [
+            "Das Lesezeichen wird nur in deinem Browser gespeichert. Auf einem anderen Gerät beginnt das Heft wieder vorne."
+          ],
+          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Beispielmeldung: Das Gaming-Kapitel",
+          "lead": "Gaming und Entertainment bekommen ein eigenes Kapitel mit eigener Farbe.",
+          "body": [
+            "Hier landen Spiele, Konsolen, Studios, Filme und Serien. Der automatische Lauf sortiert jede Meldung in genau ein Kapitel.",
+            "Wenn an einem Tag in einem Kapitel nichts Wichtiges passiert, bleibt es kurz oder entfällt. Das Inhaltsverzeichnis passt sich an."
+          ],
+          "highlight": "Der automatische Lauf sortiert jede Meldung in genau ein Kapitel.",
+          "assessment": [
+            "Die Einschätzung kann hier auch persönlich werden: Lohnt sich ein Spiel für dich, passt es in deine Spielebibliothek?"
+          ],
+          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Beispielmeldung: Das Geschichtskapitel",
+          "lead": "Archäologische Funde, Forschung, Jahrestage und neue Bücher.",
+          "body": [
+            "Geschichtsmeldungen brauchen oft mehr Hintergrund als Technikmeldungen. Deshalb dürfen sie länger sein und Zusammenhänge über Jahrhunderte erklären.",
+            "Am Ende des Hefts steht zusätzlich, was an diesem Kalendertag in der Geschichte geschah. Diese Liste kommt live aus Wikipedia."
+          ],
+          "highlight": "Geschichtsmeldungen brauchen oft mehr Hintergrund als Technikmeldungen.",
+          "assessment": [
+            "In der Einschätzung lohnt sich oft der Bogen in die Gegenwart: Was lernen wir daraus für heute?"
+          ],
+          "sources": [{ "name": "Quelle (Beispiel)", "url": "https://example.com" }]
+        }
+      ]
+    }
+  ]
+}

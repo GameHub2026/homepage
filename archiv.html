@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archiv · kevin grisch</title>
+  <meta name="description" content="Alle bisherigen Tagesausgaben, durchsuchbar.">
+  <meta name="theme-color" content="#EEEDE9">
+  <link rel="preload" href="fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="runhead">
+  <a href="./" class="runhead-logo">kevin grisch</a>
+  <p class="runhead-issue">Archiv aller Hefte</p>
+  <p class="runhead-page"><span>S.</span> <b id="runhead-page">01</b></p>
+</header>
+
+<nav class="tabs" aria-label="Kapitel">
+  <a class="tab" href="./#kapitel-ki" data-ch="ki">KI</a>
+  <a class="tab" href="./#kapitel-gaming" data-ch="gaming">Gaming</a>
+  <a class="tab" href="./#kapitel-geschichte" data-ch="geschichte">Geschichte</a>
+  <a class="tab" href="./#anhang" data-ch="anhang">Anhang</a>
+  <a class="tab is-active" href="archiv.html" data-ch="archiv" aria-current="page">Archiv</a>
+</nav>
+
+<main data-page="1">
+  <section class="archive-head">
+    <div>
+      <h1>Archiv</h1>
+      <p id="archive-sum">Jedes Heft bleibt erhalten.</p>
+    </div>
+    <div class="search">
+      <label for="q">Suchen</label>
+      <input id="q" type="search" placeholder="Stichwort, z. B. Nintendo" autocomplete="off">
+    </div>
+  </section>
+
+  <div class="register" id="register" aria-live="polite"></div>
+</main>
+
+<footer class="colophon">
+  <div class="colophon-inner">
+    <p class="colophon-logo">kevin grisch</p>
+    <p>Erscheint täglich. Recherchiert und eingeschätzt von Claude, gelesen von mir.</p>
+    <nav aria-label="Fußzeile">
+      <a href="./">Aktuelles Heft</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="impressum.html#datenschutz">Datenschutz</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="js/heft.js"></script>
+<script>
+(async () => {
+  const { esc, pad, fmtShort, getJSON, ORDER, CHAPTERS } = Heft;
+  const reg = document.getElementById("register");
+  const q = document.getElementById("q");
+  let index = [];
+  try { index = await getJSON("data/editions/index.json"); }
+  catch { reg.innerHTML = `<p class="state-note"><strong>Archiv nicht erreichbar.</strong>Die Liste der Hefte konnte nicht geladen werden.</p>`; return; }
+
+  const total = index.reduce((n, e) => n + Object.values(e.counts || {}).reduce((a, b) => a + b, 0), 0);
+  document.getElementById("archive-sum").textContent =
+    `${index.length} ${index.length === 1 ? "Heft" : "Hefte"} mit ${total} Meldungen. Jedes Heft bleibt erhalten.`;
+
+  const row = e => `<a class="register-row" href="./?d=${e.date}">
+      <span class="nr">${pad(e.nr, 3)}</span>
+      <span class="when">${esc(fmtShort(e.date))}${e.example ? "<small>Beispielausgabe</small>" : ""}</span>
+      <span class="register-title">${esc(e.titles?.[0] || "")}${e.titles?.length > 1 ? `<em>und ${e.titles.length - 1} weitere</em>` : ""}</span>
+      <span class="counts">${ORDER.map(k => {
+        const n = e.counts?.[k] || 0;
+        return `<span class="ch-${k}${n ? "" : " zero"}" title="${CHAPTERS[k].name}: ${n}">${n}</span>`;
+      }).join("")}</span>
+    </a>`;
+
+  const draw = () => {
+    const term = q.value.trim().toLowerCase();
+    const hits = term ? index.filter(e => (e.titles || []).some(t => t.toLowerCase().includes(term)) || e.date.includes(term)) : index;
+    reg.innerHTML = hits.length ? hits.map(row).join("")
+      : `<p class="state-note"><strong>Nichts gefunden.</strong>Kein Heft enthält „${esc(q.value)}“ in einer Überschrift.</p>`;
+  };
+  q.addEventListener("input", draw);
+  draw();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+# private Arbeitsdateien, nicht öffentlich
+.claude/
+.impeccable/
+PRODUCT.md
+DESIGN.md
+assets/hand-ai-original.webp
+.DS_Store
