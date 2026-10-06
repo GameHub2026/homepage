@@ -459,7 +459,7 @@ mark.is-drawn { background-size: 100% 100%; }
   min-width: 34px; padding: 4px 8px; text-align: center;
   background: var(--ch); color: var(--ch-on); font: 700 13px var(--display); font-stretch: 80%;
 }
-.counts span.zero { background: transparent; color: var(--rule); box-shadow: inset 0 0 0 1px var(--rule); }
+.counts span.zero { background: transparent; color: var(--ink-2); box-shadow: inset 0 0 0 1px var(--ink-2); }
 
 /* ---------- Impressum ---------- */
 .legal { max-width: var(--measure); padding: clamp(48px, 9vh, 104px) var(--gutter); }
