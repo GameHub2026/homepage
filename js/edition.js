@@ -17,7 +17,7 @@
     const date = fmtLong(ed.date);
     document.title = `${issueNo(ed.nr)} · ${date} · kevin grisch`;
     $("runhead-issue").textContent = `${issueNo(ed.nr)} · ${date}`;
-    $("cover-meta").innerHTML = `${esc(issueNo(ed.nr))} · ${esc(date)}${ed.example ? `<span class="tag-example">Beispielausgabe</span>` : ""}`;
+    $("tag-example").hidden = !ed.example;
     $("toc-intro").textContent = ed.intro || "";
 
     const sections = ORDER
@@ -36,7 +36,7 @@
         <ol class="toc-items">`;
       html += `<section class="chapter ch-${sec.category}" id="${chId}" data-chapter="${sec.category}" aria-labelledby="${chId}-t">
         <header class="opener" data-page="${page}">
-          <p class="opener-no"><small>Kapitel</small><span>${ci + 1}</span></p>
+          <p class="opener-no" aria-label="Kapitel ${ci + 1}"><span>${ci + 1}</span></p>
           <h2 class="opener-title" id="${chId}-t">${esc(ch.name)}</h2>
           <p class="opener-sub">${n} ${n === 1 ? "Meldung" : "Meldungen"}</p>
         </header>`;
@@ -74,6 +74,7 @@
     anhang.dataset.chapter = "anhang";
     anhang.querySelector(".opener").dataset.page = page;
     $("anhang-no").textContent = sections.length + 1;
+    $("anhang-no").parentElement.setAttribute("aria-label", `Kapitel ${sections.length + 1}`);
 
     const present = new Set(sections.map(s => s.category));
     document.querySelectorAll(".tab").forEach(t => {
@@ -130,6 +131,9 @@
     });
   }
 
+  // Wikipedia-Texte enthalten gelegentlich Reste von Link-Markup.
+  const cleanWiki = t => String(t).replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g, "$1").replace(/\s*\|\s*/g, " ").replace(/\s{2,}/g, " ").trim();
+
   async function onThisDay(iso) {
     const list = $("otd-list");
     const [, mm, dd] = iso.split("-");
@@ -137,7 +141,7 @@
       const data = await getJSON(`https://api.wikimedia.org/feed/v1/wikipedia/de/onthisday/selected/${mm}/${dd}`);
       const events = (data.selected || []).slice(0, 5);
       if (!events.length) throw new Error("leer");
-      list.innerHTML = events.map(e => `<li><span class="y">${esc(e.year)}</span><span>${esc(e.text)}</span></li>`).join("");
+      list.innerHTML = events.map(e => `<li><span class="y">${esc(e.year)}</span><span>${esc(cleanWiki(e.text))}</span></li>`).join("");
     } catch {
       list.innerHTML = `<li class="otd-wait">Wikipedia ist gerade nicht erreichbar. Beim nächsten Laden klappt es meist wieder.</li>`;
     }
