@@ -228,7 +228,12 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   font: 600 11px var(--display); letter-spacing: .18em; text-transform: uppercase; color: var(--ink-2);
   display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px 8px;
 }
-.strip-label .tag-example { font-size: 11px; letter-spacing: .1em; }
+.tag-example {
+  display: inline-block; padding: 2px 8px;
+  background: var(--marker); color: var(--ink);
+  font-weight: 700; font-size: 11px; text-transform: uppercase; letter-spacing: .1em;
+}
+.tag-example[hidden] { display: none; }
 .strip-items { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 14px; margin-top: 12px; }
 .strip-items a {
   display: inline-flex; align-items: center; gap: 10px; text-decoration: none;
@@ -551,4 +556,6 @@ mark.is-drawn { background-size: 100% 100%; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: 0s !important; animation: none !important; }
   mark { background-size: 100% 100%; }
+  /* Das Sicherheitsnetz des Intros muss auch hier laufen. */
+  .intro { animation: intro-failsafe .01s linear 4s forwards !important; }
 }
