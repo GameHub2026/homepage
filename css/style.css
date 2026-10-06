@@ -203,31 +203,28 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   max-width: 46ch; font: 400 16px/1.55 var(--display); color: var(--ink-2);
   margin-bottom: 26px;
 }
-/* Mensch (links) greift zur offenen KI-Hand (rechts), dazwischen schwebt die Kugel.
-   Mensch: 1437×503, Zeigefingerspitze bei (98,8 %, 52 %).
-   KI: 1388×484, vorderste Fingerspitzen bei (1,2 %, 30–35 %).
-   Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt; beide Arme reichen bis zum Rand.
-   Die Textmitte liegt eine halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
+/* Mensch (links) legt die Hand in die offene linke KI-Hand (rechts), dazwischen die Kugel.
+   Mensch: 1437×503, Zeigefingerspitze bei (98,8 %, 52 %), Hand = 46 % der Bildbreite.
+   KI:     1903×552, vorderste Fingerspitze bei (0,5 %, 38 %), Hand = 43 % der Bildbreite.
+   Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt; die Textmitte liegt eine
+   halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
 .hero-stage {
   position: relative; flex: none;
   container-type: inline-size;
   width: calc(100% + 2 * var(--gutter) + var(--tab-w));
   margin: clamp(28px, 5vh, 64px) calc(-1 * (var(--gutter) + var(--tab-w))) 0 calc(-1 * var(--gutter));
   --shift: calc(var(--tab-w) / 2);
-  --c: calc(50cqw - var(--shift));          /* Textmitte */
-  --gap: 15.5cqw;                            /* Abstand jeder Fingerspitze zur Mitte */
-  --bleed: 3cqw;                             /* KI-Arm ragt so weit über den rechten Rand */
-  /* KI: Fingerspitze reicht bis --gap vor die Mitte, Arm bis über den Rand. */
-  --wa: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .988);
-  --ha: calc(var(--wa) / 2.868);
-  /* Gleich große Hände: Die Hand (Handgelenk bis Fingerspitze) nimmt beim Menschen
-     46 % der Bildbreite ein, bei der KI 55 %. Deshalb ist das Menschenbild breiter. */
-  --wh: calc(var(--wa) * .55 / .46);
+  --c: calc(50cqw - var(--shift));
+  --gap: 15.5cqw;
+  --bleed: 15cqw;                                                         /* langer KI-Unterarm ragt über den Rand */
+  --wa: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .995);
+  --ha: calc(var(--wa) / 3.447);
+  --wh: calc(var(--wa) * .43 / .46);                                      /* gleich lange Hände */
   --hh: calc(var(--wh) / 2.857);
   --human-left: calc(var(--c) - var(--gap) - .988 * var(--wh));
-  --top: 6.5cqw;
-  --tip-h: calc(var(--top) + .06 * var(--ha));    /* Fingerspitze Mensch, höher als die KI-Hand */
-  --tip-a: calc(var(--top) + .33 * var(--ha));    /* Fingerspitzen KI */
+  --top: 6cqw;
+  --tip-h: calc(var(--top) + .14 * var(--ha));                            /* Mensch etwas höher */
+  --tip-a: calc(var(--top) + .38 * var(--ha));
   --globe: clamp(64px, calc(var(--gap) * .72), 230px);
   height: calc(var(--top) + var(--ha) + 1.5cqw);
 }
@@ -547,7 +544,7 @@ mark.is-drawn { background-size: 100% 100%; }
   .hero { margin-right: 0; padding-right: var(--gutter); }
   .hero-stage {
     width: calc(100% + 2 * var(--gutter)); margin-right: calc(-1 * var(--gutter));
-    --shift: 0px; --bleed: 14cqw; --gap: 15cqw; --top: 9cqw; --globe: calc(var(--gap) * 1.05);
+    --shift: 0px; --bleed: 34cqw; --gap: 15cqw; --top: 9cqw; --globe: calc(var(--gap) * 1.05);
     height: calc(var(--top) + var(--ha) + 3cqw);
   }
   .strip-items { gap: 6px 8px; }
