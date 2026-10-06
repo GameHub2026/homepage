@@ -206,49 +206,30 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   position: relative; flex: 1;
   width: calc(100% + 2 * var(--gutter) + var(--tab-w));
   margin-left: calc(-1 * var(--gutter)); margin-right: calc(-1 * (var(--gutter) + var(--tab-w)));
-  margin-top: clamp(8px, 2vh, 20px);
+  margin-top: clamp(24px, 4.5vh, 56px);
   min-height: clamp(220px, 34vh, 420px); margin-top: clamp(8px, 2vh, 24px);
 }
-/* Die menschliche Hand senkt sich in die offene KI-Hand.
+/* Mensch (links) greift zur offenen KI-Hand (rechts), dazwischen schwebt die Kugel.
    Mensch: 1437×503, Zeigefingerspitze bei (98,8 %, 52 %).
-   KI: 1388×484, vorderste Fingerspitzen bei x 1,2 %, Daumenspitze (24,2 %, 3 %).
-   Die Fingerspitze des Menschen landet bei 10 % / 12 % der KI-Hand. */
+   KI: 1388×484, vorderste Fingerspitzen bei (1,2 %, 35 %).
+   Beide Fingerspitzen liegen --gap von der Mitte entfernt, beide Arme reichen bis zum Rand. */
 .hero-stage {
   container-type: inline-size;
   --bleed: 3cqw;
-  --wh: 54cqw;                                                      /* Breite Mensch */
-  --wa: calc((100cqw + 2 * var(--bleed) - .988 * var(--wh)) / .9);  /* Breite KI, reicht bis zum Rand */
-  --ai-top: 7.6cqw;                                                 /* Platz für Kugel und Unterarm */
-  flex: none; min-height: 0; height: 27.8vw;
+  --gap: 12cqw;
+  --w: calc((50cqw - var(--gap) + var(--bleed)) / .988);
+  --h: calc(var(--w) / 2.86);
+  --ai-top: 4cqw;
+  flex: none; min-height: 0; height: calc(4vw + (50vw - 12vw + 3vw) / .988 / 2.86 + 1vw);
 }
-.hand { position: absolute; margin: 0; pointer-events: none; }
+.hand { position: absolute; margin: 0; pointer-events: none; width: var(--w); }
 .hand img { display: block; width: 100%; height: auto; max-width: none; }
-.hand-human {
-  width: var(--wh); left: calc(-1 * var(--bleed));
-  top: calc(var(--ai-top) + .12 * var(--wa) / 2.868 - .52 * var(--wh) / 2.857);
-  z-index: 2;
-}
-.hand-ai {
-  width: var(--wa); left: calc(.988 * var(--wh) - var(--bleed) - .10 * var(--wa));
-  top: var(--ai-top);
-}
+.hand-human { left: calc(-1 * var(--bleed)); top: calc(var(--ai-top) + .25 * var(--h) - .52 * var(--h)); }
+.hand-ai { right: calc(-1 * var(--bleed)); top: var(--ai-top); }
 .hero-globe {
-  position: absolute; left: 45%; bottom: 72%;
-  width: 17%; aspect-ratio: 1; transform: translateX(-50%);
-}
-.hero-wren {
-  /* blickt nach links, zum Menschen */
-  --sz: clamp(26px, calc(.058 * var(--wa)), 62px);
-  position: absolute; width: var(--sz); height: var(--sz);
-  left: calc(24.4% - .5 * var(--sz)); top: calc(.03 * var(--wa) / 2.868 - .79 * var(--sz));
-  color: var(--ink); transform-origin: 50% 80%; transform: scaleX(-1);
-  animation: wren-hop 7s ease-in-out infinite;
-}
-@keyframes wren-hop {
-  0%, 86%, 100% { transform: scaleX(-1); }
-  89% { transform: scaleX(-1) translateY(-14%) rotate(-4deg); }
-  92% { transform: scaleX(-1); }
-  95% { transform: scaleX(-1) rotate(3deg); }
+  position: absolute; left: 50%; top: calc(var(--ai-top) + .26 * var(--h));
+  width: calc(var(--gap) * 1.32); aspect-ratio: 1;
+  transform: translate(-50%, -50%);
 }
 
 .hero-strip { width: 100%; padding: 18px 0 26px; position: relative; z-index: 2; }
@@ -550,14 +531,13 @@ mark.is-drawn { background-size: 100% 100%; }
   .tab:hover { transform: translateY(6px); }
   .tab.is-active { transform: translateY(0); }
 
-  .hero { min-height: calc(100svh - var(--head-h) - 60px); padding-top: 36px; }
+  .hero { min-height: 0; padding-top: 36px; }
   .hero-title { font-size: clamp(30px, 8.6vw, 40px); }
   .hero-title br { display: none; }
   .hero-sub { font-size: 15px; }
   .hero-stage { min-height: 200px; }
   .hero { margin-right: 0; padding-right: var(--gutter); }
-  .hero-stage { --bleed: 20cqw; --wh: 72cqw; --ai-top: 10.5cqw; height: 37.5vw; margin-right: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); }
-  .hero-wren { --sz: 26px; }
+  .hero-stage { --bleed: 14cqw; --gap: 13cqw; --ai-top: 8cqw; height: calc(8vw + (50vw - 13vw + 14vw) / .988 / 2.86 + 2vw); margin-right: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); }
   .strip-items { gap: 6px 8px; }
   .strip-label #runhead-issue { display: none; }
   .strip-items a { font-size: 14px; }
