@@ -178,16 +178,18 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
 .cover-stage {
   position: relative; align-self: end;
   width: calc(100% + 2 * var(--gutter)); margin-inline: calc(-1 * var(--gutter));
-  height: clamp(220px, 36vh, 380px); margin-top: clamp(12px, 3vh, 32px);
+  height: clamp(240px, 38vh, 400px); margin-top: clamp(12px, 3vh, 32px);
 }
-.hand { position: absolute; bottom: clamp(16px, 4vh, 48px); pointer-events: none; }
-.hand-ai { right: -2vw; height: 82%; }
-.hand-ai img { height: 100%; width: auto; max-width: none; }
-.hand-human { left: 0; height: 70%; width: calc(58% - 120px); }
-.hand-human img { height: 100%; width: auto; max-width: none; }
+/* Beide Hände hängen an der Bühnenmitte, damit sich die Fingerspitzen
+   bei jeder Breite gleich nah kommen. Fingerspitze Mensch: 52 % der Bildhöhe,
+   Fingerspitze KI: 4 % der Bildhöhe. */
+.hand { position: absolute; pointer-events: none; margin: 0; }
+.hand img { height: 100%; width: auto; max-width: none; }
+.hand-human { right: calc(50% + clamp(28px, 4vw, 64px)); top: 0; height: 80%; }
+.hand-ai { left: calc(50% + clamp(28px, 4vw, 64px)); top: 37.6%; height: 80%; }
 .hand-slot { display: none; }
 .hand-human.is-missing img { display: none; }
-.hand-human.is-missing { height: auto; bottom: auto; top: 6%; }
+.hand-human.is-missing { height: auto; width: 40%; right: auto; left: 0; top: 18%; }
 .hand-human.is-missing .hand-slot {
   display: grid; place-content: center; gap: 2px;
   height: clamp(72px, 9vh, 104px);
@@ -212,10 +214,10 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   transform-origin: left center;
 }
 .callout { flex-direction: row; }
-.callout-ai { bottom: calc(100% + 22px); left: 34%; }
-.callout-ai::after { left: 12px; top: 24px; width: 1px; height: 30px; }
-.callout-human { bottom: calc(100% + 22px); right: 22%; }
-.callout-human::after { left: 12px; top: 24px; width: 1px; height: 30px; }
+.callout-ai { bottom: calc(100% + 14px); left: 14%; }
+.callout-ai::after { left: 12px; top: 24px; width: 1px; height: 22px; }
+.callout-human { top: calc(100% - 4px); right: 30%; }
+.callout-human::after { left: 12px; top: -22px; width: 1px; height: 22px; }
 
 .cover-page, .page-no {
   position: absolute; bottom: 14px; right: var(--gutter);
@@ -490,19 +492,15 @@ mark.is-drawn { background-size: 100% 100%; }
 
   .cover { min-height: 0; padding-bottom: 8px; }
   .cover-stage { height: 260px; margin-top: 8px; }
-  .hand-ai { bottom: auto; top: 10px; height: 64%; right: -16vw; }
-  .hand-human { width: 46%; }
-  .hand-human.is-missing { top: auto; bottom: 44px; }
+  .hand-human { height: 36%; top: 26%; right: calc(50% + 14px); }
+  .hand-ai { height: 50%; top: 42%; left: calc(50% + 14px); }
   .hand-human.is-missing .hand-slot { height: 56px; font-size: 11px; }
   .hand-slot small { display: none; }
-  .hand-ai { right: -22vw; height: 78%; bottom: 24px; }
-  .hand-human { width: 44vw; }
   .callout { font-size: 11px; }
-  .callout-ai { left: 30%; bottom: calc(100% + 14px); }
-  .callout-human { right: auto; left: 16px; bottom: auto; top: calc(100% + 12px); }
+  .callout-human { right: 34%; top: calc(100% + 2px); }
   .callout-human::after { top: -12px; height: 12px; }
-  .callout-ai { bottom: auto; top: -4px; left: auto; right: 30%; }
-  .callout-ai::after { display: none; }
+  .callout-ai { left: 4%; bottom: calc(100% + 8px); }
+  .callout-ai::after { height: 10px; }
 
   .toc { grid-template-columns: 1fr; }
   .opener { grid-template-columns: 1fr; }
