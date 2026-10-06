@@ -2,6 +2,10 @@
 <html lang="de">
 <head>
   <meta charset="utf-8">
+  <script>
+    // Das Intro läuft nur nach Alt+R (siehe js/intro.js), nicht bei jedem Laden.
+    try { if (sessionStorage.getItem("wrenfell-intro")) { sessionStorage.removeItem("wrenfell-intro"); document.documentElement.classList.add("play-intro"); } } catch (e) {}
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Wrenfell</title>
   <meta name="description" content="Wrenfell, Kevins tägliches Heft: KI & Technologie, Gaming & Entertainment, Geschichte. Dazu Projekte, Regal und Notizen.">
@@ -10,7 +14,7 @@
   <link rel="preload" href="fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/caveat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="assets/wren.svg?v=1cc50a75" type="image/svg+xml">
-  <link rel="stylesheet" href="css/style.css?v=564475dc">
+  <link rel="stylesheet" href="css/style.css?v=6f814926">
 </head>
 <body>
 
@@ -155,7 +159,7 @@
   </div>
 </footer>
 
-<script src="js/intro.js?v=0c6e49db"></script>
+<script src="js/intro.js?v=e9eae449"></script>
 <script src="js/heft.js?v=0cdc1999"></script>
 <script src="js/edition.js?v=149878d7"></script>
 <script src="js/globe.js?v=28b05349"></script>

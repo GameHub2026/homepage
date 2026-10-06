@@ -1,9 +1,21 @@
 // Intro: Ein Funke wird zur Tintenflamme, die Flamme zum Zaunkönig,
 // dann erscheint „Wrenfell“ und das Logo fliegt in den Header (rund 3,5 s).
+// Läuft nur nach Alt+R, nicht beim normalen Laden oder Neuladen.
 (() => {
+  // Alt+R (Mac: Option+R) lädt die Seite neu und spielt dabei das Intro ab.
+  addEventListener("keydown", e => {
+    if (e.altKey && !e.metaKey && !e.ctrlKey && e.code === "KeyR") {
+      e.preventDefault();
+      try { sessionStorage.setItem("wrenfell-intro", "1"); } catch {}
+      location.reload();
+    }
+  });
+
   const intro = document.getElementById("intro");
   if (!intro) return;
-  if (new URLSearchParams(location.search).has("nointro")) { intro.remove(); return; }
+  const params = new URLSearchParams(location.search);
+  if (params.has("introframe")) document.documentElement.classList.add("play-intro");
+  if (!document.documentElement.classList.contains("play-intro")) { intro.remove(); return; }
   const $ = id => document.getElementById(id);
   const lockup = $("intro-lockup"), word = $("intro-word"), brand = $("brand");
   const noise = $("ink-noise"), disp = $("ink-disp"), blur = $("ink-blur");
