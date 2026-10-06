@@ -210,13 +210,13 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
 /* Beide Arme kommen aus dem Bildrand und treffen sich auf der Linie --tip.
    Fingerspitze Mensch: 52 % der Bildhöhe (Seitenverhältnis 2,86),
    Fingerspitze KI: 4 % der Bildhöhe (Seitenverhältnis 2,05). */
-.hero-stage { container-type: inline-size; --w: clamp(220px, 37cqw, 680px); --bleed: 3cqw; --tip: 50%; }
+.hero-stage { container-type: inline-size; --w: clamp(260px, 44cqw, 780px); --bleed: 3cqw; --tip-h: 36%; --tip-ai: 54%; }
 .hand { position: absolute; margin: 0; pointer-events: none; width: var(--w); }
 .hand img { width: 100%; height: auto; max-width: none; }
-.hand-human { left: calc(-1 * var(--bleed)); top: calc(var(--tip) - var(--w) * .1818); }
-.hand-ai { right: calc(-1 * var(--bleed)); top: calc(var(--tip) - var(--w) * .0195); }
+.hand-human { left: calc(-1 * var(--bleed)); top: calc(var(--tip-h) - var(--w) * .1818); }
+.hand-ai { right: calc(-1 * var(--bleed)); top: calc(var(--tip-ai) - var(--w) * .0195); }
 .hero-wren {
-  position: absolute; left: 50%; top: var(--tip);
+  position: absolute; left: 50%; top: calc((var(--tip-h) + var(--tip-ai)) / 2);
   width: clamp(36px, 4.4cqw, 62px); height: clamp(36px, 4.4cqw, 62px);
   color: var(--ink); transform: translate(-50%, -64%);
   animation: wren-hover 5s ease-in-out infinite;
@@ -527,7 +527,7 @@ mark.is-drawn { background-size: 100% 100%; }
   .hero-title br { display: none; }
   .hero-sub { font-size: 15px; }
   .hero-stage { min-height: 200px; }
-  .hero-stage { --w: 50cqw; --bleed: 6cqw; --tip: 44%; margin-right: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); }
+  .hero-stage { --w: 54cqw; --bleed: 6cqw; --tip-h: 34%; --tip-ai: 50%; margin-right: calc(-1 * var(--gutter)); width: calc(100% + 2 * var(--gutter)); }
   .strip-items { gap: 6px 8px; }
   .strip-label #runhead-issue { display: none; }
   .strip-items a { font-size: 14px; }
