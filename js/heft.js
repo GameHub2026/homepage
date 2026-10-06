@@ -63,3 +63,17 @@ const Heft = (() => {
   addEventListener("scroll", on, { passive: true });
   on();
 })();
+
+// Nach-oben-Button: erscheint erst nach etwas Scrollen.
+(() => {
+  const b = document.getElementById("to-top");
+  if (!b) return;
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const on = () => { b.hidden = scrollY < 700; };
+  addEventListener("scroll", on, { passive: true });
+  on();
+  b.addEventListener("click", () => {
+    scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
+    history.replaceState(null, "", location.pathname + location.search);
+  });
+})();
