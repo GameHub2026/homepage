@@ -1,5 +1,30 @@
 [
  {
+  "nr": 2,
+  "date": "2026-10-07",
+  "counts": {
+   "ki": 5,
+   "gaming": 4,
+   "geschichte": 5
+  },
+  "titles": [
+   "Mistral Large 4: Europas Billionen-Modell kommt mit offenen Gewichten",
+   "Anthropic öffnet seine Cyber-Modelle für geprüfte Verteidiger",
+   "KI-Firmen verweigern in New York eine Sicherheitsgarantie",
+   "Google finanziert Leistungssteigerung in elf Atomreaktoren",
+   "Meta und Sierra wollen eine gemeinsame Tür für KI-Agenten bauen",
+   "Ninja Theory: Bei den Hellblade-Machern laufen die Entlassungen",
+   "Supermassive Games entlässt mehr als 70 Beschäftigte",
+   "Sega: KI ja, aber nicht für die kreative Arbeit an Spielen",
+   "Ex-PlayStation-Chef Layden: Abschied von Discs schadet der Marke",
+   "Erster Siegelring mit dem Leuchtturm von Alexandria gefunden",
+   "Wurden die Diener der ersten Pharaonen getötet? Schädel liefern neue Hinweise",
+   "Mehr als 1.000 Knochenwürfel in römischer Stadt in Frankreich",
+   "Krieger mit Goldmaske: reiches Grab am Ohridsee entdeckt",
+   "Haupttor des römischen Legionslagers Apulum entdeckt"
+  ]
+ },
+ {
   "nr": 1,
   "date": "2026-10-06",
   "counts": {

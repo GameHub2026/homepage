@@ -1,0 +1,433 @@
+{
+ "nr": 2,
+ "date": "2026-10-07",
+ "intro": "Heute geht es viel um Kontrolle: Mistral will ein Billionen-Modell mit offenen Gewichten freigeben, während Anthropic seine Cyberfähigkeiten nur geprüften Verteidigern öffnet und die KI-Firmen in New York keine Sicherheitsgarantie abgeben wollen. Im Gaming-Teil dominieren Entlassungen bei Ninja Theory und Supermassive. In der Geschichte reicht der Bogen vom Leuchtturm von Alexandria bis zu den Opfern an den Gräbern der ersten Pharaonen.",
+ "sections": [
+  {
+   "category": "ki",
+   "items": [
+    {
+     "title": "Mistral Large 4: Europas Billionen-Modell kommt mit offenen Gewichten",
+     "lead": "Das französische KI-Unternehmen Mistral hat mit Large 4 sein bislang größtes Modell vorgestellt. Es hat eine Billion Parameter, ist ab sofort als Vorschau per API nutzbar und soll Ende Oktober mit offenen Gewichten erscheinen.",
+     "body": [
+      "Mistral AI hat am 6. Oktober Mistral Large 4 vorgestellt. Das Modell hat insgesamt eine Billion Parameter, von denen bei jeder Anfrage 49 Milliarden aktiv sind. Technisch ist es ein Mixture-of-Experts-Modell, also ein Netz aus vielen spezialisierten Teilnetzen, von denen jeweils nur einige rechnen. Es verarbeitet von Haus aus Text und Bilder und vereint einen normalen Antwortmodus mit einem Denkmodus für schwierigere Aufgaben.",
+      "Trainiert wurde Large 4 nach Angaben des Unternehmens von Grund auf auf 3.800 Nvidia-Grace-Blackwell-GPUs in Mistrals eigenen europäischen Rechenzentren. Die Trainingsdaten umfassen mehr als 160 Sprachen, darunter alle Amtssprachen der EU. Für das Feintuning per Reinforcement Learning nutzte Mistral dieselbe Umgebung, die es Kunden über sein Produkt Forge anbietet.",
+      "Besonders hervorgehoben wird die Cybersicherheit. Mistral nennt das Modell eines der weltweit stärksten in diesem Bereich: Auf dem Cyber-Index von Artificial Analysis liege es unter den besten fünf, im Test Cybench erreiche es 93 Prozent. Beim Programmieren kommt es laut Mistral auf 61,7 Prozent im Benchmark DeepSWE. Das Unternehmen betont außerdem, das Modell erreiche diese Fähigkeiten, ohne durch dieselben Verweigerungen eingeschränkt zu sein wie geschlossene Konkurrenzmodelle.",
+      "Die Vorschau ist ab sofort über Mistrals API verfügbar. Der Preis liegt bei 1,36 Dollar pro Million Eingabe-Token und 4,18 Dollar pro Million Ausgabe-Token. Die offenen Gewichte, mit denen jeder das Modell selbst betreiben kann, sollen Ende Oktober folgen.",
+      "Zum Vergleich: Der Vorgänger Mistral Large 3 vom Dezember 2025 hatte 675 Milliarden Parameter, davon 41 Milliarden aktiv. Mistral hat seine Modellgröße damit in weniger als einem Jahr deutlich gesteigert und positioniert sich weiter als europäische, offen zugängliche Alternative zu den großen US-Anbietern."
+     ],
+     "highlight": "Die offenen Gewichte, mit denen jeder das Modell selbst betreiben kann, sollen Ende Oktober folgen.",
+     "assessment": [
+      "Ein offenes Modell mit einer Billion Parametern aus Europa ist ein echtes Signal. Lange galt Mistral als sympathischer, aber kleinerer Mitspieler. Mit Large 4 und eigenen Rechenzentren zeigt das Unternehmen, dass es in der Größenklasse der Spitzenmodelle mitrechnet, und das zu Preisen, die deutlich unter denen der US-Konkurrenz liegen.",
+      "Heikel ist die Werbung mit Cyberfähigkeiten ohne Verweigerungen. Während Anthropic am selben Tag erklärt, warum es solche Fähigkeiten nur geprüften Organisationen freischaltet, will Mistral die Gewichte für alle veröffentlichen. Das ist die alte Debatte zwischen Offenheit und Kontrolle, nur dass die Modelle inzwischen gut genug sind, dass die Antwort wirklich zählt. Die Benchmarks stammen außerdem vom Hersteller selbst und müssen sich erst in unabhängigen Tests bestätigen."
+     ],
+     "sources": [
+      {
+       "name": "Mistral AI",
+       "url": "https://mistral.ai/news/mistral-large-4/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Arthur_Mensch.jpg",
+      "alt": "Mistral-Chef Arthur Mensch bei einem Auftritt auf der Slush-Konferenz",
+      "credit": "Slush",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur_Mensch.jpg"
+     }
+    },
+    {
+     "title": "Anthropic öffnet seine Cyber-Modelle für geprüfte Verteidiger",
+     "lead": "Anthropic baut sein Cyber Verification Program aus und fasst darin das bisherige Project Glasswing zusammen. Sicherheitsteams, Pentester und Betreiber kritischer Infrastruktur bekommen je nach Prüfstufe Zugriff auf die Modelle mit weniger Sperren.",
+     "body": [
+      "Anthropic hat am 6. Oktober eine Erweiterung seines Cyber Verification Program angekündigt. Das Programm regelt, wer die Claude-Modelle für sicherheitsrelevante Aufgaben nutzen darf, die für normale Nutzer gesperrt sind. Es umfasst nun drei Stufen und schließt die bisherige Initiative Project Glasswing ein, in der seit April ausgewählte Partner mit dem Modell Mythos nach Schwachstellen in wichtiger Software suchten.",
+      "Die erste Stufe heißt Defense Access und richtet sich an alle, die defensiv arbeiten: Sicherheitsteams in Unternehmen, Behörden, Universitäten, gemeinnützige Organisationen, Betreiber kritischer Infrastruktur, Open-Source-Maintainer und auch einzelne Forscher. Sie erlaubt etwa Incident Response, Malware-Analyse und Schwachstellenprüfung. Anträge sollen innerhalb von Tagen bearbeitet werden.",
+      "Die zweite Stufe, Red Team Access, erlaubt zusätzlich autorisierte Penetrationstests. Sie steht nur Organisationen offen, nicht Einzelpersonen, und die Prüfung dauert Wochen. Auch hier bleiben Handlungen gesperrt, die physischen Schaden oder massenhafte Störungen verursachen könnten. Die dritte Stufe, Specialized Access, hat die wenigsten Sperren und ist für Organisationen gedacht, die Systeme testen, von denen Leben oder Märkte abhängen, etwa Flugsysteme, Stromnetze, Telekommunikation oder Interbanken-Infrastruktur. Diese Anträge prüft Anthropic derzeit gemeinsam mit der US-Regierung.",
+      "Zur Begründung nennt Anthropic Zahlen aus Glasswing: Zwischen April und Juli 2026 hätten die Partner mehr als 129.000 verifizierte Software-Schwachstellen gefunden, Anthropics eigene Scans von Open-Source-Projekten kamen auf weitere 5.500. Über 33.000 davon gelten als kritisch oder hoch. Alle Stufen umfassen die aktuellen Modelle Claude Opus 5.5, Sonnet 5.5 und Mythos 5.1.",
+      "Das Unternehmen veröffentlichte auch Tests der eigenen Sperren: In 50 Durchläufen eines Angriffsszenarios wurden Nutzer ohne Programmzugang sofort blockiert, mit Defense Access wurden 46 von 50 Durchläufen irgendwann gestoppt, mit Red Team Access keiner."
+     ],
+     "highlight": "Zwischen April und Juli 2026 hätten die Partner mehr als 129.000 verifizierte Software-Schwachstellen gefunden, Anthropics eigene Scans von Open-Source-Projekten kamen auf weitere 5.500.",
+     "assessment": [
+      "Das ist der Versuch, einen Mittelweg zu finden zwischen „alle bekommen alles“ und „niemand bekommt etwas“. Die Logik ist nachvollziehbar: Wenn ein Modell zehntausende Lücken findet, sollen zuerst die Verteidiger davon profitieren. Die gestaffelte Prüfung ist dafür ein vernünftiges Werkzeug.",
+      "Gleichzeitig wird Anthropic damit zum Türsteher der Cybersicherheit, und bei der höchsten Stufe entscheidet die US-Regierung mit. Für europäische Betreiber kritischer Infrastruktur ist das eine unbequeme Abhängigkeit. Dass am selben Tag Mistral ein Modell mit ähnlichem Anspruch ganz ohne solche Schranken veröffentlichen will, zeigt, wie wenig sich dieses Kontrollmodell auf Dauer durchhalten lässt."
+     ],
+     "sources": [
+      {
+       "name": "Anthropic",
+       "url": "https://www.anthropic.com/news/cyber-verification-program"
+      }
+     ],
+     "image": {
+      "url": "https://live.staticflickr.com/3555/3463419826_eebe8fcb07_b.jpg",
+      "alt": "Serverschränke in einem Rechenzentrum (Symbolbild)",
+      "credit": "torkildr",
+      "license": "CC BY-SA 2.0",
+      "source": "https://www.flickr.com/photos/torkildr/3463419826"
+     }
+    },
+    {
+     "title": "KI-Firmen verweigern in New York eine Sicherheitsgarantie",
+     "lead": "Vor dem Stadtrat von New York sollten Vertreter von OpenAI, Anthropic, Meta und Google zusichern, dass ihre KI-Agenten Schutzvorkehrungen immer einhalten. Keiner wollte das garantieren.",
+     "body": [
+      "Bei einer Anhörung des New Yorker Stadtrats am Montag mussten sich Vertreter der vier großen KI-Unternehmen OpenAI, Anthropic, Meta und Google Fragen zur Sicherheit ihrer Produkte stellen. Anlass sind Gesetzentwürfe, mit denen die Stadt den Einsatz und die Sicherheitspraxis von KI regeln will.",
+      "Die Sprecherin des Stadtrats, Julie Menin, forderte die Unternehmen auf, unter Eid zu garantieren, dass ihre KI-Agenten Schutzmechanismen gegen katastrophale Schäden stets befolgen. Keiner der vier gab eine solche uneingeschränkte Zusage.",
+      "Morgan Dwyer von OpenAI sagte, das Unternehmen lege großen Wert auf Überwachung nach der Veröffentlichung, könne aber nicht zusichern, dass irgendeine Technologie ohne Risiko sei. Logan Graham von Anthropic räumte ein, die Wissenschaft dahinter sei grundsätzlich schwierig und ungeklärt. Alice Friend von Google erklärte, Perfektion zu versprechen sei bei keinem Produkt auf dem Markt möglich, und verwies darauf, dass bestehende Gesetze auch für KI gelten sollten. Shane Cahill von Meta betonte das Bekenntnis seines Unternehmens zu sicherer Entwicklung.",
+      "Menin stellte klar, der Stadtrat verlange keine Perfektion, sondern Verantwortlichkeit, Transparenz und Sicherheit. Die Anhörung fällt in eine Zeit, in der US-Bundesstaaten und Städte zunehmend eigene KI-Regeln erarbeiten."
+     ],
+     "highlight": "Logan Graham von Anthropic räumte ein, die Wissenschaft dahinter sei grundsätzlich schwierig und ungeklärt.",
+     "assessment": [
+      "Die Forderung nach einer Garantie unter Eid war vor allem politisches Theater, und die Firmen haben richtig daran getan, sie nicht abzugeben. Eine falsche Zusage wäre schlimmer gewesen als keine.",
+      "Bemerkenswert ist trotzdem, wie offen die Antworten ausfielen. Wenn ein Anthropic-Vertreter öffentlich sagt, die Kontrolle von KI sei wissenschaftlich ungelöst, dann ist das ein starkes Argument für genau die Regulierung, die der Stadtrat plant: Transparenzpflichten und klare Haftung statt Vertrauen auf Selbstverpflichtungen."
+     ],
+     "sources": [
+      {
+       "name": "Fox News",
+       "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/New_York_City_Hall_exterior%2C_October_2016.jpg/1280px-New_York_City_Hall_exterior%2C_October_2016.jpg",
+      "alt": "Die New York City Hall, Sitz des Stadtrats",
+      "credit": "MusikAnimal",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_York_City_Hall_exterior%2C_October_2016.jpg"
+     }
+    },
+    {
+     "title": "Google finanziert Leistungssteigerung in elf Atomreaktoren",
+     "lead": "Google und der Kraftwerksbetreiber Constellation haben einen langfristigen Stromvertrag geschlossen. Constellation investiert dafür über 4,3 Milliarden Dollar, um elf bestehende Reaktoren leistungsfähiger zu machen.",
+     "body": [
+      "Google und Constellation Energy, der größte Betreiber von Kernkraftwerken in den USA, haben am 6. Oktober eine Vereinbarung bekannt gegeben, die 890 Megawatt zusätzliche Kernkraftleistung ins Stromnetz PJM bringen soll. PJM versorgt rund 67 Millionen Menschen im Osten der USA.",
+      "Die zusätzliche Leistung soll nicht aus neuen Kraftwerken kommen, sondern aus sogenannten Uprates: Bestehende Reaktoren werden technisch aufgerüstet, um mehr Strom zu erzeugen. Betroffen sind elf Reaktoren an sechs Standorten in Illinois, Pennsylvania und New Jersey. Constellation investiert dafür mehr als 4,3 Milliarden Dollar. Google sichert die Abnahme mit einem Stromliefervertrag über 20 Jahre ab. Die erste Leistungssteigerung soll bis 2028 fertig sein.",
+      "Zusätzlich umfasst das Paket einen 15-jährigen Liefervertrag über weitere 2.700 Megawatt aus bestehenden Anlagen sowie eine fünfjährige Technologiepartnerschaft, bei der Constellation Google Cloud und Gemini Enterprise einsetzt. Laut Google entspricht die neue Leistung mehreren kleinen modularen Reaktoren oder einem großen konventionellen Reaktor.",
+      "Die Börse reagierte deutlich: Die Constellation-Aktie stieg am Montag um rund zwölf Prozent, auch andere Stromversorger legten zu. Der Vertrag reiht sich in eine Serie ähnlicher Abkommen ein. Constellation hatte bereits Meta die gesamte Leistung des Kraftwerks Clinton in Illinois für 20 Jahre zugesagt, Microsoft und Amazon haben ebenfalls Atomstromverträge geschlossen."
+     ],
+     "highlight": "Bestehende Reaktoren werden technisch aufgerüstet, um mehr Strom zu erzeugen.",
+     "assessment": [
+      "Uprates sind die unspektakulärste und zugleich klügste Art, schnell an mehr sauberen Strom zu kommen. Neue Reaktoren dauern ein Jahrzehnt und sprengen regelmäßig Budgets, kleine modulare Reaktoren sind noch weitgehend Versprechen. Bestehende Anlagen aufzurüsten ist dagegen erprobte Technik an genehmigten Standorten.",
+      "Der Deal zeigt aber auch, wie sehr der KI-Boom inzwischen die Energiepolitik der USA prägt. Die Tech-Konzerne sichern sich langfristig die verfügbare Grundlast. Ob das, wie Google betont, die Strompreise für alle schützt, oder ob private Haushalte am Ende mit höheren Preisen für knappere Kapazität bezahlen, wird sich erst zeigen."
+     ],
+     "sources": [
+      {
+       "name": "Google Cloud Press Corner",
+       "url": "https://www.googlecloudpresscorner.com/2026-10-06-Google-and-Constellation-Announce-Landmark-Agreement-to-Bring-890-MW-of-New-Nuclear-Capacity-to-PJM-Grid-as-Part-of-Long-Term-Power-Deal"
+      },
+      {
+       "name": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/10/06/constellation-energy-soars-12-on-google-nuclear-deal-for-890-mw-vistra-jumps-8-talen-energy-climbs-7/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Byron_Nuclear_Power_Plant%2C_IL_04.JPG/1280px-Byron_Nuclear_Power_Plant%2C_IL_04.JPG",
+      "alt": "Das Kernkraftwerk Byron in Illinois, eines der Kraftwerke von Constellation",
+      "credit": "Ben Jacobson (Kranar Drogin)",
+      "license": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Byron_Nuclear_Power_Plant%2C_IL_04.JPG"
+     }
+    },
+    {
+     "title": "Meta und Sierra wollen eine gemeinsame Tür für KI-Agenten bauen",
+     "lead": "Mit dem Personal Agent Protocol schlagen Meta und das KI-Unternehmen Sierra einen offenen Standard vor, über den persönliche KI-Assistenten sich bei Unternehmen ausweisen und in deren Auftrag handeln können. Walmart, Shopify und Stripe sind dabei.",
+     "body": [
+      "Sierra, ein Anbieter von KI-Kundenservice, und Meta haben am 6. Oktober das Personal Agent Protocol vorgestellt. Es soll regeln, wie persönliche KI-Agenten, also Assistenten, die für einen Menschen Aufgaben erledigen, sich gegenüber Unternehmen identifizieren und welche Rechte sie dort haben.",
+      "Hintergrund ist ein praktisches Problem: Bisher bedienen solche Agenten Webseiten meist wie ein Mensch, klicken sich durch Formulare und Menüs. Das ist langsam und fehleranfällig. Eine direkte, abgesicherte Verbindung könnte Aufgaben in Sekunden erledigen, etwa eine Bestellung ändern oder einen Termin buchen.",
+      "Das Protokoll baut auf dem etablierten Anmeldestandard OAuth auf. Nutzer legen fest, welchen Zugriff ihr Agent bekommt, etwa nur lesend oder auch mit dem Recht, Bestellungen zu ändern. Unternehmen bestimmen ihrerseits, was Agenten bei ihnen dürfen. Der Agent kann dann über die Webseite, über Schnittstellen wie MCP und OpenAPI oder über einen eigenen Agenten des Unternehmens arbeiten.",
+      "Zu den Gründungspartnern gehören Walmart, Shopify, Stripe, Genesys, Instinct und Rocket. Die erste Spezifikation in Version 0.1 soll noch im Oktober erscheinen, danach sind Workshops und eine Referenzimplementierung geplant. Später sollen feinere Berechtigungen, Push-Benachrichtigungen und eine Bezahlerweiterung hinzukommen, mit der Agenten einkaufen können, ohne Kreditkartendaten weiterzugeben."
+     ],
+     "highlight": "Bisher bedienen solche Agenten Webseiten meist wie ein Mensch, klicken sich durch Formulare und Menüs.",
+     "assessment": [
+      "Standards entscheiden oft mehr über die Zukunft einer Technik als die Technik selbst. Wer festlegt, wie Agenten an die Tür eines Händlers klopfen, bestimmt mit, wer im Agenten-Handel mitverdient. Dass Meta hier vorne steht und Walmart, Shopify und Stripe sofort mitmachen, hat Gewicht.",
+      "Auffällig ist, wer fehlt: OpenAI, Google, Apple, Amazon. Es ist gut möglich, dass wir in den nächsten Monaten mehrere konkurrierende Protokolle sehen. Für Nutzer ist der Ansatz trotzdem erfreulich, denn klar geregelte Berechtigungen sind allemal besser als Agenten, die mit gespeicherten Passwörtern durch fremde Webseiten klicken."
+     ],
+     "sources": [
+      {
+       "name": "Sierra",
+       "url": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mini_shopping_cart_placed_on_a_table_next_to_a_laptop_in_a_modern_office_setting.jpg/1280px-Mini_shopping_cart_placed_on_a_table_next_to_a_laptop_in_a_modern_office_setting.jpg",
+      "alt": "Ein Mini-Einkaufswagen neben einem Laptop als Symbol für Onlinehandel",
+      "credit": "Shixart1985",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mini_shopping_cart_placed_on_a_table_next_to_a_laptop_in_a_modern_office_setting.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "category": "gaming",
+   "items": [
+    {
+     "title": "Ninja Theory: Bei den Hellblade-Machern laufen die Entlassungen",
+     "lead": "Nachdem zwei Verkaufsversuche gescheitert sind, droht dem britischen Xbox-Studio Ninja Theory die Schließung. Erste Mitarbeiter melden nun ihre Kündigung, die Zukunft des angekündigten Spiels Senua ist offen.",
+     "body": [
+      "Beim britischen Entwicklerstudio Ninja Theory, bekannt für Hellblade: Senua's Sacrifice und Enslaved, haben die Entlassungen begonnen. Mehrere Mitarbeiter, darunter Programmierer, Künstler und Sounddesigner, teilten seit dem Wochenende öffentlich mit, dass sie ihren Job verlieren oder von der Kündigung bedroht sind.",
+      "Vorausgegangen war eine Mitteilung von Xbox-Manager Matt Booty vom 22. September: Zwei getrennte Vereinbarungen über Ninja Theory seien gescheitert. Man beginne nun mit der Konsultation der Beschäftigten über eine geplante Schließung, prüfe aber weiterhin andere Wege. Wer die Käufer waren und warum die Verhandlungen platzten, sagte Microsoft nicht.",
+      "Ninja Theory ist Teil einer größeren Umstrukturierung bei Xbox. Andere Studios hatten mehr Glück: Compulsion Games und Double Fine wurden mit ihren Marken und Katalogen in die Unabhängigkeit entlassen, Undead Labs wechselte ebenfalls in die Eigenständigkeit und bringt State of Decay 3 mit einem neuen Publisher heraus. Über die Zukunft von Arkane, das an Marvel's Blade arbeitet, wird noch verhandelt. Die zweite Kürzungswelle bei Xbox im September umfasste laut VGC 268 Stellen, zusätzlich zu rund 1.600 aus der ersten Welle.",
+      "Besonders bitter ist der Fall wegen Senua. Das neue Spiel aus dem Hellblade-Universum war erst im Juni auf dem Xbox Games Showcase angekündigt worden und sollte 2027 im Game Pass erscheinen. Berichten zufolge plante Xbox schon damals Verkauf oder Schließung und nutzte den Trailer auch, um Interessenten zu werben."
+     ],
+     "highlight": "Das neue Spiel aus dem Hellblade-Universum war erst im Juni auf dem Xbox Games Showcase angekündigt worden und sollte 2027 im Game Pass erscheinen.",
+     "assessment": [
+      "Microsoft hatte Ninja Theory 2018 gekauft, um sich künstlerisch ambitionierte Spiele ins Portfolio zu holen. Dass ausgerechnet dieses Studio jetzt keinen Käufer findet, sagt viel über die Lage der Branche: Prestige allein trägt nicht mehr, wenn die Verkaufszahlen nicht stimmen.",
+      "Dass Senua im Juni noch groß präsentiert wurde, während die Abwicklung offenbar schon lief, ist schwer zu verdauen. Es beschädigt das Vertrauen in Ankündigungen insgesamt. Wenn auf einer Showcase-Bühne Spiele gezeigt werden, deren Studios schon zum Verkauf stehen, sollten Spieler solche Trailer künftig mit mehr Vorsicht betrachten."
+     ],
+     "sources": [
+      {
+       "name": "VGC",
+       "url": "https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/"
+      },
+      {
+       "name": "Pure Xbox",
+       "url": "https://www.purexbox.com/news/2026/09/xbox-warns-ninja-theory-could-be-closed-as-two-agreements-fall-through"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tameem_Antoniades.jpg/1280px-Tameem_Antoniades.jpg",
+      "alt": "Ninja-Theory-Mitgründer Tameem Antoniades auf der GDC 2014",
+      "credit": "Official GDC",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tameem_Antoniades.jpg"
+     }
+    },
+    {
+     "title": "Supermassive Games entlässt mehr als 70 Beschäftigte",
+     "lead": "Das Studio hinter Until Dawn hat seine im August angekündigten Kürzungen umgesetzt. Mehr als 70 Menschen verlassen den Entwickler aus Guildford.",
+     "body": [
+      "Supermassive Games hat mehr als 70 Mitarbeiter entlassen. Die Kürzungen waren im August angekündigt worden und sind nun abgeschlossen. Betroffen sind Entwickler, Künstler, Produzenten, die Qualitätssicherung und Verwaltungsbereiche. Das Studio begründete den Schritt damit, die Zukunft des Unternehmens sichern zu müssen.",
+      "Öffentlich wurde der Umfang unter anderem durch einen LinkedIn-Beitrag von Frank Tindle, der nach eigenen Angaben 16 Jahre bei dem Studio gearbeitet hatte. Er schrieb, mehr als 70 großartige Menschen verließen Supermassive.",
+      "Es ist bereits die zweite große Kürzungsrunde. Im Juli 2025 hatten mehr als 30 Entwickler ihre Stelle verloren, was die Veröffentlichung von Directive 8020 verzögerte. Das Spiel erschien Anfang 2026 und bekam mittelmäßige Kritiken. Im Juni 2026 trat zudem Geschäftsführer Robert Henrysson zurück, der seit Januar 2024 im Amt war.",
+      "Supermassive mit Sitz in Guildford in Südengland wurde vor allem mit dem Horrorspiel Until Dawn bekannt, das 2026 auch verfilmt wurde, sowie mit der Reihe The Dark Pictures Anthology."
+     ],
+     "highlight": "Es ist bereits die zweite große Kürzungsrunde.",
+     "assessment": [
+      "Supermassive hat ein eigenes Genre geprägt, den interaktiven Horrorfilm mit Entscheidungen. Das Problem ist, dass dieses Genre nach Until Dawn nie wieder so groß wurde, und die Dark-Pictures-Spiele wirkten zunehmend wie Fließbandware.",
+      "Der Fall steht exemplarisch für viele mittelgroße Studios: zu groß für Indie-Budgets, zu klein für eigene Blockbuster. Wenn ein einzelnes Spiel wie Directive 8020 nicht zündet, folgen schnell Entlassungen. Gute Nachrichten aus diesem Segment der Branche bleiben selten."
+     ],
+     "sources": [
+      {
+       "name": "VGC",
+       "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Guildford_Town_Centre_-_geograph.org.uk_-_7035804.jpg",
+      "alt": "Die Innenstadt von Guildford, wo Supermassive Games sitzt",
+      "credit": "Ian Capper",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Guildford_Town_Centre_-_geograph.org.uk_-_7035804.jpg"
+     }
+    },
+    {
+     "title": "Sega: KI ja, aber nicht für die kreative Arbeit an Spielen",
+     "lead": "Ein Sega-Manager erklärt in einem Interview, wie der Konzern generative KI einsetzt. In Verwaltung und Vertrieb ja, beim kreativen Kern der Spiele nicht.",
+     "body": [
+      "Tsuyoshi Saito, Senior Executive Officer und stellvertretender Chief Business Officer von Sega, hat sich in einem Interview mit der japanischen Wirtschaftszeitung Nikkei zum Einsatz von KI geäußert. Sega nutze KI, um die Effizienz im Publishing und in den Unternehmensabteilungen zu steigern und um Geschäftsideen zu entwickeln.",
+      "Bei der Spieleentwicklung sei man dagegen sehr vorsichtig. Die kreativen Aspekte der Spiele überlasse man nicht der KI. Gemeint sind Grafik, Design und Erzählung, die weiter von Menschen verantwortet werden sollen.",
+      "Sega hat dafür einen eigenen Ausschuss für generative KI eingerichtet. Er entwickelt Werkzeuge und Regeln für die Nutzung, und in ihm sitzen auch Vertreter der Presse- und Rechtsabteilungen aus verschiedenen Regionen, weil der Umgang mit KI weltweit unterschiedlich bewertet wird.",
+      "Ganz ohne KI kommen Sega-Spiele allerdings schon heute nicht aus. Bei Crazy Taxi: World Tour wurde generative KI in der frühen Recherchephase genutzt, nicht für Spielinhalte. Bei Phantasy Star Online 2: New Genesis diente KI als Produktivitätswerkzeug und für Gesprächsfunktionen im Spiel."
+     ],
+     "highlight": "Die kreativen Aspekte der Spiele überlasse man nicht der KI.",
+     "assessment": [
+      "Die Botschaft richtet sich vor allem an Spieler und Entwickler, bei denen generative KI einen schlechten Ruf hat. Sega zieht eine Linie, die gut klingt, aber unscharf ist: Wo endet Recherche, wo beginnt kreative Arbeit? Ein KI-Entwurf in der Konzeptphase prägt das Endprodukt oft stärker als jedes spätere Asset.",
+      "Trotzdem ist es bemerkenswert, dass ein großer Publisher sich überhaupt öffentlich festlegt. Viele Konkurrenten schweigen dazu oder schwärmen von Effizienzgewinnen. An dieser Aussage kann man Sega künftig messen."
+     ],
+     "sources": [
+      {
+       "name": "VGC",
+       "url": "https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sega_HQ_2018_2.jpg/1280px-Sega_HQ_2018_2.jpg",
+      "alt": "Der Sega-Hauptsitz in Tokio",
+      "credit": "TarkusAB",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sega_HQ_2018_2.jpg"
+     }
+    },
+    {
+     "title": "Ex-PlayStation-Chef Layden: Abschied von Discs schadet der Marke",
+     "lead": "Shawn Layden, früher Chef von PlayStation in den USA, kritisiert Sonys Entscheidung, ab 2028 keine Spiele mehr auf Disc herauszubringen. Wer etwas nicht verkaufen könne, besitze es auch nicht.",
+     "body": [
+      "Shawn Layden, bis 2019 Chef von PlayStation in Amerika und Vorsitzender von Sonys weltweiten Studios, hat im Podcast The Expansion Pass deutliche Kritik an seinem früheren Arbeitgeber geübt. Der Wechsel zu rein digitalen Spielen sei ein erheblicher Schaden für die Marke.",
+      "Hintergrund ist eine Ankündigung von Sony vom Juli: Ab Januar 2028 sollen neue PlayStation-Spiele, von Sony wie von anderen Herstellern, nicht mehr auf Disc erscheinen. Sony begründete das mit dem veränderten Kaufverhalten. Nach Unternehmensangaben wurden zuletzt fast vier von fünf Vollpreisspielen für PS4 und PS5 digital gekauft. Bereits erschienene Discs funktionieren weiter. Im Juli 2027 schließen außerdem die Online-Shops für PS3 und PS Vita.",
+      "Layden argumentiert, dass gerade die rund 20 Prozent der Spieler, die noch physisch kaufen, oft die treuesten Kunden seien: Sammler, die immer wieder kaufen, vergleichbar mit Comic-Sammlern. Wer etwas nicht verkaufen könne, besitze es auch nicht, sagte er sinngemäß. Statt über Besitz spreche man dann nur noch über Zugang zu einem digitalen Gut.",
+      "Layden räumte ein, dass er an der wirtschaftlichen Entscheidung nicht beteiligt war und die Zahlen nicht kennt. Er befürchte aber, dass die Kosteneinsparungen den Imageschaden bei den wichtigsten Kunden nicht aufwiegen."
+     ],
+     "highlight": "Statt über Besitz spreche man dann nur noch über Zugang zu einem digitalen Gut.",
+     "assessment": [
+      "Layden trifft den Kern: Bei einem digitalen Kauf erwirbt man eine Lizenz, keinen Gegenstand. Man kann das Spiel nicht weiterverkaufen, nicht verleihen und ist darauf angewiesen, dass der Shop bestehen bleibt. Die angekündigte Schließung der PS3- und Vita-Shops zeigt, dass das kein theoretisches Risiko ist.",
+      "Dass ein ehemaliger Spitzenmanager das so offen sagt, macht die Kritik schwerer abzutun. Sony wird an der Entscheidung kaum rütteln, die Zahlen sprechen für den Konzern. Aber für Sammler und alle, denen Spielerhaltung wichtig ist, ist 2028 tatsächlich ein Einschnitt."
+     ],
+     "sources": [
+      {
+       "name": "VGC",
+       "url": "https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/"
+      },
+      {
+       "name": "Game File",
+       "url": "https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Playstation_5_being_displayed_in_electronics_retail_store_-_2.jpg/1280px-Playstation_5_being_displayed_in_electronics_retail_store_-_2.jpg",
+      "alt": "Eine PlayStation 5 im Regal eines Elektronikmarkts",
+      "credit": "KKPCW",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Playstation_5_being_displayed_in_electronics_retail_store_-_2.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "category": "geschichte",
+   "items": [
+    {
+     "title": "Erster Siegelring mit dem Leuchtturm von Alexandria gefunden",
+     "lead": "Unterwasserarchäologen haben im versunkenen Königsviertel von Alexandria einen Bronzering geborgen, auf dem der berühmte Pharos eingraviert ist. Es ist die erste bekannte Darstellung des Weltwunders auf einem Siegelring.",
+     "body": [
+      "Im Osthafen von Alexandria haben Taucher des Europäischen Instituts für Unterwasserarchäologie (IEASM) gemeinsam mit der ägyptischen Abteilung für Unterwasseraltertümer einen bronzenen Siegelring gefunden. Eingraviert ist ein Bild des Leuchtturms von Alexandria, des Pharos, eines der sieben Weltwunder der Antike.",
+      "Der Fundort ist die versunkene Insel Antirhodos, Teil des königlichen Viertels am großen Hafen, dem Portus Magnus. Dort stand ein Palast, den der antike Geograf Strabon nach seinem Ägyptenaufenthalt zwischen 29 und 25 vor Christus beschrieb. Die Insel liegt heute unter Wasser.",
+      "Hisham El-Leithy, Generalsekretär des ägyptischen Obersten Rats für Altertümer, nannte den Fund außergewöhnlich, weil man den Leuchtturm bisher nie auf einem Siegelring identifiziert habe. Die Darstellung ähnelt Abbildungen auf Münzen des zweiten Jahrhunderts nach Christus, weshalb der Ring wahrscheinlich aus dieser Zeit stammt. Ein endgültiges Datum hat das Ministerium noch nicht genannt.",
+      "Grabungsleiter Franck Goddio, der seit Jahrzehnten in den Häfen von Alexandria forscht, berichtet, die Grabung habe Objekte vom vierten Jahrhundert vor bis zum vierten Jahrhundert nach Christus erbracht. Weil der Ring in einem Bereich mit Verwaltungsbauten lag, wird spekuliert, er könnte mit der Hafen- oder Leuchtturmverwaltung zu tun gehabt haben. Belege dafür gibt es bislang aber nicht."
+     ],
+     "highlight": "Hisham El-Leithy, Generalsekretär des ägyptischen Obersten Rats für Altertümer, nannte den Fund außergewöhnlich, weil man den Leuchtturm bisher nie auf einem Siegelring identifiziert habe.",
+     "assessment": [
+      "Ein kleines Objekt mit großer Wirkung. Der Pharos ist längst verschwunden, und alles, was wir über sein Aussehen wissen, stammt aus Beschreibungen und Münzbildern. Jede neue zeitgenössische Darstellung ist deshalb wertvoll, auch wenn ein Ringsiegel naturgemäß nur ein stark vereinfachtes Bild liefert.",
+      "Spannender als die Ikonografie ist vielleicht die Frage, wer so einen Ring trug. Sollte sich die Verbindung zur Hafenverwaltung bestätigen, wäre das ein seltener Einblick in den Alltag hinter dem Weltwunder. Bis dahin ist das aber eine hübsche Vermutung, mehr nicht."
+     ],
+     "sources": [
+      {
+       "name": "Arkeonews",
+       "url": "https://arkeonews.net/first-ever-seal-ring-showing-the-lighthouse-of-alexandria-found-in-the-sunken-royal-quarter/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AlexEasternHarbourBeach.jpg/1280px-AlexEasternHarbourBeach.jpg",
+      "alt": "Der Osthafen von Alexandria, in dem die versunkene Insel Antirhodos liegt",
+      "credit": "Roland Unger",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:AlexEasternHarbourBeach.jpg"
+     }
+    },
+    {
+     "title": "Wurden die Diener der ersten Pharaonen getötet? Schädel liefern neue Hinweise",
+     "lead": "Eine forensische Untersuchung von 46 Schädeln aus den Königsgräbern von Abydos findet bei fast 40 Prozent potenziell tödliche Verletzungen. Das stützt die alte These von Menschenopfern in der Ersten Dynastie.",
+     "body": [
+      "Rund um die Gräber der frühesten ägyptischen Könige in Umm el-Qaab bei Abydos liegen hunderte Nebenbestattungen. Seit über hundert Jahren wird diskutiert, ob die dort Begrabenen, vermutlich Diener und Angehörige des Hofes, beim Tod des Königs getötet wurden. Eine neue Studie der Anthropologin Roselyn A. Campbell von der Purdue University liefert nun handfeste Hinweise.",
+      "Campbell untersuchte 46 Schädel aus der Duckworth-Sammlung der Universität Cambridge. Sie stammen aus den Grabanlagen der Könige Djer und Djet sowie der Königin Merneith aus der Ersten Dynastie, etwa 3078 bis 2900 vor Christus. Bei 18 der 46 Schädel, also rund 39 Prozent, fand sie potenziell tödliche Verletzungen. Die Studie erschien in der Fachzeitschrift Frontiers in Environmental Archaeology.",
+      "Am häufigsten waren lineare Brüche über den Schädel, dazu kamen Verletzungen durch scharfe Gewalt, darunter eindringende Kopfwunden und Hiebe nahe dem Auge. Die Brüche passen nicht zu Schlägen mit steinernen Keulen, sondern eher zu breiten, flachen Gegenständen aus leichterem Material wie Holz oder Geweih. Viele lagen oberhalb der sogenannten Hutkrempenlinie, was eher für absichtliche Gewalt spricht als für Stürze.",
+      "Möglich wurde die Analyse durch moderne forensische Methoden, mit denen sich Verletzungen kurz vor dem Tod von späteren Schäden unterscheiden lassen. Dem Ausgräber Flinders Petrie standen sie um 1900 noch nicht zur Verfügung.",
+      "Campbell betont die Grenzen der Untersuchung. Die erhaltenen Schädel machen nur 5 bis 15 Prozent der ursprünglich Bestatteten aus. Die Studie kann nicht beweisen, dass alle hingerichtet wurden oder an den Kopfwunden starben, und Todesarten wie Erdrosseln hinterlassen am Schädel keine Spuren."
+     ],
+     "highlight": "Bei 18 der 46 Schädel, also rund 39 Prozent, fand sie potenziell tödliche Verletzungen.",
+     "assessment": [
+      "Das ist ein wichtiger Beitrag zu einer der unbequemsten Fragen der Ägyptologie. Die These der Gefolgschaftsopfer stand lange auf der Indizienbasis der Grablage: viele gleichzeitige Bestattungen um ein Königsgrab. Jetzt kommen Spuren an den Knochen dazu.",
+      "Wichtig ist die Zurückhaltung der Autorin. Eine kleine, über hundert Jahre alte Sammlung ist keine repräsentative Stichprobe. Aber das Bild eines frühen Königtums, das seinen Machtanspruch auch durch den Tod von Untergebenen inszenierte, wird durch diese Arbeit deutlich wahrscheinlicher. Bemerkenswert ist auch, dass die Praxis nach der Ersten Dynastie offenbar verschwand."
+     ],
+     "sources": [
+      {
+       "name": "Arkeonews",
+       "url": "https://arkeonews.net/could-egypts-first-royal-servants-have-been-buried-alive-5000-year-old-skulls-reopen-a-century-old-mystery/"
+      },
+      {
+       "name": "Archaeology Magazine",
+       "url": "https://archaeology.org/news/2026/10/06/did-egypts-first-pharaohs-demand-human-sacrifice/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Umm_el-Qa%27ab.jpg",
+      "alt": "Das Gräberfeld Umm el-Qaab bei Abydos",
+      "credit": "Laszlovszky András",
+      "license": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Umm_el-Qa%27ab.jpg"
+     }
+    },
+    {
+     "title": "Mehr als 1.000 Knochenwürfel in römischer Stadt in Frankreich",
+     "lead": "In Grand in den Vogesen haben Archäologen auf engem Raum über tausend römische Würfel aus Knochen gefunden. Ob hier eine Werkstatt, ein Spielort oder ein Ort für Orakel stand, ist offen.",
+     "body": [
+      "Grand ist heute ein Dorf mit wenigen hundert Einwohnern im Département Vosges im Nordosten Frankreichs. In römischer Zeit war es ein bedeutendes gallorömisches Zentrum auf mehr als 70 Hektar, mit einem Amphitheater für über 17.000 Zuschauer, einem großen Mosaik und einem Heiligtum für den Heilgott Apollo Grannus.",
+      "Seit 2022 graben Archäologen neben der antiken Basilika. Bis Juli 2026 haben sie dort mehr als 1.000 Würfel aus Knochen geborgen, alle auf einer kleinen, eng begrenzten Fläche. Die Würfel tragen kleine konzentrische Kreise als Augen, die mit feinen Metallwerkzeugen eingeritzt wurden. Wie bei modernen Würfeln ergeben gegenüberliegende Seiten zusammen sieben.",
+      "Neben einer Straße stand ein kleines Gebäude von etwa 4,5 mal 3,8 Metern mit rot bemaltem Putz auf gelbem Grund, das sich nach Osten öffnete. Drei Würfel lagen direkt in seinen Fundamenten, was eher auf eine absichtliche Niederlegung als auf zufälligen Verlust hindeutet.",
+      "Die Forscher diskutieren drei Deutungen: eine Werkstatt, in der Würfel hergestellt wurden, einen Ort zum Spielen oder eine Stätte für rituelle Handlungen wie Weissagung. Angesichts des nahen Heiligtums ist auch Letzteres denkbar. Die Fachleute betonen ausdrücklich, dass die Funde nicht belegen, dass Grand eine Art römische Casinostadt war."
+     ],
+     "highlight": "Drei Würfel lagen direkt in seinen Fundamenten, was eher auf eine absichtliche Niederlegung als auf zufälligen Verlust hindeutet.",
+     "assessment": [
+      "Die Schlagzeile vom „antiken Las Vegas“ ist verlockend, aber zu billig. Würfel waren in Rom Spielgerät und Orakelinstrument zugleich, und Grand war vor allem ein Heilungs- und Pilgerort. Dass Besucher eines Heiligtums das Schicksal mit Würfeln befragten, ist mindestens so plausibel wie eine Spielhölle.",
+      "Die Würfel in den Fundamenten sind das eigentlich spannende Detail. Ein Bauopfer aus Würfeln würde gut zu einem Ort passen, an dem Glück und Schicksal eine besondere Rolle spielten. Man darf auf die abschließende Auswertung gespannt sein."
+     ],
+     "sources": [
+      {
+       "name": "Arkeonews",
+       "url": "https://arkeonews.net/an-ancient-las-vegas-more-than-1000-bone-dice-unearthed-at-a-roman-town/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Corbridge_Roman_Town_Museum%2C_Gaming_board_and_counters%2C_bone_dice_and_shaker_-_geograph.org.uk_-_7849634.jpg/1280px-Corbridge_Roman_Town_Museum%2C_Gaming_board_and_counters%2C_bone_dice_and_shaker_-_geograph.org.uk_-_7849634.jpg",
+      "alt": "Römisches Spielbrett mit Knochenwürfeln im Museum von Corbridge, England, nicht aus Grand",
+      "credit": "Michael Garlick",
+      "license": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Corbridge_Roman_Town_Museum%2C_Gaming_board_and_counters%2C_bone_dice_and_shaker_-_geograph.org.uk_-_7849634.jpg"
+     }
+    },
+    {
+     "title": "Krieger mit Goldmaske: reiches Grab am Ohridsee entdeckt",
+     "lead": "In Nordmazedonien haben Archäologen ein rund 2.600 Jahre altes Kriegergrab mit Helm, Schwert, Schild und einem goldenen Gesichtsblech ausgegraben. Es ist bereits das zweite reiche Grab an dieser Stelle.",
+     "body": [
+      "Im Gräberfeld Rasnica beim Dorf Koroshishta nahe Struga am Ohridsee hat ein Team des Nationalen Archäologischen Museums Nordmazedoniens ein außergewöhnlich reich ausgestattetes Grab freigelegt. Es stammt aus dem sechsten Jahrhundert vor Christus, der archaischen Zeit, und ist damit rund 2.600 Jahre alt.",
+      "Der Tote wurde mit einer vollständigen Bewaffnung bestattet: Bronzehelm, Schild, Schwert und mehrere Speere. Dazu kamen Bronzegefäße, eine Silbernadel, ein Goldring, Perlen aus Bernstein und Glas sowie ein dünnes Goldblech, das als Totenmaske für das Gesicht gedeutet wird. Es muss noch restauriert werden.",
+      "Projektleiter Pero Ardžanliev sprach von einem außergewöhnlich reichen archaischen Grab, in dem der Verstorbene mit einem kompletten Waffensatz beigesetzt wurde. Das neue Grab scheint älter zu sein als ein anderes prunkvolles Grab, das 2024 am selben Ort gefunden wurde.",
+      "Mit dem zweiten Fund wird aus einer vermeintlichen Einzelbestattung ein regelrechtes Gräberfeld einer wohlhabenden Elite. Rasnica reiht sich damit in eine Gruppe archaischer Nekropolen rund um den Ohridsee ein, zu der auch das berühmte Trebeništa gehört, wo Anfang des 20. Jahrhunderts goldene Totenmasken gefunden wurden. Das Museum bemüht sich nun um dauerhafte staatliche Finanzierung für weitere Grabungen."
+     ],
+     "highlight": "Mit dem zweiten Fund wird aus einer vermeintlichen Einzelbestattung ein regelrechtes Gräberfeld einer wohlhabenden Elite.",
+     "assessment": [
+      "Goldene Gesichtsbleche gehören zu den eindrucksvollsten Funden der Balkan-Archäologie, und die Region um den Ohridsee erweist sich immer mehr als Zentrum einer reichen Kriegerelite der archaischen Zeit. Jedes gut dokumentierte Grab hilft, diese Gesellschaft zwischen griechischer Welt und Balkanvölkern besser zu verstehen.",
+      "Bezeichnend ist der Ruf nach Geld. Ein solcher Fund ist oft der beste Hebel, um Grabungen langfristig zu sichern. Es wäre ein Versäumnis, wenn Rasnica nach zwei Sensationsgräbern wieder liegen bliebe."
+     ],
+     "sources": [
+      {
+       "name": "Arkeonews",
+       "url": "https://arkeonews.net/a-2600-year-old-warrior-buried-with-a-helmet-sword-shield-and-gold-face-covering-found-in-north-macedonia/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aerial_view_of_Struga%2C_Lake_Ohrid_%26_Black_Drin_%287%29.jpg/1280px-Aerial_view_of_Struga%2C_Lake_Ohrid_%26_Black_Drin_%287%29.jpg",
+      "alt": "Luftbild von Struga am Ohridsee, in dessen Nähe das Gräberfeld liegt",
+      "credit": "Liridon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Struga%2C_Lake_Ohrid_%26_Black_Drin_%287%29.jpg"
+     }
+    },
+    {
+     "title": "Haupttor des römischen Legionslagers Apulum entdeckt",
+     "lead": "In Alba Iulia in Rumänien haben Archäologen das Haupttor der Festung der Legio XIII Gemina gefunden. Es lag rund vier Meter unter der Erde.",
+     "body": [
+      "Bei Grabungen an der Capistrano-Bastei in Alba Iulia haben Archäologen die Porta Praetoria entdeckt, das östliche Haupttor des römischen Legionslagers Apulum. Hier war die Legio XIII Gemina stationiert, eine der Legionen, die die römische Provinz Dakien sicherten. Die Grabung leitet die Archäologin Anca Timofan vom Nationalmuseum der Union in Alba Iulia, unterstützt vom Kreisrat Alba.",
+      "In rund vier Metern Tiefe stießen die Forscher auf die massive Fundamentplattform eines der Tortürme. Das Tor bestand aus zwei großen rechteckigen Türmen mit einer Trennmauer in der Mitte und zwei gewölbten Durchgängen. Gebaut war es in opus quadratum, also aus großen, behauenen Kalksteinblöcken.",
+      "Das südliche Tor des Lagers war bereits 1986 entdeckt worden, also fast 40 Jahre vorher. Der neue Fund hilft nun, den Grundriss und die Organisation der Festung genauer zu verstehen. Interessant ist auch die Kontinuität: Im Mittelalter nutzten Baumeister die römischen Fundamente weiter und errichteten darauf das Georgstor.",
+      "Das Lager wurde nach der römischen Eroberung Dakiens zu Beginn des zweiten Jahrhunderts nach Christus dauerhaft ausgebaut. Apulum wurde zu einer der größten römischen Siedlungen nördlich der Donau und zu einem wichtigen Zentrum für Verwaltung und Handel."
+     ],
+     "highlight": "Im Mittelalter nutzten Baumeister die römischen Fundamente weiter und errichteten darauf das Georgstor.",
+     "assessment": [
+      "Das Haupttor eines Legionslagers ist mehr als ein Bauwerk, es war die repräsentative Schauseite der römischen Macht am Rand des Reiches. Dass es nach Jahrzehnten der Suche unter der barocken Festung von Alba Iulia gefunden wurde, ist ein schöner Erfolg geduldiger Stadtarchäologie.",
+      "Besonders reizvoll finde ich die Schichtung: römisches Tor, mittelalterliches Tor auf denselben Fundamenten, darüber die habsburgische Sternfestung. Alba Iulia ist ein Lehrbeispiel dafür, wie Orte über fast zwei Jahrtausende ihre Funktion behalten."
+     ],
+     "sources": [
+      {
+       "name": "Arkeonews",
+       "url": "https://arkeonews.net/archaeologists-discover-the-main-gate-of-romes-xiii-gemina-legionary-fortress-at-apulum/"
+      }
+     ],
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Citadel_Alba-Carolina_%2826700229779%29.jpg",
+      "alt": "Die Zitadelle Alba Carolina in Alba Iulia, auf dem Gelände des einstigen Legionslagers",
+      "credit": "David Stanley",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Citadel_Alba-Carolina_%2826700229779%29.jpg"
+     }
+    }
+   ]
+  }
+ ]
+}
