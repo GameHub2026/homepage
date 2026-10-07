@@ -610,5 +610,7 @@ mark.is-drawn { background-size: 100% 100%; }
   *, *::before, *::after { transition-duration: 0s !important; animation: none !important; }
   mark { background-size: 100% 100%; }
   /* Das Sicherheitsnetz des Intros muss auch hier laufen. */
-  .play-intro .intro { animation: intro-failsafe .01s linear 4s forwards !important; }
+  /* Das Intro ist ausdrücklich angefordert (Alt+R): Übergänge bleiben erhalten. */
+  .play-intro .intro { animation: intro-failsafe .4s ease 6s forwards !important; transition-duration: .6s !important; }
+  .play-intro .intro-lockup { transition-duration: .75s !important; }
 }

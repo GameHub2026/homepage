@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <script>
     // Das Intro läuft nur nach Alt+R (siehe js/intro.js), nicht bei jedem Laden.
-    try { if (sessionStorage.getItem("wrenfell-intro")) { sessionStorage.removeItem("wrenfell-intro"); document.documentElement.classList.add("play-intro"); } } catch (e) {}
+    try { if (sessionStorage.getItem("wrenfell-intro") || new URLSearchParams(location.search).has("intro")) { sessionStorage.removeItem("wrenfell-intro"); document.documentElement.classList.add("play-intro"); } } catch (e) {}
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Wrenfell</title>
@@ -14,7 +14,7 @@
   <link rel="preload" href="fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/caveat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="assets/wren.svg?v=1cc50a75" type="image/svg+xml">
-  <link rel="stylesheet" href="css/style.css?v=3b05d8a2">
+  <link rel="stylesheet" href="css/style.css?v=aea34815">
 </head>
 <body>
 
@@ -163,7 +163,7 @@
   <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 16V4M4.5 9.5 10 4l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
 </button>
 
-<script src="js/intro.js?v=b0cb7f65"></script>
+<script src="js/intro.js?v=ea3aecda"></script>
 <script src="js/heft.js?v=f719844f"></script>
 <script src="js/edition.js?v=1a1cfddb"></script>
 <script src="js/globe.js?v=28b05349"></script>

@@ -4,7 +4,8 @@
 (() => {
   // Alt+R (Mac: Option+R) lädt die Seite neu und spielt dabei das Intro ab.
   addEventListener("keydown", e => {
-    if (e.altKey && !e.metaKey && !e.ctrlKey && e.code === "KeyR") {
+    const isR = e.code === "KeyR" || ["r", "R", "®", "‰"].includes(e.key);
+    if (e.altKey && !e.metaKey && !e.ctrlKey && isR) {
       e.preventDefault();
       if (e.repeat) return;        // gehaltene Taste: nur einmal neu laden
       try { sessionStorage.setItem("wrenfell-intro", "1"); } catch {}
@@ -46,7 +47,9 @@
     setTimeout(() => intro.remove(), 800);
   }
 
-  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  // Das Intro wird ausdrücklich per Alt+R angefordert, deshalb läuft es auch bei
+  // „Bewegung reduzieren“ voll ab. Nur ?introstatic zeigt die ruhige Variante.
+  const reduce = new URLSearchParams(location.search).has("introstatic");
   if (reduce) {
     body.removeAttribute("filter");
     reveal.setAttribute("r", 90);
