@@ -6,6 +6,7 @@
   addEventListener("keydown", e => {
     if (e.altKey && !e.metaKey && !e.ctrlKey && e.code === "KeyR") {
       e.preventDefault();
+      if (e.repeat) return;        // gehaltene Taste: nur einmal neu laden
       try { sessionStorage.setItem("wrenfell-intro", "1"); } catch {}
       location.reload();
     }
@@ -122,7 +123,17 @@
   }
   requestAnimationFrame(frame);
 
-  // Klick, Taste oder Scrollen überspringt das Intro.
-  const skip = () => { if (!finished) { word.style.cssText += "opacity:1;filter:none;transform:none;color:inherit"; lockup.style.transform = "none"; finish(); } };
-  if (!frozen) ["pointerdown", "keydown", "wheel", "touchstart"].forEach(e => addEventListener(e, skip, { once: true, passive: true }));
+  // Klick, Tipp, Escape, Enter oder Leertaste überspringt das Intro, aber erst nach einer
+  // kurzen Schonfrist. Sonst würde die noch gedrückte Alt+R-Taste (Wiederholung) oder
+  // nachlaufendes Trackpad-Scrollen das Intro sofort beenden.
+  const born = performance.now();
+  const skip = () => {
+    if (finished || performance.now() - born < 900) return;
+    word.style.cssText += "opacity:1;filter:none;transform:none;color:inherit"; lockup.style.transform = "none"; finish();
+  };
+  if (!frozen) {
+    addEventListener("pointerdown", skip, { passive: true });
+    addEventListener("touchstart", skip, { passive: true });
+    addEventListener("keydown", e => { if (!e.repeat && ["Escape", "Enter", " "].includes(e.key)) skip(); });
+  }
 })();
