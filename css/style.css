@@ -291,7 +291,7 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
 }
 /* Mensch (links) legt die Hand in die offene linke KI-Hand (rechts), dazwischen die Kugel.
    Mensch: 1749×564 (Pullover), Zeigefingerspitze bei (99,5 %, 58,5 %), Hand = 40,7 % der Bildbreite.
-   KI:     1903×552, vorderste Fingerspitze bei (0,5 %, 38 %), Hand = 43 % der Bildbreite.
+   KI:     1495×492 (Cyberpunk), vorderste Fingerspitze bei (0,6 %, 48,8 %), Hand = 55,3 % der Bildbreite.
    Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt; die Textmitte liegt eine
    halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
 .hero-stage {
@@ -303,21 +303,25 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   --c: calc(50cqw - var(--shift));
   --gap: 15.5cqw;
   --bleed: 15cqw;                                                         /* langer KI-Unterarm ragt über den Rand */
-  --wa: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .995);
-  --ha: calc(var(--wa) / 3.447);
-  --wh: calc(var(--wa) * .43 / .4065);                                      /* gleich lange Hände */
+  /* --span: Bühne von der KI-Fingerspitze bis über den Rand; daraus Handgröße und Höhen */
+  --span: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .995);
+  --hs: calc(var(--span) / 3.447);
+  --hand: calc(var(--span) * .43);                                          /* Länge Handgelenk bis Fingerspitze, beide Hände */
+  --wa: calc(var(--hand) / .5525);
+  --ha: calc(var(--wa) / 3.0386);
+  --wh: calc(var(--hand) / .4065);
   --hh: calc(var(--wh) / 3.1011);
   --human-left: calc(var(--c) - var(--gap) - .9954 * var(--wh));
   --top: 6cqw;
-  --tip-h: calc(var(--top) + .14 * var(--ha));                            /* Mensch etwas höher */
-  --tip-a: calc(var(--top) + .38 * var(--ha));
+  --tip-h: calc(var(--top) + .14 * var(--hs));                            /* Mensch etwas höher */
+  --tip-a: calc(var(--top) + .38 * var(--hs));
   --globe: clamp(64px, calc(var(--gap) * .72), 230px);
-  height: calc(var(--top) + var(--ha) + 1.5cqw);
+  height: calc(var(--top) + var(--hs) + 1.5cqw);
 }
 .hand { position: absolute; margin: 0; pointer-events: none; }
 .hand img { display: block; width: 100%; height: auto; max-width: none; }
 .hand-human { width: var(--wh); left: var(--human-left); top: calc(var(--tip-h) - .5851 * var(--hh)); }
-.hand-ai { width: var(--wa); right: calc(-1 * var(--bleed)); top: var(--top); }
+.hand-ai { width: var(--wa); left: calc(var(--c) + var(--gap) - .006 * var(--wa)); top: calc(var(--tip-a) - .4878 * var(--ha)); }
 .hero-globe {
   position: absolute; left: var(--c); top: calc((var(--tip-h) + var(--tip-a)) / 2);
   width: var(--globe); height: var(--globe);
@@ -696,7 +700,7 @@ mark.is-drawn { background-size: 100% 100%; }
   .hero-stage {
     width: calc(100% + 2 * var(--gutter)); margin-right: calc(-1 * var(--gutter));
     --shift: 0px; --bleed: 34cqw; --gap: 15cqw; --top: 9cqw; --globe: calc(var(--gap) * 1.05);
-    height: calc(var(--top) + var(--ha) + 3cqw);
+    height: calc(var(--top) + var(--hs) + 3cqw);
   }
   .strip-items { gap: 6px 8px; }
   .strip-label #runhead-issue { display: none; }
