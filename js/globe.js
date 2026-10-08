@@ -16,6 +16,12 @@
     return { x: Math.cos(a) * r, y, z: Math.sin(a) * r, push: 0 };
   });
 
+  // Punktfarbe folgt dem Farbschema.
+  let ink = "#161616";
+  const readInk = () => { ink = getComputedStyle(document.documentElement).getPropertyValue("--globe-ink").trim() || ink; if (reduce) requestAnimationFrame(draw); };
+  readInk();
+  document.addEventListener("heft:theme", readInk);
+
   let size = 0, dpr = 1;
   const resize = () => {
     dpr = Math.min(devicePixelRatio || 1, 2);
@@ -46,7 +52,7 @@
     const R = size * 0.42 * dpr, c = size * dpr / 2;
 
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.fillStyle = "#161616";
+    ctx.fillStyle = ink;
     for (const p of pts) {
       // um die Y-Achse drehen, dann leicht nach vorn kippen
       const x1 = p.x * ca + p.z * sa;

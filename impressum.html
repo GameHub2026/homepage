@@ -2,12 +2,16 @@
 <html lang="de">
 <head>
   <meta charset="utf-8">
+  <script>
+    // Gespeichertes Farbschema vor dem ersten Zeichnen setzen (Schalter in js/heft.js).
+    try { if (localStorage.getItem("wrenfell-theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (e) {}
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Impressum · Wrenfell</title>
   <meta name="theme-color" content="#EEEDE9">
   <meta name="robots" content="noindex">
   <link rel="icon" href="assets/wren.svg?v=1cc50a75" type="image/svg+xml">
-  <link rel="stylesheet" href="css/style.css?v=aea34815">
+  <link rel="stylesheet" href="css/style.css?v=1356eaa9">
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
@@ -23,6 +27,12 @@
     <a href="./#regal-title">Regal</a>
   </nav>
   <div class="site-actions">
+    <span class="stamp" id="stamp" tabindex="0" title="Letzte Aktualisierung, beim Darüberfahren: jetzt in Berlin"><span class="stamp-text" id="stamp-text">Aktualisiert</span></span>
+    <div class="theme" role="group" aria-label="Farbschema">
+      <span class="theme-thumb" aria-hidden="true"></span>
+      <button type="button" data-set="light" aria-pressed="true" aria-label="Helles Schema"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="3.4"/><g class="rays"><circle cx="10" cy="2.6" r="1"/><circle cx="15.2" cy="4.8" r="1"/><circle cx="17.4" cy="10" r="1"/><circle cx="15.2" cy="15.2" r="1"/><circle cx="10" cy="17.4" r="1"/><circle cx="4.8" cy="15.2" r="1"/><circle cx="2.6" cy="10" r="1"/><circle cx="4.8" cy="4.8" r="1"/></g></svg></button>
+      <button type="button" data-set="dark" aria-pressed="false" aria-label="Dunkles Schema"><svg viewBox="0 0 20 20" aria-hidden="true"><path class="moon" d="M16.2 12.4A6.6 6.6 0 0 1 7.6 3.8a6.8 6.8 0 1 0 8.6 8.6Z"/></svg></button>
+    </div>
     <span class="pill pill-light page-pill"><span>S.</span>&nbsp;<b>99</b></span>
     <a class="pill pill-dark" href="./#inhalt">Heute lesen</a>
   </div>
@@ -43,6 +53,6 @@
   <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 16V4M4.5 9.5 10 4l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
 </button>
 
-<script src="js/heft.js?v=f719844f"></script>
+<script src="js/heft.js?v=1e69cb2f"></script>
 </body>
 </html>

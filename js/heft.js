@@ -77,3 +77,116 @@ const Heft = (() => {
     history.replaceState(null, "", location.pathname + location.search);
   });
 })();
+
+// Hell/Dunkel: Schalter oben rechts. Der Wechsel öffnet sich als Kreis vom Klickpunkt aus.
+(() => {
+  const root = document.documentElement;
+  const buttons = [...document.querySelectorAll(".theme [data-set]")];
+  if (!buttons.length) return;
+  const meta = document.querySelector('meta[name="theme-color"]');
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  const apply = theme => {
+    if (theme === "dark") root.dataset.theme = "dark"; else delete root.dataset.theme;
+    buttons.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.set === theme)));
+    if (meta) meta.content = theme === "dark" ? "#0F0F0E" : "#EEEDE9";
+    document.dispatchEvent(new CustomEvent("heft:theme", { detail: theme }));
+  };
+  apply(root.dataset.theme === "dark" ? "dark" : "light");
+
+  buttons.forEach(b => b.addEventListener("click", e => {
+    const next = b.dataset.set;
+    if ((root.dataset.theme || "light") === next) return;
+    try { localStorage.setItem("wrenfell-theme", next); } catch { /* privat oder blockiert */ }
+    if (reduce || !document.startViewTransition) { apply(next); return; }
+    const r = b.getBoundingClientRect();
+    const x = e.clientX || r.left + r.width / 2, y = e.clientY || r.top + r.height / 2;
+    const end = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
+    document.startViewTransition(() => apply(next)).ready.then(() => {
+      root.animate(
+        { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${end}px at ${x}px ${y}px)`] },
+        { duration: 650, easing: "cubic-bezier(.65,0,.25,1)", pseudoElement: "::view-transition-new(root)" }
+      );
+    });
+  }));
+})();
+
+// Stand oben rechts: wann das Heft zuletzt aktualisiert wurde. Beim Darüberfahren
+// zeigt es das heutige Datum und die laufende Uhrzeit in Berlin.
+(() => {
+  const box = document.getElementById("stamp");
+  const out = document.getElementById("stamp-text");
+  if (!box || !out) return;
+  const TZ = "Europe/Berlin";
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const fDay = new Intl.DateTimeFormat("de-DE", { timeZone: TZ, day: "numeric", month: "short", year: "numeric" });
+  const fTime = new Intl.DateTimeFormat("de-DE", { timeZone: TZ, hour: "2-digit", minute: "2-digit" });
+  const fLong = new Intl.DateTimeFormat("de-DE", { timeZone: TZ, day: "numeric", month: "long", year: "numeric" });
+  const fClock = new Intl.DateTimeFormat("de-DE", { timeZone: TZ, hour: "2-digit", minute: "2-digit", second: "2-digit", timeZoneName: "short" });
+  const clock = d => fClock.formatToParts(d).map(p => p.value).join("").replace(/\s+/g, " ");
+
+  let stampText = "Aktualisiert";
+  let mode = "stamp", timer = null, swap = null;
+
+  // Text Zeichen für Zeichen setzen; neue Zeichen steigen gestaffelt und unscharf auf.
+  function paint(text, all) {
+    const old = [...out.children].map(c => c.textContent);
+    out.classList.remove("is-out");
+    out.textContent = "";
+    [...text].forEach((ch, i) => {
+      const s = document.createElement("span");
+      s.className = "c";
+      s.textContent = ch;
+      if (!reduce && (all || old[i] !== ch)) { s.classList.add("is-in"); s.style.setProperty("--i", all ? i : 0); }
+      out.appendChild(s);
+    });
+    out.setAttribute("aria-label", text);
+  }
+  function show(text) {
+    clearTimeout(swap);
+    if (reduce || !out.children.length) { paint(text, true); return; }
+    out.classList.add("is-out");
+    swap = setTimeout(() => paint(text, true), 150);
+  }
+  const live = () => {
+    const now = new Date();
+    return `${fLong.format(now)} · ${clock(now)}`;
+  };
+  function tick() {
+    if (mode !== "live") return;
+    paint(live(), false);
+    timer = setTimeout(tick, 1000 - (Date.now() % 1000) + 5);
+  }
+  function enter() {
+    if (mode === "live") return;
+    mode = "live";
+    show(live());
+    clearTimeout(timer);
+    timer = setTimeout(tick, 1000 - (Date.now() % 1000) + 160);
+  }
+  function leave() {
+    if (mode === "stamp") return;
+    mode = "stamp";
+    clearTimeout(timer);
+    show(stampText);
+  }
+  box.addEventListener("pointerenter", e => { if (e.pointerType !== "touch") enter(); });
+  box.addEventListener("pointerleave", e => { if (e.pointerType !== "touch") leave(); });
+  box.addEventListener("focus", enter);
+  box.addEventListener("blur", leave);
+  box.addEventListener("click", () => (mode === "live" ? leave() : enter()));
+
+  paint(stampText, false);
+  fetch("data/editions/index.json", { cache: "no-cache" })
+    .then(res => res.ok ? res.json().then(list => ({ list, lm: res.headers.get("last-modified") })) : Promise.reject())
+    .then(({ list, lm }) => {
+      const top = Array.isArray(list) ? list.find(e => !e.example) : null;
+      let when = top && top.updated ? new Date(top.updated) : lm ? new Date(lm) : null;
+      // Last-Modified ist der Zeitpunkt der Veröffentlichung; passt er nicht zum Heftdatum, nur das Datum zeigen.
+      if (when && top && !top.updated && fDay.format(when) !== fDay.format(new Date(top.date + "T12:00:00"))) when = null;
+      if (when && !isNaN(when)) stampText = `Aktualisiert ${fDay.format(when)} · ${fTime.format(when)}`;
+      else if (top) stampText = `Aktualisiert ${fDay.format(new Date(top.date + "T12:00:00"))}`;
+      if (mode === "stamp") show(stampText);
+    })
+    .catch(() => {});
+})();

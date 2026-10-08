@@ -8,8 +8,10 @@
     if (e.altKey && !e.metaKey && !e.ctrlKey && isR) {
       e.preventDefault();
       if (e.repeat) return;        // gehaltene Taste: nur einmal neu laden
-      try { sessionStorage.setItem("wrenfell-intro", "1"); } catch {}
-      location.reload();
+      // Ohne Browserspeicher: Die Adresse trägt den Wunsch, der Kopf der Seite entfernt ihn wieder.
+      const url = new URL(location.href);
+      url.searchParams.set("intro", "");
+      location.replace(url.toString());
     }
   });
 
