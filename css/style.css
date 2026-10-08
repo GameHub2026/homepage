@@ -126,13 +126,13 @@
 
 /* Eigener Mauszeiger: schwarzer Pfeil, im dunklen Schema weiß */
 html, a, button, label, summary, [role="button"] {
-  cursor: url("../assets/cursor-light.png") 3 3, auto;
-  cursor: -webkit-image-set(url("../assets/cursor-light.png") 1x, url("../assets/cursor-light@2x.png") 2x) 3 3, auto;
+  cursor: url("../assets/cursor-light.png?v=3") 3 3, auto;
+  cursor: -webkit-image-set(url("../assets/cursor-light.png?v=3") 1x, url("../assets/cursor-light@2x.png?v=3") 2x) 3 3, auto;
 }
 [data-theme="dark"], [data-theme="dark"] a, [data-theme="dark"] button, [data-theme="dark"] label,
 [data-theme="dark"] summary, [data-theme="dark"] [role="button"] {
-  cursor: url("../assets/cursor-dark.png") 3 3, auto;
-  cursor: -webkit-image-set(url("../assets/cursor-dark.png") 1x, url("../assets/cursor-dark@2x.png") 2x) 3 3, auto;
+  cursor: url("../assets/cursor-dark.png?v=3") 3 3, auto;
+  cursor: -webkit-image-set(url("../assets/cursor-dark.png?v=3") 1x, url("../assets/cursor-dark@2x.png?v=3") 2x) 3 3, auto;
 }
 input, textarea, [contenteditable] { cursor: text; }
 
