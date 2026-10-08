@@ -1,0 +1,12 @@
+# Bei jedem Push auf main baut Cloudflare Pages die Seite neu (wrenfell.pages.dev).
+name: Cloudflare Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy-Hook auslösen
+        run: curl -fsS -X POST "${{ secrets.CF_DEPLOY_HOOK }}" > /dev/null
