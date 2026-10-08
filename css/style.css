@@ -289,46 +289,50 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
   max-width: 46ch; font: 400 16px/1.55 var(--display); color: var(--ink-2);
   margin-bottom: 26px;
 }
-/* Mensch (links) legt die Hand in die offene linke KI-Hand (rechts), dazwischen die Kugel.
+/* Wie bei Sarvam kommen beide Arme schräg von unten und laufen unter dem unteren Rand des
+   Startbereichs aus; die Leiste „Im heutigen Heft“ liegt über ihnen. Die Hand links liegt höher.
    Mensch: 1749×564 (Pullover), Zeigefingerspitze bei (99,5 %, 58,5 %), Hand = 40,7 % der Bildbreite.
    KI:     1495×492 (Cyberpunk), vorderste Fingerspitze bei (0,6 %, 48,8 %), Hand = 55,3 % der Bildbreite.
-   Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt; die Textmitte liegt eine
-   halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
+   Beide Fingerspitzen liegen --gap von der Textmitte --c entfernt und sind der Drehpunkt der Arme;
+   die Textmitte liegt eine halbe Laschenbreite links der Fenstermitte, weil rechts die Laschen sitzen. */
 .hero-stage {
   position: relative; flex: none;
   container-type: inline-size;
   width: calc(100% + 2 * var(--gutter) + var(--tab-w));
-  margin: clamp(28px, 5vh, 64px) calc(-1 * (var(--gutter) + var(--tab-w))) 0 calc(-1 * var(--gutter));
+  margin: auto calc(-1 * (var(--gutter) + var(--tab-w))) 0 calc(-1 * var(--gutter));
   --shift: calc(var(--tab-w) / 2);
   --c: calc(50cqw - var(--shift));
-  --gap: 15.5cqw;
-  --bleed: 15cqw;                                                         /* langer KI-Unterarm ragt über den Rand */
-  /* --span: Bühne von der KI-Fingerspitze bis über den Rand; daraus Handgröße und Höhen */
-  --span: calc((100cqw - var(--c) - var(--gap) + var(--bleed)) / .995);
-  --hs: calc(var(--span) / 3.447);
-  --hand: calc(var(--span) * .43);                                          /* Länge Handgelenk bis Fingerspitze, beide Hände */
-  --wa: calc(var(--hand) / .5525);
-  --ha: calc(var(--wa) / 3.0386);
+  --gap: 16cqw;
+  --hand: 16.5cqw;                                                        /* Handgelenk bis Fingerspitze, Mensch */
+  --hand-ai: 17.5cqw;                                                     /* KI etwas länger, damit der Arm unten ausläuft */
+  --tilt-h: -17deg;
+  --tilt-a: 26deg;
   --wh: calc(var(--hand) / .4065);
   --hh: calc(var(--wh) / 3.1011);
-  --human-left: calc(var(--c) - var(--gap) - .9954 * var(--wh));
-  --top: 6cqw;
-  --tip-h: calc(var(--top) + .14 * var(--hs));                            /* Mensch etwas höher */
-  --tip-a: calc(var(--top) + .38 * var(--hs));
+  --wa: calc(var(--hand-ai) / .5525);
+  --ha: calc(var(--wa) / 3.0386);
+  --tip-h: 8cqw;
+  --tip-a: calc(var(--tip-h) + 6cqw);                                    /* KI-Hand tiefer */
   --globe: clamp(64px, calc(var(--gap) * .72), 230px);
-  height: calc(var(--top) + var(--hs) + 1.5cqw);
+  height: calc(var(--tip-a) + 9.5cqw);
 }
 .hand { position: absolute; margin: 0; pointer-events: none; }
 .hand img { display: block; width: 100%; height: auto; max-width: none; }
-.hand-human { width: var(--wh); left: var(--human-left); top: calc(var(--tip-h) - .5851 * var(--hh)); }
-.hand-ai { width: var(--wa); left: calc(var(--c) + var(--gap) - .006 * var(--wa)); top: calc(var(--tip-a) - .4878 * var(--ha)); }
+.hand-human {
+  width: var(--wh); left: calc(var(--c) - var(--gap) - .9954 * var(--wh)); top: calc(var(--tip-h) - .5851 * var(--hh));
+  transform-origin: 99.54% 58.51%; transform: rotate(var(--tilt-h));
+}
+.hand-ai {
+  width: var(--wa); left: calc(var(--c) + var(--gap) - .006 * var(--wa)); top: calc(var(--tip-a) - .4878 * var(--ha));
+  transform-origin: .6% 48.78%; transform: rotate(var(--tilt-a));
+}
 .hero-globe {
   position: absolute; left: var(--c); top: calc((var(--tip-h) + var(--tip-a)) / 2);
   width: var(--globe); height: var(--globe);
   transform: translate(-50%, -50%);
 }
 
-.hero-strip { width: 100%; padding: 18px 0 26px; position: relative; z-index: 2; }
+.hero-strip { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding: 14px var(--gutter) 22px; }
 .strip-label {
   font: 600 11px var(--display); letter-spacing: .18em; text-transform: uppercase; color: var(--ink-2);
   display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px 8px;
@@ -699,9 +703,11 @@ mark.is-drawn { background-size: 100% 100%; }
   .hero { margin-right: 0; padding-right: var(--gutter); }
   .hero-stage {
     width: calc(100% + 2 * var(--gutter)); margin-right: calc(-1 * var(--gutter));
-    --shift: 0px; --bleed: 34cqw; --gap: 15cqw; --top: 9cqw; --globe: calc(var(--gap) * 1.05);
-    height: calc(var(--top) + var(--hs) + 3cqw);
+    --shift: 0px; --gap: 15cqw; --hand: 27cqw; --hand-ai: 29cqw; --tip-h: 12cqw; --tip-a: calc(var(--tip-h) + 9cqw);
+    --tilt-h: -14deg; --tilt-a: 24deg; --globe: calc(var(--gap) * 1.05);
+    height: calc(var(--tip-a) + 16cqw); overflow: hidden;
   }
+  .hero-strip { position: relative; padding: 18px 0 26px; }
   .strip-items { gap: 6px 8px; }
   .strip-label #runhead-issue { display: none; }
   .strip-items a { font-size: 14px; }
