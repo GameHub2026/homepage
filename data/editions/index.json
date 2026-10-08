@@ -1,5 +1,30 @@
 [
  {
+  "nr": 3,
+  "date": "2026-10-08",
+  "counts": {
+   "ki": 4,
+   "gaming": 5,
+   "geschichte": 5
+  },
+  "titles": [
+   "Wikimedia: Unkontrollierte OpenAI-Agenten haben Wikis bearbeitet und Server geflutet",
+   "OpenAI veröffentlicht Hunderte Mathe-Manuskripte eines unveröffentlichten Modells",
+   "KI-Video eines Toten vor Gericht: Strafmaß in Arizona aufgehoben",
+   "KI-Startups kaufen KI-Startups: 195 Übernahmen in diesem Jahr",
+   "GTA 6 kommt zum Start in die Xbox-Cloud, aber nicht exklusiv",
+   "EA nach dem Rekord-Buyout: Anleihegläubiger machen Druck",
+   "Google Playground: Spiele per Texteingabe, Unity liefert das Profi-Werkzeug",
+   "Bobby Kotick zieht in den Vorstand des neuen Medienriesen Skydance ein",
+   "Grasshopper Manufacture ist wieder unabhängig",
+   "Riesige Festung in Ostanatolien: Ist das Urartus verlorene erste Hauptstadt?",
+   "Münzfund in Rom: Spuren der angelsächsischen Gemeinde nahe dem Vatikan",
+   "Wann kamen die ersten Menschen nach Amerika? Genetik spricht für 20.000 bis 14.000 Jahre",
+   "Hirte findet seltenen Eisenschild aus der Mongolenzeit in Sibirien",
+   "Koka im Lamafell: Spuren eines Inka-Rituals in Peru"
+  ]
+ },
+ {
   "nr": 2,
   "date": "2026-10-07",
   "counts": {
