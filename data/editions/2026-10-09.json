@@ -1,0 +1,417 @@
+{
+  "nr": 4,
+  "date": "2026-10-09",
+  "intro": "GPT-6 ist da und macht aus ChatGPT eine Oberfläche mit Rechnern und Diagrammen, Anthropic antwortet mit einem radikal billigeren Haiku. Bei Xbox geht es um Filme und Freizeitparks, während der US-Markt weiter schrumpft. In der Geschichte erzählt ein hethitisches Archiv vom Tod einer Prinzessin, und Neandertaler erweisen sich als geschickte Holzhandwerker.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "GPT-6 ist da, und ChatGPT antwortet jetzt mit Knöpfen, Rechnern und Diagrammen",
+          "lead": "OpenAI hat GPT-6 veröffentlicht und dazu eine neue Oberfläche namens Intelligent UI eingeführt. Antworten in ChatGPT sollen damit nicht mehr nur aus Text bestehen, sondern aus interaktiven Grafiken und kleinen Werkzeugen.",
+          "body": [
+            "OpenAI hat am Mittwoch, dem 7. Oktober, mit der Auslieferung von GPT-6 begonnen. Zuerst bekamen die zahlenden Kunden in den Tarifen Plus, Pro, Business und Enterprise das neue Modell, weltweit. Seit Donnerstag sind auch die kostenlosen Nutzer und der günstige Go-Tarif an der Reihe, sie erhalten die kleinere Variante GPT-6 Luna.",
+            "Wichtiger als die Modellnummer ist für viele Nutzer die neue Oberfläche, die OpenAI Intelligent UI nennt. ChatGPT kann Antworten nun mit Grafiken anreichern, von denen viele interaktiv sind: antippbare Knöpfe, eigens für eine Aufgabe gebaute Rechner, interaktive Diagramme und Graphen, die sich bearbeiten lassen. Wer das nicht mag, kann die Menge der Visualisierungen herunterregeln, ähnlich wie andere Eigenschaften der ChatGPT-Persönlichkeit.",
+            "Produktmanager Aarush Selvan erklärte im Gespräch mit Journalisten, ChatGPT sei bisher vor allem eine textbasierte Oberfläche gewesen, die hilfreichsten Antworten bestünden aber nicht nur aus Text. Als Beispiel nannte er einen Studenten, der wissen wollte, wie ein Flugzeugflügel Auftrieb erzeugt, und von ChatGPT in kurzer Zeit erklärende Diagramme bekam. OpenAI zeigte außerdem Rezeptgrafiken, eine Skizze zur Fahrradmechanik, eine Karte für eine mehrtägige Wanderung und einen persönlichen Sparrechner.",
+            "Laut OpenAI soll die Funktion vor allem das Lernen komplexer Themen erleichtern. TechCrunch weist darauf hin, dass sie ChatGPT zugleich zugänglicher für ein breiteres Publikum machen dürfte, auch wenn OpenAI das so nicht sagt. Begleitende Berichte nennen eine Einschränkung: Im erweiterten Denkmodus des großen Modells soll die neue Oberfläche abgeschaltet sein.",
+            "Am selben Tag hat OpenAI auch eine neue Programmierschnittstelle für strukturierte Entscheidungen auf Basis von GPT-6 Luna in eine öffentliche Testphase geschickt. Damit verschiebt sich der Wettbewerb gerade an mehreren Fronten zugleich: bei der Modellleistung, beim Preis und bei der Frage, wie Menschen überhaupt mit einem Chatbot arbeiten."
+          ],
+          "highlight": "ChatGPT kann Antworten nun mit Grafiken anreichern, von denen viele interaktiv sind: antippbare Knöpfe, eigens für eine Aufgabe gebaute Rechner, interaktive Diagramme und Graphen, die sich bearbeiten lassen.",
+          "assessment": [
+            "Das eigentlich Neue an diesem Start ist nicht das Modell, sondern die Oberfläche. Seit drei Jahren sieht ein Chatbot im Kern aus wie ein Messenger. Wenn ChatGPT jetzt selbstständig kleine Programme in die Antwort baut, wird aus dem Gesprächspartner eher ein Werkzeugkasten, der sich bei jeder Frage neu zusammensetzt.",
+            "Ob das trägt, hängt an der Zuverlässigkeit. Ein falscher Satz fällt eher auf als ein falsch beschrifteter Graph oder ein Rechner mit fehlerhafter Formel. Gerade weil interaktive Elemente so seriös wirken, sollte man ihnen anfangs genauso misstrauen wie dem Fließtext."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+            "alt": "Beispiel für die neue interaktive Oberfläche von ChatGPT",
+            "credit": "OpenAI",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
+          }
+        },
+        {
+          "title": "Claude Haiku 5.5: Anthropics kleines Modell wird drastisch billiger",
+          "lead": "Anthropic hat Claude Haiku 5.5 veröffentlicht, sein neues kleines und schnelles Modell. Es kostet im Schnitt rund 75 Prozent weniger als der Vorgänger und liegt in mehreren Tests deutlich vor ihm.",
+          "body": [
+            "Anthropic hat am 7. Oktober Claude Haiku 5.5 vorgestellt und nennt es das günstigste, schnellste und fähigste kleine Modell, das das Unternehmen je veröffentlicht hat. Gedacht ist es für Aufgaben mit hohem Volumen und Kostendruck: Zusammenfassungen, das Verdichten langer Verläufe, Datenbankabfragen und Klassifikation. Beim Programmieren soll es als Hilfsagent für die größeren Modelle Opus 5.5 und Sonnet 5.5 arbeiten.",
+            "Der Preis ist die eigentliche Nachricht. Für Anfragen bis 100.000 Token verlangt Anthropic 0,10 Dollar pro Million Eingabe-Token und 0,50 Dollar pro Million Ausgabe-Token, darüber 0,50 und 2,50 Dollar. Haiku 4.5 kostete 1 und 5 Dollar. Bei kürzeren Anfragen ist das neue Modell damit 90 Prozent günstiger, bei längeren 50 Prozent. Im Durchschnitt soll es rund 75 Prozent weniger kosten. Weil Haiku 5.5 einen neuen Tokenizer nutzt und pro Aufgabe etwas mehr Token verbraucht, sind diese Werte laut Anthropic schon bereinigt.",
+            "Bei den Benchmarks springt das Modell weit nach vorn. Im Test OSWorld 2.1, der die Bedienung eines Computers misst, kommt Haiku 5.5 auf 72,4 Prozent, Haiku 4.5 schaffte 15,7 Prozent. Im Terminal-Bench 4.0 erreicht es 39,2 Prozent gegenüber 0 beim Vorgänger. Bei Humanity's Last Exam sind es ohne Werkzeuge 45,9 Prozent. Neu ist auch, dass sich bei einem Haiku-Modell erstmals der Denkaufwand in Stufen einstellen lässt, von niedrig bis maximal.",
+            "Anthropic hat im selben Zug weitere Preise gesenkt. Das Lesen aus dem Zwischenspeicher kostet bei Sonnet 5.5 nur noch 0,10 statt 0,20 Dollar pro Million Token, was das Modell bei typischer Agentenarbeit um etwa 20 Prozent billiger machen soll. Abonnenten der Tarife Max und Team bekommen künftig monatliches API-Guthaben, 100 Dollar bei Max 5x, 200 Dollar bei Max 20x und bis zu 500 Dollar bei Team.",
+            "Yahoo Finance ordnet den Schritt in einen verschärften Preiskampf ein: Das neue Modell liegt preislich auf einer Linie mit OpenAIs kleinstem Modell GPT-6 Luna. Zugleich bereitet sich Anthropic auf seinen Börsengang vor. Laut dem von Reuters eingesehenen Börsenprospekt setzte das Unternehmen 2025 rund 4,6 Milliarden Dollar um, verlor im selben Jahr aber 42 Milliarden Dollar."
+          ],
+          "highlight": "Bei kürzeren Anfragen ist das neue Modell damit 90 Prozent günstiger, bei längeren 50 Prozent.",
+          "assessment": [
+            "Kleine Modelle sind das, was in Firmen tatsächlich millionenfach läuft, und genau dort wird der Preiskampf gerade entschieden. Dass Anthropic exakt auf dem Preisniveau von GPT-6 Luna landet, ist kein Zufall, sondern eine Ansage.",
+            "Interessant ist die Spannung zum Börsengang: Ein Unternehmen mit 42 Milliarden Dollar Jahresverlust senkt die Preise um bis zu 90 Prozent. Das geht nur, wenn die Modelle effizienter geworden sind, oder wenn man Marktanteile vorerst wichtiger nimmt als Marge. Wahrscheinlich ist es beides."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/claude-haiku-5-5"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/article/anthropic-reveals-haiku-55-model-as-ai-pricing-war-intensifies-180000423.html"
+            }
+          ],
+          "image": {
+            "url": "https://s.yimg.com/lo/mysterio/api/668b389675cca4b891204734cb35b61102bd71f73b4e92ea5348ab9f33999ff5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F626d7874-0b70-4228-9296-2501f3371a0c",
+            "alt": "Grafik zu den Preisen von Claude Haiku 5.5 im Vergleich",
+            "credit": "Yahoo Finance",
+            "license": "Artikelbild Yahoo Finance",
+            "source": "https://finance.yahoo.com/technology/article/anthropic-reveals-haiku-55-model-as-ai-pricing-war-intensifies-180000423.html"
+          }
+        },
+        {
+          "title": "Pentagon kauft KI nach Fünf-Minuten-Videos, auch für die „Kill Chain“",
+          "lead": "Über das Programm Tradewinds können Firmen dem US-Verteidigungsministerium ihre KI-Produkte per Kurzvideo anbieten. Wer angenommen wird, kann Aufträge ohne klassische Ausschreibung bekommen, teils in weniger als einer Woche.",
+          "body": [
+            "WIRED hat ein bislang wenig beachtetes Beschaffungsprogramm des Pentagons beschrieben. Tradewinds wird vom Chief Digital and Artificial Intelligence Office (CDAO) des Verteidigungsministeriums geführt. Firmen reichen Videos ein, die höchstens fünf Minuten lang sein dürfen und zeigen, wie ihr KI-Produkt eines der vorgegebenen strategischen Schwerpunktthemen bedient. Mindestens einmal im Monat entscheidet eine Jury, welche Beiträge in den Tradewinds Solutions Marketplace aufgenommen werden.",
+            "Die Aufnahme hat große Wirkung: Die Produkte gelten dann als bereits im Wettbewerb geprüft. Viele Beschaffungsregeln verlangen eine Ausschreibung, mit diesem Status können Behörden diese Hürde abhaken und Monate sparen. Ein Vertreter des Ministeriums sagt, man habe über Tradewinds in mehreren Fällen Aufträge in weniger als einer Woche vergeben. OpenAI, Anthropic und Google sind als Teilnehmer gelistet, alle drei lehnten einen Kommentar ab.",
+            "Die Themen haben sich deutlich verschoben. In diesem Jahr sucht das Militär Videos zu KI, die die Schlagkraft der Truppe erhöht, und zu KI-Agenten, die beim gemeinsamen Zielprozess helfen, einschließlich der sogenannten Kill-Chain-Ausführung. Unter der Biden-Regierung waren zuletzt noch Beiträge zu verantwortungsvoller KI und zu Leitplanken für Entwicklung und Einsatz gefragt. Die neuen Themen folgen laut Ministerium einem Strategiepapier vom Januar 2026.",
+            "Über Tradewinds lassen sich besonders leicht sogenannte Other Transaction Agreements abschließen, Verträge, die von Teilen des Vergaberechts ausgenommen sind. Bis zu 500 Millionen Dollar darf das Pentagon pro Vertrag ausgeben, ohne den Kongress zu informieren. Die republikanische Senatorin Joni Ernst sagte WIRED, zahlreiche Prüfungen hätten bei diesen Verträgen Warnsignale gefunden, darunter fragwürdige Kosten, mangelnde Aufsicht und fehlende Transparenz.",
+            "Hinter dem Programm steht auch ein Machtproblem. Experten im Artikel erinnern daran, dass das Militär einst Internet und GPS finanziert und damit die Richtung bestimmt hat. Heute investieren die Tech-Konzerne selbst Milliarden in KI. Die Journalistin Sharon Weinberger nennt das, was das Pentagon dagegen aufbringen kann, einen Tropfen auf den heißen Stein."
+          ],
+          "highlight": "In diesem Jahr sucht das Militär Videos zu KI, die die Schlagkraft der Truppe erhöht, und zu KI-Agenten, die beim gemeinsamen Zielprozess helfen, einschließlich der sogenannten Kill-Chain-Ausführung.",
+          "assessment": [
+            "Schnelle Beschaffung ist an sich kein Skandal, das Pentagon ist berüchtigt für jahrelange Vergabeverfahren. Bedenklich ist die Kombination: Software für Zielauswahl, ausgewählt anhand eines Werbevideos, bezahlt über Verträge, die kaum öffentlich auftauchen.",
+            "Für die großen KI-Labore ist das unangenehm. Sie betonen ihre Sicherheitsregeln, stehen aber auf einer Plattform, die ausdrücklich Kill-Chain-Agenten sucht, und schweigen auf Nachfrage. Die Frage, wofür ihre Modelle im Militär tatsächlich eingesetzt werden, wird sie nicht mehr loslassen."
+          ],
+          "sources": [
+            {
+              "name": "WIRED",
+              "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
+            }
+          ],
+          "image": {
+            "url": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+            "alt": "Fotoillustration zum Pentagon-Programm Tradewinds",
+            "credit": "Jobanny Cabrera; Getty Images",
+            "license": "Artikelbild WIRED",
+            "source": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
+          }
+        },
+        {
+          "title": "Finnland stoppt Arbeiten an zwei Google-Rechenzentren",
+          "lead": "Die finnische Aufsichtsbehörde hat Google angewiesen, die Vorarbeiten für Rechenzentren in Muhos und Kajaani einzustellen. Dort sollen Hunderte Hektar Wald ohne die vorgeschriebene Umweltverträglichkeitsprüfung gerodet worden sein.",
+          "body": [
+            "Die finnische Aufsichtsbehörde LVV hat angeordnet, dass an zwei geplanten Google-Rechenzentren vorerst nicht weitergearbeitet werden darf. Betroffen sind die Standorte Muhos und Kajaani. Nach Auffassung der Behörde wurde dort mit Arbeiten begonnen, ohne dass die gesetzlich vorgeschriebene Umweltverträglichkeitsprüfung vorlag. Alle Maßnahmen, die die Umwelt erheblich verändern, müssen spätestens bis zum 23. Oktober ruhen.",
+            "LVV-Umweltchef Tommi Muilu zählte auf, was bereits geschehen ist: Bäume wurden gefällt, der Oberboden abgetragen, Baustraßen und Lagerflächen angelegt und Gräben verändert. Der finnische Naturschutzbund spricht von mehr als 300 gerodeten Hektar, darunter Flächen, die hätten erhalten bleiben müssen. Die Firma Tuike Finland, die Googles Projekte in Finnland führt, muss bis zum 14. Oktober erklären, wie es weitergehen soll. Sonst drohen Zwangsmaßnahmen.",
+            "Google gibt sich ungewohnt selbstkritisch. Man verstehe die Bedenken und sei in diesem Fall hinter den eigenen hohen Ansprüchen zurückgeblieben, sagte ein Sprecher. Zugleich betont der Konzern, er habe nach dem Forstgesetz in gutem Glauben gehandelt, Naturgutachten erstellt und Schutzmaßnahmen umgesetzt. In Muhos will Google auf 130 Hektar Bäume pflanzen.",
+            "Die Projekte sind Teil einer Investition von mindestens 13 Milliarden Euro, die Google im September für die Jahre 2027 und 2028 angekündigt hat und die das Unternehmen seine größte Einzelinvestition in Europa nennt. Geplant sind neue Rechenzentren in Kajaani, Muhos und Vaala sowie ein Ausbau des bestehenden Standorts Hamina. Die Infrastruktur soll Suche, Maps und den KI-Assistenten Gemini versorgen. Google rechnet mit mehr als 37.000 Arbeitsplätzen in der Bauphase und hat sich per Vertrag bis zu die Hälfte der Kapazität des Atomkraftwerks Loviisa gesichert."
+          ],
+          "highlight": "Der finnische Naturschutzbund spricht von mehr als 300 gerodeten Hektar, darunter Flächen, die hätten erhalten bleiben müssen.",
+          "assessment": [
+            "Die Episode zeigt, wie sehr der KI-Ausbau inzwischen gegen die Uhr läuft. Wer Rechenzentren in Rekordtempo hochziehen will, fängt offenbar schon an zu roden, bevor die Genehmigungen vollständig sind. Dass Google den Fehler so offen einräumt, spricht dafür, dass die Rechtslage eindeutig ist.",
+            "Für Finnland ist es eine Gratwanderung. Das Land will die Milliarden, die Jobs und den Ruf als Standort mit kühlem Klima und sauberem Strom. Gerade deshalb ist es klug, früh Grenzen zu setzen: Ein Stopp von ein paar Wochen ist billiger als ein Präzedenzfall, der Investoren signalisiert, dass Umweltrecht verhandelbar ist."
+          ],
+          "sources": [
+            {
+              "name": "BBC über MyJoyOnline",
+              "url": "https://www.myjoyonline.com/finland-orders-halt-to-work-on-two-google-data-centres/"
+            },
+            {
+              "name": "Courthouse News",
+              "url": "https://www.courthousenews.com/finland-orders-halt-to-work-on-googles-data-center-sites/"
+            }
+          ],
+          "image": {
+            "url": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-688-1200x630.png",
+            "alt": "Bild zum Baustopp an Googles geplanten Rechenzentren in Finnland",
+            "credit": "MyJoyOnline",
+            "license": "Artikelbild MyJoyOnline",
+            "source": "https://www.myjoyonline.com/finland-orders-halt-to-work-on-two-google-data-centres/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Xbox gründet die Sparte XP für Filme, Merchandise und Freizeitparks",
+          "lead": "Microsoft bündelt alles, was mit seinen Spielemarken außerhalb der Spiele passiert, in einer neuen Einheit namens XP. Geleitet wird sie von Mojang-Chefin Kayleen Walters, Mojang bekommt eine neue Spitze von Reddit.",
+          "body": [
+            "Xbox hat am 8. Oktober eine neue Geschäftseinheit namens XP angekündigt. Der Name spielt auf Erfahrungspunkte an und steht zugleich für vier Bereiche: Xbox Pictures für Film- und Fernsehadaptionen, Xbox Products für Lizenzen und Merchandise, Xbox Partnerships für Sponsoren und Markenpartner sowie Xbox Places für große Übertragungen und Live-Events, Freizeitparks und andere Erlebnisse vor Ort.",
+            "Die Leitung übernimmt Kayleen Walters, bisher Präsidentin des Minecraft-Studios Mojang. Sie war 13 Jahre bei Lucasfilm, zuletzt im Franchise-Marketing rund um Star Wars, und kam 2018 zu Microsoft. Sie war ausführende Produzentin von A Minecraft Movie, der laut GamesIndustry.biz nach zehn Tagen 550 Millionen Dollar eingespielt hatte. Die Fortsetzung ist für den 23. Juli 2027 angesetzt. Ihre Nachfolgerin bei Mojang wird Maria Angelidou-Smith, bisher Produktchefin bei Reddit und davor fast ein Jahrzehnt bei Facebook.",
+            "Unter XP fallen Projekte wie die Fallout-Serie bei Amazon Prime Video, die laut GamesIndustry.biz auch die Verkäufe älterer Fallout-Spiele angekurbelt hat, und die Attraktion Minecraft World, die 2027 im britischen Freizeitpark Chessington World of Adventures öffnen soll. Bei Netflix ist ein Gears-of-War-Film in Arbeit. Die Halo-Serie dagegen wurde 2024 nach zwei Staffeln eingestellt.",
+            "Xbox-Chefin Asha Sharma schrieb an die Belegschaft, die Marken bedeuteten den Menschen mehr als die Zeit, die sie mit ihnen spielen. Schon am Tag zuvor hatte sie laut Windows Central in einer internen Versammlung gesagt, Xbox habe nach einem Allzeittief wieder zu wachsen begonnen, ohne konkrete Zahlen zu nennen. Die nächste Hardware-Generation, Project Helix, solle eine Gerätefamilie werden, mit einer Konsole an erster Stelle.",
+            "Die Neuordnung fällt in eine harte Phase. Sharmas sogenannter Reset hat bisher rund 3.200 Stellen gekostet und zur Abgabe von fünf Studios geführt. Schon 2012 hatte Microsoft mit den Xbox Entertainment Studios einen ähnlichen Vorstoß in Film und Fernsehen gewagt und ihn zwei Jahre später wieder beendet."
+          ],
+          "highlight": "Der Name spielt auf Erfahrungspunkte an und steht zugleich für vier Bereiche: Xbox Pictures für Film- und Fernsehadaptionen, Xbox Products für Lizenzen und Merchandise, Xbox Partnerships für Sponsoren und Markenpartner sowie Xbox Places für große Übertragungen und Live-Events, Freizeitparks und andere Erlebnisse vor Ort.",
+          "assessment": [
+            "XP ist die logische Konsequenz aus dem Kurs, den Xbox seit Monaten fährt: weniger Studios, weniger Wetten auf Neues, dafür die großen Marken maximal ausquetschen. Minecraft und Fallout haben gezeigt, dass ein Film oder eine Serie mehr Reichweite bringt als jedes Spiel-Update.",
+            "Der Haken ist offensichtlich. Während Tausende Entwickler ihren Job verloren haben, baut Microsoft eine Abteilung für Freizeitparks und Fanartikel. Das ist betriebswirtschaftlich nachvollziehbar, aber es beantwortet nicht die Frage, die viele stellen: Was für Spiele will Xbox eigentlich in Zukunft machen?"
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks"
+            },
+            {
+              "name": "Xbox Wire",
+              "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division/"
+            },
+            {
+              "name": "Thurrott",
+              "url": "https://www.thurrott.com/games/342587/xbox-creates-new-xp-division-focused-on-movies-tv-live-events-and-partnerships"
+            },
+            {
+              "name": "GamesIndustry.biz (Town Hall)",
+              "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall"
+            }
+          ],
+          "image": {
+            "url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/Xbox-XP-Division.jpg",
+            "alt": "Grafik zur neuen Xbox-Sparte XP",
+            "credit": "Thurrott",
+            "license": "Artikelbild Thurrott",
+            "source": "https://www.thurrott.com/games/342587/xbox-creates-new-xp-division-focused-on-movies-tv-live-events-and-partnerships"
+          }
+        },
+        {
+          "title": "US-Spielemarkt im August: NBA 2K27 vorn, Konsolen so schwach wie seit 2013 nicht",
+          "lead": "Die neuen Circana-Zahlen zeigen einen schrumpfenden US-Markt. Die Ausgaben sanken um 9 Prozent, bei der Hardware wurden so wenige Geräte verkauft wie in keinem August seit 2013.",
+          "body": [
+            "NBA 2K27 war im August das meistverkaufte Spiel in den USA und ist damit bereits das drittbestverkaufte Spiel des Jahres. Das zeigen die Daten des Marktforschers Circana für den Zeitraum vom 2. bis 29. August. Das Basketballspiel kam am 26. August in den frühen Zugang und brauchte nur vier Tage der Erhebung für Platz eins. Dahinter folgen Madden NFL 27, Marvel Tōkon: Fighting Souls, EAs Kickoff-Paket mit Madden und College Football sowie Star Wars: Zero Company. Elden Ring sprang dank der Switch-2-Version um 34 Plätze auf Rang sieben.",
+            "Insgesamt gaben US-Kunden im August 4,3 Milliarden Dollar für Videospiele aus, 9 Prozent weniger als ein Jahr zuvor. Hauptgrund war ein Rückgang der Mobile-Umsätze um 18 Prozent. Die Ausgaben für Spielinhalte fielen um 10 Prozent auf 3,8 Milliarden Dollar. Konsoleninhalte gingen um 7 Prozent zurück, während Abonnements um 3 Prozent und PC um 13 Prozent zulegten.",
+            "Am deutlichsten ist die Schwäche bei der Hardware. Mit 559.000 verkauften Geräten lag der Absatz 15 Prozent unter dem Vorjahr und so niedrig wie in keinem August seit 2013. Xbox verlor 31 Prozent und hatte den schwächsten August seit 2020, PlayStation fiel um 11 Prozent, Nintendo um 15 Prozent. Weil Geräte teurer geworden sind, sank der Hardware-Umsatz nur um 3 Prozent auf 302 Millionen Dollar. Der Durchschnittspreis eines neuen Geräts erreichte mit 541 Dollar einen August-Rekord, im Vorjahr waren es 476 Dollar.",
+            "Eine Kuriosität am Rande: Die Ausgaben für neue physische Software stiegen im bisherigen Jahr um 5 Prozent auf 738 Millionen Dollar, getragen von Game-Key-Cards, also Packungen, die nur einen Download-Schlüssel enthalten. Deren Umsatz legte um 631 Prozent zu.",
+            "Schon im Juli hatte Circana einen Rückgang von 10 Prozent gemeldet. Zum Jahresbeginn hatte der Marktforscher für 2026 eigentlich ein Rekordjahr mit 62,8 Milliarden Dollar vorhergesagt."
+          ],
+          "highlight": "Mit 559.000 verkauften Geräten lag der Absatz 15 Prozent unter dem Vorjahr und so niedrig wie in keinem August seit 2013.",
+          "assessment": [
+            "Die Zahlen bestätigen, was sich seit Monaten abzeichnet: Die Preise für Konsolen steigen, also kaufen weniger Leute welche. Ein Durchschnittspreis von 541 Dollar ist für viele Familien schlicht zu viel, zumal es kaum neue Gerätegenerationen gibt, die einen Kauf zwingend machen.",
+            "Besonders bitter ist das Minus für Xbox, das gleichzeitig Wachstum verkündet. Beides passt nur zusammen, wenn das Wachstum aus Spielen auf fremden Plattformen und Abos kommt. Die Konsole selbst wird für Microsoft offenbar zur Nebensache, egal wie oft das Gegenteil betont wird."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/nba-2k27_uqPjEYL.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus dem Basketballspiel NBA 2K27",
+            "credit": "GamesIndustry.biz",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts"
+          }
+        },
+        {
+          "title": "Denuvo jagt den Hacker voices38 über Discord, Valve und Reddit",
+          "lead": "Der Kopierschutzanbieter Denuvo will vor Gericht erzwingen, dass drei Plattformen Daten über einen anonymen Cracker herausgeben. Der soll den Schutz in 26 Spielen ausgehebelt haben, offenbar auf grundlegende Weise.",
+          "body": [
+            "Denuvo hat beim Bundesgericht für den Nordbezirk Kaliforniens beantragt, Vorladungen an Valve, Discord und Reddit zu erlassen. Die drei Plattformen sollen alle Informationen herausgeben, die sie über den Nutzer mit dem Namen voices38 haben. Ob die Vorladungen zugelassen werden, muss nun ein Richter entscheiden.",
+            "Bereits im September hatte Denuvo gegen voices38 eine Klage nach dem US-Urheberrecht DMCA eingereicht, wegen Umgehung technischer Schutzmaßnahmen. Laut der Klageschrift, die TorrentFreak vorliegt, soll voices38 den Schutz in 26 Spielen umgangen haben, und zwar auf eine Weise, die die Funktionsweise von Denuvo grundsätzlich untergräbt. Wer hinter dem Namen steckt, weiß Denuvo nicht. Die Anwälte räumen sogar ein, nicht zu wissen, ob es sich um eine Person oder eine Gruppe handelt.",
+            "Für Denuvo geht es um das Geschäftsmodell. Der Kopierschutz, den Verlage für große PC-Spiele lizenzieren, galt lange als kaum zu knacken. In diesem Jahr wurden aber Titel wie Resident Evil Requiem, Stellar Blade, 007 First Light und Doom: The Dark Ages zum Start oder kurz danach geknackt. Weil voices38 auch ältere Spiele freischaltet, sieht es so aus, als habe er einen strukturellen Weg gefunden. Laut Game Developer erstattet Denuvo kein Geld, wenn der Schutz fällt.",
+            "Unter PC-Spielern ist Denuvo umstritten, viele werfen dem Schutz vor, die Leistung von Spielen zu verschlechtern, und feuern die Cracker an. voices38 selbst schreibt weiter auf Reddit und kommentiert die Lage knapp: Alles sei in Ordnung, alles laufe weiter wie gewohnt."
+          ],
+          "highlight": "Weil voices38 auch ältere Spiele freischaltet, sieht es so aus, als habe er einen strukturellen Weg gefunden.",
+          "assessment": [
+            "Der Gang vor Gericht wirkt wie ein Eingeständnis. Ein Kopierschutz, dessen Hersteller den Angreifer per Vorladung suchen muss, hat technisch offenbar schon verloren. Selbst wenn Denuvo voices38 enttarnt, bleibt die Methode in der Welt.",
+            "Für Verlage stellt sich damit eine nüchterne Rechenfrage. Denuvo kostet Lizenzgebühren, verärgert einen Teil der Kundschaft und schützt im Ernstfall nur noch Tage. Ich würde nicht ausschließen, dass einige große Titel künftig ganz darauf verzichten."
+          ],
+          "sources": [
+            {
+              "name": "Game Developer",
+              "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker"
+            }
+          ],
+          "image": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta8a34550a2aa3134/6ac7b2b98cf417066e56c0fb/rerequiemsteam.jpg?disable=upscale&width=1200&height=630&fit=crop",
+            "alt": "Szene aus Resident Evil Requiem, einem der geknackten Spiele",
+            "credit": "Game Developer",
+            "license": "Artikelbild Game Developer",
+            "source": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker"
+          }
+        },
+        {
+          "title": "Forza Horizon 6 für PS5 offenbar erst am 26. Januar",
+          "lead": "Der bekannte Leaker billbil-kun nennt ein konkretes Datum für die PlayStation-Fassung von Forza Horizon 6. Das Studio Playground hatte eine Verschiebung bisher bestritten.",
+          "body": [
+            "Forza Horizon 6 soll auf der PlayStation 5 erst am 26. Januar 2027 erscheinen. Das berichtet der französische Insider billbil-kun von Dealabs, der mit solchen Angaben in der Vergangenheit oft richtig lag. Er schrieb, man habe eigene Recherchen angestellt und das genaue Datum erhalten. Eine offizielle Ankündigung samt Start der Vorbestellungen erwartet er noch in dieser Woche.",
+            "Laut billbil-kun kostet die PS5-Fassung in Großbritannien 59,99 Pfund und im übrigen Europa 69,99 Euro. Es soll auch eine Disc-Version im Handel geben. Ob eine Premium Edition kommt, konnte er nicht bestätigen. Auf PC und Xbox enthält diese einen Erweiterungspass, einen Autopass und bei Vorbestellung bis zu vier Tage früheren Zugang.",
+            "Neu ist das Gerücht nicht. Ende August hatten bereits Tom Warren von The Verge und IGN von einer Verschiebung ins Jahr 2027 berichtet. Playground Games widersprach damals wenige Tage später und öffnete die Wunschliste im PlayStation Store. Am Tag vor dem neuen Bericht entschuldigte sich das Studio auf X für mangelnde Kommunikation zu Forza Horizon 6 und versprach, daran zu arbeiten.",
+            "Auf PC und Xbox ist das Spiel bereits erschienen und gehört zu den meistverkauften Spielen des Jahres. Eurogamer zufolge gilt es als umsatzstärkste Neuerscheinung auf Steam in diesem Jahr."
+          ],
+          "highlight": "Forza Horizon 6 soll auf der PlayStation 5 erst am 26. Januar 2027 erscheinen.",
+          "assessment": [
+            "Wenn billbil-kun recht hat, ist das vor allem ein Kommunikationsdesaster. Eine Verschiebung erst zu dementieren und sie einen Monat später durchsickern zu lassen, kostet Vertrauen, gerade bei PlayStation-Spielern, die Xbox ohnehin skeptisch betrachten.",
+            "Wirtschaftlich ist ein Januar-Termin dagegen gar nicht dumm. Im vollen Herbst gegen GTA 6 anzutreten, wäre für jedes Spiel riskant. Ein ruhiger Januar gibt der PS5-Fassung eine eigene Bühne."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Rennwagen in Forza Horizon 6",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
+          }
+        },
+        {
+          "title": "Gravity Well: Studio von Respawn-Veteranen entlässt über 40 Entwickler",
+          "lead": "Das unabhängige Studio Gravity Well hat seine Finanzierung verloren und den Großteil seines Teams entlassen. Ein kleiner Rest kämpft weiter ums Überleben.",
+          "body": [
+            "Gravity Well, ein unabhängiges Studio, das von früheren Mitarbeitern von Respawn Entertainment gegründet wurde, hat sich von der Mehrheit seiner Belegschaft getrennt. Die drei Studioleiter Drew McCoy, Jon Shiring und Mon Saetern schrieben auf LinkedIn, man habe im Sommer die Finanzierung verloren und suche weiter nach einem neuen Partner. Deshalb habe man sich von über 40 sehr talentierten Entwicklern verabschieden müssen.",
+            "Nach Angaben der Gründer wussten alle Beschäftigten, wie es um das Studio stand, und kannten die Möglichkeit, dass es ohne neue Geldgeber nicht weitergeht. Man wisse zu schätzen, dass das Team den ganzen Prozess über geblieben sei, in der Hoffnung, eine Lösung zu finden, bevor das Geld aufgebraucht ist. Es mache sie traurig, dass das nicht rechtzeitig gelungen sei.",
+            "Ein deutlich kleineres Team arbeitet weiter und kämpft, wie es heißt, ums Überleben. Angesichts der aktuellen Lage der Branche sei die Zukunft aber ungewiss. Das Studio bittet andere Firmen, die Betroffenen einzustellen.",
+            "Gravity Well reiht sich in eine lange Liste ein. Allein in dieser Woche meldeten Ninja Theory und Supermassive Games Entlassungen, das Studio Bit Reactor holt dagegen gerade einen Teil seiner beurlaubten Leute zurück."
+          ],
+          "highlight": "Deshalb habe man sich von über 40 sehr talentierten Entwicklern verabschieden müssen.",
+          "assessment": [
+            "Gravity Well ist ein Musterbeispiel für das Problem neuer Studios: Erfahrene Leute aus einem Erfolgsstudio, ein Team von über 40 Personen, aber keine Einnahmen, solange kein Spiel fertig ist. Fällt der Geldgeber weg, bleibt nichts.",
+            "Dass die Gründer früh offen kommuniziert haben, ist anständig und in der Branche keineswegs selbstverständlich. Es ändert aber nichts daran, dass Investoren derzeit kaum noch bereit sind, Studios über Jahre zu finanzieren, bevor ein Spiel Geld einbringt."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-07-at-21.23.11.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Bildschirmfoto zur Mitteilung von Gravity Well über die Entlassungen",
+            "credit": "GamesIndustry.biz",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Hethitisches Königsarchiv: Tontafeln erzählen vom Tod einer kleinen Prinzessin",
+          "lead": "In Kayalıpınar in der Türkei, dem antiken Šamuḫa, haben Archäologen 131 weitere Keilschrifttafeln gefunden. Das Archiv aus der Zeit König Tudhaliyas II. berichtet von einer Seuche, einem toten Kind im Königshaus und verzweifelten Generälen.",
+          "body": [
+            "Bei Ausgrabungen in Kayalıpınar in der Provinz Sivas haben Archäologen in dieser Saison 131 Keilschrifttafeln und Fragmente entdeckt. Zusammen mit 53 Funden aus dem Vorjahr umfasst das Archiv nun 184 Dokumente. Die Grabung wird von der Koç-Universität unter Aufsicht des türkischen Kulturministeriums durchgeführt. Die Tafeln stammen aus der Regierungszeit des Hethiterkönigs Tudhaliya II., also aus der Zeit vor etwa 3.400 Jahren, und sind auf Hethitisch und Hurritisch geschrieben.",
+            "Kulturminister Mehmet Nuri Ersoy nannte die Sammlung das umfangreichste hethitischsprachige Archiv, das im 21. Jahrhundert gefunden wurde. Die Forscher sehen darin eine der bedeutendsten Ansammlungen hethitischer Dokumente außerhalb der Hauptstadt Hattuša, wo seit dem frühen 20. Jahrhundert Tausende Tafeln geborgen wurden.",
+            "Besonders bewegend sind Aufzeichnungen über eine Epidemie mit hohem Fieber, die sich von Stadt zu Stadt ausbreitete und vor allem Säuglinge und Kinder traf. Ein Bericht verfolgt eine Prinzessin, die in einer Stadt namens Ziulila erkrankte, als sie noch gestillt wurde. Die Texte halten ihren sich verschlechternden Zustand fest, ihren Tod und das Bestattungsritual. Andere Tafeln zeigen, wie genau der Hof die Gesundheit von Prinzen, Prinzessinnen und Kindern hoher Beamter überwachte, und wie Orakelspezialisten befragt wurden. Um welche Krankheit es sich handelte, ist unbekannt.",
+            "Ein weiterer Brief stammt von hethitischen Generälen im Westen Anatoliens. Sie baten den König angesichts einer wachsenden Bedrohung um Soldaten, Pferde und Streitwagen und warnten, ohne sofortige Hilfe könne der Feind ihr Heer vernichten. Für die Folgen wollten sie keine Verantwortung übernehmen, falls der König keine Unterstützung schicke. Der Brief zeigt zudem, dass der König sich zu dieser Zeit in Šamuḫa aufhielt.",
+            "Šamuḫa war ein wichtiges Verwaltungs- und Kultzentrum am Fluss Kızılırmak und eng mit der Göttin Šauška verbunden. In unruhigen Zeiten diente die Stadt als Königsresidenz, von der aus Tudhaliya regierte. Weitere neu gefundene Tafeln beschreiben die Reiserouten hethitischer Vogelschauer, die aus dem Verhalten von Vögeln Antworten auf drängende Fragen lasen."
+          ],
+          "highlight": "Die Texte halten ihren sich verschlechternden Zustand fest, ihren Tod und das Bestattungsritual.",
+          "assessment": [
+            "Solche Funde sind selten, weil sie nicht nur Herrschaft dokumentieren, sondern Angst. Die Hethiter stellten ihre Könige sonst als siegreich und gottnah dar. Hier sieht man einen Hof, der um ein krankes Kind bangt, und Generäle, die sich schriftlich absichern, falls alles schiefgeht.",
+            "Wissenschaftlich ist das Archiv ein Glücksfall für die unruhige Zeit vor dem Aufstieg Šuppiluliumas I., über die bislang wenig bekannt war. Die eigentliche Arbeit beginnt jetzt mit der Übersetzung, und es würde mich nicht wundern, wenn daraus noch mehr Überraschungen kommen."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/hittite-royal-archive-discovered-in-turkiye-reveals-a-3400-year-old-royal-tragedy/"
+            },
+            {
+              "name": "HeritageDaily",
+              "url": "https://www.heritagedaily.com/2026/10/184-cuneiform-tablets-discovered-in-hittite-royal-archive/159533"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Samuha-Hittite-royal-archive.jpeg",
+            "alt": "Keilschrifttafeln aus dem hethitischen Archiv von Kayalıpınar",
+            "credit": "Türkisches Ministerium für Kultur und Tourismus",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/hittite-royal-archive-discovered-in-turkiye-reveals-a-3400-year-old-royal-tragedy/"
+          }
+        },
+        {
+          "title": "Neandertaler waren geschickte Holzhandwerker: Speere, Keule und Baustrukturen",
+          "lead": "Eine Studie zu fast 600 Holzresten aus dem Abric Romaní bei Barcelona zeigt, wie vielfältig Neandertaler Holz nutzten. Darunter sind zwei Speere und ein rätselhaftes keulenartiges Objekt.",
+          "body": [
+            "Neandertaler haben Holz nicht nur verbrannt, sondern daraus Waffen, Werkzeuge und Haushaltsgegenstände gefertigt und womöglich Teile ihrer Wohnplätze gebaut. Das zeigt eine in Science Advances erschienene Studie zu 597 Holzresten und Abdrücken aus dem Abric Romaní, einem Felsdach in Capellades bei Barcelona. Die Funde stammen aus 16 Fundschichten und decken die Zeit von etwa 62.000 bis 40.000 Jahren vor heute ab. Geleitet wurde die Studie von Palmira Saladié vom Institut IPHES-CERCA und der Universität Rovira i Virgili.",
+            "Dass so viel erhalten blieb, liegt am Gestein. Um das Holz lagerte sich Kalk ab. Als das Holz verrottete, blieben natürliche Hohlformen im Travertin zurück, die die ursprüngliche Form sehr genau bewahren, teils sogar die innere Gewebestruktur.",
+            "Die meisten Stücke sind Stämme, Äste, Wurzeln und Brennholzhaufen. 13 Objekte haben die Forscher als von Neandertalern hergestellt oder benutzt erkannt. Aus Schicht R stammen zwei Holzspeere: einer 2,45 Meter lang, geformt wie ein Stoßspeer für den Nahkampf, der andere 1,99 Meter mit deutlich bearbeiteter Spitze. Aus Schicht P stammt ein aus einem Stück geschnitztes Objekt mit Griff und dickem, spitzem Ende, das wie eine Keule aussieht. Wofür es diente, weiß niemand, ein Vergleichsstück gibt es nicht.",
+            "Dazu kommen mögliche Rindenbehälter, gekreuzte Stangen, die Teil einer erhöhten Plattform zur Nahrungszubereitung gewesen sein könnten, und ein 5,10 Meter langes gerades Holzstück, vielleicht ein Bauelement. Die Brennholzhaufen zeigen, dass Neandertaler Brennstoff auf verschiedene Weise sammelten, transportierten und lagerten. Weil in denselben Schichten auch Feuerstellen, Steinwerkzeuge und Tierknochen liegen, lässt sich der Alltag an diesem Ort ungewöhnlich gut rekonstruieren.",
+            "Hölzerne Waffen aus der europäischen Altsteinzeit sind extrem selten. Die bekanntesten Fundorte sind Schöningen und Lehringen in Deutschland. Systematische Grabungen im Abric Romaní laufen seit 1983, die Studie ist die erste vollständige Auswertung des dort geborgenen Holzes."
+          ],
+          "highlight": "13 Objekte haben die Forscher als von Neandertalern hergestellt oder benutzt erkannt.",
+          "assessment": [
+            "Unser Bild der Neandertaler ist ein Steinbild, weil fast nur Stein überdauert. Diese Studie erinnert daran, wie verzerrt das ist: Holz war vermutlich das wichtigste Material ihres Alltags, und wir sehen davon normalerweise nichts.",
+            "Stark ist vor allem die Zeittiefe. Nicht ein einzelner Glücksfund, sondern über 20.000 Jahre wiederkehrender Holznutzung am selben Ort. Das macht es schwer, Neandertaler weiter als technisch einfache Verwandte abzutun."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News Online Magazine",
+              "url": "https://archaeologymag.com/2026/10/neanderthal-woodworking-was-more-advanced/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/neanderthal-woodworking-1.jpg",
+            "alt": "Dokumentation eines Holzobjekts bei der Ausgrabung im Abric Romaní",
+            "credit": "Gerard Campeny / IPHES-CERCA",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/neanderthal-woodworking-was-more-advanced/"
+          }
+        },
+        {
+          "title": "3.000 Jahre altes Bronzeschwert aus versunkenem Dorf im Lago di Mezzano",
+          "lead": "Unterwasserarchäologen haben in einem Kratersee in Mittelitalien ein Schwert aus dem 13. Jahrhundert v. Chr. geborgen. Seine Schneide ist nach über drei Jahrtausenden noch scharf.",
+          "body": [
+            "Im Lago di Mezzano in der Tuscia, einem See im Krater eines erloschenen Vulkans im Norden Latiums, haben Archäologen ein Bronzeschwert aus der späten Bronzezeit gefunden. Das Team des Unterwasserdienstes der zuständigen Denkmalbehörde für die Provinz Viterbo und das südliche Etrurien entdeckte es am Südufer des Sees. Das Schwert stammt aus dem 13. Jahrhundert v. Chr. und ist laut den Forschern bemerkenswert gut erhalten, die Schneide ist noch scharf.",
+            "Es ist das dritte Bronzeschwert aus dem See, seit dort in den 1970er-Jahren die Untersuchungen begannen. Unter Wasser liegen die Reste einer ausgedehnten Siedlung auf Holzkonstruktionen, die in der frühen Bronzezeit zu Beginn des 2. Jahrtausends v. Chr. entstand und über mehrere Phasen bewohnt war.",
+            "In derselben Saison bargen die Taucher vollständige Keramikgefäße, Bronzebeile, Pfeilspitzen, Dolche, Lanzenspitzen, Nadeln und ein Rasiermesser. Das Schwert lag dicht neben dem Rasiermesser. Diese Kombination ist auch von anderen bronzezeitlichen Fundorten bekannt und wird mit Menschen von hohem Rang in Verbindung gebracht, etwa einer Kriegerelite.",
+            "Offen ist, warum so viele Metallobjekte in und um die Siedlung ins Wasser gelangten. In ganz Europa wurden Schwerter, Beile und Lanzen aus Feuchtgebieten und Gewässern geborgen, manche gelten als bewusste Opfergaben. Am Lago di Mezzano fällt auf, dass die Metallfunde an verschiedenen Stellen in auffällig gleicher Tiefe liegen. Weitere Grabungen sollen klären, ob das auf gezielte Niederlegung hindeutet. Eine Auswahl der Bronzefunde soll später in einer Ausstellung gezeigt werden."
+          ],
+          "highlight": "Das Schwert stammt aus dem 13. Jahrhundert v. Chr. und ist laut den Forschern bemerkenswert gut erhalten, die Schneide ist noch scharf.",
+          "assessment": [
+            "Ein einzelnes Schwert ist noch keine Sensation, aber der Fundort macht es spannend. Versunkene Pfahlbausiedlungen sind Zeitkapseln, in denen sich Holz, Keramik und Metall gemeinsam erhalten. Das erlaubt Fragen, die an Land kaum zu beantworten sind.",
+            "Die interessanteste Spur ist die gleichmäßige Fundtiefe. Wenn sich bestätigt, dass die Waffen bewusst ins Wasser gelegt wurden, wäre der See nicht nur Wohnort, sondern auch Kultplatz gewesen."
+          ],
+          "sources": [
+            {
+              "name": "HeritageDaily",
+              "url": "https://www.heritagedaily.com/2026/10/3000-year-old-bronze-sword-discovered-in-submerged-settlement-in-italy/159528"
+            }
+          ],
+          "image": {
+            "url": "https://www.heritagedaily.com/wp-content/uploads/2026/10/swor2.jpg",
+            "alt": "Das bronzezeitliche Schwert aus dem Lago di Mezzano",
+            "credit": "Soprintendenza Archeologia Belle Arti e Paesaggio per la provincia di Viterbo e per l'Etruria Meridionale",
+            "license": "Artikelbild HeritageDaily",
+            "source": "https://www.heritagedaily.com/2026/10/3000-year-old-bronze-sword-discovered-in-submerged-settlement-in-italy/159528"
+          }
+        },
+        {
+          "title": "Zweiter Bronzezeit-Hort bei Peebles: Gussformen und Schottlands erster Kupferbarren",
+          "lead": "Ein Sondengänger hat in den Scottish Borders einen zweiten Hort gefunden, nur rund elf Kilometer von seinem ersten. Die Tonformen darin könnten zeigen, wie die Beschläge des berühmten Peebles-Horts gegossen wurden.",
+          "body": [
+            "Mariusz Stępień, der bereits den rund 3.000 Jahre alten Peebles-Hort entdeckt hatte, ist nur etwa sieben Meilen davon entfernt auf einen zweiten Fund gestoßen. Sein Detektor schlug 2022 zuerst bei einem Beil an. Als er weitere Bronzeobjekte im Boden sah, hörte er auf zu graben und meldete die Stelle der Treasure Trove Unit, die die Archäologen der National Museums Scotland verständigte. Den Peebles-Hort hatte Schottland vor zwei Jahren für die Nation erworben.",
+            "Bei der Grabung fand das Team einen steinernen Cairn mit Objekten aus der späten Bronzezeit, etwa 1150 bis 800 v. Chr. Der nun Blyth-Hort genannte Fund wurde inzwischen den National Museums Scotland zugewiesen. Er ist klein: zwei Bronzebeile und mehrere Gussformen aus Ton. Solche Formen überdauern selten, weil Ton im Boden zerfällt. Die Forscher vermuten, dass einige davon zum Guss der ungewöhnlichen Bronzebeschläge im Peebles-Hort dienten. Das würde beide Funde mit derselben Werkstatt oder denselben Handwerkern verbinden.",
+            "Das auffälligste Stück ist ein vollständiger Kupferbarren, der erste seiner Art in Schottland. Solche Barren waren Rohmetall, das Schmiede für Werkzeuge und Schmuck einschmolzen. Chemische Analysen könnten zeigen, woher das Kupfer stammt, und damit auch Hinweise auf die Metallquellen beider Horte geben.",
+            "Kurator Matthew Knight sagte, der Fund wirke auf den ersten Blick bescheiden, erzähle aber viele Geschichten. Er lobte den Finder dafür, die Stelle sofort gemeldet zu haben, so sei der Fundzusammenhang erhalten geblieben. Beim Peebles-Hort hatte die Reinigung bereits einen silbrigen Schimmer offengelegt, der auf einen bewusst hohen Zinnanteil an der Oberfläche zurückgeht, ein Hinweis auf fortgeschrittenes Handwerkswissen im bronzezeitlichen Schottland."
+          ],
+          "highlight": "Das auffälligste Stück ist ein vollständiger Kupferbarren, der erste seiner Art in Schottland.",
+          "assessment": [
+            "Hier zeigt sich, warum unscheinbare Funde oft mehr wert sind als prächtige. Der Peebles-Hort ist das Schaustück, aber erst Gussformen und Rohmetall verraten, wie und wo so etwas hergestellt wurde.",
+            "Und es ist ein gutes Beispiel dafür, wie Sondengänger und Archäologen zusammenarbeiten können. Wer aufhört zu graben und meldet, statt Objekte herauszureißen, rettet genau den Zusammenhang, der den Fund wissenschaftlich wertvoll macht."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News Online Magazine",
+              "url": "https://archaeologymag.com/2026/10/second-bronze-age-hoard-found-near-peebles/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/bronze-age-hoard-near-peebles-1.jpg",
+            "alt": "Kurator Matthew Knight mit einer Tonform aus dem Blyth-Hort und einem Beschlag aus dem Peebles-Hort",
+            "credit": "Stewart Attwood",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/second-bronze-age-hoard-found-near-peebles/"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,30 @@
 [
  {
+  "nr": 4,
+  "date": "2026-10-09",
+  "updated": "2026-10-09T08:41:50+02:00",
+  "counts": {
+   "ki": 4,
+   "gaming": 5,
+   "geschichte": 4
+  },
+  "titles": [
+   "GPT-6 ist da, und ChatGPT antwortet jetzt mit Knöpfen, Rechnern und Diagrammen",
+   "Claude Haiku 5.5: Anthropics kleines Modell wird drastisch billiger",
+   "Pentagon kauft KI nach Fünf-Minuten-Videos, auch für die „Kill Chain“",
+   "Finnland stoppt Arbeiten an zwei Google-Rechenzentren",
+   "Xbox gründet die Sparte XP für Filme, Merchandise und Freizeitparks",
+   "US-Spielemarkt im August: NBA 2K27 vorn, Konsolen so schwach wie seit 2013 nicht",
+   "Denuvo jagt den Hacker voices38 über Discord, Valve und Reddit",
+   "Forza Horizon 6 für PS5 offenbar erst am 26. Januar",
+   "Gravity Well: Studio von Respawn-Veteranen entlässt über 40 Entwickler",
+   "Hethitisches Königsarchiv: Tontafeln erzählen vom Tod einer kleinen Prinzessin",
+   "Neandertaler waren geschickte Holzhandwerker: Speere, Keule und Baustrukturen",
+   "3.000 Jahre altes Bronzeschwert aus versunkenem Dorf im Lago di Mezzano",
+   "Zweiter Bronzezeit-Hort bei Peebles: Gussformen und Schottlands erster Kupferbarren"
+  ]
+ },
+ {
   "nr": 3,
   "date": "2026-10-08",
   "counts": {
