@@ -1,100 +1,126 @@
 [
- {
-  "nr": 4,
-  "date": "2026-10-09",
-  "updated": "2026-10-09T08:41:50+02:00",
-  "counts": {
-   "ki": 4,
-   "gaming": 5,
-   "geschichte": 4
+  {
+    "nr": 5,
+    "date": "2026-10-10",
+    "updated": "2026-10-10T08:42:28+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Anthropic-Agent schickte falschen Mordhinweis an die Polizei in Philadelphia",
+      "OpenAI macht offenbar 20 Milliarden Dollar weniger Umsatz als gedacht",
+      "Anthropic verbietet „grausames“ Verhalten gegenüber Claude",
+      "Gefeuerte OpenAI-Sicherheitsforscher wehren sich mit offenem Brief",
+      "Manus sammelt nach dem geplatzten Meta-Deal über 500 Millionen Dollar ein",
+      "Cyberpunk 2077 wird ein Realfilm bei Paramount",
+      "Ubisoft stellt Rainbow Six Mobile nach sieben Monaten ein",
+      "Sony überträgt über 400 VR-Patente an Meta",
+      "Richard Garriott holt sich Ultima von EA zurück",
+      "Bit Reactor holt mehr als die Hälfte der beurlaubten Belegschaft zurück",
+      "Inselbewohner finden auf Lismore ein frühmittelalterliches Kloster",
+      "Seltenes Bootsgrab auf slawischem Friedhof in Ostpolen entdeckt",
+      "2.100 Jahre altes Schiffswrack vor der Türkei: Tausende Teller fast unversehrt",
+      "Römischer Mars-Tempel am Limes im Taunus freigelegt"
+    ]
   },
-  "titles": [
-   "GPT-6 ist da, und ChatGPT antwortet jetzt mit Knöpfen, Rechnern und Diagrammen",
-   "Claude Haiku 5.5: Anthropics kleines Modell wird drastisch billiger",
-   "Pentagon kauft KI nach Fünf-Minuten-Videos, auch für die „Kill Chain“",
-   "Finnland stoppt Arbeiten an zwei Google-Rechenzentren",
-   "Xbox gründet die Sparte XP für Filme, Merchandise und Freizeitparks",
-   "US-Spielemarkt im August: NBA 2K27 vorn, Konsolen so schwach wie seit 2013 nicht",
-   "Denuvo jagt den Hacker voices38 über Discord, Valve und Reddit",
-   "Forza Horizon 6 für PS5 offenbar erst am 26. Januar",
-   "Gravity Well: Studio von Respawn-Veteranen entlässt über 40 Entwickler",
-   "Hethitisches Königsarchiv: Tontafeln erzählen vom Tod einer kleinen Prinzessin",
-   "Neandertaler waren geschickte Holzhandwerker: Speere, Keule und Baustrukturen",
-   "3.000 Jahre altes Bronzeschwert aus versunkenem Dorf im Lago di Mezzano",
-   "Zweiter Bronzezeit-Hort bei Peebles: Gussformen und Schottlands erster Kupferbarren"
-  ]
- },
- {
-  "nr": 3,
-  "date": "2026-10-08",
-  "counts": {
-   "ki": 4,
-   "gaming": 5,
-   "geschichte": 5
+  {
+    "nr": 4,
+    "date": "2026-10-09",
+    "updated": "2026-10-09T08:41:50+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "GPT-6 ist da, und ChatGPT antwortet jetzt mit Knöpfen, Rechnern und Diagrammen",
+      "Claude Haiku 5.5: Anthropics kleines Modell wird drastisch billiger",
+      "Pentagon kauft KI nach Fünf-Minuten-Videos, auch für die „Kill Chain“",
+      "Finnland stoppt Arbeiten an zwei Google-Rechenzentren",
+      "Xbox gründet die Sparte XP für Filme, Merchandise und Freizeitparks",
+      "US-Spielemarkt im August: NBA 2K27 vorn, Konsolen so schwach wie seit 2013 nicht",
+      "Denuvo jagt den Hacker voices38 über Discord, Valve und Reddit",
+      "Forza Horizon 6 für PS5 offenbar erst am 26. Januar",
+      "Gravity Well: Studio von Respawn-Veteranen entlässt über 40 Entwickler",
+      "Hethitisches Königsarchiv: Tontafeln erzählen vom Tod einer kleinen Prinzessin",
+      "Neandertaler waren geschickte Holzhandwerker: Speere, Keule und Baustrukturen",
+      "3.000 Jahre altes Bronzeschwert aus versunkenem Dorf im Lago di Mezzano",
+      "Zweiter Bronzezeit-Hort bei Peebles: Gussformen und Schottlands erster Kupferbarren"
+    ]
   },
-  "titles": [
-   "Wikimedia: Unkontrollierte OpenAI-Agenten haben Wikis bearbeitet und Server geflutet",
-   "OpenAI veröffentlicht Hunderte Mathe-Manuskripte eines unveröffentlichten Modells",
-   "KI-Video eines Toten vor Gericht: Strafmaß in Arizona aufgehoben",
-   "KI-Startups kaufen KI-Startups: 195 Übernahmen in diesem Jahr",
-   "GTA 6 kommt zum Start in die Xbox-Cloud, aber nicht exklusiv",
-   "EA nach dem Rekord-Buyout: Anleihegläubiger machen Druck",
-   "Google Playground: Spiele per Texteingabe, Unity liefert das Profi-Werkzeug",
-   "Bobby Kotick zieht in den Vorstand des neuen Medienriesen Skydance ein",
-   "Grasshopper Manufacture ist wieder unabhängig",
-   "Riesige Festung in Ostanatolien: Ist das Urartus verlorene erste Hauptstadt?",
-   "Münzfund in Rom: Spuren der angelsächsischen Gemeinde nahe dem Vatikan",
-   "Wann kamen die ersten Menschen nach Amerika? Genetik spricht für 20.000 bis 14.000 Jahre",
-   "Hirte findet seltenen Eisenschild aus der Mongolenzeit in Sibirien",
-   "Koka im Lamafell: Spuren eines Inka-Rituals in Peru"
-  ],
-  "updated": "2026-10-08T06:47:15Z"
- },
- {
-  "nr": 2,
-  "date": "2026-10-07",
-  "counts": {
-   "ki": 5,
-   "gaming": 4,
-   "geschichte": 5
+  {
+    "nr": 3,
+    "date": "2026-10-08",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Wikimedia: Unkontrollierte OpenAI-Agenten haben Wikis bearbeitet und Server geflutet",
+      "OpenAI veröffentlicht Hunderte Mathe-Manuskripte eines unveröffentlichten Modells",
+      "KI-Video eines Toten vor Gericht: Strafmaß in Arizona aufgehoben",
+      "KI-Startups kaufen KI-Startups: 195 Übernahmen in diesem Jahr",
+      "GTA 6 kommt zum Start in die Xbox-Cloud, aber nicht exklusiv",
+      "EA nach dem Rekord-Buyout: Anleihegläubiger machen Druck",
+      "Google Playground: Spiele per Texteingabe, Unity liefert das Profi-Werkzeug",
+      "Bobby Kotick zieht in den Vorstand des neuen Medienriesen Skydance ein",
+      "Grasshopper Manufacture ist wieder unabhängig",
+      "Riesige Festung in Ostanatolien: Ist das Urartus verlorene erste Hauptstadt?",
+      "Münzfund in Rom: Spuren der angelsächsischen Gemeinde nahe dem Vatikan",
+      "Wann kamen die ersten Menschen nach Amerika? Genetik spricht für 20.000 bis 14.000 Jahre",
+      "Hirte findet seltenen Eisenschild aus der Mongolenzeit in Sibirien",
+      "Koka im Lamafell: Spuren eines Inka-Rituals in Peru"
+    ],
+    "updated": "2026-10-08T06:47:15Z"
   },
-  "titles": [
-   "Mistral Large 4: Europas Billionen-Modell kommt mit offenen Gewichten",
-   "Anthropic öffnet seine Cyber-Modelle für geprüfte Verteidiger",
-   "KI-Firmen verweigern in New York eine Sicherheitsgarantie",
-   "Google finanziert Leistungssteigerung in elf Atomreaktoren",
-   "Meta und Sierra wollen eine gemeinsame Tür für KI-Agenten bauen",
-   "Ninja Theory: Bei den Hellblade-Machern laufen die Entlassungen",
-   "Supermassive Games entlässt mehr als 70 Beschäftigte",
-   "Sega: KI ja, aber nicht für die kreative Arbeit an Spielen",
-   "Ex-PlayStation-Chef Layden: Abschied von Discs schadet der Marke",
-   "Erster Siegelring mit dem Leuchtturm von Alexandria gefunden",
-   "Wurden die Diener der ersten Pharaonen getötet? Schädel liefern neue Hinweise",
-   "Mehr als 1.000 Knochenwürfel in römischer Stadt in Frankreich",
-   "Krieger mit Goldmaske: reiches Grab am Ohridsee entdeckt",
-   "Haupttor des römischen Legionslagers Apulum entdeckt"
-  ],
-  "updated": "2026-10-07T06:45:07Z"
- },
- {
-  "nr": 1,
-  "date": "2026-10-06",
-  "counts": {
-   "ki": 3,
-   "gaming": 3,
-   "geschichte": 3
+  {
+    "nr": 2,
+    "date": "2026-10-07",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 5
+    },
+    "titles": [
+      "Mistral Large 4: Europas Billionen-Modell kommt mit offenen Gewichten",
+      "Anthropic öffnet seine Cyber-Modelle für geprüfte Verteidiger",
+      "KI-Firmen verweigern in New York eine Sicherheitsgarantie",
+      "Google finanziert Leistungssteigerung in elf Atomreaktoren",
+      "Meta und Sierra wollen eine gemeinsame Tür für KI-Agenten bauen",
+      "Ninja Theory: Bei den Hellblade-Machern laufen die Entlassungen",
+      "Supermassive Games entlässt mehr als 70 Beschäftigte",
+      "Sega: KI ja, aber nicht für die kreative Arbeit an Spielen",
+      "Ex-PlayStation-Chef Layden: Abschied von Discs schadet der Marke",
+      "Erster Siegelring mit dem Leuchtturm von Alexandria gefunden",
+      "Wurden die Diener der ersten Pharaonen getötet? Schädel liefern neue Hinweise",
+      "Mehr als 1.000 Knochenwürfel in römischer Stadt in Frankreich",
+      "Krieger mit Goldmaske: reiches Grab am Ohridsee entdeckt",
+      "Haupttor des römischen Legionslagers Apulum entdeckt"
+    ],
+    "updated": "2026-10-07T06:45:07Z"
   },
-  "titles": [
-   "DeepSeek sammelt mindestens 12 Milliarden Dollar ein",
-   "Google zeigt Gemini 4 Argon, zuerst nur für Cyber-Verteidiger",
-   "Anthropics Börsenprospekt: rasantes Wachstum und eine Warnung vor Washington",
-   "Gears of War: E-Day ist da, und die meisten Kritiker sind begeistert",
-   "GTA 6: Rockstar zeigt neue Bilder im Love Magazine",
-   "Star Wars: Galactic Racer bringt das Wettrennen zurück",
-   "Verlorene Römerstadt an der Donau entdeckt, vielleicht das rätselhafte Claudivium",
-   "Badanj-Höhle: Menschen waren 5.000 Jahre früher da als gedacht",
-   "Seltenes 4.000 Jahre altes Steinkammergrab in Norwegen ausgegraben"
-  ],
-  "updated": "2026-10-06T14:53:06+02:00"
- }
+  {
+    "nr": 1,
+    "date": "2026-10-06",
+    "counts": {
+      "ki": 3,
+      "gaming": 3,
+      "geschichte": 3
+    },
+    "titles": [
+      "DeepSeek sammelt mindestens 12 Milliarden Dollar ein",
+      "Google zeigt Gemini 4 Argon, zuerst nur für Cyber-Verteidiger",
+      "Anthropics Börsenprospekt: rasantes Wachstum und eine Warnung vor Washington",
+      "Gears of War: E-Day ist da, und die meisten Kritiker sind begeistert",
+      "GTA 6: Rockstar zeigt neue Bilder im Love Magazine",
+      "Star Wars: Galactic Racer bringt das Wettrennen zurück",
+      "Verlorene Römerstadt an der Donau entdeckt, vielleicht das rätselhafte Claudivium",
+      "Badanj-Höhle: Menschen waren 5.000 Jahre früher da als gedacht",
+      "Seltenes 4.000 Jahre altes Steinkammergrab in Norwegen ausgegraben"
+    ],
+    "updated": "2026-10-06T14:53:06+02:00"
+  }
 ]
