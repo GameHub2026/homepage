@@ -1,5 +1,30 @@
 [
   {
+    "nr": 6,
+    "date": "2026-10-11",
+    "updated": "2026-10-11T08:41:19+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Anthropic-Agentenfall: 20 Visumsanträge beim US-Außenministerium, Weißes Haus verlangt sofortige Meldung",
+      "Senatsbericht: Big Tech lässt Stromkunden für den Netzausbau der KI-Rechenzentren zahlen",
+      "Berkeley-Studie: Zehn Minuten mit ChatGPT schwächen das Durchhaltevermögen",
+      "Teurer Speicher durch KI-Boom: Apple kürzt Bestellungen für iPhone 18 Pro um bis zu 20 Prozent",
+      "GTA 6 kurz vor dem Start: Leaker droht mit komplettem Build, Rockstar muss sich vor Arbeitsgericht erklären",
+      "Gears of War: E-Day verkauft laut Schätzung nur 230.000 Exemplare, 1,7 Millionen spielen per Game Pass",
+      "Crimson Desert: Pearl Abyss erklärt mäßige Wertungen bei 6 Millionen Verkäufen",
+      "Ace Combat 8 knackt die Million schneller als jeder Vorgänger",
+      "Journey- und Edith-Finch-Veteranen sammeln weitere 35 Millionen Dollar für „Strandbox“-Fantasyspiel",
+      "Griechisches Tafelgeschirr im Wrack: Hellenistisches Schiff vor der Insel Vis entdeckt",
+      "Moche-Kindergrab an der Huaca de la Luna mit 32 Keramikbeigaben",
+      "„Weißbrust-Fuchs“: Erster namentlich bekannter Maya-Mathematiker",
+      "Befestigte Siedlung aus der Zeit des Ersten Türk-Khaganats in Ostkasachstan"
+    ]
+  },
+  {
     "nr": 5,
     "date": "2026-10-10",
     "updated": "2026-10-10T08:42:28+02:00",
