@@ -1,5 +1,31 @@
 [
   {
+    "nr": 7,
+    "date": "2026-10-12",
+    "updated": "2026-10-12T08:43:20+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Dritter Drohnentreffer in vier Tagen: Yandex-Rechenzentrum in Wladimir stillgelegt",
+      "Kehrtwende im Weißen Haus: Britische KI-Prüfer bekommen wieder Vorabzugang",
+      "Nadella fordert eine Notbremse: KI-Modelle wie riskante Insider behandeln",
+      "Amazon verhandelt über Kauf von Decart für rund 7 Milliarden Dollar",
+      "„Super Intelligence“ statt KI: Nadella, Benioff und Musk übernehmen Trumps Umbenennung",
+      "Nicolas Cage verweigerte Amazon die KI-Freigabe für Spider-Noir",
+      "Wing Commander 3 kommt als Remaster, mit wiedergefundenen Videobändern",
+      "EU-Verbraucherschützer nehmen virtuelle Spielwährungen ins Visier",
+      "Squadron 42 jetzt auf Steam vormerkbar, Start für das zweite Quartal 2027 geplant",
+      "Phasmophobia knackt 30 Millionen verkaufte Exemplare",
+      "Würfelorakel mit 56 Antworten: Römerzeitliche Säule in Kibyra entschlüsselt",
+      "Venusfiguren von Mizyn: Die Schnitzer kopierten das Muster des Mammutstoßzahns",
+      "Um 400 v. Chr. leerten sich Nordspaniens Bergfestungen innerhalb einer Generation",
+      "Gewaltopfer unter dem Hausboden: Neue Studie zu Toten in Wikingersiedlungen"
+    ]
+  },
+  {
     "nr": 6,
     "date": "2026-10-11",
     "updated": "2026-10-11T08:41:19+02:00",

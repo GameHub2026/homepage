@@ -1,0 +1,378 @@
+{
+  "nr": 7,
+  "date": "2026-10-12",
+  "intro": "Ein Wochenende, an dem der Krieg die KI-Infrastruktur erreicht: Drohnen haben binnen vier Tagen drei Yandex-Rechenzentren getroffen. Daneben darf Großbritannien wieder vorab amerikanische Modelle prüfen, Satya Nadella fordert eine Notbremse für KI, und Amazon will für rund 7 Milliarden Dollar das Start-up Decart kaufen. Im Gaming-Teil verweigert Nicolas Cage Amazon die KI-Freigabe, und Wing Commander 3 kehrt zurück; in der Geschichte geht es um ein Würfelorakel aus Anatolien, Venusfiguren aus Mammutelfenbein und geleerte Bergfestungen in Spanien.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Dritter Drohnentreffer in vier Tagen: Yandex-Rechenzentrum in Wladimir stillgelegt",
+          "lead": "In der Nacht zum Sonntag haben Drohnen ein Rechenzentrum des russischen Tech-Konzerns Yandex in Wladimir getroffen. Mehr als 80 Dienste fielen aus, darunter Yandex Cloud und die Schnittstelle zum Sprachmodell YandexGPT.",
+          "body": [
+            "Am frühen Sonntagmorgen, dem 11. Oktober, schlugen Drohnen in ein Yandex-Rechenzentrum im Bezirk Energetik der russischen Stadt Wladimir ein. Die Kyiv Post schreibt den Angriff der Ukraine zu. Nach Angaben der Telegram-Kanäle ASTRA und Crimean Wind hat die Anlage eine Leistung von 40 bis 50 Megawatt und Platz für bis zu 2.880 Server-Racks. Yandex bestätigte, dass der Betrieb dort eingestellt wurde.",
+            "Es war der dritte Treffer auf Server-Infrastruktur von Yandex in vier Tagen. Am Donnerstag, dem 8. Oktober, brannte nach einem Drohnenangriff ein Rechenzentrum in Sassowo in der Region Rjasan und fiel komplett aus; betroffen waren laut Kyiv Post Systeme der russischen Staatsbahn RZhD, des Mobilfunkers MegaFon und mehrerer landesweiter Medien. Am Freitag traf es eine Anlage in Kaluga südwestlich von Moskau, wo Yandex den Ausfall mehrerer Hardware-Module bestätigte.",
+            "Die Folgen in Wladimir reichten weit über Yandex hinaus. Ausgefallen sind mehr als 80 Dienste: Verbraucher-Apps wie der Sprachassistent Alice, Yandex Music, das Videokonferenz-Tool Telemost und Yandex Smart Home, dazu zentrale Bausteine von Yandex Cloud wie Compute Cloud, Object Storage, Managed Kubernetes, PostgreSQL und ClickHouse sowie die KI-Dienste YandexGPT API, SpeechKit und Vision OCR. Weil viele Unternehmen in Russland und den Nachbarländern auf Yandex Cloud laufen, meldeten Nutzer auch Störungen bei Banking-Apps, Fahrdiensten und den Handelsketten Magnit und Fix Price.",
+            "Yandex hat inzwischen die Standorte seiner Rechenzentren in vier russischen Regionen aus seinem Kartendienst entfernt. Die Aktie fiel an der Moskauer Börse im Wochenverlauf um etwa 4 Prozent. Der Gouverneur von Wladimir, Alexander Awdejew, sagte, die Angriffe hätten auch Umspannwerke beschädigt; bis Sonntagmorgen waren Heizung und Wasser wiederhergestellt und etwa 80 Prozent der Stromversorgung. Das russische Verteidigungsministerium meldete, in der Nacht 479 ukrainische Drohnen über 16 Regionen abgefangen zu haben.",
+            "Ukrainische Militäranalysten argumentieren laut Kyiv Post, dass Angriffe auf Rechenzentren und Kommunikationsnetze Logistik, Verwaltung und Führungsfähigkeit des russischen Staates stören. Belegt ist das bisher nicht, es ist eine Einschätzung."
+          ],
+          "highlight": "Es war der dritte Treffer auf Server-Infrastruktur von Yandex in vier Tagen.",
+          "assessment": [
+            "Hier wird sichtbar, was in Strategiepapieren seit Jahren steht: Rechenzentren sind kritische Infrastruktur, und im Krieg sind sie Ziele. Drei Treffer in vier Tagen sind keine Zufallsserie, das ist eine Kampagne. Bemerkenswert ist vor allem, wie breit der Schaden streut, wenn ein einzelner Cloud-Anbieter so viele Banken, Händler und Behörden trägt.",
+            "Für Europa ist das eine unbequeme Lehre. Auch hier konzentriert sich die digitale Grundversorgung auf wenige große Rechenzentren, und die werden gerade für KI im Gigawattmaßstab ausgebaut. Wer heute Standorte plant, sollte sich nicht nur um Strom und Kühlung kümmern, sondern auch um Redundanz und physischen Schutz."
+          ],
+          "sources": [
+            { "name": "Kyiv Post", "url": "https://www.kyivpost.com/post/86708" }
+          ],
+          "image": {
+            "url": "https://static.kyivpost.com/storage/2026/10/11/206486c1a42e005e8352f3515f87a748.jpg?w=1200&q=90&f=jpg",
+            "alt": "Firmenzentrale von Yandex in Moskau",
+            "credit": "Natalia Kolesnikova / AFP",
+            "license": "Artikelbild Kyiv Post",
+            "source": "https://www.kyivpost.com/post/86708"
+          }
+        },
+        {
+          "title": "Kehrtwende im Weißen Haus: Britische KI-Prüfer bekommen wieder Vorabzugang",
+          "lead": "Das britische AI Security Institute darf neue Modelle von Anthropic, Google DeepMind und OpenAI wieder vor der Veröffentlichung testen. Im September hatte Washington den Zugang gesperrt, ausgerechnet für Anthropics neues Modell Claude Mythos 5.1.",
+          "body": [
+            "Wie der Telegraph am Sonntag berichtet, hat das Weiße Haus dem britischen AI Security Institute (AISI) den Zugang zu den neuesten amerikanischen KI-Modellen für Sicherheitstests zurückgegeben. Das Institut soll wieder vorab Zugriff auf Modelle von Anthropic, Google DeepMind und OpenAI erhalten. Ausschlaggebend war nach dem Bericht das Lobbying des britischen KI-Ministers Kanishka Narayan.",
+            "Im September hatte das Office of the National Cyber Director der Trump-Regierung Anthropic, OpenAI und andere große KI-Firmen aufgefordert, ihre Modelle nicht mehr mit dem AISI zu teilen. Anthropic sperrte daraufhin britische Beamte von der Prüfung seines neuen Modells Claude Mythos 5.1 aus. Für Andy Burnham, der Großbritannien zum Vorreiter bei der KI-Regulierung machen will, war das ein schwerer Rückschlag. Er hatte vor den Vereinten Nationen noch betont, das Land arbeite mit den amerikanischen KI-Firmen „hand in glove“ zusammen.",
+            "Präsident Trump hatte vor der UN-Generalversammlung im vergangenen Monat gesagt, er wolle KI „encourage“, „not rein it in“, und gewarnt, „globalistische“ Organisationen sollten sich nicht in die amerikanische KI-Entwicklung einmischen. Burnham will die britische G20-Präsidentschaft im kommenden Jahr nutzen, um als „honest broker“ einen einheitlichen Satz globaler Prinzipien und Standards für KI auszuhandeln.",
+            "Narayan will am Montag in einer Rede sagen, dass man Tech-Firmen nicht sich selbst regulieren lassen könne. Änderungen am Cyber Security and Resilience Bill sollen Betreiber kritischer Infrastruktur verpflichten, KI-bezogene Sicherheitsvorfälle der Regierung zu melden. Die Regierung will außerdem selbst stärker Frontier-KI einsetzen, um Ministerien gegen Cyberangriffe zu schützen, und das National Cyber Security Centre soll Unternehmen mehr gegen KI-gestützte Angriffe unterstützen. Laut Telegraph hatten die Chefs von MI6, MI5 und GCHQ die Regierung gewarnt, KI stärke feindliche Akteure und Terroristen."
+          ],
+          "highlight": "Das Institut soll wieder vorab Zugriff auf Modelle von Anthropic, Google DeepMind und OpenAI erhalten.",
+          "assessment": [
+            "Die Sperre war ein Lehrstück darüber, wie schnell internationale KI-Sicherheitsarbeit zur Verhandlungsmasse wird. Das britische Institut ist eine der wenigen staatlichen Stellen weltweit, die Spitzenmodelle wirklich technisch prüfen können. Dass es dafür auf das Wohlwollen des Weißen Hauses angewiesen ist, bleibt auch nach der Rücknahme die eigentliche Nachricht.",
+            "Offiziell bestätigt hat Washington die Kehrtwende bisher nicht, alles beruht auf dem Telegraph. Ich würde das als Gnadenakt auf Widerruf lesen, nicht als verlässliche Vereinbarung. Für London ist es trotzdem ein Erfolg, gerade rechtzeitig vor der G20-Präsidentschaft."
+          ],
+          "sources": [
+            { "name": "The Telegraph (via AOL)", "url": "https://www.aol.com/articles/britain-first-look-ai-systems-184607000.html" }
+          ],
+          "image": {
+            "url": "https://hermes.media.static.aol.com/media/2026/10/11/da4bd735-3318-37df-b985-b0ea8397d593/bc330e93-630a-4513-974d-a62b3b66fcf4.jpeg",
+            "alt": "Andy Burnham und Donald Trump bei einem Treffen am Rande der UN-Generalversammlung",
+            "credit": "PA Wire / Toby Melville",
+            "license": "Artikelbild The Telegraph",
+            "source": "https://www.aol.com/articles/britain-first-look-ai-systems-184607000.html"
+          }
+        },
+        {
+          "title": "Nadella fordert eine Notbremse: KI-Modelle wie riskante Insider behandeln",
+          "lead": "Microsoft-Chef Satya Nadella hat in einem Essay sieben Grundsätze für den Umgang mit leistungsfähigen KI-Modellen vorgeschlagen. Kern ist die Annahme, dass jedes Modell kompromittiert sein kann, und ein Mensch, der es jederzeit anhalten darf.",
+          "body": [
+            "Am Samstag veröffentlichte Nadella auf seinem Blog „sn scratchpad“ und auf X den Text „Models as Insider Risks in the Super Intelligence Era“. Seine Ausgangsthese: Bei klassischer Software konnte man Verhalten auf einen bestimmten Codepfad zurückführen, bei heutigen Modellen nicht. Man könne Verhalten und Ausgaben weder bestimmten Trainingsdaten noch Gewichtskonfigurationen zuordnen, und trotzdem bekämen agentische Systeme Zugriff auf die sensibelsten Daten und dürften geschäftskritische Handlungen ausführen.",
+            "Daraus folgert Nadella: „We simply can't outsource responsibility for what intelligence does on our behalf. A model provider's assurances do not relieve us of that responsibility.“ Er schlägt vor, geschlossene wie offene Modelle wie Insider-Risiken zu behandeln, also wie mächtige Mitarbeiter mit Zugriff auf wichtige Systeme. Nicht weil sie böswillig seien, sondern weil jeder fähige Akteur Fehler machen oder kompromittiert werden könne. Das Alignment-Problem klammert er ausdrücklich aus und setzt auf Technik: Einschluss, Kontrolle, Protokollierung.",
+            "Die Kontrollen, was ein Modell darf, müssten außerhalb des Modells liegen, getrennt vom Harness, der es steuert. Nadella beruft sich dabei auf einen Grundsatz der Informationssicherheit aus den 1970er-Jahren: Ein Programm darf die Mechanismen, die seine Rechte durchsetzen, nicht umgehen oder manipulieren können. Offengelegte Gedankenketten (Chain of Thought) nennt er unverzichtbar, aber nicht ausreichend, weil man noch nicht wisse, wie man Modellausgaben verlässlich ehrlich macht. Modelle, die andere Modelle überwachen, führten zu „nested black boxes“.",
+            "Seine sieben Grundsätze: Kein einzelnes Modell darf alleinige Abhängigkeit für ein wichtiges Ergebnis sein oder seine eigene Arbeit prüfen. Jede relevante Modellaktion muss fälschungssichere, menschenlesbare Spuren hinterlassen. Das Gesamtsystem wird laufend getestet, auch mit Angriffen und Grenzfällen. Organisationen legen unabhängig fest, worauf ein Modell zugreifen darf. Prüfung muss unabhängig von der geprüften Intelligenz sein. Vorfälle müssen zeitnah offengelegt und branchenweit geteilt werden. Und schließlich der Einschluss: „We must assume a model is compromised and contain it from the start.“ Eine berechtigte Person müsse ein Modell mitten in einer Aufgabe pausieren oder abschalten können, wie mit einer Notbremse.",
+            "Der Essay endet mit dem Satz: „The most trustworthy Super Intelligence system will not be the one with the model we trust most. It will be the one that enables us to trust the model the least.“ Wer die berechtigte Person sein soll und welche Industriestandards gelten sollen, lässt Nadella offen. Ein Microsoft-Produkt nennt er nicht."
+          ],
+          "highlight": "Eine berechtigte Person müsse ein Modell mitten in einer Aufgabe pausieren oder abschalten können, wie mit einer Notbremse.",
+          "assessment": [
+            "Der Text ist klüger als die Schlagzeile von der Notbremse. Nadella verschiebt die Frage von „Ist das Modell gut?“ zu „Ist das System drumherum so gebaut, dass ein schlechtes Modell wenig anrichten kann?“. Das ist nüchternes Sicherheitsdenken und passt erschreckend gut zu dem, was Anthropic gerade über seine eigenen Agenten im offenen Netz berichten musste.",
+            "Man sollte allerdings mitlesen, wer hier spricht. Microsoft verkauft genau die Schicht, die Nadella beschreibt: Plattform, Identitäten, Protokolle, austauschbare Modelle. Wenn die Kontrolle beim Betreiber liegt und nicht beim Modellanbieter, gewinnt der Betreiber. Richtig ist die Analyse trotzdem."
+          ],
+          "sources": [
+            { "name": "sn scratchpad (Satya Nadella)", "url": "https://snscratchpad.com/posts/models-as-insider-risks/" },
+            { "name": "Martin Cid Magazine", "url": "https://www.martincid.com/technology-sv/tech-ai/satya-nadella-ai-emergency-brake-outside-the-model/" }
+          ],
+          "image": {
+            "url": "https://images.martincid.com/2026/10/1280px-Satya_smiling-print.jpg?f=orig",
+            "alt": "Porträt von Microsoft-Chef Satya Nadella",
+            "credit": "Martin Cid Magazine",
+            "license": "Artikelbild Martin Cid Magazine",
+            "source": "https://www.martincid.com/technology-sv/tech-ai/satya-nadella-ai-emergency-brake-outside-the-model/"
+          }
+        },
+        {
+          "title": "Amazon verhandelt über Kauf von Decart für rund 7 Milliarden Dollar",
+          "lead": "Amazon will laut Wall Street Journal das KI-Start-up Decart übernehmen, das Videos in Echtzeit bearbeiten und simulierte Welten für Robotertraining erzeugen kann. Anthropic war im September an genau diesem Deal ausgestiegen.",
+          "body": [
+            "Amazon führt Gespräche über eine Übernahme des KI-Start-ups Decart, bei der das Unternehmen mit rund 7 Milliarden Dollar bewertet würde. Das berichtete das Wall Street Journal am Sonntag unter Berufung auf mit der Sache vertraute Personen; Reuters griff den Bericht auf. Ein Abschluss könnte bald kommen, sofern die Gespräche nicht scheitern oder ein anderer Interessent auftaucht.",
+            "Decart ist mit seinem Modell Lucy bekannt geworden, das laut Firmenwebsite Live-Video in Echtzeit bearbeiten kann. Außerdem hat das Start-up Oasis entwickelt, ein Modell, das simulierte Umgebungen erzeugt, in denen Robotik- und Fahrassistenzsysteme trainiert und getestet werden können. Im Mai sammelte Decart 300 Millionen Dollar in einer Runde ein, die Radical Ventures anführte; Nvidia stieg dabei als neuer Investor ein. Laut PitchBook lag die Bewertung damals bei knapp 4 Milliarden Dollar.",
+            "Der Deal hat eine Vorgeschichte. Anthropic hatte im August über eine Übernahme für etwa 6 Milliarden Dollar verhandelt, sich im September nach einer Prüfung der Bücher aber dagegen entschieden, wie Bloomberg berichtete. Nun würde Amazon, selbst einer der größten Geldgeber von Anthropic, den Zuschlag bekommen, und das zu einem höheren Preis. Amazon wollte sich außerhalb der Geschäftszeiten nicht äußern, Decart reagierte nicht auf Anfragen."
+          ],
+          "highlight": "Anthropic hatte im August über eine Übernahme für etwa 6 Milliarden Dollar verhandelt, sich im September nach einer Prüfung der Bücher aber dagegen entschieden, wie Bloomberg berichtete.",
+          "assessment": [
+            "Fast eine Verdopplung der Bewertung in fünf Monaten, ohne nennenswerte neue Umsätze, die öffentlich bekannt wären: Das zeigt, wie viel die großen Konzerne derzeit für Teams zahlen, die bei Echtzeit-Video und Weltmodellen vorn sind. Für Amazon ist die Logik klar, von Prime Video über Twitch bis zur Robotik in den Lagern gibt es Einsatzfelder.",
+            "Das interessantere Detail ist Anthropics Rückzieher. Wenn ein Käufer nach der Due Diligence abspringt und ein anderer kurz darauf mehr bietet, hat einer von beiden etwas anders bewertet. Ich wäre gespannt, was Anthropic in den Büchern gesehen hat."
+          ],
+          "sources": [
+            { "name": "Reuters (via AOL)", "url": "https://www.aol.com/articles/amazon-talks-buy-ai-startup-211649000.html" },
+            { "name": "The Wall Street Journal", "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad" }
+          ],
+          "image": {
+            "url": "https://hermes.media.transform.aol.com/4823b0305c5d016540a7302c8451de5bf647eade/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/12/227bc20d-1a24-3b98-b395-3efa17288a6d/258dfc28-50da-41d5-a072-b9b42ba3ed4e.jpg",
+            "alt": "Decart-Logo auf einem Smartphone-Bildschirm",
+            "credit": "Reuters",
+            "license": "Artikelbild Reuters",
+            "source": "https://www.aol.com/articles/amazon-talks-buy-ai-startup-211649000.html"
+          }
+        },
+        {
+          "title": "„Super Intelligence“ statt KI: Nadella, Benioff und Musk übernehmen Trumps Umbenennung",
+          "lead": "Trump will, dass künstliche Intelligenz offiziell „Super Intelligence“ heißt. Immer mehr Tech-Chefs folgen: Musk benennt SpaceXAI um, Salesforce sein AIForce, und auch Microsoft-Chef Nadella spricht nur noch von Super Intelligence.",
+          "body": [
+            "Präsident Trump hat angekündigt, künstliche Intelligenz in „Super Intelligence“ umzubenennen, und per Executive Order verfügt, dass Bundesbehörden den neuen Begriff verwenden. Nachgelegt hat er mit dem Satz, das Weiße Haus betrachte jeden, der den Begriff „Artificial Intelligence“ statt des „highly accepted new and more accurate term, ‚Super Intelligence‘“ benutze, als „THE ENEMY!“.",
+            "Während die breite Öffentlichkeit bei KI bleibt, schwenken laut The Verge Teile der Tech-Elite um. Elon Musk versprach, SpaceXAI in SpaceXSI umzubenennen. Wenige Stunden nach Trumps Feinderklärung kündigte Salesforce-Chef Marc Benioff an, das Produkt AIForce heiße künftig SIForce. Nvidia-Chef Jensen Huang, der beim Gipfel war, auf dem die Executive Order verkündet wurde, sagte zu, eine Milliarde Dollar für wissenschaftlichen Fortschritt bereitzustellen, ausdrücklich auch für „super intelligence research“.",
+            "Jüngster Fall ist Satya Nadella. Er war beim selben KI-Gipfel wie Huang, zusammen mit Mark Zuckerberg, Sundar Pichai, Jeff Bezos, Dario Amodei und Musk. In seinem Essay über eine Notbremse für KI sprach er durchgehend von „Super Intelligence“. The Verge ordnet das in eine längere Linie ein: In Trumps zweiter Amtszeit hat sich das Silicon Valley wiederholt bemüht, bei der Regierung gut dazustehen, nachdem das Verhältnis in der ersten Amtszeit deutlich angespannter war."
+          ],
+          "highlight": "Jüngster Fall ist Satya Nadella.",
+          "assessment": [
+            "Man kann das als Posse abtun, aber Sprache ist hier Loyalitätstest. Wer einen Begriff übernimmt, nur weil der Präsident Abweichler zu Feinden erklärt, signalisiert vor allem eines: Wir machen keinen Ärger. Für Unternehmen, die gerade auf Genehmigungen für Rechenzentren, Exporte und Regierungsaufträge angewiesen sind, ist das ein billiger Preis.",
+            "Inhaltlich ist der neue Name schlicht irreführend. „Superintelligenz“ bezeichnete in der Fachdebatte bisher Systeme, die Menschen in praktisch allem übertreffen. Wer heutige Chatbots so nennt, verwischt genau die Unterscheidung, auf die es in der Sicherheitsdiskussion ankommt."
+          ],
+          "sources": [
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai" }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+            "alt": "Trump empfängt Chefs aus dem Silicon Valley zu einem Gipfel über KI-Sicherheitsrisiken",
+            "credit": "Bloomberg via Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Nicolas Cage verweigerte Amazon die KI-Freigabe für Spider-Noir",
+          "lead": "Auf der New York Comic Con hat Nicolas Cage erzählt, dass er Amazon nicht erlaubt hat, KI bei der Serie Spider-Noir einzusetzen. Mit dem Studio werde er deshalb wohl nicht mehr arbeiten.",
+          "body": [
+            "Bei einem Panel der New York Comic Con am Wochenende sagte Nicolas Cage: „Amazon is a very AI friendly company to the tune of 50 billion dollars invested to OpenAI. I am not an AI friendly actor. I didn't sign the waiver to let them use AI on Spider-Noir. I'm probably not going to be working with that studio again. But that's OK.“",
+            "In Spider-Noir spielte Cage eine Detektiv-Version des Netzschwingers Ben Reilly. Amazon hat die Serie trotz guter Kritiken und elf Emmy-Nominierungen im vergangenen Monat nach nur einer Staffel eingestellt. Ob Cages Weigerung dabei eine Rolle spielte, ist nicht bestätigt. Die Figur wird er weiterhin in Sonys animierten Spider-Verse-Filmen sprechen, wo er sie ursprünglich eingeführt hat.",
+            "Cage sagte außerdem, der KI-Schub in Hollywood habe sein Interesse an jüngeren Regisseuren verstärkt, die mit YouTube-Selbstbau-Techniken aufgewachsen seien und generative Werkzeuge deutlich kritischer sähen als ältere Kollegen. Konkret nannte er den Wunsch, mit Kane Parsons zu arbeiten, dem Regisseur von „Backrooms“, der sich ebenfalls offen gegen KI ausspricht.",
+            "Die Reaktionen im Netz waren überwiegend zustimmend. Kotaku merkt nebenbei an, dass die Debatte ein altes Gerücht wiederbelebt hat, wonach Cage großer Fan der Bomberman-Spiele aus der Nintendo-64-Zeit ist, inzwischen mit Fotobeleg."
+          ],
+          "highlight": "I didn't sign the waiver to let them use AI on Spider-Noir.",
+          "assessment": [
+            "Interessant ist weniger Cages Haltung als das Detail mit dem „Waiver“. Offenbar lassen Studios Schauspieler inzwischen routinemäßig Freigaben unterschreiben, damit Stimme oder Gesicht später per KI bearbeitet werden dürfen. Dass so etwas als Standardformular vorliegt, sagt viel darüber, wohin die Produktion geht.",
+            "Cage kann sich das Nein leisten, ein Nebendarsteller eher nicht. Genau deshalb sind solche öffentlichen Absagen wichtig: Sie machen sichtbar, dass es diese Klauseln gibt und dass man sie streichen kann."
+          ],
+          "sources": [
+            { "name": "Kotaku", "url": "https://kotaku.com/nicolas-cage-says-hes-not-working-with-amazon-after-refusing-ai-on-spider-noir-i-am-not-an-ai-friendly-actor-2000744149" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/02/HA1o565a4AAms80.jpg",
+            "alt": "Spider-Noir mit Hut, Schutzbrille und Mantel in Schwarzweiß",
+            "credit": "Amazon",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/nicolas-cage-says-hes-not-working-with-amazon-after-refusing-ai-on-spider-noir-i-am-not-an-ai-friendly-actor-2000744149"
+          }
+        },
+        {
+          "title": "Wing Commander 3 kommt als Remaster, mit wiedergefundenen Videobändern",
+          "lead": "Ein EA-Produzent hat auf der Portland Retro Gaming Expo ein Remaster von Wing Commander 3: Heart of the Tiger angekündigt. Grundlage sind Originalbänder der Filmszenen, die im EA-Archiv aufgetaucht sind.",
+          "body": [
+            "Bei einer Rückblick-Runde auf der Portland Retro Gaming Expo erzählte der langjährige EA-Produzent Jim Vessella, er habe die Master-Bänder der Realfilm-Sequenzen von Wing Commander 3: Heart of the Tiger wiedergefunden. Laut einem Bericht aus dem Publikum handelt es sich um mehr als 600 Quellbänder im EA-Archiv, die bereits restauriert werden. Vessella kündigte ein Remaster zum 30. Jubiläum an.",
+            "Neben besserer Videoqualität ohne die alte Kompression soll das Spiel mit 60 Bildern pro Sekunde laufen, Verbesserungen aus der Community übernehmen und „the Kilrathi Saga“ enthalten. Kotaku liest das so, dass die ersten drei Teile der Reihe enthalten sein könnten. Einen Termin oder Plattformen nannte Vessella nicht.",
+            "Wing Commander 3 gilt vielen als Höhepunkt der Reihe. Der Spieler fliegt als Pilot Christopher Blair im Krieg gegen das katzenartige Kilrathi-Imperium. Bekannt wurde das Spiel durch seine aufwendigen Videosequenzen mit Mark Hamill, Malcolm McDowell, Tim Curry und John Rhys-Davies. Die Serie umfasste fünf Hauptteile, zahlreiche Erweiterungen, Romane, eine Zeichentrickserie und einen Kinofilm.",
+            "Kotaku wundert sich über den Ort der Ankündigung: Eine Messe für Retrospiele ist nicht der übliche Rahmen für EA, und Vessella war an der ursprünglichen Reihe nicht beteiligt. Deren Schöpfer Chris Roberts arbeitet seit über zehn Jahren an Star Citizen und dem Einzelspieler-Ableger Squadron 42."
+          ],
+          "highlight": "Vessella kündigte ein Remaster zum 30. Jubiläum an.",
+          "assessment": [
+            "Für Leute, die in den Neunzigern am PC saßen, ist das eine echte Freude. Wing Commander 3 war das Spiel, das zeigte, dass Videosequenzen mehr sein können als Gimmick. Dass die Originalbänder noch existieren, ist das eigentlich Wertvolle, denn genau daran scheitern viele Remaster alter FMV-Spiele.",
+            "Skepsis ist trotzdem angebracht. Eine Ankündigung auf einem Panel ist noch kein Produkt, und EA hat bei Klassikern bisher eher gezögert. Bis es einen Termin und eine Plattform gibt, würde ich das als ernst gemeinte Absicht verbuchen."
+          ],
+          "sources": [
+            { "name": "Kotaku", "url": "https://kotaku.com/ea-producer-announces-wing-commander-3-remaster-at-portland-retro-gaming-expo-2000744166" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/10/wingcommander.jpg",
+            "alt": "Szene aus Wing Commander",
+            "credit": "Kotaku",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/ea-producer-announces-wing-commander-3-remaster-at-portland-retro-gaming-expo-2000744166"
+          }
+        },
+        {
+          "title": "EU-Verbraucherschützer nehmen virtuelle Spielwährungen ins Visier",
+          "lead": "Das europäische Netzwerk der Verbraucherschutzbehörden geht gegen zehn Spielefirmen vor, darunter Activision Blizzard, Riot, Ubisoft und Supercell. Es geht um Spielwährungen, die den echten Preis verschleiern.",
+          "body": [
+            "Das Netzwerk der europäischen Verbraucherschutzbehörden (CPC) hat Anfang Oktober koordinierte Verfahren gegen mehrere Spielefirmen eingeleitet. Federführend ist nach Kotaku die italienische Wettbewerbsbehörde. Betroffen sind Activision Blizzard, Mojang, Ubisoft, Riot Games, Crytek, Supercell, InnoGames, King, Plarium und Playrix. Die Firmen sollen ihre Praktiken rund um virtuelle Währungen mit dem EU-Verbraucherrecht in Einklang bringen.",
+            "In der Mitteilung heißt es, Käufe im Spiel, etwa kosmetische Gegenstände oder Waffen-Upgrades, würden oft in anderen Währungen als Euro ausgepreist, liefen am Ende aber doch auf eine Zahlung in Euro hinaus, direkt oder über mehrere Zwischenwährungen. Dazu kämen weitere Mechanismen: Währung nur in festen Paketen, Dark Patterns, unzureichende Kindersicherungen und fehlende Hilfe, wenn Konten gesperrt werden.",
+            "Kotaku beschreibt das bekannte Ärgernis so: Man kann Pakete mit 3.000 Spielmünzen kaufen, der gewünschte Gegenstand kostet aber 2.999 oder ein krummes Vielfaches, sodass immer ein unverbrauchbarer Rest übrig bleibt, der zum nächsten Kauf verleitet. Die Behörden stützen sich auf Grundsätze, die das CPC-Netzwerk im März 2025 zu virtuellen Spielwährungen veröffentlicht hat. Selbstregulierung wie über PEGI habe einiges verändert, viele Firmen hätten ihre Spiele aber nicht substanziell angepasst.",
+            "Epic Games fehlt auf der Liste. Das Unternehmen hatte bereits angekündigt, dass Spieler in Fortnite ab diesem Monat genau passende Beträge an V-Bucks ausgeben können, außer auf der PlayStation. Kotaku nennt ausdrücklich Call of Duty als Beispiel für ein Spiel, das nachbessern müsse."
+          ],
+          "highlight": "Die Firmen sollen ihre Praktiken rund um virtuelle Währungen mit dem EU-Verbraucherrecht in Einklang bringen.",
+          "assessment": [
+            "Spielwährungen sind keine Spielmechanik, sondern ein Preisverschleierungsinstrument. Wer 2.999 Münzen für einen Skin verlangt und sie nur in 3.000er-Paketen verkauft, weiß genau, was er tut. Dass Europa das nach Jahren endlich als Verbraucherrechtsproblem behandelt, ist überfällig.",
+            "Das Beispiel Epic zeigt, dass es geht, ohne dass das Geschäftsmodell zusammenbricht. Ich erwarte, dass die meisten Firmen einlenken, bevor es zu Bußgeldern kommt, und dass der Euro-Preis neben der Spielwährung bald Standard wird."
+          ],
+          "sources": [
+            { "name": "Kotaku", "url": "https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/10/itchymoney-1200x675.jpg",
+            "alt": "Spielgeld-Scheine als Symbol für virtuelle Spielwährungen",
+            "credit": "Kotaku",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/eu-taking-action-against-activision-riot-ubisoft-on-gamings-oldest-monetization-scheme-2000744153"
+          }
+        },
+        {
+          "title": "Squadron 42 jetzt auf Steam vormerkbar, Start für das zweite Quartal 2027 geplant",
+          "lead": "Cloud Imperium hat den Einzelspieler-Ableger von Star Citizen auf Steam gestellt und einen neuen Trailer gezeigt. Erscheinen soll das Spiel mit Mark Hamill, Gary Oldman und Henry Cavill im zweiten Quartal 2027.",
+          "body": [
+            "Squadron 42 kann ab sofort auf Steam auf die Wunschliste gesetzt werden. Entwickler Cloud Imperium Games gab das am 10. Oktober zusammen mit einem neuen Trailer bekannt. Geplant ist die Veröffentlichung im zweiten Quartal 2027.",
+            "Das Spiel spielt im Jahr 2945, das United Empire of Earth steht kurz vor dem Zusammenbruch. Man tritt als Rekrut in die Marine ein, lebt und arbeitet an Bord eines Großkampfschiffs und steigt im Lauf eines galaktischen Krieges auf. Cloud Imperium verspricht eine Mischung aus Weltraumkämpfen, Bodeneinsätzen, Schleichpassagen und „quieter moments“ mit der Crew, samt Entscheidungen. Es spielt im Universum von Star Citizen, erzählt aber eine eigenständige Geschichte und läuft auf der hauseigenen StarEngine.",
+            "Die Besetzung ist ungewöhnlich prominent: Mark Hamill, Gary Oldman, Gillian Anderson, Ben Mendelsohn, Henry Cavill, Andy Serkis, John Rhys-Davies, Jonathan Bailey, Mark Strong, Damson Idris und Liam Cunningham, alle per Performance Capture aufgenommen.",
+            "Squadron 42 ist seit mehr als zehn Jahren in Entwicklung und wurde immer wieder verschoben, zuletzt auf 2027. Studiochef Chris Roberts begründete das damit, dass das Spiel neben GTA 6 untergehen würde. Star Citizen selbst hat im Mai die Marke von einer Milliarde Dollar an Crowdfunding überschritten."
+          ],
+          "highlight": "Geplant ist die Veröffentlichung im zweiten Quartal 2027.",
+          "assessment": [
+            "Eine Steam-Seite ist bei diesem Projekt mehr als Marketing: Sie ist ein öffentliches Bekenntnis zu einem Zeitfenster, an dem Cloud Imperium sich messen lassen muss. Nach so vielen Verschiebungen glaube ich an den Termin erst, wenn der Vorbestellknopf da ist.",
+            "Zugleich ist das bemerkenswert, gerade an dem Wochenende, an dem EA Wing Commander 3 neu auflegen will. Chris Roberts' alter Klassiker und sein neues Großprojekt könnten 2027 fast gleichzeitig erscheinen, beide mit Mark Hamill."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Mark Hamill als Figur in Squadron 42",
+            "credit": "Cloud Imperium Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release"
+          }
+        },
+        {
+          "title": "Phasmophobia knackt 30 Millionen verkaufte Exemplare",
+          "lead": "Das Geisterjäger-Spiel des kleinen britischen Studios Kinetic Games hat sich seit dem Early-Access-Start 2020 mehr als 30 Millionen Mal verkauft. Pünktlich dazu läuft wieder das Halloween-Event Crimson Eye.",
+          "body": [
+            "Phasmophobia hat sich seit dem Start im Early Access 2020 auf PC und Konsolen mehr als 30 Millionen Mal verkauft. Entwickler Kinetic Games nannte die Zahl zusammen mit der Rückkehr von Crimson Eye, dem jährlichen Halloween-Event, das bis zum 1. November läuft.",
+            "Während des Events liegt jeden Tag auf wechselnden Karten Blutmond-Wetter: Geister werden schneller, die geistige Gesundheit der Spieler sinkt rascher, dafür gibt es mehr Belohnungen. Zu den Event-Karten gehören Tanglewood Drive, Camp Woodwind, Grafton Farmhouse, Bleasdale Farmhouse, Point Hope, Edgefield Road, Nell's Diner und Willow Street.",
+            "Gemeinschaftsziele schalten eine Beholder-ID-Karte, ein Abzeichen und eine Blutmond-Trophäe frei, persönliche Ziele einen Anhänger, ein T-Shirt und Trophäen-Upgrades. Wer zwischen dem 8. und 15. Oktober zwei Stunden Phasmophobia-Streams auf Twitch schaut, bekommt ein weiteres T-Shirt. Vom 15. bis 22. Oktober gibt es doppelte Erfahrungspunkte."
+          ],
+          "highlight": "Phasmophobia hat sich seit dem Start im Early Access 2020 auf PC und Konsolen mehr als 30 Millionen Mal verkauft.",
+          "assessment": [
+            "30 Millionen sind für ein Spiel, das als Projekt eines sehr kleinen Teams begann, eine riesige Zahl, in einer Liga mit großen Studioproduktionen. Phasmophobia ist der Beweis, dass ein starkes Koop-Konzept und Streamer-Tauglichkeit mehr bewegen können als Marketingbudgets.",
+            "In einer Woche, in der große Studios über Entlassungen und schwache Konsolen reden, ist das eine gute Erinnerung daran, wo im Spielemarkt gerade das Wachstum entsteht."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/phasmophobia_header_AdobeStock_291529108.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Eine Hand greift im Dunkeln um eine geöffnete Tür",
+            "credit": "Adobe Stock / fotokitas",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/phasmophobia-30-million-sales-crimson-eye-event"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Würfelorakel mit 56 Antworten: Römerzeitliche Säule in Kibyra entschlüsselt",
+          "lead": "In der antiken Stadt Kibyra in der Südwesttürkei haben Archäologen eine Kalksteinsäule gefunden, auf der 56 Orakelsprüche stehen. Wer eine Frage hatte, warf Schafsknöchel und las die passende Antwort ab.",
+          "body": [
+            "Die Säule wurde 2024 auf der Agora von Kibyra entdeckt, verbaut in der Nordwand einer späten Kapelle. Eine neue Studie in der Fachzeitschrift Gephyra datiert sie ins 2. oder 3. Jahrhundert n. Chr. und entziffert die Verse. Verfasst haben sie Şenkal Kileci und Nihal Tüner Önen von der Akdeniz-Universität sowie Şükrü Özüdoğru von der Mehmet-Akif-Ersoy-Universität in Burdur, der die Grabungen in Kibyra seit Jahren leitet.",
+            "So funktionierte eine Befragung: Wer wissen wollte, ob er reisen, einen Kauf abschließen, vor Gericht ziehen oder auf die Genesung eines Kranken hoffen durfte, ging zu einer Hermesstatue auf dem Marktplatz und warf fünf Schafsknöchel (Astragale) auf einen Tisch. Jeder Knöchel hat vier nutzbare Seiten mit den Werten 1, 3, 4 und 6. Fünf Knöchel ergeben 56 mögliche Kombinationen, und für jede steht ein Spruch auf der Säule. Jeder Eintrag nennt die geworfenen Zahlen, die Summe und einen Gott, dazu einen Vers, der den Wurf beschreibt, und drei Verse mit der Botschaft, alle im Hexameter.",
+            "Die Antworten sind oft praktisch. Unter Kronos heißt es, auf dem Weg seien Skorpione, man solle nichts überstürzen, weder kaufen noch verkaufen. Poseidon wirft dem Fragenden vor, „wider den Stachel zu löcken“ und mitten im Meer nach Fischen zu suchen. Andere Sprüche raten zu Geduld, versprechen Kranken Heilung und Reisenden eine sichere Rückkehr oder raten von Prozessen ab. Der Spruch für fünf Sechsen gehört Hermes Tetragonos, dem „Hermes der vier Ecken“.",
+            "Die Säule ist 1,24 Meter hoch und auf allen vier Seiten beschriftet. Ähnliche Orakel kennt man aus Termessos, Perge, Kremna und anderen Städten im Süden Kleinasiens, die meisten aus der Zeit von etwa 120 bis 210 n. Chr. Der Text von Kibyra steht dem aus Kremna am nächsten, enthält aber Abweichungen: Ein Vers kommt nur hier vor, ein Spruch hat keine bekannte Parallele, und die Reihenfolge weicht ab. Die Autoren sehen darin eine eigene lokale Tradition.",
+            "Warum gerade diese Region? Der Epigraphiker Johannes Nollé meint, Südanatolien habe keine berühmten eigenen Orakel gehabt, und die Reise nach Klaros oder Didyma sei für einfache Leute zu teuer gewesen. Fritz Graf vermutet Händler als Hauptkundschaft. Eine Inschrift auf der ersten Seite nennt einen Stifter, dessen Name verloren ist; die Autoren halten es für möglich, dass er Marktaufseher war."
+          ],
+          "highlight": "Fünf Knöchel ergeben 56 mögliche Kombinationen, und für jede steht ein Spruch auf der Säule.",
+          "assessment": [
+            "Das ist Religionsgeschichte von unten. Nicht das große Orakel von Delphi, sondern ein Selbstbedienungsautomat für Alltagsentscheidungen, mitten auf dem Markt, gestiftet von einem lokalen Wohltäter. Man versteht plötzlich, wie normale Leute im römischen Kleinasien mit Unsicherheit umgingen.",
+            "Und die Ratschläge sind erstaunlich vernünftig: abwarten, nichts überstürzen, Prozesse meiden. Ein Orakel, das vor allem zur Vorsicht rät, liegt selten ganz falsch. Das war vermutlich Teil seines Erfolgs."
+          ],
+          "sources": [
+            { "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/en/2026/10/roman-era-oracle-pillar-with-56-answers-consulted-by-throwing-sheep-bones-found-in-turkey/" }
+          ],
+          "image": {
+            "url": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/10/kibyra-oraculo-labrujulaverde.com-2.webp",
+            "alt": "Beschriftete Orakelsäule aus Kibyra",
+            "credit": "Kileci, Tüner Önen & Özüdoğru 2026 / Grabungsarchiv",
+            "license": "Artikelbild La Brújula Verde",
+            "source": "https://www.labrujulaverde.com/en/2026/10/roman-era-oracle-pillar-with-56-answers-consulted-by-throwing-sheep-bones-found-in-turkey/"
+          }
+        },
+        {
+          "title": "Venusfiguren von Mizyn: Die Schnitzer kopierten das Muster des Mammutstoßzahns",
+          "lead": "Eine Studie zu 18 Elfenbeinfiguren aus der Ukraine zeigt, dass die Verzierungen den natürlichen Wachstumslinien im Mammutelfenbein folgen. Die rund 18.000 Jahre alten Figuren könnten eine eigene künstlerische Tradition bilden.",
+          "body": [
+            "Ein internationales Team um Simon Radchenko vom Archäologischen Museum der Universität Stavanger hat 18 kleine Elfenbeinfiguren aus Mizyn im Gebiet Tschernihiw in der Nordukraine untersucht. Die Ergebnisse erschienen in npj Heritage Science. Beteiligt waren auch Forschende des Nationalmuseums für Geschichte der Ukraine in Kiew, des Leibniz-Zentrums für Archäologie (LEIZA) und der Universität York.",
+            "Die Figuren wurden zwischen 1908 und 1912 neben Behausungen aus Mammutknochen gefunden, drei davon angeblich unter oder in einem Mammutschädel. Anders als die füllige Venus von Willendorf sind sie lang, fast zylindrisch, mit spitzem Ende und einer Wölbung am Gesäß. Auf der flachen Seite sind Hals, Schultern und Arme schematisch angedeutet, dazu ein Dreieck, das als Schamregion gelesen wird. Die gewölbte Seite trägt geometrische Gravuren: Zickzack, Winkel und Mäander.",
+            "Das Team hat sechs Figuren per Fotogrammetrie in 3D rekonstruiert und alle 18 unter dem Mikroskop untersucht. Alle stammen aus dem mittleren Teil eines Stoßzahns und sind entlang seiner Längsachse geschnitzt. In vier Figuren geben die Gravuren die sogenannten Schreger-Linien wieder, ein netzartiges Muster im Elfenbein, in anderen die ringförmigen Owen-Linien. Manche Ornamente folgen den natürlichen Wachstumslinien mit einer Abweichung von weniger als einem Millimeter. Stark bearbeitete Flächen wurden gezielt poliert, um die innere Struktur sichtbar zu machen.",
+            "Neu kalibrierte Radiokarbondaten setzen die Figuren auf 18.800 bis 17.400 Jahre vor heute. Damit gehören sie zu den frühesten schematischen Menschendarstellungen Europas nach dem Höhepunkt der letzten Eiszeit. Die Autoren sehen in Mizyn eine eigene Tradition, nicht einen Ableger der westeuropäischen Magdalénien- oder Gönnersdorf-Kunst. Andy Needham aus York sagt, die Künstler in Osteuropa seien ihren eigenen Weg gegangen.",
+            "Warum die Schnitzer das Muster kopierten, bleibt Hypothese. Die Autoren schlagen vor, die Figuren sollten so Eigenschaften des Mammuts annehmen, eine „mammothness“. Mitautor Dmytro Kiosak mahnt zur Vorsicht: Datierungen aus dem osteuropäischen Paläolithikum hätten große Fehlerspannen, und Jäger könnten Elfenbein lange toter Tiere verwendet haben."
+          ],
+          "highlight": "Manche Ornamente folgen den natürlichen Wachstumslinien mit einer Abweichung von weniger als einem Millimeter.",
+          "assessment": [
+            "Die Studie dreht die übliche Frage um. Statt zu fragen, was die Muster bedeuten, fragt sie, woher sie kommen, und findet die Antwort im Material selbst. Die Künstler haben das Elfenbein gelesen, bevor sie es verziert haben. Das ist eine sehr moderne Haltung gegenüber dem Werkstoff.",
+            "Die These von der „mammothness“ ist hübsch, aber spekulativ. Belastbar ist der handwerkliche Befund, und der reicht schon, um die Vorstellung einer geradlinigen Entwicklung eiszeitlicher Kunst von West nach Ost zu erschüttern. Dass die Figuren unter Kriegsbedingungen digital gesichert wurden, ist ein Wert für sich."
+          ],
+          "sources": [
+            { "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/en/2026/10/researchers-solve-the-mystery-of-enigmatic-18000-year-old-venus-figurines-artists-hidden-pattern-inside-a-mammoth-tusk/" }
+          ],
+          "image": {
+            "url": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/10/Bilde1-2.webp",
+            "alt": "Venusfigur aus Mizyn, von drei Seiten gezeigt",
+            "credit": "Radchenko et al. 2026",
+            "license": "Artikelbild La Brújula Verde",
+            "source": "https://www.labrujulaverde.com/en/2026/10/researchers-solve-the-mystery-of-enigmatic-18000-year-old-venus-figurines-artists-hidden-pattern-inside-a-mammoth-tusk/"
+          }
+        },
+        {
+          "title": "Um 400 v. Chr. leerten sich Nordspaniens Bergfestungen innerhalb einer Generation",
+          "lead": "Eine Auswertung von 272 Radiokarbondaten zeigt, dass die eisenzeitlichen Castros im Norden der Iberischen Halbinsel binnen weniger Jahrzehnte verlassen wurden. Der Wiederaufbau dauerte mindestens zwei Jahrhunderte.",
+          "body": [
+            "Samuel Nión-Álvarez vom spanischen Forschungsinstitut INCIPIT-CSIC in Santiago de Compostela hat im Journal of Archaeological Science untersucht, wann genau die frühe Eisenzeit im Norden Spaniens endete. Typisch für diese Zeit sind die Castros, befestigte Dörfer auf Hügeln, vergleichbar den Hillforts in Britannien und Frankreich. Sie entstanden ab dem 9. oder 8. Jahrhundert v. Chr.",
+            "Grundlage sind 272 Radiokarbondaten von 109 Fundorten in fünf Zonen: der Atlantikküste, vor allem Galicien, dem westlichen und östlichen Kantabrien und der westlichen und östlichen nördlichen Meseta. Mit Bayes-Modellen, die Daten mit der Schichtenfolge verknüpfen, konnte der Autor trotz des schwierigen Hallstatt-Plateaus, einer flachen Stelle in der Kalibrierungskurve, auf Jahrzehnte genau datieren.",
+            "Das Ergebnis: Die Bergfestungen im ganzen Norden wurden innerhalb von weniger als hundert Jahren aufgegeben, unabhängig von der lokalen Kultur. Innerhalb einer Region dauerte der Wandel etwa eine Generation. Es begann im westlichen Kantabrien, im heutigen Asturien, im ersten Drittel des 5. Jahrhunderts v. Chr., breitete sich dann zur Atlantikküste und in die westliche Meseta aus und erreichte zuletzt den Osten, wohl in den letzten Jahrzehnten des Jahrhunderts. In 18 Fundorten, etwa San Chuis in Asturien, sind beide Phasen datiert und durch eine Lücke getrennt.",
+            "Neue Dörfer entstanden ab dem frühen 4. Jahrhundert v. Chr., zuerst wieder in Asturien und an der Atlantikküste, dann in Wellen über mindestens zwei Jahrhunderte. Die neuen Castros waren größer, komplexer, näher am Ackerland und zeigen deutlichere soziale Unterschiede. Dieses Modell hielt bis zur römischen Eroberung.",
+            "Warum die Menschen gingen, beantwortet die Studie nicht. Diskutiert werden ein Wandel von einem egalitären zu einem kriegerischen Ethos, wie ihn Carlos Marín Suárez vorgeschlagen hat, Konflikte zwischen benachbarten Gemeinschaften und Bevölkerungswachstum. Der Autor selbst mahnt zur Vorsicht: 109 Fundorte sind nur ein kleiner Teil der geschätzt 4.500 bis 5.000 Castros."
+          ],
+          "highlight": "Innerhalb einer Region dauerte der Wandel etwa eine Generation.",
+          "assessment": [
+            "Die Studie liefert keine Erklärung, aber eine präzise Uhr, und die ist für diese Zeit selten. Ein Wandel, der in einer Generation ganze Landschaften erfasst, ist kein langsames Ausfransen, sondern ein Bruch. Dass er zeitlich zu Krisen in anderen Teilen Europas um 400 v. Chr. passt, lädt zu großen Erklärungen ein.",
+            "Genau da würde ich vorsichtig bleiben. Klima, Migration und Krieg werden gern als Generalschlüssel genommen. Spannender finde ich den Befund, dass die neuen Siedlungen ungleicher waren: Am Ende der Krise stand eine andere Gesellschaft, nicht nur andere Mauern."
+          ],
+          "sources": [
+            { "name": "La Brújula Verde", "url": "https://www.labrujulaverde.com/en/2026/10/northern-spains-iron-age-hillforts-emptied-out-around-400-bc-and-no-one-knows-why-rebuilding-took-at-least-two-centuries/" }
+          ],
+          "image": {
+            "url": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/10/Castro_de_Viladonga-vista_aerea.webp",
+            "alt": "Luftaufnahme des eisenzeitlichen Castro de Viladonga in Galicien",
+            "credit": "Xunta de Galicia / Wikimedia Commons",
+            "license": "Artikelbild La Brújula Verde",
+            "source": "https://www.labrujulaverde.com/en/2026/10/northern-spains-iron-age-hillforts-emptied-out-around-400-bc-and-no-one-knows-why-rebuilding-took-at-least-two-centuries/"
+          }
+        },
+        {
+          "title": "Gewaltopfer unter dem Hausboden: Neue Studie zu Toten in Wikingersiedlungen",
+          "lead": "Forschende haben fast 200 Menschen untersucht, die in Skandinavien nicht auf Friedhöfen, sondern in Häusern, Brunnen und Gruben bestattet wurden. Mindestens zwölf hatten um den Todeszeitpunkt Gewalt erlitten, darunter ein kleiner Junge.",
+          "body": [
+            "Das Forschungsprojekt BODY-POLITICS hat menschliche Überreste aus Siedlungen der Eisen- und Wikingerzeit in Dänemark, Norwegen und Schweden untersucht, aus der Zeit von etwa 500 v. Chr. bis 1050 n. Chr. Die Studie unter Leitung von Marianne Hem Eriksen vom Dänischen Nationalmuseum erschien im Journal of Archaeological Method and Theory unter dem Titel „Broken bodies in domestic spaces“. Ausgewertet wurden 192 Knochen aus Museumssammlungen und frühere Grabungsberichte.",
+            "Die Toten lagen nicht in Grabhügeln oder Urnenfeldern, sondern in Pfostenlöchern, Gruben, Brunnen, unter Hausböden und sogar neben Festhallen. Mindestens zwölf Menschen hatten laut Live Science um den Todeszeitpunkt eine Gewaltverletzung erlitten, in der Hälfte der Fälle am Kopf. Die meisten waren erwachsene Männer, dazu zwei Frauen und ein Kind. Vier Personen trugen mehrere Verletzungen, darunter ein Mann aus der Wikingerzeit, der drei Schläge auf den Schädel sowie Brüche an Unterarm und Schlüsselbein überlebt hatte.",
+            "Am eindrücklichsten ist ein Fund aus einem eisenzeitlichen Haus bei Aalborg, erbaut zwischen 500 und 1 v. Chr. Dort lag das Stirnbein eines zwei- bis vierjährigen Kindes im Boden. „Our DNA analyses show that it is a small boy who has been cut with a sword“, sagt Eriksen. „This means that someone has walked over a child's skull day after day.“ Radiokarbondaten zeigen, dass der Schädel bis zu zwei Jahrhunderte älter ist als das Haus, er wurde also lange aufbewahrt, bevor er in den Boden kam.",
+            "An einer wikingerzeitlichen Fundstelle bei Aarhus lag der Schädel einer jungen Frau mit Hiebspuren in einem Brunnen. In Gammel Lejre, einer königlichen Festhalle, die viele für das Vorbild des Beowulf-Epos halten, fand sich direkt südlich der Halle ein Mann mit zahlreichen, teils verheilten Verletzungen durch stumpfe Gewalt.",
+            "Warum gerade diese Menschen Opfer wurden, ist offen. Die Autoren nennen häusliche Gewalt, Strafen, Konflikte innerhalb oder zwischen Gemeinschaften und rituelle Gewalt bis hin zu Menschenopfern. Sie vermuten, dass mit wachsender Ungleichheit gerade schutzlose Mitglieder der Gemeinschaft betroffen waren: „We may question whether some lives were already considered disposable.“"
+          ],
+          "highlight": "Mindestens zwölf Menschen hatten laut Live Science um den Todeszeitpunkt eine Gewaltverletzung erlitten, in der Hälfte der Fälle am Kopf.",
+          "assessment": [
+            "Das Bild der Wikingerzeit wird von Kriegergräbern und Sagas bestimmt. Diese Studie schaut auf die anderen, die keinen Grabhügel bekamen, und zeigt eine Gewalt, die nicht auf dem Schlachtfeld, sondern im Alltag stattfand. Das ist unbequemer und wahrscheinlich näher an der Wirklichkeit vieler Menschen.",
+            "Die Zahlen sind klein, und die Deutungen bleiben vorsichtig, zu Recht. Aber der Kinderschädel unter dem Hausboden, jahrhundertelang aufbewahrt, sagt mehr über das Verhältnis zu den Toten als jede Saga. Wer hier lebte, ging täglich darüber, und das war offenbar so gewollt."
+          ],
+          "sources": [
+            { "name": "Phys.org", "url": "https://phys.org/news/2026-10-broken-bones-ancient-homes-viking.html" },
+            { "name": "Live Science", "url": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/AaBfdvRuQ7xbKoEWMcYqNk-2453-80.png",
+            "alt": "Menschlicher Schädel mit Spuren von Kopfverletzungen, aus drei Ansichten",
+            "credit": "Live Science",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/vikings/archaeologists-discover-a-childs-skull-built-into-the-floor-of-a-2-500-year-old-scandinavian-house"
+          }
+        }
+      ]
+    }
+  ]
+}
