@@ -1,0 +1,330 @@
+{
+  "nr": 8,
+  "date": "2026-10-13",
+  "intro": "Meta meldet sich mit Muse Wonder im Kreis der Spitzenmodelle an, Palantirs Technikchef weist einen schweren Vorwurf zum Schulangriff in Minab zurück, und Microsoft zeigt mit Maia 300, wie ernst es mit eigenen KI-Chips meint. Im Gaming-Teil geht es fast nur um KI: Epic will einen AAA-Shooter weitgehend mit KI bauen, Yuji Horii bastelt ein Spiel in 30 Minuten, und Nvidia nimmt Spielern offenbar die RTX 5090 weg. In der Geschichte führen ein Aquädukt der Hasmonäer, Kindergräber der Bronzezeit und eine pontische Festung des Dionysos-Verehrers Mithridates.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Muse Wonder: Meta bringt sein erstes echtes Spitzenmodell",
+          "lead": "Metas Superintelligence Lab hat die Modelle Muse Wonder und Muse Wonder Full veröffentlicht. Nach Metas eigenen Tests spielen sie auf dem Niveau von Fable 5.1 und GPT-6 Astra.",
+          "body": [
+            "Meta hat am Montag zwei neue Sprachmodelle vorgestellt: Muse Wonder und die größere Variante Muse Wonder Full. Entwickelt wurden sie im Meta Superintelligence Lab, und laut TechCrunch handelt es sich um Metas ersten ernsthaften Versuch, ein sogenanntes Frontier-Modell zu bauen, also eines, das mit den besten Systemen von OpenAI, Anthropic und Google mithalten soll. Der Vorgänger Muse Spark war bewusst klein und auf geringe Antwortzeiten ausgelegt. Die Wonder-Modelle sind größer und sollen vor allem bei komplexen Aufgaben wie dem Programmieren deutlich mehr leisten.",
+            "Nach Metas eigenem Model Card erreichen beide Modelle Benchmark-Werte, die mit Fable 5.1 und GPT-6 Astra vergleichbar sind. Bei MemoryBench, einem Test für kontinuierliches Lernen und den Aufbau eines Gedächtnisses, liegt Wonder nach Metas Angaben sogar vor Fable, Opus und Astra. Konkrete Zahlen nennt der Bericht nicht, unabhängige Messungen gibt es noch nicht.",
+            "Im Mittelpunkt der Vermarktung steht das, was Meta „active memory“ nennt: Das Modell soll sich Informationen merken, die Nutzer ihm geben, und sie über lange Zeit miteinander verknüpfen. Die Forscherin Kavya Kopparapu sagte im Vorstellungsvideo, man habe darauf hingearbeitet, dass sich das Modell an das erinnert, was den Nutzern wichtig ist, „über Tage, Wochen, Monate und darüber hinaus“. Meta selbst nennt die Modelle in seinem Blog „den nächsten Schritt auf unserer Skalierungsleiter und einen großen Sprung in Richtung persönlicher Superintelligenz“.",
+            "Wonder ist über die Meta Model API verfügbar und kostet 4 Dollar pro Million Eingabe-Tokens und 20 Dollar pro Million Ausgabe-Tokens. Damit liegt Meta preislich etwa auf der Höhe von GPT-6 Sol oder Opus 5.5. Wonder Full gibt es dagegen nur für Abonnenten von Muse Code, nicht über die Schnittstelle. Beide Modelle sollen außerdem den Muse-Agenten antreiben. Ob die Gewichte offen sind, geht aus dem Bericht nicht hervor; von Llama ist nicht mehr die Rede.",
+            "Trainiert wurden die Modelle im Rechenzentrum Prometheus in Ohio, das dieses Jahr ans Netz gegangen ist. Es ist die erste Veröffentlichung dieser Klasse, seit Scale-AI-Gründer Alexandr Wang im August 2025 Metas KI-Abteilung umgebaut hat. Seitdem hatte Meta zwar Muse Spark und den Muse-Agenten herausgebracht, aber kein Modell, das an der Spitze mitspielt."
+          ],
+          "highlight": "Bei MemoryBench, einem Test für kontinuierliches Lernen und den Aufbau eines Gedächtnisses, liegt Wonder nach Metas Angaben sogar vor Fable, Opus und Astra.",
+          "assessment": [
+            "Nach über einem Jahr mit Milliardenausgaben, Abwerbungen und wenig Sichtbarem musste Meta liefern, und das hat es nun zumindest auf dem Papier getan. Ob Wonder wirklich auf Augenhöhe ist, zeigen erst unabhängige Tests; Herstellerbenchmarks sind in dieser Branche bekanntlich ein Verkaufsinstrument.",
+            "Interessanter als die Rangliste ist die Strategie: Meta setzt auf Gedächtnis, also auf einen Assistenten, der einen über Monate kennt. Das passt zu einem Konzern, dessen Geschäft seit jeher darin besteht, möglichst viel über seine Nutzer zu wissen. Genau dort sollte man beim Datenschutz besonders genau hinschauen. Und der leise Abschied von Llama und offenen Modellen wäre, falls er sich bestätigt, ein echter Kurswechsel."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+            "alt": "Standbild aus Metas Vorstellung der Muse-Wonder-Modelle",
+            "credit": "Meta",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+          }
+        },
+        {
+          "title": "Palantir-Technikchef: Bloomberg-Bericht zum Schulangriff in Minab ist „falsch“",
+          "lead": "Shyam Sankar hat bei CBS bestritten, dass sich Soldaten bei dem Luftangriff auf eine Schule im iranischen Minab zu sehr auf Palantirs KI-System Maven verlassen haben. Wahrscheinliche Ursache sei menschliches Versagen.",
+          "body": [
+            "Palantirs Technikchef Shyam Sankar war am Sonntag in der CBS-Sendung „Face the Nation“ zu Gast. Moderatorin Margaret Brennan konfrontierte ihn mit einem Bloomberg-Bericht, wonach sich Militärangehörige bei einem Angriff in Minab zu stark auf Palantirs Zielsystem Maven verlassen hätten. Bei dem Angriff kamen nach Brennans Worten mindestens 123 Schulkinder ums Leben.",
+            "Sankar wies den Bericht zurück. „Wir sollten den Abschlussbericht abwarten. Aber was ich sagen kann: Diese Berichterstattung ist unzutreffend“, sagte er und ergänzte: „Die wahrscheinliche Ursache ist menschliches Versagen.“ Auf Nachfrage wiederholte er: „Die Bloomberg-Berichterstattung ist falsch.“ Palantir habe seitdem zusätzliche KI-Agenten gebaut, die mehr Prüfungen vornehmen. Der Abschlussbericht des Pentagons zu dem Angriff steht noch aus.",
+            "Brennan fragte auch nach der zentralen Rolle von KI bei der Zielauswahl im Iran-Krieg. Sankar sagte, die Fähigkeit, 1000 Angriffe an einem einzigen Tag auszuführen, hätte früher zwei Wochen Planung durch 50 Menschen erfordert. Dass die KI die Ziele auswähle, sei aber nicht der Fall: „Das ist nicht, was passiert.“",
+            "Zum Ausstieg des Pentagons aus Anthropics Claude, das bisher in Maven steckte, sagte Sankar, es habe „keine operativen Auswirkungen“ gegeben, das Modell sei „bereits ersetzt“. Das Verteidigungsministerium nutzt laut Berichten mehrere Anbieter, darunter xAI, OpenAI und Nvidias Nemotron. Anthropic war ausgeschlossen worden, nachdem das Unternehmen auf Schutzvorkehrungen für den militärischen Einsatz bestanden hatte.",
+            "Mit Blick auf eine CBS-Umfrage, nach der die Hälfte der Befragten glaubt, KI schaffe mehr Probleme als sie löse, sagte Sankar, die Beweislast liege „absolut bei der Technologiebranche“, den Amerikanern echten Nutzen zu zeigen. Die befürchtete Massenarbeitslosigkeit sei bisher ausgeblieben. Die Palantir-Aktie erreichte am Tag nach dem Interview laut Yahoo Finance ein Rekordhoch."
+          ],
+          "highlight": "Sankar sagte, die Fähigkeit, 1000 Angriffe an einem einzigen Tag auszuführen, hätte früher zwei Wochen Planung durch 50 Menschen erfordert.",
+          "assessment": [
+            "„Menschliches Versagen“ ist die bequemste aller Erklärungen, wenn man das System liefert, in dem dieser Mensch arbeitet. Wer ein Werkzeug baut, das 1000 Angriffe am Tag möglich macht, statt einer Handvoll, verändert genau die Bedingungen, unter denen Menschen prüfen und Fehler übersehen. Die beiden Aussagen Sankars widersprechen sich nicht, sie gehören zusammen.",
+            "Bemerkenswert ist auch, dass Palantir nach dem Unglück noch mehr KI-Agenten zur Kontrolle eingebaut hat. Das Problem, dass Menschen bei diesem Tempo nicht mehr hinterherkommen, soll also mit mehr Automatisierung gelöst werden. Solange der Pentagon-Bericht fehlt, steht Aussage gegen Aussage, aber ein Rekordhoch der Aktie nach so einem Interview sagt einiges über die Prioritäten des Marktes."
+          ],
+          "sources": [
+            { "name": "CBS News", "url": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/" },
+            { "name": "AI Weekly", "url": "https://aiweekly.co/alerts/palantirs-sankar-calls-bloomberg-strike-report-wrong" }
+          ],
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/11/bc978a52-fcaa-4b71-bd76-dbb6a31d6905/thumbnail/1200x630/1a0660f61a558be8b2678172319d6e14/ftn-shyam-sankar-full-157-814326.png",
+            "alt": "Palantir-Technikchef Shyam Sankar im Interview bei „Face the Nation“",
+            "credit": "CBS News",
+            "license": "Artikelbild CBS News",
+            "source": "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/"
+          }
+        },
+        {
+          "title": "Maia 300: Microsofts dritter KI-Chip soll Nvidia im eigenen Rechenzentrum ersetzen",
+          "lead": "Microsoft hat die Architektur seines Inferenz-Beschleunigers Maia 300 offengelegt. Er soll pro Rack bis zu siebenmal so viele Tokens liefern wie der Vorgänger und ab 2027 in Serie gehen.",
+          "body": [
+            "Microsoft hat am Montag im Azure-Blog die dritte Generation seines hauseigenen KI-Beschleunigers vorgestellt. Maia 300 ist ganz auf Inferenz ausgerichtet, also auf das Ausführen fertiger Modelle, nicht auf deren Training. Die Rechenteile entstehen bei TSMC im N2P-Verfahren, Speicher-Controller und Ein- und Ausgabe sitzen auf eigenen Chiplets. So könne jede Funktion die jeweils passende Fertigungstechnik nutzen, schreibt Microsoft.",
+            "Jeder Beschleuniger hat acht HBM4-Stapel mit zusammen 288 GB Speicher und 18 TB/s Bandbreite. Gegenüber Maia 200 sind das nach Microsofts Angaben das 2,5-Fache an Speicherbandbreite, 33 Prozent mehr Kapazität und etwa die doppelte Bandbreite pro Watt. Dazu kommen besonders sparsame Zahlenformate wie ein verbessertes MXFP4 und Speicherformate unter drei Bit, damit pro erzeugtem Token weniger Daten bewegt werden müssen.",
+            "In ein Rack passen 96 Beschleuniger in 24 Einschüben, bei 167 Kilowatt Leistungsaufnahme und doppelter Dichte gegenüber Maia 200. Flüssigkühlung nimmt mehr als 80 Prozent der Wärme auf. Über eine optische zweite Ebene lassen sich bis zu 128 Racks zu einem Verbund aus 12.288 Beschleunigern zusammenschalten, wobei jeder Chip mit bis zu 750 GB/s mit jedem anderen sprechen kann. Im vollen Ausbau verspricht Microsoft bis zu siebenmal mehr Token-Durchsatz pro Rack und mehr als das 2,5-Fache an Leistung pro Watt.",
+            "Gedacht ist der Chip für agentische Anwendungen mit vielen Arbeitsschritten, Werkzeugnutzung und langen Kontexten, also für Copilot, GitHub Copilot und Microsoft Foundry. Die Serienfertigung soll laut UPI 2027 beginnen. Unabhängige Tests gibt es noch nicht, und Microsoft nennt weder Stückzahlen noch einen konkreten Ausbauplan. Weitere Details will der Konzern auf der Ignite im November zeigen.",
+            "Ganz verabschiedet sich Microsoft nicht von Nvidia, betont UPI, der Konzern arbeitet weiter mit Nvidia und AMD. Aber Maia 300 reiht sich in einen klaren Trend ein: Amazon mit Trainium, Google mit TPU und Meta mit MTIA haben eigene Chips längst im Einsatz."
+          ],
+          "highlight": "Im vollen Ausbau verspricht Microsoft bis zu siebenmal mehr Token-Durchsatz pro Rack und mehr als das 2,5-Fache an Leistung pro Watt.",
+          "assessment": [
+            "Die Zahlen sind Herstellerangaben und beziehen sich auf den eigenen Vorgänger, nicht auf Nvidia. Das ist ein bequemer Vergleich. Trotzdem ist die Botschaft deutlich: Inferenz, also der laufende Betrieb von Copilot und Co., ist der große Kostenblock der Zukunft, und den will Microsoft nicht dauerhaft mit Nvidia-Margen bezahlen.",
+            "Für Nvidia ist das kein unmittelbares Problem, die Nachfrage übersteigt das Angebot ohnehin. Mittelfristig aber bauen alle großen Kunden gleichzeitig an ihrem eigenen Ausweg. Wer verstehen will, warum Nvidia sich zunehmend in Software und ganze Rechenzentrumssysteme vorarbeitet, sieht hier den Grund."
+          ],
+          "sources": [
+            { "name": "Microsoft Azure Blog", "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/" },
+            { "name": "UPI", "url": "https://www.upi.com/Top_News/US/2026/10/12/microsoft-azure-maia-300-ai-chips-nvidia/3511791823960" }
+          ],
+          "image": {
+            "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/Maia-300-prototype-chip-11-1024x576.png",
+            "alt": "Prototyp des Microsoft-Beschleunigers Maia 300",
+            "credit": "Microsoft",
+            "license": "Artikelbild Microsoft Azure Blog",
+            "source": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
+          }
+        },
+        {
+          "title": "Brad Smith: Großbritannien soll die globale KI-Regulierung anführen",
+          "lead": "Microsofts Präsident fordert verbindliche Sicherheitsregeln für KI und sieht London statt Washington oder Brüssel in der Führungsrolle. Freiwillige Zusagen reichten nicht.",
+          "body": [
+            "Microsoft-Präsident Brad Smith hat in einem BBC-Podcast eine schnelle Regulierung künstlicher Intelligenz gefordert. Milch und Waschmaschinen würden strenger überwacht als KI-Unternehmen, sagte er laut TechCrunch. KI sei „Waffe und Werkzeug“ zugleich und gefährde die Cybersicherheit weltweit. Der „Moment ist gekommen“ für globale Sicherheitsregeln.",
+            "Führen sollten diese Entwicklung nach Smiths Ansicht weder die USA noch die EU, sondern Großbritannien. Das britische AI Security Institute bekommt seit seiner Gründung 2023 Vorabzugang zu den Modellen der großen US-Labore und gilt als führend bei Sicherheitstests. In Washington sehe man London nicht so wie Brüssel, sagte Smith: „Das ist eine Stärke.“ Das Institut bestätigte am Montag, dass es die neuesten Modelle weiterhin testen kann, nachdem Präsident Trump im September Anthropic und OpenAI gebeten haben soll, neue Modelle den britischen Prüfern vorzuenthalten.",
+            "Die im September im Weißen Haus von OpenAI, Anthropic, Nvidia, AMD, SpaceX, Meta und Google unterzeichnete „moralisch bindende“ Erklärung, ihre Modelle von unabhängigen Prüfern bewerten zu lassen, nannte Smith einen „guten Schritt“. Sie reiche aber nicht. Freiwillige Selbstverpflichtungen bänden nur die „guten Unternehmen“: „Es sind die weniger verantwortungsvollen Unternehmen, um die man sich Sorgen machen muss.“",
+            "Konkret schlägt Smith drei Regeln vor: eine gesetzliche Pflicht, Organisationen zu benachrichtigen, wenn ihre Systeme von außer Kontrolle geratenen KI-Agenten angegriffen wurden; eine Freigabe durch externe Prüfer, bevor ein KI-Produkt auf den Markt kommt; und Notschalter, mit denen sich KI pausieren oder bremsen lässt, wenn Menschen die Kontrolle verlieren."
+          ],
+          "highlight": "Freiwillige Selbstverpflichtungen bänden nur die „guten Unternehmen“: „Es sind die weniger verantwortungsvollen Unternehmen, um die man sich Sorgen machen muss.“",
+          "assessment": [
+            "Smiths Auftritt passt zu Satya Nadellas Ruf nach einer Notbremse vom Wochenende: Microsoft positioniert sich gezielt als der vernünftige Erwachsene der Branche. Das ist nicht uneigennützig. Ein Konzern, der Modelle vor allem einkauft und weiterverkauft, verliert wenig, wenn die Modellbauer strenger geprüft werden.",
+            "In der Sache hat er trotzdem recht. Eine Meldepflicht für Schäden durch KI-Agenten wäre nach den Vorfällen der letzten Wochen das Mindeste, und die Idee, London als Vermittler zwischen Washington und Brüssel zu nutzen, ist politisch klug. Ob die Trump-Regierung sich darauf einlässt, ist eine ganz andere Frage."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+            "alt": "Microsoft-Präsident Brad Smith bei einem Auftritt",
+            "credit": "Riccardo Savi / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Epic verordnet „KI zuerst“: Marvel- und Star-Wars-Shooter ohne handgeschriebenen Code",
+          "lead": "Laut Bloomberg sollen Entwickler bei Epic Games an einem unangekündigten Shooter mit Disney auf handgeschriebenen Code verzichten, die gesamte Grafik soll per KI entstehen. Tim Sweeney spricht von einer „gewaltigen Kehrtwende“.",
+          "body": [
+            "Epic Games hat seine Entwickler nach einem Bloomberg-Bericht angewiesen, bei einem unangekündigten Shooter nach dem Prinzip „AI-first“ zu arbeiten und keinen Code mehr von Hand zu schreiben. Ein Director soll in einer internen Nachricht mitgeteilt haben, dass sämtliche Grafiken des Spiels mit KI-Workflows entstehen werden. Menschen sollen die Arbeit steuern und überwachen, als Werkzeug wird unter anderem Anthropics Claude genannt.",
+            "Das Projekt ist eine Zusammenarbeit mit Disney, das 2024 1,5 Milliarden Dollar in Epic investiert hat, und soll Figuren aus Marvel und Star Wars enthalten. Die Arbeit komme langsamer voran als geplant, auch weil Epic unterschätzt habe, wie viele Mitarbeiter nötig seien. Die Ankündigung habe einige Entwickler in einem Videocall in der vergangenen Woche „fassungslos“ zurückgelassen, zitiert Bloomberg seine Quellen. Manche hätten gewitzelt, ob sie Claude seine eigenen Fehler reparieren lassen sollen.",
+            "Ein Epic-Sprecher bestätigte, man setze auf „KI-beschleunigte Entwicklung“, angeführt von Entwicklern als kreativen Treibern. Firmenchef Tim Sweeney schrieb am Montag auf X: „Wir haben hier bei Epic eine gewaltige Kehrtwende im Gange und verschieben Entwickler, um sie auf maximale KI-Beschleunigung umzurüsten.“ Ziel sei nicht, dieselbe Arbeit mit weniger Leuten zu erledigen, sondern mehr und besseren Inhalt für alle Unreal-Nutzer zu schaffen.",
+            "Epic ist damit laut VGC einer der ersten großen Publisher, der offen bestätigt, ein AAA-Spiel hauptsächlich mit KI bauen zu wollen. Sweeney verteidigt KI seit Langem und hatte es „wirklich unverantwortlich“ genannt, dass Steam von Studios eine Kennzeichnung von KI-Nutzung verlangt. Im Juni kündigte Epic an, dass die Unreal Engine 6 Modelle wie Claude und Gemini integrieren wird."
+          ],
+          "highlight": "Ein Director soll in einer internen Nachricht mitgeteilt haben, dass sämtliche Grafiken des Spiels mit KI-Workflows entstehen werden.",
+          "assessment": [
+            "Das ist der bisher größte Testlauf der Branche, und er findet ausgerechnet mit den wertvollsten Marken der Unterhaltungswelt statt. Wenn Disney Marvel und Star Wars in ein Spiel steckt, dessen Kunst vollständig aus KI-Workflows kommt, dann ist die Debatte, ob große Studios das wagen, entschieden.",
+            "Sweeneys Beteuerung, es gehe nicht um weniger Personal, sollte man mit Vorsicht lesen. Dass das Projekt hinterherhinkt und die Lösung nun mehr KI statt mehr Menschen heißt, spricht eher für das Gegenteil. Spannend wird, ob Spieler das Ergebnis als Spiel oder als Experiment wahrnehmen."
+          ],
+          "sources": [
+            { "name": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2023/10/fortnite-a.jpg",
+            "alt": "Szene aus Epics Fortnite",
+            "credit": "Epic Games",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/"
+          }
+        },
+        {
+          "title": "Nvidia stoppt offenbar die RTX 5090, die Chips gehen an KI-Rechenzentren",
+          "lead": "Nach Angaben von Hardware-Leakern liefert Nvidia keine GB202-Chips mehr für die GeForce RTX 5090. Die Siliziumscheiben sollen nur noch in die teuren RTX-Pro-Karten wandern.",
+          "body": [
+            "Nvidia hat laut Berichten die Produktion der GeForce RTX 5090 eingestellt. Die Information stammt von den Hardware-Leakern hongxing2020 und Zed__Wang, über die zuerst Tom's Hardware berichtet hat. Zed__Wang schrieb am 10. Oktober: „Alle künftigen GB202-Lieferungen sind exklusiv für RTX Pro.“ Eine Stellungnahme von Nvidia gibt es nicht.",
+            "Hintergrund ist, dass die RTX 5090 denselben Grafikchip GB202 nutzt wie Nvidias RTX-Pro-Karten, die deutlich teurer sind und vor allem in KI-Rechenzentren und für anspruchsvolle Profi-Anwendungen eingesetzt werden. Tom's Hardware vermutet, dass Nvidia so verhindern will, dass Rechenzentren die Gaming-Karte aufkaufen, statt die teureren Profi-Modelle zu nehmen. Weitere Berichte nennen knappen GDDR7-Speicher als zusätzlichen Grund.",
+            "Die RTX 5090 kam im Januar 2025 für 1999 Dollar auf den Markt. Inzwischen liegen die Straßenpreise laut VGC bei 4000 bis 5000 Dollar und mehr, Händler sind schnell ausverkauft, sobald Ware eintrifft. Vorhandene Bestände dürfen Partner und Händler weiter verkaufen, bis sie aufgebraucht sind.",
+            "Einen direkten Konkurrenten von AMD hat die Karte nicht, Nvidia würde also bei einem Ausstieg seine Vorherrschaft im PC-Gaming nicht gefährden. Laut einem weiteren Leak könnte eine RTX 5080 mit 24 GB die neue Spitzenkarte für Spieler werden, auch das ist unbestätigt. Die Meldung reiht sich ein in die allgemeine Knappheit bei Komponenten, besonders bei Arbeitsspeicher, die KI-Firmen mit ihren Großeinkäufen verschärfen."
+          ],
+          "highlight": "Die RTX 5090 kam im Januar 2025 für 1999 Dollar auf den Markt. Inzwischen liegen die Straßenpreise laut VGC bei 4000 bis 5000 Dollar und mehr",
+          "assessment": [
+            "Auch wenn es nur ein Leak ist: Er passt perfekt ins Bild. Für Nvidia sind Spieler längst ein Nebengeschäft, und jeder GB202-Chip in einer Profikarte bringt ein Vielfaches ein. Aus Konzernsicht wäre es fast seltsam, die 5090 weiterzubauen.",
+            "Für PC-Spieler ist das die nächste schlechte Nachricht nach den Speicherpreisen. Der KI-Boom frisst die Hardware, auf der Spiele laufen, und macht High-End-Gaming zum Luxus. Wer gerade mit einer 5090 liebäugelt, wird sie kaum billiger bekommen."
+          ],
+          "sources": [
+            { "name": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/" },
+            { "name": "Guru3D", "url": "https://www.guru3d.com/story/nvidia-reportedly-stops-supplying-gb202-gpus-to-geforce-rtx-5090-cards/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/01/geforce_rtx_5090_key_visual.webp",
+            "alt": "Werbebild der Grafikkarte GeForce RTX 5090",
+            "credit": "Nvidia",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/"
+          }
+        },
+        {
+          "title": "Dragon-Quest-Erfinder Yuji Horii baut ein Spiel in 30 Minuten mit KI",
+          "lead": "Der 72-jährige Horii hat mit generativer KI das Verhörspiel „Interrogation Room Komiya“ erstellt. Das Ergebnis nennt er „wirklich erstaunlich“.",
+          "body": [
+            "Yuji Horii, Schöpfer von Dragon Quest und Mitwirkender an Chrono Trigger, hat am 11. Oktober auf X ein neues Spiel vorgestellt: „Interrogation Room Komiya“. Darin wählt man aus einer Reihe von Textvorgaben aus und versucht, einen Verdächtigen zu einem Geständnis zu bringen. Entstanden ist es mit generativer KI, und die Entwicklung habe „nur etwa 30 Minuten“ gedauert, schreibt Horii.",
+            "Der 72-Jährige zog einen Vergleich mit seinen Anfängen. „The Portopia Serial Murder Case“ hatte er einst allein gemacht, Geschichte, Grafik und Programmierung inklusive. Mit KI könne er nun „der KI einfach Anweisungen geben und ganz allein ein ordentliches Spiel erschaffen“. Das Ergebnis sei „wirklich erstaunlich“. Welches KI-Werkzeug er genutzt hat, verrät der Bericht nicht.",
+            "Horii hatte schon auf der G-Star 2025 gesagt, KI könne Quiz- und Krimispiele interessanter machen, etwa indem Spieler Figuren frei befragen, um einen Fall zu lösen. Auf die Frage, ob er KI für künftige Spiele in Betracht ziehe, antwortete er damals mit „Ja“.",
+            "In Japan ist generative KI in der Spieleentwicklung weit verbreitet. Das Land hat 2023 entschieden, dass das Training von KI mit Datensätzen kein Urheberrecht verletzt, auch bei kommerzieller Nutzung. Eine Umfrage ergab, dass alle befragten japanischen Online-Spieleentwickler generative KI nutzen, wobei sich die Zahl nur auf vernetzte Spiele bezieht, nicht auf Konsolen-, PC- oder Offline-Mobilspiele."
+          ],
+          "highlight": "Mit KI könne er nun „der KI einfach Anweisungen geben und ganz allein ein ordentliches Spiel erschaffen“.",
+          "assessment": [
+            "Ein charmantes Experiment, mehr nicht, aber eines mit Symbolkraft. Horii ist kein Tech-Manager, sondern einer der Väter des japanischen Rollenspiels, und wenn er sich so begeistert zeigt, legitimiert das KI in der Spieleentwicklung bei vielen, die bisher skeptisch waren.",
+            "Bemerkenswert ist der Kreis, der sich schließt: Portopia war 1983 ein Pionier des Krimi-Adventures, bei dem man Verdächtige befragt. Genau dieses Genre profitiert von Sprachmodellen am offensichtlichsten. Ein Spiel in 30 Minuten wird trotzdem kein Dragon Quest ersetzen."
+          ],
+          "sources": [
+            { "name": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/yuji-horii_feature.jpg",
+            "alt": "Spieleentwickler Yuji Horii",
+            "credit": "Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/"
+          }
+        },
+        {
+          "title": "DDoS-Angriff legt Mehrspielermodus von Gears of War: E-Day lahm",
+          "lead": "The Coalition hat bestätigt, dass die Verbindungsprobleme am Wochenende auf gezielte Überlastungsangriffe zurückgingen. Für das Studio kommt das zu einem heiklen Zeitpunkt.",
+          "body": [
+            "Spieler von Gears of War: E-Day hatten am Sonntag Probleme, sich mit Mehrspielerpartien zu verbinden, andere flogen mitten im Spiel heraus. Entwickler The Coalition erklärte über den Account der Gears-Community auf X die Ursache: „Diese Probleme gingen auf Distributed-Denial-of-Service-Angriffe (DDoS) zurück, die auf unsere Online-Dienste zielten.“ Man beobachte die Aktivität weiter und wehre sie ab.",
+            "Bei einem DDoS-Angriff werden Server mit so viel Datenverkehr geflutet, dass sie normale Anfragen nicht mehr bearbeiten können. Wer hinter dem Angriff steckt, ist nicht bekannt.",
+            "Das Spiel ist erst Anfang Oktober erschienen und bei der Kritik gut angekommen. VGC nannte es in seiner Rezension „einen absoluten Riesenspaß, auch wenn es mehr auf Getöse als auf Gefühl setzt“. Verkaufszahlen hat Microsoft nicht genannt. Eine Schätzung vom Wochenende ging von nur 230.000 verkauften Exemplaren aus, während 1,7 Millionen Menschen das Spiel per Game Pass spielen.",
+            "Hinzu kommt Unruhe im Studio. In der Vorwoche hatte Studiochef Mike Crump gegenüber der BBC auf Berichte reagiert, wonach sich Mitarbeiter um ihre Zukunft sorgen. Man müsse sich „auf die Dinge konzentrieren, die wir kontrollieren können“, sagte er, und das sei, ein großartiges Spiel auszuliefern."
+          ],
+          "highlight": "„Diese Probleme gingen auf Distributed-Denial-of-Service-Angriffe (DDoS) zurück, die auf unsere Online-Dienste zielten.“",
+          "assessment": [
+            "DDoS-Angriffe auf große Neuerscheinungen sind fast schon Routine, das eigentliche Thema ist der Zeitpunkt. In den ersten Wochen entscheidet sich, ob ein Mehrspielermodus eine stabile Gemeinschaft findet, und jeder Abend mit Verbindungsabbrüchen kostet Spieler, die nicht wiederkommen.",
+            "Für The Coalition ist das bitter: gute Kritiken, aber schwache Verkaufsschätzungen und Sorgen um Stellen. Microsoft wird E-Day vor allem an der Game-Pass-Bindung messen, und gerade dafür braucht es einen funktionierenden Onlinemodus."
+          ],
+          "sources": [
+            { "name": "Video Games Chronicle", "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/gears-of-war-e-day-pic-2.jpg",
+            "alt": "Szene aus Gears of War: E-Day",
+            "credit": "Xbox Game Studios / The Coalition",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "300 Meter Hasmonäer-Aquädukt bei Jerusalem freigelegt",
+          "lead": "Bei Ramat Rachel südlich von Jerusalem haben Archäologen einen Abschnitt des Unteren Aquädukts ausgegraben, das vor rund 2000 Jahren Quellwasser zum Tempelberg brachte.",
+          "body": [
+            "Die Israelische Altertumsbehörde (IAA) hat einen 300 Meter langen Abschnitt des sogenannten Unteren Aquädukts von Jerusalem freigelegt. Die Reste kamen bei Grabungen in der Nähe des Kibbuz Ramat Rachel zum Vorschein, wo ein neues Wohngebiet entstehen soll. Finanziert wurden die Arbeiten von der Israelischen Landbehörde.",
+            "Die Leitung brachte Wasser von den Salomonischen Teichen südlich von Betlehem über mehr als 21 Kilometer durch hügeliges Gelände bis zum Tempelberg. Sie funktionierte allein durch Schwerkraft: Der Kanal fällt nur etwa einen Meter pro Kilometer, ein Gefälle, das ohne Pumpen sehr genau geplant sein musste. Entlang der Strecke gab es Zugänge, damit Arbeiter Verstopfungen beseitigen konnten. Ursprünglich floss das Wasser in einem verputzten Kanal, der Lecks verhindern sollte.",
+            "Die Ausgräber Benyamin Storchan, Gil Freid und Rotem Cohen sprechen von einem eindrucksvollen Ingenieursprojekt, das wahrscheinlich unter den hasmonäischen Königen entstand, die Judäa in den letzten Jahrhunderten vor Christus regierten. Amit Re'em, Bezirksarchäologe der IAA für Jerusalem, nannte die Anlage ein „technisches Wunderwerk“, das selbst mit heutigen Werkzeugen enormen Planungs- und Arbeitsaufwand erfordert hätte.",
+            "Benutzt wurde das Aquädukt mit Unterbrechungen bis vor etwa hundert Jahren. In osmanischer Zeit, vor rund 500 Jahren, verlegten Arbeiter Tonrohre in den alten Kanal und versahen die Außenwand mit einer neuen Putzschicht, in die sie kleine Steine drückten.",
+            "Statt die Reste abzutragen, soll der Abschnitt erhalten und in den Haupteingang des neuen Viertels integriert werden. Langfristig hofft die IAA auf einen durchgehenden archäologischen Park, in dem Besucher dem Wasserlauf vom Süden Jerusalems bis zur Altstadt folgen können. Vorgestellt werden die Ergebnisse auf der 19. Konferenz „New Studies in the Archaeology of Jerusalem and Its Region“."
+          ],
+          "highlight": "Der Kanal fällt nur etwa einen Meter pro Kilometer, ein Gefälle, das ohne Pumpen sehr genau geplant sein musste.",
+          "assessment": [
+            "Das Untere Aquädukt ist an sich bekannt, neu ist der lange, gut erhaltene Abschnitt und vor allem die Sichtbarkeit seiner Geschichte: hasmonäischer Kanal, osmanische Rohre, Nutzung bis ins 20. Jahrhundert. Kaum ein Bauwerk zeigt so anschaulich, wie lange gute Infrastruktur trägt.",
+            "Erfreulich ist der Umgang damit. Statt Rettungsgrabung und Abriss wird das Aquädukt Teil des Neubaugebiets. Das ist der Weg, den man sich bei Bauprojekten an historischen Orten öfter wünschen würde."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/2000-year-old-engineering-marvel-built-to-supply-jerusalem-under-hasmonean-kings-unearthed/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Ancient-Jerusalem-aqueduct.jpg",
+            "alt": "Luftbild des freigelegten Aquädukt-Abschnitts bei Ramat Rachel",
+            "credit": "Israel Antiquities Authority",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/2000-year-old-engineering-marvel-built-to-supply-jerusalem-under-hasmonean-kings-unearthed/"
+          }
+        },
+        {
+          "title": "Schon Kinder wurden in der Bronzezeit nach Geschlecht bestattet",
+          "lead": "Eine Studie zu Gräberfeldern der Maros-Kultur in Serbien zeigt: Jungen und Mädchen lagen genauso geschlechtsspezifisch im Grab wie Erwachsene. Das Geschlecht wurde über Proteine im Zahnschmelz bestimmt.",
+          "body": [
+            "Forschende um Mina Amzirkov von der Universität Belgrad haben Kindergräber auf den bronzezeitlichen Gräberfeldern von Mokrin und Ostojićevo im Banat im Norden Serbiens untersucht. Beide gehören zur Maros-Kultur, die zwischen etwa 2100 und 1700 vor Christus Teile des heutigen Serbiens, Ungarns und Rumäniens besiedelte. Die Studie ist in der Fachzeitschrift Archaeological and Anthropological Sciences erschienen.",
+            "Bei Kindern lässt sich das biologische Geschlecht am Skelett kaum zuverlässig bestimmen. Das Team nutzte deshalb Proteine aus dem Zahnschmelz. Von 128 untersuchten Kindern und Jugendlichen zwischen etwa einem und gut 20 Jahren ließ sich so bei 77 das Geschlecht ermitteln, bei 76 über Schmelzproteine und bei einem aus einer früheren DNA-Analyse.",
+            "Das Ergebnis ist eindeutig. Erwachsene Männer lagen in der Maros-Kultur auf der linken Seite mit dem Kopf nach Norden, Frauen auf der rechten Seite mit dem Kopf nach Süden, beide mit Blick nach Osten. Für Kinder galt dasselbe. In Ostojićevo lag kein einziger Junge auf der rechten und kein Mädchen auf der linken Seite. In Mokrin wichen sechs Gräber vom Muster ab, drei davon gehören jedoch kleinen Kindern mit schlecht erhaltenen Knochen, bei denen Fehler in der Dokumentation nicht auszuschließen sind.",
+            "Bei einem 14- bis 15-jährigen Mädchen aus Grab 238 zeigte sich, dass eine ältere Publikation sie auf der rechten Seite verzeichnet hatte, Grabungsfotos sie aber auf der linken zeigen. Kindergräber enthalten generell weniger Beigaben als die von Erwachsenen, deshalb ist die Körperhaltung für die Forschung so aufschlussreich. Waffen fanden sich eher bei Männern, Halsketten und Schmucknadeln eher bei Frauen.",
+            "Die Autoren betonen eine Grenze ihrer Arbeit: Bestattungsbräuche könnten nicht zeigen, wie die Menschen selbst ihre Identität oder ihre Rolle im Leben verstanden haben."
+          ],
+          "highlight": "In Ostojićevo lag kein einziger Junge auf der rechten und kein Mädchen auf der linken Seite.",
+          "assessment": [
+            "Methodisch ist das die eigentliche Nachricht: Mit Proteinen aus dem Zahnschmelz lässt sich das Geschlecht von Kindern billig und zuverlässig bestimmen, und plötzlich werden Fragen beantwortbar, über die man bisher nur spekulieren konnte.",
+            "Inhaltlich bestätigt die Studie, dass Geschlecht in dieser Gesellschaft von Geburt an eine feste Kategorie war, zumindest im Tod. Die wenigen Ausnahmen sind dabei spannender als die Regel. Dass die Autoren selbst vor Überinterpretation warnen, spricht für die Arbeit."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/4000-year-old-graves-reveal-that-bronze-age-children-were-buried-by-sex-just-like-adults/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Grave-238-at-Mokrin-926x1024.png",
+            "alt": "Grabungsfoto aus Mokrin: ein etwa 14-jähriges Mädchen auf der linken Seite liegend bestattet",
+            "credit": "Feldaufnahme, Nationalmuseum Kikinda / Amzirkov et al. (2026)",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/4000-year-old-graves-reveal-that-bronze-age-children-were-buried-by-sex-just-like-adults/"
+          }
+        },
+        {
+          "title": "Festung Kurul: neue Spuren des Dionysos-Kults im Reich des Mithridates",
+          "lead": "In der hellenistischen Burg Kurul bei Ordu an der türkischen Schwarzmeerküste haben Archäologen weitere Bereiche gefunden, die mit der Verehrung des Dionysos zusammenhängen.",
+          "body": [
+            "Die Stadtverwaltung von Ordu hat am 12. Oktober die Ergebnisse der Grabungssaison 2026 auf der Burg Kurul vorgestellt. Die Festung liegt auf einem Hügel im Viertel Bayadı, etwa 13 Kilometer vom Zentrum Ordus entfernt, und gehörte zum Königreich Pontos. In diesem Jahr kamen weitere Bereiche zum Vorschein, die mit dem Kult des Dionysos verbunden sind. Genauere Beschreibungen hat das Team um Professor Süleyman Yücel Şenyurt von der Universität Ankara Hacı Bayram Veli noch nicht veröffentlicht.",
+            "Gegraben wird in Kurul seit 2010, nach Angaben von Bürgermeister Mehmet Hilmi Güler sind etwa 40 Prozent der Arbeiten abgeschlossen. Schon früher hatte die Burg bedeutende Funde geliefert: 2016 eine thronende Marmorstatue der Göttin Kybele, etwa 110 Zentimeter hoch und rund 200 Kilogramm schwer, die noch an ihrem ursprünglichen Platz nahe dem Haupteingang stand, geschützt von einem eingestürzten Holzbau. Münzen und Pfeilspitzen in ihrer Nähe könnten Opfergaben gewesen sein.",
+            "Dazu kommen Terrakotten des kindlichen Dionysos und des Pan, ziegenförmige Gefäße, die bei Zeremonien für diese Götter verwendet wurden, und ein gehörnter Dionysos-Kopf vom nördlichen Terrasseneingang. Auch kleinere Kybele-Figuren und Objekte mit Bezug zu Apollon und Hermes wurden gefunden, außerdem Alltags- und Kriegsgerät wie Bronzeschlüssel, Öllampen, Schmuck, Speerspitzen, Äxte und Schleudersteine.",
+            "Errichtet haben soll die Festung Mithridates VI. Eupator, der Pontos etwa von 120 bis 63 vor Christus regierte und als einer der hartnäckigsten Gegner Roms gilt. Er identifizierte sich mit Dionysos und nahm dessen Namen an. Die Funde aus dem Kult des Gottes bekommen dadurch eine politische Dimension."
+          ],
+          "highlight": "Er identifizierte sich mit Dionysos und nahm dessen Namen an.",
+          "assessment": [
+            "Die neuen Funde selbst sind noch kaum beschrieben, die Meldung lebt also vor allem vom Ort. Und der ist spannend: Eine Grenzfestung, in der ausgerechnet der Gott verehrt wurde, mit dem sich der König gleichsetzte, zeigt, wie Herrscherpropaganda in der hellenistischen Welt funktionierte.",
+            "Mit 40 Prozent Grabungsfortschritt nach 16 Jahren ist Kurul ein Langzeitprojekt. Gerade solche geduldigen Grabungen liefern am Ende oft mehr Erkenntnis als die spektakulären Einzelfunde, die schnell Schlagzeilen machen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/archaeologists-uncover-new-traces-of-dionysus-worship-at-2300-year-old-castle-in-turkiye/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Kurul-Castle-discoveries3.jpg",
+            "alt": "Funde aus den Grabungen auf der Burg Kurul bei Ordu",
+            "credit": "Ordu Metropolitan Municipality",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/archaeologists-uncover-new-traces-of-dionysus-worship-at-2300-year-old-castle-in-turkiye/"
+          }
+        },
+        {
+          "title": "Zoroastrische Grabinschrift bei Estachr, der Zeremonialhauptstadt der Sasaniden",
+          "lead": "In einen Felsen nördlich der antiken Stadt Estachr im Süden Irans ist eine spätsasanidische Inschrift in Pahlavi gemeißelt, die mit einer zoroastrischen Bestattung zusammenhängt.",
+          "body": [
+            "Auf der Marvdasht-Ebene in der Provinz Fars haben Archäologen eine in Stein gehauene Inschrift innerhalb eines Felsrahmens entdeckt. Der Archäologe Abolhassan Atabaki hat sie als Pahlavi-Text identifiziert, der zu einer zoroastrischen Bestattung aus der späten Sasanidenzeit gehört, also aus den letzten Jahrhunderten des Reiches vor seinem Untergang im 7. Jahrhundert. Eine vollständige Umschrift und Übersetzung gibt es noch nicht. Die Meldung geht auf die Tehran Times zurück.",
+            "Die Region ist für solche Funde bekannt. Nach Angaben der Historikerin Najmeh Ebrahimi wurden in Marvdasht bereits mehr als 50 sasanidische Inschriften identifiziert, es ist die größte bekannte Konzentration sasanidischer Grabinschriften in Iran.",
+            "Estachr war die zeremonielle Hauptstadt und der Ursprungsort der Sasaniden-Dynastie, die von 224 bis 651 herrschte, während Ktesiphon im heutigen Irak das politische Zentrum war. In der Nähe liegen auch Persepolis und Naqsch-e Rostam mit den Felsgräbern der Achämeniden.",
+            "Zoroastrier begruben ihre Toten traditionell nicht in der Erde. Die Körper wurden der Witterung und den Vögeln ausgesetzt, die Knochen später in Ossuarien oder Felsnischen gesammelt."
+          ],
+          "highlight": "Nach Angaben der Historikerin Najmeh Ebrahimi wurden in Marvdasht bereits mehr als 50 sasanidische Inschriften identifiziert",
+          "assessment": [
+            "Eine kleine Meldung, solange der Text nicht übersetzt ist. Erst dann wird sich zeigen, ob die Inschrift einen Namen, ein Datum oder eine Formel enthält, die etwas Neues verrät.",
+            "Wichtig ist sie trotzdem als Baustein: Jede weitere Grabinschrift macht das Bild der zoroastrischen Bestattungspraxis kurz vor der arabischen Eroberung dichter, über die schriftliche Quellen wenig sagen. Dass Marvdasht immer noch solche Funde hergibt, zeigt, wie viel dort noch unerforscht ist."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/ancient-zoroastrian-funerary-inscription-discovered-near-irans-sasanian-ceremonial-capital/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Zoroastrian-funerary-inscription.jpg",
+            "alt": "In den Fels gemeißelte zoroastrische Grabinschrift bei Estachr",
+            "credit": "Tehran Times",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/ancient-zoroastrian-funerary-inscription-discovered-near-irans-sasanian-ceremonial-capital/"
+          }
+        }
+      ]
+    }
+  ]
+}

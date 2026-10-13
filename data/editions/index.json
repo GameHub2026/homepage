@@ -1,5 +1,29 @@
 [
   {
+    "nr": 8,
+    "date": "2026-10-13",
+    "updated": "2026-10-13T08:41:16+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 4,
+      "geschichte": 4
+    },
+    "titles": [
+      "Muse Wonder: Meta bringt sein erstes echtes Spitzenmodell",
+      "Palantir-Technikchef: Bloomberg-Bericht zum Schulangriff in Minab ist „falsch“",
+      "Maia 300: Microsofts dritter KI-Chip soll Nvidia im eigenen Rechenzentrum ersetzen",
+      "Brad Smith: Großbritannien soll die globale KI-Regulierung anführen",
+      "Epic verordnet „KI zuerst“: Marvel- und Star-Wars-Shooter ohne handgeschriebenen Code",
+      "Nvidia stoppt offenbar die RTX 5090, die Chips gehen an KI-Rechenzentren",
+      "Dragon-Quest-Erfinder Yuji Horii baut ein Spiel in 30 Minuten mit KI",
+      "DDoS-Angriff legt Mehrspielermodus von Gears of War: E-Day lahm",
+      "300 Meter Hasmonäer-Aquädukt bei Jerusalem freigelegt",
+      "Schon Kinder wurden in der Bronzezeit nach Geschlecht bestattet",
+      "Festung Kurul: neue Spuren des Dionysos-Kults im Reich des Mithridates",
+      "Zoroastrische Grabinschrift bei Estachr, der Zeremonialhauptstadt der Sasaniden"
+    ]
+  },
+  {
     "nr": 7,
     "date": "2026-10-12",
     "updated": "2026-10-12T08:43:20+02:00",
