@@ -1,5 +1,30 @@
 [
   {
+    "nr": 9,
+    "date": "2026-10-15",
+    "updated": "2026-10-15T08:43:09+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 4,
+      "geschichte": 5
+    },
+    "titles": [
+      "Wanze im Chefzimmer: FBI nimmt OpenAI-Ingenieur fest",
+      "Anthropic warnt: Kleine KI-Modelle könnten sich bald selbst über Smart-TVs verbreiten",
+      "Gemini 4 Argon: Google startet die neue Modellgeneration",
+      "Character.ai ist insolvent, Disney bietet 20 Millionen Dollar für Teile",
+      "Rockstar: Das Spiel nach GTA 6 soll nicht wieder acht Jahre dauern",
+      "Ubisoft will Trials-Studio RedLynx schließen und in Singapur 70 Stellen streichen",
+      "Xbox Labs: Microsoft reagiert auf die Welle KI-gebauter Mods und Portierungen",
+      "„Programmieren ist schwer“: Epic hat seinen neuen Launcher mit KI zusammengebaut",
+      "Zufallsfund im Nildelta: Kopf einer 8,5 Meter hohen Statue von Ramses II.",
+      "Steinhaus mit Kellertreppe in der Pfalz Helfta Ottos des Großen entdeckt",
+      "4700 Jahre altes Wrack vor Kekova: Butterfass an Bord?",
+      "Fußbodenheizung nach römischem Vorbild: Frühmittelalterlicher Herrensitz bei Dijon",
+      "Speere, Rindenteller und eine Keule: Neandertaler-Holzwerkzeuge im Abric Romaní"
+    ]
+  },
+  {
     "nr": 8,
     "date": "2026-10-13",
     "updated": "2026-10-13T08:41:16+02:00",

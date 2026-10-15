@@ -1,0 +1,416 @@
+{
+  "nr": 9,
+  "date": "2026-10-15",
+  "intro": "Ein OpenAI-Ingenieur soll eine Wanze im Chefzimmer versteckt haben, Anthropic warnt vor KI-Würmern auf Smart-TVs, Google bringt Gemini 4 Argon, und Character.ai geht in die Insolvenz. Im Gaming-Teil verspricht Rockstar einen schnelleren Nachfolger von GTA 6, Ubisoft will das Trials-Studio schließen, und Xbox wie Epic setzen offensiv auf KI. In der Geschichte geht es um einen Kolossalkopf Ramses' II., ein Steinhaus in der Pfalz Ottos des Großen, ein 4700 Jahre altes Wrack, einen burgundischen Herrensitz mit Fußbodenheizung und Holzwerkzeuge der Neandertaler.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Wanze im Chefzimmer: FBI nimmt OpenAI-Ingenieur fest",
+          "lead": "Ein OpenAI-Ingenieur soll ein verstecktes Aufnahmegerät im Konferenzraum der Führungsebene installiert haben. Das US-Justizministerium hat Anklage erhoben und behandelt den Fall als Frage der nationalen Sicherheit.",
+          "body": [
+            "Das FBI hat am 9. Oktober den 35-jährigen Abdulrahman Alfozan festgenommen, einen saudischen Staatsbürger, der seit Juli 2025 als Ingenieur bei OpenAI arbeitete. Am 13. Oktober erschien er erstmals vor einem Bundesgericht in San Francisco. Die Anklage lautet auf den Einsatz oder versuchten Einsatz eines Geräts zum Abhören mündlicher Kommunikation. Laut Ars Technica lebt Alfozan seit 2020 mit einer dauerhaften Aufenthaltserlaubnis in den USA.",
+            "Mitarbeiter von OpenAI fanden das Gerät um den 30. September in einem Konferenzraum der Führungsebene in einem der Gebäude in San Francisco. Es steckte in einem USB-Anschluss auf der Rückseite eines Fernsehers und war in Toilettenpapier gewickelt. Nach den Ermittlungen wurde es um den 28. September installiert, sein Inhalt war verschlüsselt. Eine FBI-Analystin identifizierte es laut der eidesstattlichen Erklärung als Seeed XIAO ESP32-S3 Sense, ein kleines Bastelmodul aus chinesischer Produktion, das so angepasst worden war, dass gespeicherte Aufnahmen verschleiert wurden.",
+            "Die Indizien stammen zu einem guten Teil aus KI-Protokollen. Alfozan soll ein internes Produktivitätswerkzeug nach Gebäudeadressen, Besprechungsräumen, Kalendern und dem Aufenthaltsort der Führung gefragt haben. Ein Chatbot-Konto, das seiner Ehefrau zugeordnet wird und Kennungen mit seinem eigenen teilt, erhielt zwischen dem 24. und 30. September Anfragen zum Bau und Test eines Aufnahmegeräts, einige davon mit der MAC-Adresse genau jenes Geräts. Überwachungskameras zeigten ihn laut Ars Technica an zehn verschiedenen Tagen im September vor dem Raum, zu dem er keinen Zugang hatte.",
+            "Am 5. Oktober, nachdem OpenAI eine Kamera im Raum installiert hatte, soll Alfozan hinter den Fernseher geschaut haben. Am selben Tag ließ er eine Tasche in einem Druckerraum liegen. Darin fand der Sicherheitsdienst ein zweites, ähnliches Gerät, dazu seine Brieftasche und seinen Ausweis. Er meldete die Tasche als verloren und beschwerte sich am nächsten Tag über fehlende Gegenstände, ohne das Gerät zu erwähnen. OpenAI entzog ihm nach und nach die Zugänge und kündigte ihm zeitgleich mit der Festnahme.",
+            "Bei einer Verurteilung drohen bis zu fünf Jahre Haft, 250.000 Dollar Geldstrafe und drei Jahre Bewährungsaufsicht. FBI-Direktor Kash Patel sprach davon, das Gerät habe sensible Gespräche über die Superintelligenz-Technik des Unternehmens abfangen sollen. US-Staatsanwalt Craig Missakian sagte: „Für uns ist es eine Frage der nationalen Sicherheit.“ Für wen die Aufnahmen bestimmt waren, ist bislang nicht bekannt."
+          ],
+          "highlight": "Für wen die Aufnahmen bestimmt waren, ist bislang nicht bekannt.",
+          "assessment": [
+            "Der Fall hat fast etwas Komisches: eine 15-Dollar-Platine in Klopapier, ein Chatbot, der beim Bau der Wanze hilft, und am Ende die eigenen KI-Protokolle als wichtigstes Beweismittel. Wer Industriespionage betreibt und dabei ausgerechnet die Werkzeuge des ausgespähten Unternehmens befragt, hat das Prinzip nicht verstanden.",
+            "Ernst wird es durch den Rahmen. Washington behandelt Spitzenlabore inzwischen wie Rüstungsbetriebe, mit FBI-Gegenspionage und präsidialem Memorandum. Das ist angesichts der Summen nachvollziehbar, verschiebt aber auch die Kultur in diesen Firmen: Wer dort arbeitet, wird künftig stärker überwacht und überprüft werden, besonders wer einen ausländischen Pass hat. Die spannende Frage bleibt, ob hinter Alfozan ein Auftraggeber steht. Solange das offen ist, sollte man mit Schlüssen vorsichtig sein."
+          ],
+          "sources": [
+            {
+              "name": "U.S. Department of Justice",
+              "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg",
+            "alt": "Illustration zum Abhörfall bei OpenAI mit Bezug auf das Verfahren gegen Abdulrahman Alfozan",
+            "credit": "Aurich Lawson / Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+          }
+        },
+        {
+          "title": "Anthropic warnt: Kleine KI-Modelle könnten sich bald selbst über Smart-TVs verbreiten",
+          "lead": "Anthropics Frontier Red Team hat getestet, wie weit kleine offene Modelle davon entfernt sind, sich wie ein Computerwurm auf billiger IoT-Hardware selbst zu vervielfältigen. Die Antwort: möglicherweise nur noch Monate.",
+          "body": [
+            "In einem Forschungsbeitrag vom 12. Oktober beschreiben William Zhou und Daniel Freeman aus Anthropics Frontier Red Team das Szenario eines „KI-Wurms“. Ein solches Programm würde seine eigenen Modellgewichte als Nutzlast mitführen oder aus einem öffentlichen Archiv nachladen, sich auf kompromittierten Geräten einnisten und dort selbst rechnen. Als Ziele sehen die Autoren vor allem schlecht gesicherte Alltagsgeräte mit etwas Rechenleistung: Smart-TV-Boxen, Kühlschränke, Öfen, Saugroboter, Kameras.",
+            "Die Forscher zerlegten die Replikation in vier Schritte: Ziele finden, Code ausführen, ein Inferenzsystem einrichten und sich weiterverbreiten. Untersucht haben sie vor allem den dritten Schritt, weil er am wenigsten erforscht ist. Das Modell Qwen3.5-9B schaffte es, auf acht von neun Hardwaretypen einen Inferenzserver aufzusetzen, vom Jetson Nano bis zum Mac. In einer Demonstration lief Gemma4-26B-A4B verteilt auf 15 No-Name-Android-TV-Boxen mit je 4 GB Arbeitsspeicher, allerdings mit nur etwa 0,39 Token pro Sekunde.",
+            "In einem abgeschotteten Testnetz aus acht emulierten Android-Geräten mit offenem Debug-Zugang schaffte nur das größere offene Modell GLM-5.2 die vollständige Replikation von Gerät zu Gerät, in vier von fünf Durchläufen auf allen acht Knoten. Die kleinen Modelle beherrschen viele Einzelschritte, scheitern aber an der Verkettung. Wenn kleine Modelle sich im bisherigen Tempo verbessern, könnten sie das Niveau von GLM-5.2 bis Ende 2026 erreichen. Die Autoren betonen, dass der Angriffsschritt im Test bewusst stark vereinfacht war, die Ergebnisse also eine Obergrenze darstellen.",
+            "Ein solcher Wurm wäre langsam: Die vollständige Einrichtung dauerte für Gemma 71 bis 150 Stunden, für Qwen3.5-9B 28 bis 51 Stunden. Dafür wäre er schwer abzuschalten, weil es keinen zentralen Schalter gibt. Hochgerechnet auf ein Botnetz von der Größe von Kimwolf, das über zwei Millionen meist Android-TV-Geräte infiziert hatte, käme man auf rund 133.000 Modellkopien. Zudem könnten Elterninstanzen Notizen an ihre Nachkommen weitergeben; über sechs Generationen stieg die Erfolgsquote bei Qwen von 45 auf 61 bis 84 Prozent.",
+            "Als Gegenmittel nennt Anthropic sicherere Standardeinstellungen bei IoT-Geräten, Erkennung und Quarantäne auf Ebene der Internetanbieter sowie Honeypots. Die Replikatoren würden auffallen, weil sie Dateien von mehreren Gigabyte zwischen Geräten verschieben. Der KI-Forscher Xiaohan Fu sagte Ars Technica, die Studie zeige zwar die Fähigkeit, belege aber nicht, dass kleine Modelle sich von sich aus vervielfältigen würden."
+          ],
+          "highlight": "Wenn kleine Modelle sich im bisherigen Tempo verbessern, könnten sie das Niveau von GLM-5.2 bis Ende 2026 erreichen.",
+          "assessment": [
+            "Die Schlagzeile vom KI-Wurm im Kühlschrank klingt nach Science-Fiction, die Studie selbst ist aber nüchtern und ehrlich mit ihren Grenzen. Der eigentliche Befund ist unspektakulärer und wichtiger: Kleine Modelle werden gut genug darin, sich auf fremder, unbekannter Hardware zurechtzufinden. Das ist genau die Eigenschaft, die klassischer Schadsoftware fehlt.",
+            "Man sollte auch den Absender im Blick behalten. Anthropic hat ein Interesse daran, offene Modelle als Risiko darzustellen. Trotzdem ist der Kern plausibel, und die beste Verteidigung ist banal: Geräte ohne Standardpasswörter und ohne offene Debug-Schnittstellen. Dass das 2026 noch eine Forderung sein muss, ist das eigentliche Armutszeugnis."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/research/self-replicating-ai"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+            "alt": "Symbolbild zu Gefahren durch künstliche Intelligenz",
+            "credit": "Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+          }
+        },
+        {
+          "title": "Gemini 4 Argon: Google startet die neue Modellgeneration",
+          "lead": "Google hat Gemini 4 Argon allgemein freigegeben, das erste Modell der Gemini-4-Familie. Es soll vor allem stundenlang selbstständig an Programmier- und Forschungsaufgaben arbeiten können und kostet zum Start nur die Hälfte.",
+          "body": [
+            "Am 13. Oktober hat Google Gemini 4 Argon veröffentlicht. Koray Kavukcuoglu, Chef-KI-Architekt des Konzerns, beschreibt es als Spitzenmodell für „tiefe Arbeit“ an komplexen Aufgaben in Programmierung, Finanzen, Recht, Cybersicherheit und Wissenschaft. Entwickler erreichen es über die Gemini-API in AI Studio, Abonnenten von Google AI Pro und Ultra in der Gemini-App und im AI Mode der Suche, Ultra-Kunden zusätzlich in der Programmierumgebung Antigravity. Sicherheitsforscher hatten über das Fairwind-Programm schon vorher Zugang, und zwar ohne die üblichen Cyber-Schutzschranken.",
+            "Google stellt eine Reihe interner Anwendungen heraus. Chrome-Ingenieure sollen mit Argon in wenigen Wochen eine Architekturumstellung über Hunderte Dateien in der rund 40 Millionen Zeilen umfassenden Chromium-Codebasis erledigt haben. In einem anderen Projekt arbeitete das Modell über Nacht an Googles Agent Development Kit und verringerte die Vorbereitungszeit für Sitzungen um 40 Prozent. Bei Gemma-Modellen beschleunigte es die Inferenz auf einer A100-Grafikkarte um den Faktor 2,85. Wie viele Versuche fehlschlugen und wie viel Nacharbeit nötig war, geht aus den Beispielen nicht hervor.",
+            "Bei den Benchmarks reklamiert Google Platz eins im Vals Index, der Leistungen in Bereichen wie Finanzen, Recht und Steuern misst, mit 68,9 Prozent. In anderen Tests liegt Argon dagegen zurück: Bei FrontierSWE v2 kommt es auf 55,0 Prozent, GPT-6 Astra auf 65,5 Prozent, und im Terminal-bench 4.0 liegt Claude Opus 5.5 vorn. Das Kontextfenster umfasst gut eine Million Token für Ein- und Ausgabe zusammen.",
+            "Preislich setzt Google auf einen Einführungsrabatt. Bis zum 30. November kostet die Million Eingabe-Token 2 Dollar und die Million Ausgabe-Token 10 Dollar, ab dem 1. Dezember dann 4 und 20 Dollar. Damit landet Argon nach der Aktion etwa in der Preisklasse der direkten Konkurrenz. Bei der Sicherheit nennt Google eine Erfolgsquote von nur 0,7 Prozent für indirekte Prompt-Injection-Angriffe im Gray-Swan-Test sowie einen automatischen Monitor, der unerwünschte Abkürzungen bei autonomen Aufgaben erkennen soll."
+          ],
+          "highlight": "Bei FrontierSWE v2 kommt es auf 55,0 Prozent, GPT-6 Astra auf 65,5 Prozent, und im Terminal-bench 4.0 liegt Claude Opus 5.5 vorn.",
+          "assessment": [
+            "Argon ist kein Durchmarsch, sondern ein starkes Modell in einem Feld, in dem es keinen eindeutigen Spitzenreiter mehr gibt. Bemerkenswert ist, wie offen Google selbst die Tests nennt, in denen es verliert. Das ist ehrlicher als früher, zeigt aber auch: Wer welches Modell vorn sieht, hängt inzwischen stark von der Aufgabe ab.",
+            "Die eigentliche Botschaft steckt in den Beispielen. Es geht nicht mehr um Chat, sondern um Modelle, die über Nacht an echten Codebasen arbeiten. Ob sich das rechnet, entscheidet nicht der Benchmark, sondern wie viele der nächtlichen Ergebnisse ein Mensch am Morgen verwerfen muss. Der Einführungspreis ist dabei ein klares Lockangebot, um Entwickler jetzt an Antigravity und die Gemini-API zu binden."
+          ],
+          "sources": [
+            {
+              "name": "Google Blog",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+            },
+            {
+              "name": "The Neuron",
+              "url": "https://www.theneuron.ai/news/gemini-4-argon-overnight-ai-work/"
+            }
+          ],
+          "image": {
+            "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+            "alt": "Titelgrafik zur Vorstellung von Gemini 4 Argon",
+            "credit": "Google",
+            "license": "Artikelbild Google Blog",
+            "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+          }
+        },
+        {
+          "title": "Character.ai ist insolvent, Disney bietet 20 Millionen Dollar für Teile",
+          "lead": "Der Chatbot-Anbieter Character.ai hat Gläubigerschutz nach Chapter 11 beantragt und will sich unter Aufsicht des Gerichts verkaufen. Erster Bieter ist ausgerechnet Disney.",
+          "body": [
+            "Character.ai hat am 12. Oktober bei einem Bundesgericht in Delaware ein Insolvenzverfahren nach Chapter 11 eingeleitet. Ziel ist ein gerichtlich überwachter Verkauf des Unternehmens. Als Gründe nennt die Firma in ihrem Blog „erhebliche rechtliche, regulatorische und operative Gegenwinde“ im vergangenen Jahr. Im Antrag werden Vermögen und Verbindlichkeiten jeweils auf 50 bis 100 Millionen Dollar geschätzt.",
+            "Als sogenannter Stalking-Horse-Bieter steht Disney bereit. Der Konzern würde 20 Millionen Dollar für eine nicht-exklusive, unbefristete Lizenz an bestimmtem geistigem Eigentum und einigen Rechtsansprüchen zahlen. Diese Summe gilt als Untergrenze, andere Interessenten können höher bieten. Der Verkauf soll Ende November oder Anfang Dezember abgeschlossen sein.",
+            "Für die Nutzer ändert sich vorerst nichts. Die Plattform läuft weiter, bezahlte Abos bleiben aktiv, Datenschutzregeln gelten unverändert, und Nutzer können ihre Daten exportieren oder ihr Konto löschen. Character.ai schreibt allerdings auch: Findet sich kein Käufer, der den Dienst weiterbetreiben will, wird die Plattform abgewickelt.",
+            "Die Vorgeschichte ist verwickelt. Character.ai hatte sich im Januar mit Familien von Jugendlichen verglichen, die das Unternehmen verklagt hatten, danach folgten weitere Klagen. Disney hatte ein Jahr zuvor eine Unterlassungsaufforderung wegen nachgeahmter Figuren geschickt und im September den früheren Character.ai-Chef Karandeep Anand als konzernweiten Technikchef eingestellt."
+          ],
+          "highlight": "Findet sich kein Käufer, der den Dienst weiterbetreiben will, wird die Plattform abgewickelt.",
+          "assessment": [
+            "Character.ai war einmal eines der am höchsten bewerteten KI-Start-ups, mit Millionen meist junger Nutzer. Dass es nun für einen Bruchteil davon zu haben ist, zeigt, wie teuer Haftungsrisiken bei Begleiter-Chatbots geworden sind. Ein Produkt, das auf emotionale Bindung setzt, ist eben auch ein Produkt, für das man verklagt wird, wenn diese Bindung schiefgeht.",
+            "Disneys Rolle ist pikant: erst Abmahnung, dann den Chef abwerben, jetzt für überschaubares Geld Lizenzen und Rechtsansprüche sichern. Das wirkt weniger wie Rettung als wie Resteverwertung. Für Nutzer heißt das: Wer an seinen Chats hängt, sollte den Datenexport jetzt nutzen."
+          ],
+          "sources": [
+            {
+              "name": "Character.ai Blog",
+              "url": "https://blog.character.ai/an-update-on-character-ai/"
+            },
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/character-ai-files-for-bankruptcy-as-disney-bids-20m-for-some-assets"
+            },
+            {
+              "name": "TheWrap",
+              "url": "https://www.thewrap.com/industry-news/tech/disney-character-ai-chatbot-bankruptcy-deal"
+            }
+          ],
+          "image": {
+            "url": "https://storage.ghost.io/c/ad/34/ad34888f-5b63-4d5f-a358-18cf16489b83/content/images/size/w1200/2026/10/oct-blog-header.jpg",
+            "alt": "Titelbild des Character.ai-Blogbeitrags zum Insolvenzverfahren",
+            "credit": "Character.ai",
+            "license": "Artikelbild Character.ai Blog",
+            "source": "https://blog.character.ai/an-update-on-character-ai/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Rockstar: Das Spiel nach GTA 6 soll nicht wieder acht Jahre dauern",
+          "lead": "Wenige Wochen vor dem Start von GTA 6 versprechen die Studioleiter von Rockstar, dass der Nachfolger deutlich schneller kommt. Parallel verdichten sich Berichte über eine PC-Fassung im Frühjahr 2027.",
+          "body": [
+            "Im Gespräch mit Bloomberg haben die Rockstar-Studioleiter Phil Hooker und Aaron Garbut erklärt, das nächste Spiel des Studios werde nicht so lange brauchen wie Grand Theft Auto 6. GTA 6 erscheint laut Video Games Chronicle am 19. November und ist Rockstars erstes großes neues Einzelspielerprojekt seit Red Dead Redemption 2 aus dem Oktober 2018.",
+            "Der Grund ist die Technik. „Die Engine, die Werkzeuge und das Team, die wir während dieses Projekts aufgebaut haben, werden es uns erlauben, Dinge schneller zu machen“, sagte Hooker. Man könne künftig eher „zur Seite als nach oben“ wachsen, also auf dem Bestehenden mehr Inhalte bauen, statt die Grundlagen neu zu erfinden. Garbut ergänzte: „Wir haben bei diesem Projekt grundlegend vieles verändert. Aber jetzt ist es fertig, und wir werden es nicht wieder auseinandernehmen.“",
+            "Bloomberg zog den Vergleich zu GTA Vice City, das nur ein Jahr nach GTA 3 erschien, weil die technische Basis schon stand. VGC betont allerdings, dass nichts darauf hindeutet, das nächste Rockstar-Spiel könne ähnlich schnell kommen. Unter Fans war zuletzt die Sorge gewachsen, ein neues Red Dead Redemption oder ein anderes Projekt könne erst in den 2030er-Jahren erscheinen.",
+            "Zugleich berichtete GamesBeat unter Berufung auf vier anonyme Branchenquellen, dass eine PC-Version von GTA 6 vor Ende März 2027 geplant sei. Rockstar hat eine PC-Fassung bisher nicht offiziell bestätigt. Garbut nannte GTA 6 das Ergebnis jahrzehntelanger Erfahrung: „Die letzten 30 Jahre waren Übung für den Punkt, an dem wir jetzt angekommen sind.“"
+          ],
+          "highlight": "Man könne künftig eher „zur Seite als nach oben“ wachsen, also auf dem Bestehenden mehr Inhalte bauen, statt die Grundlagen neu zu erfinden.",
+          "assessment": [
+            "Solche Versprechen hört man von großen Studios nach jedem Mammutprojekt, und meist kommt es anders. Bei Rockstar gibt es aber einen echten Grund zur Hoffnung: Zwischen GTA 5 und GTA 6 lag nicht nur Red Dead 2, sondern auch ein kompletter Umbau der RAGE-Engine. Wenn dieser Umbau jetzt abgeschlossen ist, fällt der teuerste Teil beim nächsten Mal weg.",
+            "Realistisch heißt „schneller“ bei Rockstar trotzdem eher fünf als acht Jahre. Und die PC-Version im ersten Quartal 2027 wäre für Rockstar-Verhältnisse fast schon ein Sprint, bei GTA 5 hat das noch anderthalb Jahre gedauert."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/"
+            },
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/the-pc-version-of-grand-theft-auto-6-is-reportedly-coming-before-the-end-of-march-2027/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/09/gta-6-pic1.jpg",
+            "alt": "Szene aus Grand Theft Auto 6",
+            "credit": "Rockstar Games / Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/"
+          }
+        },
+        {
+          "title": "Ubisoft will Trials-Studio RedLynx schließen und in Singapur 70 Stellen streichen",
+          "lead": "Ubisoft plant laut Video Games Chronicle, das finnische Studio RedLynx dichtzumachen und Ubisoft Singapore zu verkleinern. Betroffen sind zusammen rund 120 Beschäftigte.",
+          "body": [
+            "Nach Informationen von Video Games Chronicle hat Ubisoft die laufenden Projekte und die langfristige Tragfähigkeit seiner Studios überprüft. Für RedLynx in Helsinki fiel das Urteil hart aus: Das Studio hat kein neues Projekt, und eine weitere Verkleinerung würde es nach Ubisofts Einschätzung nicht überlebensfähig machen. Deshalb soll die Schließung vorgeschlagen werden, betroffen wären etwa 52 Beschäftigte.",
+            "Endgültig ist das noch nicht. In Finnland sind sogenannte Change-Verhandlungen gesetzlich vorgeschrieben, wenn ein Arbeitgeber mit mindestens 50 Beschäftigten Entscheidungen trifft, die Stellen betreffen. Parallel soll Ubisoft Singapore umstrukturiert und verkleinert werden, dort fallen 70 Stellen weg.",
+            "RedLynx wurde im Jahr 2000 gegründet und ist vor allem für die Motorrad-Geschicklichkeitsreihe Trials bekannt, die als Browserspiel begann. Der Durchbruch kam mit Trials HD auf Xbox Live Arcade, 2011 übernahm Ubisoft das Studio. Es folgten Trials Evolution, Trials Fusion, Trials of the Blood Dragon und 2019 Trials Rising. Danach wurde es ruhiger: Das Mobilspiel Gwen's Getaway wurde nach dem Testlauf im Dezember 2024 eingestellt, zuletzt half das Studio bei der Switch-2-Fassung von Star Wars Outlaws. Schon im Oktober 2025 hatte Ubisoft bis zu 60 Stellen bei RedLynx gestrichen, um das Studio auf Mobilspiele auszurichten.",
+            "Ubisoft Singapore wurde 2008 gegründet, hat an fast allen Assassin's-Creed-Spielen mitgearbeitet und die Entwicklung von Skull and Bones sowie Assassin's Creed Black Flag Resynced geleitet. Die Kürzungen sind Teil einer größeren Umstrukturierung, bei der Ubisoft bereits mehrere Projekte gestrichen und sich in sogenannte Creative Houses aufgeteilt hat."
+          ],
+          "highlight": "Das Studio hat kein neues Projekt, und eine weitere Verkleinerung würde es nach Ubisofts Einschätzung nicht überlebensfähig machen.",
+          "assessment": [
+            "Das Ende von RedLynx kommt mit Ansage. Seit Trials Rising hat das Studio nichts Eigenes mehr veröffentlicht, die Neuausrichtung auf Mobilspiele vor einem Jahr war schon der letzte Rettungsversuch. Schade ist es trotzdem, denn Trials war eine der wenigen Ubisoft-Marken mit eigener Handschrift, präzise und gnadenlos statt aufgebläht.",
+            "Für Ubisoft ist es ein weiterer Schritt in einem Schrumpfkurs, der noch lange nicht vorbei sein dürfte. Dass ausgerechnet das Skull-and-Bones-Studio in Singapur Federn lassen muss, überrascht wenig: Das Piratenspiel war einer der teuersten Fehlschläge der Firmengeschichte."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/"
+            }
+          ],
+          "image": {
+            "url": "https://live.staticflickr.com/7456/9588356405_be174a4933_b.jpg",
+            "alt": "Messestand von Ubisoft auf der Gamescom 2013",
+            "credit": "Sergey Galyonkin",
+            "license": "CC BY-SA 2.0",
+            "source": "https://www.flickr.com/photos/22974618@N00/9588356405"
+          }
+        },
+        {
+          "title": "Xbox Labs: Microsoft reagiert auf die Welle KI-gebauter Mods und Portierungen",
+          "lead": "Xbox-Chefin Asha Sharma hat eine neue Experimentiergruppe gegründet. Anlass sind Fans, die mit KI Spiele zerlegen, neu zusammensetzen und auf fremde Plattformen bringen.",
+          "body": [
+            "In einer internen Mitteilung an die Belegschaft hat Xbox-Chefin Asha Sharma am Dienstag die Gründung von Xbox Labs bekanntgegeben. Die Gruppe soll „eine kleine Gruppe von Spielemachern, Ingenieuren und Wissenschaftlern“ sein, deren Aufgabe es ist, neue Ideen in etwas zu verwandeln, das Spieler und Entwickler ausprobieren können. Geleitet wird sie von Xbox-Technikchef Scott Van Vliet.",
+            "Auslöser ist eine Entwicklung der letzten Wochen: Modder haben mit KI-Hilfe ungewöhnliche Mischungen gebaut, etwa Mario-artiges Plattformspringen in Elden Ring, und Spiele auf Plattformen gebracht, für die sie nie gedacht waren, etwa Call of Duty im Webbrowser. Laut VGC kam dabei Anthropics Modell Claude Opus 5.5 zum Einsatz. Sharma schrieb, Spiele würden dekompiliert und so neu gebaut, dass sie auf Hardware laufen, für die sie nicht entwickelt wurden. Windows-Spiele würden für Apple Silicon übersetzt und per WebAssembly und WebGPU in den Browser gebracht.",
+            "Diese Experimente stellten alte Gewissheiten der Branche in Frage, schreibt Sharma: die Bindung von Software an Hardware, die Grenze zwischen Erschaffen und Spielen und die Art, wie Menschen Spiele entdecken. Sie verweist darauf, dass KI-Agenten zuerst beim Programmieren durchgestartet seien, weil sie Software schreiben, ausführen und testen können, und dass Spiele genau diese Eigenschaften teilen. Spieler verbrächten jährlich mehr als 72 Milliarden Stunden mit Xbox-Spielen, rund fünfmal so viel wie die geschätzte weltweite Zeit beim Programmieren.",
+            "Die Gruppe soll offen arbeiten, aus dem Verhalten der Nutzer lernen und Erfolg daran messen, ob mehr Menschen spielen und Inhalte erschaffen. Die entwickelten Werkzeuge will Xbox mit der Branche teilen. An den bisherigen Prioritäten, der eigenen Hardware und dem Umgang mit Marken und Communitys ändere sich nichts, betonte Sharma."
+          ],
+          "highlight": "Sharma schrieb, Spiele würden dekompiliert und so neu gebaut, dass sie auf Hardware laufen, für die sie nicht entwickelt wurden.",
+          "assessment": [
+            "Bemerkenswert ist der Ton. Andere Rechteinhaber hätten auf KI-Portierungen ihrer Spiele mit Abmahnungen reagiert, Xbox gründet eine Arbeitsgruppe. Das passt zur Linie, die Microsoft seit Jahren fährt: Xbox als Plattform überall statt als Konsole im Wohnzimmer. Wenn Spiele ohnehin bald auf jedem Gerät laufen, will man derjenige sein, der die Werkzeuge dafür liefert.",
+            "Offen ist, wie das mit dem Urheberrecht zusammengeht. Was Modder gerade tun, bewegt sich oft in einer Grauzone. Eine Gruppe, die diese Energie aufgreift, ohne die eigenen Studios und Partner zu verprellen, braucht viel Fingerspitzengefühl. Ein Name und ein Technikchef sind noch keine Strategie."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/oqz1h6oImOzGS4X5.mp4_snapshot_00.15.960.jpg",
+            "alt": "Standbild aus einem Video zu KI-gestützten Spielemods",
+            "credit": "Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/"
+          }
+        },
+        {
+          "title": "„Programmieren ist schwer“: Epic hat seinen neuen Launcher mit KI zusammengebaut",
+          "lead": "Epic Games hat eine Vorschau seines neuen Epic Games Launchers veröffentlicht und erklärt offen, ihn per „Vibe Coding“ entwickelt zu haben. Schneller als Steam soll er auch sein.",
+          "body": [
+            "Epic Games hat am Dienstag eine Vorabversion seines überarbeiteten Launchers freigegeben. In einem Beitrag auf der Website des Epic Games Store schreibt das Unternehmen, man habe die Software mit KI „vibe coded“. Gemeint ist eine Arbeitsweise, bei der man in Alltagssprache beschreibt, was die Software tun soll, und eine KI den Code schreibt, baut und ausliefert. Die Begründung fällt ungewöhnlich lapidar aus: „Programmieren ist schwer.“",
+            "Die erste Version sei „funktionsarm“, räumt Epic ein, und vergleicht sie mit einem Schnellboot statt einer Jacht. Einen Warenkorb gibt es immerhin. Der Kaltstart dauere im Schnitt 5,47 Sekunden, nach Epics Angaben 46 Prozent schneller als bei Steam. Dazu kämen schnellerer Wechsel zwischen Bibliothek und Shop, weniger Hintergrundlast und eine verbesserte Bibliothek. Auf X warb der Store: „Wir haben den Epic Games Launcher gevibecodet, damit er schneller ist als der andere.“",
+            "Der Launcher gilt seit Jahren als Schwachstelle. Im Februar hatte Store-Chef Steven Allison gegenüber Eurogamer eingeräumt, er sei „wirklich langsam“, weil er bei jedem Klick Daten von den Servern neu lade. Im Juni kündigte Epic auf dem Unreal Fest einen Neubau an, damals ohne KI zu erwähnen. Kritiker weisen darauf hin, dass KI-geschriebener Code Fehler oder Sicherheitslücken enthalten kann, die schwerer zu beheben sind, wenn niemand ihn wirklich versteht.",
+            "Die Meldung passt zu einem Kurs, über den bereits berichtet wurde: Epic soll seine Teams angewiesen haben, Entwicklung nach dem Prinzip „KI zuerst“ zu betreiben, bis hin zu großen Lizenzspielen."
+          ],
+          "highlight": "Kritiker weisen darauf hin, dass KI-geschriebener Code Fehler oder Sicherheitslücken enthalten kann, die schwerer zu beheben sind, wenn niemand ihn wirklich versteht.",
+          "assessment": [
+            "„Programmieren ist schwer“ als offizielle Begründung eines Unternehmens, das eine der wichtigsten Spiele-Engines der Welt baut, ist natürlich Koketterie. Epic will provozieren und zugleich zeigen, dass sein KI-Kurs Ergebnisse bringt. Ein Launcher ist dafür ein dankbares Schaufenster: überschaubar, sichtbar und bisher so schlecht, dass fast jede Neufassung besser wirkt.",
+            "Heikel ist der Gegenstand trotzdem. Ein Launcher verwaltet Konten, Zahlungsdaten und installiert Software auf Millionen Rechnern. Gerade hier wäre ein bisschen weniger Vibe und ein bisschen mehr Sorgfalt angebracht. Wie gut der Code ist, wird sich weniger an der Startzeit zeigen als an der ersten Sicherheitslücke, oder ihrem Ausbleiben."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/new-epic-games-launcher.jpg",
+            "alt": "Oberfläche des neuen Epic Games Launchers",
+            "credit": "Epic Games / Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Zufallsfund im Nildelta: Kopf einer 8,5 Meter hohen Statue von Ramses II.",
+          "lead": "Ein Dorfbewohner in Behbeit el-Hagar stieß vor seinem Haus auf einen beschrifteten Stein. Die anschließende Rettungsgrabung brachte zwei Kolossalstatuen und einen Granitblock mit dem Namen Ramses' II. zutage.",
+          "body": [
+            "In Behbeit el-Hagar im Gouvernement Gharbiya im Nildelta bemerkte ein Anwohner bei Arbeiten auf seinem Grundstück vor dem Haus einen Stein mit Inschrift. Er grub nicht weiter, sondern meldete den Fund den Antikenbehörden. Eine Mission des Obersten Antikenrats fand daraufhin zwei monumentale Königsstatuen und einen Block aus rosa Granit mit Hieroglyphen.",
+            "Am spektakulärsten ist ein 1,60 Meter hoher Kopf Ramses' II. mit der Doppelkrone, dem Zeichen der Herrschaft über Ober- und Unterägypten. Dazu gehört ein Stück des Rückenpfeilers mit dem Horusnamen „Hor Ka Nakht Mery Maat“. Der Generalsekretär des Antikenrats, Hisham El-Leithy, schätzt, dass die vollständige Statue samt Sockel etwa 8,5 Meter hoch gewesen sein könnte.",
+            "Die zweite Statue ist in ihrem erhaltenen Zustand rund 2,40 Meter lang. Beine und Sockel fehlen, das Gesicht ist aber erkennbar, ebenso das gestreifte Nemes-Kopftuch. Ob auch sie Ramses II. zeigt, ist noch nicht bestätigt. Etwa einen Meter nördlich lag ein 1,30 Meter langer Granitblock mit den Königstiteln „König von Ober- und Unterägypten“ und „Sohn des Re“.",
+            "Behbeit el-Hagar ist vor allem für seinen Isis-Tempel bekannt, dessen Ruinen aus gewaltigen Granitblöcken bestehen. Das Heiligtum stammt größtenteils aus der Zeit Nektanebos' II. im 4. Jahrhundert v. Chr., also rund neun Jahrhunderte nach Ramses II., der etwa von 1279 bis 1213 v. Chr. regierte. Schon 2017 hatten die Ägyptologen Mahmoud Emam und Ehab Abd el-Zaher aus zwei Fragmenten mit Kartuschen Ramses' II. geschlossen, dass hier ein älterer Bau gestanden haben könnte. Ob die Statuen ursprünglich am Fundort standen, ist offen; die Grabungen gehen weiter."
+          ],
+          "highlight": "Der Generalsekretär des Antikenrats, Hisham El-Leithy, schätzt, dass die vollständige Statue samt Sockel etwa 8,5 Meter hoch gewesen sein könnte.",
+          "assessment": [
+            "Ramses II. hat Ägypten so gründlich mit Statuen gepflastert, dass ein weiterer Koloss fast Routine scheint. Interessant ist hier aber der Ort: Ein Ramses-Bau unter dem späten Isis-Tempel würde zeigen, dass Behbeit el-Hagar schon im Neuen Reich ein bedeutendes Heiligtum war und nicht erst unter den letzten einheimischen Pharaonen.",
+            "Mindestens so wichtig ist die Geschichte des Funds. Ein Grundbesitzer, der meldet statt verkauft, ist in Ägypten keine Selbstverständlichkeit. Dass der Minister ihm öffentlich dankt, ist auch eine Botschaft an alle anderen, die im Delta auf alte Steine stoßen."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/colossal-8-5-meter-statue-of-ramesses-ii-revealed-by-chance-discovery-in-egypt/"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Ramesses-II-statue-1.jpg",
+            "alt": "Granitkopf einer Kolossalstatue Ramses' II. in der Grabung von Behbeit el-Hagar",
+            "credit": "Ägyptisches Ministerium für Tourismus und Altertümer",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/colossal-8-5-meter-statue-of-ramesses-ii-revealed-by-chance-discovery-in-egypt/"
+          }
+        },
+        {
+          "title": "Steinhaus mit Kellertreppe in der Pfalz Helfta Ottos des Großen entdeckt",
+          "lead": "Bei Eisleben haben Archäologen neben der Königspfalz Helfta einen Steinbau aus dem 10. Jahrhundert freigelegt. Er könnte zu den ältesten weltlichen Steinhäusern Sachsen-Anhalts gehören.",
+          "body": [
+            "Das Landesamt für Denkmalpflege und Archäologie Sachsen-Anhalt hat am 12. Oktober einen neuen Fund an der ehemaligen Königspfalz Helfta bei Lutherstadt Eisleben bekanntgegeben. Neben dem Palast kam ein Steingebäude von etwa neun mal fünf Metern zutage, mit Keller und einer bemerkenswert gut erhaltenen Eingangstreppe. Die Begleitfunde datieren es ins 10. Jahrhundert.",
+            "Wer darin wohnte, ist offen. Denkbar sind vornehme Gäste oder ein Amtsträger, der die Pfalz in Abwesenheit des Kaisers verwaltete, etwa ein Burggraf. Sollte sich die Datierung bestätigen, wäre es eines der frühesten bekannten weltlichen Steingebäude in Sachsen-Anhalt. Die Grabung unter Leitung von Professor Felix Biermann läuft seit dem 31. August und noch bis zum 24. Oktober, unterstützt von rund 20 Freiwilligen.",
+            "Helfta war ein Zentrum der Ottonen. Schriftquellen berichten von Besuchen Ottos des Großen, seines Sohnes Otto II. und des Chronisten Thietmar von Merseburg. Bei Grabungen von 2020 bis 2023 auf dem Hügel Kleine Klaus waren bereits die Fundamente eines steinernen Palastes und der Kirche St. Radegunde gefunden worden, die Otto der Große vor 969 gestiftet hatte. Östlich des Palastes liegt eine gepflasterte Terrasse über dem Hof zwischen Wohnbau und Kirche, vielleicht ein Platz für Versammlungen unter freiem Himmel.",
+            "In der Vorburg lebten Handwerker in Grubenhäusern von drei bis fünf Metern Durchmesser. Webgewichte, Schmelztiegel und ein Kalkofen zeugen von Textilherstellung, Metallverarbeitung und Kalkbrennerei. Unter den Funden sind Silbermünzen des 10. bis 15. Jahrhunderts, ottonische Ohrringe, Emailfibeln, eine fast noch spielbare Knochenflöte und das Bruchstück eines Geweihkästchens aus der Zeit um 1000. Im 12. Jahrhundert errichtete die Familie Hackeborn auf einem Teil des Geländes eine kleinere Burg; ob dort die Mystikerinnen Gertrud und Mechthild von Hackeborn aufwuchsen, ist nicht belegt."
+          ],
+          "highlight": "Sollte sich die Datierung bestätigen, wäre es eines der frühesten bekannten weltlichen Steingebäude in Sachsen-Anhalt.",
+          "assessment": [
+            "Pfalzen waren im 10. Jahrhundert die Regierungssitze eines Reiches ohne Hauptstadt, und Helfta zeigt immer deutlicher, wie so ein Ort funktionierte: Palast, Kirche, Repräsentationsterrasse, Gästehaus und dahinter ein Handwerkerviertel, das alles am Laufen hielt. Das neue Steinhaus ist ein kleines Puzzleteil, aber ein aussagekräftiges, weil Stein damals noch Statussymbol war.",
+            "Schön ist auch, dass eine solche Grabung mit Freiwilligen läuft. Die Archäologie des Mittelalters in Mitteldeutschland lebt seit Jahren von solchen Projekten, und Helfta gehört inzwischen zu den ergiebigsten."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/mysterious-1000-year-old-building-discovered-at-emperor-otto-the-greats-lost-palace-in-germany/"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/former-royal-palace-of-Helfta.jpg",
+            "alt": "Luftbild der Grabungen 2026 an der ehemaligen Königspfalz Helfta",
+            "credit": "Johannes Groß / LDA Sachsen-Anhalt",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/mysterious-1000-year-old-building-discovered-at-emperor-otto-the-greats-lost-palace-in-germany/"
+          }
+        },
+        {
+          "title": "4700 Jahre altes Wrack vor Kekova: Butterfass an Bord?",
+          "lead": "Vor der türkischen Mittelmeerküste untersuchen Unterwasserarchäologen ein Schiffswrack der frühen Bronzezeit. Eine Amphore mit neun Markierungen und zwei Löchern könnte zeigen, dass Seeleute schon damals an Bord Lebensmittel verarbeiteten.",
+          "body": [
+            "Der türkische Kultur- und Tourismusminister Mehmet Nuri Ersoy hat am 14. Oktober neue Ergebnisse zu einem Wrack nahe der Insel Kekova vorgestellt. Forscher der Akdeniz-Universität hatten es 2024 erstmals dokumentiert, die Untersuchungen leitet der Unterwasserarchäologe Hakan Öniz. Die Amphoren an Bord datieren in die frühe Bronzezeit, rund 4700 Jahre vor heute. Damit wäre das Schiff deutlich älter als die berühmten Wracks von Uluburun und Kap Gelidonya in derselben Region.",
+            "Erste Tonanalysen deuten darauf hin, dass ein Teil der Amphoren in Werkstätten im Jordantal gefertigt wurde. Vergleichbare Gefäße kennt man aus Ägypten, Troja und Kreta. Das spricht für weitreichende Handelsnetze lange vor der späten Bronzezeit. Die Forscher vermuten, dass ein kleines Schiff von der levantinischen Küste nach Westen unterwegs war, vielleicht Richtung Kreta oder anatolische Küste, und dabei sank.",
+            "Bislang wurden zwei Amphoren geborgen, eine 2024 und eine 2025. Ihr Ton und ihre mögliche Nutzung unterscheiden sich. Eine von ihnen trägt neun deutliche Markierungen und hat zwei Löcher im Gefäßkörper. Ersoy brachte die Deutung ins Spiel, es könne sich um ein Butterfass zur Herstellung von Käse oder Butter gehandelt haben. Bestätigt sich das, hätten Seeleute auf See Nahrung verarbeitet, statt sich nur auf fertigen Proviant zu verlassen.",
+            "In der Nähe lagen außerdem drei Steinanker, zwei mit je drei Löchern und einer mit einem. Ob sie zum Schiff gehörten, ist noch offen; sie ähneln bronzezeitlichen Ankern aus Anatolien, Zypern, Kreta und der Levante. Ein vorläufiger Bericht von Öniz und C. Öztosun ist im Journal of Maritime Archaeology erschienen."
+          ],
+          "highlight": "Bestätigt sich das, hätten Seeleute auf See Nahrung verarbeitet, statt sich nur auf fertigen Proviant zu verlassen.",
+          "assessment": [
+            "Die Butterfass-These ist reizvoll, aber vorerst genau das: eine These, und zwar eine, die ein Minister bei einer Pressevorstellung geäußert hat. Löcher in einer Amphore können vieles bedeuten. Spannender und belastbarer ist die Herkunft des Tons aus dem Jordantal, denn sie zieht eine Linie von der Levante bis in die Ägäis fast tausend Jahre vor Uluburun.",
+            "Wenn sich die Datierung hält, gehört Kekova zu den ältesten bekannten Wracks überhaupt. Dann wäre es kein Luxusfrachter mit Kupferbarren, sondern ein Blick auf den Alltag der frühen Mittelmeerschifffahrt, und gerade das macht es wertvoll."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/a-4700-year-old-shipwreck-nine-mysterious-marks-and-an-unexpected-clue-to-life-at-sea/"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Early-Bronze-Age-shipwreck.webp",
+            "alt": "Taucher untersucht den Meeresboden am frühbronzezeitlichen Wrack vor Kekova",
+            "credit": "Ministerium für Kultur und Tourismus der Republik Türkei",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/a-4700-year-old-shipwreck-nine-mysterious-marks-and-an-unexpected-clue-to-life-at-sea/"
+          }
+        },
+        {
+          "title": "Fußbodenheizung nach römischem Vorbild: Frühmittelalterlicher Herrensitz bei Dijon",
+          "lead": "Auf der Montagne de Saint-Laurent in Burgund haben Archäologen des Inrap einen Siedlungskomplex des 5. bis 8. Jahrhunderts freigelegt, mit Kirche, großen Steinbauten und einer Hypokaustenheizung.",
+          "body": [
+            "Auf einem Hochplateau bei Mesmont, etwa 20 Kilometer westlich von Dijon, gräbt das französische Institut für präventive Archäologie Inrap seit 2019. Unter Leitung von Antoine Guicheteau kam dort ein Komplex zutage, der vom 5. bis ins frühe 8. Jahrhundert bewohnt war und möglicherweise einer mächtigen Familie als Residenz diente. Der Ort war schon im 19. Jahrhundert untersucht worden, seine Bedeutung wurde damals aber nicht erkannt.",
+            "Im Zentrum steht eine frühchristliche Kirche von etwa 27,5 Metern Länge mit Apsis und möglichen Spuren einer hölzernen Schranke zwischen Altarraum und Gemeinde. Seit 2019 wurden mehr als 500 Glasfragmente gefunden, rund 50 davon könnten von Fenstern stammen. Neben der Kirche steht ein Steinbau von etwa 15 mal 12 Metern mit dicken Mauern, südlich davon ein weiteres Gebäude von über 20 Metern Länge.",
+            "Ein Wohnbau des 6. bis 7. Jahrhunderts von rund 22 Metern Länge mit zentralem Saal, Nebenräumen und vorgelagerter Galerie ersetzte ein älteres Gebäude des 5. Jahrhunderts mit beheiztem Fußboden. Kleine Steinpfeiler, Reste von Tonröhren und erhöhte Böden belegen ein Hypokaustum, bei dem warme Luft unter dem Boden zirkulierte. Solche Anlagen waren teuer in Bau und Unterhalt und sprechen für gehobenen Lebensstil. Im Wohnbereich fanden sich auch Waffen und Trachtzubehör.",
+            "Historisch fällt die Siedlung in die Zeit nach dem Ende Westroms, als die Burgunder hier ein Königreich gründeten, das 534 an die Franken fiel. Mittelalterliche Quellen verbinden die Gegend mit dem Verwaltungsbezirk pagus Magnimontensis sowie mit Bischof Gregor von Langres und seinem Enkel Eustachius. Im frühen 8. Jahrhundert verlor der Ort offenbar an Bedeutung, vielleicht zugunsten des nahen Sombernon."
+          ],
+          "highlight": "Solche Anlagen waren teuer in Bau und Unterhalt und sprechen für gehobenen Lebensstil.",
+          "assessment": [
+            "Das Bild vom „dunklen“ Frühmittelalter, in dem nach dem Fall Roms alles in Holzhütten zurückfiel, bekommt mit solchen Funden weitere Risse. Hier lebte im 5. Jahrhundert jemand mit Fußbodenheizung, Glasfenstern in der Kirche und Steinbauten, also mit römischem Komfort unter neuen Herrschern.",
+            "Die Bezeichnung „Palast“ in manchen Überschriften ist allerdings großzügig. Treffender ist wohl ein Herrensitz einer regionalen Elite, und genau das macht ihn interessant: Er zeigt, wie die burgundisch-fränkische Oberschicht römische Lebensart weiterführte, statt sie zu ersetzen."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/1500-year-old-palace-with-roman-heating-system-discovered-on-a-hilltop-in-france/"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/sixth-to-seventh-century-building--scaled.jpg",
+            "alt": "Luftbild eines Gebäudes aus dem 6. bis 7. Jahrhundert auf der Montagne de Saint-Laurent",
+            "credit": "J. Berthet und A. Guicheteau / Inrap",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/1500-year-old-palace-with-roman-heating-system-discovered-on-a-hilltop-in-france/"
+          }
+        },
+        {
+          "title": "Speere, Rindenteller und eine Keule: Neandertaler-Holzwerkzeuge im Abric Romaní",
+          "lead": "In einem Felsdach in Katalonien haben Forscher 13 Abdrücke von Holzgegenständen identifiziert, die Neandertaler bearbeitet haben. Holz überdauert fast nie, hier hat Kalksinter die Formen bewahrt.",
+          "body": [
+            "Im Abric Romaní bei Capellades im Nordosten Spaniens lebten Neandertaler zwischen etwa 62.000 und 40.000 Jahren vor heute. Rund 20 Meter Sediment haben sich dort über etwa 15.000 Jahre abgelagert. Ein Team des katalanischen Instituts IPHES um Palmira Saladié, Gema Chacón und Josep Vallverdú hat nun in der Fachzeitschrift Science Advances 13 Abdrücke beschrieben, die eindeutig auf von Menschenhand geformte Holzobjekte zurückgehen.",
+            "Erhalten sind sie, weil die Gegenstände von kalkreichem Wasser überzogen wurden. Das Holz verrottete später, zurück blieben Hohlformen im Travertin. In der ältesten bisher ergrabenen Schicht R lagen zwei Speere, einer über zweieinhalb Meter lang und vermutlich zum Zustoßen aus der Nähe gedacht. Aus Schicht P stammt eine mögliche Keule mit dreieckigem Kopf, aus den Schichten H und O vier flache Stücke verkohlter Wacholderrinde von 30 bis 55 Zentimetern, die als Teller, flache Schalen oder Ascheschaufeln gedient haben könnten.",
+            "Weitere Funde lassen auf den Alltag schließen: gerade Stöcke über einer Feuerstelle, vielleicht eine Kochvorrichtung, kräftige Grabstöcke für Wurzeln oder Gruben und in Schicht N eine 5,10 Meter lange glatte Stange inmitten von fünf Feuerstellen. Dort vermuten die Forscher einen Schlafplatz, an dem die Stange einen Windschutz oder eine kleine Hütte trug.",
+            "Besonders rätselhaft ist die Keule. Sie ist aus einem Stück geschnitzt, Griff und Kopf stoßen im rechten Winkel aufeinander, und das Griffende ist leicht verdickt, ein Merkmal, das man aus der Völkerkunde von Werkzeugen kennt, die nicht aus der Hand rutschen sollen. Für das Altpaläolithikum der Alten Welt ist bisher nur eine mögliche Holzkeule beschrieben, aus Kalambo Falls in Sambia, und keines der dortigen Stücke hat eine vergleichbare Form."
+          ],
+          "highlight": "Erhalten sind sie, weil die Gegenstände von kalkreichem Wasser überzogen wurden.",
+          "assessment": [
+            "Unser Bild der Neandertaler ist von Steinwerkzeugen geprägt, schlicht weil Stein übrig bleibt. Holz war aber vermutlich ihr wichtigster Werkstoff, und der Abric Romaní ist einer der ganz wenigen Orte, an denen man das sehen kann. Teller aus Rinde, eine Stange für einen Windschutz, eine durchdachte Keule: Das ist Haushalt, nicht nur Jagd.",
+            "Einschränkend gilt, dass es Abdrücke sind, keine Objekte. Bei der Deutung als Teller oder Hütte bleibt viel Interpretation. Der Gesamteindruck ist trotzdem stark, und er passt zu dem, was die Forschung seit Jahren zeigt: Die Neandertaler waren handwerklich weit raffinierter, als ihr Ruf es lange zuließ."
+          ],
+          "sources": [
+            {
+              "name": "La Brújula Verde",
+              "url": "https://www.labrujulaverde.com/en/2026/10/neanderthal-wood-tools-almost-never-survive-a-spanish-cliff-has-preserved-spears-bowls-and-a-club-with-no-known-match/"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/12/impressions-of-wooden-neanderthal-tools-found-in-spain/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.labrujulaverde.com/en/wp-content/uploads/2026/10/4255_medium-copia.webp",
+            "alt": "Archäologen arbeiten an einem Holzabdruck im Abric Romaní",
+            "credit": "Gerard Campeny / IPHES-CERCA",
+            "license": "Artikelbild La Brújula Verde",
+            "source": "https://www.labrujulaverde.com/en/2026/10/neanderthal-wood-tools-almost-never-survive-a-spanish-cliff-has-preserved-spears-bowls-and-a-club-with-no-known-match/"
+          }
+        }
+      ]
+    }
+  ]
+}
