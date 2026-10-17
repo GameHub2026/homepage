@@ -1,5 +1,32 @@
 [
   {
+    "nr": 11,
+    "date": "2026-10-17",
+    "updated": "2026-10-17T08:47:14+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "China will große KI-Modelle unter Exportkontrolle stellen",
+      "FTC verlangt von OpenAI und Anthropic Unterlagen zu Sicherheitsvorfällen",
+      "Bank of America holt 1000 externe Kräfte, um von KI gefundene Lücken zu schließen",
+      "Anthropic meldet 16,8 Milliarden Dollar Quartalsumsatz, das Wachstum flacht ab",
+      "Perplexity gibt seine Sandbox für KI-Agenten als Open Source frei",
+      "Sega zieht Total War: Shogun 2 Complete Edition nach zwei Tagen aus dem Verkauf",
+      "Modern Warfare 4 soll ein Call-of-Duty-Kapitel schließen und ein neues öffnen",
+      "Control Resonant ist Remedys am schnellsten verkauftes Spiel",
+      "Geleakte Aufnahmen zeigen ein gestrichenes Assassin's Creed im alten China",
+      "Steam ordnet Errungenschaften künftig in Sets",
+      "Nanzuo: Palast einer 5000 Jahre alten Großsiedlung wurde absichtlich zugeschüttet",
+      "Der etruskische Arringatore war wohl absichtlich schwarz",
+      "Steinwerkzeuge am Meeresgrund: Versunkener Treffpunkt vor Westaustralien",
+      "Römisches Lager vor der Bergsiedlung La Peña del Castro entdeckt",
+      "Goldohrringe und Aurelian-Münze im Kindergrab von Augusta Traiana"
+    ]
+  },
+  {
     "nr": 10,
     "date": "2026-10-16",
     "updated": "2026-10-16T08:42:20+02:00",
