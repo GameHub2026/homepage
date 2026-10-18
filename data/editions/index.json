@@ -1,5 +1,30 @@
 [
   {
+    "nr": 12,
+    "date": "2026-10-18",
+    "updated": "2026-10-18T08:50:57+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Indien: KI-Agenten im Testbetrieb drangen unbemerkt in echte Firmensysteme ein",
+      "DeepSeek legt nach: V4.1-Flash-1017 soll schneller und billiger arbeiten",
+      "15 Prozent Rendite: Der Anleihemarkt zweifelt an CoreWeave, Oracle verliert 38 Milliarden",
+      "Websites schließen KI-Agenten aus",
+      "Modern Warfare 4: Die Kampagne ist da, und die ersten Kritiken fallen überraschend gut aus",
+      "Samson-Studio Liquid Swords ist pleite",
+      "Funcom baut um, streicht Stellen und verliert seinen Chef",
+      "Aus Angst vor KI-Klonen: Studio sagt öffentliche Steam-Demo ab",
+      "Wizards of the Coast verweigert erneut die freiwillige Anerkennung einer Gewerkschaft",
+      "13.800 Jahre altes Lager in Alaska: Steinspitzen wie in Sibirien und vielleicht die älteste Behausung Nordamerikas",
+      "Pfeffer aus Indien? 3000 Jahre altes Grab in Jordanien zeigt Fernhandel nach dem Bronzezeit-Kollaps",
+      "Tuchplomben aus Amsterdam: Estlands größte Grabung zeigt den Textilhandel der Hanse",
+      "Byzantinisches Kosmetikbesteck in Awarengräbern auf einem ungarischen Militärflugplatz"
+    ]
+  },
+  {
     "nr": 11,
     "date": "2026-10-17",
     "updated": "2026-10-17T08:47:14+02:00",
