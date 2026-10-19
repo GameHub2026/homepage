@@ -1,0 +1,452 @@
+{
+  "nr": 13,
+  "date": "2026-10-19",
+  "intro": "Anthropic legt vor dem erwarteten Börsengang fünf Prozent seiner Aktien in einen Gemeinwohlfonds, während Chipaktien acht Tage in Folge fallen und Banken fremden KI-Agenten den Zugang zu Kundenkonten verwehren. Im Gaming-Teil geht es um die Folgen teurer Speicherchips für die PlayStation 6, den durchwachsenen Kinostart von Street Fighter und eine Decompilations-Community, die wegen KI aufgibt. Die Geschichte führt zu einer Fayence-Werkstatt im antiken Kusch, zu den Jōmon nach dem Kikai-Ausbruch, in einen thrakischen Tempel und an den Beginn der klassischen Māori-Kultur.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Anthropic legt fünf Prozent seiner Aktien in einen Gemeinwohlfonds",
+          "lead": "Kurz vor dem erwarteten Börsengang kündigt Anthropic einen Fonds an, der zunächst fünf Prozent der Unternehmensanteile erhalten soll. Mit wachsendem Firmenwert kann der Anteil steigen.",
+          "body": [
+            "Anthropic hat am 18. Oktober den „Anthropic Public Benefit Fund“ vorgestellt. Vorbehaltlich der Zustimmung der Aktionäre sollen fünf Prozent der Anteile sofort in den Fonds fließen. Für jede Steigerung des Unternehmenswerts um 50 Prozent über einen festgelegten Ausgangswert kann der Vorstand nach eigenem Ermessen weitere zwei Prozent hinzufügen. Wie hoch dieser Ausgangswert ist, nennt das Unternehmen nicht; die Bewertungsschwellen sollen später veröffentlicht werden.",
+            "Rechtlich ist der Fonds eine hundertprozentige Tochter in Form einer LLC, keine gemeinnützige Stiftung nach 501(c)(3). Anthropic begründet das damit, man wolle flexibel zwischen verschiedenen Formen des Gebens wechseln können. Als mögliche Verwendungen nennt das Unternehmen große Spenden an klassische gemeinnützige Organisationen oder direkte Zahlungen an bestimmte Bevölkerungsgruppen. Als Beispiel führt es die Folgen von KI für den Arbeitsmarkt an, für die Anthropic bereits gesondert 200 Millionen Dollar zugesagt hat.",
+            "Ausdrücklich ausgeschlossen ist, dass Mittel aus dem Fonds für Lobbyarbeit oder politische Spenden eingesetzt werden, weder in den USA noch anderswo. Forschung zu KI-Sicherheit und Interpretierbarkeit, angewandte biomedizinische Forschung und Rabatte auf Claude für Nonprofits und Wissenschaftseinrichtungen bleiben im Unternehmen, weil sie neben dem Gemeinwohl auch einen kommerziellen Nutzen haben.",
+            "Zusammen mit früheren Zusagen kommt Anthropic nach eigener Rechnung auf rund 20 Prozent der Anteile, die dem Gemeinwohl zugutekommen sollen. Die Mitgründer hatten bei der Gründung 80 Prozent ihres Eigenkapitals verpfändet, außerdem verdoppelt das Unternehmen Aktienspenden seiner Beschäftigten; etwa die Hälfte der Belegschaft macht dabei mit. Statt die Vergütungspakete der Führungsebene immer weiter aufzustocken, will Anthropic diese Anteile nach eigenen Angaben ebenfalls dem Fonds zuführen.",
+            "Offen bleibt vorerst, wer den Fonds steuert und wer über die Vergabe entscheidet. Dazu will Anthropic „in den kommenden Monaten“ mehr mitteilen, ebenso einen Bericht über Fortschritte bei seinem Gemeinwohlauftrag. Der Zeitpunkt ist bemerkenswert: Laut CNBC wird der Börsengang des Unternehmens im November erwartet, bei einer Bewertung von bis zu zwei Billionen Dollar."
+          ],
+          "highlight": "Ausdrücklich ausgeschlossen ist, dass Mittel aus dem Fonds für Lobbyarbeit oder politische Spenden eingesetzt werden, weder in den USA noch anderswo.",
+          "assessment": [
+            "Fünf Prozent eines Unternehmens, das an der Börse bis zu zwei Billionen Dollar wert sein könnte, wären ein Vermögen in der Größenordnung der größten Stiftungen der Welt. Das macht die Ankündigung relevant, auch wenn sie zunächst eine Absichtserklärung bleibt.",
+            "Die entscheidende Lücke ist die Governance. Eine LLC, die dem Unternehmen gehört und deren Regeln noch nicht feststehen, ist eher ein Topf mit sehr viel Spielraum als eine unabhängige Stiftung. Ob daraus mehr wird als gutes Marketing vor dem Börsengang, hängt davon ab, wie unabhängig die Entscheider am Ende sind. Das Lobbyverbot ist dagegen ein klares und überprüfbares Versprechen."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/news/public-benefit-fund"
+            },
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion/"
+            }
+          ],
+          "image": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Dario_Amodei_at_TechCrunch_Disrupt_2023_03.jpg/1280px-Dario_Amodei_at_TechCrunch_Disrupt_2023_03.jpg",
+            "alt": "Anthropic-Chef Dario Amodei auf der Bühne der TechCrunch Disrupt 2023",
+            "credit": "TechCrunch",
+            "license": "CC BY 2.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_03.jpg"
+          }
+        },
+        {
+          "title": "Chipaktien: Acht Verlusttage in Folge, rund zwei Billionen Dollar weg",
+          "lead": "Der Philadelphia Semiconductor Index ist am Freitag erneut um fast vier Prozent gefallen. Eine so lange Verlustserie gab es zuletzt in der Finanzkrise 2008.",
+          "body": [
+            "Der Halbleiterindex SOX schloss am Freitag, dem 16. Oktober, 3,83 Prozent tiefer bei 11.137,29 Punkten. Alle 30 Werte im Index gaben nach. Laut Stocktwits war es der achte Verlusttag in Folge, so lange wie zuletzt während der Finanzkrise 2008. In den sieben Handelstagen davor hatte der Index schon mehr als zwölf Prozent verloren, nach Daten von TradingView verschwanden rund zwei Billionen Dollar an Börsenwert.",
+            "Besonders hart traf es Speicherhersteller und Infrastrukturwerte. Micron fiel um 5,63 Prozent auf 878,84 Dollar und liegt damit 30 Prozent unter seinem 52-Wochen-Hoch von 1.255 Dollar. SK Hynix verlor 6,58 Prozent, Seagate 7,5 Prozent, Western Digital und SanDisk jeweils knapp sieben Prozent. Auch AMD, Intel, Arm und Marvell gaben zwischen fünf und sieben Prozent ab. Die Nasdaq schloss 2,14 Prozent im Minus.",
+            "Ein Auslöser kam aus China: Der Speicherhersteller ChangXin Memory Technologies (CXMT) meldete Fortschritte bei einer dichteren DRAM-Zellarchitektur (4F²) und will darauf basierende Serverspeicher bis Ende 2026 auf den Markt bringen. Anleger fürchten, dass schnell wachsende chinesische Kapazitäten auf die Speicherpreise drücken. Goldman Sachs hält dagegen, der Markt überschätze, wie schnell CXMT den technologischen Rückstand bei modernem DRAM und HBM aufholen könne.",
+            "Dazu kommen Sorgen über schuldenfinanzierte KI-Rechenzentren, steigende Zinserwartungen und ein höherer Ölpreis, der die Inflationssorgen verstärkt. Der Cloud-Anbieter CoreWeave brach am Freitag um fast zwölf Prozent ein und verlor in der Woche rund ein Viertel seines Werts. Laut TradingKey liegen seine Schulden bei über 51 Milliarden Dollar, die Kosten für eine Absicherung gegen einen Zahlungsausfall über fünf Jahre bei 1.117 Basispunkten.",
+            "Trotz der Talfahrt liegt der SOX seit Jahresbeginn noch fast 60 Prozent im Plus. Es ist bereits die fünfte Korrektur um mindestens zehn Prozent in diesem Jahr. Dave Maza, Chef von Roundhill, verweist darauf, dass die Nachfrage nach Speicher stark bleibe: Das Angebot sei bis 2027 ausverkauft, die Bestellungen der Kunden reichten bis ins Jahr 2028."
+          ],
+          "highlight": "Laut Stocktwits war es der achte Verlusttag in Folge, so lange wie zuletzt während der Finanzkrise 2008.",
+          "assessment": [
+            "Ausverkaufte Speicherchips und fallende Aktienkurse passen nur auf den ersten Blick nicht zusammen. Der Markt handelt nicht die heutige Knappheit, sondern die Frage, wie lange die Margen halten, wenn China Kapazitäten nachschiebt und die Rechenzentren auf Pump gebaut werden.",
+            "Ich halte das eher für eine überfällige Neubewertung als für das Ende des KI-Booms. Nach fast 60 Prozent Plus reicht eine Meldung aus China, um Gewinne mitzunehmen. Gefährlicher ist die Verbindung zu CoreWeave: Wenn die Finanzierung der Infrastruktur wackelt, trifft das irgendwann auch die Auftragsbücher der Chiphersteller."
+          ],
+          "sources": [
+            {
+              "name": "Stocktwits",
+              "url": "https://stocktwits.com/news-articles/Markets/Equity/semiconductor-stocks-sox-losing-streak-2-trillion-ai-selloff/cZxKaOoRBsy"
+            },
+            {
+              "name": "TradingKey",
+              "url": "https://tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+            },
+            {
+              "name": "JKN",
+              "url": "https://news.jkn.co.kr/editions/english/post/1028736"
+            }
+          ],
+          "image": {
+            "url": "https://resource.tradingkey.com/uploads/20260701/nasdaq1-e9c6f6c86abd402dbfa8877c486b0566.jpg",
+            "alt": "Symbolbild zur Technologiebörse Nasdaq",
+            "credit": "TradingKey",
+            "license": "Artikelbild TradingKey",
+            "source": "https://tradingkey.com/analysis/stocks/us-stocks/262221811-us-stock-market-close-nasdaq-drop-chip-stocks-fall-coreweave-micron-tradingkey"
+          }
+        },
+        {
+          "title": "Jack Clark beim IWF: KI könnte die US-Wirtschaftsleistung bis 2030 um fast die Hälfte steigern",
+          "lead": "Anthropic-Mitgründer Jack Clark hat auf der Jahrestagung von IWF und Weltbank in Bangkok ein US-Bruttoinlandsprodukt von 44 Billionen Dollar für möglich erklärt. Zugleich warnte er vor großen Gefahren und forderte strenge Regeln.",
+          "body": [
+            "Clark sprach am Samstag, dem 17. Oktober, bei der Jahrestagung von Internationalem Währungsfonds und Weltbank in Bangkok. Er hielt dort die Per-Jacobsson-Vorlesung, eine traditionsreiche Rede am Rande der Tagung. Nach Berichten von CNBC und PYMNTS sagte er, KI könne die Wirtschaftsleistung der USA bis 2030 um fast 50 Prozent erhöhen, von heute rund 30 auf 44 Billionen Dollar.",
+            "Die Zahl stammt aus einem internen Modell von Anthropic. Clark räumte selbst ein, sie klinge „sehr abwegig“, begründete sie aber mit den Fortschritten, die KI in der wissenschaftlichen Forschung ermögliche. Voraussetzung sei, dass sich die Technik weiter verbessere und dass neue Branchen und Erfindungen dieses Wachstum tragen.",
+            "Ein Arbeitspapier des Anthropic Institute vom September hatte drei Szenarien für die US-Wirtschaft im Jahr 2030 durchgerechnet. Das extremste davon landete bei rund 44 Billionen Dollar. Die Autoren betonten damals ausdrücklich, es handle sich um Szenarien, nicht um Prognosen.",
+            "Clark verband die Wachstumszahl mit einer Warnung. Er sprach von zunehmenden Hinweisen auf eine „Singularität“ und sagte, der Fortschritt bei KI und in der Wissenschaft insgesamt werde sich in den kommenden Jahren beschleunigen. Das werde „großen Reichtum und möglicherweise große Gefahren“ bringen. Die Staaten müssten zusammenarbeiten, um „ungewöhnliche und ernsthafte Regeln“ für KI aufzustellen, und das Zeitfenster dafür sei begrenzt.",
+            "Als Beleg für das Tempo hatte Anthropic im Vorfeld eigene Zahlen angeführt: Im August 2026 sei Claude für 26 Prozent der Forschungs- und Entwicklungsarbeit im Unternehmen verantwortlich gewesen, im Februar noch für weniger als ein Prozent. Clark hatte sich in den Wochen vor der Rede für überprüfbare Aufsicht über KI-Entwickler und verpflichtende Sicherheitsmechanismen wie Notabschaltungen ausgesprochen."
+          ],
+          "highlight": "Die Zahl stammt aus einem internen Modell von Anthropic.",
+          "assessment": [
+            "Eine Steigerung um fast 50 Prozent in vier Jahren hat keine Industrienation je erlebt. Dass ein Anthropic-Gründer diese Zahl wenige Wochen vor dem Börsengang auf der größten Finanzbühne der Welt nennt, sollte man mit Vorsicht lesen. Das ist zugleich Warnung und Verkaufsargument.",
+            "Interessanter als die Zahl ist das Publikum. Wenn Finanzminister und Notenbanker von einem KI-Unternehmen hören, sie hätten nur noch wenig Zeit für Regeln, verschiebt sich die Debatte vom Technologieressort in die Wirtschaftspolitik. Dort gehört sie hin, egal ob am Ende 44 oder 33 Billionen herauskommen."
+          ],
+          "sources": [
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion/"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/jack-clark-imf-per-jacobsson-lecture-ai/"
+            }
+          ],
+          "image": {
+            "url": "https://www.pymnts.com/wp-content/uploads/2026/02/Anthropic-Claude-AI-theft-1.jpg",
+            "alt": "Symbolbild mit Bezug zu Anthropic und dem KI-Modell Claude",
+            "credit": "PYMNTS",
+            "license": "Artikelbild PYMNTS",
+            "source": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion/"
+          }
+        },
+        {
+          "title": "Nach Protest: Meta streicht umstrittene Crawling-Klausel aus seinen Geschäftsbedingungen",
+          "lead": "Meta hat Formulierungen aus seinen kommerziellen Nutzungsbedingungen entfernt, die Juristen als Freibrief zum Auslesen von Nachrichtenseiten für das KI-Training gelesen hatten.",
+          "body": [
+            "Meta hatte seine „Commercial Terms“ überarbeitet, die für alle Unternehmen gelten, die Metas Produkte geschäftlich nutzen, also etwa Werbekunden und Verlage mit Business-Konten. Die neuen Bedingungen sollten am 30. Oktober in Kraft treten. Ein neuer Absatz erlaubte Meta, mit automatisierter Software und eigens angelegten Test-Zugangsdaten Websites zu durchsuchen, die mit den Produkten oder Dienstleistungen eines Unternehmens „verbunden“ sind, und die Inhalte unter anderem zum Training eigener Produkte zu verwenden.",
+            "Nieman Lab berichtete am 15. Oktober, drei Rechtsexperten hielten die Klausel für eine mögliche Grundlage, Nachrichtenseiten auszulesen und KI damit zu trainieren. Der Cornell-Juraprofessor James Grimmelmann warnte, die Test-Zugangsdaten könnten es Meta technisch ermöglichen, sich als Scheinnutzer anzumelden und Registrierungsschranken zu umgehen. Zudem könne Meta argumentieren, die Vertragsbedingungen hätten Vorrang vor Sperranweisungen in der robots.txt einer Website. Meta wollte nicht sagen, ob die Zugangsdaten auch Paywalls überwinden würden.",
+            "Metas Kommunikationschef Andy Stone wies die Berichte zunächst auf X als „falsch“ zurück: Es ändere sich nichts daran, wie Meta Webcrawler einsetze. Am 17. Oktober folgte dann laut The Verge die Kehrtwende. Der Satz, wonach Meta „jegliche Inhalte“ der betreffenden Domains nutzen dürfe, um seine Produkte zu entwickeln, zu verbessern, zu erforschen und zu trainieren, steht nicht mehr in den Bedingungen.",
+            "Metas Sprecher Daniel Roberts erklärte gegenüber The Verge, die zusammengeführten Crawling-Regeln hätten nur für Werbe- und Geschäftsprodukte gegolten, das sei nun in den Bedingungen klargestellt. Es gehe nicht um das Auslesen von Nachrichtenseiten, und die Änderungen verschafften Meta keine neuen Rechte, die sich über die Vorgaben in der robots.txt hinwegsetzen."
+          ],
+          "highlight": "Der Satz, wonach Meta „jegliche Inhalte“ der betreffenden Domains nutzen dürfe, um seine Produkte zu entwickeln, zu verbessern, zu erforschen und zu trainieren, steht nicht mehr in den Bedingungen.",
+          "assessment": [
+            "Der Fall zeigt, wie viel Arbeit in einer harmlos klingenden Konsolidierung von AGB stecken kann. Für Verlage gab es nur ein Ja oder Nein: Wer die Bedingungen ablehnen wollte, hätte seine Business-Konten bei Meta aufgeben müssen. Bei einem Konzern, über dessen Plattformen viele Medien einen großen Teil ihrer Reichweite erzielen, ist das keine echte Wahl.",
+            "Dass Meta innerhalb von zwei Tagen von „falsch“ zu einer Streichung übergegangen ist, spricht dafür, dass die Juristen den Text richtig gelesen hatten. Öffentlicher Druck wirkt offenbar noch, solange jemand das Kleingedruckte tatsächlich liest."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+            },
+            {
+              "name": "PPC Land",
+              "url": "https://ppc.land/metas-new-terms-let-it-crawl-business-websites-to-train-ai-from-oct-30/"
+            }
+          ],
+          "image": {
+            "url": "https://ppc.land/content/images/2026/10/meta-commercial-terms-ai-crawling-fountain-pen-spider-storefronts.jpg",
+            "alt": "Illustration: Füllfederhalter, Spinne und Ladenfronten als Sinnbild für Metas Crawling-Klausel",
+            "credit": "PPC Land",
+            "license": "Artikelbild PPC Land",
+            "source": "https://ppc.land/metas-new-terms-let-it-crawl-business-websites-to-train-ai-from-oct-30/"
+          }
+        },
+        {
+          "title": "Schwab und JPMorgan sperren fremde KI-Agenten von Kundenkonten aus",
+          "lead": "Zwei der größten US-Finanzhäuser lassen externe KI-Agenten kein Geld ihrer Kunden bewegen. Schwab blockiert nach eigenen Angaben jede Woche Dutzende solcher Zugriffe, darunter von Metas Agent Muse.",
+          "body": [
+            "Schwab-Chef Rick Wurster sagte am Freitag im Interview mit Bloomberg Television, sein Haus stoppe externe KI-Agenten, die versuchen, Kundengeld zu bewegen. Darunter sei auch Muse, Metas persönlicher KI-Agent, der für Nutzer buchen, einkaufen und verhandeln kann. Wurster bekommt nach eigenen Worten wöchentlich einen Bericht über die Sperren; die großen Agenten würden jede Woche „zehn- bis zwanzigmal“ abgewiesen.",
+            "Seine Begründung dreht sich um die Haftung: „Wir können es nicht kontrollieren, der Kunde kann es nicht kontrollieren, etwas kann schiefgehen, und wer haftet dann?“ Schwab unterbindet konkret, dass Agenten sich mit den Login-Daten von Kunden oder per Browser-Automatisierung Zugang verschaffen.",
+            "Statt einer vollständigen Sperre will Schwab Server nach dem Model Context Protocol (MCP) bereitstellen. Darüber können Kunden ein KI-Modell ihrer Wahl unter den Regeln der Bank anbinden. Solche Werkzeuge sollen Kontostände abrufen und recherchieren dürfen, Geld bewegen können sie nicht. Zugleich wirbt Wurster für Charley, den hauseigenen KI-Assistenten, den Schwab am 30. September vorgestellt hat.",
+            "JPMorgan-Chef Jamie Dimon hatte bereits in der Telefonkonferenz zu den Quartalszahlen am Dienstag erklärt, die Bank werde externe Agenten nicht in ihren Systemen agieren lassen, und vor „abtrünnigen Agenten“ gewarnt. Eine Sprecherin bestätigte, dass externe Agenten für Privatkunden derzeit blockiert werden. Lesender Zugriff auf Kontostände ist über Dienste wie Plaid möglich, Überweisungen oder das Bezahlen von Rechnungen nicht. Einen Zeitplan für Sicherungen, die mehr erlauben würden, gibt es nicht.",
+            "Wer haftet, wenn ein KI-Agent im Namen eines Nutzers handelt, ist in den USA ungeklärt und wird im Kongress diskutiert. Aufsichtsbehörden in den USA und Europa befragen Banken inzwischen zu ihrem Einsatz von KI-Agenten und den damit verbundenen Cyberrisiken."
+          ],
+          "highlight": "Wer haftet, wenn ein KI-Agent im Namen eines Nutzers handelt, ist in den USA ungeklärt und wird im Kongress diskutiert.",
+          "assessment": [
+            "Die Haftungsfrage ist berechtigt, aber nicht das einzige Motiv. Naheliegend ist ein weiteres: Agenten könnten ungenutztes Guthaben automatisch aus niedrig verzinsten Brokerkonten in rentablere Anlagen verschieben könnten. Das würde die Zinserträge der Banken direkt treffen. Dass Schwab gleichzeitig den eigenen Assistenten bewirbt, passt ins Bild.",
+            "Das MCP-Modell mit Lesezugriff ist trotzdem ein vernünftiger Mittelweg. Die Kontrolle bleibt vorerst bei der Bank, und Agenten-Anbieter wie Meta müssen sich auf Schnittstellen nach den Regeln der Banken einlassen, statt sich mit fremden Passwörtern durchzuklicken. Der Traum vom Agenten, der alle Finanzen selbstständig erledigt, rückt damit erst einmal in die Ferne."
+          ],
+          "sources": [
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+            }
+          ],
+          "image": {
+            "url": "https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg",
+            "alt": "Die Buchstaben „AI“ in orangem Licht vor blauem Hintergrund",
+            "credit": "The Next Web",
+            "license": "Artikelbild The Next Web",
+            "source": "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "PlayStation 6: Allein Arbeitsspeicher und SSD sollen über 680 Dollar kosten",
+          "lead": "Ein bekannter Hardware-Insider behauptet, dass die Speicherbausteine der nächsten PlayStation Sony derzeit mehr als 680 US-Dollar pro Konsole kosten würden. Damit bekommt die Debatte über Konsolenpreise jenseits der 1000-Dollar-Marke neuen Stoff.",
+          "body": [
+            "Die Zahl stammt vom Nutzer KeplerL2, der im Forum NeoGAF schrieb, dass \"RAM + NAND alone\", also Arbeitsspeicher und Flash-Speicher zusammen, bei der PlayStation 6 über 680 US-Dollar pro Gerät kosten würden. Laut VGC hat KeplerL2 in der Vergangenheit mehrfach zutreffend über AMD-Hardware berichtet. Bestätigt ist die Angabe nicht, Sony hat sich dazu nicht geäußert. Der Insider schränkt selbst ein, dass die Bauteilkosten deutlich sinken dürften, sobald Sony das Design der Konsole festgelegt hat.",
+            "Hintergrund ist die Knappheit bei Speicherchips. Weil Rechenzentren für künstliche Intelligenz enorme Mengen an Arbeitsspeicher und Flash-Speicher abnehmen, sind die Preise dafür stark gestiegen. Kotaku weist darauf hin, dass große Abnehmer sich Lieferkapazitäten frühzeitig sichern und die heutigen Preise womöglich nur ein Vorgeschmack sind.",
+            "Schon die aktuelle Generation zeigt die Richtung. Die PS5 kostet laut VGC inzwischen über 50 Prozent mehr als zum Start, die PS5 Pro liegt nach zwei Preiserhöhungen innerhalb eines Jahres bei 899 Dollar. PS5, Xbox Series X und Switch 2 sind die erste Konsolengeneration, die im Laufe ihres Lebens teurer statt billiger geworden ist. Für die PS6 war einmal ein Start schon 2027 im Gespräch, die Engpässe dürften diese Pläne aber beeinflusst haben.",
+            "Analysten sind sich uneinig, wie hoch die Preise ausfallen. Joost van Dreunen vom Beratungsunternehmen Aldora hält 1000 Dollar für sicher und sagte, die nächste Generation komme bei diesem Tempo vielleicht erst 2028, und dann seien mehr als tausend Dollar die Untergrenze. Manu Rosier vom Marktforscher Newzoo erwartet dagegen, dass zumindest die Basismodelle aus psychologischen und Marketinggründen unter 999 Dollar bleiben, Premium-Varianten aber teurer werden.",
+            "Auch Microsoft spürt den Druck. Xbox hat eine nächste Konsole unter dem Codenamen Helix angekündigt, und Xbox-Chefin Asha Sharma hat laut Rosier eingeräumt, dass die Speicherkosten Preis und Verfügbarkeit von Project Helix beeinflussen werden. Microsoft spricht zudem davon, neue Geschäftsmodelle prüfen zu müssen, um die Kosten im Griff zu behalten."
+          ],
+          "highlight": "PS5, Xbox Series X und Switch 2 sind die erste Konsolengeneration, die im Laufe ihres Lebens teurer statt billiger geworden ist.",
+          "assessment": [
+            "Eine einzelne Forenangabe ist kein Preisschild, und Bauteilkosten in der Entwicklungsphase sagen wenig über den Endpreis in zwei Jahren. Trotzdem passt die Zahl zu allem, was man gerade sieht: Der KI-Boom frisst die Speicherproduktion, und Konsolen stehen in der Schlange hinter Rechenzentren, die jeden Preis zahlen.",
+            "Das alte Modell, Hardware mit Verlust zu verkaufen und das Geld über Spiele hereinzuholen, wird so schwer haltbar. Ich rechne eher damit, dass Sony und Microsoft mit gestaffelten Modellen, späteren Starts oder Abo-Bündeln arbeiten, als dass eine Basiskonsole für über 1000 Dollar in die Regale kommt. Ein Massenprodukt wäre sie dann nämlich nicht mehr."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/"
+            },
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/the-playstation-6s-memory-components-alone-could-cost-more-than-700-2000747289"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2024/09/playstation-30th-annivesary-pre-orders.jpg",
+            "alt": "PlayStation-Konsole und Controller im Design zum 30. Jubiläum",
+            "credit": "Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/"
+          }
+        },
+        {
+          "title": "Street Fighter gewinnt das Kinowochenende, bleibt aber unter den Erwartungen",
+          "lead": "Die Neuverfilmung von Street Fighter ist mit geschätzten 51,1 Millionen Dollar weltweit auf Platz eins gestartet. Gemessen an Budget und Hoffnungen ist das ein durchwachsener Auftakt.",
+          "body": [
+            "Nach Schätzungen der Studios vom Sonntag spielte der Film am ersten Wochenende in Nordamerika rund 31 Millionen Dollar ein, international kamen gut 20 Millionen aus 65 Märkten hinzu. In den USA lief er in 3575 Kinos. Einzelne Quellen nennen leicht abweichende Werte, etwa 30 Millionen im Inland. Die endgültigen Zahlen folgen am Montag. Damit lag Street Fighter deutlich vor der Konkurrenz, die Dokumentation You Can See Everything kam auf Platz zwei mit etwa 15 Millionen Dollar.",
+            "Die Erwartungen waren höher. Deadline hatte auf einen Start um 70 Millionen gehofft, das Produktionsbudget liegt laut Deadline bei 82 Millionen Dollar. Screen Rant schätzt, dass der Film unter normalen Umständen bis zu 205 Millionen Dollar weltweit einspielen müsste, um in die Gewinnzone zu kommen, und hält das für unwahrscheinlich.",
+            "Die Kritiken fallen schwach aus. Bei Rotten Tomatoes steht der Film bei 41 Prozent positiven Kritikerstimmen, das Publikum urteilt mit 79 Prozent deutlich freundlicher. Der CinemaScore liegt bei B-, IGN vergab 6 von 10 Punkten. Kotaku schrieb, der Film sei von der Kritik zerrissen worden, habe aber auch Fürsprecher.",
+            "Regie führte Kitao Sakurai, der das Drehbuch mit T.J. Fixman schrieb. Produziert wurde der Film von Legendary zusammen mit Capcom. Andrew Koji spielt Ryu, Noah Centineo Ken und Callina Liang Chun-Li, dazu kommen unter anderem Jason Momoa, Roman Reigns, Cody Rhodes, 50 Cent und Don Lee.",
+            "Im Vergleich mit anderen Spieleverfilmungen dieses Jahres liegt Street Fighter im Mittelfeld. Mortal Kombat II startete im Frühjahr mit 63 Millionen weltweit bei ähnlichem Budget und kam am Ende auf knapp 130 Millionen. Street Fighter übertrifft zum Start Exit 8, Iron Lung und Return to Silent Hill, bleibt aber weit hinter dem Super Mario Galaxy Movie, das über eine Milliarde Dollar einspielte."
+          ],
+          "highlight": "Deadline hatte auf einen Start um 70 Millionen gehofft, das Produktionsbudget liegt laut Deadline bei 82 Millionen Dollar.",
+          "assessment": [
+            "Platz eins klingt gut, ist hier aber vor allem ein Zeichen für ein schwaches Kinowochenende. Wenn der Film schon am Start hinter Mortal Kombat II zurückbleibt, das selbst kein Riesenerfolg war, wird es mit einer Fortsetzung schwierig.",
+            "Die Lücke zwischen Kritik und Publikum ist bei Spieleverfilmungen inzwischen fast Standard. Fans verzeihen viel, wenn Kostüme und Spezialbewegungen stimmen. Für Legendary reicht dieses Wohlwollen aber offenbar nicht, um aus einem bekannten Namen automatisch einen Hit zu machen."
+          ],
+          "sources": [
+            {
+              "name": "Screen Rant",
+              "url": "https://screenrant.com/street-fighter-2026-box-office-opening-weekend-global-result/"
+            },
+            {
+              "name": "IGN via Yahoo",
+              "url": "https://www.yahoo.com/entertainment/movies/articles/street-fighter-tops-box-office-181746432.html"
+            },
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/the-new-street-fighter-movie-gets-savaged-by-critics-but-not-everyone-hates-it-2000746464"
+            }
+          ],
+          "image": {
+            "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/jason-momoa-as-blanka-grimacing-in-street-fighter-2026.jpg?w=1600&h=900&fit=crop",
+            "alt": "Jason Momoa als Blanka im Street-Fighter-Film",
+            "credit": "Screen Rant",
+            "license": "Artikelbild Screen Rant",
+            "source": "https://screenrant.com/street-fighter-2026-box-office-opening-weekend-global-result/"
+          }
+        },
+        {
+          "title": "Decompilations-Plattform decomp.dev gibt wegen KI auf",
+          "lead": "Die Community-Seite decomp.dev, auf der Fans gemeinsam den Code alter Spiele rekonstruieren, hat geschlossen. Die Betreiber begründen das damit, dass KI-Werkzeuge die Gemeinschaftsarbeit überflüssig gemacht hätten.",
+          "body": [
+            "Beim Decompilieren wird der Maschinencode eines Spiels in lesbaren Quellcode zurückübersetzt. Auf dieser Grundlage entstehen Mods, Portierungen auf neue Plattformen und Fan-Patches, etwa Übersetzungen. decomp.dev wurde 2024 gegründet und war ein Treffpunkt für Projekte dieser Art, die mit dem Aufschwung der Modding-Szene an Bedeutung gewannen.",
+            "In ihrer Abschiedsnachricht schreiben die Betreiber, KI könne den Decompilierungsprozess erheblich beschleunigen, wenn Menschen sie anleiten und den Code prüfen. Das Problem sei ein anderes: Durch Beiträge von Leuten, die mit KI-Werkzeugen schnell etwas beisteuern und wieder verschwinden, sei \"the community aspect of decompilation\" kaputtgegangen.",
+            "Konkret nennt die Nachricht aktuelle Modelle von Anthropic (Opus) und OpenAI (GPT), die bei Decompilierungsaufgaben ungewöhnlich gut seien. Wer genug API-Guthaben habe, komme damit ohne die Gemeinschaft zu Ergebnissen. Kotaku beschreibt den Ton der Mitteilung weniger als Wut auf KI denn als Trauer um eine verlorene Arbeitskultur.",
+            "Kotaku ordnet die Schließung in eine größere Welle sogenannter vibe-coded Projekte ein, die nach den großen Modell-Updates im September eingesetzt habe. Das Magazin hatte bereits über KI-erzeugte Decompilationen bei den Recompilation-Projekten zu Zelda und Banjo berichtet. Am selben Tag erschien dort auch ein Artikel über Entwickler eines Steam-Klons, die sich beschweren, dass ihr Spiel per KI erneut geklont wurde.",
+            "Auch 404 Media berichtete über die Schließung und erinnerte an ein im April vorgestelltes KI-Werkzeug, das andere Programme in rechtlich umstrittenen Konstruktionen nachbauen soll."
+          ],
+          "highlight": "Durch Beiträge von Leuten, die mit KI-Werkzeugen schnell etwas beisteuern und wieder verschwinden, sei \"the community aspect of decompilation\" kaputtgegangen.",
+          "assessment": [
+            "Das ist eine der ehrlicheren KI-Geschichten dieses Jahres. Niemand behauptet hier, die Technik funktioniere nicht. Sie funktioniert so gut, dass die mühsame, gemeinsame Arbeit, die diese Szene zusammengehalten hat, keinen Grund mehr hat.",
+            "Für die Spielebewahrung kann das unterm Strich sogar nützlich sein, weil mehr Klassiker schneller lauffähig werden. Verloren geht aber das Wissen, das Menschen beim Entschlüsseln alter Hardware gesammelt und weitergegeben haben. Und wenn Code massenhaft per API ausgespuckt wird, dürfte auch das Interesse der Rechteinhaber an juristischen Schritten wachsen."
+          ],
+          "sources": [
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302"
+            }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/10/neuroman2-1063x675.jpg",
+            "alt": "Artikelbild zur Schließung der Decompilations-Plattform decomp.dev",
+            "credit": "Kotaku",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302"
+          }
+        },
+        {
+          "title": "Konami-Chef: KI ersetzt nicht die Chemie im Entwicklerteam",
+          "lead": "Hideki Hayakawa, Präsident von Konami Digital Entertainment, hält die Auswirkungen generativer KI auf das Spielegeschäft für begrenzt. Entscheidend seien weiterhin Menschen und ihre Zusammenarbeit.",
+          "body": [
+            "Die Aussagen stammen aus Konamis neuem Geschäftsbericht, in dem das Unternehmen seine Strategie für die verschiedenen Unterhaltungssparten darlegt. VGC berichtete am 18. Oktober darüber und stützte sich auf eine Übersetzung des japanischen Magazins Automaton.",
+            "Hayakawa räumt ein, dass generative KI die Einstiegshürden für die Spieleentwicklung senken könnte. Den Markt werde das aber nicht grundlegend verändern, denn Spiele-Engines und nutzergenerierte Inhalte hätten diese Hürden bereits gesenkt. Die wichtigsten Faktoren für unterhaltsame und innovative Spiele seien Menschen und Kreative. Neue Ideen und Spielmechaniken entstünden aus dem Zusammenspiel im Team, und diese Art chemischer Reaktion lasse sich nicht ohne Weiteres ersetzen.",
+            "Ablehnend gegenüber neuer Technik gibt sich Hayakawa dabei nicht. Er sieht sie als Chance und sagt, Konami unterstütze seine Entwickler dabei, Risiken einzuschätzen und die Werkzeuge sicher einzusetzen.",
+            "Konami ist nach Jahren, in denen vor allem eFootball und Retro-Sammlungen erschienen, wieder groß in die Entwicklung teurer Spiele eingestiegen. Das Remake von Silent Hill 2, Silent Hill f und Silent Hill: Townfall waren bei Kritik und Verkauf erfolgreich. Hinzu kommen neue Teile und Remakes von Metal Gear sowie Castlevania: Belmont's Curse, das Evil Empire und Motion Twin entwickeln. Silent-Hill-Produzent Motoi Okamoto hatte im August gegenüber GamesRadar gesagt, man strebe idealerweise jährlich neue Spiele an.",
+            "Die Äußerungen fallen in eine Phase, in der das Thema KI die Branche stark beschäftigt. In derselben Woche zog Sega eine Neuauflage von Total War: Shogun 2 unter anderem wegen KI-generierter Grafiken aus dem Verkauf."
+          ],
+          "highlight": "Neue Ideen und Spielmechaniken entstünden aus dem Zusammenspiel im Team, und diese Art chemischer Reaktion lasse sich nicht ohne Weiteres ersetzen.",
+          "assessment": [
+            "Für einen Geschäftsbericht ist das erstaunlich klar formuliert, zumal viele Konzernchefs ihren Aktionären gerade das Gegenteil erzählen: KI als Hebel, um Kosten und Personal zu sparen. Konami positioniert sich damit bewusst auf der Seite der Kreativen.",
+            "Ganz uneigennützig ist das nicht. Konamis Comeback beruht auf Marken, deren Wert an Handschrift und Atmosphäre hängt, und Fans reagieren derzeit allergisch auf alles, was nach KI aussieht. Entscheidend wird sein, ob die Haltung auch dann hält, wenn der Kostendruck bei Silent Hill und Metal Gear steigt."
+          ],
+          "sources": [
+            {
+              "name": "Video Games Chronicle",
+              "url": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/08/Metal-Gear-Solid-Collection-Vol-2-13.jpg",
+            "alt": "Szene aus der Metal Gear Solid Master Collection Vol. 2",
+            "credit": "Video Games Chronicle",
+            "license": "Artikelbild Video Games Chronicle",
+            "source": "https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Fayence-Werkstatt am Tempel von Sanam: Wie Kusch seine Macht organisierte",
+          "lead": "Neben dem Tempel von Sanam im Sudan haben Archäologen eine Werkstatt für Fayence freigelegt. Dort entstanden offenbar Grabfiguren für die königliche Nekropole, und zwar mit einer eigenen, an die Region angepassten Technik.",
+          "body": [
+            "Der Tempel von Sanam liegt nahe dem vierten Nilkatarakt bei Napata, der alten Hauptstadt des Reiches von Kusch im heutigen Sudan. Erbaut hat ihn König Taharqo von der 25. Dynastie im 7. Jahrhundert v. Chr. Ein Team um Rennan Lemos von der Durham University und Kathryn Howley von der New York University hat dort eine Fayence-Werkstatt ausgegraben und die Ergebnisse in der Fachzeitschrift Antiquity veröffentlicht. Phys.org berichtete am 18. Oktober.",
+            "Gefunden wurden Hunderte Perlen, Fehlbrände und Gefäßfragmente, Brenngruben mit Resten einstiger Ofenaufbauten aus Lehmziegeln sowie ein grüner Uschebti, also eine kleine Grabfigur aus Fayence. Zu dieser Figur passt eine Gussform, die an anderer Stelle im Tempel zutage kam. Nach Lemos produzierte die Werkstatt Uschebtis für den Königsfriedhof von Nuri.",
+            "Ungewöhnlich ist schon die Lage. In Ägypten lagen solche Werkstätten meist am Rand von Siedlungen. Dass eine direkt neben einem Heiligtum arbeitete, erklären die Forscher mit der Rolle der Tempel in der Wirtschaft des kuschitischen Staates. „Diese Befunde zeigen, dass der Tempel von Sanam nicht einfach ein religiöses Monument war, sondern auch ein Zentrum staatlich kontrollierter Produktion“, sagt Lemos.",
+            "Technisch fanden die Handwerker eine eigene Lösung. Für Fayence braucht man Kalk, doch Kalkstein ist in weiten Teilen des Sudan rar. „Statt auf Kalkstein zurückzugreifen, scheinen sie zerstoßene Muschelschalen als Kalkquelle genutzt zu haben“, so Lemos. Das Team liest das als eigenständige Anpassung und nicht als bloße Nachahmung ägyptischer Vorbilder.",
+            "Damit schließt die Grabung eine alte Lücke. Francis Llewellyn Griffith hatte den Tempel vor über hundert Jahren in nur einer Saison untersucht und dabei Formen für Uschebtis und Amulette gefunden, die Werkstätten selbst aber nie entdeckt. Das Sanam Temple Project unter Kathryn Howley arbeitet seit 2017 vor Ort.",
+            "Die Autoren ziehen daraus einen weitergehenden Schluss: Die Macht der kuschitischen Könige beruhte zu einem guten Teil auf der Kontrolle über die Herstellung von Prestigegütern, während die ägyptische Herrschaft stärker an Land und Landwirtschaft gebunden war."
+          ],
+          "highlight": "Nach Lemos produzierte die Werkstatt Uschebtis für den Königsfriedhof von Nuri.",
+          "assessment": [
+            "Kusch wird gern als Anhängsel Ägyptens erzählt, als die „schwarzen Pharaonen“, die ägyptische Kultur übernahmen. Die Muschelschalen von Sanam sind ein kleines, aber hübsches Gegenargument: Hier wurde nicht kopiert, hier wurde mit den eigenen Ressourcen gearbeitet.",
+            "Die These von der Macht durch Werkstattkontrolle ist reizvoll, aber mit einer einzigen Werkstatt noch dünn belegt. Ob ein ganzes Herrschaftsmodell daran hängt, werden weitere Produktionsorte zeigen müssen."
+          ],
+          "sources": [
+            {
+              "name": "Phys.org / Antiquity",
+              "url": "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html"
+            },
+            {
+              "name": "Egypt Exploration Society",
+              "url": "https://www.ees.ac.uk/resource/sanam-temple-project.html"
+            }
+          ],
+          "image": {
+            "url": "https://scx1.b-cdn.net/csz/news/800a/2026/uncovering-the-shimmer.jpg",
+            "alt": "Grüner Fayence-Uschebti aus der Werkstatt von Sanam neben der passenden Gussform",
+            "credit": "Antiquity (2026)",
+            "license": "Artikelbild Phys.org",
+            "source": "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html"
+          }
+        },
+        {
+          "title": "Kikai-Ausbruch vor 7300 Jahren: Kein Ende, sondern Umbruch für die Jōmon",
+          "lead": "Eine der schwersten Vulkankatastrophen des Holozäns traf die Jäger und Sammler Südjapans unterschiedlich hart. Eine neue Studie zeigt Bevölkerungsrückgang im Süden, Wachstum im Norden Kyūshūs und Stagnation in fernen Regionen.",
+          "body": [
+            "Vor etwa 7300 Jahren brach der Kikai-Vulkan südlich der Insel Kyūshū aus dem Meeresboden aus. Peter Jordan, Archäologieprofessor an der Universität Lund, beschreibt die Folgen als Ausbruch „mit wenig Vorwarnung“, begleitet von starken Erdbeben, großen Tsunamis und meterdicken Ascheschichten. Für die Jōmon, die damals als Jäger und Sammler in Japan lebten, galt das lange als Katastrophe, die das Leben in der Region weitgehend auslöschte.",
+            "Das Team um Enrico Crema von der Universität Cambridge, mit Jordan als Seniorautor, hat nun Radiokarbondaten archäologischer Fundstellen aus ganz Japan ausgewertet, um Bevölkerungsentwicklungen nachzuzeichnen. Die Studie „Divergent demographic responses to the Kikai-Akahoya volcanic catastrophe in mid-Holocene Japan“ erschien in Science Advances, Phys.org berichtete am 17. Oktober nach einer Mitteilung der Universität Lund.",
+            "Das Ergebnis passt zu keiner der beiden alten Lehrmeinungen. Im Süden Kyūshūs war die Bevölkerung schon vor dem Ausbruch dünn und rückläufig, die Region wurde vor allem von sehr mobilen Gruppen genutzt. Dort gab es schwere Verluste und stellenweise einen dauerhaften Abbruch der Besiedlung.",
+            "Im Norden Kyūshūs dagegen wuchs die Bevölkerung weiter, durch die Katastrophe hindurch und danach. Die Forscher vermuten, dass Flüchtlinge aus den am stärksten betroffenen Gebieten nach Norden zogen und sich an Küsten niederließen, wo sich die Meeresökosysteme schnell erholten. Neue Strategien mit Schwerpunkt auf Meeresressourcen könnten das Wachstum zusätzlich beschleunigt haben. Laut IFLScience tauchen kurz nach dem Ausbruch im Norden geschlitzte Steinohrringe auf, zudem entstand dort eine neue Keramiktradition namens Sobata.",
+            "In weiter entfernten Regionen hatte die Bevölkerung vor dem Ausbruch zugenommen, danach stagnierte sie oder ging zurück. Als mögliche Ursachen nennen die Autoren eine kurzfristige Klimaveränderung, Zahnabnutzung bei Hirschen und Wildschweinen durch das Grasen auf aschebedeckten Flächen, was die Nahrungsgrundlage der Jōmon geschwächt haben könnte, sowie weitere gesundheitliche Folgen des Vulkanismus.",
+            "Jordan zieht daraus den Schluss, dass die Folgen großer Katastrophen kaum vorhersagbar sind und Gemeinschaften selbst unter extremen Bedingungen Entscheidungen treffen, sich anpassen und neue Netzwerke knüpfen."
+          ],
+          "highlight": "Im Norden Kyūshūs dagegen wuchs die Bevölkerung weiter, durch die Katastrophe hindurch und danach.",
+          "assessment": [
+            "Die Studie ist ein gutes Beispiel dafür, warum Katastrophenarchäologie gerade mehr Daten als Dramatik braucht. „Untergang“ verkauft sich besser, aber die Kurven zeigen ein Flickwerk aus Verlust, Flucht und Neuanfang.",
+            "Eine Einschränkung bleibt: Radiokarbondaten als Stellvertreter für Bevölkerungszahlen sind ein grobes Werkzeug, und die Flüchtlingsthese ist bisher eine plausible Deutung, kein Nachweis. Die Autoren sagen das selbst. Trotzdem ist der Befund, dass eine Katastrophe in einer Region Wachstum auslösen kann, ein nützlicher Gedanke weit über Japan hinaus."
+          ],
+          "sources": [
+            {
+              "name": "Phys.org / Universität Lund",
+              "url": "https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html"
+            },
+            {
+              "name": "IFLScience",
+              "url": "https://www.iflscience.com/7300-years-ago-an-apocalyptic-volcanic-eruption-almost-annihilated-japans-hunter-gatherers-yet-somehow-they-survived-84958"
+            }
+          ],
+          "image": {
+            "url": "https://scx1.b-cdn.net/csz/news/800a/2026/how-one-of-earths-wors.jpg",
+            "alt": "Ascheschicht des Kikai-Akahoya-Ausbruchs im Süden Kyūshūs",
+            "credit": "Universität Lund",
+            "license": "Artikelbild Phys.org",
+            "source": "https://phys.org/news/2026-10-earth-worst-volcanic-disasters-affected.html"
+          }
+        },
+        {
+          "title": "Rätselhafter Bronzering im thrakischen Tempel bei Vasil Levski",
+          "lead": "In einer rund 2500 Jahre alten thrakischen Stadt in Südbulgarien haben Archäologen ein Bronzeobjekt mit vier Widerhaken gefunden, für das es bisher keine Parallele gibt. Ob es Lampen trug oder zum Fischen diente, ist offen.",
+          "body": [
+            "Die Fundstelle liegt nahe dem Dorf Vasil Levski auf einer Bergterrasse am Südhang des Balkangebirges, unweit der Strjama, eines Nebenflusses der Maritsa. Die Siedlung stammt vor allem aus dem 6. und 5. Jahrhundert v. Chr., nach Angaben der Gemeinde Karlowo gab es dort schon im 9. Jahrhundert v. Chr. ein thrakisches Heiligtum. Der Komplex umfasst mehr als drei Hektar. Arkeonews berichtete am 18. Oktober unter Berufung auf ein Interview des bulgarischen Senders bTV.",
+            "Geleitet werden die Grabungen von Kostadin Kisyov, Direktor des Regionalen Archäologischen Museums Plowdiw, der seit etwa drei Jahrzehnten immer wieder an dem Ort arbeitet. Der neue Fund stammt aus dem Pronaos, der Vorhalle eines Tempels: ein Bronzering, an dem vier Haken mit nach hinten gerichteten Widerhaken sitzen, ähnlich wie Angelhaken. Kisyov sagte, so etwas habe sein Team noch nie gefunden, und hob die präzise Verarbeitung hervor.",
+            "Zwei Deutungen stehen im Raum. Der Ring könnte Hängelampen aus Ton, Bronze oder Glas getragen haben, allerdings fehlen bisher Aufhängeketten. Oder er diente dem Fischfang, wofür er aber recht groß ist. Kisyov meinte, er hätte eher zur Maritsa, zur Donau oder zum Meer gepasst als zur kleinen Strjama. Bestätigt ist keine der beiden Erklärungen, auch eine rituelle Funktion ist ungeklärt.",
+            "Die Stadt selbst ist bemerkenswert: Monumentale Steinarchitektur, Wehrmauern, eine befestigte Zitadelle und frühe thrakische Tempelbauten wurden dort freigelegt. Den modernen Beinamen „Goldene Stadt der Thraker“ verdankt sie verzierten Dachziegeln mit roten und schwarzen Überzügen und einer goldfarbenen Oberfläche aus Mineralpigment. Importierte Amphoren aus Chios, Samos und Thasos und an griechischen Vorbildern orientierte Bautechnik zeigen enge Verbindungen zur griechischen Welt.",
+            "Kisyov hält es für möglich, dass hier ein frühes Königszentrum lag, vielleicht verbunden mit Teres I. und der Entstehung des Odrysenreichs. Der antike Name der Stadt ist unbekannt, und dass sie die erste Hauptstadt des Reiches war, ist nicht belegt. Zwei bauähnliche Tempel sind bisher identifiziert, der zweite wird noch untersucht. Welchen Gottheiten sie geweiht waren, weiß man nicht."
+          ],
+          "highlight": "Bestätigt ist keine der beiden Erklärungen, auch eine rituelle Funktion ist ungeklärt.",
+          "assessment": [
+            "Ein Fund, über den man ehrlich sagen muss: Wir wissen nicht, was er ist. Das ist sympathischer als die übliche Neigung, Unbekanntes reflexhaft zum Kultgegenstand zu erklären. Dass das Objekt in einer Tempelvorhalle lag, spricht für mich eher für eine Aufhängung als für Angelgerät, aber ohne Ketten oder Vergleichsstücke bleibt das Raten.",
+            "Interessanter als der Ring ist die Stadt, in der er lag. Die Hauptstadt-These ist verlockend und wird in bulgarischen Medien gern gespielt. Belastbar wird sie erst mit einer Inschrift oder einem anderen eindeutigen Beleg."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/mysterious-bronze-mechanism-discovered-in-2500-year-old-thracian-temple-in-bulgaria/"
+            },
+            {
+              "name": "bTV",
+              "url": "https://www.btv.bg/shows/tazi-nedelia/videos-nedelia/arheolozi-prouchvat-predpolagaemata-parva-stolica-na-odrisite.html"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Vasil-Levski-site-scaled-e1792353686528.jpg",
+            "alt": "Blick auf die Ausgrabungsstätte der thrakischen Stadt bei Vasil Levski",
+            "credit": "Gemeinde Karlowo",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/mysterious-bronze-mechanism-discovered-in-2500-year-old-thracian-temple-in-bulgaria/"
+          }
+        },
+        {
+          "title": "Neue Radiokarbondaten verschieben den Übergang zur klassischen Māori-Kultur",
+          "lead": "Hochpräzise Datierungen an zwei Fundplätzen in Neuseeland zeigen, dass der Wandel von der Moa-Jagd zu Fischfang und Muschelsammeln länger dauerte und früher einsetzte als gedacht. Die starre Einteilung in drei Epochen gerät damit ins Wanken.",
+          "body": [
+            "Polynesische Siedler erreichten Aotearoa Neuseeland vor rund 750 Jahren. Archäologen teilen die frühe Geschichte bisher in drei Abschnitte: die ostpolynesische Besiedlungs- und Moa-Jäger-Phase (etwa 1250 bis 1400), eine wenig verstandene Übergangszeit (etwa 1400 bis 1600) und die klassische Māori-Kultur bis zum Kontakt mit Europäern. Ein Team um Fiona Petchey von der University of Waikato hat diese Abfolge an zwei Fundplätzen neu datiert. Die Studie erschien im Journal of Pacific Archaeology, Arkeonews berichtete am 19. Oktober ausführlich.",
+            "Das Problem war bisher die Kalibrierkurve. Zwischen 1290 und 1400 schwankte der Radiokarbongehalt der Atmosphäre stark, zwischen 1480 und 1640 änderte er sich kaum. Ereignisse, die nur Jahrzehnte auseinanderliegen, ließen sich so schwer trennen. Die Forscher kombinierten AMS-Radiokarbondatierung kurzlebiger Materialien wie Holzkohle, verkohlter Samen, Moa-Eierschalen und Vogelknochen mit bayesscher Modellierung und dem sogenannten Wiggle-Matching. Die Proben stammen größtenteils aus Grabungen, die Jahrzehnte zurückliegen und in Sammlungen lagerten.",
+            "Am Fundplatz Waihemo an der Mündung des Shag River im Osten der Südinsel ergaben sich Aktivitäten über etwa 70 bis 110 Jahre statt der bisher angenommenen 20 bis 50. Die ältesten Schichten (etwa 1320 bis 1410) zeigen umfangreiches Zerlegen von Moas und Robben. Spätere Ablagerungen (etwa 1400 bis 1440) enthalten mehr Fisch, Muscheln, Hunde und Vögel offener Landschaften. Sandschichten dazwischen deuten auf Pausen oder veränderte Nutzung. Das erklärt, warum dort Gegenstände der frühen ostpolynesischen Kultur neben solchen der Übergangszeit liegen.",
+            "Kokohuia am Südufer des Hokianga Harbour auf der Nordinsel wurde ab etwa 1410 bis 1440 genutzt, die Abfolge endet um 1590 bis 1630. Gefunden wurden zahlreiche zweiteilige Angelhaken aus Muschelschale, Köderfragmente und Reste eines möglichen Hauses. Kleine Moa-Knochensplitter in den unteren Schichten lassen sich nicht sicher als Jagdbeute deuten.",
+            "Die Autoren folgern, dass sich Nahrung und materielle Kultur in Waihemo schon vor etwa 1450 wandelten und manche scharfe Epochengrenze eher eine Grenze früherer Datierungsmethoden war als ein abrupter Umbruch im Alltag. Die Methode kann Ereignisse auf etwa 20 bis 30 Jahre eingrenzen, was nach Petchey auch helfen könnte, Archäologie und mündliche Überlieferungen der Māori zusammenzubringen. Zugleich betonen die Forscher, dass zwei Fundplätze nicht für alle Gemeinschaften stehen."
+          ],
+          "highlight": "Die ältesten Schichten (etwa 1320 bis 1410) zeigen umfangreiches Zerlegen von Moas und Robben.",
+          "assessment": [
+            "Das ist Grundlagenarbeit ohne spektakulären Fund, und gerade deshalb lohnt sie sich. Epochengrenzen, die vor allem von unscharfen Messmethoden gezogen wurden, prägen Lehrbücher oft jahrzehntelang. Hier wird sichtbar, dass der Abschied von der Moa-Jagd ein Prozess über Generationen war, kein Schnitt.",
+            "Bemerkenswert finde ich auch, dass das meiste Material aus alten Sammlungen stammt. Das ist ein Argument dafür, Archive und Magazine ernst zu nehmen, statt nur auf neue Grabungen zu setzen."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/the-end-of-the-moa-hunters-new-dates-reveal-a-turning-point-in-maori-history/"
+            },
+            {
+              "name": "Phys.org / The Conversation",
+              "url": "https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html"
+            },
+            {
+              "name": "Journal of Pacific Archaeology (Studie)",
+              "url": "https://doi.org/10.70460/jpa.v16i1.412"
+            }
+          ],
+          "image": {
+            "url": "https://scx1.b-cdn.net/csz/news/800a/2026/how-did-early-mori-soc.jpg",
+            "alt": "Bild zur Radiokarbondatierung der frühen Besiedlung Aotearoas",
+            "credit": "Fiona Petchey",
+            "license": "Artikelbild Phys.org",
+            "source": "https://phys.org/news/2026-10-early-mori-society-reveals-clearer.html"
+          }
+        }
+      ]
+    }
+  ]
+}

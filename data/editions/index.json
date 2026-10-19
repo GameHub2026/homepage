@@ -1,5 +1,30 @@
 [
   {
+    "nr": 13,
+    "date": "2026-10-19",
+    "updated": "2026-10-19T08:48:40+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 4
+    },
+    "titles": [
+      "Anthropic legt fünf Prozent seiner Aktien in einen Gemeinwohlfonds",
+      "Chipaktien: Acht Verlusttage in Folge, rund zwei Billionen Dollar weg",
+      "Jack Clark beim IWF: KI könnte die US-Wirtschaftsleistung bis 2030 um fast die Hälfte steigern",
+      "Nach Protest: Meta streicht umstrittene Crawling-Klausel aus seinen Geschäftsbedingungen",
+      "Schwab und JPMorgan sperren fremde KI-Agenten von Kundenkonten aus",
+      "PlayStation 6: Allein Arbeitsspeicher und SSD sollen über 680 Dollar kosten",
+      "Street Fighter gewinnt das Kinowochenende, bleibt aber unter den Erwartungen",
+      "Decompilations-Plattform decomp.dev gibt wegen KI auf",
+      "Konami-Chef: KI ersetzt nicht die Chemie im Entwicklerteam",
+      "Fayence-Werkstatt am Tempel von Sanam: Wie Kusch seine Macht organisierte",
+      "Kikai-Ausbruch vor 7300 Jahren: Kein Ende, sondern Umbruch für die Jōmon",
+      "Rätselhafter Bronzering im thrakischen Tempel bei Vasil Levski",
+      "Neue Radiokarbondaten verschieben den Übergang zur klassischen Māori-Kultur"
+    ]
+  },
+  {
     "nr": 12,
     "date": "2026-10-18",
     "updated": "2026-10-18T08:50:57+02:00",
