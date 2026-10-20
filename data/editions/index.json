@@ -1,5 +1,31 @@
 [
   {
+    "nr": 14,
+    "date": "2026-10-20",
+    "updated": "2026-10-20T08:48:55+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 5
+    },
+    "titles": [
+      "Ein Hacker, ein paar KI-Agenten, über 100 geknackte Firmenwebsites",
+      "OpenAI will vor Anthropics Börsengang 30 Milliarden Dollar einsammeln",
+      "Kanadas große Zeitungen verklagen Anthropic",
+      "Prometheus: Meta zeigt seinen Gigawatt-Rechencluster in Ohio",
+      "Bei Anthropic sinkt der Anteil der Berufseinsteiger unter den Neueinstellungen",
+      "Hideo Kojima kehrt in Cyberpunk: Edgerunners 2 zurück",
+      "Super Mario 64: Rechenanalyse will das Rätsel der Plakette gelöst haben",
+      "Modern Warfare 4 ist Vince Zampella gewidmet",
+      "Saros: Kostenloses Update bringt New Game Plus und Boss-Rush",
+      "Fingerabdrücke im Ton: Frauen und Kinder arbeiteten wohl an der Terrakotta-Armee mit",
+      "Neandertaler-DNA aus Handknochen: Erster Nachweis in den westlichen Pyrenäen",
+      "Mumifizierter Nackthund der Wari: 1200 Jahre alte Hunde aus Castillo de Huarmey",
+      "Bronzezeit in Spanien: Wie Dörfer im Norden dem Staat El Argar widerstanden",
+      "Silen als Grabwächter: Einzigartiger Tonsarkophag aus Attouda"
+    ]
+  },
+  {
     "nr": 13,
     "date": "2026-10-19",
     "updated": "2026-10-19T08:48:40+02:00",

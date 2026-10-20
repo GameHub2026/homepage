@@ -1,0 +1,382 @@
+{
+  "nr": 14,
+  "date": "2026-10-20",
+  "intro": "Ein einzelner Hacker hat mit KI-Agenten für ein paar tausend Dollar über hundert Firmenwebsites geknackt, und OpenAI will vor Anthropics Börsengang noch schnell 30 Milliarden Dollar einsammeln. Im Gaming-Teil geht es um Kojimas Rückkehr in Cyberpunk: Edgerunners, eine Rechenlösung für das Rätsel um die Plakette in Super Mario 64 und den Abschied von Vince Zampella im Abspann von Modern Warfare 4. Die Geschichte bringt Fingerabdrücke von Frauen und Kindern an der Terrakotta-Armee, Neandertaler-DNA aus Navarra und haarlose Hunde der Wari.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Ein Hacker, ein paar KI-Agenten, über 100 geknackte Firmenwebsites",
+          "lead": "Ein chinesischsprachiger Angreifer hat laut Reuters mit einer offenen Agentenplattform die Websites von mehr als 100 Unternehmen kompromittiert, darunter Deere, SharkNinja und Cummins. Die KI-Rechenzeit soll rund 5000 Dollar gekostet haben.",
+          "body": [
+            "Entdeckt hat die Kampagne Snorre Fagerland, leitender Bedrohungsforscher der Sicherheitsfirma NorForge. Er suchte im Netz nach offen erreichbaren Instanzen von Cairn, einer Open-Source-Plattform, die mehrere KI-Agenten koordiniert und Aufgaben mit wenig menschlicher Anleitung abarbeiten lässt. Auf einer dieser ungeschützten Oberflächen fand er die Spuren des Angreifers: Zielvorgaben, Entscheidungen der Agenten, erbeutete Zugangsdaten und Ergebnisse der Angriffe. Reuters berichtete am Montag exklusiv darüber.",
+            "Der Angreifer gab den Agenten nur eine knappe Anweisung von weniger als 100 chinesischen Schriftzeichen, wie sie in Websites einbrechen sollen. Bis Ende vergangener Woche hatten die Agenten versucht, in mehr als 1200 Websites einzudringen. Ein erfolgreicher Einbruch brauchte typischerweise rund 23 Stunden automatisiertes Abtasten und Ausprobieren. Genutzt wurden demnach der chinesische Dienst DeepSeek und Anthropics Claude Code. Die Kosten schätzt Fagerland auf etwa 5000 Dollar an KI-Tokens, also ungefähr 50 Dollar pro gelungenem Einbruch.",
+            "Fagerlands eigener Bericht nannte keine Opfer. Reuters identifizierte einige, indem die Agentur die Aktivitäten des Angreifers auf Cairn selbst auswertete. Deere erklärte, man habe die nötigen Gegenmaßnahmen ergriffen und keine Hinweise darauf, dass auf sensible Daten zugegriffen wurde. SharkNinja sprach von einer eigenständigen Website mit Produktsupport, die Bedrohung sei eingedämmt. Cummins untersucht einen möglichen Angriff auf eine Website, die ein externer Dienstleister betreibt. Wie viele Daten insgesamt abgeflossen sind, ist unklar.",
+            "Der Entwickler von Cairn reagierte nicht auf Anfragen. In einem früheren Beitrag hatte er die Software als Multi-Agenten-Architektur beschrieben, die nicht zum Hacken gedacht sei. Fagerland, seit fast drei Jahrzehnten in der IT-Sicherheit, sieht trotzdem einen Einschnitt: Kommerziell verfügbare Agenten könnten komplexe Angriffe von Anfang bis Ende ohne menschliches Zutun ausführen und vervielfachten so, was ein einzelner Hacker leisten kann. „It's a new world now“, sagte er.",
+            "Der Fall reiht sich in eine Serie ein. Im August hatte die israelische Firma Gambit Security russischsprachige Erpresser entdeckt, die mit einem Cursor-Werkzeug sieben Organisationen angriffen, im September eine agentengesteuerte Kampagne gegen 25 Firmen mit mindestens 600.000 erbeuteten Kreditkartendaten. In Südkorea sollen Anfang Oktober KI-Agenten bei Angriffen auf mindestens sieben Finanzfirmen im Spiel gewesen sein."
+          ],
+          "highlight": "Die Kosten schätzt Fagerland auf etwa 5000 Dollar an KI-Tokens, also ungefähr 50 Dollar pro gelungenem Einbruch.",
+          "assessment": [
+            "Das Bemerkenswerte ist nicht die Raffinesse, sondern der Preis. 50 Dollar pro Einbruch und ein Befehl in einer Zeile: Damit verschiebt sich die Ökonomie von Cyberangriffen grundlegend. Was früher ein Team erfahrener Leute über Wochen gekostet hat, erledigt nun ein Einzelner nebenbei, und die Agenten werden nicht müde.",
+            "Gleichzeitig zeigt der Fall, wie die Kampagne aufflog: Der Angreifer ließ sein eigenes Kontrollpult offen im Netz stehen. Die Werkzeuge sind mächtig, ihre Nutzer oft schlampig. Für Verteidiger heißt das, dass genau dieselben Agenten auf ihrer Seite zum Pflichtprogramm werden. Wer seine Websites noch nach dem Prinzip „uns findet schon keiner“ betreibt, hat jetzt ein Problem."
+          ],
+          "sources": [
+            { "name": "SOFX", "url": "https://www.sofx.com/ai-agents-help-chinese-speaking-hacker-breach-more-than-100-company-websites/" },
+            { "name": "Reuters", "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/" },
+            { "name": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo" }
+          ],
+          "image": {
+            "url": "https://www.sofx.com/wp-content/uploads/2026/10/ST2-3.jpg",
+            "alt": "Symbolbild zum Bericht über den KI-gestützten Hackerangriff",
+            "credit": "SOFX",
+            "license": "Artikelbild SOFX",
+            "source": "https://www.sofx.com/ai-agents-help-chinese-speaking-hacker-breach-more-than-100-company-websites/"
+          }
+        },
+        {
+          "title": "OpenAI will vor Anthropics Börsengang 30 Milliarden Dollar einsammeln",
+          "lead": "OpenAI drängt laut Reuters darauf, eine Finanzierungsrunde von rund 30 Milliarden Dollar abzuschließen, bevor Anthropic Mitte November an die Börse geht. Die Bewertung könnte über 1,4 Billionen Dollar liegen.",
+          "body": [
+            "Nach Angaben von zwei mit der Sache vertrauten Personen sprechen SoftBank, der Investor MGX aus Abu Dhabi und weitere bestehende Geldgeber über eine Beteiligung. OpenAI hat sich in der vergangenen Woche mit langfristig orientierten Fonds und Staatsfonds getroffen, während Anthropic zur gleichen Zeit einen eigenen Investorentag abhielt. Die Runde soll für ihre Größe ungewöhnlich schnell durchgezogen werden.",
+            "Im März war OpenAI nach einer Rekordrunde über 122 Milliarden Dollar, an der Amazon mit bis zu 50 Milliarden beteiligt war, mit 852 Milliarden Dollar bewertet worden. Seit dem Start von GPT-6 Astra soll der annualisierte Umsatz bei 50 Milliarden Dollar liegen, bis Jahresende erwartet das Unternehmen 70 Milliarden. Investoren sagen, OpenAI brauche das Geld auch für seine Infrastrukturzusagen und als Polster, falls ein schwächerer Markt den für 2027 geplanten eigenen Börsengang verzögert.",
+            "Einige Investoren sehen hinter dem Tempo vor allem Taktik: OpenAI wolle Kapital binden, das sonst in Anthropics Börsengang fließen könnte. Anthropic meldete zuletzt einen Quartalsumsatz von 16,8 Milliarden Dollar nach 11,6 Milliarden im Vorquartal, doch das nachlassende Wachstum von Monat zu Monat hat Zweifel an der Bewertung geweckt. Manche Investoren halten statt der angestrebten 2 Billionen eher 1,5 Billionen Dollar für angemessen.",
+            "Dazu kommt ein Streit über Buchhaltung. OpenAI verbucht Umsätze abzüglich der Anteile von Partnern und wirft Anthropic vor, den Umsatz aufzublähen, weil es den Bruttowert von Verträgen zählt, die über Cloud-Anbieter verkauft werden. Anthropic erklärte gegenüber Reuters, man folge etablierten Bilanzierungsregeln. OpenAI will die Runde laut Reuters abschließen, bevor Anthropics Finanzzahlen im Börsenprospekt öffentlich werden und Investoren unbequeme Vergleichsfragen stellen.",
+            "Das Umfeld ist unruhig. Mehrere Börsengänge wurden verschoben oder abgesagt, der Halbleiterindex der Börse Philadelphia hat in weniger als zwei Wochen 1,6 Billionen Dollar an Wert verloren, und CoreWeave steht wegen fast 50 Milliarden Dollar Schulden unter Druck. „It's really a two-horse race in terms of being public“, sagte der Kapitalmarktanwalt Edward Best von Willkie Farr & Gallagher."
+          ],
+          "highlight": "Einige Investoren sehen hinter dem Tempo vor allem Taktik: OpenAI wolle Kapital binden, das sonst in Anthropics Börsengang fließen könnte.",
+          "assessment": [
+            "Hier läuft ein Wettrennen um dieselben Geldtöpfe, und OpenAI spielt es geschickt. Wer zuerst eine Bewertung von 1,4 Billionen setzt, gibt den Maßstab vor, an dem Anthropic dann gemessen wird. Der Vorwurf der aufgeblähten Umsätze passt ins Bild: Er ist gleichzeitig Sachargument und Störfeuer kurz vor dem wichtigsten Termin des Konkurrenten.",
+            "Bemerkenswert finde ich, wie sehr die Zahlen inzwischen von der Stimmung abhängen. Ein Chipindex verliert binnen zwei Wochen 1,6 Billionen, und trotzdem wird über Bewertungen jenseits der Billion verhandelt, als wäre nichts. Wenn einer der beiden Börsengänge holpert, wird man das in der ganzen Branche spüren."
+          ],
+          "sources": [
+            { "name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/exclusive-openai-seeks-accelerate-fundraising-ahead/" },
+            { "name": "Investing.com (Reuters)", "url": "https://www.investing.com/news/stock-market-news/exclusiveopenai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say-4958511" },
+            { "name": "Reuters", "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/" }
+          ],
+          "image": {
+            "url": "https://www.globalbankingandfinance.com/i/cloud-65beddb7-5a5c-4bcb-b177-4c54dca7d8a1/width=1200,height=630,quality=80,format=auto,fit=cover/",
+            "alt": "Aufmacherbild zum Reuters-Bericht über OpenAIs Finanzierungsrunde",
+            "credit": "Global Banking & Finance Review",
+            "license": "Artikelbild Global Banking & Finance Review",
+            "source": "https://www.globalbankingandfinance.com/exclusive-openai-seeks-accelerate-fundraising-ahead/"
+          }
+        },
+        {
+          "title": "Kanadas große Zeitungen verklagen Anthropic",
+          "lead": "Postmedia, Torstar, The Globe and Mail und The Canadian Press haben vor einem Gericht in Ontario Klage gegen Anthropic eingereicht. Sie werfen dem Unternehmen vor, Claude ohne Lizenz mit ihren Artikeln trainiert zu haben.",
+          "body": [
+            "Die Klage wurde bereits am 6. Oktober eingereicht, bekannt wurde sie erst jetzt durch einen Bericht des Branchendienstes Cartt.ca, den The Canadian Press am 19. Oktober aufgriff. Kläger sind die größten Zeitungshäuser des Landes. In der Klageschrift beschreiben sie sich als verantwortlich für einen erheblichen Teil des kanadischen Journalismus mit zusammen Millionen Lesern.",
+            "Der Vorwurf lautet, Anthropic habe „vorsätzlich“ große Mengen Text aus dem Internet und von den Websites der Kläger abgegriffen, um seine Sprachmodelle zu trainieren. Das Unternehmen habe vom kommerziellen Erfolg seiner Modelle profitiert und viel Kapital eingesammelt, ohne je eine gültige Lizenz von den Medienhäusern zu erwerben. Es sei daher zum Nachteil der Verlage ungerechtfertigt bereichert.",
+            "Darüber hinaus werfen die Kläger Anthropic vor, gegen die Nutzungsbedingungen ihrer Websites verstoßen und technische Schutzmaßnahmen gegen das Kopieren umgangen zu haben. Außerdem greife Claude weiterhin laufend auf ihre Inhalte zu, wenn Nutzer danach fragen. Anthropic habe dieses Verhalten trotz Klagen und Kritik aus vielen Branchen nicht eingeschränkt. Vor Gericht bewiesen ist davon nichts, Anthropic hatte sich bis zur Veröffentlichung nicht geäußert.",
+            "Dieselben Verlage hatten 2024 gemeinsam mit CBC/Radio-Canada bereits OpenAI verklagt, dieses Verfahren ist noch offen. Die Medienhäuser drängen die kanadische Regierung seit Längerem, sich zur Nutzung urheberrechtlich geschützter Inhalte durch KI zu positionieren. Die nationale KI-Strategie habe die Frage ausgespart."
+          ],
+          "highlight": "Außerdem greife Claude weiterhin laufend auf ihre Inhalte zu, wenn Nutzer danach fragen.",
+          "assessment": [
+            "Die Klage kommt zu einem für Anthropic unangenehmen Zeitpunkt, wenige Wochen vor dem Börsengang, wenn jedes Rechtsrisiko im Prospekt auftauchen muss. Inhaltlich ist sie interessanter als die übliche Trainingsdaten-Klage, weil sie auch die laufende Nutzung bei Nutzeranfragen angreift. Das ist der Teil, der Verlage wirklich Geld kostet: Wer die Antwort im Chat bekommt, klickt nicht mehr auf die Zeitung.",
+            "Dass das OpenAI-Verfahren nach zwei Jahren noch offen ist, zeigt, wie zäh das wird. Realistisch läuft es auf Lizenzverträge hinaus, die Frage ist nur, zu welchem Preis und wer sie zuerst unterschreibt."
+          ],
+          "sources": [
+            { "name": "The Canadian Press via ChatNewsToday", "url": "https://chatnewstoday.ca/2026/10/19/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/" }
+          ],
+          "image": {
+            "url": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F6c2a31ae-d0cc-499c-a4f3-a6d5ade99a77%2F1851c098b45dd5b21bc0de77ce0e237969eee8da1dc4d359df764570940ab4e3.jpg",
+            "alt": "Donald Trump und Anthropic-Chef Dario Amodei vor dem Weißen Haus im September 2026",
+            "credit": "AP Photo/Alex Brandon",
+            "license": "Artikelbild ChatNewsToday",
+            "source": "https://chatnewstoday.ca/2026/10/19/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/"
+          }
+        },
+        {
+          "title": "Prometheus: Meta zeigt seinen Gigawatt-Rechencluster in Ohio",
+          "lead": "Meta hat erstmals ausführlich beschrieben, wie sein KI-Supercluster Prometheus in New Albany, Ohio, aufgebaut ist. Dort wurden die Muse-Modelle trainiert, im Endausbau sollen rund eine Million GPUs zusammenarbeiten.",
+          "body": [
+            "Vor zwei Jahren war der Standort noch ein gewöhnliches Rechenzentrum für Webverkehr. Meta hat ihn seither für das Training großer Modelle umgebaut. Die erste Ausbaustufe ist fertig und wurde für die Muse-Modelle genutzt, darunter Muse Wonder. Heute laufen dort mehrere hunderttausend GPUs, verteilt auf klassische Rechenzentren, eigens für KI gebaute Hallen und schnell aufgestellte Leichtbauten, verbunden durch kilometerlange Glasfaserstrecken.",
+            "Technisch setzt Meta auf Nvidias Rack-Systeme mit 72 GPUs pro Einheit: zunächst GB200, inzwischen überwiegend GB300, künftig Vera Rubin. Ein einzelnes GB300-Rack zieht rund 135 Kilowatt, ein Vera-Rubin-Rack über 170 Kilowatt, einzelne GPUs nehmen 1400 Watt auf. Die Gebäude sind über ein eigenes Netz verbunden, das Entfernungen von 2 bis über 100 Kilometer überbrückt.",
+            "Den größten Teil des Berichts widmet Meta der Zuverlässigkeit. Mitte 2025 kam es zu fast 1000 Störungen pro 8000 GPUs und Tag, seither sei die Zahl um 99 Prozent gesunken. Beim Training von Muse Wonder lag der produktive Anteil der Rechenzeit bei über 85 Prozent im Pre-Training und über 90 Prozent beim Reinforcement Learning. Hauptprobleme waren die Signalqualität der über 600.000 NVLink-Verbindungen und Speicherfehler. In jedem Rack laufen nur 64 der 72 GPUs, acht bleiben als Reserve.",
+            "Auch der Strom ist eine eigene Disziplin: Synchrones Training lässt die Last um 30 bis 40 Prozent schwanken, das Starten oder Pausieren eines großen Jobs verschiebt binnen Sekunden zig Megawatt. Ein System namens Dynamo Dimmer drosselt deshalb die GPUs schrittweise, bevor die Anlage an ihre elektrische Grenze stößt. Meta betont, die vollen Energiekosten selbst zu tragen. Der nächste Cluster, Hyperion in Richland Parish, Louisiana, soll auf den Erfahrungen aufbauen."
+          ],
+          "highlight": "Mitte 2025 kam es zu fast 1000 Störungen pro 8000 GPUs und Tag, seither sei die Zahl um 99 Prozent gesunken.",
+          "assessment": [
+            "Solche Berichte sind zur Hälfte Technik und zur Hälfte Imagepflege, aber die Technik ist echt interessant. Sie zeigt, dass der Engpass beim KI-Training längst nicht mehr nur die Zahl der Chips ist, sondern ob man Hunderttausende davon wochenlang ohne Ausfälle am Laufen hält. Tausend Störungen pro Tag auf 8000 GPUs, das klingt nach einer Baustelle, und genau das war es offenbar.",
+            "Für Meta ist die Botschaft klar: Wir können Frontier-Modelle bauen, die Infrastruktur steht. Ob die Muse-Modelle mit OpenAI und Anthropic mithalten, entscheidet sich trotzdem nicht im Rechenzentrum."
+          ],
+          "sources": [
+            { "name": "Engineering at Meta", "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/" }
+          ],
+          "image": {
+            "url": "https://engineering.fb.com/wp-content/uploads/2026/10/Prometheus-NAO_-5-1.jpg",
+            "alt": "Gebäude des Meta-Rechenzentrums Prometheus in New Albany, Ohio",
+            "credit": "Meta",
+            "license": "Artikelbild Engineering at Meta",
+            "source": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+          }
+        },
+        {
+          "title": "Bei Anthropic sinkt der Anteil der Berufseinsteiger unter den Neueinstellungen",
+          "lead": "Anthropic stellt weiter technisches Personal ein, doch der Anteil von Junioren an den Neueinstellungen ist laut einem eigenen Bericht von 27 auf 9 Prozent gefallen.",
+          "body": [
+            "Die Zahlen stammen aus einem Bericht, den Anthropic am 16. Oktober veröffentlicht hat und den The Neuron am 19. Oktober eingeordnet hat. Demnach fiel der Anteil von Nachwuchskräften an den technischen Neueinstellungen um 18 Prozentpunkte, von 27 auf 9 Prozent. Am gesamten technischen Personal machen Junioren nur noch 14 Prozent aus, Anfang 2025 waren es 21 Prozent. Die Zahl der technischen Einstellungen insgesamt ist dabei gestiegen.",
+            "Anthropic begründet die Verschiebung damit, dass Führungskräfte bei Einstellungen zunehmend Eigenständigkeit und Urteilsvermögen höher gewichten als bestimmtes Fachwissen. Wenn KI-Agenten mehr technische Arbeit übernehmen, verbringen Mitarbeiter mehr Zeit damit, Ergebnisse zu prüfen, und dafür hilft Erfahrung.",
+            "The Neuron weist auf Grenzen hin. Der Bericht belegt weder, dass KI die Ursache ist, noch, dass absolut weniger Junioren eingestellt wurden; dafür bräuchte es Einstellungszahlen für vergleichbare Zeiträume. Der Anteil am Personal hängt zudem auch von Beförderungen und Abgängen ab. Und beide Berichte beruhen auf Anthropics eigenen Beobachtungen.",
+            "Dazu passt eine frühere Anthropic-Studie: In einem randomisierten Versuch mit 52 Entwicklern, die eine unbekannte Python-Bibliothek lernen sollten, kam die Gruppe mit KI-Hilfe im Verständnistest auf durchschnittlich 50 Prozent, die Gruppe ohne auf 67 Prozent. Wer die KI nach Erklärungen fragte, schnitt besser ab als wer die Arbeit einfach delegierte."
+          ],
+          "highlight": "Demnach fiel der Anteil von Nachwuchskräften an den technischen Neueinstellungen um 18 Prozentpunkte, von 27 auf 9 Prozent.",
+          "assessment": [
+            "Dass ausgerechnet ein KI-Labor diese Zahlen über sich selbst veröffentlicht, ist bemerkenswert. Es ist der klarste Hinweis bisher, wie die Firmen, die die Werkzeuge bauen, ihre eigene Belegschaft umbauen: weniger Einsteiger, mehr Leute, die Ergebnisse beurteilen können.",
+            "Das Problem dahinter ist alt, wird aber dringender. Erfahrung entsteht, indem man als Junior die Arbeit macht, die jetzt die Agenten übernehmen. Wenn niemand mehr diese Stufe durchläuft, fehlen in zehn Jahren genau die Senioren, die man heute so dringend sucht."
+          ],
+          "sources": [
+            { "name": "The Neuron", "url": "https://www.theneuron.ai/news/anthropic-junior-technical-hiring-ai/" },
+            { "name": "Anthropic", "url": "https://www.anthropic.com/research/employment-at-anthropic" }
+          ],
+          "image": {
+            "url": "https://cdn.theneuron.ai/anthropic-junior-technical-hiring-share.png",
+            "alt": "Grafik zum sinkenden Anteil von Junioren an Anthropics technischen Neueinstellungen",
+            "credit": "The Neuron",
+            "license": "Artikelbild The Neuron",
+            "source": "https://www.theneuron.ai/news/anthropic-junior-technical-hiring-ai/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Hideo Kojima kehrt in Cyberpunk: Edgerunners 2 zurück",
+          "lead": "Der Metal-Gear-Schöpfer spricht in der zweiten Staffel der Netflix-Anime-Serie erneut den Braindance-Produzenten Hideyoshi Oshima, den er schon in Cyberpunk 2077 verkörperte. Die Staffel startet heute.",
+          "body": [
+            "Die offizielle Edgerunners-Seite kündigte den Auftritt am 19. Oktober auf X an, mit der Frage, ob die Zuschauer ein bekanntes Gesicht entdeckt hätten. Oshima wird dort als „renommierter Braindance-Regisseur“ vorgestellt. Kojima spricht die Figur selbst. Die zweite Staffel von Cyberpunk: Edgerunners erscheint am Dienstag, 20. Oktober, bei Netflix.",
+            "Es ist Kojimas zweiter Auftritt im Cyberpunk-Universum. In Cyberpunk 2077 sitzt Oshima in der Mission „The Heist“ an einem hinteren Tisch der Hotelbar im Konpeki Plaza und unterhält sich über seine Arbeit, wenn sich der Spieler umsieht. Braindance ist in der Welt von Cyberpunk eine Technik, mit der sich Erlebnisse aufzeichnen und abspielen lassen, mit Bild, Ton, Geruch, Berührung, Geschmack, Gefühlen und Gedanken.",
+            "Für Kojima schließt sich damit auch ein Kreis. Sein Visual Novel Snatcher von 1988 gilt als Kultklassiker des Cyberpunk-Genres. Es erschien zuerst in Japan auf den Computern PC-8801 und MSX2, später auf mehreren Konsolen, eine englische Fassung gab es nur für Sega CD und Mega CD.",
+            "Die erste Staffel von Edgerunners hatte 2022 dem Spiel nach seinem missratenen Start zu einem zweiten Frühling verholfen. Daneben arbeitet Paramount an einem Realfilm zu Cyberpunk 2077, über den VGC rund eine Woche vor der Kojima-Nachricht berichtete."
+          ],
+          "highlight": "Kojima spricht die Figur selbst.",
+          "assessment": [
+            "Ein Cameo, sicher, aber ein gut gesetzter. CD Projekt und Studio Trigger wissen, dass Kojima zieht, und er selbst spielt gern mit seinem Status als Popfigur. Die Rolle eines Mannes, der Erlebnisse für andere inszeniert, passt zu einem Regisseur, der seit Jahren genau das tut.",
+            "Wichtiger ist der Rahmen: Cyberpunk wird gerade zur Marke mit Serie, Film und Spielen, und Edgerunners ist der Teil, der beim Publikum am besten angekommen ist. Die Erwartungen an die zweite Staffel sind entsprechend hoch."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/after-making-a-cameo-appearance-in-cyberpunk-2077-hideo-kojima-is-coming-to-cyberpunk-edgerunners-2/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/kojima-cyberpunk.jpg",
+            "alt": "Hideo Kojima als Figur Hideyoshi Oshima im Cyberpunk-Universum",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/after-making-a-cameo-appearance-in-cyberpunk-2077-hideo-kojima-is-coming-to-cyberpunk-edgerunners-2/"
+          }
+        },
+        {
+          "title": "Super Mario 64: Rechenanalyse will das Rätsel der Plakette gelöst haben",
+          "lead": "Seit 30 Jahren rätseln Spieler, was auf der verwaschenen Plakette am Brunnen vor Peachs Schloss steht. Ein Programmierer hat über 1,2 Millionen Wörter durchgerechnet und kommt auf „Eternal Star“, nicht auf „L is Real 2401“.",
+          "body": [
+            "Die Plakette ist einer der bekanntesten Mythen der Spielegeschichte. Kurz nach dem Start des Nintendo 64 im Jahr 1996 verbreitete sich die Lesart „L is Real 2401“: Luigi sei spielbar, und 2401 sei der Code zum Freischalten. IGN setzte damals 100 Dollar für denjenigen aus, der Luigi freischaltet, Nintendo Power griff die Theorie 1998 in einem Aprilscherz auf. Auch die schärferen Neuauflagen halfen nicht, denn der Text sitzt auf einer Textur von nur 32 mal 32 Pixeln.",
+            "Der Programmierer Mochi64 hat nun eine Open-Source-Analyse veröffentlicht, der Code liegt auf GitHub. Die beiden Textzeilen sind nur drei bis fünf Pixel hoch, Hochskalieren wäre reines Raten. Stattdessen probierte das Programm Millionen Kombinationen aus Wörtern, Schriftarten und Verkleinerungsverfahren durch, die ein Grafiker Mitte der Neunziger hätte nutzen können, und bewertete, wie nah das Ergebnis an den Original-Pixeln liegt. Je niedriger die Abweichung, desto besser.",
+            "Am besten passt „Eternal Star“ in der oberen und „We Hope So“ in der unteren Zeile, mit einem Abweichungswert von 1129. „L is Real 2401“ kam schon für die erste Zeile allein auf 2031. Mochi64 hält das Ergebnis für eindeutig und hat eine „Plakettenchallenge“ eröffnet, bei der andere eigene Sätze mit demselben Code testen können.",
+            "Dass Luigi tatsächlich einmal vorgesehen war, ist belegt. Shigeru Miyamoto sagte 1996, Luigi sei als zweite spielbare Figur geplant gewesen und erst im letzten Entwicklungsjahr aus Speichergründen gestrichen worden. 2020 tauchte in einem Leak alter Nintendo-Dateien ein Luigi-Modell auf, und kürzlich erschien Material von der Messe Space World 1995, das beide Brüder zusammen zeigen soll."
+          ],
+          "highlight": "Am besten passt „Eternal Star“ in der oberen und „We Hope So“ in der unteren Zeile, mit einem Abweichungswert von 1129.",
+          "assessment": [
+            "Herrlich nerdig, und methodisch sauberer als das meiste, was in 30 Jahren zu dieser Plakette geschrieben wurde. Statt in Pixelbrei Buchstaben hineinzusehen, wird umgekehrt gerechnet: Welcher Text hätte genau diese Pixel ergeben? „Eternal Star“ passt obendrein inhaltlich, das Spiel dreht sich um Sterne.",
+            "Endgültig bewiesen ist damit nichts, solange Nintendo schweigt, und das wird Nintendo. Aber „L is Real“ dürfte damit endgültig ins Reich der Schulhofgerüchte gehören, wo es immer hingehörte."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/SM64_Screenshot_Courtyard_Statue_Plaque.jpg",
+            "alt": "Screenshot aus Super Mario 64: Brunnen mit der Plakette im Schlossgarten",
+            "credit": "Nintendo/VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/"
+          }
+        },
+        {
+          "title": "Modern Warfare 4 ist Vince Zampella gewidmet",
+          "lead": "Der Abspann des neuen Call of Duty enthält eine eigene Gedenktafel für den Mitbegründer der Reihe, der im Dezember 2025 bei einem Autounfall ums Leben kam.",
+          "body": [
+            "Geoff Keighley teilte am 17. Oktober auf X ein Bild aus dem Abspann von Call of Duty: Modern Warfare 4. Darauf steht „In memoriam – Vince Zampella“. Das Spiel sei seinem Andenken gewidmet, schrieb Keighley. Zampella starb im Dezember 2025 bei einem Autounfall, etwa zwei Monate nach dem Start von Battlefield 6.",
+            "Die Widmung ist bemerkenswert, weil Zampella zu diesem Zeitpunkt seit mehr als 15 Jahren nicht mehr an Call of Duty gearbeitet hatte und zuletzt ausgerechnet die Konkurrenzreihe Battlefield verantwortete. Er hatte 2002 zusammen mit Grant Collier und Jason West das Studio Infinity Ward gegründet, unterschrieb bei Activision und entwickelte Call of Duty, um Medal of Honor zu übertrumpfen, an dem er zuvor als leitender Designer gearbeitet hatte.",
+            "Er führte Infinity Ward bis Modern Warfare 2 im Jahr 2009. Nach einem öffentlich ausgetragenen Streit wurden er und West von Activision entlassen, Boni für Modern Warfare 2 wurden ihnen verweigert. 2010 gründeten beide Respawn Entertainment, das Titanfall, Apex Legends und Star Wars Jedi: Fallen Order entwickelte und 2017 von EA gekauft wurde.",
+            "2021, nach dem enttäuschenden Start von Battlefield 2042, übernahm Zampella die Battlefield-Reihe. Battlefield 6 verkaufte sich 2025 in den ersten drei Tagen über sieben Millionen Mal, der größte Start der Seriengeschichte."
+          ],
+          "highlight": "Die Widmung ist bemerkenswert, weil Zampella zu diesem Zeitpunkt seit mehr als 15 Jahren nicht mehr an Call of Duty gearbeitet hatte und zuletzt ausgerechnet die Konkurrenzreihe Battlefield verantwortete.",
+          "assessment": [
+            "Eine schöne Geste, und eine, die Activision nicht selbstverständlich ist. Die Trennung 2010 war eine der hässlichsten der Branche, mit Klagen und zurückgehaltenen Boni. Dass das Spiel nun seinem Andenken gewidmet ist, erkennt an, was alle wissen: Ohne Zampella gäbe es die Reihe in dieser Form nicht.",
+            "Es passt auch zur Ankündigung, Modern Warfare 4 schließe ein Kapitel ab. Zampella hat die moderne Militärshooter-Formel mitgeprägt, und die Widmung wirkt wie ein bewusster Schlusspunkt."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/12/Vince-Zampella.jpg",
+            "alt": "Porträt von Vince Zampella",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/"
+          }
+        },
+        {
+          "title": "Saros: Kostenloses Update bringt New Game Plus und Boss-Rush",
+          "lead": "Housemarque hat das Zenith-Update für seinen Shooter Saros veröffentlicht. Es bringt einen zweiten Durchgang, einen Boss-Modus und neue Hilfen für die Zugänglichkeit.",
+          "body": [
+            "Das Update war im September angekündigt worden und ist seit dem 19. Oktober verfügbar. Kern ist ein New-Game-Plus-Modus, mit dem man das Spiel nach dem Abschluss erneut durchspielen kann. Dazu kommt ein Boss-Rush namens Overlord Rush: Die Bosse sind in Sets von bis zu drei Gegnern gruppiert, das letzte Set mit dem Namen Totality enthält alle Bosse des Spiels.",
+            "Neu sind außerdem Einstellungen für die Zugänglichkeit, etwa die Möglichkeit, Projektile zu verlangsamen, und eine Dauerfeuer-Option. Sie schießt automatisch, sobald die Waffe auf einen Gegner zielt, nachladen muss man aber weiter selbst.",
+            "Design Lead Abebe Tinari schrieb im PlayStation Blog, das Update habe zwei Ziele: mehr Wiederspielwert für bestehende Spieler und ein zugänglicheres Spiel. Manchen falle es schwer, eine Taste lange gedrückt zu halten. Mit dem Dauerfeuer bleibe mehr Aufmerksamkeit für das Ausweichen und den richtigen Moment für den Dash.",
+            "Saros ist der Nachfolger im Geiste von Returnal. VGC hatte dem Spiel die volle Wertung von fünf Sternen gegeben und es als eines der eindrucksvollsten First-Party-Spiele der PS5 bezeichnet."
+          ],
+          "highlight": "Mit dem Dauerfeuer bleibe mehr Aufmerksamkeit für das Ausweichen und den richtigen Moment für den Dash.",
+          "assessment": [
+            "Housemarque macht hier etwas, das man bei schweren Spielen öfter sehen möchte: Das Spiel wird zugänglicher, ohne dass der Anspruch für die Hartgesottenen verschwindet, denen man im Gegenzug den Boss-Rush hinwirft. Dauerfeuer und langsamere Geschosse sind keine Schande, sondern verschieben die Herausforderung dahin, wo das Spiel glänzt, nämlich in die Bewegung.",
+            "Ein kostenloses Update dieser Größe ist auch ein Signal, dass Sony an Saros glaubt. Für alle, die nach dem Abspann aufgehört haben, ist jetzt ein guter Moment zurückzukehren."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/12/saros-screenshot-07-en-14feb25.webp",
+            "alt": "Szene aus dem Shooter Saros",
+            "credit": "Housemarque/Sony Interactive Entertainment",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/saross-free-new-game-plus-update-is-out-now-including-a-boss-rush-mode/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Fingerabdrücke im Ton: Frauen und Kinder arbeiteten wohl an der Terrakotta-Armee mit",
+          "lead": "Eine Analyse von 79 Fingerabdrücken auf 36 Kriegerfiguren legt nahe, dass nicht nur erwachsene Männer die berühmte Armee des Ersten Kaisers formten.",
+          "body": [
+            "Die Studie von Xiaoxi Li und Kollegen ist im Journal of Cultural Heritage erschienen. Untersucht wurden gut erhaltene Fingerabdrücke auf 36 Figuren aus der Einheit T23 in Grube 1 des Mausoleums von Qin Shi Huang. Gemessen wurde die durchschnittliche Breite der Hautleisten, die auf Bevölkerungsebene Hinweise auf Alter und Geschlecht gibt. Ein bayesianisches Mischmodell berücksichtigt, dass sich etwa die Abdrücke erwachsener Frauen und jugendlicher Jungen stark ähneln.",
+            "Das Ergebnis: Etwa 45 Prozent der Abdrücke stammen demnach von erwachsenen Männern, 32,7 Prozent von erwachsenen Frauen und 22,3 Prozent von Personen unter 15 Jahren. Die Forscher betonen, dass das Anteile an den Fingerabdrücken sind, nicht an den Arbeitskräften. Eine Person kann viele Abdrücke hinterlassen haben, eine andere keinen.",
+            "Die Terrakotta-Armee wurde 1974 bei Xi'an entdeckt und gehört zur Grabanlage Qin Shi Huangs, der China 221 v. Chr. einte. Der Bau begann 246 v. Chr., der Kaiser starb 210 v. Chr. Bisher galt als Annahme, dass vor allem erwachsene männliche Handwerker die Figuren herstellten. Chemische Analysen des Tons hatten bereits gezeigt, dass mehrere Werkstätten beteiligt waren.",
+            "Eine Parallele gibt es in Schriftquellen: Inschriften auf Lackwaren der Qin-Zeit nennen erwachsene Frauen, junge Mädchen und junge Jungen, die unter staatlicher Aufsicht arbeiteten. Das betrifft allerdings Lackarbeiten, nicht Tonskulpturen. Als Schwäche räumen die Autoren ein, dass die Vergleichsdaten von heutigen europäischen Bevölkerungen stammen, was den Anteil von Frauen und Kindern überschätzen könnte. Zudem deckt die Studie nur eine Grabungseinheit ab."
+          ],
+          "highlight": "Die Forscher betonen, dass das Anteile an den Fingerabdrücken sind, nicht an den Arbeitskräften.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, wie viel Information in banalen Spuren steckt. Die Fingerabdrücke waren immer da, man musste nur auf die Idee kommen, sie so auszuwerten. Das Bild vom Heer männlicher Kunsthandwerker war ohnehin eher Annahme als Befund, und für ein staatliches Großprojekt dieser Dimension wäre es eher überraschend, wenn ganze Familien nicht mitgearbeitet hätten.",
+            "Die Vorbehalte sind aber ernst zu nehmen. Mit europäischen Referenzdaten auf Qin-zeitliche Chinesen zu schließen, ist eine echte Schwachstelle. Die Studie öffnet eine Tür, sie beweist noch nicht, wer genau hindurchging."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/10/fingerprints-in-the-terracotta-armys-clay/" },
+            { "name": "Arkeonews", "url": "https://arkeonews.net/women-and-children-may-have-built-chinas-famous-terracotta-army/" },
+            { "name": "Journal of Cultural Heritage", "url": "https://doi.org/10.1016/j.culher.2026.09.014" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/fingerprints-in-terracotta-army-1.jpg",
+            "alt": "Terrakotta-Krieger aus dem Mausoleum des Ersten Kaisers bei Xi'an",
+            "credit": "Archaeology News Online Magazine",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/fingerprints-in-the-terracotta-armys-clay/"
+          }
+        },
+        {
+          "title": "Neandertaler-DNA aus Handknochen: Erster Nachweis in den westlichen Pyrenäen",
+          "lead": "In der Höhle von Abauntz in Navarra haben Forscher Handknochen eines Neandertalers gefunden, der vor rund 46.000 Jahren starb, und daraus DNA gewonnen.",
+          "body": [
+            "Die Regierung von Navarra stellte den Fund am 19. Oktober bei einer Veranstaltung mit Regionalpräsidentin María Chivite vor. Es handelt sich um sechs Fragmente, vier davon von der rechten Hand eines Erwachsenen: drei Mittelhandknochen und ein Fingerglied. Bei zwei weiteren Stücken zeigte erst eine Proteinanalyse, dass sie ebenfalls menschlich sind. Die Genanalyse ergab, dass es ein Mann war.",
+            "Die Knochen wurden direkt mit der Radiokarbonmethode datiert, was bei Funden dieses Alters selten gelingt. Es sind die ersten Neandertaler-Fossilien aus den westlichen Pyrenäen, einer Region, die bisher eine Lücke im Fundbild war. Einige Knochen tragen Bissspuren von Raubtieren, die erklären, wie sie in die Höhle gelangten. In derselben Schicht fanden sich Steinwerkzeuge und Tierknochen mit Schnittspuren, die Höhle diente also auch als Lager für die Nahrungsverarbeitung.",
+            "Neandertaler lebten vor 46.000 Jahren noch in Teilen Europas, vor etwa 40.000 Jahren waren sie verschwunden. Der Mann aus Abauntz lebte also nur wenige tausend Jahre vor ihrem Ende. Die Höhle liegt an einem natürlichen Weg zwischen der Iberischen Halbinsel und dem übrigen Europa, die Forscher hoffen deshalb auf Hinweise, ob Gruppen beiderseits der Pyrenäen in Kontakt standen.",
+            "Das Projekt leiten Andion Arteaga von der Universität Warschau und Mikel Arlegi vom Musée de l'Homme in Paris, beteiligt sind mehr als 25 Fachleute. Datierung, Protein- und DNA-Analysen liefen an der Universität Wien und am Max-Planck-Institut für evolutionäre Anthropologie in Leipzig. Die Genanalyse ist noch nicht abgeschlossen, eine neue Grabungssaison läuft."
+          ],
+          "highlight": "Es sind die ersten Neandertaler-Fossilien aus den westlichen Pyrenäen, einer Region, die bisher eine Lücke im Fundbild war.",
+          "assessment": [
+            "Vier Handknochen klingen nach wenig, aber die Kombination ist das Wertvolle: direkte Datierung plus DNA plus Fundzusammenhang. Das ist selten, und es kommt aus einer Zeit, in der sich das Schicksal der Neandertaler entschied.",
+            "Spannend wird es, wenn das Genom vorliegt. Wenn sich zeigen lässt, zu welchen anderen Neandertalergruppen der Mann gehörte, sagt das etwas darüber, ob die Pyrenäen eine Grenze oder ein Durchgang waren. Bis dahin ist es ein vielversprechender Anfang, mehr noch nicht."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/10/neanderthal-hand-fossils-from-spain-preserved-dna/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/neanderthal-hand-dna-1.jpg",
+            "alt": "Neandertaler-Handknochen aus der Höhle von Abauntz in Navarra",
+            "credit": "Archaeology News Online Magazine",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/neanderthal-hand-fossils-from-spain-preserved-dna/"
+          }
+        },
+        {
+          "title": "Mumifizierter Nackthund der Wari: 1200 Jahre alte Hunde aus Castillo de Huarmey",
+          "lead": "In einer Wari-Anlage an Perus Nordküste haben Forscher Überreste von mindestens 19 Hunden untersucht, darunter ein fast vollständig mumifizierter Peruanischer Nackthund.",
+          "body": [
+            "Die Studie unter Leitung von Weronika Tomczyk vom Dartmouth College ist im Journal of Anthropological Archaeology erschienen. Fundort ist Castillo de Huarmey, rund 300 Kilometer nördlich von Lima, ein Verwaltungs- und Bestattungszentrum des Wari-Reichs, das etwa von 600 bis 1050 n. Chr. genutzt wurde, rund 400 Jahre vor dem Aufstieg der Inka. Dort war 2012 das erste ungestörte Elitegrab der Wari entdeckt worden, mit 58 hochrangigen Frauen.",
+            "Ausgewertet wurden 341 Hundeknochen von mindestens 19 Tieren sowie ein natürlich mumifizierter Rüde, dem nur die unteren Teile der Vorderbeine fehlen. Er ist laut Radiokarbondatierung mindestens 1200 Jahre alt. Ein weiterer Schädel zeigt noch haarlose Haut und die Ohren, gefärbt mit Zinnober, einem roten Pigment aus der altperuanischen Totenkultur.",
+            "Dass es sich um Nackthunde handelt, verraten die Zähne: Allen drei näher untersuchten Hunden fehlten die ersten Vorbackenzähne, die nie durchgebrochen waren. Das Gen, das die Haarlosigkeit verursacht, reduziert auch die Zahl der Zähne. Isotopenanalysen zeigen, dass die meisten Hunde Mais fraßen, ähnlich wie die Menschen. Die Ernährung haarloser Welpen glich der menschlicher Kinder, was auf gezielte Zucht hindeuten könnte, aber nicht bewiesen ist.",
+            "Die Hunde wurden sehr unterschiedlich behandelt. Ein sechs bis acht Wochen alter Welpe lag im Grab eines Kunsthandwerkers, den die Forscher den „Meister-Korbflechter“ nennen, ein erwachsener Hund im Palast. Andere fanden sich zwischen Abfällen, nur wenige Knochen tragen Schlachtspuren. „While we will never know if any of the three dogs were pets or how people treated them, it is evident they received different treatment than other dogs“, sagt Tomczyk."
+          ],
+          "highlight": "Das Gen, das die Haarlosigkeit verursacht, reduziert auch die Zahl der Zähne.",
+          "assessment": [
+            "Ich mag solche Studien, weil sie den Alltag einer Kultur zeigen, die sonst vor allem durch Elitegräber bekannt ist. Der Peruanische Nackthund ist heute ein nationales Kulturerbe, und hier sieht man ihn schon vor 1200 Jahren als eigene, offenbar besonders behandelte Gruppe.",
+            "Die Forscher sind angenehm vorsichtig: Haustier, Arbeitstier oder Opfer, das lässt sich nicht sagen. Aber ein Welpe im Grab eines Handwerkers und ein Hund im Palast erzählen von einer Beziehung, die über reinen Nutzen hinausging."
+          ],
+          "sources": [
+            { "name": "ScienceDaily (Dartmouth College)", "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm" },
+            { "name": "Journal of Anthropological Archaeology", "url": "https://doi.org/10.1016/j.jaa.2026.101767" }
+          ],
+          "image": {
+            "url": "https://www.sciencedaily.com/images/1920/mummified-dog-skull.webp",
+            "alt": "Mumifizierter Hundeschädel mit haarloser Haut aus Castillo de Huarmey",
+            "credit": "ScienceDaily",
+            "license": "Artikelbild ScienceDaily",
+            "source": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm"
+          }
+        },
+        {
+          "title": "Bronzezeit in Spanien: Wie Dörfer im Norden dem Staat El Argar widerstanden",
+          "lead": "Eine Auswertung von über 1500 Siedlungen zeigt, dass die Nachbarn des frühen Staates El Argar sich mit Mauern, Kämpfen und Rückzug in versteckte Weiler gegen seine Expansion wehrten.",
+          "body": [
+            "Marcello Peres und Roberto Risch von der Autonomen Universität Barcelona haben ihre Studie im Journal of Archaeological Research veröffentlicht. El Argar entstand um 2200 v. Chr. im Südosten Spaniens und wuchs in rund 450 Jahren von etwa 5400 auf rund 34.000 Quadratkilometer. Die Forscher haben eine Datenbank mit 1517 frühbronzezeitlichen Siedlungen auf rund 176.000 Quadratkilometern angelegt, mit jeweils etwa 83 Merkmalen.",
+            "Die Siedlungen nördlich von El Argar unterschieden sich deutlich von den argarischen Zentren. Mehr als 83 Prozent waren kleiner als knapp 2000 Quadratmeter, über drei Viertel lagen hinter Steinmauern oder auf steilen Felsen. Die Autoren nennen das „enrockment“. Diese Orte bestanden meist nur 125 bis 170 Jahre und endeten oft in Zerstörungsschichten, während die argarischen Zentren mehr als sechs Jahrhunderte bewohnt waren.",
+            "Die Gewalt ist in den Skeletten ablesbar. Im Norden von Murcia zeigen bis zu 37,5 Prozent der untersuchten argarischen Skelette Waffenverletzungen. In der befestigten Siedlung Motilla del Azuer hatten 48 Prozent der erwachsenen Männer Verletzungen durch Gewalt, bei den Frauen 9,1 Prozent. Ein 20-jähriger Mann war mit mindestens drei Waffentypen getroffen worden, darunter Kupferäxte und ein Dolch.",
+            "Gehandelt wurde trotzdem. Kupfer und Elfenbein gelangten von El Argar nach Norden, eine untersuchte Probe stammt von einem afrikanischen Steppenelefanten. Waffen wie Stabdolche und Schwerter gingen dagegen in Richtung der Bergbauregion Sierra Morena, kaum aber in die Levante oder die Mancha, die stattdessen Elfenbein erhielten. Die Autoren lesen das als Verhandeln über Gewalt. Nach etwa 1800 v. Chr. kam die Expansion El Argars zum Stillstand und reichte nie weit nach Norden."
+          ],
+          "highlight": "Nach etwa 1800 v. Chr. kam die Expansion El Argars zum Stillstand und reichte nie weit nach Norden.",
+          "assessment": [
+            "Eine Studie, die den Blick umdreht. Meist wird Geschichte aus Sicht der Zentren erzählt, hier stehen die kleinen Leute am Rand im Mittelpunkt, und sie erscheinen nicht als Opfer, sondern als Akteure, die einen frühen Staat ausbremsten.",
+            "Die Zahlen zur Gewalt sind drastisch: Fast jeder zweite Mann in Motilla del Azuer mit Kampfverletzungen. Das widerlegt nebenbei jede romantische Vorstellung von einer friedlichen Bronzezeit. Die Idee, dass Widerstand auch im Verschwinden in kleine, schwer greifbare Weiler bestand, finde ich besonders überzeugend, sie kennt man aus viel späteren Epochen."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/10/bronze-age-villagers-resisted-the-el-argar-state/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/villagers-resisted-el-argar-1.jpg",
+            "alt": "Befestigte bronzezeitliche Siedlung Motilla del Azuer in Spanien",
+            "credit": "Archaeology News Online Magazine",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/bronze-age-villagers-resisted-the-el-argar-state/"
+          }
+        },
+        {
+          "title": "Silen als Grabwächter: Einzigartiger Tonsarkophag aus Attouda",
+          "lead": "Fragmente eines römischen Tonsarkophags aus dem antiken Attouda in der Westtürkei tragen ein Relief des Silen, für das es unter den bekannten zylindrischen Tonsarkophagen Anatoliens kein Gegenstück gibt.",
+          "body": [
+            "Die Bruchstücke wurden bei Geländebegehungen 2023 auf einer landwirtschaftlich genutzten Fläche südlich der antiken Stadt in der Provinz Denizli entdeckt. Nachdem Feldarbeiten den Behälter beschädigt hatten, kamen sechs Fragmente von Korpus und Deckel ins Museum von Denizli. Die Archäologin Bilge Yılmaz Kolancı von der Pamukkale-Universität hat sie nun in der Fachzeitschrift Cedrus veröffentlicht.",
+            "Der Sarkophag bestand aus rötlichem Ton mit Glimmer und Kalk und hatte einen Durchmesser von etwa 55 bis 60 Zentimetern. Datiert wird er vorläufig ins erste oder zweite Jahrhundert n. Chr., allerdings nur über Vergleiche, da die Bestattung gestört war und keine Beigaben erhalten sind. Wülste und waagrechte Griffe ähneln Sarkophagen aus Laodikeia, Hierapolis und Trapezopolis, was auf regionale Werkstätten hindeutet.",
+            "Der kleine Silenskopf ist nur 4,8 Zentimeter hoch: kahle Stirn, runde Augen, breite Nase, kurzer Bart. Silen, ein Begleiter des Dionysos, stand für Wein und rauschhafte Verehrung. Im Grabkontext konnte er Erneuerung und ein Leben nach dem Tod andeuten, seine grotesken Gesichter sollten zudem Unheil abwehren. Kolancı vermutet eine Schutzfunktion für den Toten. Neben dem Gesicht ist ein sieben Zentimeter großer griechischer Buchstabe Beta eingeritzt, möglicherweise eine Werkstattmarke.",
+            "Der Fund passt zu Attouda: Aus der Nekropole stammt bereits ein Silenskopf aus Ton, Münzen der Stadt zeigen Dionysos mit Thyrsosstab und Trinkgefäß, und Inschriften belegen seine Verehrung."
+          ],
+          "highlight": "Kolancı vermutet eine Schutzfunktion für den Toten.",
+          "assessment": [
+            "Keine Sensation, aber ein schönes Detail aus der Provinz. Die großen Marmorsarkophage Roms kennt jeder, die einfachen Tonsärge der kleineren Städte kaum. Hier sieht man, wie eine Werkstatt im Hinterland Bilder aus der großen Mythologie auf ihre Weise übernimmt.",
+            "Man sollte die Deutung nicht überstrapazieren, der Kopf ist winzig und der Kontext zerstört. Aber dass ein Weingott-Begleiter als Grabwächter dient, sagt einiges über eine Religiosität, in der Rausch, Tod und Schutz eng beieinanderlagen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/unique-1900-year-old-sarcophagus-with-silenus-relief-identified-in-ancient-anatolia/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Silenus-head.png",
+            "alt": "Silenskopf-Relief auf einem Fragment des Tonsarkophags aus Attouda",
+            "credit": "Bilge Yılmaz Kolancı/Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/unique-1900-year-old-sarcophagus-with-silenus-relief-identified-in-ancient-anatolia/"
+          }
+        }
+      ]
+    }
+  ]
+}
