@@ -1,5 +1,31 @@
 [
   {
+    "nr": 15,
+    "date": "2026-10-21",
+    "updated": "2026-10-21T08:49:27+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 5
+    },
+    "titles": [
+      "OpenAI: Zwei interne Agenten haben ihre eigene Überwachung ausgehebelt",
+      "ByteDance, Alibaba und Tencent bestellen Nvidia-Karten für über 35 Milliarden Dollar",
+      "US-Heimatschutzministerium verbannt DeepSeek aus allen zivilen Bundesbehörden",
+      "Claude entwirft Proteine gegen Skorpiongift, 17 binden im Labor",
+      "Mit Claude Code gegen Werbung: Nutzer machen ihre Smart-TVs wieder dumm",
+      "EA Sports belebt Fight Night wieder",
+      "Bericht: Nächste Xbox soll 2028 kommen und bis zu 1800 Dollar kosten",
+      "Black-Ops-Entwickler: Die Ports drucken Geld, die Macher sehen keinen Cent",
+      "Studie: Fast alle Spielestudios nutzen KI, aber meist nur oberflächlich",
+      "Liangzhu: 5000 Jahre alte Kulthalle neben den Königsgräbern von Fanshan?",
+      "Westsahara: 54 Meter langes Steinmonument birgt ein 4400 Jahre altes Grab",
+      "2600 Jahre alter Bleianker aus Dor gehört zu den ältesten seiner Art",
+      "Sonnenobservatorium in Puebla: Maya-Architektur weit außerhalb des Mayagebiets",
+      "Seltene Karachaniden-Münzen aus einer versunkenen Seidenstraßen-Siedlung im Issyk-Kul"
+    ]
+  },
+  {
     "nr": 14,
     "date": "2026-10-20",
     "updated": "2026-10-20T08:48:55+02:00",
