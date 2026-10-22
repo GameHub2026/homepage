@@ -1,5 +1,31 @@
 [
   {
+    "nr": 16,
+    "date": "2026-10-22",
+    "updated": "2026-10-22T08:47:49+02:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 5
+    },
+    "titles": [
+      "Storm-0940: Chinesische Hacker greifen mit KI-Agenten über 2250 Microsoft-365-Umgebungen an",
+      "Anthropics Börsenprospekt: 16,3 Milliarden Umsatz im Halbjahr, über 600 Milliarden an Rechenzusagen",
+      "Anthropic schlägt Gesetz vor: Richter sollen gefährliche Modelle stoppen können",
+      "TorchTPU: Google und Amazon greifen Nvidias Bollwerk bei PyTorch an",
+      "Hugging-Face-Chef kritisiert Netflix-Doku über den Ausbruch der OpenAI-Agenten",
+      "EA schließt BioWare, das nächste Mass Effect ist gestrichen",
+      "Lootboxen: PEGI stuft EA Sports FC und Pokémon Go auf ab 16 hoch",
+      "Cyberpunk 2077 bekommt mit Version 2.5 noch ein großes Update",
+      "Football Manager 27 startet mit fünf Gratistagen",
+      "Westminster Abbey: Im römischen Sarkophag lag wohl ein angelsächsischer Abt",
+      "Maltas rätselhafte Steinrillen stammen wohl großteils aus der Antike",
+      "Amelia Earhart: Das „Taraia-Objekt“ auf Nikumaroro war kein Flugzeug",
+      "Dänemark: 2500 Jahre alte Palisade sperrte einen alten Heerweg",
+      "Kybele und drei Nymphen: Seltenes Relief aus einem der letzten heidnischen Tempel Thrakiens"
+    ]
+  },
+  {
     "nr": 15,
     "date": "2026-10-21",
     "updated": "2026-10-21T08:49:27+02:00",
