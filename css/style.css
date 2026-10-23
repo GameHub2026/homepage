@@ -544,6 +544,23 @@ mark.is-drawn { background-size: 100% 100%; }
 .status-idea     { background: #DCEEFA; color: #1670A8; }
 .status-empty    { background: #E6E5E0; color: #5E5D59; }
 .lbl-text { grid-column: 2 / -1; font-size: 16px; color: var(--ink-2); line-height: 1.45; }
+/* Projekte als Karten mit Abbild */
+.ledger-wide { grid-column: 1 / -1; }
+.proj-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 18px; }
+.proj-list li {
+  display: flex; flex-direction: column; gap: 10px; padding: 0 0 16px;
+  border: 1.5px solid var(--ink); background: var(--paper-hi);
+}
+.proj-shot { margin: 0; border-bottom: 1.5px solid var(--ink); background: var(--paper); }
+.proj-shot img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: top; }
+.proj-head { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 12px; padding: 4px 16px 0; }
+.proj-head .lbl-no { border: 0; margin: 0; display: inline; }
+.proj-head .lbl-name { flex: 1 1 auto; }
+.proj-list .lbl-text { padding: 0 16px; }
+.proj-note { padding: 0 16px; margin-top: auto; font: 500 13px var(--display); color: var(--ink-2); }
+.proj-link { padding: 0 16px; margin-top: auto; font: 700 14px var(--display); color: var(--ink); text-underline-offset: 4px; }
+.status-live { background: #DDEBE2; color: #1F6B42; }
+[data-theme="dark"] .status-live { background: #15301F; color: #6FD19A; }
 .ledger-empty { padding-top: 16px; color: var(--ink-2); font-size: 16px; max-width: 42ch; }
 
 .otd-list li {
