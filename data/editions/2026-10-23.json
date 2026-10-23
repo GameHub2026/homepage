@@ -1,0 +1,382 @@
+{
+  "nr": 17,
+  "date": "2026-10-23",
+  "intro": "Die KI hat in dieser Woche ihre bislang schwerste Sicherheitslücke gefunden: Zwei Fehler im Kern von PHP haben Behörden in halb Europa dazu gebracht, ihre Websites vom Netz zu nehmen. Dazu kommen Kündigungen bei Google DeepMind wegen der Militärverträge, Anthropics neuer Agent Duet und ein Streik bei Micron. Im Gaming-Teil geht es um das Nachspiel der BioWare-Schließung, einen Datenabfluss bei Capcom und die US-Verkaufszahlen, in der Geschichte um eine Knochenflöte aus Troja, Geschwister aus dem spätrömischen Spanien und ein vergessenes Manuskript von Erwin Schrödinger.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "PHP2Shell: Von KI gefundene Lücken legen weltweit Websites lahm",
+          "lead": "Zwei kritische Fehler im Kern der Programmiersprache PHP erlauben es Angreifern, fremde Server ohne Anmeldung zu übernehmen. Gefunden wurden sie mit Hilfe von Frontier-Modellen, und Regierungen in Europa schalteten vorsorglich ihre Webangebote ab.",
+          "body": [
+            "Am 21. Oktober hat das PHP-Team Korrekturen für zwei Schwachstellen veröffentlicht, die unter den Kennungen CVE-2026-109618 und CVE-2026-109619 laufen und mit einem CVSS-Wert von bis zu 9,2 bewertet sind. Die Fehler stecken nicht in einzelnen Anwendungen, sondern in PHP selbst. Sie ermöglichen das Auslesen von Speicher und das Ausführen von Code auf dem Server, ohne dass sich ein Angreifer anmelden muss. Laut der Sicherheitsfirma Wiz ist jede PHP-Version des vergangenen Jahrzehnts von mindestens einem der Fehler betroffen, zurück bis zu PHP 5.4. Wiz schätzt, dass rund 70 Prozent des Internets betroffen sind; die BBC weist darauf hin, dass sie diese Zahl nicht überprüfen kann.",
+            "Technisch geht es um Speicherfehler beim Umgang mit fatalen Fehlern während einer Anfrage, vor allem mit Out-of-Memory-Situationen. Bricht eine Anfrage unerwartet ab, kann ein beschädigter interner Zustand zurückbleiben, den eine spätere Anfrage weiterverwendet. Im ausgelesenen Speicher können dann Passwörter, Sitzungstoken, API-Schlüssel und Zertifikate anderer Nutzer liegen. Wiz vergleicht den Fall ausdrücklich mit Heartbleed 2014 und Log4Shell 2021 und fasste die Fehler zu einem einzigen Angriffsskript namens php2shell zusammen.",
+            "Die Fehler waren mehr als ein Jahrzehnt unentdeckt. Gefunden wurden sie von den Sicherheitsfirmen Calif und Wiz; Calif und die PHP Foundation nahmen an OpenAIs Programm „Patch the Planet“ teil, das ihnen Zugang zu fortgeschrittenen KI-Werkzeugen gab. Wiz schreibt, die Ausnutzung habe eine außergewöhnlich komplexe Kette von Schritten erfordert, an der Grenze dessen, was menschliche Forscher praktisch leisten können. „Frontier-Modelle waren entscheidend dafür, diesen Prozess praktikabel zu machen“, heißt es im Blog, mit ihnen habe man funktionierende Exploits für mehrere Anwendungen in Stunden entwickelt.",
+            "Eigentlich sollte die Lücke später im Monat zusammen mit einem vollständigen Patch bekannt gemacht werden. Weil Details am Dienstag in sozialen Netzwerken durchsickerten, musste die PHP Foundation vorziehen. Finnland schaltete die öffentlichen Webdienste der Regierung vorübergehend ab, die niederländische Cybersicherheitsbehörde nahm ihre eigene Website vom Netz, ebenso das niederländische Gesundheitsinstitut RIVM; die Seite der Zweiten Kammer war nicht erreichbar. Die Wikimedia Foundation fuhr vorsorglich Systeme herunter, was Teile von Wikipedia zeitweise unerreichbar machte. Auch die Seite des Edinburgher Stadtrats und Seiten von BBC-Sendungen wie Doctor Who gingen offline.",
+            "Die britische NCSC, die US-amerikanische NSA sowie Behörden in der EU, Australien und Japan riefen dazu auf, sofort zu patchen und Systeme notfalls abzuschalten. Japans Premierministerin Sanae Takaichi bat auf X darum, eigene Websites auf PHP zu prüfen, und das Weiße Haus erklärte, Bundesbehörden arbeiteten mit führenden KI-Laboren an einer schnelleren Behebung. Das Hauptproblem ist nicht der Patch selbst, sondern jede einzelne PHP-Installation zu finden: PHP steckt in WordPress, Drupal, Joomla, Magento, Hosting-Plattformen und vielen Programmen, die es gar nicht erwähnen."
+          ],
+          "highlight": "Die Fehler waren mehr als ein Jahrzehnt unentdeckt.",
+          "assessment": [
+            "Das ist der Moment, vor dem Sicherheitsforscher seit zwei Jahren warnen, und er ist glimpflicher ausgegangen, als er hätte können: Die Lücke wurde von Verteidigern gefunden, und die großen Netzbetreiber hatten Schutzregeln vorbereitet. Aber die Lehre ist unbequem. Komplexität war bisher ein stiller Schutz, weil kaum jemand die Zeit und das Können hatte, eine solche Fehlerkette auszunutzen. Diesen Schutz gibt es nicht mehr.",
+            "Bemerkenswert ist auch, wie dünn das Zeitfenster war. Ein Leak hat die geordnete Offenlegung zunichtegemacht, und plötzlich nahmen Regierungen ihre Seiten vom Netz. Wer noch alte PHP-Versionen betreibt, für die es keinen offiziellen Patch gibt, hat jetzt ein echtes Problem, und davon gibt es im Netz sehr viele."
+          ],
+          "sources": [
+            { "name": "BBC", "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o" },
+            { "name": "Wiz Research", "url": "https://www.wiz.io/blog/php2shell-php-rce" },
+            { "name": "OpenAI", "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/" }
+          ],
+          "image": {
+            "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+            "alt": "Symbolbild zur PHP-Sicherheitslücke",
+            "credit": "Getty Images",
+            "license": "Artikelbild BBC",
+            "source": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
+          }
+        },
+        {
+          "title": "Google DeepMind: Forscher kündigen wegen der Militärverträge",
+          "lead": "Mehrere Beschäftigte haben Google DeepMind verlassen oder sind dabei, weil sie den Einsatz von Googles KI im US-Militär für unzureichend kontrolliert halten. Die BBC hat mit ihnen gesprochen.",
+          "body": [
+            "Die Londoner Forschungsingenieurin Sofia Liguori hat in dieser Woche bei Google DeepMind gekündigt und sich gegenüber der BBC geäußert, obwohl ihr Vertrag das einschränkt. „Zu erkennen, dass meine Firma immer stärker auf KI-Systeme in Militäroperationen drängt, lässt mich mich dafür schämen, bei Google zu arbeiten“, sagte sie. Nach drei Jahren im Unternehmen habe sie das Vertrauen verloren, dass Google seinen eigenen ethischen Werten treu bleibe; als Grund nennt sie die wachsende Arbeit mit dem US-amerikanischen und dem israelischen Militär.",
+            "Bereits Anfang Oktober war der KI-Forscher Andreas Kirsch gegangen. Er sagte der BBC, Googles Steuerung und Aufsicht reichten nicht aus, um KI in militärischen und geheimen Umgebungen sicher einzusetzen, und auch nicht, um künftig eine Superintelligenz sicher zu entwickeln. „Google scheint kein Recht zu haben, zu kontrollieren oder per Veto zu bestimmen, wie das Pentagon seine KI nutzt, und scheint auch nur begrenzten Einblick zu haben, wie sie eingesetzt wird“, so Kirsch.",
+            "Hintergrund ist ein Vertrag, den Google Anfang des Jahres mit dem Pentagon geschlossen hat. Er erlaubt den Einsatz von Googles Modellen für geheime Militärarbeit und für „jeden rechtmäßigen Regierungszweck“. Die Modelle sollen nicht für Massenüberwachung im Inland oder autonome Waffen einschließlich Zielauswahl verwendet werden, allerdings mit dem Zusatz „ohne angemessene menschliche Aufsicht und Kontrolle“. Ähnliche Verträge haben laut BBC auch OpenAI, Amazon, Microsoft, SpaceX, Oracle, Nvidia und das Start-up Reflection unterzeichnet.",
+            "Das wichtigste Beispiel für KI im US-Militär ist Maven Smart Systems, die von Palantir entwickelte Plattform, mit der Soldaten Ziele auswählen und identifizieren. Der frühere Leiter von Project Maven, der pensionierte Generalleutnant Jack Shanahan, beschreibt die Philosophie so: so schnell und so breit wie möglich einsetzen, notfalls auf Kosten gründlicher Tests. Verteidigungsminister Pete Hegseth will die Streitkräfte zu einer „AI-first warfighting force“ machen.",
+            "Google erklärte, man arbeite weltweit mit öffentlichen Stellen zusammen und prüfe solche Verträge nach einem einheitlichen Verfahren, einschließlich der eigenen Nutzungsrichtlinien und KI-Grundsätze. Zudem gebe es Kanäle, über die Beschäftigte Bedenken sicher äußern könnten, und strenge Regeln gegen Vergeltung."
+          ],
+          "highlight": "Google scheint kein Recht zu haben, zu kontrollieren oder per Veto zu bestimmen, wie das Pentagon seine KI nutzt",
+          "assessment": [
+            "Zwei Kündigungen werden Googles Kurs nicht ändern, das wissen auch die Betroffenen. Interessant ist der Kern ihrer Kritik: nicht dass Google mit dem Militär arbeitet, sondern dass die vertraglichen Grenzen kaum durchsetzbar sind, wenn der Kunde allein entscheidet, was „angemessene menschliche Aufsicht“ bedeutet.",
+            "Für DeepMind ist das heikler als für den Rest von Google. Das Labor hat viele Forscher mit dem Versprechen gewonnen, KI verantwortungsvoll zu entwickeln. Wenn gerade die Leute gehen, die genau das ernst nehmen, ist das langfristig ein größeres Problem als jede Schlagzeile."
+          ],
+          "sources": [
+            { "name": "BBC", "url": "https://www.bbc.com/news/articles/cmreyvepnv0po" }
+          ],
+          "image": {
+            "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4ad8/live/cd13e390-cbc3-11f1-aba9-2bb2608f11d9.jpg",
+            "alt": "Bild zu Google DeepMind, Googles KI-Firma",
+            "credit": "Reuters",
+            "license": "Artikelbild BBC",
+            "source": "https://www.bbc.com/news/articles/cmreyvepnv0po"
+          }
+        },
+        {
+          "title": "Claude Duet: Anthropic startet einen Agenten, der von selbst arbeitet",
+          "lead": "Anthropic hat eine Warteliste für Claude Duet geöffnet, eine eigene App, in der Claude ungefragt Wichtiges meldet und Aufgaben weiterführt, während man weg ist. Dahinter steckt das bisher unveröffentlichte Modell Claude Opus 5.5.",
+          "body": [
+            "Claude Duet ist als Forschungsvorschau angekündigt und zunächst für Pro- und Max-Abonnenten in den USA über eine Warteliste zugänglich. Es läuft als eigene App für iOS und Android sowie auf claude.ai, getrennt von der normalen Claude-App. Gebaut ist es laut Anthropic um Claude Opus 5.5. Während der Vorschau kostet es nichts extra, verbraucht aber dieselben Nutzungskontingente wie der Rest von Claude; Hintergrundprüfungen und größere Aufgaben zehren stärker daran.",
+            "Jeden Morgen fasst Duet die wichtigsten Punkte aus verbundenen Apps zusammen. Alle paar Stunden prüft es die verknüpften Konten und meldet sich nur, wenn etwas Aufmerksamkeit braucht. Man kann ihm Arbeit übergeben, etwa Termine planen, Dashboards bauen, Prognosen erstellen oder Web-Apps prototypisch entwickeln. Es läuft auf einer virtuellen Maschine mit eigenem Browser, das eigene Gerät muss also nicht eingeschaltet bleiben. Erinnerungen, Skills und verbundene Apps übernimmt es aus dem Claude-Konto, über 6000 Konnektoren und Plugins stehen zur Verfügung, darunter Gmail, Slack, HubSpot und Shopify.",
+            "Duet kann sogar einkaufen, über eine virtuelle Karte in Stripes Link-Wallet und mit Shop Pay. Bevor es eine Nachricht verschickt, bezahlt, ein Dokument unterschreibt oder etwas löscht, zeigt es die Aktion und wartet auf Zustimmung. Manche Dinge sind auch mit Zustimmung tabu, etwa Wertpapierhandel oder Überweisungen zwischen Konten. Passwörter und Anmeldetoken sieht der Agent nach Angaben von Anthropic nie direkt, und ein eigener Klassifikator verhindert, dass Kreditkartennummern oder Ausweisdaten weitergegeben werden.",
+            "Anthropic nennt auch Schwächen: Duet könne Unterhaltungen falsch verstehen oder die Dringlichkeit falsch einschätzen, sei schwächer bei persönlichen Besorgungen wie Ticketbuchungen und könne seinen Browser noch nicht zeigen. Der Dienst wurde laut Anthropic von einer externen Firma auf Schwachstellen getestet und ist Teil eines öffentlichen Bug-Bounty-Programms."
+          ],
+          "highlight": "Bevor es eine Nachricht verschickt, bezahlt, ein Dokument unterschreibt oder etwas löscht, zeigt es die Aktion und wartet auf Zustimmung.",
+          "assessment": [
+            "Duet ist Anthropics Versuch, aus dem Chatfenster herauszukommen: weg vom Werkzeug, das man fragt, hin zu einem Assistenten, der von sich aus aufpasst. Das ist genau die Richtung, in die alle großen Labore wollen, und es ist die Richtung, in der die Risiken am größten sind, weil ein solcher Agent Zugriff auf Mail, Kalender und Zahlungsmittel braucht.",
+            "Dass Anthropic Freigaben vor jeder folgenreichen Aktion verlangt, ist vernünftig, wird aber im Alltag auf die Probe gestellt. Wer zwanzig Rückfragen am Tag bekommt, klickt irgendwann blind auf Bestätigen. Ob Duet nützlich wird, hängt daran, ob es lernt, wann es wirklich stören muss. Die Ankündigung von Opus 5.5 ist dabei eher eine Randnotiz, aber eine, die man sich merken sollte."
+          ],
+          "sources": [
+            { "name": "Claude", "url": "https://claude.com/resources/articles/claude-duet" },
+            { "name": "The Neuron", "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-22-2026/" }
+          ],
+          "image": {
+            "url": "https://claude.com/resources/articles/claude-duet/opengraph-image/og",
+            "alt": "Vorschaubild zur Ankündigung von Claude Duet",
+            "credit": "Anthropic",
+            "license": "Artikelbild Claude",
+            "source": "https://claude.com/resources/articles/claude-duet"
+          }
+        },
+        {
+          "title": "Micron: Gewerkschaft in Taoyuan streikt symbolisch um den KI-Gewinn",
+          "lead": "Beim Speicherhersteller Micron in Taiwan eskaliert der Streit darüber, wie viel vom KI-Boom bei den Beschäftigten ankommt. Während sich die Gewerkschaft in Taichung einigte, legten Vertreter in Taoyuan für 24 Stunden die Arbeit nieder.",
+          "body": [
+            "Micron fertigt in Taiwan DRAM und High-Bandwidth-Memory, also genau die Speicherchips, die in KI-Servern stecken. Der Konzern beschäftigt auf der Insel rund 15.000 Menschen und hat nach eigenen Angaben mehr als 1,6 Billionen Taiwan-Dollar investiert, etwa 49 Milliarden US-Dollar. Im Geschäftsjahr 2026 erzielte Micron einen Rekordumsatz von rund 133 Milliarden Dollar, 256 Prozent mehr als im Vorjahr. An diesem Gewinn wollen die Beschäftigten stärker beteiligt werden.",
+            "Die Gewerkschaften in Taoyuan und Taichung forderten einen dauerhaften Mechanismus, der 15 Prozent des operativen Gewinns vierteljährlich als Bonus an die Belegschaft ausschüttet. Anfang Oktober stimmten in Taoyuan 1994 von 2012 abstimmenden Mitgliedern für eine Streikermächtigung. Am Mittwoch unterzeichneten Micron und die Gewerkschaft in Taichung, die den größten Standort vertritt, überraschend eine Vereinbarung und sagten die für Donnerstag geplante Schlichtung ab.",
+            "Nach Angaben von Microns Taiwan-Chef Donghui Lu enthält die Einigung einen zusätzlichen vierteljährlichen Gewinnbonus neben dem bestehenden Prämiensystem, Anpassungen der Gehaltsstruktur, höhere Schichtzulagen, drei zusätzliche bezahlte Urlaubstage und eine Erhöhung des Rentenbeitrags von 8 auf 10 Prozent. Die Taoyuan-Gewerkschaft fühlte sich übergangen. Ihr Vorsitzender Jerry Lin sagte, die Positionen beider Gewerkschaften seien in den Verhandlungen nicht angemessen berücksichtigt worden: „Unsere vier Forderungen haben sich nie geändert.“",
+            "Am Donnerstag um 9 Uhr begannen deshalb elf Gewerkschaftsfunktionäre in Taoyuan einen 24-stündigen symbolischen Streik. Er sollte ausdrücklich die Produktion nicht stören, doch die Gewerkschaft warnte, bei künftigen Aktionen könnten sich mehr Beschäftigte anschließen. Micron erklärte, man respektiere die Aktion und wolle weiter verhandeln; die Gespräche sollten am Freitagnachmittag fortgesetzt werden. Taiwans Präsident Lai Ching-te hatte beide Seiten zuvor zu „aufrichtigen“ Verhandlungen aufgerufen."
+          ],
+          "highlight": "Am Donnerstag um 9 Uhr begannen deshalb elf Gewerkschaftsfunktionäre in Taoyuan einen 24-stündigen symbolischen Streik.",
+          "assessment": [
+            "Elf Streikende sind keine Bedrohung für die Speicherversorgung der Welt. Aber der Konflikt zeigt, dass der KI-Boom eine Verteilungsfrage geworden ist, die bis in die Fabrikhallen reicht. Samsung hat in Südkorea bereits nachgegeben, nun zieht Micron in Taichung nach.",
+            "Für Taiwan ist das Neuland. Die Chipindustrie der Insel lebt von Verlässlichkeit, und schon die Möglichkeit von Arbeitskämpfen in einem Werk für HBM-Speicher ist für Kunden wie Nvidia ein Thema. Micron hat mit der Einigung in Taichung klug den größten Brand gelöscht, den kleineren aber angefacht."
+          ],
+          "sources": [
+            { "name": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202610220016" },
+            { "name": "Taipei Times", "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/22/2003866387" },
+            { "name": "The Star / Reuters", "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates" },
+            { "name": "Silicon UK", "url": "https://www.silicon.co.uk/cloud/ai/micron-taiwan-strike-631814" }
+          ],
+          "image": {
+            "url": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2026/20261022/1024x538_357637057197.jpg",
+            "alt": "Eine Chipfabrik von Micron in Taichung",
+            "credit": "CNA",
+            "license": "Artikelbild Focus Taiwan",
+            "source": "https://focustaiwan.tw/business/202610220016"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Nach der BioWare-Schließung: Trailer zum gestrichenen Mass Effect geleakt",
+          "lead": "Einen Tag nachdem EA BioWare geschlossen hat, ist ein Trailer zum gestrichenen nächsten Mass Effect aufgetaucht. Bloomberg-Reporter Jason Schreier bestätigt, dass er echt ist.",
+          "body": [
+            "Der Trailer zu „Mass Effect Universe“ erschien zuerst auf Reddit und verbreitete sich schnell über Fans, Influencer und Insider. Die Moderatoren konnten zunächst nicht bestätigen, ob er echt ist. Dann schrieb Jason Schreier auf Bluesky: „Kann bestätigen, dass dies ein echter Trailer des Mass-Effect-Spiels ist, das BioWare bis zu seiner Schließung gestern entwickelt hat.“",
+            "Das Video nutzt Assets aus der Vorproduktion und wurde von einem kleinen Team innerhalb von BioWare zusammengestellt. Es deutet eine kleinere Geschichte im Stil eines Spionagethrillers an, mit beliebten Figuren wie Liara T'Soni. Spielen sollte das Ganze in der Milchstraße, irgendwann nach dem Krieg gegen die Reaper aus der ursprünglichen Trilogie.",
+            "EA hatte in dieser Woche angekündigt, BioWare zu schließen und das Spiel einzustellen, nachdem das Studio noch im November 2025 versichert hatte, EA stehe weiter hinter Mass Effect 5. Bei Fans löste der Leak eher Trauer als Freude aus. „Das macht mich noch verzweifelter“, schrieb ein Nutzer auf Reddit, ein anderer: „Ein Spionagethriller ist so ein cooles Konzept für den Wiedereinstieg in die Serie. Ich bin einfach so traurig und wütend.“",
+            "Die Mass-Effect-Serie von Amazon soll laut VGC trotz der Schließung „weiter in Produktion“ sein. Die Marke lebt also vorerst im Fernsehen weiter, während das Studio, das sie geschaffen hat, nicht mehr existiert."
+          ],
+          "highlight": "Es deutet eine kleinere Geschichte im Stil eines Spionagethrillers an, mit beliebten Figuren wie Liara T'Soni.",
+          "assessment": [
+            "Solche Leaks sind fast immer ein Abschiedsgruß aus dem Team. Wer dieses Material veröffentlicht, will zeigen, dass es eine Idee gab, die nicht schlecht war, und dass die Entscheidung von oben kam. Das verstärkt den Eindruck, den EA ohnehin hinterlassen hat: dass hier nicht ein gescheitertes Projekt beerdigt wurde, sondern eines, das nie eine faire Chance bekam.",
+            "Ein kleiner Spionagethriller mit Liara klingt übrigens nach genau dem, was Mass Effect nach Andromeda gebraucht hätte: weniger Galaxie, mehr Figuren."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/" },
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/Mass-Effect_-Universe-Trailer-2-7-screenshot.jpg",
+            "alt": "Standbild aus dem geleakten Trailer zu Mass Effect Universe",
+            "credit": "BioWare / EA",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/"
+          }
+        },
+        {
+          "title": "Capcom: Daten von über elf Millionen Konten abgeflossen",
+          "lead": "Ein Unbekannter hat sich Zugriff auf die Daten von mehr als 11,7 Millionen Capcom-ID-Konten verschafft. Passwörter und Kreditkarten sind laut Capcom nicht betroffen, wohl aber E-Mail-Adressen.",
+          "body": [
+            "Die Capcom ID ist das kostenlose Konto, das man für die Onlinefunktionen einiger Capcom-Spiele wie Street Fighter 6 braucht. Nach Angaben des Unternehmens wurde der Einbruch in dieser Woche entdeckt. Betroffen sind genau 11.774.247 Konten.",
+            "Der Angreifer sah E-Mail-Adressen und systembezogene Daten wie Erstellungsdatum des Kontos, Zeitpunkt der letzten Anmeldung, Zahl der Anmeldungen und die IP-Adresse der letzten Anmeldung. Bei 43 Konten bekam er zusätzlich Geburtsdatum, Geschlecht, Land oder Region und Spitznamen zu sehen.",
+            "Die von Nutzern gesetzten Passwörter konnte der Angreifer nicht auslesen, er änderte aber bei 196 Konten ohne Erlaubnis das Passwort. Capcom hat diese inzwischen zurückgesetzt, damit niemand die Konten übernimmt. Alle anderen können ihre Capcom ID normal weiter nutzen. Capcom warnt aber vor gefälschten E-Mails, die sich als Capcom ausgeben, und bittet darum, bei verdächtigen Nachrichten keine Links anzuklicken und keine Anhänge zu öffnen.",
+            "Für Capcom ist es der zweite große Datenvorfall. Im November 2020 wurde das Unternehmen Opfer eines Ransomware-Angriffs, bei dem Hunderttausende Datensätze gestohlen wurden, darunter Namen und Adressen von Kunden und ehemaligen Mitarbeitern."
+          ],
+          "highlight": "Betroffen sind genau 11.774.247 Konten.",
+          "assessment": [
+            "Auf den ersten Blick klingt das harmlos: keine Passwörter, keine Kreditkarten. Doch elf Millionen E-Mail-Adressen, die nachweislich zu Capcom-Spielern gehören, sind ein ideales Rohmaterial für Phishing. Wer eine Capcom ID hat, sollte in den nächsten Wochen besonders skeptisch sein, wenn Mails mit angeblichen Gratis-Skins oder Kontowarnungen eintreffen.",
+            "Interessant ist auch der Hinweis auf die 196 geänderten Passwörter. Wer Passwörter ändern kann, ohne sie zu kennen, hatte offenbar Zugriff auf eine Verwaltungsfunktion. Das ist schlimmer, als es die beruhigende Mitteilung vermuten lässt."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/capcom-id.jpg",
+            "alt": "Grafik zur Capcom ID",
+            "credit": "Capcom",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/"
+          }
+        },
+        {
+          "title": "Bericht: DICE und Respawn arbeiten gemeinsam an Star Wars: Battlefront 3",
+          "lead": "Mitten in den Kürzungen bei EA soll ein neues Battlefront entstehen. Laut Variety arbeiten die Battlefield-Macher DICE und das Jedi-Studio Respawn zusammen daran.",
+          "body": [
+            "Nach Informationen von Variety hat Electronic Arts seinen Beschäftigten in dieser Woche, zusammen mit der Bestätigung deutlicher Kürzungen, mitgeteilt, dass DICE und Respawn gemeinsam an „einem künftigen Projekt“ arbeiten sollen. Mehrere Quellen bestätigten dem Branchenblatt, dass es sich um Star Wars: Battlefront 3 für Lucasfilm handelt.",
+            "Zuvor hatte Electronic Gaming Monthly berichtet, Lucasfilm spreche mit mehreren Studios, darunter DICE, über einen dritten Teil der Shooter-Reihe. DICE hat die beiden modernen Battlefront-Spiele entwickelt, Respawn die Star-Wars-Jedi-Spiele und zuletzt das Strategiespiel Zero Company.",
+            "Battlefront 2 löste 2017 wegen seiner Mikrotransaktionen einen massiven Aufschrei aus, EA musste sie damals entfernen. Bis zum Ende der Unterstützung im Jahr 2020 kamen neue Helden, Karten und Modi hinzu, und die Stimmung in der Community drehte sich ins Positive. 2025 erlebte das Spiel sogar ein Comeback: Communitys auf Reddit und TikTok holten frühere Spieler zurück, und Battlefront 2 erreichte seine bisher höchsten gleichzeitigen Spielerzahlen auf Steam.",
+            "Der Entwickler Mats Helge Holm, der am Hauptspiel und an der Celebration-Ausgabe mitgearbeitet hatte, sagte im vergangenen Jahr, viele ehemalige Battlefront-Entwickler würden gern an einem neuen Teil arbeiten: „Wir wollen die Truppe wieder zusammenbringen.“"
+          ],
+          "highlight": "Mehrere Quellen bestätigten dem Branchenblatt, dass es sich um Star Wars: Battlefront 3 für Lucasfilm handelt.",
+          "assessment": [
+            "Das Timing ist bezeichnend. In derselben Woche, in der EA BioWare schließt, sickert durch, woran stattdessen gearbeitet wird: an einer bewährten Lizenz mit großem Publikum und klaren Live-Service-Möglichkeiten. So sieht die Prioritätenliste eines Konzerns aus, der sich auf sichere Wetten konzentriert.",
+            "Für Fans ist das trotzdem eine gute Nachricht. Battlefront 2 hat gezeigt, dass DICE Star Wars gut aussehen und gut klingen lassen kann, und Respawn bringt Erzählkompetenz mit. Die Frage ist nur, ob EA aus 2017 gelernt hat oder ob das Spiel wieder um ein Geschäftsmodell herum gebaut wird."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2021/01/Battlefront-2-Darth-Maul.jpg",
+            "alt": "Darth Maul in Star Wars Battlefront 2",
+            "credit": "EA / DICE",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/"
+          }
+        },
+        {
+          "title": "US-Verkäufe im September: Wolverine vorn, PS5 legt zu, Xbox auf Rekordtief",
+          "lead": "Insomniacs Wolverine war im September das meistverkaufte Spiel in den USA und hat die PS5 mitgezogen. Insgesamt sanken die Ausgaben leicht, Xbox-Konsolen verkauften sich so schlecht wie nie in einem September.",
+          "body": [
+            "Laut dem Marktforscher Circana gaben US-Kunden im September für Spiele, Hardware und Zubehör zusammen 4,8 Milliarden Dollar aus, ein Prozent weniger als im Vorjahresmonat. Marvel's Wolverine stieg als meistverkauftes Spiel des Monats ein und erzielte den höchsten Umsatz im Startmonat für ein von Sony veröffentlichtes Spiel seit Helldivers II im Februar 2024. Weltweit war Wolverine laut Ampere mit rund 2,16 Millionen verkauften Exemplaren im September das zweitbestverkaufte PS5-Spiel hinter EA Sports FC 27.",
+            "Acht der zehn meistverkauften Spiele des Monats waren Neuerscheinungen. NBA 2K27 überholte Resident Evil Requiem und ist nun das meistverkaufte Spiel des Jahres in den USA. Unter den Top fünf des Jahres finden sich außerdem 007 First Light, MLB The Show 26 und Crimson Desert.",
+            "Bei der Hardware stieg der Umsatz mit der PlayStation 5 um 43 Prozent, der beste Hardware-Monat für Sony seit Mai 2025. Die Ausgaben für Xbox Series sanken um 2 Prozent, für die Nintendo Switch 2 um 12 Prozent. In Stückzahlen fiel der Hardwaremarkt insgesamt um 3 Prozent, die PS5 legte um 22 Prozent zu, die Switch 2 verlor 14 und die Xbox Series 27 Prozent. Die Xbox-Konsolen erreichten das schwächste September-Ergebnis überhaupt, den bisherigen Tiefstwert hatten sie ein Jahr zuvor aufgestellt."
+          ],
+          "highlight": "Die Xbox-Konsolen erreichten das schwächste September-Ergebnis überhaupt, den bisherigen Tiefstwert hatten sie ein Jahr zuvor aufgestellt.",
+          "assessment": [
+            "Wolverine zeigt, dass Sonys Rezept mit großen Einzelspieler-Exklusivtiteln weiter funktioniert, selbst bei gemischten Kritiken. Ein starker Titel reicht, um die Konsole im Herbst sichtbar nach vorn zu schieben.",
+            "Bei Xbox ist der Befund eindeutig: Microsoft verkauft kaum noch Konsolen und setzt längst auf Game Pass und Spiele auf allen Plattformen. Dass die Switch 2 im zweiten Jahr nachlässt, ist dagegen normal, zumal vor Weihnachten. Spannend wird, was GTA 6 mit diesen Zahlen macht."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/" },
+            { "name": "Kotaku", "url": "https://kotaku.com/theres-good-news-and-bad-news-about-video-game-sales-in-september-2026-2000748805" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/11/wolverine.jpg",
+            "alt": "Wolverine im Spiel Marvel's Wolverine",
+            "credit": "Insomniac Games / Sony",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/"
+          }
+        },
+        {
+          "title": "Sakurai: KI wird Steam fluten, echte Kreativität wird wertvoller",
+          "lead": "Smash-Bros.- und Kirby-Schöpfer Masahiro Sakurai erwartet, dass KI die Zahl neuer Spiele weiter in die Höhe treibt, die meisten davon Kopien. Gerade deshalb würden wirklich kreative Entwickler wichtiger.",
+          "body": [
+            "Im Interview mit Denfaminico Gamer wurde Sakurai darauf angesprochen, dass 2010, als er seinen Game Designers Award ins Leben rief, rund 275 Spiele auf Steam erschienen, heute aber etwa 19.000 pro Jahr. Er erwartet, dass die Zahl noch weiter steigt. „Ich bin mir sicher, denn KI wird diesen Anstieg antreiben“, sagte er. Die meisten dieser Titel würden aber kommerziell nicht tragfähig sein, es werde schlicht zu viele geben, um den Überblick zu behalten.",
+            "KI-generierte oder lieblos in Masse produzierte Spiele würden vor allem Systeme nachbauen, die man aus anderen Spielen kenne. Als Beispiel nannte er Librarian: Tidy Up the Arcane Library, ein Spiel, in dem man umgestoßene Bücher einer Zauberbibliothek wieder einsortiert. Danach seien sofort Nachahmer aufgetaucht, vom umgekippten Supermarkt bis zur Suche nach der Nadel im Heuhaufen. Solche Imitationen seien für KI besonders leicht zu erzeugen.",
+            "Selbst wenn KI eines Tages die Atmosphäre von Fumito Uedas Ico oder Shadow of the Colossus treffen könne, so Sakurai, werde sie nicht das Spiel erschaffen können, das Ueda selbst als Nächstes plane. „Im Grunde schöpft KI aus dem, was bisher geschaffen wurde, aber sie kann nicht aus Dingen schöpfen, die es noch nie gegeben hat.“ Menschen, die Neuland betreten und einen eigenen Stil haben, würden deshalb immer wichtiger."
+          ],
+          "highlight": "Im Grunde schöpft KI aus dem, was bisher geschaffen wurde, aber sie kann nicht aus Dingen schöpfen, die es noch nie gegeben hat.",
+          "assessment": [
+            "Sakurai sagt hier nichts radikal Neues, aber er sagt es mit dem Gewicht von jemandem, der seit Jahrzehnten Spiele aus dem Nichts erfindet. Seine Prognose ist plausibel: Wenn Klone fast nichts mehr kosten, wird Steam noch unübersichtlicher, und Sichtbarkeit wird zum knappsten Gut.",
+            "Ob KI wirklich nie Neues hervorbringen kann, ist eine offene Frage. Doch für die Branche zählt die praktische Seite: Wer etwas Eigenes macht, hebt sich in der Masse ab. Das galt schon vor der KI, jetzt gilt es verschärft."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/03/masahiro-sakurai.jpg",
+            "alt": "Masahiro Sakurai",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Troja: Erstes Musikinstrument nach über 160 Jahren Grabungen",
+          "lead": "In Troja haben Archäologen eine rund 2800 Jahre alte Knochenflöte gefunden, das erste Musikinstrument, das dort je entdeckt wurde. Dazu kommt ein 4500 Jahre alter menschengestaltiger Idolkopf.",
+          "body": [
+            "Der türkische Kultur- und Tourismusminister Mehmet Nuri Ersoy hat die Funde der Grabungssaison 2026 bekannt gegeben, die im Rahmen des Projekts „Erbe für die Zukunft“ stattfand. Die Knochenflöte stammt aus einer Siedlungsschicht der archaischen Zeit, also aus dem frühen ersten Jahrtausend vor Christus. Erhalten ist offenbar auch der Kopfteil, der noch mit dem Körper der Flöte verbunden ist.",
+            "Nach Angaben des Ministers ist es das erste und einzige Musikinstrument, das in mehr als 160 Jahren archäologischer Forschung in Troja gefunden wurde. Das ist weniger erstaunlich, als es klingt: Musik ist in Kunst und Literatur des antiken Mittelmeerraums allgegenwärtig, hinterlässt aber kaum direkte Spuren, weil Instrumente oft aus organischen Materialien bestanden, die zerfallen. Bei welchen Gelegenheiten die Flöte gespielt wurde, ist unbekannt.",
+            "Der zweite Fund ist deutlich älter. Nahe dem Stadttor von Troja II, einer Siedlungsphase der frühen Bronzezeit, kam ein menschengestaltiger Idolkopf zutage. In dieser Zeit entwickelte sich Troja zu einer befestigten Siedlung. Ob das Idol aus einem häuslichen oder kultischen Zusammenhang stammt, lässt sich bislang nicht sagen; Ersoy sieht darin einen Beitrag zum Verständnis der symbolischen Welt der frühen Bronzezeit und der kulturellen Kontakte im westlichen Anatolien.",
+            "Troja liegt auf dem Hügel Hisarlık in der Provinz Çanakkale und wurde über Jahrtausende immer wieder besiedelt und neu aufgebaut. Seine Lage zwischen Ägäis und Marmarameer machte es bedeutend, weltberühmt wurde es durch Homers Ilias. Seit 1998 ist es UNESCO-Welterbe."
+          ],
+          "highlight": "Nach Angaben des Ministers ist es das erste und einzige Musikinstrument, das in mehr als 160 Jahren archäologischer Forschung in Troja gefunden wurde.",
+          "assessment": [
+            "Ein schöner Fund, gerade weil er so wenig mit Achill und Hektor zu tun hat. Troja wird fast immer über Mauern, Brandschichten und die Frage nach dem Trojanischen Krieg erzählt. Eine Flöte erinnert daran, dass dort Menschen lebten, die feierten und Musik machten.",
+            "Man sollte die Meldung aber auch nicht überhöhen. Bisher gibt es nur die Mitteilung des Ministers, eine wissenschaftliche Veröffentlichung steht aus. Wie gut die Flöte erhalten ist und ob sie sich noch spielen ließe, wird erst die Auswertung zeigen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/troys-first-musical-instrument-discovered-alongside-4500-year-old-idol-head/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Troy-musical-instrument-.jpeg",
+            "alt": "Die in Troja gefundene Knochenflöte",
+            "credit": "Türkisches Ministerium für Kultur und Tourismus",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/troys-first-musical-instrument-discovered-alongside-4500-year-old-idol-head/"
+          }
+        },
+        {
+          "title": "Alte DNA aus Spanien: Rom veränderte die Bevölkerung stärker als die Germanen",
+          "lead": "Eine große Genstudie mit 243 Genomen zeigt, dass die römische Herrschaft die Bevölkerung der Iberischen Halbinsel tiefgreifend veränderte. Die Sueben, Alanen und Westgoten hinterließen dagegen nur einen begrenzten Anteil. Dazu gehört die Geschichte zweier Geschwister, die 725 Kilometer voneinander entfernt begraben wurden.",
+          "body": [
+            "Die in der Fachzeitschrift Cell veröffentlichte Studie untersucht die genetische Geschichte der Iberischen Halbinsel vom 1. bis zum 8. Jahrhundert nach Christus. Grundlage sind 243 alte Genome von 31 Fundstellen. Beteiligt waren unter anderem das Institut für Evolutionsbiologie in Barcelona, das Naturkundemuseum Barcelona, die Harvard University und die Universität des Baskenlands. Es ist nach Angaben der Forscher die erste systematische, großangelegte archäogenetische Untersuchung dieses Zeitraums.",
+            "Das eisenzeitliche Iberien war genetisch recht einheitlich. Vom 1. bis 4. Jahrhundert zeigen die Menschen dann eine viel größere Vielfalt an Abstammungen, darunter aus dem östlichen Mittelmeerraum und aus Nordafrika, eine Folge der Mobilität im Römischen Reich. „Die Romanisierung war nicht nur eine politische, sprachliche und kulturelle Umwandlung“, sagt Co-Seniorautor Carles Lalueza-Fox.",
+            "Ab dem 5. Jahrhundert tauchen Menschen mit mittel- und nordeuropäischer Abstammung auf, vor allem in Zusammenhängen, die mit den neuen politischen Gruppen verbunden sind. Je nach Region und sozialem Umfeld steuerten sie etwa 12 bis 22 Prozent der Abstammung bei. Die meisten Gemeinschaften behielten aber ihr vielfältiges hispano-römisches Profil, die Vermischung verlief allmählich. „Wir finden Migration und neue Abstammungen, aber keinen Bevölkerungsaustausch“, sagt David Reich von der Harvard University. In Britannien und auf dem Balkan war die Wirkung der nachrömischen Wanderungen deutlich größer.",
+            "Besonders anschaulich ist ein Geschwisterpaar. Der Bruder wurde im Gräberfeld Los Blanes in Augusta Emerita, dem heutigen Mérida, bestattet, datiert zwischen 364 und 535. Die Schwester lag rund 725 Kilometer entfernt in Ildum bei Castellón, einer Raststation an der Via Augusta, datiert zwischen 257 und 409. Beide hatten vollständig mitteleuropäische Abstammung und waren wohl Einwanderer der ersten Generation. In ihrem Grab lagen ein Glasgefäß und zwei Goldnadeln in Donau- und Schwarzmeertradition. Es ist die größte bisher in alter DNA nachgewiesene Entfernung zwischen Verwandten ersten Grades.",
+            "Auch die sogenannten „suebischen Prinzessinnen“ aus Mérida, reich ausgestattete Frauengräber, liefern Überraschungen: Eine von ihnen hatte lokale Abstammung, was auf Heiratsallianzen zwischen suebischen Eliten und hispano-römischen Familien hindeutet. Erstautor Pablo Carrión betont, dass eine westgotische oder suebische Identität nicht unbedingt fremde Herkunft bedeutete, sie konnte auch über Familie, Politik und Kultur erworben werden."
+          ],
+          "highlight": "Es ist die größte bisher in alter DNA nachgewiesene Entfernung zwischen Verwandten ersten Grades.",
+          "assessment": [
+            "Die Studie bestätigt einen Befund, der sich in den letzten Jahren durch viele Regionen zieht: Die sogenannte Völkerwanderung war in vielen Gegenden eher ein Elitenwechsel als ein Bevölkerungsaustausch. Rom dagegen, das man sich gern als bloße Verwaltungsmacht vorstellt, hat die Menschen selbst verändert.",
+            "Am schönsten ist der Gedanke, dass Identität schon damals nicht an Blut hing. Eine „suebische Prinzessin“ mit einheimischen Vorfahren zeigt, dass Zugehörigkeit gemacht wurde, durch Heirat und Politik. Das ist ein guter Einwand gegen jede Geschichtserzählung, die Völker als feste Abstammungsgemeinschaften versteht."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/ancient-dna-reunites-siblings-buried-725-kilometers-apart-1600-years-ago/" },
+            { "name": "Phys.org", "url": "https://phys.org/news/2026-10-suebi-alans-visigoths-erase-deep.html" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Via-Augusta-Siblings-1024x683.png",
+            "alt": "Darstellung der Geschwistergräber in Mérida und an der Via Augusta mit Goldnadeln",
+            "credit": "Cell, Carrión et al.",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/ancient-dna-reunites-siblings-buried-725-kilometers-apart-1600-years-ago/"
+          }
+        },
+        {
+          "title": "Goldplättchen aus Georgien: Belieferte ein Kaufmann von der Krim Roms Legionen?",
+          "lead": "In der römischen Festung Apsaros am Schwarzen Meer haben polnische und georgische Archäologen eine Weihgabe aus Gold gefunden. Der Name darauf, Thrasymedes, führt möglicherweise zu einem reichen Händler von der Krim.",
+          "body": [
+            "Apsaros liegt nahe dem heutigen Batumi in Georgien und wird seit 2014 von einer polnisch-georgischen Expedition erforscht. Das dünne Goldblech trägt eine griechische Inschrift, die eine Opfergabe an den „dolichenischen Gott“ festhält, also an Jupiter Dolichenus, und als Stifter einen Thrasymedes nennt. Forscher der Universität Warschau und georgische Kollegen haben ihre Analyse in der Zeitschrift für Papyrologie und Epigraphik veröffentlicht.",
+            "Thrasymedes war im antiken Schwarzmeerraum ein seltener Name. Die Forscher kennen ihn aus Inschriften in Chersonesos, einer griechischen Stadt auf der Krim nahe dem heutigen Sewastopol. Dort hatte ein Mann dieses Namens von der Stadt das Privileg erhalten, ohne Zollabgaben Seehandel zu treiben. Laut dem Archäologen Radosław Karasiewicz-Szczypiorski war er ein wohlhabender Händler, der Waren ein- und ausführte.",
+            "Karasiewicz-Szczypiorski vermutet, dass dieser Kaufmann auch die römische Armee belieferte, insbesondere Einheiten der Legio V Macedonica. Wäre er der Stifter des Goldplättchens, hätten ihn seine Geschäfte von der Krim bis an die Ostküste des Schwarzen Meeres geführt. Die Identifizierung ist ausdrücklich eine Hypothese. Ebenso könnte Thrasymedes ein Soldat oder ein Zivilist aus dem Umfeld der Garnison gewesen sein.",
+            "Der Kult des Jupiter Dolichenus stammt aus Doliche in der heutigen Südosttürkei und war bei römischen Soldaten besonders beliebt; er verbreitete sich bis nach Britannien. Der Gott wurde meist bewaffnet auf einem Stier stehend dargestellt, mit Blitzbündel und Doppelaxt. In Apsaros fanden die Archäologen auch eine kleine Bronzefigur eines Adlers auf einem Stier. Zusammen deuten die Funde darauf hin, dass es an oder bei der Festung ein Heiligtum des Gottes gab, möglicherweise aus einer frühen Phase der Kultverbreitung vor dem späten 2. Jahrhundert."
+          ],
+          "highlight": "Dort hatte ein Mann dieses Namens von der Stadt das Privileg erhalten, ohne Zollabgaben Seehandel zu treiben.",
+          "assessment": [
+            "Ein hübsches Stück Detektivarbeit, das man mit der gebotenen Vorsicht lesen sollte: Ein seltener Name ist noch kein Beweis. Aber die Idee ist plausibel und lenkt den Blick auf eine Gruppe, die in der Militärgeschichte oft fehlt, die Händler, die Legionen am Rand des Reiches überhaupt erst versorgten.",
+            "Dass ein Kaufmann den Soldatengott seiner Kunden verehrte, wäre zudem ein schönes Beispiel dafür, wie Religion im Römischen Reich auch Geschäftsbeziehungen pflegte."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/gold-plaque-found-at-roman-fort-may-belong-to-wealthy-merchant-who-supplied-romes-legions/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Gold-Plaque-.jpeg",
+            "alt": "Goldplättchen mit griechischer Inschrift aus der Festung Apsaros",
+            "credit": "Universität Warschau",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/gold-plaque-found-at-roman-fort-may-belong-to-wealthy-merchant-who-supplied-romes-legions/"
+          }
+        },
+        {
+          "title": "Vergessenes Schrödinger-Manuskript: Der Zufall der Quantenwelt ist nicht beweisbar",
+          "lead": "Im Schrödinger-Archiv der Universität Wien lag jahrzehntelang ein dreiseitiges, unveröffentlichtes Manuskript. Darin zeigt Erwin Schrödinger, dass sich Modelle mit verborgenen Variablen nicht ausschließen lassen.",
+          "body": [
+            "Flavio Del Santo von der Universität Genf hat das handschriftliche Manuskript erstmals transkribiert und als Vorabveröffentlichung auf arXiv vorgestellt. Es stammt aus der Zeit nach November 1944 und ist eine Antwort auf eine Debatte über den „Zusammenbruch des Determinismus“, die 1944 und 1945 in der Zeitschrift Nature geführt wurde.",
+            "Der Forscher Whittaker hatte damals angenommen, jedes Lichtteilchen trage eine einfache Ja-Nein-Anweisung, ob es einen Polarisationsfilter passiert. Schrödinger gab jedem Teilchen stattdessen eine verborgene Eigenschaft mit einem ganzen Wertebereich. Sein Modell reproduziert die Vorhersagen der Quantenmechanik, und anders als das Modell von Heinrich Pelzer funktioniert es auch dann, wenn Licht mehrere Filter hintereinander durchläuft.",
+            "Del Santo vermutet, dass Schrödinger das Manuskript zurücklegte, als er von Pelzers Arbeit erfuhr. Gedruckt wurde es nie. Schrödinger glaubte selbst nicht, dass das Universum vollständig vorherbestimmt sei; er vermutete schon seit den 1920er Jahren, dass die Naturgesetze im Grunde statistisch sein könnten. Er wollte aber zeigen, dass Experiment und Logik keine der beiden Sichtweisen als unmöglich erweisen können.",
+            "Del Santo liest das Manuskript deshalb als „Machbarkeitsbeweis“. Es zeigt einen Schrödinger, der weder den Determinismus verteidigt noch den Zufall zum Dogma erhebt, sondern auf der Offenheit der Frage besteht."
+          ],
+          "highlight": "Er wollte aber zeigen, dass Experiment und Logik keine der beiden Sichtweisen als unmöglich erweisen können.",
+          "assessment": [
+            "Für Physikgeschichte ist das ein kleiner Schatz. Schrödinger wird oft als Gegner der Kopenhagener Deutung verbucht, als jemand, der mit seiner Katze die Absurdität der Quantenmechanik vorführen wollte. Das Manuskript zeigt ihn differenzierter, als einen Denker, der vor allem gegen voreilige Gewissheiten war.",
+            "Heute ist die Frage durch die Bell-Experimente anders gelagert, lokale verborgene Variablen gelten als widerlegt. Gerade deshalb ist es spannend zu sehen, wie offen die Diskussion vor achtzig Jahren noch war und wie nüchtern Schrödinger sie führte."
+          ],
+          "sources": [
+            { "name": "Phys.org", "url": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html" }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg/1280px-Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg",
+            "alt": "Porträtfoto von Erwin Schrödinger",
+            "credit": "Unbekannt (Narodowe Archiwum Cyfrowe)",
+            "license": "Public domain",
+            "source": "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_(1-E-939).jpg"
+          }
+        },
+        {
+          "title": "Kasachstan: Saka-Hirsch nach den Skizzen eines Forschers von 1856 wiedergefunden",
+          "lead": "Eine russisch-kasachische Expedition hat Felsbilder im Koksu-Tal wiederentdeckt, die der Geograf Pjotr Semjonow-Tjan-Schanski 1856 in sein Reisetagebuch gezeichnet hatte. Darunter ist ein großer Hirsch im Stil der frühen Saka-Kunst.",
+          "body": [
+            "Im August 1856 reiste Semjonow-Tjan-Schanski durch das Koksu-Tal in der historischen Region Siebenstromland im Südosten des heutigen Kasachstans. Er hörte von seltsamen Zeichen auf einem Felsen, verließ seine Route und fand Tierfiguren, die er skizzierte, ohne ihr Alter oder ihre Bedeutung zu kennen. Wo genau der Felsen lag, war später nicht mehr bekannt.",
+            "Eine gemeinsame Expedition des Archäologischen Instituts der Russischen Akademie der Wissenschaften und des kasachischen Museumsreservats Tanbaly hat die Stelle nun gefunden. Der Archäologe Alexej Rogoschinski berichtet, die einfachen Skizzen hätten erstaunlich genau mit den erhaltenen Felsbildern übereingestimmt; selbst die Landschaftsbeschreibungen im Tagebuch halfen bei der Suche. Erstmals ist der Ort nun exakt bestimmt und mit modernen Methoden dokumentiert.",
+            "Hervor sticht ein großer Hirsch mit ungewöhnlich hohem, verzweigtem Geweih, eingeritzt in einen gewaltigen Felsblock. Elena Lewanowa vom Paleoart-Zentrum der Akademie verweist auf die Ähnlichkeit mit Tierbildern der Saka aus Kasachstan und Tuwa und mit Motiven aus dem Schatz von Schalauly. Andere Figuren wie Wildziegen und Schafe stammen aus verschiedenen Epochen von der frühen Eisenzeit bis ins Mittelalter. Wegen seiner Größe könnte der Felsen den Saka-Nomaden als Verehrungsort gedient haben, das ist allerdings nicht belegt.",
+            "Die Expedition folgte auch dem historischen Weg zum buddhistischen Heiligtum Tamgaly-Tas am Ili, dessen Bilder und Inschriften aus dem 17. und 18. Jahrhundert stammen. Dort verglichen die Forscher Zeichnungen des Malers Pawel Koscharow, der Semjonow 1857 begleitete, mit dem heutigen Zustand."
+          ],
+          "highlight": "Der Archäologe Alexej Rogoschinski berichtet, die einfachen Skizzen hätten erstaunlich genau mit den erhaltenen Felsbildern übereingestimmt",
+          "assessment": [
+            "Eine Geschichte, die zeigt, wie wertvoll alte Reiseberichte für die Archäologie sind. Semjonow war kein Archäologe, aber ein genauer Beobachter, und 170 Jahre später führt seine Neugier zurück an den richtigen Felsen.",
+            "Der eigentliche Ertrag liegt in der Dokumentation: Man kann jetzt vergleichen, wie sich die Bilder seit 1856 verändert haben, und den Hirsch in die Saka-Kunst einordnen. Spektakulär ist das nicht, aber genau aus solchen sorgfältigen Schritten entsteht Wissen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/ancient-saka-deer-carving-rediscovered-in-kazakhstan-using-a-19th-century-explorers-drawings/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/single-ancient-petroglyph-scaled.jpg",
+            "alt": "Felsblock mit einem einzelnen alten Petroglyphen im Koksu-Tal",
+            "credit": "Institut für Archäologie, Russische Akademie der Wissenschaften",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/ancient-saka-deer-carving-rediscovered-in-kazakhstan-using-a-19th-century-explorers-drawings/"
+          }
+        }
+      ]
+    }
+  ]
+}

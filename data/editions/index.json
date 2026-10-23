@@ -1,5 +1,31 @@
 [
   {
+    "nr": 17,
+    "date": "2026-10-23",
+    "updated": "2026-10-23T08:50:20+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "PHP2Shell: Von KI gefundene Lücken legen weltweit Websites lahm",
+      "Google DeepMind: Forscher kündigen wegen der Militärverträge",
+      "Claude Duet: Anthropic startet einen Agenten, der von selbst arbeitet",
+      "Micron: Gewerkschaft in Taoyuan streikt symbolisch um den KI-Gewinn",
+      "Nach der BioWare-Schließung: Trailer zum gestrichenen Mass Effect geleakt",
+      "Capcom: Daten von über elf Millionen Konten abgeflossen",
+      "Bericht: DICE und Respawn arbeiten gemeinsam an Star Wars: Battlefront 3",
+      "US-Verkäufe im September: Wolverine vorn, PS5 legt zu, Xbox auf Rekordtief",
+      "Sakurai: KI wird Steam fluten, echte Kreativität wird wertvoller",
+      "Troja: Erstes Musikinstrument nach über 160 Jahren Grabungen",
+      "Alte DNA aus Spanien: Rom veränderte die Bevölkerung stärker als die Germanen",
+      "Goldplättchen aus Georgien: Belieferte ein Kaufmann von der Krim Roms Legionen?",
+      "Vergessenes Schrödinger-Manuskript: Der Zufall der Quantenwelt ist nicht beweisbar",
+      "Kasachstan: Saka-Hirsch nach den Skizzen eines Forschers von 1856 wiedergefunden"
+    ]
+  },
+  {
     "nr": 16,
     "date": "2026-10-22",
     "updated": "2026-10-22T08:47:49+02:00",
