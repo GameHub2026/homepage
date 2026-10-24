@@ -1,5 +1,31 @@
 [
   {
+    "nr": 18,
+    "date": "2026-10-24",
+    "updated": "2026-10-24T08:47:26+02:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Microsofts Diagnose-KI löst schwierige Fälle mehr als doppelt so oft wie Hausärzte",
+      "Claude beweist für 123 Open-Source-Bibliotheken, dass sie nicht abstürzen",
+      "OpenAI verhandelt über 30 Milliarden Dollar bei 1,25 Billionen Bewertung",
+      "Mit KI-Agenten: Microsoft-Forscher lösen 31 Jahre alte KLS-Vermutung",
+      "Arkane hat bis zum 13. November Zeit, einen Käufer zu finden",
+      "Xbox wollte von Netflix 800 Millionen Dollar für seine bekanntesten Figuren",
+      "„HLX“: Valve-Komponist nennt auf der Bühne den Codenamen des nächsten Half-Life",
+      "Miyamoto: KI macht menschliche Kreativität nicht überflüssig, eher wichtiger",
+      "Beyond Good & Evil 2 ist nach 18 Jahren angeblich noch in der Vorproduktion",
+      "Fingerabdrücke zeigen: Auch Frauen und Kinder bauten an der Terrakotta-Armee",
+      "Ake: Maya lebten noch Jahrhunderte in den Ruinen ihrer zerfallenen Stadt",
+      "Abauntz: Erste Neandertaler-Knochen aus Navarra enthalten noch alte DNA",
+      "Çayönü: 9000 Jahre alte Kupferwerkstatt in Südostanatolien",
+      "Kültepe-Kaneš: Erstes Mosaik in der alten Handelsstadt entdeckt"
+    ]
+  },
+  {
     "nr": 17,
     "date": "2026-10-23",
     "updated": "2026-10-23T08:50:20+02:00",

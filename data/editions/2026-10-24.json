@@ -1,0 +1,429 @@
+{
+  "nr": 18,
+  "date": "2026-10-24",
+  "intro": "Heute geht es um KI als Werkzeug, das wirklich etwas leistet: Microsofts Diagnosesystem schlägt Hausärzte, Claude beweist Bibliotheken absturzsicher, und Mathematiker lösen mit Agenten ein 31 Jahre altes Problem. Im Gaming-Teil kämpft Arkane ums Überleben, Xbox pokert mit Netflix, und Half-Life 3 geistert wieder durch die Gerüchteküche. Die Geschichte erzählt von Kindern an der Terrakotta-Armee, Maya in den Ruinen von Ake und einem der letzten Neandertaler der Pyrenäen.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Microsofts Diagnose-KI löst schwierige Fälle mehr als doppelt so oft wie Hausärzte",
+          "lead": "In einer in Science veröffentlichten Studie stellt Microsofts System MAI-DxO bei komplexen Fallberichten in 83 Prozent der Fälle die richtige Diagnose. Hausärzte und Internisten kamen im selben Versuch auf 36 Prozent. Die Zahlen zeigen aber auch, wie viel vom Fortschritt einfach aus den besseren Sprachmodellen kommt.",
+          "body": [
+            "Microsoft AI hat am Donnerstag in der Fachzeitschrift Science eine Studie zu seinem Diagnosesystem MAI-DxO, kurz DxO, veröffentlicht. Das System koordiniert mehrere KI-Agenten, die sich wie ein Ärztegremium verhalten: Sie befragen einen simulierten Patienten, ordnen Untersuchungen an und diskutieren, welche Diagnose am besten passt. Getestet wurde mit besonders schwierigen Fallberichten aus dem New England Journal of Medicine, die als Simulation nachgespielt wurden.",
+            "DxO kam auf eine Trefferquote von 83 Prozent. Hausärzte und Allgemeininternisten, die einzeln und mit Nachschlagewerken arbeiteten, lagen bei 36 Prozent. Microsoft-AI-Chef Mustafa Suleyman nennt das einen Schritt in Richtung „medizinischer Superintelligenz“. Ein wichtiger Vorbehalt steht allerdings schon im Studiendesign: Fälle dieser Schwierigkeit landen im echten Leben meist bei Spezialisten oder ganzen Ärzteteams, und die waren nicht Teil des Vergleichs.",
+            "Aufschlussreich sind die Zahlen zu den einzelnen Modellen. Getestet wurden Modelle von OpenAI, Google, Anthropic, Meta und DeepSeek, am besten schnitten GPT-5 und GPT-5.5 ab. GPT-5 allein kam mit einer kurzen Standardanweisung schon auf 78,9 Prozent, bei Kosten von rund 8400 Dollar an simulierten Untersuchungen pro Fall; mit DxO stieg die Quote um etwa vier Punkte, und die Kosten sanken um rund 3000 Dollar. GPT-5.5 allein erreichte 72 Prozent, mit DxO fast 87 Prozent. Bei Googles kleinerem Gemini 2.5 Flash stieg die Quote von 46,4 auf knapp 69 Prozent. Der Abstand zwischen schwachen und starken Modellen ist damit größer als der Gewinn durch Microsofts Orchestrierung. Bei Fällen aus der Notaufnahme brachte DxO kaum etwas: GPT-5.5 lag mit und ohne das System bei rund 85 Prozent.",
+            "Microsoft will das System nun in die Praxis bringen. Mit dem Beth Israel Deaconess Medical Center in Boston startet eine Partnerschaft, in der Patienten normal behandelt werden und zustimmende Patienten zusätzlich mit DxO sprechen; dessen Empfehlungen werden mit denen der Ärzte verglichen. Mit der Mayo Clinic trainiert Microsoft ein medizinisches Grundmodell, das im nächsten Jahr erscheinen soll. Suleyman erwartet, dass medizinische KI innerhalb von 24 bis 36 Monaten „eine Größenordnung besser“ wird.",
+            "Die Konkurrenz ist nah dran: Google hat diesen Monat mit demselben Bostoner Klinikum in The Lancet eine Studie zu seinem System AMIE veröffentlicht, das in echten Notfallsprechstunden unter ärztlicher Aufsicht getestet wurde. Suleyman und sein Gesundheitschef Dominic King kennen sich aus DeepMind-Zeiten, wo sie gemeinsam DeepMind Health gegründet haben."
+          ],
+          "highlight": "Der Abstand zwischen schwachen und starken Modellen ist damit größer als der Gewinn durch Microsofts Orchestrierung.",
+          "assessment": [
+            "Die Schlagzeile „doppelt so gut wie Ärzte“ ist die schwächste Aussage der Studie. Verglichen wurden Allgemeinmediziner allein mit Rätselfällen, für die im Alltag niemand einen Hausarzt allein lässt. Interessanter ist die Tabelle darunter: Ein nacktes Spitzenmodell mit einer simplen Anweisung kommt schon fast auf das Niveau des aufwendigen Agentensystems.",
+            "Für Microsoft ist das unbequem, denn das eigene Produkt ist vor allem eine Schicht über fremden Modellen, und die liefern den Großteil des Fortschritts. Der eigentliche Prüfstein ist der Versuch in Boston mit echten Patienten. Erst dort zeigt sich, ob das System im Klinikalltag mit unvollständigen Angaben und Zeitdruck noch so gut aussieht wie im Labor."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+            "alt": "Mustafa Suleyman, Chef von Microsoft AI",
+            "credit": "Stefan Wermuth/Bloomberg / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+          }
+        },
+        {
+          "title": "Claude beweist für 123 Open-Source-Bibliotheken, dass sie nicht abstürzen",
+          "lead": "Anthropic hat gemeinsam mit der Firma Theorem Claude formale Sicherheitsbeweise auf Maschinencode-Ebene schreiben lassen, für 123 Bibliotheken aus Googles OSS-Fuzz. Dabei tauchten Hunderte Fehler auf, manche jahrelang unentdeckt.",
+          "body": [
+            "Das Frontier Red Team von Anthropic hat am 22. Oktober eine Arbeit zur formalen Verifikation mit Sprachmodellen veröffentlicht. Claude bewies darin Sicherheitseigenschaften nicht am Quelltext, sondern am fertig übersetzten RISC-V-Maschinencode realer Open-Source-Bibliotheken. Insgesamt ging es um 123 Bibliotheken und 239 Einstiegspunkte von Fuzz-Tests aus Googles Projekt OSS-Fuzz. Anthropic beschreibt das als den ersten großflächigen Einsatz von KI für formale Verifikation von Produktionssoftware auf Assembler-Ebene.",
+            "Bewiesen wurde für jeden Einstiegspunkt, dass das Programm bei keiner Eingabe unter 64 Megabyte abstürzt, also weder Speicherfehler noch fehlgeschlagene Prüfungen auftreten. Die Beweise gelten unter klaren Annahmen: ein einzelner Thread, statisch gelinkt, festes Speicherbudget, RISC-V-Prozessor, Linux. Claude schrieb die Beweise, geprüft wurden sie vom Beweisprüfer Rocq. Wer dem Ergebnis trauen will, muss also nur den Modellen der Maschine, den Aussagen der Sätze und dem Prüfer vertrauen, nicht Claude. Scheiterte ein Beweis, flickte Claude den Code und bewies von vorn. Damit das Modell nicht schummelt, etwa indem es Code so umschreibt, dass er trivialerweise nie abstürzt, wurden Änderungen bestraft, protokolliert und geprüft.",
+            "Der Umfang ist enorm: In wenigen Wochen entstanden rund 180 Millionen Zeilen Rocq, ein typischer Beweis hat etwa 600.000 Zeilen. Bei den Beweisversuchen tauchten Hunderte Fehler auf. Darunter ein Zählerunterlauf in einem Dekompressor, der nur bei rund 20 Megabyte großen Eingaben und einer seltenen Speicheranordnung zu einem Schreibzugriff außerhalb des Puffers führt, ein Lesefehler in einem Bilddecoder, der 64 Megabyte Eingabe und über 2 Gigabyte Speicher braucht, und eine erneute Entdeckung einer bekannten Lücke in libexpat. In einem PDF-Leser fanden die Versuche in einer Woche so viele Sicherheitsfehler, wie sonst in einem Jahr gemeldet werden.",
+            "Anthropic nennt auch die Grenzen deutlich. Formal verifiziert heißt nicht fehlerfrei, denn Fehler können in den vertrauten Modellen, im Prüfer oder in Hardware und Compiler stecken. Vor allem gelten die Beweise für statisch gelinkte RISC-V-Programme, während die meisten Nutzer dynamisch gelinkte Versionen auf x86 oder ARM einsetzen. Kosten bleiben ein Hindernis, einzelne Beweise verschlingen Hunderte Millionen Tokens. Opus 5.5 schaffte die Hälfte von 36 kleinen Testaufgaben mit rund 40 Prozent weniger Tokens als Opus 5. Ein Teil der Beweise und die Maschinenmodelle sind veröffentlicht, Beweise, die ungepatchte Fehler verraten könnten, wurden zurückgehalten."
+          ],
+          "highlight": "Wer dem Ergebnis trauen will, muss also nur den Modellen der Maschine, den Aussagen der Sätze und dem Prüfer vertrauen, nicht Claude.",
+          "assessment": [
+            "Nach einer Woche, in der von KI gefundene PHP-Lücken halbe Regierungsportale offline gezwungen haben, ist das die passende Gegenbewegung. Fehler finden kann KI inzwischen schneller, als Menschen sie beheben. Beweise, dass ein Stück Code eine ganze Fehlerklasse nicht hat, sind das einzige Mittel, das nicht im selben Wettlauf steckt.",
+            "Der Trick liegt darin, dass man der KI nicht glauben muss. Ein mechanischer Prüfer kontrolliert jeden Schritt. Bis daraus Alltag wird, ist es aber noch weit: Die Beweise gelten für eine Bauweise, die kaum jemand ausliefert, und kosten so viel Rechenzeit, dass sie vorerst nur für die kritischsten Bibliotheken infrage kommen."
+          ],
+          "sources": [
+            {
+              "name": "Anthropic",
+              "url": "https://www.anthropic.com/research/formal-verification"
+            }
+          ],
+          "image": {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
+            "alt": "Illustration mit handgezeichneten Geometriediagrammen auf grünem und verstreuten Punkten auf rotem Grund",
+            "credit": "Anthropic",
+            "license": "Artikelbild Anthropic",
+            "source": "https://www.anthropic.com/research/formal-verification"
+          }
+        },
+        {
+          "title": "OpenAI verhandelt über 30 Milliarden Dollar bei 1,25 Billionen Bewertung",
+          "lead": "Statt sofort an die Börse zu gehen, sammelt OpenAI laut Berichten noch einmal privat Geld ein. Angeführt werden soll die Runde von Coatue und Investoren aus den Vereinigten Arabischen Emiraten.",
+          "body": [
+            "OpenAI steht laut einem Bericht von CNBC, den TechCrunch aufgreift, kurz vor einer neuen privaten Finanzierungsrunde über bis zu 30 Milliarden Dollar. Die Bewertung vor dem Geldzufluss soll bei 1,25 Billionen Dollar liegen. Angeführt werde die Runde vom Investmentfonds Coatue und von Geldgebern aus den Vereinigten Arabischen Emiraten. Die Bedingungen werden noch verhandelt und können sich ändern. OpenAI wollte sich nicht äußern.",
+            "Laut CNBC könnte das Geld aus den Emiraten mit einem Abkommen verbunden werden, das OpenAI zusätzliche Rechenkapazität in dem Golfstaat sichert. Ende September hatte Bloomberg noch von 30 Milliarden bei einer Bewertung von 1,4 Billionen Dollar berichtet. Läge der Wert am Ende über einer Billion, wäre das die höchste Bewertung, die je ein Unternehmen in privater Hand erreicht hat.",
+            "Zum Vergleich: Im März war OpenAI nach einer Finanzierungsrunde mit 852 Milliarden Dollar bewertet worden. Im Juni reichte das Unternehmen vertraulich Unterlagen für einen Börsengang ein, ein Termin ist nicht bekannt. Eine noch höhere Bewertung legt die Latte für den Börsengang höher, weil Anleger später mindestens diesen Wert sehen wollen.",
+            "Anthropic gilt als näher am Börsengang. Das Unternehmen sammelte im Mai 65 Milliarden Dollar bei einer Bewertung von 965 Milliarden ein; laut CNBC strebt es für den Börsengang 1,5 bis 2 Billionen Dollar an."
+          ],
+          "highlight": "Läge der Wert am Ende über einer Billion, wäre das die höchste Bewertung, die je ein Unternehmen in privater Hand erreicht hat.",
+          "assessment": [
+            "Dass die Bewertung gegenüber den Gesprächen im September eher gesunken ist, ist die eigentliche Nachricht. Die Zeiten, in denen jede Runde automatisch höher lag als die letzte, scheinen vorbei, zumal Anthropic beim Umsatz aufgeholt hat und zuerst an die Börse will.",
+            "Die Kopplung an Rechenzentren in den Emiraten zeigt, worum es geht: Geld allein reicht nicht, OpenAI braucht Strom und Chips, und die gibt es dort, wo Staaten sie bereitstellen. Das macht das Unternehmen unabhängiger von Microsoft, aber abhängiger von einer Golfmonarchie."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+            "alt": "OpenAI-Chef Sam Altman",
+            "credit": "TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+          }
+        },
+        {
+          "title": "Mit KI-Agenten: Microsoft-Forscher lösen 31 Jahre alte KLS-Vermutung",
+          "lead": "Xinzhi Zhang von Microsoft Research und Zhao Song haben die Kannan-Lovász-Simonovits-Vermutung bewiesen, ein zentrales offenes Problem der hochdimensionalen Geometrie. Parallel arbeitende KI-Agenten erkundeten dabei rund hundert Lösungswege.",
+          "body": [
+            "Die KLS-Vermutung stammt aus dem Jahr 1995. Sie besagt vereinfacht, dass sich bestimmte Wahrscheinlichkeitsverteilungen in beliebig vielen Dimensionen immer ungefähr gleich gut durch einen flachen Schnitt in zwei Hälften teilen lassen, unabhängig von der Dimension. Das ist mehr als eine Kuriosität: Davon hängt ab, wie schnell Zufallsverfahren solche Verteilungen erkunden, etwa bei der Berechnung von Volumen oder beim Stichprobenziehen. Die bisher beste Schranke von Brayden Letwin aus dem Juli 2026 wuchs noch mit der Dimension.",
+            "Xinzhi Zhang, Forscher in der Gruppe für maschinelles Lernen und Optimierung bei Microsoft Research, und Zhao Song haben nun gezeigt, dass die entscheidende Konstante tatsächlich durch eine feste Zahl begrenzt ist. Ihr 140 Seiten langes Paper erschien Anfang Oktober auf arXiv. Der Weg dorthin war ein von Menschen gesteuerter Agentenprozess: Parallel arbeitende KI-Agenten probierten Varianten aus, die Forscher prüften Zwischenergebnisse und verwarfen Sackgassen. Rund hundert Forschungspfade wurden durchgegangen, viele mit langen Tensorrechnungen, bevor ein neues Kriterium auftauchte, das sich rekursiv anwenden ließ.",
+            "Die KI half laut dem Bericht bei Erkundung, Herleitungen, Manuskript und internen Kontrollen, die Richtung setzten und den Beweis prüften die Forscher. Versuche, das Problem von mehreren führenden KI-Modellen ohne Anleitung lösen zu lassen, scheiterten.",
+            "Bemerkenswert ist, wie schnell die Fachwelt nachzog. Die Mathematiker Bizeul, Klartag und Lehec veröffentlichten wenige Tage später einen unabhängigen, 32-seitigen Beweis, der ausdrücklich auf dem neuen Kriterium von Song und Zhang aufbaut. Ein weiteres Team legte einen deterministischen Beweis mit einer expliziten Schranke von 25 vor. Eine Formalisierung im Beweisassistenten Lean 4 bestätigt eine dimensionsunabhängige Schranke von höchstens 500."
+          ],
+          "highlight": "Versuche, das Problem von mehreren führenden KI-Modellen ohne Anleitung lösen zu lassen, scheiterten.",
+          "assessment": [
+            "Das ist das bisher überzeugendste Beispiel dafür, wie KI in der Spitzenmathematik tatsächlich hilft: nicht als Orakel, sondern als Heer von Doktoranden, das hundert Ansätze durchrechnet, während Menschen entscheiden, welcher weiterverfolgt wird. Dass die Modelle allein scheiterten, ist dabei die ehrlichste Zeile des Berichts.",
+            "Glaubwürdig wird das Ergebnis durch die unabhängigen Beweise und die Lean-Formalisierung. Wer an KI-Mathematik zweifelt, findet hier wenig Angriffsfläche. Wer auf die autonome KI-Mathematikerin wartet, muss sich weiter gedulden."
+          ],
+          "sources": [
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/microsoft-researcher-and-collaborator-prove-31-year-old-kls-conjecture/"
+            }
+          ],
+          "image": {
+            "url": "https://www.unite.ai/wp-content/uploads/2026/10/microsoft-researcher-collaborator-prove-kls-conjecture.jpg",
+            "alt": "Symbolbild zum Beweis der KLS-Vermutung",
+            "credit": "Unite.AI",
+            "license": "Artikelbild Unite.AI",
+            "source": "https://www.unite.ai/microsoft-researcher-and-collaborator-prove-31-year-old-kls-conjecture/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Arkane hat bis zum 13. November Zeit, einen Käufer zu finden",
+          "lead": "Laut Le Monde schließt Microsoft das Dishonored-Studio, wenn sich bis Mitte November kein neuer Eigentümer findet. Über 200 Stellen und das fast fertige Marvel's Blade stehen auf dem Spiel.",
+          "body": [
+            "Arkane Studios in Lyon hat nach einem Bericht der französischen Zeitung Le Monde bis zum 13. November Zeit, einen Käufer zu finden. Andernfalls werde das Studio geschlossen. Die Entwickler prüfen demnach mehrere Formen einer Übernahme, wie es ausgeht, ist offen. Mehr als 200 Arbeitsplätze wären betroffen. Microsoft hatte schon im Sommer angekündigt, sich von dem Studio zu trennen.",
+            "Die Gewerkschaft Printemps Ecologique, die Beschäftigte von Arkane vertritt, sagt, das aktuelle Projekt Marvel's Blade sei fast fertig. Es nie zu veröffentlichen wäre eine „monumentale Verschwendung“. Blade war bei den Game Awards 2023 angekündigt worden. Microsoft erklärte gegenüber Le Monde, man suche „aktiv einen Partner, der die nächste Entwicklungsphase unterstützt“. Ob Microsoft das Spiel notfalls selbst fertigstellt, ließ das Unternehmen offen.",
+            "Arkane gehört zu den Studios, die Microsoft in diesem Jahr bei großen Entlassungsrunden aufgegeben hat. Undead Labs, das an State of Decay 3 arbeitet, ist inzwischen unabhängig. Ninja Theory fand dagegen keinen Retter und entlässt Personal; was aus dem dritten Hellblade-Spiel wird, ist unklar.",
+            "Arkane hat Dishonored, Dishonored 2 und Death of the Outsider entwickelt und an den Wolfenstein-Spielen mitgearbeitet. Das letzte eigene Spiel war Deathloop von 2021. Dishonored-Macher Harvey Smith hat bereits ein neues Studio mit ehemaligen Arkane-Leuten gegründet."
+          ],
+          "highlight": "Die Gewerkschaft Printemps Ecologique, die Beschäftigte von Arkane vertritt, sagt, das aktuelle Projekt Marvel's Blade sei fast fertig.",
+          "assessment": [
+            "Ein fast fertiges Marvel-Spiel einzustampfen, ist selbst für eine Branche im Sparmodus ein starkes Stück. Dass Microsoft nicht einmal zusagt, Blade selbst zu Ende zu bringen, zeigt, wie radikal Xbox gerade ausmistet.",
+            "Die Frist ist knapp, aber nicht hoffnungslos: Undead Labs hat den Absprung geschafft, und ein Studio mit einem fast fertigen Lizenztitel ist für einen Käufer attraktiver als eines mit leeren Händen. Entscheidend wird sein, ob Disney die Blade-Lizenz mitwandern lässt."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/07/Blade.jpg",
+            "alt": "Szene aus Marvel's Blade",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/"
+          }
+        },
+        {
+          "title": "Xbox wollte von Netflix 800 Millionen Dollar für seine bekanntesten Figuren",
+          "lead": "Netflix bot laut einem Bericht von Puck 500 Millionen Dollar für sieben Jahre exklusiver Serien und Filme mit Xbox-Marken. Microsoft verlangte mehr, der Deal ist geplatzt.",
+          "body": [
+            "Das Branchenblatt Puck berichtet unter Berufung auf drei Quellen, dass Netflix sich um die Rechte an Xbox-Marken bemüht hat. Geboten habe der Streamingdienst 500 Millionen Dollar für einen Vertrag über sieben Jahre, in dem Serien und Filme über Xbox-Figuren exklusiv bei Netflix erschienen wären. Xbox habe mit 800 Millionen Dollar gekontert. Der Deal sei daraufhin gescheitert.",
+            "Statt eines großen Exklusivvertrags verfolgt Xbox nun laut dem Bericht „kleinere Deals mit mehr Partnern“. Gegenüber Puck erklärte Xbox, man erlebe „rekordverdächtiges Interesse an unserem geistigen Eigentum“, und nannte Netflix einen geschätzten Partner. Als Beispiele verwies Microsoft auf die angekündigten Animationsserien zu Minecraft und Diablo. Netflix äußerte sich nicht.",
+            "Die bisher größte Xbox-Adaption war die Halo-Serie mit Paramount, die 2022 startete, im Februar 2024 eine zweite Staffel bekam und im Juli 2024 abgesetzt wurde. Netflix hat dagegen mehrere Spieleverfilmungen im Programm; gerade ist Cyberpunk: Edgerunners zurückgekehrt."
+          ],
+          "highlight": "Geboten habe der Streamingdienst 500 Millionen Dollar für einen Vertrag über sieben Jahre, in dem Serien und Filme über Xbox-Figuren exklusiv bei Netflix erschienen wären.",
+          "assessment": [
+            "Der Bericht zeigt, wie Microsoft seine Spielemarken inzwischen sieht: als Lizenzware, die außerhalb der Konsole Geld bringen soll. Mit Activision Blizzard und Bethesda gehören dazu Call of Duty, Fallout, Diablo und The Elder Scrolls, und Fallout bei Amazon hat gezeigt, was so eine Adaption wert sein kann.",
+            "Dass Microsoft lieber viele kleine Verträge abschließt, ist wohl klug. Ein einziger Partner für sieben Jahre hätte alle Marken an den Erfolg eines Hauses gebunden. Die Halo-Serie hat gezeigt, dass das schiefgehen kann."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/Xbox-Netflix.jpg",
+            "alt": "Xbox- und Netflix-Logo nebeneinander",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/"
+          }
+        },
+        {
+          "title": "„HLX“: Valve-Komponist nennt auf der Bühne den Codenamen des nächsten Half-Life",
+          "lead": "Bei einem Vortrag über Spielaudio erwähnte Valves Musikdesigner Mike Morasky nebenbei ein Projekt namens HLX. Das gilt als Codename für Half-Life 3 und befeuert die Spekulationen erneut.",
+          "body": [
+            "Mike Morasky, Musikdesigner bei Valve, sprach auf der GameSoundCon 2026 in Burbank, Kalifornien, darüber, wie Valve Ton in seine Spiele einbaut. Beim Thema HDR-Audio sagte er, Deadlock habe seine eigene HDR-Version, und „HLX hat seine eigene Version“. HLX gilt nach Insiderberichten und Funden in Spieldateien als interner Name des nächsten Half-Life-Spiels.",
+            "Insider behaupten schon länger, dass Half-Life 3 aktiv entwickelt wird und so weit ist, dass Tester es im vergangenen Sommer von Anfang bis Ende durchspielen konnten. Der YouTuber Tyler McVicker sagte im vergangenen Jahr, Half-Life 3 sei kein VR-Spiel, Valve sei in der Feinschliffphase, und das Spiel sei „von Anfang bis Ende spielbar, Punkt“.",
+            "Valve selbst hat nichts bestätigt. Dass HLX der offizielle Arbeitstitel ist, bleibt eine Annahme, die sich auf die Bühnenbemerkung und Insiderberichte stützt. Das letzte Half-Life war das VR-Spiel Half-Life: Alyx von 2020. Zum 25. Jubiläum 2023 hatte Valve das Original mit neuen Mehrspielerkarten, wiederhergestellten Inhalten und einer einstündigen Dokumentation über die Entwicklung bedacht."
+          ],
+          "highlight": "Beim Thema HDR-Audio sagte er, Deadlock habe seine eigene HDR-Version, und „HLX hat seine eigene Version“.",
+          "assessment": [
+            "Für sich genommen ist ein Satz in einem Audiovortrag kein Beweis für irgendetwas. Er passt aber zu allem, was seit Monaten aus dem Umfeld von Valve sickert, und er kommt von einem Mitarbeiter, nicht aus einer Datei.",
+            "Valve kündigt Spiele traditionell erst an, wenn sie fast fertig sind. Wenn die Insider recht haben, wäre jetzt ziemlich genau der Zeitpunkt dafür. Ich würde mich trotzdem auf nichts verlassen, bevor Gabe Newell es selbst sagt."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2020/01/kelly_bailey_half_life_2_episode_one_abandoned_in_place.jpg",
+            "alt": "Szene aus Half-Life 2: Episode One",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/"
+          }
+        },
+        {
+          "title": "Miyamoto: KI macht menschliche Kreativität nicht überflüssig, eher wichtiger",
+          "lead": "Bei einer Pressekonferenz zu seinem Kulturorden sprach Nintendos Shigeru Miyamoto über generative KI. Er trennt zwischen dem Erschaffen und der Arbeit danach und warnt vor einer Falle.",
+          "body": [
+            "Shigeru Miyamoto, Schöpfer von Super Mario und The Legend of Zelda und heute Creative Fellow bei Nintendo, hat Japans Kulturorden erhalten. Bei der Pressekonferenz dazu, über die das japanische Portal Game Watch berichtete, äußerte er sich ausführlich zu generativer KI. Je mehr KI vom Bauen übernehme, desto wichtiger werde die eigene Vision der Schöpfer.",
+            "Miyamoto verglich die Entwicklung mit dem Wechsel von der Schreibmaschine zum Textverarbeitungsprogramm, den seine Generation erlebt habe. Früher hätten Designer mit Fertigkeiten wie Plakatbeschriftung bestehen können. Mit dem Computer sei sichtbar geworden, was ein Designer wirklich könne, etwa ein natürliches Gespür für Layout. Generative KI sei eine ähnliche Verschiebung.",
+            "Er unterscheidet zwischen dem Erschaffen, das mit einer groben Struktur beginnt, und der Arbeit danach, dem Füllen von Lücken und Verfeinern von Details. Gerade hier sieht er eine Gefahr: „Das Knifflige ist, dass diese Arbeit eigentlich ziemlich viel Spaß machen kann.“ Mit sinkenden Einstiegshürden könnten manche Entwickler die Befriedigung des Bauens damit verwechseln, etwas Gutes gemacht zu haben. Je mehr KI solche Aufgaben übernehme, desto mehr biete sie die Gelegenheit, darüber nachzudenken, was wirklich wichtig ist.",
+            "Kopierte Designs überdauerten selten, weil ihnen die Absicht ihres Schöpfers fehle. Da das Erschaffen von individueller Absicht abhänge, werde „immer eine Rolle für uns übrig bleiben“, selbst wenn KI irgendwann alles andere erledige. Ob Nintendo selbst generative KI einsetzt, hat das Unternehmen nicht öffentlich bestätigt. Präsident Shuntaro Furukawa hatte das kreative Potenzial anerkannt, aber vor Risiken für geistiges Eigentum gewarnt."
+          ],
+          "highlight": "Mit sinkenden Einstiegshürden könnten manche Entwickler die Befriedigung des Bauens damit verwechseln, etwas Gutes gemacht zu haben.",
+          "assessment": [
+            "Nach Sakurai am Vortag nun Miyamoto: Japans große Spieledesigner reagieren auf KI auffallend gelassen und ohne Panik, aber auch ohne Begeisterung. Miyamotos Punkt ist der klügere, weil er die eigentliche Gefahr benennt: nicht dass KI Kreative ersetzt, sondern dass sie Menschen beschäftigt hält, die das Ausfüllen mit dem Erfinden verwechseln.",
+            "Bemerkenswert ist, was er offen lässt. Er schließt KI bei Nintendo nicht aus, er beschreibt sie als Werkzeug für die Fleißarbeit. Das klingt nach einer Firma, die sich die Tür offenhält."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/miyamoto37.jpg",
+            "alt": "Shigeru Miyamoto",
+            "credit": "Game Watch / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/"
+          }
+        },
+        {
+          "title": "Beyond Good & Evil 2 ist nach 18 Jahren angeblich noch in der Vorproduktion",
+          "lead": "Laut dem französischen Portal Origami weiß das Team bei Ubisoft Montpellier immer noch nicht genau, was für ein Spiel es werden soll. Die Vision wechselte mehrfach.",
+          "body": [
+            "Beyond Good & Evil 2 wurde 2008 angekündigt und 2017 neu vorgestellt, einen Erscheinungstermin gibt es bis heute nicht. Nach einem Bericht des französischen Portals Origami, das schon die Auflösung des Teams von Prince of Persia: The Lost Crown publik gemacht hatte, steckt das Spiel noch immer in der Vorproduktion. Mehrere hundert Menschen arbeiten daran, vor allem bei Ubisoft Montpellier.",
+            "Die Vision hat sich laut den Quellen mehrfach geändert. Zwischen 2019 und 2022 sollte es ein Mehrspielerspiel mit mehreren Planeten werden, ein „dritter Ort“ zum Abhängen mit Freunden, vergleichbar mit Destiny oder Fortnite. Dann wurde daraus ein Teamspiel für vier, später für zwei Spieler. Heute soll es ein Abenteuer sein, das vor allem allein gespielt wird, mit starker Geschichte und optionalem Koop. Intern hieß es einmal „Zelda im Weltraum“, inzwischen erinnere es eher an Insomniacs Spider-Man-Spiele.",
+            "Schöpfer Michel Ancel hat Ubisoft 2020 verlassen, um sich dem Naturschutz zu widmen; 2024 machte er Streit im Management für die Probleme verantwortlich. Bisher galt das Spiel als unantastbar, durch Ubisofts Umbau und Entlassungen könnte sich das ändern. Anzeichen für eine Einstellung gibt es laut Origami aber nicht. Creative Director Fawzi Mesmar sagt, das Team sei weiter „engagiert und darauf konzentriert, ein bemerkenswertes Spiel zu liefern“."
+          ],
+          "highlight": "Heute soll es ein Abenteuer sein, das vor allem allein gespielt wird, mit starker Geschichte und optionalem Koop.",
+          "assessment": [
+            "Die Kurswechsel lesen sich wie eine Chronik der Branchenmoden: erst Live-Service à la Fortnite, als das alle wollten, jetzt Einzelspieler mit Geschichte, seit die großen Live-Service-Wetten reihenweise gescheitert sind. Ein Spiel, das nach 18 Jahren noch nicht weiß, was es sein will, wird man kaum noch retten können.",
+            "Ich wäre überrascht, wenn es in dieser Form erscheint. Bei Ubisofts Sparkurs ist es eher eine Frage der Zeit, bis jemand die Reißleine zieht."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/beyond-good-evil-2-is-still-in-pre-production-after-18-years-as-its-vision-keeps-changing-report-claims/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2019/03/Beyond-Good-and-Evil-2-feature-image.jpg",
+            "alt": "Motiv aus Beyond Good & Evil 2",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/beyond-good-evil-2-is-still-in-pre-production-after-18-years-as-its-vision-keeps-changing-report-claims/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Fingerabdrücke zeigen: Auch Frauen und Kinder bauten an der Terrakotta-Armee",
+          "lead": "Eine Studie im Journal of Cultural Heritage hat 79 Fingerabdrücke im Ton von 36 Kriegerfiguren ausgewertet. Ein beträchtlicher Teil stammt demnach nicht von erwachsenen Männern.",
+          "body": [
+            "Die Terrakotta-Armee des ersten chinesischen Kaisers Qin Shihuangdi wurde 1974 von Bauern beim Brunnenbau entdeckt, gut anderthalb Kilometer vom rund 2200 Jahre alten Grab des Kaisers entfernt. Sie umfasst etwa 8000 Soldatenfiguren mit unterschiedlichen Gesichtern, Frisuren und Rüstungen. Bisher nahmen Archäologen an, dass ausschließlich erwachsene Männer sie hergestellt haben.",
+            "Ein Team um Xiaoxi Li vom Museum der Grabanlage des Qin Shihuang hat nun Fingerabdrücke untersucht, die beim Formen in den feuchten Ton gedrückt wurden. Untersucht wurden 36 Krieger aus der Einheit T23 in Grube 1, an denen sich 91 Abdrücke fanden. Zwölf wurden ausgeschlossen, weil sie offenbar von Personen stammten, die mehrere Abdrücke hinterlassen hatten, 79 blieben übrig. 73 davon entstanden beim Formen und Zusammensetzen, vor allem an Köpfen und Armen, sechs bei der Verzierung an Nieten und Rüstungsgürteln.",
+            "Gemessen wurde der mittlere Abstand der Hautleisten, der im Kindesalter wächst und sich zwischen Männern und Frauen unterscheidet. Ein bayesianisches Mischmodell schätzte daraus die Zusammensetzung der ganzen Gruppe: etwa 45 Prozent der Abdrücke stammen von erwachsenen Männern, 32,7 Prozent von erwachsenen Frauen und 22,3 Prozent von Kindern unter 15 Jahren. Die Jugendlichen könnten Lehrlinge gewesen sein, wie sie in Texten der Qin-Zeit beschrieben werden; Inschriften auf Lackwaren der Zeit nennen zudem Frauen, Mädchen und Jungen.",
+            "„Diese Ergebnisse stellen die lange gehegte Annahme infrage, dass die Herstellung der Terrakotta-Armee ausschließlich auf der Arbeit erwachsener Männer beruhte“, sagt Li. Die Autoren betonen selbst die Grenzen: Die Prozente beschreiben Abdrücke, nicht Köpfe. Ein Arbeiter kann viele hinterlassen haben, ein anderer keinen. Die Werte von Jungen im Teenageralter und erwachsenen Frauen überlappen, und als Vergleich dienten moderne europäische Daten. Alle Abdrücke stammen zudem aus einem einzigen Bereich."
+          ],
+          "highlight": "Die Prozente beschreiben Abdrücke, nicht Köpfe.",
+          "assessment": [
+            "Die Methode ist clever und die Autoren gehen ehrlich mit ihren Grenzen um. Gerade die Überlappung zwischen jugendlichen Jungen und Frauen ist heikel: Ein Teil der vermeintlichen Frauenabdrücke könnte von Lehrlingen stammen. Die Schlagzeile „Frauen bauten die Armee“ geht deshalb zu weit.",
+            "Plausibel ist das Ergebnis trotzdem. Werkstätten in der Antike waren oft Familienbetriebe, und dass in einem Großprojekt dieser Art nur erwachsene Männer den Ton anfassten, war immer eher eine Annahme als ein Befund. Spannend wird, ob Abdrücke aus anderen Gruppen dasselbe Bild zeigen."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/23/who-crafted-chinas-terracotta-army/"
+            },
+            {
+              "name": "Ancient Origins",
+              "url": "https://www.ancient-origins.net/news-history-archaeology/terracotta-army-makers-00103280"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261023-China-Terracotta-Warriors.jpg",
+            "alt": "Kriegerfiguren der Terrakotta-Armee in Shaanxi",
+            "credit": "Laika ac/Flickr",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/23/who-crafted-chinas-terracotta-army/"
+          }
+        },
+        {
+          "title": "Ake: Maya lebten noch Jahrhunderte in den Ruinen ihrer zerfallenen Stadt",
+          "lead": "In der Maya-Stadt Ake auf Yucatán haben Archäologen Spuren von 96 kleinen Häusern gefunden. Die Stadt war nach ihrem politischen Zusammenbruch keineswegs verlassen.",
+          "body": [
+            "Ake liegt auf der Halbinsel Yucatán in Mexiko. Um das Jahr 900 lebten dort nach Angaben von Roberto Rosado-Ramirez von der University of Virginia bis zu 19.000 Menschen. Dürre, Konflikte und Gewalt führten zum politischen Umbruch und zum Ende der Stadt als Machtzentrum. Bisher ging man davon aus, dass Ake danach aufgegeben wurde.",
+            "Rosado-Ramirez und Kollegen haben nun Spuren von 96 kleinen Bauten nachgewiesen, über die sie in der Fachzeitschrift Latin American Antiquity berichten. Es waren Häuser aus Pfosten mit Strohdächern, die auf Erdhügeln innerhalb des ummauerten Stadtzentrums standen. Manche wurden direkt über alten Plätzen, Straßen und eingestürzten Gebäuden errichtet, große Steinblöcke der Monumentalbauten wurden wiederverwendet.",
+            "Keramik aus den Hügeln und einer Abfallgrube datiert die Besiedlung auf etwa 1100 bis 1550. Mahlsteine, Steinwerkzeuge, Spinnwirtel und Tierknochen zeigen den Alltag: Essen zubereiten, kochen, weben, Hausarbeit. Fünf kleine schreinartige Bauten enthielten Räuchergefäße aus Keramik, Tierfiguren und Gefäße. Die letzten Bewohner wurden vermutlich zwischen 1567 und 1580 von den Spaniern umgesiedelt."
+          ],
+          "highlight": "Manche wurden direkt über alten Plätzen, Straßen und eingestürzten Gebäuden errichtet, große Steinblöcke der Monumentalbauten wurden wiederverwendet.",
+          "assessment": [
+            "Der „Kollaps“ der Maya ist eines der zähesten Missverständnisse der Archäologie. Was zusammenbrach, waren Königtümer und ihre Prachtbauten, nicht die Menschen. Ake ist ein weiteres Beispiel dafür, dass das Leben in kleinerem Maßstab weiterging, über ein halbes Jahrtausend lang.",
+            "Dass solche Spuren so lange übersehen wurden, hat einen einfachen Grund: Pfostenhäuser hinterlassen wenig, und die Forschung hat sich lange auf Pyramiden und Inschriften konzentriert. Die Geschichte der einfachen Leute steckt oft genau in den unscheinbaren Hügeln."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/22/people-continued-to-live-in-maya-city-after-its-collapse/"
+            },
+            {
+              "name": "Latin American Antiquity",
+              "url": "https://doi.org/10.1017/laq.2026.10210"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261022-Mexico-Ake-Mound.jpg",
+            "alt": "Später Wohnhügel im Zentrum von Ake mit wiederverwendeten Steinblöcken im Fundament",
+            "credit": "Roberto Rosado-Ramirez",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/22/people-continued-to-live-in-maya-city-after-its-collapse/"
+          }
+        },
+        {
+          "title": "Abauntz: Erste Neandertaler-Knochen aus Navarra enthalten noch alte DNA",
+          "lead": "In einer Höhle in den westlichen Pyrenäen haben Forscher Handknochen eines Neandertalers gefunden. Er lebte vor rund 46.000 Jahren und gehört zu den letzten seiner Art in der Region.",
+          "body": [
+            "Forscher des katalanischen Instituts IPHES haben in der Höhle von Abauntz im Ultzama-Tal in Navarra sechs Knochenfragmente geborgen: ein Fingerglied des Mittelfingers, drei Mittelhandknochen der rechten Hand und zwei weitere Bruchstücke. Genetische Analysen zeigen, dass alle von einem einzigen männlichen Neandertaler stammen. Es sind die ersten direkten Neandertaler-Überreste aus Navarra; bisher kannte man aus der Höhle nur Steinwerkzeuge.",
+            "Die Knochen enthalten gut erhaltenes Kollagen. Das ermöglichte eine direkte Radiokarbondatierung auf rund 46.000 Jahre und die Gewinnung alter DNA. Die Proben werden nun am Max-Planck-Institut für evolutionäre Anthropologie in Leipzig und an der Universität Wien analysiert.",
+            "Einige Knochen tragen kleine Bissspuren. Die Forscher führen sie auf einen kleinen Fleischfresser zurück, der den Leichnam nach dem Tod anfraß, ähnliche Spuren finden sich an vielen Tierknochen der Fundstelle.",
+            "Die Grabungsleiter Andión Arteaga von der Universität Warschau und Mikel Arlegi vom Musée de l'Homme in Paris betonen die Lage: Abauntz liege an einem natürlichen Korridor, der beide Seiten der Pyrenäen verbindet. Weil in Europa womöglich mehrere Neandertaler-Linien nebeneinander existierten, erhoffen sie sich aus dem Genom Aufschluss über die letzten Populationen. Eine Fachveröffentlichung steht noch aus."
+          ],
+          "highlight": "Das ermöglichte eine direkte Radiokarbondatierung auf rund 46.000 Jahre und die Gewinnung alter DNA.",
+          "assessment": [
+            "Ein paar Handknochen klingen unspektakulär, aber das Kollagen macht den Fund wertvoll. Neandertaler aus der Zeit kurz vor ihrem Verschwinden mit verwertbarem Erbgut sind selten, und jeder neue Genomdatensatz hilft bei der Frage, wie zersplittert die letzten Gruppen waren.",
+            "Die Ergebnisse aus Leipzig sind der eigentliche Grund, den Fund im Blick zu behalten. Bis dahin ist es eine solide Meldung, aber noch keine Erkenntnis."
+          ],
+          "sources": [
+            {
+              "name": "IFLScience",
+              "url": "https://www.iflscience.com/neanderthal-hand-bones-rich-in-46000-year-old-ancient-dna-discovered-in-cave-in-northern-spain-84987"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/22/neanderthal-hand-bones-discovered-in-spain/"
+            }
+          ],
+          "image": {
+            "url": "https://assets.iflscience.com/assets/articleNo/84987/aImg/93202/neanderthal-meta.png",
+            "alt": "Handknochen des Neandertalers aus der Höhle von Abauntz",
+            "credit": "IPHES-CERCA / IFLScience",
+            "license": "Artikelbild IFLScience",
+            "source": "https://www.iflscience.com/neanderthal-hand-bones-rich-in-46000-year-old-ancient-dna-discovered-in-cave-in-northern-spain-84987"
+          }
+        },
+        {
+          "title": "Çayönü: 9000 Jahre alte Kupferwerkstatt in Südostanatolien",
+          "lead": "In der jungsteinzeitlichen Siedlung Çayönü bei Diyarbakır haben Archäologen einen Arbeitsplatz gefunden, an dem Malachit und Kupfer verarbeitet wurden.",
+          "body": [
+            "Çayönü Tepesi im Bezirk Ergani der Provinz Diyarbakır gehört zu den bekanntesten jungsteinzeitlichen Siedlungen der Türkei. Ein Team unter Leitung von Savaş Sarıaltun von der Universität Çanakkale Onsekiz Mart hat dort in diesem Jahr eine rund fünf Quadratmeter große Werkstatt freigelegt. Sie enthielt rohen und teilweise bearbeiteten Malachit, fertige Malachitstücke, Kupferperlen, weitere Kupferobjekte und eine mit Steinen gepflasterte Arbeitsfläche.",
+            "Mindestens sechs Pfostenlöcher am Rand deuten darauf hin, dass der Arbeitsplatz überdacht war. Im Zentrum lagen etwa 18 Malachitproben, in und um die Werkstatt 24 bis 25, im weiteren Arbeitsbereich rund 42 Funde aus Malachit und Kupfer. Die Werkstatt wird auf etwa 6900 bis 6800 vor Christus datiert. Spuren der Nutzung von Kupfer und Malachit reichen in Çayönü bis etwa 9100 vor Christus zurück.",
+            "Kulturminister Mehmet Nuri Ersoy sagte, der Fund zeige, dass die Bergbautradition dort etwa 2000 Jahre fortbestand und dass spezialisierte Produktion an bestimmten Arbeitsplätzen stattfand. Im Westteil der Grabung fand das Team außerdem hochwertige Keramik der frühen Keramischen Jungsteinzeit aus der Proto-Hassuna-Kultur, vorläufig auf 6800 bis 6600 vor Christus datiert."
+          ],
+          "highlight": "Mindestens sechs Pfostenlöcher am Rand deuten darauf hin, dass der Arbeitsplatz überdacht war.",
+          "assessment": [
+            "Kupfer in der Jungsteinzeit war kein Metall im späteren Sinn, sondern ein schöner grüner Stein, den man zu Perlen kalt hämmerte. Der Wert des Fundes liegt darin, dass er einen festen, überdachten Arbeitsplatz zeigt. Das spricht für Spezialisten, nicht für gelegentliche Bastelei.",
+            "Çayönü ist seit Jahrzehnten als einer der frühesten Orte bekannt, an denen Menschen mit Kupfer hantierten. Eine eingerichtete Werkstatt fügt dem eine soziale Dimension hinzu: Arbeitsteilung, lange bevor die eigentliche Metallzeit begann."
+          ],
+          "sources": [
+            {
+              "name": "Türkiye Today",
+              "url": "https://www.turkiyetoday.com/culture/archaeologists-in-turkiye-find-9000-year-old-copper-workshop-3230729"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/23/9000-year-old-workshop-uncovered-in-turkey/"
+            }
+          ],
+          "image": {
+            "url": "https://img.turkiyetoday.com/images/2026/10/21/archaeologists-in-turkiye-find-9000-year-old-copper-workshop-3230729_20261021093038.webp",
+            "alt": "Grabungsfläche der jungsteinzeitlichen Werkstatt in Çayönü",
+            "credit": "AA",
+            "license": "Artikelbild Türkiye Today",
+            "source": "https://www.turkiyetoday.com/culture/archaeologists-in-turkiye-find-9000-year-old-copper-workshop-3230729"
+          }
+        },
+        {
+          "title": "Kültepe-Kaneš: Erstes Mosaik in der alten Handelsstadt entdeckt",
+          "lead": "In Kültepe bei Kayseri, bekannt für sein assyrisches Handelsarchiv, haben türkische und südkoreanische Forscher einen über 2000 Jahre alten Mosaikboden freigelegt.",
+          "body": [
+            "Kültepe-Kaneš in Zentralanatolien wurde im dritten Jahrtausend vor Christus gegründet und bis in die Römerzeit bewohnt. Berühmt ist der Ort für Zehntausende Keilschrifttafeln assyrischer Kaufleute. Nun haben Forscher des türkischen Kulturministeriums, der Universität Ankara und des südkoreanischen Nationalen Forschungsinstituts für Kulturerbe dort erstmals einen Mosaikboden gefunden.",
+            "Das größte erhaltene Stück misst etwa 1,5 mal 1,5 Meter. Es lag unter vier Fundschichten, die zwischen 323 und 30 vor Christus datiert werden, also in die hellenistische Zeit zwischen Alexanders Tod und der römischen Eroberung Ägyptens. Kleinere Mosaikfragmente in der Nähe zeigen, dass der Boden einst größer war. Verlegt wurde er auf eingeebnetem Grund, darüber Schotter, feine Erde und eine Schicht kleiner Flusskiesel.",
+            "Kulturminister Mehmet Nuri Ersoy bezeichnete das Mosaik als das erste, das an der Fundstelle freigelegt wurde."
+          ],
+          "highlight": "Kulturminister Mehmet Nuri Ersoy bezeichnete das Mosaik als das erste, das an der Fundstelle freigelegt wurde.",
+          "assessment": [
+            "Kültepe verbindet man mit der Bronzezeit und den Briefen assyrischer Händler. Ein hellenistischer Kieselmosaikboden erinnert daran, dass der Ort danach noch fast zwei Jahrtausende weiterlebte und in die griechisch geprägte Welt Anatoliens eingebunden war.",
+            "Spektakulär ist der Fund nicht, aber er öffnet eine Phase der Stadt, über die weit weniger bekannt ist als über ihre Blütezeit. Die südkoreanische Beteiligung zeigt nebenbei, wie international die Archäologie in der Türkei inzwischen arbeitet."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/21/mosaic-flooring-uncovered-at-kultepe-kanesh-in-central-anatolia/"
+            },
+            {
+              "name": "Türkiye Today",
+              "url": "https://www.turkiyetoday.com/culture/turkiyes-kultepe-reveals-2000-year-old-mosaic-in-archaeological-first-3230693"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261021-Turkey-Kanesh-Aerial.jpg",
+            "alt": "Luftaufnahme der freigelegten Struktur in Kaneš",
+            "credit": "Turkish Ministry of Culture and Tourism",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/21/mosaic-flooring-uncovered-at-kultepe-kanesh-in-central-anatolia/"
+          }
+        }
+      ]
+    }
+  ]
+}
