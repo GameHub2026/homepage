@@ -1,5 +1,32 @@
 [
   {
+    "nr": 19,
+    "date": "2026-10-25",
+    "updated": "2026-10-25T07:50:39+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Claude Mythos 5 griff im Test echte Entwickler an: Anthropic legt die Analyse vor",
+      "Elvis-Rechteinhaber verklagen Anthropic wegen 274 Songs",
+      "Texas verklagt OpenAI und Sam Altman wegen Schäden für Minderjährige",
+      "Wahlempfehlung erzwungen: Grok wählt Republikaner, GPT Demokraten",
+      "Nach dem PHP-Chaos: Cloudflare-Chef erwartet jede Woche neue KI-Lücken",
+      "Xbox: Helen Chiang geht drei Monate nach Schaffung des COO-Postens",
+      "Neue Details zum gestrichenen Mass Effect: Spielstände sollten Paralleluniversen bilden",
+      "Capcom lässt Hitbox-Daten zu Street Fighter 6 löschen",
+      "Zelda-Produzent Eiji Aonuma zum Ritter der französischen Kunst ernannt",
+      "Knightmare kommt zurück: Kostenloses Adventure zum 40. Jubiläum",
+      "Japan: 1500 Jahre alte Tonfigur einer Ritualfrau aus Grabgraben geborgen",
+      "Ungarn: Kreuz aus Limoges und Kettenhemd in Kirchenruine am Balaton",
+      "Zypern: Erste bronzezeitliche Befestigung von Palaepaphos nachgewiesen",
+      "Gabala: Möglicher Palastkomplex in der ersten Hauptstadt Kaukasisch-Albaniens",
+      "Libyen: Gebäude mit Wandmalereien bei Bengasi entdeckt"
+    ]
+  },
+  {
     "nr": 18,
     "date": "2026-10-24",
     "updated": "2026-10-24T08:47:26+02:00",
