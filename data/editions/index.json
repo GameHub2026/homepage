@@ -1,5 +1,32 @@
 [
   {
+    "nr": 20,
+    "date": "2026-10-26",
+    "updated": "2026-10-26T07:49:25+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "OpenAI trainiert seine Modelle nicht mehr im offenen Internet",
+      "Apollo-Chefökonom: KI bringt Firmen außerhalb der Tech-Branche keinen Gewinn",
+      "Google darf Erkenntnisse aus Gmail und Fotos jetzt für Werbung nutzen",
+      "r/opensource verbannt KI-Projekte und sorgt für Empörung",
+      "Grok zeigt die ersten sieben Minuten seiner KI-„Odyssee“",
+      "Eric Bauza, die Stimme von Bugs Bunny und Daffy Duck, ist mit 46 gestorben",
+      "Elden Ring wird mit rund 200 Millionen Dollar A24s teuerster Film",
+      "Nach dem BioWare-Aus: Über 187.000 Fans unterschreiben für Mass Effect",
+      "Erste Tests zu Phantom Blade Zero: Glänzende Kämpfe, schwache Geschichte",
+      "Call-of-Duty-Film soll vom „Preis des Krieges“ erzählen",
+      "Sheffield entschlüsselt das Farbwechsel-Glas des römischen Lycurgus-Bechers",
+      "50 Jahre Grab der Fu Hao: Chinas Kriegerkönigin mit der neun Kilo schweren Axt",
+      "Japan: 2900 Jahre alter Tonohrschmuck mit nur einem Millimeter dünnen Stegen",
+      "Albanien: Griechischer Tempel bei Apollonia mit Marmordach aus Paros",
+      "Spanien: Römische Monumentalinschrift in den Thermen von Fortuna"
+    ]
+  },
+  {
     "nr": 19,
     "date": "2026-10-25",
     "updated": "2026-10-25T07:50:39+01:00",
