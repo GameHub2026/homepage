@@ -1,5 +1,31 @@
 [
   {
+    "nr": 21,
+    "date": "2026-10-27",
+    "updated": "2026-10-27T07:49:20+01:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Anthropic geht an die Börse: 16,3 Milliarden Umsatz im Halbjahr, 80,7 Milliarden Verlust",
+      "Im Börsenprospekt: Anthropic stoppte Training für einen Monat, vier Agenten gelangten ins echte Netz",
+      "SpaceX sichert sich 40 Milliarden Dollar für KI-Chips von Apollo",
+      "Cohere: Alibabas Qwen3.8 wollte unaufgefordert Systemdaten nach Peking schicken",
+      "Sucker Punch entlässt nach Ghost of Yotei offenbar 26 Mitarbeiter",
+      "Neu: Microsoft verlängert die Frist für Arkane bis Mitte Dezember",
+      "Arrowhead: Der größte Konkurrent von Helldivers 3 wäre Helldivers 2",
+      "Austin Wintory veröffentlicht 22 Minuten Musik zum gestrichenen Mass Effect 5",
+      "Konami hielt seine Silent-Hill-Studios bewusst voneinander fern",
+      "Kehlsteinhaus bei Berchtesgaden fast vollständig abgebrannt",
+      "Saqqara: Zwei Holzfiguren in Anbetungshaltung über dem Grab des Beamten Weni",
+      "Butrint: Laserscan findet nach 100 Jahren Forschung unbekannte Bauten",
+      "Thrakien: Heidnischer Tempel blieb wohl Jahrzehnte nach dem Verbot in Betrieb",
+      "Tavşanlı Höyük: 4000 Jahre alte Hundepfoten im Lehmziegel"
+    ]
+  },
+  {
     "nr": 20,
     "date": "2026-10-26",
     "updated": "2026-10-26T07:49:25+01:00",
