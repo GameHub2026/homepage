@@ -1,5 +1,30 @@
 [
   {
+    "nr": 22,
+    "date": "2026-10-28",
+    "updated": "2026-10-28T07:49:06+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "geschichte": 4
+    },
+    "titles": [
+      "OpenAI meldet drei Durchbrüche in Mathematik, Informatik und Physik, geprüft ist noch keiner",
+      "GPT-6.1 Terra: OpenAIs schnelles Agentenmodell zum halben Preis, mit Schwächen im Sicherheitstest",
+      "Niederlande streichen 25.000 Stellen im Staatsdienst und setzen auf KI",
+      "Cloudflare: Fremde Prompt-Daten landeten in 155 KI-Antworten",
+      "Genie 4: Google DeepMind simuliert begehbare Welten jetzt mit Ton und Dialog",
+      "Rockstar-Belegschaft stimmt über Gewerkschaft ab, mitten im GTA-VI-Start",
+      "Cyberangriff auf Warhorse Studios, die Macher von Kingdom Come",
+      "Epic will KI-Training mit Unreal-Engine-Inhalten erlauben",
+      "Nightdive-Chef: Wer gekaufte Studios umkrempelt, führt sie in den Untergang",
+      "Proteine zeigen: Die Xujiayao-Fossilien aus China stammen von Denisovanern",
+      "Sanxingdui: Seidenreste auf 3000 Jahre alten Bronzemasken",
+      "Teos: Vor 2200 Jahren verdienten Musiklehrer am meisten",
+      "Lettland: Erste Unterwassergrabung findet Inselsiedlung und bis zu 11.000 Jahre alte Fischspeerspitze"
+    ]
+  },
+  {
     "nr": 21,
     "date": "2026-10-27",
     "updated": "2026-10-27T07:49:20+01:00",
