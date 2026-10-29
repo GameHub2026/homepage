@@ -1,5 +1,29 @@
 [
   {
+    "nr": 23,
+    "date": "2026-10-29",
+    "updated": "2026-10-29T07:50:05+01:00",
+    "counts": {
+      "ki": 4,
+      "gaming": 4,
+      "geschichte": 4
+    },
+    "titles": [
+      "OpenAI will Googles TPU-Chips kaufen, nicht mehr nur mieten",
+      "KI-Agenten formalisieren den „Enormous Theorem“ in 24 Tagen und finden eine Lücke im Originalbeweis",
+      "Microsoft bietet 60.000 Beschäftigten Abfindungen an, um KI-Ausgaben auszugleichen",
+      "Anthropic legt erste Ergebnisse aus der Medikamentenforschung mit Claude vor",
+      "Modern Warfare 4 zeigt echte Aufnahmen der Itaewon-Katastrophe, Hinterbliebene fordern Entfernung",
+      "Valve will KI-Spiele auf Steam nicht aussieben, räumt aber ein Sichtbarkeitsproblem ein",
+      "Pokémon Unite wird am 23. März 2027 abgeschaltet",
+      "Bericht: Bloobers Remake des ersten Silent Hill soll 2027 erscheinen",
+      "La Almoloya: Bronzezeitliche Mauer mit sechs Türmen auf dem Klippenplateau",
+      "Kasachstan: 2000 Jahre alter Puder enthielt vermutlich Zimt aus Indien",
+      "Ukraine: Emaillierter Gürtel aus der Römerzeit im Wald bei Czernowitz",
+      "Serbien: Slawische Grubenhäuser mit unterirdischen Nischen im Banat"
+    ]
+  },
+  {
     "nr": 22,
     "date": "2026-10-28",
     "updated": "2026-10-28T07:49:06+01:00",

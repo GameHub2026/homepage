@@ -1,0 +1,332 @@
+{
+  "nr": 23,
+  "date": "2026-10-29",
+  "intro": "OpenAI will offenbar Googles KI-Chips kaufen statt nur mieten, und KI-Agenten haben den längsten Beweis der Mathematikgeschichte in eine maschinell prüfbare Form gebracht. Im Gaming-Kapitel geht es um echte Bilder einer Katastrophe in Call of Duty, Valves Haltung zu KI-Spielen auf Steam und das Ende von Pokémon Unite. Die Geschichte führt in eine bronzezeitliche Festung in Spanien, zu 2000 Jahre alter Schminke aus Kasachstan, einem Gürtel aus dem ukrainischen Wald und in slawische Grubenhäuser im Banat.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "OpenAI will Googles TPU-Chips kaufen, nicht mehr nur mieten",
+          "lead": "Laut The Information plant OpenAI, Tensor Processing Units von Google zu erwerben. Es wäre der bislang deutlichste Schritt weg von der Abhängigkeit von Nvidia.",
+          "body": [
+            "OpenAI plant nach einem Bericht von The Information, Googles KI-Prozessoren zu kaufen. Das Magazin beruft sich auf eine nicht namentlich genannte Person, die mit der Sache vertraut sei. Reuters griff den Bericht am 28. Oktober auf. OpenAI wollte sich auf Nachfrage nicht äußern, Google antwortete zunächst nicht. Preis, Stückzahl, Chipgeneration und Lieferzeitraum sind nicht bekannt.",
+            "Neu ist vor allem der Schritt vom Mieten zum Besitzen. Reuters hatte schon im Juni 2025 berichtet, dass OpenAI Rechenzeit auf Googles TPUs mietet, damals erklärte das Unternehmen aber, es habe keine aktiven Pläne, die Chips in seinen Produkten einzusetzen. Ein Kauf würde bedeuten, dass die Hardware in Rechenzentren steht, die OpenAI selbst betreibt oder kontrolliert.",
+            "Google verkauft seine TPUs erst seit Kurzem überhaupt direkt. Im April kündigte der Konzern an, die Hardware an eine kleine Gruppe von Kunden abzugeben, die sie in eigenen Rechenzentren betreiben dürfen. Die Nachfrage ist laut TNW auch durch Abkommen mit Anthropic so stark gestiegen, dass Googles eigene Forscher auf Rechenzeit warten mussten. Alphabets Finanzchefin Anat Ashkenazi erwartet bis Ende 2026 nur einen kleinen Teil der Umsätze aus TPU-Verkäufen, den Großteil erst 2027.",
+            "OpenAI ist einer der größten Abnehmer von Nvidia-Grafikprozessoren. Parallel entwickelt das Unternehmen mit Broadcom einen eigenen KI-Chip, der im Juni vorgestellt wurde und bis Ende 2026 in Betrieb gehen soll. Erst vergangene Woche hatte OpenAI angekündigt, seine Spitzenmodelle auch über Google Cloud anzubieten, nach einem ähnlichen Schritt mit Amazon Web Services.",
+            "Hinter allem steht der enorme Rechenbedarf der Branche. Amazon, Microsoft und Alphabet wollen laut Reuters in diesem Jahr zusammen bis zu 600 Milliarden Dollar in KI-Infrastruktur stecken."
+          ],
+          "highlight": "Neu ist vor allem der Schritt vom Mieten zum Besitzen.",
+          "assessment": [
+            "Das ist eine Meldung aus einer einzigen anonymen Quelle, und so sollte man sie lesen. Plausibel ist sie trotzdem: Wer so viel Rechenleistung braucht wie OpenAI, kann es sich nicht leisten, an einem einzigen Lieferanten zu hängen, der zudem die Preise diktiert.",
+            "Bemerkenswert ist, dass OpenAI ausgerechnet beim schärfsten Konkurrenten einkauft. Google verdient so an beiden Seiten des Wettrennens, und die TPU wird endgültig zu einem echten Gegenentwurf zu Nvidias GPUs. Für Nvidia ist das kein Absturz, aber ein Signal, dass seine größten Kunden aktiv nach Auswegen suchen."
+          ],
+          "sources": [
+            { "name": "The Next Web", "url": "https://thenextweb.com/news/openai-google-tpu-chips" },
+            { "name": "Decrypt", "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia" }
+          ],
+          "image": {
+            "url": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.jpg",
+            "alt": "Silhouette einer Hand mit Smartphone vor dem OpenAI-Logo",
+            "credit": "Henry Franklin / Shutterstock.com",
+            "license": "Artikelbild The Next Web",
+            "source": "https://thenextweb.com/news/openai-google-tpu-chips"
+          }
+        },
+        {
+          "title": "KI-Agenten formalisieren den „Enormous Theorem“ in 24 Tagen und finden eine Lücke im Originalbeweis",
+          "lead": "Das Start-up Axiom hat die Klassifikation der endlichen einfachen Gruppen, einen Beweis von rund 15.000 Seiten, vollständig in die Beweissprache Lean übertragen. Dabei stießen die Agenten auf Fehler in der Fachliteratur.",
+          "body": [
+            "Axiom hat am 26. Oktober nach eigenen Angaben den ersten vollständig computergeprüften Beweis der Klassifikation der endlichen einfachen Gruppen veröffentlicht. Der Satz gilt als größter Beweis der Mathematik: Er verteilt sich auf rund 15.000 Seiten in mehr als 500 Fachartikeln von etwa 100 Mathematikern. Er besagt, dass jede endliche einfache Gruppe zyklisch von Primzahlordnung, alternierend, eine von 16 Familien von Gruppen vom Lie-Typ oder eine von 26 sporadischen Gruppen ist.",
+            "Die Formalisierung umfasst rund 43,1 Millionen Zeilen Lean-Code. Erzeugt haben sie Schwärme aus Dutzenden KI-Agenten in 24 Tagen. Das Projekt war in 108 Meilensteine und etwa 380 kleinere Aufgaben gegliedert, es baut auf der Bibliothek Mathlib auf und übernimmt rund 1,2 Millionen Zeilen aus dem Projekt Qiuzhen-CFSG. Am 10. Oktober meldeten die Agenten, die Einfachheit der Monstergruppe bewiesen zu haben.",
+            "Der Weg war nicht glatt. Früh stellte sich heraus, dass manche Meilensteine auf unbewiesenen Annahmen beruhten, Zehntausende Zeilen wurden gelöscht und Teile neu begonnen. Am 13. Oktober wurde nur ein einziger Meilenstein abgeschlossen, worauf das Team die offenen Aufgaben in kleinere Sätze zerlegte.",
+            "Interessanter als die Zahl der Zeilen sind die Funde. Die Formalisierung deckte 34 nennenswerte Abweichungen von der veröffentlichten Literatur auf, meist Tippfehler, falsche Tabellenwerte oder vergessene Voraussetzungen. Ein Lemma in den Bänden von Aschbacher und Smith behauptet eine Gleichheit, die für die Gruppe SL₂(5) nicht gilt. Die größte Lücke steckte in John Walters Beweis des Unbalanced Group Theorem von 1986: Die Agenten fanden Gegenbeispiele zu einer Abschlussbehauptung, ein zentraler Schluss war nicht begründet. Das Team entwickelte mit Beratung der Gruppentheoretiker Richard Lyons und Ronald Solomon ein alternatives Argument.",
+            "Axiom schränkt selbst ein: Formalisiert wurde der Beweis der „ersten Generation“. Und ein Lean-Beweis kann ein Ergebnis auch unter einer zusätzlichen Annahme bestätigen, weshalb Menschen weiterhin prüfen müssen, ob die formalen Aussagen tatsächlich dem gemeinten Satz entsprechen. Eine Fehlerliste soll folgen."
+          ],
+          "highlight": "Die größte Lücke steckte in John Walters Beweis des Unbalanced Group Theorem von 1986: Die Agenten fanden Gegenbeispiele zu einer Abschlussbehauptung, ein zentraler Schluss war nicht begründet.",
+          "assessment": [
+            "Falls sich das bestätigt, ist das einer der handfestesten Belege dafür, was KI in der Mathematik leisten kann. Anders als bei angeblichen Durchbrüchen, die man auf Treu und Glauben nehmen muss, liegt hier ein Ergebnis vor, das jeder mit dem Lean-Prüfer selbst nachrechnen kann. Das ist der entscheidende Unterschied zu den drei OpenAI-Entdeckungen vom Vortag.",
+            "Die eigentliche Pointe ist die gefundene Lücke. Ein Beweis, den kaum noch ein lebender Mensch vollständig überblickt, war jahrzehntelang an einer Stelle nicht sauber. Genau dafür braucht man Maschinen: nicht um Mathematiker zu ersetzen, sondern um zu prüfen, was Menschen in dieser Größenordnung nicht mehr prüfen können. Offen bleibt, ob die Fachwelt die Formalisierung des Satzes selbst für korrekt hält."
+          ],
+          "sources": [
+            { "name": "Axiom", "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/" },
+            { "name": "Unite.AI", "url": "https://www.unite.ai/axiom-math-releases-43-1m-line-lean-proof-of-group-classification/" }
+          ],
+          "image": {
+            "url": "https://axiommath.ai/api/media/file/cfsg-blueprint-thumbnail-2.png?v=2026-10-27T14%3A17%3A26.155Z",
+            "alt": "Die Beweisstruktur der Klassifikation als kreisförmiges Netz, mit dem Hauptsatz in der Mitte",
+            "credit": "Axiom",
+            "license": "Artikelbild Axiom",
+            "source": "https://axiommath.ai/research/the-enormous-theorem-formalized/"
+          }
+        },
+        {
+          "title": "Microsoft bietet 60.000 Beschäftigten Abfindungen an, um KI-Ausgaben auszugleichen",
+          "lead": "Rund 27 Prozent der Belegschaft können bis Anfang Dezember freiwillig gehen. Es ist das zweite solche Angebot in diesem Jahr.",
+          "body": [
+            "Microsoft bietet etwa 60.000 Beschäftigten ein freiwilliges Ausscheiden gegen Abfindung an. Das sind rund 27 Prozent der Belegschaft, die Ende Juni bei etwa 223.000 Menschen lag, 5000 weniger als ein Jahr zuvor. Personalchefin Amy Coleman kündigte das Programm am Montag in einer Mitteilung an die Belegschaft an, die Microsoft auch in seinem Blog veröffentlichte. Das Angebot gebe den Berechtigten „eine neue Wahl, diesen Übergang jetzt mit Unterstützung zu vollziehen“.",
+            "Berechtigt sind Beschäftigte in den USA, Kanada, Indien und Großbritannien bis zur internen Stufe 70, nach Fortune bis hinauf zu Vizepräsidenten. Wer annimmt, muss sich bis zur ersten Dezemberwoche entscheiden und scheidet am 31. Dezember aus. In den USA gibt es mindestens acht Wochengehälter, dazu weiterlaufende Aktienzuteilungen, Krankenversicherung und Karriereberatung. Laut Fox Business nehmen nur einzelne Unternehmensbereiche teil, je nach deren Prioritäten, Kundenverpflichtungen und Personalbedarf.",
+            "Begründet wird der Schritt mit den Kosten des KI-Ausbaus. Microsoft gab im Quartal bis Juni 41 Milliarden Dollar für Investitionen aus und rechnet für das Geschäftsjahr 2026 mit insgesamt 145,3 Milliarden Dollar. Die Abfindungen sollen helfen, diese Ausgaben mit der Kapitaleffizienz in Einklang zu bringen.",
+            "Es ist bereits das zweite solche Programm in diesem Jahr. Im April hatte Microsoft erstmals langjährigen Beschäftigten ein freiwilliges Ausscheiden angeboten. Hinzu kamen im Juli rund 4800 Kündigungen, nach mehr als 15.000 im Jahr 2025, die besonders die Xbox-Sparte trafen. Ein Sprecher verwies auf andere Tech-Konzerne mit ähnlichen Programmen, bei denen 3 bis 5 Prozent der Berechtigten das Angebot annahmen."
+          ],
+          "highlight": "Das sind rund 27 Prozent der Belegschaft, die Ende Juni bei etwa 223.000 Menschen lag, 5000 weniger als ein Jahr zuvor.",
+          "assessment": [
+            "Freiwillig klingt freundlicher als Kündigung, aber die Rechnung dahinter ist dieselbe: Rechenzentren fressen das Budget, also muss es woanders herkommen. Bemerkenswert ist die schiere Breite des Angebots. Wer mehr als ein Viertel der Belegschaft zum Gehen einlädt, sendet eine klare Botschaft darüber, wie viel Personal man in Zukunft noch zu brauchen glaubt.",
+            "Für die Gaming-Seite ist das kein gutes Zeichen. Xbox war schon bei den letzten Entlassungsrunden der Hauptleidtragende, und es spricht wenig dafür, dass der Umbau dort abgeschlossen ist. Die erwartete Quote von wenigen Prozent würde allerdings bedeuten, dass am Ende eher 2000 bis 3000 Menschen gehen, nicht 60.000."
+          ],
+          "sources": [
+            { "name": "Fortune", "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/" },
+            { "name": "Fox Business", "url": "https://www.foxbusiness.com/markets/microsoft-offers-voluntary-buyouts-60000-employees-tech-giant-reshapes-its-workforce" },
+            { "name": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk" }
+          ],
+          "image": {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298479544_c9d547-e1793044326153.jpg?resize=1200,600",
+            "alt": "Microsoft-Gebäude",
+            "credit": "Bloomberg/Getty Images",
+            "license": "Artikelbild Fortune",
+            "source": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/"
+          }
+        },
+        {
+          "title": "Anthropic legt erste Ergebnisse aus der Medikamentenforschung mit Claude vor",
+          "lead": "Mit sechs Partnern hat Anthropic getestet, wo Claude die Arzneimittelentwicklung beschleunigen kann. Die Ergebnisse stammen fast alle aus dem Labor, ein eigenes Programm könnte Ende 2028 in klinische Studien gehen.",
+          "body": [
+            "Anthropic hat am 27. Oktober einen Zwischenbericht über mehrmonatige Forschungspartnerschaften mit sechs Arzneimittelentwicklern veröffentlicht. Die These: Die Engpässe der Medikamentenentwicklung verteilen sich über den ganzen Prozess, von der Zielsuche über das Moleküldesign bis zu Herstellung, Zulassungsunterlagen und Studienplanung. Claude müsse deshalb an vielen Stellen echter Programme mitarbeiten.",
+            "Bei Generate Biomedicines nutzten sechs Forscher Claude Code, um CAR-T-Zelltherapien für solide Tumoren zu verbessern. Ein Entwurf war rund 70 Prozent kürzer als die Standardversion, im Labortest bildeten die Immunzellen etwa zehnmal so viele Rezeptoren und töteten Tumorzellen effizienter. Bei Divergence Labs erzeugte Claude weitgehend selbstständig in rund einem Monat etwa 35.000 Antikörperentwürfe gegen Nahrungsmittelallergien, drei von 20 vielversprechenden Kandidaten lösten IgE in frühen Tests besser ab als das Standardmedikament.",
+            "BigHat Biosciences stellte rund 1010 von Claude vorgeschlagene Varianten zweier Antikörperfragmente in etwa zehn Wochen her. Die besten banden mehr als zehnmal fester. Mitten im Projekt hielt das Team die üblichen Messgrößen für Hitzestabilität und Verklumpung für irreführend, Claude und ein Anthropic-Forscher werteten die Rohdaten neu aus und schlugen neue Kennzahlen vor.",
+            "Am konkretesten sind die Zahlen aus der Verwaltung. Bei Enveda prüfte Claude 1061 Seiten Herstellungsdokumentation, fand alle elf Probleme, die auch menschliche Prüfer gefunden hatten, und sieben weitere, die sie übersehen hatten. Die menschliche Prüfzeit sank um 89 Prozent, von über 25 auf unter drei Stunden. Einen Zulassungsentwurf erstellte Claude in vier Stunden statt in rund drei Monaten.",
+            "Anthropic hat außerdem Mithril Medicine übernommen, ein Ein-Personen-Unternehmen, das Therapien gegen zwei seltene Formen der Muskeldystrophie entwickelt. Gründer Cody Tranbarger koordinierte mit Claude elf externe Labore, ein Kandidat kam in unter 18 Monaten von der Idee zu vielversprechenden Ergebnissen an Mäusen. Halten die Daten, könnte ein Wirkstoff frühestens Ende 2028 in Studien am Menschen gehen."
+          ],
+          "highlight": "Die menschliche Prüfzeit sank um 89 Prozent, von über 25 auf unter drei Stunden.",
+          "assessment": [
+            "Man muss diesen Bericht als das lesen, was er ist: eine Selbstdarstellung mit Partnerzitaten, in der kein einziges Medikament bisher an einem Menschen gewirkt hat. Bessere Bindung im Reagenzglas ist in der Pharmaforschung der Anfang einer langen Strecke, auf der die meisten Kandidaten scheitern.",
+            "Trotzdem ist der unspektakulärste Teil wohl der wichtigste. Dass ein Modell Herstellungsakten prüft und Zulassungsentwürfe schreibt, klingt banal, aber genau dort versickern in der Branche Jahre und Millionen. Wenn KI die Medikamentenentwicklung tatsächlich beschleunigt, dann vermutlich zuerst über den Papierkram und erst viel später über den genialen Wirkstoff."
+          ],
+          "sources": [
+            { "name": "Anthropic", "url": "https://www.anthropic.com/research/early-progress-drug-development" }
+          ],
+          "image": {
+            "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+            "alt": "Dreiteilige Illustration: Laborbuchseite, Tabletten und Hände eines Forschers am Mikroskop",
+            "credit": "Anthropic",
+            "license": "Artikelbild Anthropic",
+            "source": "https://www.anthropic.com/research/early-progress-drug-development"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Modern Warfare 4 zeigt echte Aufnahmen der Itaewon-Katastrophe, Hinterbliebene fordern Entfernung",
+          "lead": "Im Vorspann des neuen Call of Duty ist offenbar ein Clip vom Gedränge in Seoul 2022 zu sehen, bei dem 159 Menschen starben. Activision räumt die Verwendung ein.",
+          "body": [
+            "Der Vorspann von Call of Duty: Modern Warfare 4 zeigt Clips im Stil von Nachrichtenbildern, die eine fiktive nordkoreanische Invasion Südkoreas begleiten. In einer kurzen Einstellung versucht ein Sanitäter, einen am Boden liegenden Menschen wiederzubeleben. Südkoreanische Spieler erkannten darin echte Aufnahmen der Katastrophe von Itaewon.",
+            "Bei dem Gedränge während einer Halloween-Feier im Seouler Ausgehviertel Itaewon starben im Oktober 2022 in einer engen Gasse 159 Menschen, 196 wurden verletzt. Die Katastrophe jährte sich am 29. Oktober zum vierten Mal.",
+            "Die Vereinigung der Hinterbliebenen der Itaewon-Katastrophe verlangt von Activision, den Clip zu entfernen. Es sei „höchst unangemessen und unsensibel“, das Unglück für Unterhaltung zu nutzen, Überlebende und Rettungskräfte litten bis heute unter den Folgen. Auch die Korea Game Users Association, eine Verbraucherorganisation, fordert ein Update, das die Szene ersetzt, sowie eine Erklärung und eine Entschuldigung.",
+            "Activision bestätigte, dass die Aufnahmen verwendet wurden. Sie hätten die fiktive Handlung des Spiels vermitteln sollen, man habe „keinerlei Absicht“ gehabt, die Tragödie leichtzunehmen. Ob die Szene entfernt wird, sagte der Konzern nicht. Berichtet hatte zuerst der südkoreanische Sender SBS."
+          ],
+          "highlight": "Südkoreanische Spieler erkannten darin echte Aufnahmen der Katastrophe von Itaewon.",
+          "assessment": [
+            "Das ist kein Kulturkampfthema, sondern schlicht ein handwerklicher und moralischer Fehler. Wer für einen Kriegsvorspann reales Material zusammenschneidet, muss wissen, woher es stammt. Dass offenbar niemand geprüft hat, welche Szene da einen echten sterbenden Menschen zeigt, sagt viel über Sorgfalt bei Großproduktionen unter Zeitdruck.",
+            "Activisions Antwort ist zu dünn. Ohne eine klare Zusage, die Szene per Update zu ersetzen, bleibt es bei einer Entschuldigung ohne Konsequenz, und das ausgerechnet zum Jahrestag in einem Markt, in dem das Spiel spielt."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/cod-modern-warfare-4.jpg",
+            "alt": "Szene aus Call of Duty: Modern Warfare 4",
+            "credit": "Activision / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/cod-modern-warfare-4-uses-real-news-footage-from-south-korean-tragedy-is-urged-by-families-to-remove-it/"
+          }
+        },
+        {
+          "title": "Valve will KI-Spiele auf Steam nicht aussieben, räumt aber ein Sichtbarkeitsproblem ein",
+          "lead": "Vor koreanischen Indie-Entwicklern verteidigte das Steam-Team seine offene Linie. Für die Flut schwacher Spiele beim Next Fest gibt es noch keine Lösung.",
+          "body": [
+            "Bei einer Veranstaltung namens Steam Indie Connect in Seoul stellten sich Tom Giardino und Marc Wilkinson vom Steam-Business-Team den Fragen koreanischer Entwickler. Die beklagten, dass es mit der wachsenden Zahl an Spielen, auch durch KI, immer schwerer werde, auf Steam aufzufallen. Zuerst berichtete das koreanische Medium Inven, VGC griff die Aussagen auf.",
+            "Giardino stellte klar, dass jeder Entwickler selbst entscheide, ob er KI einsetzt: „Wir wollen keine Torwächter sein, die Entwicklern sagen, welche Werkzeuge sie benutzen sollen und welche nicht.“ Entwickler berichteten auch von Erpressungsmails, in denen mit KI-Klonen ihrer Spiele gedroht wird, wenn sie nicht zahlen. Valve will gemeldeten Fällen nachgehen, sieht Erpressung aber vor allem als Sache der Polizei. Steam setze eher darauf, das Original sichtbarer zu machen, als Kopien zu entfernen.",
+            "Hintergrund ist der Ärger über das jüngste Steam Next Fest. Kotaku zählte fast 7100 kostenlose Demos, nach rund 4300 im Juni 2026 und 900 im Oktober 2023, darunter viele erkennbar mit KI zusammengesetzte Spiele und Klone. Wilkinson erklärte, dass Next Fest Spiele in den ersten zwei Tagen zufällig anzeigt und erst danach personalisiert empfiehlt, damit alle eine faire Chance haben. „Wir wissen, dass der Preis dafür ist, dass auch einige minderwertige Spiele gezeigt werden.“",
+            "Man sei sich der Lage voll bewusst, und eine erhebliche Zahl von Leuten denke darüber nach, wie man das Problem löse, sagte Wilkinson. Giardino erinnerte daran, dass schon zu Zeiten von Steam Greenlight vor 14 Jahren und später bei Steam Direct Filter gefordert wurden. Valves Antwort sei jedes Mal gewesen, den Store so zu verbessern, dass gute Spiele herausstechen, statt schlechte auszusortieren."
+          ],
+          "highlight": "Man sei sich der Lage voll bewusst, und eine erhebliche Zahl von Leuten denke darüber nach, wie man das Problem löse, sagte Wilkinson.",
+          "assessment": [
+            "Valves Haltung ist konsequent und hat Steam lange gut getan: lieber eine offene Plattform mit klugen Empfehlungen als ein Türsteher, der entscheidet, was Kunst ist. Nur passt die Rechnung nicht mehr, wenn sich die Zahl der Demos in drei Jahren fast verachtfacht. Der Zufallsmodus beim Next Fest ist bei 900 Spielen fair, bei 7000 ist er eine Lotterie, die Masse belohnt.",
+            "Dass Valve kein KI-Verbot will, ist richtig, denn die Grenze wäre ohnehin nicht zu ziehen. Aber zwischen Verbot und Nichtstun liegt viel, etwa bessere Filter für Spieler selbst. Dass Valve auf diese Forderung seit 14 Jahren dieselbe Antwort gibt, ist auf Dauer keine Strategie."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/valve-has-a-significant-number-working-on-steams-visibility-dilemma-but-says-it-wont-gatekeep-games-made-with-ai/" },
+            { "name": "Kotaku", "url": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/10/steam-nextfest-1200x675.jpg",
+            "alt": "Grafik zum Steam Next Fest",
+            "credit": "Valve / Kotaku / Yarrrrrbright (Shutterstock)",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/steam-next-fest-has-become-a-massive-disaster-and-a-grim-look-at-the-future-2000748008"
+          }
+        },
+        {
+          "title": "Pokémon Unite wird am 23. März 2027 abgeschaltet",
+          "lead": "Nach knapp sechs Jahren beendet The Pokémon Company das MOBA auf Switch und Smartphones. Ein letztes Event und eine Archivfunktion sollen den Abschied abfedern.",
+          "body": [
+            "The Pokémon Company hat am 27. Oktober das Ende von Pokémon Unite angekündigt. Die Server gehen am 23. März 2027 vom Netz, danach kann man sich weder einloggen noch Kämpfe bestreiten. Das betrifft die Version für Nintendo Switch ebenso wie die für iOS und Android. Gründe nannte das Unternehmen nicht.",
+            "Seit dem 27. Oktober werden keine Aeos-Edelsteine mehr verkauft, auch neue Mitgliedschaften und Verlängerungen im Unite Club sind gestoppt. Laufende Mitgliedschaften gelten bis zu ihrem Ende. Bereits gekaufte Edelsteine können bis zum Ende des Dienstes weiter eingesetzt werden.",
+            "Am 12. November startet ein letztes Event. Mit dem Update sollen Spieler alle bisher erschienenen Unite-Lizenzen und Holo-Outfits erhalten können. Gleichzeitig kommt eine Bibliotheksfunktion, mit der sich bestimmte Ranglisten, Rekorde und Inhalte auch nach der Abschaltung ansehen lassen. Sie muss allerdings vor dem 23. März heruntergeladen werden, danach ist sie nicht mehr erhältlich.",
+            "Das Turnier Aeos Crown 2027 Tokyo findet trotzdem statt, die Qualifikation beginnt am 5. Dezember, das Finale ist für den 20. und 21. März in Tokio geplant, zwei Tage vor dem Ende. Pokémon Unite erschien am 21. Juli 2021 für die Switch und im September 2021 für Mobilgeräte. Das Spiel setzte auf zehnminütige Partien und vereinfachte Mechaniken und war im September 2026 sogar offizielle E-Sport-Medaillendisziplin bei den Asienspielen in Aichi-Nagoya, wo 58 Spieler aus zehn Ländern antraten."
+          ],
+          "highlight": "Die Server gehen am 23. März 2027 vom Netz, danach kann man sich weder einloggen noch Kämpfe bestreiten.",
+          "assessment": [
+            "Das ist das übliche Schicksal von Live-Service-Spielen, und es trifft auch die stärkste Marke der Welt. Pokémon Unite war nie ein Flop, aber offenbar auch nicht mehr groß genug, um den Betrieb zu rechtfertigen. Für Käufer heißt das wie immer: Was man in solchen Spielen ausgibt, ist Miete, kein Besitz.",
+            "Immerhin ist der Abschied anständiger gelöst als bei vielen anderen. Ein Finale, alle Inhalte zum Ende und ein Archiv sind mehr, als Spieler meist bekommen. Dass das Archiv nur funktioniert, wenn man es rechtzeitig herunterlädt, sollte man sich allerdings im Kalender notieren."
+          ],
+          "sources": [
+            { "name": "Game Informer", "url": "https://www.gameinformer.com/2026/10/27/free-to-play-moba-pokemon-unite-is-shutting-down-in-march" },
+            { "name": "Inven Global", "url": "https://www.invenglobal.com/articles/27753/once-an-official-asian-games-medal-event-pokémon-unite-to-end-service-in-march-2027" }
+          ],
+          "image": {
+            "url": "https://static.gameinformer.com/sites/default/files/styles/og_image/public/2021/07/29/efddb0a2/pokemon-unite-review-game-informer.jpg.webp",
+            "alt": "Szene aus Pokémon Unite",
+            "credit": "The Pokémon Company / Game Informer",
+            "license": "Artikelbild Game Informer",
+            "source": "https://www.gameinformer.com/2026/10/27/free-to-play-moba-pokemon-unite-is-shutting-down-in-march"
+          }
+        },
+        {
+          "title": "Bericht: Bloobers Remake des ersten Silent Hill soll 2027 erscheinen",
+          "lead": "Laut MP1st ist das Remake unter dem Codenamen Project Noise für 2027 geplant, zwei Darstellerinnen sollen feststehen. Konami hat nichts bestätigt.",
+          "body": [
+            "Das Remake des ersten Silent Hill von Bloober Team soll nach einem Bericht der Seite MP1st 2027 erscheinen, sofern Konamis Zeitplan hält. Der Codename lautet demnach Project Noise. VGC griff den Bericht am 27. Oktober auf und weist ausdrücklich darauf hin, dass die Angaben unbestätigt sind.",
+            "Zwei Schauspielerinnen sollen beteiligt sein. Gabrielle Fritz ist eine in Großbritannien lebende englisch-deutsche Darstellerin, die in Serien wie FBI International zu sehen war und Sprechrollen in Battlefield 2042, Wolfenstein II: The New Colossus und Eve: Valkyrie hatte. In ihrem Lebenslauf stehen auch Motion Capture und der Umgang mit Waffen auf der Bühne. Jade Matthew trat unter anderem in Doctors und EastEnders auf. Welche Rollen die beiden übernehmen, ist nicht bekannt, auch die Besetzung des Protagonisten Harry Mason ist offen.",
+            "Konami hatte im vergangenen Jahr bestätigt, dass Bloober nach dem Erfolg mit Silent Hill 2 auch den ersten Teil neu auflegt. Das Remake von Silent Hill 2 aus dem Jahr 2024 verkaufte sich bis Januar 2026 weltweit fünf Millionen Mal.",
+            "Serienproduzent Motoi Okamoto sagte der Famitsu, Konami wolle jedes Jahr ein neues Silent Hill veröffentlichen. Zuletzt erschienen Silent Hill f im vergangenen Jahr und Silent Hill Townfall von Screen Burn im September. Für 2027 ist bislang kein anderes Silent-Hill-Spiel angekündigt, das Remake wäre damit der naheliegende Kandidat."
+          ],
+          "highlight": "Das Remake von Silent Hill 2 aus dem Jahr 2024 verkaufte sich bis Januar 2026 weltweit fünf Millionen Mal.",
+          "assessment": [
+            "Die Meldung beruht auf Lebensläufen und Brancheninformationen, nicht auf einer Ankündigung, und sollte entsprechend vorsichtig gelesen werden. Plausibel ist der Zeitplan aber: Konami hat eine Jahresrhythmus-Strategie ausgegeben, und das Remake ist das einzige Projekt, das in die Lücke 2027 passt.",
+            "Bemerkenswert ist, wie sehr sich die Lage gedreht hat. Vor wenigen Jahren galt Bloober als riskante Wahl, heute ist das Studio Konamis verlässlichste Bank für die Serie. Fünf Millionen verkaufte Exemplare erklären, warum man das Rezept gleich noch einmal anwenden will."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/06/Screenshot-2025-06-12-143641.jpg",
+            "alt": "Schriftzug Silent Hill mit den Logos von Konami und Bloober Team und dem Hinweis „In development“",
+            "credit": "Konami / Bloober Team",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/bloober-teams-silent-hill-remake-is-set-for-a-2027-release-with-the-first-two-actors-named-report-claims/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "La Almoloya: Bronzezeitliche Mauer mit sechs Türmen auf dem Klippenplateau",
+          "lead": "In der El-Argar-Siedlung bei Pliego in Murcia haben Archäologen ein rund 4000 Jahre altes Befestigungssystem freigelegt. Die Türme stehen ungewöhnlich dicht beieinander.",
+          "body": [
+            "La Almoloya liegt auf einem flachen Hügel etwa 585 Meter über dem Meer nahe Pliego in der südostspanischen Region Murcia. Steile Klippen umgeben das Plateau, zugänglich ist es nur von wenigen Seiten. Die Siedlung gehörte zur El-Argar-Kultur, die im Südosten der Iberischen Halbinsel etwa von 2200 bis 1550 vor Christus blühte.",
+            "Eigentlich wollte das Team einen alten Weg und eine Treppe untersuchen. Auf einer Fläche von nur elf Quadratmetern stieß es dann auf zwei Abschnitte steinerner Verteidigungsmauern, deren Füllung mit dichtem Lehmmörtel gebunden ist. Das System ist rund 40 Meter lang, fünf bis sieben Meter breit und umfasst mindestens sechs Türme in Abständen von etwa einem Meter, dazu Stützmauern und schmale Durchgänge.",
+            "Die dichte Abfolge der Türme könnte den Zugang zur Siedlung eingeschränkt und den Verteidigern erlaubt haben, jeden Annäherungsversuch zu überwachen. Wie hoch die Mauern ursprünglich waren und wie das System genau funktionierte, ist offen. Es gibt Spuren gewaltsamer Zerstörung, wer dafür verantwortlich war, ist unbekannt.",
+            "Die Grabungsleiter Vicente Lull und Rafael Micó von der Forschungsgruppe ASOME der Autonomen Universität Barcelona stellten die Funde am 28. Oktober in El País vor. Seit 2013 hat ihr Team in La Almoloya Wohnkomplexe von rund 300 Quadratmetern, Gebäudegruppen mit acht bis zwölf Räumen, Straßen und Entwässerung freigelegt. Herausragend ist ein etwa 70 Quadratmeter großer Saal, in dem 2014 ein reiches Grab mit Gold, Silber, Kupfer und Bernstein gefunden wurde.",
+            "Die Forscher deuten La Almoloya deshalb als politisches und administratives Zentrum. Ob die Mauern vor allem der Verteidigung dienten oder auch die Macht der Elite zur Schau stellen sollten, ist noch nicht geklärt."
+          ],
+          "highlight": "Das System ist rund 40 Meter lang, fünf bis sieben Meter breit und umfasst mindestens sechs Türme in Abständen von etwa einem Meter, dazu Stützmauern und schmale Durchgänge.",
+          "assessment": [
+            "La Almoloya gehört zu den wichtigsten Fundorten für die Frage, wann auf der Iberischen Halbinsel so etwas wie Staatlichkeit entstand. Ein Palastsaal, ein Fürstinnengrab und jetzt eine Festung mit Turmkette passen zu dem Bild einer Gesellschaft, in der eine kleine Oberschicht Macht und Zugang kontrollierte.",
+            "Sechs Türme im Meterabstand auf einem ohnehin kaum zugänglichen Felsen sind militärisch eigentlich übertrieben. Gerade das macht die These reizvoll, dass hier nicht nur verteidigt, sondern auch gezeigt wurde, wer das Sagen hat. Die Zerstörungsspuren erinnern daran, dass El Argar gewaltsam endete."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/massive-4000-year-old-walls-discovered-at-a-bronze-age-settlement-protected-by-sheer-cliffs/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/La-Almoloya.jpg",
+            "alt": "Luftbild der Ausgrabung von La Almoloya auf dem Hügelplateau",
+            "credit": "ASOME / Universitat Autònoma de Barcelona",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/massive-4000-year-old-walls-discovered-at-a-bronze-age-settlement-protected-by-sheer-cliffs/"
+          }
+        },
+        {
+          "title": "Kasachstan: 2000 Jahre alter Puder enthielt vermutlich Zimt aus Indien",
+          "lead": "Kreidestücke aus zwei Frauengräbern am Syrdarja waren offenbar Kosmetik. Die Analyse fand Duftstoffe, die über weite Handelswege gekommen sein müssen.",
+          "body": [
+            "Untersucht wurden Funde aus zwei Gräberfeldern der Dschetyasar-Kultur am unteren Syrdarja in Kasachstan, nahe dem Aralsee: Tompakasar und Altyn-Asar. In beiden lagen Frauen, die mit etwa 30 bis 39 Jahren starben. Beide Gräber waren schon in der Antike geplündert worden. Das Grab von Tompakasar stammt aus dem 3. oder 4. Jahrhundert nach Christus, Altyn-Asar wurde bereits 1987 ausgegraben.",
+            "In Tompakasar fanden sich ein Kreidestück und eine Süßwassermuschel, in Altyn-Asar ein ähnliches weißes Fragment, ein kleiner Bronzespiegel, Perlen aus Koralle und Karneol sowie ein Spinnwirtel. Die Kreide besteht überwiegend aus natürlichem Calciumcarbonat mit Coccolithen, den mikroskopischen Kalkplättchen von Meeresalgen. Zerriebene Süßwasserperlen als Quelle schlossen die Forscher aus.",
+            "Die chemische Analyse ergab Hunderte organische Verbindungen, darunter aromatische. Zimtverwandte Verbindungen sind der wahrscheinlichste Kandidat, daneben fanden sich Stoffe aus Wermut, die Hinweise auf Minze sind nicht eindeutig. Das Team um O. V. Polyakova deutet die Fragmente als bewusst hergestellte Kosmetikpuder, vermutlich Kreide mit duftenden Ölen. Die zimtartigen Öle könnten aus Südindien stammen, auch Südchina ist möglich.",
+            "Wofür genau die Frauen den Puder nutzten, ist unklar. Die Autoren halten es für möglich, dass sie eine vergleichsweise privilegierte Stellung hatten, räumen aber ein, dass die Belege dünn sind. Auch Verunreinigung und Zersetzung über die Jahrhunderte könnten die Ergebnisse beeinflussen. Die Studie erschien im Oktober in der Fachzeitschrift npj Heritage Science."
+          ],
+          "highlight": "Die zimtartigen Öle könnten aus Südindien stammen, auch Südchina ist möglich.",
+          "assessment": [
+            "Solche Funde zeigen, wie verflochten die Welt der Steppe schon vor 2000 Jahren war. Wenn eine Frau am Aralsee Puder mit Zimtduft benutzte, dann reichte ihr Alltag über Tausende Kilometer Handelsweg bis nach Indien. Kosmetik ist dabei ein besonders schöner Beleg, weil sie anders als Münzen oder Waffen ganz nah am persönlichen Leben ist.",
+            "Die Studie formuliert vorsichtig, und das ist richtig. Organische Rückstände nach so langer Zeit zuzuordnen, ist schwierig, und „wahrscheinlich Zimt“ ist etwas anderes als ein Herkunftsnachweis. Als Indiz für Fernhandel mit Luxusgütern ist es trotzdem stark."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/2000-year-old-cosmetics-found-in-womens-graves-reveal-an-unexpected-ingredient/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Altynasar_Aerial_View-scaled.jpg",
+            "alt": "Luftbild der Fundstätte Altyn-Asar in Kasachstan",
+            "credit": "Yakov Fedorov / Wikimedia Commons",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/2000-year-old-cosmetics-found-in-womens-graves-reveal-an-unexpected-ingredient/"
+          }
+        },
+        {
+          "title": "Ukraine: Emaillierter Gürtel aus der Römerzeit im Wald bei Czernowitz",
+          "lead": "Anwohner fanden im Wald von Zezyno fünf Metallteile mit farbigem Email. Ein Historiker hält sie für Teile eines einzigen Gürtels aus dem 2. oder 3. Jahrhundert.",
+          "body": [
+            "Die Stücke lagen nur wenige Meter voneinander entfernt an einem bewaldeten Hang im Wald von Zezyno nahe Czernowitz im Westen der Ukraine, im Stadtteil Roscha. Anwohner brachten sie zu Antoniy Moysey, Historiker an der Staatlichen Medizinischen Universität der Bukowina. Er bemerkte unter Schmutz und Korrosion erhaltenes farbiges Email.",
+            "Zum Fund gehören eine Schnalle aus Kupferlegierung von 21 mal 22 Millimetern mit gelbem, grünlich-türkisem und dunkelblauem Email, ein länglicher Zierbeschlag mit hellen und blaugrünen Elementen sowie drei kleinere runde Beschläge. Stifte auf der Rückseite zeigen, dass sie auf Leder oder einem ähnlichen Material befestigt waren. Moysey vermutet, dass alle fünf Teile zu einem Gürtel gehörten, die genaue Anordnung ist aber unsicher.",
+            "Datiert werden die Stücke auf das 2. bis 3. Jahrhundert nach Christus, und zwar durch Vergleich mit römerzeitlichen Funden, besonders aus der Provinz Dakien. Eine Radiokarbondatierung oder eine sicher datierte Fundschicht gibt es nicht. Beteiligt waren auch Mykola Ilkiw vom Rettungsarchäologischen Dienst der Ukraine und Fachleute der Universität Suceava in Rumänien.",
+            "Wem der Gürtel gehörte, ist offen. Eine Hypothese ist ein hochrangiger sarmatischer Reiter, belegt ist das nicht, und Vergleiche mit Funden der Karpatenhügelgräberkultur und der Tschernjachow-Kultur ergaben keine genaue Entsprechung. Aus Roscha sind bereits eine Silbermünze Kaiser Trajans und Amphorenscherben bekannt. Nach Abschluss der Studie sollen die Stücke ins Regionalmuseum Czernowitz kommen."
+          ],
+          "highlight": "Moysey vermutet, dass alle fünf Teile zu einem Gürtel gehörten, die genaue Anordnung ist aber unsicher.",
+          "assessment": [
+            "Ein kleiner Fund, aber ein schönes Beispiel dafür, wie weit römischer Geschmack über die Reichsgrenze hinaus reichte. Emaillierter Gürtelschmuck war eine Prestigemode, und wer ihn jenseits von Dakien trug, wollte damit etwas über seinen Rang sagen.",
+            "Die Schwäche liegt in der Fundsituation. Ohne Grabung und Schichtzusammenhang bleibt die Datierung ein Stilvergleich, und die Geschichte vom sarmatischen Reiter ist vorerst eine hübsche Vermutung. Gut ist, dass die Anwohner die Stücke abgegeben haben, statt sie zu verkaufen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/1800-year-old-enameled-belt-ornaments-discovered-in-ukrainian-forest/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/An-enamel-decorated-belt--scaled-e1793236555676.jpg",
+            "alt": "Emaillierte Gürtelbeschläge aus Kupferlegierung",
+            "credit": "Staatliche Medizinische Universität der Bukowina",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/1800-year-old-enameled-belt-ornaments-discovered-in-ukrainian-forest/"
+          }
+        },
+        {
+          "title": "Serbien: Slawische Grubenhäuser mit unterirdischen Nischen im Banat",
+          "lead": "Bei Banatsko Novo Selo haben Archäologen eine Siedlung aus dem 7. bis 10. Jahrhundert untersucht. Die Häuser waren in den Boden gegraben, wohl zum Schutz vor Wind und Wetter.",
+          "body": [
+            "Die Fundstelle Bostanište liegt nahe dem Dorf Banatsko Novo Selo in der Region Banat im Norden Serbiens. Die Grabungen leiten Jelena Đorđević und Vojislav Đorđević, Kuratoren am Nationalmuseum Pančevo, finanziert vom serbischen Kulturministerium. Die Siedlung bestand vom späten 7. bis ins späte 10. Jahrhundert, mit mehreren Phasen über rund 300 Jahre.",
+            "Die Bewohner bauten ganz oder halb in den Boden eingetiefte Häuser. Das Team bringt das mit der Košava in Verbindung, einem starken Südostwind, sowie mit den kalten Wintern und heißen Sommern der Region. Unter den Wänden von Wohn- und Arbeitsbauten gruben sie tiefe Nischen, die wie kleine Alkoven oder kurze Tunnel wirken. Eine Verbindung zu einem größeren unterirdischen Netz gibt es nicht. In den Lössboden waren Stein- und Erdöfen eingebaut.",
+            "Schon etwa zwei Jahre vor der aktuellen Kampagne war auf dem Boden eines Grubenhauses mit Ofen ein Skelett gefunden worden, über dem ganze und zerbrochene Mahlsteine lagen. Warum der Mensch dort bestattet wurde, ist unbekannt.",
+            "In der Grabungssaison im September und Oktober 2026 legte das Team ein größeres Gebäude mit etwa zehn tiefen Gruben darin und darum frei. Sie könnten als Vorratsgruben für Getreide gedient haben oder zum Abbau von Raseneisenerz, beides ist unbestätigt, Bodenproben werden untersucht. Gefunden wurden handgemachte oder auf der langsamen Drehscheibe gefertigte Keramik und einfache Werkzeuge, keine Prestigeobjekte. Das Museum hat in der Gemeinde Pančevo rund 600 Fundstellen erfasst."
+          ],
+          "highlight": "Unter den Wänden von Wohn- und Arbeitsbauten gruben sie tiefe Nischen, die wie kleine Alkoven oder kurze Tunnel wirken.",
+          "assessment": [
+            "Die frühen Slawen auf dem Balkan sind archäologisch erstaunlich schwer zu fassen, weil sie kaum Prunk hinterließen. Gerade deshalb sind solche Alltagssiedlungen wertvoll: Sie zeigen, wie Menschen sich mit einfachen Mitteln an ein raues Klima anpassten, über drei Jahrhunderte am selben Ort.",
+            "Das Skelett unter den Mahlsteinen ist das eigentliche Rätsel. Ein Mensch auf dem Boden des eigenen Hauses, bedeckt mit Werkzeugen der Nahrungszubereitung, das klingt nach einem Ritual oder nach einer Notlage. Ohne weitere Analysen bleibt es Spekulation."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/1200-year-old-slavic-houses-built-into-the-ground-discovered-in-serbia/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/excavations-at-Bostaniste-1-scaled.jpg",
+            "alt": "Ausgrabung in Bostanište mit freigelegten Gruben",
+            "credit": "Nationalmuseum Pančevo",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/1200-year-old-slavic-houses-built-into-the-ground-discovered-in-serbia/"
+          }
+        }
+      ]
+    }
+  ]
+}
