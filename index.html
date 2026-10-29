@@ -20,13 +20,13 @@
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Wrenfell</title>
-  <meta name="description" content="Wrenfell, Kevins tägliches Heft: KI & Technologie, Gaming, Filme & Serien, Geschichte. Dazu Projekte, Regal und Notizen.">
+  <meta name="description" content="Wrenfell, Kevins tägliches Heft: KI & Technologie, Gaming, Filme & Serien, Geschichte. Dazu Projekte und Regal.">
   <meta name="theme-color" content="#EEEDE9">
   <link rel="preload" href="fonts/archivo-latin-standard-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/caveat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="assets/wren.svg?v=93f9fb9f" type="image/svg+xml">
-  <link rel="stylesheet" href="css/style.css?v=5829df3d">
+  <link rel="stylesheet" href="css/style.css?v=e7ba8e65">
 </head>
 <body>
 
@@ -127,7 +127,7 @@
     <header class="opener">
       <p class="opener-no" aria-label="Kapitel 5"><span id="anhang-no">5</span></p>
       <h2 class="opener-title" id="anhang-title">Anhang</h2>
-      <p class="opener-sub">Projekte, Regal und Notizen</p>
+      <p class="opener-sub">Projekte und Regal</p>
     </header>
 
     <div class="appendix">
@@ -142,18 +142,16 @@
         </ol>
       </section>
 
-      <section class="ledger" aria-labelledby="regal-title">
+      <section class="ledger ledger-wide" aria-labelledby="regal-title">
         <h3 id="regal-title">Regal</h3>
+        <div class="shelf">
+          <h4 class="shelf-title">Spiele <small>Das spiele ich gerade</small></h4>
+          <ol class="cover-row" id="regal-spiele"><li class="otd-wait">Wird geladen …</li></ol>
+          <p class="shelf-note" id="regal-stand"></p>
+        </div>
         <ol class="ledger-list">
-          <li><span class="lbl-no">R1</span><span class="lbl-name">Bücher</span><span class="status status-empty"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2.2 2.2"/></svg>leer</span><span class="lbl-text">Was ich lese und gelesen habe.</span></li>
-          <li><span class="lbl-no">R2</span><span class="lbl-name">Spiele</span><span class="status status-empty"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2.2 2.2"/></svg>leer</span><span class="lbl-text">Was ich gerade spiele.</span></li>
-          <li><span class="lbl-no">R3</span><span class="lbl-name">Filme &amp; Serien</span><span class="status status-empty"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2.2 2.2"/></svg>leer</span><span class="lbl-text">Was ich schaue.</span></li>
+          <li><span class="lbl-no">R1</span><span class="lbl-name">Filme &amp; Serien</span><span class="status status-empty"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-dasharray="2.2 2.2"/></svg>leer</span><span class="lbl-text">Was ich schaue. Meine Wertungen stehen auf <a href="https://kestrel-2tf.pages.dev/" target="_blank" rel="noopener">Kestrel</a>.</span></li>
         </ol>
-      </section>
-
-      <section class="ledger" aria-labelledby="notizen-title">
-        <h3 id="notizen-title">Fotos, Reisen, Notizen</h3>
-        <p class="ledger-empty">Noch keine Einträge. Hier landen später Fotos, Reiseberichte und kurze Notizen.</p>
       </section>
 
       <section class="onthisday" aria-labelledby="otd-title">
@@ -185,7 +183,7 @@
 
 <script src="js/intro.js?v=da461fa3"></script>
 <script src="js/heft.js?v=729b5b51"></script>
-<script src="js/edition.js?v=1a1cfddb"></script>
+<script src="js/edition.js?v=e2de42d1"></script>
 <script src="js/globe.js?v=fef74a21"></script>
 </body>
 </html>

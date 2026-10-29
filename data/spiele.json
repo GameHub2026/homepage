@@ -1,0 +1,15 @@
+{
+  "stand": "2026-10-29T08:53:00+01:00",
+  "quelle": "GameHub, Filter „Spiele ich gerade“",
+  "spiele": [
+    { "titel": "Enshrouded", "plattform": "Steam", "fortschritt": 22, "stunden": 20.4, "zuletzt": "heute", "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1203620/library_600x900.jpg" },
+    { "titel": "Red Dead Redemption 2", "plattform": "Steam", "fortschritt": 4, "stunden": 5.9, "zuletzt": "heute", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg" },
+    { "titel": "Dune: Awakening", "plattform": "Steam", "fortschritt": 32, "stunden": 79.6, "zuletzt": "heute", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf3a.jpg" },
+    { "titel": "METAL GEAR SOLID Δ: SNAKE EATER", "plattform": "Steam", "fortschritt": 33, "stunden": 5.2, "zuletzt": "vor 2 Tagen", "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2417610/library_600x900.jpg" },
+    { "titel": "The Blood of Dawnwalker", "plattform": "Steam", "fortschritt": 24, "stunden": 19.9, "zuletzt": "vor 5 Tagen", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob7ym.jpg" },
+    { "titel": "Cyberpunk 2077", "plattform": "Steam", "fortschritt": 11, "stunden": 16.4, "zuletzt": "vor 5 Tagen", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaih8.jpg" },
+    { "titel": "Clive Barker's Hellraiser: Revival", "plattform": "Steam", "fortschritt": 23, "stunden": 2.2, "zuletzt": "vor 1 Woche", "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1551980/library_600x900.jpg" },
+    { "titel": "The Witcher 3: Wild Hunt — Remastered", "plattform": "Steam", "fortschritt": 12, "stunden": 12.2, "zuletzt": "vor 1 Woche", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaarl.jpg" },
+    { "titel": "Gears of War: E-Day", "plattform": "Xbox", "fortschritt": 19, "stunden": 9.6, "zuletzt": "vor 1 Woche", "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc77n.jpg" }
+  ]
+}

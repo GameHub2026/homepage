@@ -175,8 +175,27 @@
     $("greet").textContent = text;
   }
 
+  // Regal: Spiele, die ich gerade spiele (Abbild aus GameHub, siehe data/spiele.json).
+  async function regal() {
+    const list = $("regal-spiele");
+    if (!list) return;
+    try {
+      const d = await getJSON("data/spiele.json");
+      const nf = new Intl.NumberFormat("de-DE", { maximumFractionDigits: 1 });
+      list.innerHTML = d.spiele.map(g => `<li>
+        <figure class="cover"><img src="${esc(g.cover)}" alt="" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()"><span class="plat">${esc(g.plattform)}</span></figure>
+        <b class="cover-name">${esc(g.titel)}</b>
+        <span class="cover-meta">${g.fortschritt} % · ${nf.format(g.stunden)} Std · ${esc(g.zuletzt)}</span>
+        <span class="bar" role="img" aria-label="Fortschritt ${g.fortschritt} Prozent"><i style="width:${Math.min(100, g.fortschritt)}%"></i></span>
+      </li>`).join("");
+      const when = new Date(d.stand).toLocaleString("de-DE", { timeZone: "Europe/Berlin", day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit" });
+      $("regal-stand").textContent = `Stand: ${when} Uhr, aus ${d.quelle}.`;
+    } catch { list.innerHTML = `<li class="otd-wait">Die Spieleliste konnte nicht geladen werden.</li>`; }
+  }
+
   async function init() {
     greet();
+    regal();
     const wanted = new URLSearchParams(location.search).get("d");
     let ed;
     try {
