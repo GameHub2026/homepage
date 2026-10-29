@@ -180,9 +180,10 @@
     const list = $("regal-spiele");
     if (!list) return;
     try {
-      const d = await getJSON("data/spiele.json");
+      // Live aus GameHub (Function), sonst der gespeicherte Stand.
+      const d = await getJSON("api/spiele").catch(() => getJSON("data/spiele.json"));
       list.innerHTML = d.spiele.map(g => `<li>
-        <figure class="cover"><img src="${esc(g.cover)}" alt="${esc(g.titel)}" title="${esc(g.titel)}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()"></figure>
+        <figure class="cover" title="${esc(g.titel)}">${g.cover ? `<img src="${esc(g.cover)}" alt="${esc(g.titel)}" width="300" height="450" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}<figcaption>${esc(g.titel)}</figcaption></figure>
       </li>`).join("");
     } catch { list.innerHTML = `<li class="otd-wait">Die Spieleliste konnte nicht geladen werden.</li>`; }
   }
