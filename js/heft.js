@@ -2,10 +2,11 @@
 const Heft = (() => {
   const CHAPTERS = {
     ki: { name: "KI & Technologie", short: "KI" },
-    gaming: { name: "Gaming & Entertainment", short: "Gaming" },
+    gaming: { name: "Gaming", short: "Gaming" },
+    film: { name: "Filme & Serien", short: "Film" },
     geschichte: { name: "Geschichte", short: "Geschichte" }
   };
-  const ORDER = ["ki", "gaming", "geschichte"];
+  const ORDER = ["ki", "gaming", "film", "geschichte"];
 
   const esc = (s = "") => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const pad = (n, l = 2) => String(n).padStart(l, "0");

@@ -46,6 +46,7 @@
 
   --ki: #2F5BEA;
   --gaming: #C9361F;
+  --film: #7B3F8C;
   --geschichte: #C08A2E;
   --anhang: #277A4D;
   --archiv: #161616;
@@ -83,6 +84,7 @@
 
 .ch-ki         { --ch: var(--ki);         --ch-on: #fff;        --ch-tint: #E2E7F6; }
 .ch-gaming     { --ch: var(--gaming);     --ch-on: #fff;        --ch-tint: #F3E1DC; }
+.ch-film       { --ch: var(--film);       --ch-on: #fff;        --ch-tint: #EBDFEF; }
 .ch-geschichte { --ch: var(--geschichte); --ch-on: #161616;  --ch-tint: #F1E7D3; }
 .ch-anhang     { --ch: var(--anhang);     --ch-on: #fff;        --ch-tint: #DDEBE2; }
 
@@ -104,6 +106,7 @@
   --foot-hi: #ECEBE6;
   --ki: #5A7FF5;
   --gaming: #E2533A;
+  --film: #B374CC;
   --geschichte: #D3A048;
   --anhang: #3E9C68;
   --archiv: #ECEBE6;
@@ -115,6 +118,7 @@
 }
 [data-theme="dark"] .ch-ki         { --ch-tint: #1B2340; }
 [data-theme="dark"] .ch-gaming     { --ch-tint: #3A1C16; }
+[data-theme="dark"] .ch-film       { --ch-tint: #2D1A35; }
 [data-theme="dark"] .ch-geschichte { --ch-tint: #362A14; }
 [data-theme="dark"] .ch-anhang     { --ch-tint: #15301F; }
 [data-theme="dark"] .status-progress { background: #2C1F42; color: #C9A2F5; }
@@ -242,6 +246,7 @@ html { scrollbar-color: var(--ink-2) var(--paper); }
 }
 .tab[data-ch="ki"] { --c: var(--ki); }
 .tab[data-ch="gaming"] { --c: var(--gaming); }
+.tab[data-ch="film"] { --c: var(--film); }
 .tab[data-ch="geschichte"] { --c: var(--geschichte); --on: #161616; }
 .tab[data-ch="anhang"] { --c: var(--anhang); }
 .tab:hover { transform: translateX(2px); }
