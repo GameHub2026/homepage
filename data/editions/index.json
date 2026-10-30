@@ -1,5 +1,38 @@
 [
   {
+    "nr": 24,
+    "date": "2026-10-30",
+    "updated": "2026-10-30T07:49:17+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Gemini 4 Carbon: Googles stärkstes Modell bleibt vorerst unter Verschluss",
+      "Mistral gibt sein Billionen-Parameter-Modell zum Download frei",
+      "Reddit schließt die Tür: Ohne Anmeldung soll bald nichts mehr gehen",
+      "Trump erklärt Industrieroboter aus dem Ausland zur Gefahr für die nationale Sicherheit",
+      "Hollywood-Gewerkschaften stellen sich im KI-Prozess gegen OpenAI",
+      "FromSoftware verschiebt The Duskbloods auf 2027",
+      "Bericht: The Elder Scrolls 6 heißt „Sentinel“ und spielt in Hammerfell",
+      "Xbox-Chefin spricht von Lieferengpässen, die Zahlen zeigen 14 Prozent weniger Hardware-Umsatz",
+      "Celeste und TowerFall verschwinden aus dem Xbox-Store, aus Protest gegen Microsoft",
+      "Neu: Phantom Blade Zero startet mit über 700.000 gleichzeitigen Spielern auf Steam",
+      "Patrick Stewart ist tot",
+      "Elke Sommer mit 85 Jahren gestorben",
+      "Iran verurteilt Jafar Panahi zu mehr als fünf Jahren Haft",
+      "Godzilla Minus Zero: Erste Reaktionen sind euphorisch",
+      "Donald Glover macht für Netflix eine PUBG-Serie",
+      "Japans Animebranche wächst auf Rekordumsatz von 28 Milliarden Dollar",
+      "Pompeji: Ein Schrank mit Kinderamuletten, Kosmetik und 38 Münzen",
+      "Constanța: Versiegelter Kindersarkophag mit Spielzeug aus der Römerzeit",
+      "Alte DNA: Geschwister in Spanien lagen 725 Kilometer voneinander entfernt begraben",
+      "Velsen: Der Tote im Brunnen des Römerkastells war kein Friese"
+    ]
+  },
+  {
     "nr": 23,
     "date": "2026-10-29",
     "updated": "2026-10-29T07:50:05+01:00",

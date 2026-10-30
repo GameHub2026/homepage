@@ -1,0 +1,542 @@
+{
+  "nr": 24,
+  "date": "2026-10-30",
+  "intro": "Patrick Stewart ist tot. Der Schauspieler, der als Captain Picard und Professor Xavier Generationen geprägt hat, starb mit 86 Jahren, und am selben Tag meldete die Filmwelt auch den Tod der Berlinerin Elke Sommer. Daneben: Google und Mistral rüsten ihre KI-Modelle für die Cyberabwehr, Reddit sperrt sich gegen anonyme Besucher, FromSoftware verschiebt The Duskbloods, und in Pompeji und Constanța erzählen Kinderamulette und Spielzeug vom Alltag der Römer.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Gemini 4 Carbon: Googles stärkstes Modell bleibt vorerst unter Verschluss",
+          "lead": "Nur zwei Wochen nach Gemini 4 Argon kündigt Google mit Carbon ein noch leistungsfähigeres Modell an. Weil es vor allem beim Aufspüren von Sicherheitslücken zulegt, gibt Google es nur schrittweise frei.",
+          "body": [
+            "Google hat am 28. Oktober Gemini 4 Carbon vorgestellt, wie Ars Technica berichtet. Es ist kein kleines, schnelles Flash-Modell, auf das viele gewartet hatten, sondern eine Weiterentwicklung des erst zwei Wochen alten Gemini 4 Argon. Wie schon bei Argon setzt Google auf eine gestaffelte Veröffentlichung, deren Dauer offen ist.",
+            "Die größten Fortschritte meldet Google bei der Cybersicherheit. Carbon zeige einen „deutlichen Sprung“ beim Finden, Bestätigen und Beheben von Schwachstellen und erzeuge doppelt so häufig Code ohne Sicherheitslücken wie Argon. Das Chrome-Team gibt an, Carbon schreibe zehnmal häufiger hochwertige Patches als Modelle anderer Hersteller. In der WebDev Arena stieg der Wert um 89 Punkte, das Modell liegt dort auf Platz vier.",
+            "In Googles eigenen Vergleichstests liegt Carbon knapp vor Argon und schlägt in fast allen Disziplinen GPT-6 Astra, Claude Opus 5.5 und Claude Fable 5.1. Ars Technica merkt an, dass die Abstände nur wenige Punkte betragen und alle Spitzenmodelle in denselben Bereichen landen. Ob Carbon tatsächlich ein neues Modell ist oder ein nachtrainiertes Argon, lässt sich von außen nicht sagen.",
+            "Bei der Sicherheit gegen Angriffe meldet Google einen Bestwert: In der Grey-Swan-Prüfung widerstand Carbon jedem Versuch einer Prompt-Injection, die Erfolgsquote der Angreifer lag bei 0 Prozent. Zum Vergleich nennt Google 0,7 Prozent bei Argon, 1 Prozent bei Opus 5.5 und 8,5 Prozent bei GPT-6 Astra.",
+            "Wegen der Fähigkeiten im Bereich Cybersicherheit will Google „bedacht“ vorgehen. Das Modell durchläuft zunächst den freiwilligen Testrahmen der US-Regierung und soll dann über Googles Cyberabwehrprogramm Fairwinds verteilt werden. Danach dürften AI-Ultra-Abonnenten und Entwickler über die Gemini-API folgen, vorübergehend zum Einführungspreis von 2 Dollar pro Million Eingabe-Token und 10 Dollar pro Million Ausgabe-Token. Ein Datum für die breite Freigabe nennt Google nicht."
+          ],
+          "highlight": "Carbon zeige einen „deutlichen Sprung“ beim Finden, Bestätigen und Beheben von Schwachstellen und erzeuge doppelt so häufig Code ohne Sicherheitslücken wie Argon.",
+          "assessment": [
+            "Das Muster ist inzwischen eingespielt: Ein Labor meldet ein Spitzenmodell, sagt, es sei zu gefährlich für alle, und verteilt es zuerst an Behörden und Großkunden. Das ist zum Teil echte Vorsicht, denn ein Modell, das Lücken besser findet als Menschen, hilft Angreifern genauso wie Verteidigern. Es ist aber auch Marketing, weil „zu mächtig zum Veröffentlichen“ mehr Aufmerksamkeit bringt als jeder Benchmark.",
+            "Bemerkenswert ist das Tempo. Zwei Spitzenmodelle in zwei Wochen zeigen, dass Google den Abstand zu OpenAI und Anthropic nicht nur schließen, sondern sichtbar umkehren will. Ob Carbon im Alltag wirklich besser ist, wird man erst sagen können, wenn es jemand außerhalb von Google benutzen darf."
+          ],
+          "sources": [
+            { "name": "Ars Technica", "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/" }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+            "alt": "Illustration zum KI-Modell Gemini von Google",
+            "credit": "Aurich Lawson / Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+          }
+        },
+        {
+          "title": "Mistral gibt sein Billionen-Parameter-Modell zum Download frei",
+          "lead": "Das französische KI-Unternehmen veröffentlicht die Gewichte von Mistral Large 4. Firmen und Behörden können das Modell damit selbst betreiben, Mistral zielt vor allem auf die Cyberabwehr.",
+          "body": [
+            "Mistral hat am 29. Oktober die Gewichte seines Modells Mistral Large 4 (ML4) veröffentlicht, berichtet TechCrunch. Das Modell mit rund einer Billion Parametern und dem Spitznamen „Le Chonk“ war Anfang des Monats vorgestellt worden. Die Gewichte stehen auf Hugging Face bereit, zusätzlich ist das Modell über Mistrals API erreichbar.",
+            "Mit der Freigabe können Unternehmen und Regierungen ML4 auf eigenen Servern betreiben, ohne von einem externen Anbieter abhängig zu sein. Mistral stellt das ausdrücklich als Gegenmodell zu geschlossenen Anbietern wie OpenAI und Anthropic dar. Firmenchef Arthur Mensch sagte, KI solle „ein Werkzeug der Selbstbestimmung, nicht der Vorherrschaft“ sein.",
+            "Nach Mistrals Angaben ist ML4 in der Leistung mit dem chinesischen offenen Modell GLM-5.3 vergleichbar, das bisher als eines der besten offenen Modelle für Sicherheitsaufgaben galt, braucht aber 47 Prozent weniger Token pro Aufgabe. Im Coding Agent Index von Artificial Analysis liege es vor allen anderen offenen Modellen.",
+            "Pierre Stock, bei Mistral für die Forschung zuständig, sagte TechCrunch, offene Gewichte bedeuteten, dass ein Unternehmen oder eine Regierung Zugang zu Spitzen-KI für die Abwehr von Cyberangriffen habe, „der per Definition nicht abgeschaltet werden kann“. Man müsse diese Fähigkeiten allen so schnell wie möglich geben, weil auch Angreifer sie nutzen würden. Zu jüngsten Vorfällen mit außer Kontrolle geratenen KI-Agenten sagte er, man wolle keine Angst schüren, das Problem sei lösbar."
+          ],
+          "highlight": "Mit der Freigabe können Unternehmen und Regierungen ML4 auf eigenen Servern betreiben, ohne von einem externen Anbieter abhängig zu sein.",
+          "assessment": [
+            "Für Europa ist das die wichtigere KI-Nachricht des Tages. Mistral verkauft ML4 als souveräne Alternative, und genau dieses Argument zieht bei Behörden und Konzernen, die ihre Sicherheitsdaten nicht in amerikanische Rechenzentren schicken wollen. Ein Modell, das niemand per Vertragsänderung oder Exportregel abdrehen kann, ist für diese Kunden mehr wert als ein paar Benchmark-Punkte.",
+            "Der Haken liegt in derselben Eigenschaft. Was Verteidiger frei herunterladen können, können auch Angreifer herunterladen, und während Google sein Sicherheitsmodell zurückhält, verteilt Mistral seines an alle. Welche der beiden Strategien am Ende mehr Schaden verhindert, weiß heute niemand."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+            "alt": "Symbolbild zum französischen KI-Unternehmen Mistral",
+            "credit": "Getty Images / TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+          }
+        },
+        {
+          "title": "Reddit schließt die Tür: Ohne Anmeldung soll bald nichts mehr gehen",
+          "lead": "Weil Googles KI-Suche kaum noch Besucher schickt, will Reddit nur noch angemeldeten Nutzern Inhalte zeigen. Konzernchef Steve Huffman sagt offen: „AI Mode bringt keinen Traffic.“",
+          "body": [
+            "Reddit stellt auf ein Angebot um, das nur noch nach Anmeldung funktioniert. Das kündigte Konzernchef Steve Huffman am 29. Oktober in seinem Brief an die Aktionäre zum dritten Quartal an. Erste Tests sollen noch im vierten Quartal in ausgewählten Märkten außerhalb der USA beginnen, danach will Reddit entscheiden, wie die Anmeldepflicht weltweit aussieht.",
+            "Als Gründe nennt Huffman bessere Daten für gezielte Werbung, mehr Nutzung durch angemeldete Mitglieder und den Schutz von Reddits „äußerst wertvollem Datenbestand“ vor KI-Scraping. Laut TechCrunch geht es auch darum, Lizenzverträge mit KI-Firmen abzusichern, die für die Daten bezahlen.",
+            "Hintergrund ist ein starker Rückgang der Besucher aus der Google-Suche. Im Oktober seien die Verweise aus der Suche im Schnitt um mehr als eine Million pro Woche gefallen. Hält der Trend an, könnte die Zahl der täglich aktiven Nutzer im vierten Quartal um einen niedrigen zweistelligen Prozentsatz unter die aktuellen 130 Millionen fallen. In den USA sank sie bereits von 53,2 auf 50,7 Millionen.",
+            "Im Gespräch mit Analysten wurde Huffman deutlich, wie The Verge berichtet: „Die Realität ist, AI Mode bringt keinen Traffic. Nicht uns und, soweit ich weiß, niemandem.“ Googles KI-Übersichten schöben alle Links nach unten. Reddit sei zwar weiter ein Top-Suchbegriff bei Google, und Google durchsuche die Seite so intensiv wie eh und je, schicke die Leute aber nicht mehr hin.",
+            "Finanziell läuft es trotzdem gut: Reddit meldete für das Quartal 895 Millionen Dollar Umsatz, 53 Prozent mehr als im Vorjahr, und einen Gewinn von 283 Millionen Dollar."
+          ],
+          "highlight": "Im Oktober seien die Verweise aus der Suche im Schnitt um mehr als eine Million pro Woche gefallen.",
+          "assessment": [
+            "Hier sieht man, wie die KI-Suche das offene Netz umbaut. Jahrelang war Reddit die Seite, die man an Google-Suchen anhängte, um ehrliche Antworten zu bekommen. Wenn Google diese Antworten jetzt selbst zusammenfasst, bleibt für Reddit nur, die Inhalte hinter eine Anmeldung zu stellen und sie an KI-Firmen zu verkaufen.",
+            "Für Leser ist das ein Verlust. Ein großer Teil des nützlichen Wissens im Netz, von Reparaturtipps bis zu Spielehilfen, steckt in Reddit-Threads. Wenn die nur noch nach Login erreichbar sind, wird das Netz ein Stück geschlossener, und andere Plattformen werden diesem Beispiel folgen."
+          ],
+          "sources": [
+            { "name": "Ars Technica", "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/" },
+            { "name": "The Verge", "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+            "alt": "Reddit auf einem Bildschirm",
+            "credit": "TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+          }
+        },
+        {
+          "title": "Trump erklärt Industrieroboter aus dem Ausland zur Gefahr für die nationale Sicherheit",
+          "lead": "Ein Erlass des US-Präsidenten setzt Handelspartnern eine Frist von 180 Tagen. Danach drohen Zölle auf Roboter, die vor allem aus Japan, der Schweiz und Deutschland kommen.",
+          "body": [
+            "Donald Trump hat Importe ausländischer Industrieroboter zu einer Bedrohung der nationalen Sicherheit erklärt, berichtet Ars Technica. Die Proklamation stützt sich auf eine Untersuchung des Handelsministeriums unter Howard Lutnick, die Risiken für die industrielle Basis und die langfristige Wettbewerbsfähigkeit der USA festgestellt haben will. Außerdem nennt sie „besondere Sicherheitsrisiken“, die zu erheblichen Schwachstellen in der Cybersicherheit führen könnten.",
+            "Die USA sollen nun innerhalb von 180 Tagen mit Handelspartnern Vereinbarungen über Importe von Robotik, Industriemaschinen und deren Komponenten treffen. Gelingt das nicht, behält sich der Präsident weitere Schritte vor, darunter Zölle, Abgaben, Quoten und Gebühren.",
+            "Betroffen wären vor allem die vier großen Hersteller großer Roboterarme: FANUC und Yaskawa aus Japan, ABB aus der Schweiz und KUKA aus Deutschland. Ein US-Unternehmen, das vergleichbare Schwerlastroboter baut, gibt es nicht. Die Proklamation räumt selbst ein, dass die heimische Produktion den Bedarf nicht deckt und die USA bei den meisten Robotern auf Importe angewiesen sind.",
+            "Zahlen müssten etwaige Zölle die US-Firmen, die die Roboter kaufen, darunter die Autohersteller in Detroit sowie Luft- und Raumfahrtkonzerne. Schon im Juli hatte die Telekommunikationsbehörde FCC Beschränkungen für Verbraucherroboter wie Saugroboter, Roboterhunde und humanoide Roboter erlassen, stationäre Industrieroboter damals aber ausgenommen."
+          ],
+          "highlight": "Ein US-Unternehmen, das vergleichbare Schwerlastroboter baut, gibt es nicht.",
+          "assessment": [
+            "Für Deutschland ist das keine Randnotiz. KUKA aus Augsburg, inzwischen in chinesischem Besitz, gehört zu den Firmen, die am direktesten getroffen würden, und damit auch die Zulieferkette dahinter. Die 180-Tage-Frist ist ein bekanntes Druckmittel aus Trumps Handelspolitik: erst drohen, dann einzeln verhandeln.",
+            "Wirtschaftlich ist der Schritt widersprüchlich. Wer die eigene Industrie automatisieren und zurück ins Land holen will, verteuert sich mit Robotzöllen genau das Werkzeug dafür. Wahrscheinlich ist, dass am Ende Ausnahmen und Deals stehen, nicht ein echter Importstopp."
+          ],
+          "sources": [
+            { "name": "Ars Technica", "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/" }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
+            "alt": "Industrieroboter in einer Fertigungshalle",
+            "credit": "Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+          }
+        },
+        {
+          "title": "Hollywood-Gewerkschaften stellen sich im KI-Prozess gegen OpenAI",
+          "lead": "SAG-AFTRA, die Autorengewerkschaft WGA und die Musikergewerkschaft AFM fordern ein Gericht in New York auf, KI-Training nicht pauschal als erlaubte Nutzung einzustufen.",
+          "body": [
+            "Vier Gewerkschaften haben im Urheberrechtsstreit zwischen der New York Times und weiteren Klägern auf der einen und OpenAI auf der anderen Seite eine Stellungnahme eingereicht, berichtet Deadline. Beteiligt sind die Schauspielergewerkschaft SAG-AFTRA, die American Federation of Musicians sowie die Writers Guild of America East und West. Sie fordern den Richter auf, eine pauschale Fair-Use-Ausnahme für das Training von KI-Modellen abzulehnen.",
+            "In dem 34-seitigen Schriftsatz heißt es, OpenAI eigne sich „die Arbeit von Menschen aus der Mittel- und Arbeiterschicht“ an, um seine Technik zu entwickeln. Die Schäden durch nicht lizenziertes Training träfen nicht nur Unternehmen wie die klagenden Zeitungen, sondern unzählige Fachleute hinter den Werken. Letztlich sei der Streit „nicht mehr als ein gewöhnlicher Urheberrechtsfall“ und müsse auch so behandelt werden.",
+            "In dem gebündelten Verfahren in New York streitet OpenAI mit der New York Times, Zeitungen aus Florida und Arkansas sowie Autorinnen und Autoren wie David Baldacci, George Saunders, Scott Turow und Elin Hilderbrand.",
+            "Die Gewerkschaften verweisen auf ihre eigenen Tarifverträge. In den Verhandlungen 2026 hatten Autoren und Schauspieler ein Recht auf Benachrichtigung und Verhandlung durchgesetzt, wenn ihre Werke an Dritte zum Training kommerzieller KI lizenziert werden. Ein Urteil, das Training grundsätzlich als Fair Use einstuft, würde diese Vereinbarungen gegenstandslos machen, warnen sie."
+          ],
+          "highlight": "Ein Urteil, das Training grundsätzlich als Fair Use einstuft, würde diese Vereinbarungen gegenstandslos machen, warnen sie.",
+          "assessment": [
+            "Das Argument ist klug gewählt. Die Gewerkschaften sagen nicht, KI-Training müsse verboten werden, sondern: Es gibt bereits einen Markt dafür, also kann es keine kostenlose Ausnahme sein. Genau dieser Punkt, ob ein Lizenzmarkt existiert, spielt bei der Fair-Use-Prüfung in den USA eine große Rolle.",
+            "Der Ausgang dieses Verfahrens wird mehr über die Zukunft von Film, Musik und Journalismus entscheiden als jeder einzelne Tarifvertrag. Dass Hollywood-Gewerkschaften sich hier an die Seite von Zeitungen stellen, zeigt, wie sehr die Kreativbranchen inzwischen dieselbe Front sehen."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg?w=1024",
+            "alt": "Symbolbild zum Rechtsstreit zwischen OpenAI und der New York Times",
+            "credit": "Getty Images / Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "FromSoftware verschiebt The Duskbloods auf 2027",
+          "lead": "Das Switch-2-exklusive Spiel der Elden-Ring-Macher erscheint nicht mehr in diesem Jahr. Grund sind Erkenntnisse aus dem Netzwerktest im August.",
+          "body": [
+            "The Duskbloods kommt erst 2027. Das hat FromSoftware am 29. Oktober in einer Erklärung auf X bestätigt. Ein konkretes Datum hatte das Studio für das Switch-2-Spiel nie genannt, je näher das Jahresende rückte, desto mehr rechneten Spieler deshalb mit einer Verschiebung.",
+            "„Während sich die Entwicklung von The Duskbloods in der Phase der finalen Anpassungen befindet, haben wir entschieden, das Veröffentlichungsfenster auf 2027 zu verlegen“, schreibt das Studio. Man entschuldige sich bei allen, die auf das Spiel warten, und danke für die Geduld.",
+            "Als Begründung nennt FromSoftware den Netzwerktest im August. Dabei habe man großes Interesse an den Kernideen gesehen, also am Kampfsystem, an der strategischen Tiefe und an den Möglichkeiten, sich als Spieler auszudrücken. Um diese Punkte weiter zu verbessern, brauche man mehr Zeit für Spielregeln und Balance.",
+            "Für den geschlossenen Test hatten sich laut VGC mehr Spieler angemeldet als für den Test von Elden Ring Nightreign, obwohl The Duskbloods nur auf der Switch 2 erscheint. Der erste Testlauf war allerdings von Anmeldefehlern überschattet."
+          ],
+          "highlight": "Um diese Punkte weiter zu verbessern, brauche man mehr Zeit für Spielregeln und Balance.",
+          "assessment": [
+            "Überraschend ist das nicht, eher ehrlich. Ein Mehrspielertitel lebt von der Balance, und wenn FromSoftware nach dem Test noch an den Regeln schrauben will, ist eine Verschiebung besser als ein holpriger Start, wie ihn Nightreign anfangs hatte.",
+            "Für Nintendo ist es trotzdem ärgerlich. The Duskbloods war eines der wenigen großen Exklusivspiele von Drittherstellern, mit denen die Switch 2 ihr erstes volles Weihnachtsgeschäft hätte bestreiten können."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/08/The_Duskbloods_14.jpg",
+            "alt": "Szene aus The Duskbloods",
+            "credit": "FromSoftware / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/"
+          }
+        },
+        {
+          "title": "Bericht: The Elder Scrolls 6 heißt „Sentinel“ und spielt in Hammerfell",
+          "lead": "Laut The Verge will Microsoft den vollen Titel schon im November bekanntgeben, womöglich zum 15. Jahrestag von Skyrim. Bestätigt ist bisher nichts.",
+          "body": [
+            "Microsoft könnte den vollständigen Namen von The Elder Scrolls 6 schon im kommenden Monat offiziell machen. Das berichtet The Verge unter Berufung auf Quellen, aufgegriffen von VGC und IGN. Der Titel soll The Elder Scrolls 6: Sentinel lauten. Als möglicher Anlass gilt der 15. Jahrestag von Skyrim am 11. November oder das 25-jährige Jubiläum der Xbox.",
+            "Nach dem Bericht spielt das Spiel in Hammerfell, einer Provinz, die schon in The Elder Scrolls 2: Daggerfall, in The Elder Scrolls Online und im Ableger Redguard von 1998 vorkam. Die Handlung soll sich mit der Geschichte der namensgebenden Elder Scrolls befassen und deren Geheimnisse erstmals für Spieler aufdecken. Der Schauplatz soll allerdings nicht zusammen mit dem Titel verkündet werden.",
+            "Das würde zu alten Fan-Theorien passen, wonach das Spiel um die Iliac-Bucht und die Stadt Sentinel angesiedelt ist. Skyrims früherer Lead Designer Bruce Nesmith hatte gesagt, ein solcher Schauplatz biete sich für Schiffe und Seefahrt an, was es in der Reihe so noch nicht gab.",
+            "Bethesda hatte The Elder Scrolls 6 bereits 2018 angekündigt, damals in einem sehr frühen Stadium. Seit dem Start von Starfield ist das Spiel nach Einschätzung von IGN die Hauptpriorität des Studios. Mit einer Veröffentlichung wird frühestens 2028 gerechnet."
+          ],
+          "highlight": "Der Titel soll The Elder Scrolls 6: Sentinel lauten.",
+          "assessment": [
+            "Unbestätigt, aber plausibel. The Verge hat bei Microsoft-Themen eine gute Trefferquote, und der Skyrim-Jahrestag wäre der naheliegende Termin für ein Lebenszeichen nach acht Jahren Funkstille.",
+            "Mehr als einen Namen sollte man allerdings nicht erwarten. Bethesda zeigt Spiele traditionell erst kurz vor dem Ziel richtig, und wer auf Spielszenen hofft, wird wohl noch ein Jahr warten müssen."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/" },
+            { "name": "IGN", "url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/elder-scrolls-6.jpg",
+            "alt": "Motiv zu The Elder Scrolls 6",
+            "credit": "Bethesda / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/"
+          }
+        },
+        {
+          "title": "Xbox-Chefin spricht von Lieferengpässen, die Zahlen zeigen 14 Prozent weniger Hardware-Umsatz",
+          "lead": "Asha Sharma sagt, die Nachfrage nach Xbox-Konsolen übersteige das Angebot. Die Quartalszahlen von Microsoft erzählen eine andere Geschichte.",
+          "body": [
+            "Microsoft hat am 28. Oktober seine Quartalszahlen vorgelegt. Der Xbox-Umsatz insgesamt sank um 2 Prozent, der Umsatz mit Konsolen um 14 Prozent, und das trotz gestiegener Preise. Als Grund nennt Microsoft eine „geringere Zahl verkaufter Konsolen“.",
+            "Xbox-Chefin Asha Sharma erklärte dazu: „Die Konsolenverkäufe bleiben durch das Angebot begrenzt, es gibt mehr Nachfrage als verfügbare Konsolen.“ Man arbeite daran, mehr Geräte zu den Spielern zu bringen, auch über ein erweitertes Programm für generalüberholte Konsolen. Gleichzeitig hob sie Rekorde bei Minecraft und World of Warcraft: Forever hervor sowie den „meistgelobten“ Call-of-Duty-Teil seit über einem Jahrzehnt.",
+            "Game Developer hält die Darstellung für schwer nachvollziehbar. Wenn die Nachfrage das Angebot übersteige, müsste der Hardware-Umsatz eher steigen. Stichproben im Handel zeigten zudem keine auffällige Knappheit bei Series X oder Series S. Denkbar sei allerdings, dass die weltweite Speicherknappheit die Produktion bremse oder dass Käufer vor GTA VI und möglichen Preiserhöhungen zugreifen.",
+            "Laut Finanzchefin Amy Hood ging der Rückgang bei Inhalten und Diensten auf weniger Umsatz mit Spielen anderer Hersteller und mit dem Game Pass zurück, teilweise ausgeglichen durch eigene Spiele. Der von Sharma eingeleitete Umbau der Sparte hat bislang mehr als 1800 Stellen gekostet und ist noch nicht abgeschlossen. Gears of War: E-Day, Anfang Oktober erschienen, erwähnte Microsoft in der Telefonkonferenz nicht."
+          ],
+          "highlight": "Der Xbox-Umsatz insgesamt sank um 2 Prozent, der Umsatz mit Konsolen um 14 Prozent, und das trotz gestiegener Preise.",
+          "assessment": [
+            "„Mehr Nachfrage als Angebot“ ist die freundlichste Art, einen Absatzeinbruch zu beschreiben. Wenn Konsolen wirklich knapp wären, würde man das in den Läden merken, und davon ist wenig zu sehen.",
+            "Interessanter ist das Schweigen über Gears of War: E-Day. Wenn ein großer eigener Titel mitten im Quartal nicht einmal erwähnt wird, lief er vermutlich nicht so, wie Microsoft gehofft hatte. Die Xbox wird zunehmend zu einer Marke für Spiele auf allen Plattformen, die Konsole selbst rückt in den Hintergrund."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft" },
+            { "name": "Game Developer", "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Xbox-Chefin Asha Sharma vor einem grün leuchtenden Xbox-Logo",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft"
+          }
+        },
+        {
+          "title": "Celeste und TowerFall verschwinden aus dem Xbox-Store, aus Protest gegen Microsoft",
+          "lead": "Entwicklerin Maddy Thorson hat ihre beiden Spiele von der Xbox zurückgezogen und schließt sich damit dem Boykottaufruf der BDS-Bewegung an.",
+          "body": [
+            "Die Indie-Klassiker Celeste und TowerFall sind auf der Xbox nicht mehr erhältlich. Wie IGN berichtet, hat Entwicklerin Maddy Thorson die Spiele selbst entfernen lassen. Sie begründet das mit ihrer Unterstützung der Bewegung Boycott, Divestment, Sanctions (BDS), die Unternehmen ins Visier nimmt, die mit der israelischen Regierung zusammenarbeiten oder in Israel investieren.",
+            "Die Entscheidung überraschte viele Fans, weil es keine Vorankündigung gab. Auf PlayStation, PC und Switch bleiben beide Spiele erhältlich. TowerFall war 2013 erschienen, Celeste 2018. Celeste gilt als eines der einflussreichsten Indie-Spiele seines Jahrzehnts. IGN hat Microsoft um eine Stellungnahme gebeten.",
+            "Thorson ist nicht die Erste. Schon in diesem Herbst hatte das Studio House House, bekannt für Untitled Goose Game, entschieden, sein neues Spiel Big Walk nicht auf der Xbox zu veröffentlichen. Die BDS-Bewegung hat Microsoft und die Spielesparte Xbox zu einem vorrangigen Boykottziel erklärt, vor allem wegen der Nutzung von Microsofts Clouddiensten durch das israelische Militär."
+          ],
+          "highlight": "Die BDS-Bewegung hat Microsoft und die Spielesparte Xbox zu einem vorrangigen Boykottziel erklärt, vor allem wegen der Nutzung von Microsofts Clouddiensten durch das israelische Militär.",
+          "assessment": [
+            "Wirtschaftlich spürt Microsoft das kaum, symbolisch schon. Celeste ist kein beliebiges Indie-Spiel, sondern ein Titel, auf den sich viele Entwickler als Vorbild berufen. Wenn solche Namen der Plattform den Rücken kehren, wird aus einzelnen Protesten ein Trend, und das in einer Phase, in der Xbox ohnehin um Glaubwürdigkeit ringt.",
+            "Man kann über den Boykott unterschiedlicher Meinung sein. Bemerkenswert ist aber, dass Entwickler hier eine Macht ausüben, die sie sonst selten haben: Sie entscheiden, wo ihre Arbeit verkauft wird."
+          ],
+          "sources": [
+            { "name": "IGN", "url": "https://www.ign.com/articles/celeste-and-towerfall-developer-explains-why-games-were-abruptly-delisted-from-xbox" }
+          ],
+          "image": {
+            "url": "https://assets-prd.ignimgs.com/2023/07/18/celeste-1689688002539.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "alt": "Spielszene aus Celeste",
+            "credit": "IGN",
+            "license": "Artikelbild IGN",
+            "source": "https://www.ign.com/articles/celeste-and-towerfall-developer-explains-why-games-were-abruptly-delisted-from-xbox"
+          }
+        },
+        {
+          "title": "Neu: Phantom Blade Zero startet mit über 700.000 gleichzeitigen Spielern auf Steam",
+          "lead": "Nach gemischten Kritiken zeigt der Start, dass das Actionspiel des chinesischen Studios S-Game ein großes Publikum findet. Es ist einer der 15 erfolgreichsten Starts in der Geschichte von Steam.",
+          "body": [
+            "Phantom Blade Zero hat in weniger als 24 Stunden nach dem Start auf Steam einen Höchstwert von mehr als 700.000 gleichzeitigen Spielern erreicht, berichtet Kotaku. Damit liegt es auf Platz 15 der meistgespielten Spiele zum Start auf Valves Plattform. Eurogamer hatte wenige Stunden nach dem Start noch 431.541 gleichzeitige Spieler laut SteamDB gemeldet, das Spiel lag da bereits auf Platz zwei hinter Counter-Strike 2 und an der Spitze der Steam-Verkaufscharts. Vor dem Start soll es Schätzungen zufolge schon mehr als eine Million Mal verkauft worden sein.",
+            "Entwickelt wurde das Actionspiel von S-Game, einem chinesischen Studio, das zuvor nur Mobilspiele gemacht hatte. Kotaku beschreibt es als „nicht ganz Soulslike“, die Geschichte umfasst rund 30 Stunden.",
+            "Vergleiche mit Black Myth: Wukong liegen nahe, das mit 2.415.714 gleichzeitigen Spielern den zweitgrößten Steam-Start überhaupt hingelegt hatte. Der in Shenzhen ansässige Berater Daniel Camilo erwartet aber keinen ähnlichen Verlauf: Phantom Blade Zero sei nirgends ein kulturelles Phänomen, nicht einmal in China, während von Wukong selbst Großeltern gewusst hätten.",
+            "S-Game hat bereits einen ersten großen Patch mit 5 Gigabyte veröffentlicht, der die Leistung auf schwächeren PCs und Handhelds verbessern soll. Studiochef und Creative Director Soulframe Liang schrieb in einem Brief an die Spieler, die Wurzeln des Spiels lägen in einem Indie-Projekt aus seiner Studienzeit, „in einer Zeit der Not und Unsicherheit“."
+          ],
+          "highlight": "Phantom Blade Zero hat in weniger als 24 Stunden nach dem Start auf Steam einen Höchstwert von mehr als 700.000 gleichzeitigen Spielern erreicht, berichtet Kotaku.",
+          "assessment": [
+            "Vor wenigen Tagen ging es hier um die ersten Tests mit glänzenden Kämpfen und schwacher Geschichte. Die Spieler scheint die Geschichte wenig zu stören. Nach Wukong ist das der zweite Beweis, dass chinesische Studios im Actiongenre ganz vorne mitspielen.",
+            "Dass ein früheres Mobilstudio das schafft, sollte westlichen Verlagen zu denken geben. Während dort Studios geschlossen und Projekte gestrichen werden, wächst in China eine Generation von Entwicklern heran, die große Einzelspielerspiele baut und damit Erfolg hat."
+          ],
+          "sources": [
+            { "name": "Kotaku", "url": "https://kotaku.com/phantom-blade-zero-just-rocketed-onto-steam-with-700000-concurrent-players-2000751005" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/10/phantom-blade.jpg",
+            "alt": "Kampfszene aus Phantom Blade Zero",
+            "credit": "S-Game / Kotaku",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/phantom-blade-zero-just-rocketed-onto-steam-with-700000-concurrent-players-2000751005"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Patrick Stewart ist tot",
+          "lead": "Der Darsteller von Captain Jean-Luc Picard und Professor Charles Xavier starb mit 86 Jahren in Los Angeles. Er litt an Alzheimer und Lewy-Körper-Demenz.",
+          "body": [
+            "Sir Patrick Stewart ist am Mittwoch, dem 28. Oktober, in seinem Haus in Los Angeles gestorben. Das teilte seine Familie am Tag darauf mit. Er wurde 86 Jahre alt. Laut der Mitteilung auf seinem Instagram-Konto starb er nach einer „kurzen und bewegenden Reise mit Alzheimer und Lewy-Körper-Demenz“. Seine Frau Sunny Ozell war bei ihm.",
+            "Stewart wurde am 13. Juli 1940 in Mirfield in Yorkshire geboren und kam von der Bühne. Er gehörte zur Royal Shakespeare Company und war ein gefeierter Shakespeare-Darsteller, als er mit 47 Jahren die Rolle seines Lebens bekam: Captain Jean-Luc Picard in Star Trek: The Next Generation. Die Rolle machte ihn weltberühmt, er spielte sie in mehreren Kinofilmen und später in der eigenen Serie Picard.",
+            "Für ein zweites großes Publikum wurde er im Jahr 2000 Professor Charles Xavier in X-Men. Er spielte die Figur in mehreren X-Men-Filmen, in Doctor Strange in the Multiverse of Madness und im kommenden Avengers: Doomsday, der am 18. Dezember startet und laut IGN sein letzter Filmauftritt sein wird. Zu seinen weiteren Arbeiten gehören Excalibur, David Lynchs Dune, Robin Hood: Helden in Strumpfhosen, Green Room, Der Prinz von Ägypten und Ich, Claudius. Viele Jahre spielte er Ebenezer Scrooge in einer Ein-Personen-Fassung von A Christmas Carol. Er lieh auch Figuren in Spielen wie Oblivion und Castlevania: Lords of Shadow seine Stimme.",
+            "Sein langjähriger Freund Ian McKellen, mit dem er in den X-Men-Filmen spielte, schrieb, Stewart sei vor allem Yorkshireman gewesen: „Er trug das Herz auf der Zunge, und das machte ihn zu einem Mann, auf den man sich verlassen, den man bewundern und, in meinem Fall, lieben konnte.“ McKellen erinnerte sich, wie er Stewart einst davor gewarnt hatte, für eine Serie nach Hollywood zu gehen und dort „für Jahre verloren zu gehen“. Zum Glück habe Stewart das Risiko genommen.",
+            "In einem seiner letzten Interviews hatte Stewart laut The Hollywood Reporter gesagt, er werde nie aufhören: „Ich werde immer und für alle Zeit Schauspieler sein.“ Die Familie bittet statt Blumen um Spenden für die Alzheimer-Forschung."
+          ],
+          "highlight": "Er gehörte zur Royal Shakespeare Company und war ein gefeierter Shakespeare-Darsteller, als er mit 47 Jahren die Rolle seines Lebens bekam: Captain Jean-Luc Picard in Star Trek: The Next Generation.",
+          "assessment": [
+            "Patrick Stewart war eine seltene Erscheinung: ein klassischer Bühnenschauspieler, der Science-Fiction und Comicverfilmungen mit derselben Ernsthaftigkeit spielte wie Shakespeare. Picard war deshalb mehr als ein Raumschiffkapitän. Er war ein Anführer, der lieber redete als schoss, und hat damit für viele ein Bild davon geprägt, wie Autorität aussehen kann.",
+            "Dass sein letzter Auftritt ausgerechnet in einem Avengers-Film zu sehen sein wird, passt zu dieser Karriere zwischen Prestige und Popkultur. Der Dezember-Start dürfte für viele zu einem Abschied werden."
+          ],
+          "sources": [
+            { "name": "IGN", "url": "https://www.ign.com/articles/sir-patrick-stewart-dead-at-86" },
+            { "name": "The Verge", "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/" },
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-features/patrick-stewart-shakespeare-star-trek-make-it-so-memoir-1236743227/" }
+          ],
+          "image": {
+            "url": "https://assets-prd.ignimgs.com/2026/10/29/sir-patrick-stewart-dies-86-1793303301730.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "alt": "Patrick Stewart bei einem öffentlichen Auftritt",
+            "credit": "Gilbert Flores/Variety via Getty Images",
+            "license": "Artikelbild IGN",
+            "source": "https://www.ign.com/articles/sir-patrick-stewart-dead-at-86"
+          }
+        },
+        {
+          "title": "Elke Sommer mit 85 Jahren gestorben",
+          "lead": "Die Berlinerin war einer der wenigen deutschen Stars, die in den Sechzigern in Hollywood Karriere machten, an der Seite von Peter Sellers, Paul Newman und Dick Van Dyke.",
+          "body": [
+            "Elke Sommer ist tot. Die Schauspielerin starb im Alter von 85 Jahren, berichtet der Guardian. Bekannt wurde sie international vor allem durch den Pink-Panther-Film Ein Schuss im Dunkeln, die Agatha-Christie-Verfilmung Ein Unbekannter rechnet ab von 1974 und die britische Komödie Carry On Behind.",
+            "Geboren wurde sie 1940 in Berlin als Elke Schletz, Tochter eines evangelischen Pfarrers. Im Krieg wurde die Familie nach Bayern evakuiert. Eigentlich wollte sie Dolmetscherin werden, doch 1958 entdeckte sie der italienische Regisseur Vittorio De Sica, nachdem sie in Italien einen Schönheitswettbewerb gewonnen hatte. Es folgten italienische Komödien und das westdeutsche Drama Das Totenschiff mit Horst Buchholz.",
+            "Dank ihres Sprachtalents drehte sie 1961 ihren ersten englischsprachigen Film. 1963 gelang mit Der Preis an der Seite von Paul Newman der Durchbruch in Hollywood, dafür erhielt sie einen Golden Globe als vielversprechendste Nachwuchsdarstellerin. In Ein Schuss im Dunkeln spielte sie neben Peter Sellers ein Dienstmädchen, das einer Mordserie verdächtigt wird. Danach drehte sie mit James Garner, Dick Van Dyke und Bob Hope.",
+            "In den Siebzigern spielte sie in zwei Kulthorrorfilmen von Mario Bava, Baron Blood und Lisa und der Teufel. Später zog sie sich vom Film weitgehend zurück und widmete sich der Malerei. Sie war zweimal verheiratet, mit dem Autor Joe Hyams und mit dem Hotelier Wolf Walther, der in diesem Jahr starb."
+          ],
+          "highlight": "1963 gelang mit Der Preis an der Seite von Paul Newman der Durchbruch in Hollywood, dafür erhielt sie einen Golden Globe als vielversprechendste Nachwuchsdarstellerin.",
+          "assessment": [
+            "Elke Sommer steht für eine Zeit, in der Hollywood europäische Darstellerinnen vor allem als Exotik vermarktete. Sie wurde als „Sexbombe“ verkauft, hatte aber mehr zu bieten: Sie sprach mehrere Sprachen, spielte Komödie wie Horror und hat sich in einer Branche gehalten, die deutschen Schauspielern nach dem Krieg wenig zutraute.",
+            "Dass ihr Tod am selben Tag wie der von Patrick Stewart bekannt wurde, wird ihn in vielen Medien leiser erscheinen lassen. Für die deutsche Filmgeschichte ist er nicht weniger bedeutsam."
+          ],
+          "sources": [
+            { "name": "The Guardian", "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies" }
+          ],
+          "image": {
+            "url": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0494b084e18c10f307cbd17136f270dd",
+            "alt": "Elke Sommer",
+            "credit": "The Guardian",
+            "license": "Artikelbild The Guardian",
+            "source": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies"
+          }
+        },
+        {
+          "title": "Iran verurteilt Jafar Panahi zu mehr als fünf Jahren Haft",
+          "lead": "Ein Gericht hat den Regisseur von „Ein einfacher Unfall“ in Abwesenheit verurteilt und die Beschlagnahmung seines gesamten Vermögens angeordnet.",
+          "body": [
+            "Der iranische Regisseur Jafar Panahi ist zu einer neuen Haftstrafe von fünf Jahren und einem Monat verurteilt worden. Das sagte sein Anwalt Mostafa Nili der iranischen Nachrichtenseite Emtedad, wie der Guardian berichtet. Das Gericht ordnete außerdem die Beschlagnahmung seines gesamten Vermögens an, verhängte ein zweijähriges Ausreiseverbot und untersagte ihm zwei Jahre lang die Nutzung sozialer Medien.",
+            "Das Urteil fiel in Abwesenheit. Panahi war im März von einer Auslandsreise zurückgekehrt, auf der er für seinen Film Ein einfacher Unfall geworben hatte, obwohl er bereits im vergangenen Jahr in Abwesenheit wegen „Propaganda gegen das System“ zu einem Jahr Haft verurteilt worden war. Ein Freund sagte der Nachrichtenagentur AP, Panahi sei nach dem Urteil nicht festgenommen worden.",
+            "Welche Vorwürfe dem neuen Urteil zugrunde liegen, ist unklar. Laut Nili laufen derzeit drei Verfahren gegen Panahi. Von der Verhandlung habe er erst erfahren, als vergangene Woche die Bankkonten seines Mandanten eingefroren wurden. Ein Menschenrechtsanwalt hält die Beschlagnahmung für womöglich verfassungswidrig.",
+            "Die Schauspielerin Setareh Maleki, die nach einem Film von Mohammad Rasoulof ins Exil gehen musste, sagte dem Guardian, eine der größten Ängste einer Diktatur sei, die Kontrolle über die Geschichten zu verlieren, die Menschen erzählen. Das Center for Human Rights in Iran warnt, die Behörden gingen verstärkt gegen Künstler, Autoren und Musiker vor."
+          ],
+          "highlight": "Das Gericht ordnete außerdem die Beschlagnahmung seines gesamten Vermögens an, verhängte ein zweijähriges Ausreiseverbot und untersagte ihm zwei Jahre lang die Nutzung sozialer Medien.",
+          "assessment": [
+            "Panahi ist der bekannteste Filmemacher Irans, und genau deshalb wird an ihm ein Exempel statuiert. Das Regime kann ihn nicht unsichtbar machen, also versucht es, ihn finanziell zu ruinieren und zum Schweigen zu bringen. Dass er nach seinem internationalen Erfolg freiwillig zurückgekehrt ist, macht ihn für die Behörden umso unbequemer.",
+            "Für Festivals und Filmpreise ist das eine Bewährungsprobe. Sie haben Panahi in den letzten Jahren gefeiert, jetzt wird sich zeigen, wie laut sie werden, wenn es ernst wird."
+          ],
+          "sources": [
+            { "name": "The Guardian", "url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized" }
+          ],
+          "image": {
+            "url": "https://i.guim.co.uk/img/media/eeda814a0e57b32cb66caf23aad99c1bc3a01f27/480_226_3047_2438/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaf18c07f2f1c8e5090cffb61c6db6f6",
+            "alt": "Der iranische Regisseur Jafar Panahi",
+            "credit": "The Guardian",
+            "license": "Artikelbild The Guardian",
+            "source": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized"
+          }
+        },
+        {
+          "title": "Godzilla Minus Zero: Erste Reaktionen sind euphorisch",
+          "lead": "Takashi Yamazakis Fortsetzung des Oscar-Gewinners Godzilla Minus One kommt am 3. November in Japan und am 6. November in Nordamerika ins Kino. Die Kritik ist begeistert.",
+          "body": [
+            "Nach weiteren Pressevorführungen in dieser Woche überschlagen sich die ersten Reaktionen auf Godzilla Minus Zero, berichtet The Hollywood Reporter. Der Film hatte bereits am 26. September beim New York Film Festival Weltpremiere. Am 1. November läuft er als Centerpiece-Gala beim Tokyo International Film Festival, am 3. November startet er in Japan, am 6. November in Nordamerika.",
+            "Regie und Drehbuch stammen wieder von Takashi Yamazaki. Godzilla Minus One hatte 2023 mit einem Budget von 15 Millionen Dollar weltweit mehr als 100 Millionen eingespielt und 2024 den Oscar für die besten visuellen Effekte gewonnen. Ryunosuke Kamiki, Minami Hamabe, Hidetaka Yoshioka und Kuranosuke Sasaki kehren zurück, neu dabei sind Min Tanaka und Masami Nagasawa. Es ist die erste japanische Produktion, die für IMAX gedreht wurde.",
+            "Laut Toho spielt der Film zwei Jahre nach dem ersten Teil: Japan kämpft sich gerade aus der Zerstörung zurück, als eine neue Bedrohung die mühsam erkämpfte Ruhe zerstört. In den Reaktionen wird mehrfach King Ghidorah genannt.",
+            "THR-Kritiker David Rooney nannte den Film eine „radioaktive Explosion“. Yamazaki übertreffe das Spektakel des ersten Teils und lege bei den Kämpfen immer wieder nach. Auf Rotten Tomatoes steht der Film bei 92 Prozent aus 50 Kritiken, auf Metacritic bei 78. Einige Stimmen merken an, dass der Film etwas weniger auf das Kriegstrauma und mehr auf Monsteraction setzt."
+          ],
+          "highlight": "Auf Rotten Tomatoes steht der Film bei 92 Prozent aus 50 Kritiken, auf Metacritic bei 78.",
+          "assessment": [
+            "Minus One war die große Überraschung des Kinojahres 2023, ein günstiger Film, der Hollywood bei den Effekten vorgeführt hat. Die Fortsetzung kann nicht mehr überraschen, aber offenbar überzeugen. Die Vergleiche mit The Dark Knight und Der Pate II in den Reaktionen sind übertrieben, zeigen aber die Stimmung.",
+            "Spannend wird der Hinweis, dass Minus Zero mehr auf Action setzt. Die Stärke des ersten Teils war gerade die Nachkriegsgeschichte. Wer ihn mochte, sollte trotzdem ins Kino gehen, und zwar auf die größte Leinwand, die er finden kann."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-first-reactions-toho-1236743206/" }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/MCDGOMI_EC012-H-2026.jpg?w=1296&h=730&crop=1",
+            "alt": "Szene aus Godzilla Minus Zero",
+            "credit": "Toho / The Hollywood Reporter",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-first-reactions-toho-1236743206/"
+          }
+        },
+        {
+          "title": "Donald Glover macht für Netflix eine PUBG-Serie",
+          "lead": "Der Atlanta-Schöpfer schreibt, inszeniert, produziert und spielt die Hauptrolle in einer Realserie nach dem Battle-Royale-Spiel von Krafton.",
+          "body": [
+            "Netflix verfilmt PlayerUnknown's Battlegrounds als Realserie. Donald Glover übernimmt laut IGN und Game Developer Drehbuch, Regie, Produktion und eine Hauptrolle. Sein Bruder Stephen Glover ist als Co-Autor und ausführender Produzent beteiligt.",
+            "Weitere ausführende Produzenten sind Michael Schaefer für Neon TV, Fam Udeorji für Gilga sowie Taeseok Jang und Sujin Lee für LV3H, die Unterhaltungssparte von Krafton. Der südkoreanische Konzern will seine Marke nach eigenen Angaben zu „originären Unterhaltungsinhalten“ ausbauen.",
+            "PUBG war ursprünglich ein reines Mehrspielerspiel, in dem 100 Spieler auf einer Insel um das Überleben kämpfen. Inzwischen gibt es eine Hintergrundgeschichte: Ein Milliardär, der 1965 als einziger einen sowjetischen Angriff auf die fiktive Insel Erangel überlebte, kauft die Insel später und lässt dort Menschen gegeneinander antreten, beobachtet von einer reichen Elite. IGN fühlt sich an Squid Game erinnert.",
+            "Glover ist durch Community, Atlanta und Swarm bekannt und hat zwei Emmys und zwei Golden Globes gewonnen. Die Serie reiht sich in eine Welle prominent besetzter Spieleverfilmungen ein, zuletzt hieß es, Michael B. Jordan und Christopher McQuarrie wollten einen Battlefield-Film machen."
+          ],
+          "highlight": "Donald Glover übernimmt laut IGN und Game Developer Drehbuch, Regie, Produktion und eine Hauptrolle.",
+          "assessment": [
+            "Auf dem Papier eine seltsame Paarung. PUBG ist eines der am wenigsten erzählerischen Spiele überhaupt, Glover einer der eigenwilligsten Autoren im amerikanischen Fernsehen. Gerade deshalb könnte es funktionieren: Wenn kaum Vorlage da ist, hat der Autor freie Hand, und Atlanta hat gezeigt, was Glover daraus machen kann.",
+            "Für Netflix ist es auch ein Signal nach dem Bericht, Xbox habe ein 500-Millionen-Dollar-Angebot für seine Spielemarken abgelehnt. Wer die großen westlichen Marken nicht bekommt, holt sich eben die koreanischen."
+          ],
+          "sources": [
+            { "name": "IGN", "url": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover" },
+            { "name": "Game Developer", "url": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover" }
+          ],
+          "image": {
+            "url": "https://assets-prd.ignimgs.com/2026/10/29/donald-glover-to-direct-star-in-pubg-series-netflix-1793301671634.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "alt": "Donald Glover und Motiv aus PUBG",
+            "credit": "IGN",
+            "license": "Artikelbild IGN",
+            "source": "https://www.ign.com/articles/pubg-is-getting-a-live-action-series-on-netflix-written-directed-by-and-starring-donald-glover"
+          }
+        },
+        {
+          "title": "Japans Animebranche wächst auf Rekordumsatz von 28 Milliarden Dollar",
+          "lead": "Der Branchenverband AJA meldet für 2025 ein Plus von 15,8 Prozent. Erstmals seit Jahren wuchs auch der Heimatmarkt deutlich.",
+          "body": [
+            "Die japanische Animeindustrie hat 2025 einen Umsatz von 28,18 Milliarden Dollar erzielt, umgerechnet 4,45 Billionen Yen und 15,8 Prozent mehr als im Vorjahr. Das geht aus dem Jahresbericht der Association of Japanese Animations hervor, der beim Filmmarkt TIFFCOM in Tokio vorgestellt wurde, wie Deadline berichtet.",
+            "Auf das Ausland entfielen 16,1 Milliarden Dollar, knapp 57 Prozent des Gesamtumsatzes, auf Japan selbst 12 Milliarden. Anders als 2024, als vor allem das Auslandsgeschäft um 26 Prozent zulegte und der Heimatmarkt stagnierte, wuchsen 2025 beide Bereiche: der heimische Markt um gut 14 Prozent, das Ausland um 17 Prozent. Seit 2020 liegt das Auslandsgeschäft vor dem japanischen.",
+            "Großen Anteil hatte Demon Slayer: Infinity Castle, der weltweit rund 800 Millionen Dollar einspielte und damit der erfolgreichste japanische Film aller Zeiten ist. Bei den Produktionsstudios selbst kommt deutlich weniger an: Ihre Einnahmen stiegen um 8 Prozent auf 3,2 Milliarden Dollar. Laut Berichtsautor Masahiro Hasegawa behalten immer mehr Studios Anteile an ihren Werken, um am Auslandsgeschäft beteiligt zu sein.",
+            "Die japanische Regierung will die Exporte der Inhaltebranche bis 2033 auf 127 Milliarden Dollar steigern. Für Anime liegt das Ziel bei 38 Milliarden Dollar Exportumsatz, fast doppelt so viel wie heute."
+          ],
+          "highlight": "Auf das Ausland entfielen 16,1 Milliarden Dollar, knapp 57 Prozent des Gesamtumsatzes, auf Japan selbst 12 Milliarden.",
+          "assessment": [
+            "Anime ist längst kein Nischenprodukt mehr, sondern eine der erfolgreichsten Kulturexporte der Welt. Die Zahlen bestätigen, was die Kinocharts zeigen: Ein japanischer Animationsfilm kann heute weltweit so viel einspielen wie ein großer Hollywood-Blockbuster.",
+            "Der wunde Punkt bleibt die Verteilung. Von 28 Milliarden kommen nur gut 3 Milliarden bei den Studios an, die die Arbeit machen. Solange die Zeichnerinnen und Zeichner unter Zeitdruck und schlechter Bezahlung leiden, ist der Rekord vor allem ein Erfolg der Rechteinhaber."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/" },
+            { "name": "Variety", "url": "https://variety.com/2026/film/markets-festivals/japan-anime-market-record-28-billion-local-sales-surge-1236934838/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2025/12/Tanjiro.jpeg?w=1024",
+            "alt": "Tanjiro aus Demon Slayer",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Pompeji: Ein Schrank mit Kinderamuletten, Kosmetik und 38 Münzen",
+          "lead": "In einem Haus an der Via dell'Abbondanza haben Archäologen den Inhalt eines Holzschranks rekonstruiert, den seine Besitzer beim Ausbruch des Vesuvs im Jahr 79 zurückließen.",
+          "body": [
+            "Bei Ausgrabungen im Haus IX 11, 7 in Pompeji, das traditionell einem Cornelius Maximus zugeschrieben wird, hat der Archäologische Park den Inhalt eines hölzernen Schranks rekonstruiert. Der Schrank selbst ist nicht erhalten, seine Form und sein Inhalt lassen sich aber aus den Funden ableiten. Das Haus liegt an der Via dell'Abbondanza, einer der belebtesten Straßen der Stadt.",
+            "Besonders auffällig sind mindestens 24 Miniaturanhänger, die einst eine Halskette bildeten. Sie bestehen aus Fayence, Knochen, Glaspaste und Bergkristall und zeigen unter anderem die Götter Bes und Merkur, Hände und Füße, Pinienzapfen und Weintrauben. Archäologen deuten sie als crepundia, klappernde Schmuckstücke der römischen Kindheit, die als Schutzamulett dienten und Erwachsenen halfen, kleine Kinder am Geräusch zu orten.",
+            "Solche Ketten wurden oft bis ins Erwachsenenalter aufbewahrt, als Erinnerung an die Kindheit in einer Gesellschaft, in der viele weit von ihrer Familie entfernt lebten. Wer die Kette trug, ist unbekannt.",
+            "Daneben lagen Pinzetten, ein Werkzeug zum Anmischen von Schminke, ein Glasfläschchen für Parfüm oder Salbe, ein Weihrauchbrenner, eine Bronzelampe, Kochgeschirr und Bleigewichte, die auf einen Handel hindeuten könnten. 38 Bronzemünzen steckten in einem kleinen geflochtenen Behälter aus Pflanzenfasern. In einer Amphore fanden die Forscher zudem die Skelette zweier junger Waldmäuse.",
+            "Dass Münzen und Erinnerungsstücke zurückblieben, spricht dafür, dass die Bewohner beim Ausbruch keine Zeit hatten, sie zu holen. Ob sie entkamen oder starben, lässt sich nicht sagen. Parkdirektor Gabriel Zuchtriegel betont den Zusammenhang der Dinge: Körperpflege, Arbeit und Erinnerung an einem Ort."
+          ],
+          "highlight": "Archäologen deuten sie als crepundia, klappernde Schmuckstücke der römischen Kindheit, die als Schutzamulett dienten und Erwachsenen halfen, kleine Kinder am Geräusch zu orten.",
+          "assessment": [
+            "Pompeji liefert selten Schätze im klassischen Sinn, aber immer wieder solche Momentaufnahmen. Ein Schrank, in dem Kochtöpfe, Schminke, Geld und eine Kinderkette nebeneinander liegen, sagt mehr über römisches Wohnen als jedes Prunkfresko.",
+            "Am stärksten wirkt die Kette. Dass ein Erwachsener sein Kinderamulett aufhebt, ist eine Geste, die man sofort versteht, über 2000 Jahre hinweg."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/2000-year-old-cupboard-in-pompeii-reveals-24-protective-amulets-and-38-coins/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/00_pompeii_cover_16x9.jpg",
+            "alt": "Funde aus dem Schrank im Haus des Cornelius Maximus in Pompeji",
+            "credit": "Archäologischer Park Pompeji / Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/2000-year-old-cupboard-in-pompeii-reveals-24-protective-amulets-and-38-coins/"
+          }
+        },
+        {
+          "title": "Constanța: Versiegelter Kindersarkophag mit Spielzeug aus der Römerzeit",
+          "lead": "Im antiken Tomis am Schwarzen Meer haben Archäologen einen 1800 Jahre alten Steinsarg geöffnet. Darin lagen ein Spielzeugpferd auf Rädern, eine Hahnrassel und Schutzamulette.",
+          "body": [
+            "Ein steinerner Sarkophag, verschlossen mit Bleiklammern und Mörtel, hat das Grab eines Kindes rund 18 Jahrhunderte lang geschützt. Die Archäologen Constantin Băjenaru und Cătălin Nopcea entdeckten ihn am 22. Oktober bei Rettungsgrabungen am Nordrand der römischen Nekropole von Tomis im heutigen Constanța. Am 27. Oktober öffneten Fachleute des Nationalmuseums für Geschichte und Archäologie den Sarg.",
+            "Unter den Beigaben waren zwei bemalte Tonspielzeuge: ein kleines Pferd auf Rädern und eine Rassel in Form eines Hahns. Die Rassel enthält noch kleine Kügelchen und klappert, wenn man sie bewegt, sagte die Archäologin Ana Hamat. Die Spielzeuge lassen vermuten, dass das Kind jünger war als die vier bis fünf Jahre, die die Größe des Sargs nahelegte.",
+            "Außerdem fanden sich Bronzearmreifen und zwei Anhänger, sogenannte bullae, Schutzamulette, die traditionell freigeborene römische Jungen trugen. Das Geschlecht des Kindes ist aber noch nicht bestimmt. Erhalten sind auch Teile eines Holzsargs mit Schwalbenschwanzverbindungen, Reste eines Leichentuchs und sorgfältig gefaltete Blätter, die als Blumengabe gedeutet werden.",
+            "Der Fundort liegt etwa 1,5 Kilometer außerhalb der antiken Stadtgrenze an einer Straße nach Histria und markiert die nördlichste bekannte Ausdehnung der Nekropole. Nach Angaben des Museums ist es der erste so gut erhaltene Kindersarkophag aus Tomis, bisher gefundene Sarkophage gehörten fast alle Erwachsenen. Die Qualität deutet auf eine wohlhabende Familie hin."
+          ],
+          "highlight": "Die Rassel enthält noch kleine Kügelchen und klappert, wenn man sie bewegt, sagte die Archäologin Ana Hamat.",
+          "assessment": [
+            "Kindergräber sind in der Archäologie oft schlecht erhalten und wenig erforscht, weil Kinder in vielen antiken Gesellschaften nicht dieselben Bestattungen bekamen wie Erwachsene. Ein versiegelter Sarkophag mit Holz, Stoff und Pflanzenresten ist deshalb ein Glücksfall für die Forschung.",
+            "Und es ist ein bewegender Fund. Eine Rassel, die nach 1800 Jahren noch klappert, erzählt mehr über die Trauer der Eltern als jede Inschrift. Zusammen mit den Kinderamuletten aus Pompeji ergibt das heute ein seltenes Bild römischer Kindheit."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/1800-year-old-roman-childs-sarcophagus-found-intact-with-toys-inside/" },
+            { "name": "Archaeology Magazine", "url": "https://archaeology.org/news/2026/10/29/childs-sarcophagus-discovered-in-romania/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Clay-horse-scaled.png",
+            "alt": "Tonpferdchen auf Rädern aus dem Kindersarkophag von Tomis",
+            "credit": "Nationalmuseum für Geschichte und Archäologie Constanța / Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/1800-year-old-roman-childs-sarcophagus-found-intact-with-toys-inside/"
+          }
+        },
+        {
+          "title": "Alte DNA: Geschwister in Spanien lagen 725 Kilometer voneinander entfernt begraben",
+          "lead": "Eine Studie in der Fachzeitschrift Cell zeigt, dass die römische Herrschaft die Bevölkerung der Iberischen Halbinsel stärker verändert hat als die späteren germanischen Wanderungen.",
+          "body": [
+            "Ein Forschungsteam um Pablo Carrión hat das Erbgut von 243 Menschen aus 31 Fundorten auf der Iberischen Halbinsel analysiert und mit bereits veröffentlichten Genomen verglichen. Die Studie in Cell untersucht, wie sich die Bevölkerung zwischen etwa 100 und 800 nach Christus verändert hat.",
+            "Ein Fall sticht heraus: Eine Frau wurde an der Via Augusta in Hostalot-Ildum im Nordosten Spaniens bestattet, ihre Beigaben, ein Glasgefäß und zwei Goldnadeln, verweisen auf Traditionen aus dem Donau- und Schwarzmeerraum. Ihr Bruder lag im Friedhof Los Blanes in Augusta Emerita, dem heutigen Mérida, rund 725 Kilometer entfernt. Beide hatten Vorfahren aus Mittel- und Nordeuropa und gehörten womöglich zur ersten Generation von Zuwanderern. Laut Studie ist das die größte bisher nachgewiesene Entfernung zwischen Verwandten ersten Grades in alter DNA.",
+            "Zu Fuß hätte der Weg zwischen beiden Gräbern etwa 24 Tage gedauert, zu Pferd 14. Die Forscher vermuten, dass die Frau auf einer Wanderung nach Süden starb, während ihr Bruder weiterzog. Belegen lässt sich das nicht.",
+            "Das größere Ergebnis betrifft die Römerzeit. Von 66 untersuchten Menschen aus dieser Epoche trugen 55 Vorfahren aus dem östlichen Mittelmeerraum, besonders eng verwandt mit Bevölkerungen im westlichen Anatolien. Auch aus Nordafrika kamen Zuwanderer. Die Wanderungen von Sueben, Vandalen, Alanen und Westgoten im 5. Jahrhundert veränderten das genetische Bild dagegen deutlich weniger."
+          ],
+          "highlight": "Von 66 untersuchten Menschen aus dieser Epoche trugen 55 Vorfahren aus dem östlichen Mittelmeerraum, besonders eng verwandt mit Bevölkerungen im westlichen Anatolien.",
+          "assessment": [
+            "Das ist ein Ergebnis, das ein verbreitetes Geschichtsbild geraderückt. Die Völkerwanderung gilt oft als der große Bevölkerungsumbruch, tatsächlich war das Römische Reich mit seinen Straßen, Häfen und Soldaten der viel stärkere Motor für Mobilität. Die Römerzeit war genetisch bunter als vieles, was danach kam.",
+            "Die Geschwistergeschichte macht das greifbar. Zwei Menschen aus dem Norden, getrennt auf einer römischen Straße, ohne dass je jemand davon erfahren hätte, bis 1600 Jahre später ein Labor ihre Verwandtschaft erkennt."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/ancient-dna-reunites-siblings-buried-725-kilometers-apart-1600-years-ago/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Via-Augusta-Siblings-1024x683.png",
+            "alt": "Grabfunde der Geschwister von der Via Augusta und aus Mérida",
+            "credit": "Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/ancient-dna-reunites-siblings-buried-725-kilometers-apart-1600-years-ago/"
+          }
+        },
+        {
+          "title": "Velsen: Der Tote im Brunnen des Römerkastells war kein Friese",
+          "lead": "Forscher aus Leiden haben ein 1977 gefundenes Skelett neu untersucht. Der Mann wurde mit einem römischen Dolch erstochen und wuchs in Südeuropa auf.",
+          "body": [
+            "Mark Driessen und Carol van Driel-Murray von der Universität Leiden haben die Überreste eines Mannes neu untersucht, der 1977 in einem Brunnen des römischen Kastells Velsen an der Küste Nordhollands gefunden wurde, berichtet Archaeology Magazine. Im Brunnen lagen außerdem ein Militärgürtel, ein Dolch, ein Ring, eine Fibel und eine Sandale mit Nagelsohle.",
+            "Bisher ging man davon aus, dass der Mann im Jahr 28 nach Christus starb, als sich die Friesen gegen römische Steuern erhoben, wie der Historiker Tacitus in seinen Annalen beschreibt. Die neue Untersuchung fand mehrere Stichwunden, auch an der Innenseite des Brustkorbs und am Becken. 3D-Modelle zeigen, dass sie vermutlich von einem römischen Militärdolch, einem pugio, stammen, womöglich von dem Dolch, der neben ihm lag. Dessen Klinge war rund 23 Zentimeter lang, die eiserne Scheide neu und mit Silber sowie rotem und gelbem Email verziert.",
+            "Der Mann war über 1,80 Meter groß und sehr muskulös. Weil sein Dolch abgenutzt und sein Gürtel aus nicht zusammenpassenden Teilen gefertigt war, halten ihn die Forscher für einen einfachen Soldaten, keinen Offizier. Sein Eisenring trägt eine Gemme mit Mars oder vielleicht Alexander dem Großen.",
+            "Die erste Untersuchung in den 1970er-Jahren hatte ihn wegen seiner Größe für einen Friesen gehalten. Eine Isotopenanalyse seines Zahnschmelzes zeigt nun aber, dass er seine Kindheit in Südeuropa verbrachte. Die Forscher halten drei Erklärungen für möglich: Er fiel beim Angriff der Friesen auf das Kastell, er wurde als Deserteur von den eigenen Leuten hingerichtet, oder Einheimische ermordeten ihn aus Rache."
+          ],
+          "highlight": "Eine Isotopenanalyse seines Zahnschmelzes zeigt nun aber, dass er seine Kindheit in Südeuropa verbrachte.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, was neue Methoden aus alten Funden herausholen. Fast fünfzig Jahre lang galt der Tote als Friese, jetzt ist er ein Soldat aus dem Süden, und aus einem Kriegsopfer wird ein Kriminalfall mit drei Verdächtigen.",
+            "Die Hinrichtung als Deserteur wäre die düsterste Variante, und die Stichwunden von innen passen eher zu einer gezielten Tötung als zu einem Kampf. Endgültig klären wird man das nicht, aber Tacitus ist als einzige Erklärung damit vom Tisch."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeology.org/news/2026/10/29/archaeologists-reexamine-remains-found-at-roman-fort-in-the-netherlands/" }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261029-Netherlands-Roman-Skeleton.jpg",
+            "alt": "Römischer Militärgürtel und Dolch aus dem Brunnen von Velsen",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/29/archaeologists-reexamine-remains-found-at-roman-fort-in-the-netherlands/"
+          }
+        }
+      ]
+    }
+  ]
+}
