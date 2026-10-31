@@ -1,5 +1,39 @@
 [
   {
+    "nr": 25,
+    "date": "2026-10-31",
+    "updated": "2026-10-31T07:50:42+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Anleger verlieren die Geduld mit den KI-Milliarden",
+      "Offizielle Claude-Erweiterung für Cursor war fast zwölf Stunden mit Hintertür verseucht",
+      "Ein Signal für alle: Große KI-Firmen wollen ein gemeinsames Nein zum Training respektieren",
+      "Googles KI-Satellit rechnet im Orbit und schickt ein Haiku zur Erde",
+      "Apple Intelligence kommt nach China, ohne neue Siri und mit Alibabas Qwen",
+      "Bericht: EA opferte BioWare für Star Wars Battlefront 3",
+      "Neu: Activision entschuldigt sich und entfernt Itaewon-Aufnahmen aus Modern Warfare 4",
+      "Ubisoft: Kein weiteres Assassin's-Creed-Remake in Arbeit",
+      "John Romero findet neuen Publisher für seinen gestrichenen Shooter",
+      "Forza-Gründer Dan Greenawalt verlässt Microsoft nach 27 Jahren",
+      "Regal und Cinemark verweigern Fincher-Film „Cliff Booth“ ihre IMAX-Säle",
+      "Kinojahr 2026 steuert auf 35,7 Milliarden Dollar zu, das beste seit 2019",
+      "Halloween an der Kinokasse: Elizabeth-Holmes-Doku hält Clayface in Schach",
+      "Scorsese: Der Sony-Hack hat meinen Cleopatra-Film mit Angelina Jolie zerstört",
+      "Georgiens „Guria“ gewinnt die Asia Pacific Screen Awards",
+      "Sony verfilmt das Horrorspiel Mouthwashing, Karyn Kusama führt Regie",
+      "Chauvet: UV-Licht zeigt eine natürliche Schutzschicht über 37.000 Jahre alten Pferden",
+      "Apollonia ad Rhyndacum: Ein Grab mitten zwischen den Theatersitzen",
+      "Australien gibt zwei geraubte Steinköpfe aus Song-Kaisergräbern an China zurück",
+      "Ungarn: Mehr als 700 römische Münzen an der Drau",
+      "Texas: Felsdach im Ceta Canyon liefert rund 3000 Funde aus bis zu 10.000 Jahren"
+    ]
+  },
+  {
     "nr": 24,
     "date": "2026-10-30",
     "updated": "2026-10-30T07:49:17+01:00",

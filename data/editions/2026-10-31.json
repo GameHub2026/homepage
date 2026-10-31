@@ -1,0 +1,637 @@
+{
+  "nr": 25,
+  "date": "2026-10-31",
+  "intro": "An der Börse kippt die Stimmung gegenüber den KI-Milliarden, und Anthropic muss kurz nach dem Börsenantrag einen Angriff auf seine Claude-Erweiterung erklären. Im Gaming erfährt man, warum BioWare wirklich schließen musste, im Kino legen sich zwei Kinoketten mit Netflix an. Dazu: 37.000 Jahre alte Pferde in Chauvet unter UV-Licht und ein rätselhaftes Grab zwischen Theatersitzen.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Anleger verlieren die Geduld mit den KI-Milliarden",
+          "lead": "An der Börse kippt die Stimmung: Die großen Techkonzerne geben so viel für Rechenzentren aus, dass ihnen das Bargeld ausgeht. Auch Anthropic bekommt das zu spüren.",
+          "body": [
+            "Alphabet, Amazon, Meta und Microsoft haben in den vergangenen zwei Wochen Investitionen von zusammen mehr als 740 Milliarden Dollar für dieses Jahr angekündigt. Die Wall Street liest das als Ausgaben für KI-Infrastruktur, also Rechenzentren und Chips. Früher wurden solche Summen an der Börse als Zeichen der Zuversicht belohnt. Zum Beginn des vierten Quartals schlägt das in Sorge um: um negativen freien Cashflow, wachsende Schulden und die Frage, ob sich das je rechnet.",
+            "Am Freitag zeigte sich das deutlich. Der Nasdaq verlor 2,9 Prozent, Nvidia fiel um 4 Prozent, Broadcom um mehr als 5 und Qualcomm um 11 Prozent. Alphabet hatte schon am Donnerstag 12 Prozent verloren, den schlechtesten Tag seiner Geschichte, und damit rund 500 Milliarden Dollar Börsenwert. Am Freitag ging es weiter abwärts.",
+            "Alphabet ist das deutlichste Beispiel für das Problem. Der Google-Mutterkonzern meldete für das dritte Quartal einen negativen freien Cashflow von 9,1 Milliarden Dollar, schon das zweite Quartal in Folge, bei Investitionen von 51,4 Milliarden. Für das Gesamtjahr plant Alphabet bis zu 205 Milliarden Dollar ein, 2027 soll es mehr werden. Gleichzeitig frisst der Erfolg des KI-Modus in der Google-Suche am Kerngeschäft: Das Suchanzeigengeschäft, etwa die Hälfte des Umsatzes, wuchs nur noch um 12 Prozent, so langsam wie seit fünf Quartalen nicht.",
+            "Amazon kommt über zwölf Monate auf einen negativen freien Cashflow von 42,4 Milliarden Dollar, nach einem Plus von 14,8 Milliarden ein Jahr zuvor, und will in diesem Jahr 220 Milliarden investieren. Die Aktie fiel trotz 39 Prozent Wachstum bei AWS um 7 Prozent. Meta lag im dritten Quartal mit 2,1 Milliarden im Minus und plant bis zu 145 Milliarden Dollar Investitionen. Nur Microsoft erzielte mit 18,6 Milliarden Dollar einen positiven freien Cashflow. Laut S&P Global Market Intelligence haben Microsoft, Alphabet, Amazon, Meta und Oracle 2026 zusammen 326 Milliarden Dollar Schulden aufgenommen, dreimal so viel wie im Vorjahr.",
+            "Das trifft auch Anthropic, das Anfang der Woche den Börsengang beantragt hat. Laut Financial Times hat Blackstone, Ankerinvestor einer 63 Milliarden Dollar schweren Finanzierung für Anthropics Chips, seinen Investoren gesagt, das Unternehmen werde nach dem Börsengang wohl nur eine Bonitätsnote im Doppel-B-Bereich bekommen, also die obere Stufe des spekulativen „Junk“-Bereichs. Zuvor hatte Blackstone noch eine Investment-Grade-Note vor 2027 in Aussicht gestellt. Anthropic und Blackstone wollten sich gegenüber TechCrunch nicht äußern."
+          ],
+          "highlight": "Alphabet hatte schon am Donnerstag 12 Prozent verloren, den schlechtesten Tag seiner Geschichte, und damit rund 500 Milliarden Dollar Börsenwert.",
+          "assessment": [
+            "Das ist noch kein Platzen einer Blase, aber der Moment, in dem der Markt anfängt, Rechnungen zu verlangen. Solange das Werbegeld sprudelte, konnten die Konzerne die KI-Wette aus der Portokasse bezahlen. Jetzt zahlen sie sie mit Schulden, und bei Google kannibalisiert die eigene KI auch noch das Geschäft, das alles finanziert.",
+            "Für Anthropic ist die Junk-Prognose unangenehm, aber logisch. Ein Unternehmen mit Milliardenverlusten und riesigen Rechenzentrumsverträgen ist für Kreditgeber eben ein Risiko. Das Geld wird teurer, und das genau in dem Moment, in dem die Firma es am dringendsten braucht."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+            "alt": "Symbolbild zu Börse und Finanzmärkten",
+            "credit": "Mick Haupt / Unsplash",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+          }
+        },
+        {
+          "title": "Offizielle Claude-Erweiterung für Cursor war fast zwölf Stunden mit Hintertür verseucht",
+          "lead": "Angreifer haben über Anthropics verifiziertes Konto im Marktplatz von Cursor eine manipulierte Version der Claude-Erweiterung verteilt. Bis zu 5000 Entwickler könnten betroffen sein.",
+          "body": [
+            "Die offizielle VS-Code-Erweiterung für Anthropics Claude-Modelle im Marktplatz des KI-Editors Cursor ist am Donnerstag kompromittiert worden. Cursor bestätigte am Freitag, dass die schädliche Version 2.1.313 „höchstens 5000 Nutzer“ erreicht habe, vermutlich über Downloads oder die automatische Aktualisierung, die in Cursor standardmäßig eingeschaltet ist. Einige Stunden später schob Anthropic die bereinigte Version 2.1.314 nach.",
+            "Laut dem Sicherheitsforscher Kevin Beaumont und der Firma Phorion wurde die verseuchte Version über Anthropics offizielles Konto bei Cursor veröffentlicht. „Es war ein Supply-Chain-Angriff, bei dem der Angreifer Zugriff auf den offiziellen Vertriebskanal bekam“, sagte Phorion-Mitgründer Luke Roberts zu Ars Technica. Wie die Angreifer an das Konto kamen, haben weder Cursor noch Anthropic erklärt.",
+            "Die Schadsoftware versuchte laut Cursor, eine dauerhafte SSH-Hintertür einzurichten: Sie fügte einen vom Angreifer kontrollierten SSH-Schlüssel hinzu, schaltete den lokalen SSH-Dienst ein und öffnete einen Reverse-SSH-Tunnel. Der Code war für Windows, macOS und Linux geschrieben. Weil Erweiterungen mit den Rechten der Entwicklungsumgebung laufen, hätte sie Zugriff auf lokale Dateien, Quellcode und Werkzeuge gehabt. Phorion zufolge las sie außerdem Variablennamen aus, um schnell zu sehen, welche Cloud-Zugangsdaten und API-Tokens auf einem Rechner liegen.",
+            "Fehler im Code verhinderten unter Windows und macOS in manchen Fällen, dass die Hintertür funktionierte. Cursor ließ den Server, zu dem die Verbindung aufgebaut wurde, beim Hoster abschalten, entfernte die Version und nahm den Marktplatz vorübergehend vom Netz, um Schlüssel zu tauschen und andere Erweiterungen zu prüfen. Wer die Erweiterung am Donnerstag zwischen 5:27 und 16:35 Uhr US-Ostküstenzeit installiert oder aktualisiert hat, sollte sich als betroffen betrachten.",
+            "Anthropic hat seine Kunden bis Freitagabend nicht öffentlich gewarnt. Fragen von Ars Technica beantworteten weder Anthropic noch Cursor."
+          ],
+          "highlight": "Wie die Angreifer an das Konto kamen, haben weder Cursor noch Anthropic erklärt.",
+          "assessment": [
+            "Das ist ein ernster Vorfall, und das Schweigen macht ihn schlimmer. Entwicklerrechner sind ein Hauptgewinn für Angreifer, weil dort die Schlüssel für Cloud-Konten und Produktivsysteme liegen. Wer eine solche Erweiterung über sein verifiziertes Konto ausliefert, schuldet seinen Nutzern mindestens eine klare Warnung.",
+            "Dass ausgerechnet Anthropic betroffen ist, das sich gern als besonders sicherheitsbewusst darstellt und gerade an die Börse geht, gibt der Sache zusätzliches Gewicht. Die automatische Aktualisierung von Erweiterungen, sonst ein Sicherheitsgewinn, war hier das Einfallstor."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+            }
+          ],
+          "image": {
+            "url": "https://live.staticflickr.com/7382/15787237274_8d3c544464_b.jpg",
+            "alt": "Bildschirm mit Quellcode, der sich spiegelt",
+            "credit": "qubodup (Flickr)",
+            "license": "CC BY 2.0",
+            "source": "https://www.flickr.com/photos/21051491@N02/15787237274"
+          }
+        },
+        {
+          "title": "Ein Signal für alle: Große KI-Firmen wollen ein gemeinsames Nein zum Training respektieren",
+          "lead": "OpenAI, Google, Microsoft und Anthropic unterstützen einen neuen Eintrag in der robots.txt, mit dem Webseiten das KI-Training bei allen Anbietern zugleich ausschließen können.",
+          "body": [
+            "Wer bisher verhindern wollte, dass die eigenen Texte in KI-Modellen landen, musste jedem Anbieter einzeln Bescheid geben, also jeden Crawler mit Namen in der robots.txt sperren. Ein neues gemeinsames Signal soll das ändern. OpenAI, Google, Microsoft und Anthropic haben angekündigt, es zu übernehmen. Zuerst berichtet hatte Search Engine Roundtable.",
+            "Das sogenannte „Policy Token“ hat Kevin Kelley vorgeschlagen, bei Anthropic technischer Leiter für Standards, und zwar bei der Internet Engineering Task Force (IETF). Es steht in der robots.txt einer Webseite, der Datei, die seit Jahrzehnten festlegt, welche Crawler eine Seite durchsuchen dürfen, ob für Suchmaschinen, Archive oder inzwischen KI-Training. Finden die Crawler der vier Firmen das Token, sollen sie die Seite nicht mehr abgreifen.",
+            "Anthropic nutzt das Signal bereits. Google und Microsoft wollen es im kommenden Jahr unterstützen, OpenAI „in den kommenden Monaten“. Microsoft kündigte zusätzlich feinere Einstellungen an, mit denen Betreiber getrennt dem Training oder dem sogenannten Grounding widersprechen können, bei dem ein Modell auf geprüfte Quellen verwiesen wird, um Halluzinationen zu verringern. In den Bing-Suchergebnissen sollen die Seiten trotzdem bleiben.",
+            "Meta-Sprecher Andy Stone äußerte Unterstützung für das gemeinsame Signal, sagte aber nicht, ob Meta sich daran halten wird. Der Vorstoß kommt, während Verlage weiter mit der Flut an KI-Crawlern kämpfen. Andere Ansätze sind der RSL-Standard, mit dem Seiten Crawlern Geld berechnen können, und Cloudflare, das KI-Crawler inzwischen standardmäßig blockiert."
+          ],
+          "highlight": "Finden die Crawler der vier Firmen das Token, sollen sie die Seite nicht mehr abgreifen.",
+          "assessment": [
+            "Gut, dass es kommt, aber man sollte es nicht überschätzen. Die robots.txt ist eine Bitte, keine Sperre, und sie wirkt nur bei denen, die sich daran halten wollen. Bezeichnend ist, dass Meta zwar applaudiert, sich aber nicht festlegt.",
+            "Für die vier Großen ist das Token auch ein bequemes Argument vor Gericht und gegenüber der Politik: Wer nicht widerspricht, hat zugestimmt. Die eigentliche Frage, ob und wie Verlage für ihre Inhalte bezahlt werden, beantwortet es nicht."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+            }
+          ],
+          "image": {
+            "url": "https://live.staticflickr.com/3555/3463419826_eebe8fcb07_b.jpg",
+            "alt": "Serverschränke in einem Rechenzentrum",
+            "credit": "torkildr (Flickr)",
+            "license": "CC BY-SA 2.0",
+            "source": "https://www.flickr.com/photos/8718930@N07/3463419826"
+          }
+        },
+        {
+          "title": "Googles KI-Satellit rechnet im Orbit und schickt ein Haiku zur Erde",
+          "lead": "Im Projekt Suncatcher hat Google erstmals seine KI-Chips im All gestartet und ein Sprachmodell eine Antwort erzeugen lassen. Es ist ein erster Schritt zu Rechenzentren im Weltraum.",
+          "body": [
+            "Googles Satellit mit eigenen KI-Chips hat seine erste Antwort aus dem All geliefert. In einem Blogbeitrag vom Freitag schreibt Google, man habe die Tensor Processing Units (TPUs) an Bord erfolgreich hochgefahren. Das darauf laufende Modell Gemma 4 erfüllte daraufhin eine Aufforderung, ein Haiku darüber zu schreiben, wie es ist, im Weltraum zu sein.",
+            "Daneben probierte Google weitere Aufgaben aus, etwa Limericks mit Weltraumbezug und Abfragen von Telemetriedaten. Der Satellit war Anfang Oktober in die Umlaufbahn gebracht worden. Er gehört zum Projekt Suncatcher, einem Experiment, mit dem Google prüft, ob sich KI-Rechenzentren eines Tages ins All verlagern lassen, wo Sonnenenergie fast unbegrenzt verfügbar ist.",
+            "Als Nächstes will Google testen, wie die Chips mit Hitzebelastung und Strahlung im Orbit zurechtkommen. „Wenn wir nachweisen, dass unsere TPUs im All zuverlässig Aufgaben abarbeiten, ebnet das den Weg zu unserem nächsten Meilenstein: zwei miteinander verbundene Satelliten im Jahr 2027“, schreibt das Unternehmen.",
+            "Google ist mit der Idee nicht allein. Mehrere Firmen, darunter Start-ups wie Satlyt, arbeiten daran, Satelliten zu Rechenzentren zu machen. Hintergrund ist der enorme Strom- und Flächenbedarf der KI-Rechenzentren auf der Erde."
+          ],
+          "highlight": "Als Nächstes will Google testen, wie die Chips mit Hitzebelastung und Strahlung im Orbit zurechtkommen.",
+          "assessment": [
+            "Ein Haiku aus dem All ist vor allem gute Öffentlichkeitsarbeit. Die eigentlich spannenden Daten kommen erst: ob die Chips Strahlung über Monate aushalten und ob sich die Abwärme im Vakuum loswerden lässt, das ist im All schwieriger als auf der Erde.",
+            "Trotzdem ist es bemerkenswert, wie schnell aus einer Spinnerei ein echtes Testprogramm geworden ist. Dass Google den Weg geht, zeigt, wie knapp Strom und Bauland für Rechenzentren inzwischen geworden sind."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0%2C1.4420367390612%2C100%2C97.115926521878&w=1200",
+            "alt": "Grafik zu Googles Projekt Suncatcher",
+            "credit": "Google",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+          }
+        },
+        {
+          "title": "Apple Intelligence kommt nach China, ohne neue Siri und mit Alibabas Qwen",
+          "lead": "Nach zwei Jahren Verzögerung bringt Apple seine KI-Funktionen auf den chinesischen Markt. Die Beta startet am 4. November, die fertige Version folgt im Dezember.",
+          "body": [
+            "Apple startet Apple Intelligence in China mit iOS 27.3. Das hat das Unternehmen auf seiner chinesischen Newsroom-Seite angekündigt, wie MacRumors zuerst berichtete. Die Funktionen sind zuerst in einer Beta von iOS 27.3 verfügbar, die am 4. November erscheinen soll. Die fertige Version ist für Dezember geplant.",
+            "Die neue KI-Siri gehört nicht dazu. Stattdessen bringt Apple ältere Funktionen nach China: Zusammenfassungen von Mitteilungen, Echtzeitübersetzung, Werkzeuge zum Umschreiben und Korrekturlesen, Visual Intelligence und das Entfernen von Objekten aus Fotos.",
+            "Für einige Funktionen hat Apple mit Alibaba zusammengearbeitet und dessen Chatbot Qwen eingebunden. Das ähnelt der Integration von ChatGPT, die Apple 2024 in anderen Ländern eingeführt hat. Westliche KI-Dienste wie ChatGPT sind in China nicht zugelassen.",
+            "Die chinesischen Behörden hatten Apple Intelligence im Juli genehmigt. Laut Reuters hat Apple eigens für China ein eigenes Sprachmodell trainiert."
+          ],
+          "highlight": "Die neue KI-Siri gehört nicht dazu.",
+          "assessment": [
+            "Für Apple ist das überfällig. China ist einer der wichtigsten iPhone-Märkte, und dort fehlte bislang genau das, womit Apple seine neuen Geräte bewirbt. Einheimische Hersteller wie Huawei oder Xiaomi hatten diese Lücke genutzt.",
+            "Das Paket ist allerdings ein abgespecktes, zwei Jahre altes Angebot. Ob das reicht, um Kunden zurückzugewinnen, ist fraglich. Und die Partnerschaft mit Alibaba zeigt, wie sehr Apple in China nach den Regeln Pekings spielen muss."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "alt": "iPhone mit Apple Intelligence auf einer Bank",
+            "credit": "The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Bericht: EA opferte BioWare für Star Wars Battlefront 3",
+          "lead": "Laut Bloomberg hatte EA zwei teure Science-Fiction-Spiele in der Planung und entschied sich für Star Wars. Mass Effect und das Studio dahinter mussten gehen.",
+          "body": [
+            "Ein wesentlicher Grund für die Schließung von BioWare war offenbar ein neues Star-Wars-Spiel. Das berichtet Bloomberg unter Berufung auf anonyme Quellen, die mit dem Vorgang vertraut sind. EA hatte vergangene Woche angekündigt, das traditionsreiche Studio hinter Dragon Age und Mass Effect zu schließen und das neue Mass Effect einzustellen.",
+            "Den Quellen zufolge sahen sich die EA-Manager das Portfolio der kommenden Jahre an, im Bewusstsein der 18 Milliarden Dollar Schulden, die dem Konzern durch die Übernahme unter Führung des saudischen Staatsfonds aufgebürdet wurden. Dabei stellten sie fest, dass zwei Science-Fiction-Actionspiele geplant waren, die jeweils Hunderte Millionen Dollar kosten würden: das nächste Mass Effect, inzwischen mutmaßlich unter dem Titel Mass Effect Universe, und Star Wars Battlefront 3.",
+            "EA habe sich für Battlefront 3 entschieden, weil man einem neuen Star-Wars-Spiel mehr Erfolg zutraute als einem neuen Mass Effect, und BioWare deshalb geschlossen. Variety hatte bereits berichtet, dass DICE und Respawn gemeinsam an einem „zukünftigen Projekt“ arbeiten sollen, vermutlich Battlefront 3.",
+            "Andere Faktoren spielten laut dem Bericht ebenfalls eine Rolle, etwa schwächere Kritiken der jüngsten BioWare-Spiele und interne Machtfragen. EA erklärte, man habe die Entscheidung „nach Monaten der Planung, Prüfung und Analyse“ getroffen und müsse die Teams „auf die größten Chancen für unsere Zukunft“ konzentrieren. Konkreter wurde der Konzern nicht."
+          ],
+          "highlight": "EA habe sich für Battlefront 3 entschieden, weil man einem neuen Star-Wars-Spiel mehr Erfolg zutraute als einem neuen Mass Effect, und BioWare deshalb geschlossen.",
+          "assessment": [
+            "Aus Sicht einer Bilanz ist die Rechnung nachvollziehbar: Star Wars verkauft sich fast von allein, Mass Effect musste nach Andromeda erst wieder beweisen, dass es zieht. Genau das ist aber das Problem. Wenn Schulden aus einer Übernahme die kreativen Entscheidungen diktieren, gewinnt immer die bekannte Lizenz.",
+            "Bitter ist, dass damit nicht nur ein Spiel, sondern ein Studio mit drei Jahrzehnten Geschichte verschwindet. Ein verschobenes Mass Effect hätte man nachholen können, ein aufgelöstes Team nicht."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/ea-chose-to-shut-down-bioware-so-it-could-make-star-wars-battlefront-3-instead-its-claimed/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2023/11/mass-effect-n7-day.jpg",
+            "alt": "Motiv zum N7-Tag von Mass Effect",
+            "credit": "EA / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/ea-chose-to-shut-down-bioware-so-it-could-make-star-wars-battlefront-3-instead-its-claimed/"
+          }
+        },
+        {
+          "title": "Neu: Activision entschuldigt sich und entfernt Itaewon-Aufnahmen aus Modern Warfare 4",
+          "lead": "Nach Protesten der Hinterbliebenen will Activision die echten Bilder von der Massenpanik in Seoul mit dem Update am 12. November aus dem Spiel nehmen.",
+          "body": [
+            "Activision hat sich für die Verwendung echter Nachrichtenbilder von der Massenpanik in Itaewon in Call of Duty: Modern Warfare 4 entschuldigt und angekündigt, sie zu entfernen. Das berichtet das südkoreanische Fachmedium Inven. Die Aufnahmen sollen mit dem nächsten Update am 12. November verschwinden.",
+            "Das Spiel dreht sich um einen fiktiven Großangriff Nordkoreas auf Südkorea. Im Vorspann läuft eine Montage aus Nachrichtenmeldungen, unterlegt mit echten Archivbildern. Darunter ist eine kurze Einstellung, in der ein Sanitäter einen am Boden liegenden Menschen wiederbelebt. Spieler erkannten darin Aufnahmen von der Halloween-Nacht 2022 in Seoul, als in einer engen Gasse 159 Menschen starben und 196 verletzt wurden.",
+            "Der Hinterbliebenenverband der Opfer vom 29. Oktober und die Korea Game Users Association hatten daraufhin die Entfernung verlangt. Über die Forderung hatte Heft Nr. 23 berichtet.",
+            "In der Erklärung an südkoreanische Medien schreibt Activision, Modern Warfare 4 sei ein fiktionales Werk, das realistische Immersion bieten solle. Man habe mit den echten Nachrichtenbildern „niemals beabsichtigt, ein tragisches Ereignis, einschließlich der Massenpanik in Itaewon, wachzurufen oder zu verharmlosen“. Man verneige sich „in tiefem Mitgefühl und mit einer Entschuldigung“ vor den Hinterbliebenen und Opfern."
+          ],
+          "highlight": "Die Aufnahmen sollen mit dem nächsten Update am 12. November verschwinden.",
+          "assessment": [
+            "Die Entschuldigung kam schnell und ohne Ausflüchte, das ist anzuerkennen. Man fragt sich trotzdem, wie so etwas durch die Abnahme eines der teuersten Spiele der Welt rutscht, das ausgerechnet in Korea spielt.",
+            "Der Fall zeigt, wie riskant es ist, für ein Kriegsspiel echtes Leid als Kulisse zu nutzen. Wer Realismus will, muss auch wissen, wessen Realität er da zeigt."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/cod-modern-warfare-4.jpg",
+            "alt": "Motiv aus Call of Duty: Modern Warfare 4",
+            "credit": "Activision / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/"
+          }
+        },
+        {
+          "title": "Ubisoft: Kein weiteres Assassin's-Creed-Remake in Arbeit",
+          "lead": "Nach dem Erfolg von Black Flag Resynced stellt Ubisoft klar, dass vorerst keine weiteren Neuauflagen kommen. Dazu gibt es Neues zum Mehrspielerprojekt Invictus und zum düsteren Hexe.",
+          "body": [
+            "In einem Herbst-Update auf der Ubisoft-Website hat Jean Guesdon, Leiter der Inhalte bei Assassin's Creed, Spekulationen über weitere Remakes eine Absage erteilt. „Wir wollen heute transparent sein: Derzeit ist kein weiteres Assassin's-Creed-Remake aktiv in Entwicklung“, schreibt er. Die Teams arbeiteten an den nächsten Kapiteln der Reihe, auch an Projekten mit neuen Schauplätzen und Geschichten, die noch nicht angekündigt sind.",
+            "Black Flag Resynced, das erste Remake der Reihe, habe dem Studio viel beigebracht, so Guesdon. Alte Systeme neu aufzubauen und Altes mit Neuem auszubalancieren, sei ein gewaltiger Aufwand gewesen. Eine geschlossene Tür sei die Absage aber nicht: Man werde weiter nach Gelegenheiten suchen, ältere Spiele zurückzubringen.",
+            "Zum Mehrspielerableger mit dem Codenamen Invictus berichtet Guesdon, dass Hunderte Spieler in einer ersten privaten Testrunde einen frühen Prototyp gespielt haben. Die Rückkehr des PvP sei gut angekommen, besonders Parkour, vertikale Karten und spielbare Figuren aus der Reihe. Die Tester hätten sich aber mehr von dem gewünscht, was Assassin's Creed ausmacht. Daran habe das Team in den vergangenen Monaten gearbeitet, Invictus entwickle sich nun „in eine spannende Richtung“.",
+            "Beim düsteren, auf Hexen ausgerichteten Hexe gebe es stetige Fortschritte, „es liegt aber noch Arbeit vor uns“. Das nächste große Update zu Hexe soll erst 2027 kommen."
+          ],
+          "highlight": "Das nächste große Update zu Hexe soll erst 2027 kommen.",
+          "assessment": [
+            "Die Remake-Absage ist weniger wichtig als der Satz zu Hexe. Das Projekt ist seit Jahren angekündigt, und dass vor 2027 nicht einmal ein großes Update kommt, deutet auf einen Start frühestens 2027, eher später.",
+            "Bei Invictus klingt die Rückmeldung der Tester verdächtig nach „generischer Shooter mit Kapuze“. Dass Ubisoft offen sagt, man habe umgesteuert, ist ehrlich, zeigt aber auch, wie unsicher das Projekt noch ist."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/07/assassins-creed-black-flag-resynced-4.jpg",
+            "alt": "Szene aus Assassin's Creed Black Flag Resynced",
+            "credit": "Ubisoft / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/ubisoft-says-no-more-assassins-creed-remakes-are-planned-as-it-gives-updates-on-invictus-and-hexe/"
+          }
+        },
+        {
+          "title": "John Romero findet neuen Publisher für seinen gestrichenen Shooter",
+          "lead": "Microsoft hatte Romero Games die Finanzierung entzogen, von 110 Leuten blieben fünf. Jetzt ist ein neuer Geldgeber gefunden, das Spiel wird kleiner neu gebaut.",
+          "body": [
+            "Doom- und Quake-Miterfinder John Romero hat für seinen unangekündigten Shooter einen neuen Publisher gefunden. Das sagte er VGC am Rande der Gamescom Asia. Microsoft hatte im Sommer im Zuge seiner Entlassungswelle den Vertrag mit Romero Games gekündigt. Mitarbeiter sprachen damals davon, das ganze Studio sei entlassen worden, Romero Games bestritt eine Schließung.",
+            "„Irgendwann haben wir gesagt: Okay, wir müssen Leute entlassen und dann schauen, was wir mit einem winzigen Team machen“, erzählt Romero. „Wir waren 110 Leute und sind auf fünf runtergegangen.“ Das Studio besitze aber alles selbst: Name, Marke, Grafik und Code. Deshalb habe er ein neues Spiel entworfen, das möglichst viel davon wiederverwendet.",
+            "Den Publisher fand Romero über einen Bekannten. Wer es ist und wann das Spiel angekündigt wird, darf er nicht sagen. Zehn frühere Mitarbeiter, die Leiter der einzelnen Teams, sind zurückgekehrt. Mit 15 bis 16 Leuten soll es vorerst bleiben, das Spiel sei für diese Größe geplant.",
+            "„Das Spiel, das wir hatten, können wir nicht zu Ende bringen, es ist ein Spiel für 110 Leute“, sagt Romero. Das neue sei eine komplette Neugestaltung. „Es ist ein Shooter, das ergibt Sinn, aber alles drumherum ist wirklich neu.“"
+          ],
+          "highlight": "„Wir waren 110 Leute und sind auf fünf runtergegangen.“",
+          "assessment": [
+            "Eine seltene gute Nachricht aus einem Jahr voller Schließungen. Dass Romero die Rechte an allem behalten hat, war seine Rettung, viele andere Studios stehen nach einer Kündigung mit leeren Händen da.",
+            "Der Fall zeigt aber auch die Härte der Lage: Gerettet wird nicht das Spiel, sondern das, was sich daraus verwerten lässt. Von 110 Arbeitsplätzen kommen 15 zurück."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2024/10/romero.jpg",
+            "alt": "Porträt von John Romero",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/john-romero-confirms-his-axed-xbox-game-has-a-new-publisher-and-hes-rehired-some-staff/"
+          }
+        },
+        {
+          "title": "Forza-Gründer Dan Greenawalt verlässt Microsoft nach 27 Jahren",
+          "lead": "Der Kopf hinter Forza Motorsport geht, während Turn 10 in Playground Games aufgeht. Es ist das Ende einer Ära bei Xbox.",
+          "body": [
+            "Dan Greenawalt, Gründer, Direktor und Vizepräsident von Turn 10, verlässt Microsoft nach 27 Jahren. Das geht aus einer internen Mitteilung hervor, über die The Verge berichtet hat. Playground-Games-Chef Trevor Williams schreibt darin: „Dan Greenawalt hat entschieden, dass jetzt der richtige Zeitpunkt ist, sich von Microsoft zurückzuziehen.“",
+            "Der Abschied fällt mit der Zusammenlegung von Turn 10 und Playground Games zusammen. Sie ist Teil der großen Umstrukturierung bei Xbox, die in diesem Jahr 3200 Entlassungen und vier Studioschließungen mit sich brachte. Die beiden Studios sollen künftig gemeinsam an Forza und Fable arbeiten.",
+            "Williams würdigt Greenawalts Laufbahn: von Project Gotham Racing auf der ersten Xbox 2001 über die Entwicklung von Forza und die Gründung von Turn 10 bis zu den vielen Auftritten auf der E3-Bühne, „meist mit einem dramatischen Auftritt und einem Supersportwagen im Schlepptau“.",
+            "Das letzte Spiel von Turn 10 war der Neustart von Forza Motorsport im Jahr 2023. Microsoft hatte nach früheren Kürzungen bei Turn 10 versichert, das Spiel und Forza Horizon 5 weiter zu unterstützen."
+          ],
+          "highlight": "Die beiden Studios sollen künftig gemeinsam an Forza und Fable arbeiten.",
+          "assessment": [
+            "Ein Rücktritt mit Ansage. Wenn das eigene Studio in einem anderen aufgeht, bleibt für den Gründer wenig Platz. Für die Rennsimulation Forza Motorsport ist das kein gutes Zeichen, denn Playground steht vor allem für das zugänglichere Horizon.",
+            "Greenawalt hat Xbox ein Vierteljahrhundert lang eine seiner verlässlichsten Marken geliefert. Dass er in einer Sparrunde geht, sagt viel über die Prioritäten bei Microsoft."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/forza-motorsport-2023-cars-on-track.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Mehrere Sportwagen aus Forza Motorsport auf einer Rennstrecke",
+            "credit": "Xbox Game Studios",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Regal und Cinemark verweigern Fincher-Film „Cliff Booth“ ihre IMAX-Säle",
+          "lead": "Netflix bringt David Finchers Film mit Brad Pitt exklusiv in IMAX-Kinos, doch zwei der drei großen US-Ketten machen nicht mit. Der Grund ist das kurze Kinofenster.",
+          "body": [
+            "Die US-Kinoketten Regal und Cinemark zeigen „The Further Mis-adventures of Cliff Booth“ nicht auf ihren IMAX-Leinwänden. Das hat IndieWire erfahren. Der Film von David Fincher mit Brad Pitt nach einem Drehbuch von Quentin Tarantino startet am 25. November exklusiv in IMAX-Sälen, zu Thanksgiving.",
+            "Vorerst läuft der Film nur auf den IMAX-Leinwänden von AMC weltweit und bei einigen kleineren Ketten, zusammen etwa 550 Säle. AMC hat in den USA rund 200 IMAX-Leinwände und damit die Mehrheit, Regal etwa 100, Cinemark knapp 20.",
+            "Regal und Cinemark werden ihre IMAX-Säle stattdessen wohl ein zweites Wochenende lang mit „Die Tribute von Panem: Sunrise on the Reaping“ belegen, statt einen Netflix-Film zu zeigen, der schon am 23. Dezember im Stream verfügbar ist. Normalerweise bestimmt IMAX, was auf seinen Leinwänden läuft. Weil IMAX hier erst spät als Partner eingestiegen ist, durften die Ketten diesmal aussteigen.",
+            "„Die Premiumleinwände von Regal gehören zu unseren wertvollsten Gütern“, erklärte Brooks LeBoeuf von Regal gegenüber IndieWire. Bei ihrer Vergabe zähle, wie sehr sich ein Verleih zum Kino bekenne. „Verkürzte Kinofenster wirken sich direkt auf diese Entscheidungen aus.“ Man unterstütze lieber Filme, die den Wert der Kinoexklusivität anerkennen, etwa den neuen Panem-Film."
+          ],
+          "highlight": "Bei ihrer Vergabe zähle, wie sehr sich ein Verleih zum Kino bekenne.",
+          "assessment": [
+            "Das ist der erste offene Machtkampf um Netflix' neue Kinostrategie, und die Kinos zeigen, dass sie nicht jedes Angebot dankbar annehmen. Ein Monat Exklusivität reicht ihnen nicht, wenn der Film danach zu Weihnachten auf dem Sofa läuft.",
+            "Für Netflix ist das ärgerlich, aber verkraftbar, AMC ist der größte Partner. Spannender ist die Frage, ob Netflix daraus lernt und längere Fenster anbietet. Für einen Fincher-Tarantino-Film wäre das eigentlich das Mindeste."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/10/UFP25_R02_104y_v04.189840.jpg?w=650",
+            "alt": "Szene aus „The Further Mis-adventures of Cliff Booth“",
+            "credit": "Netflix",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743/"
+          }
+        },
+        {
+          "title": "Kinojahr 2026 steuert auf 35,7 Milliarden Dollar zu, das beste seit 2019",
+          "lead": "Die Analysefirma Gower Street hat ihre Prognose für die weltweiten Kinoeinnahmen angehoben. Fünf Filme haben schon die Milliardenmarke geknackt.",
+          "body": [
+            "Gower Street Analytics rechnet für 2026 mit weltweiten Kinoeinnahmen von 35,7 Milliarden Dollar. Das sind 2,9 Prozent mehr als in der Prognose vom April auf der CinemaCon. Erreicht das Jahr diesen Wert, wäre das ein Plus von 6,3 Prozent gegenüber dem Vorjahr und das beste Ergebnis seit 2019, als 42,3 Milliarden Dollar zusammenkamen.",
+            "Die Prognose setzt sich aus 10,5 Milliarden Dollar für Nordamerika, 19,7 Milliarden für die internationalen Märkte ohne China und 5,5 Milliarden für China zusammen. Für Nordamerika wäre das ein Plus von 18 Prozent, für die internationalen Märkte von fast 14 Prozent. China dagegen fällt um etwa 26 Prozent zurück, weil Besucherzahlen und Ticketpreise sinken.",
+            "Fünf Filme haben in diesem Jahr weltweit mehr als eine Milliarde Dollar eingespielt: „Spider-Man: Brand New Day“ mit 2,5 Milliarden, „The Odyssey“ mit 1,8 Milliarden sowie „Toy Story 5“, „Michael“ und der „Super Mario Galaxy Movie“. Dazu kamen große Horror-Überraschungen aus dem Independent-Bereich wie „Obsession“ mit 525 Millionen und „Backrooms“ mit 400,6 Millionen Dollar. In China war der Rennfahrerfilm „Pegasus 3“ mit fast 654 Millionen Dollar der größte Erfolg.",
+            "Der Sommer brachte in Nordamerika mit 4,76 Milliarden Dollar einen Allzeitrekord. Noch ausstehend sind unter anderem „Godzilla Minus Zero“, „Die Tribute von Panem: Sunrise on the Reaping“, „Dune: Part Three“, „Avengers: Doomsday“ und „Jumanji: Open World“."
+          ],
+          "highlight": "Der Sommer brachte in Nordamerika mit 4,76 Milliarden Dollar einen Allzeitrekord.",
+          "assessment": [
+            "Das Kino ist zurück, zumindest in Nordamerika und Europa. Nach Jahren, in denen nach jedem Wochenende das Ende der großen Leinwand ausgerufen wurde, sind das robuste Zahlen, und mit Dune, Avengers und Panem kommt der stärkste Teil des Jahres erst noch.",
+            "Auffällig ist die Mischung: Neben den üblichen Marken haben billige Horrorfilme Hunderte Millionen eingespielt. Das ist das gesündeste Zeichen, weil es zeigt, dass Leute auch für Neues ins Kino gehen. Die Schwäche Chinas bleibt dagegen ein Problem für Hollywood."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/10/box-office-2026-global-projection-1237210039/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/09/Drive-In.jpg?w=1024",
+            "alt": "Collage aus Szenen von Obsession, Spider-Man: Brand New Day, Backrooms, Michael, The Odyssey und Toy Story 5",
+            "credit": "Focus Features/Sony/A24/Lionsgate/Universal/Disney/Getty",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/box-office-2026-global-projection-1237210039/"
+          }
+        },
+        {
+          "title": "Halloween an der Kinokasse: Elizabeth-Holmes-Doku hält Clayface in Schach",
+          "lead": "Am ruhigen Halloween-Wochenende kämpfen die Dokumentation „You Can See Everything“ und der DC-Film „Clayface“ um Platz eins. Die Doku liegt knapp vorn.",
+          "body": [
+            "An den US-Kinokassen liefern sich A24s „You Can See Everything“ und Warner Bros' „Clayface“ zum Halloween-Wochenende ein Kopf-an-Kopf-Rennen. Laut Deadlines Hochrechnung vom Freitag kommen beide auf jeweils mehr als 10 Millionen Dollar, mit leichtem Vorteil für die Dokumentation.",
+            "„You Can See Everything“, die drei Stunden lange Dokumentation von Lance Oppenheim und Nathan Fielder über die verurteilte Theranos-Gründerin Elizabeth Holmes, nahm am Freitag 3,2 Millionen Dollar ein und steuert auf 10 bis 11 Millionen im dritten Wochenende zu. Bis Sonntag stünde sie damit bei bis zu 63,7 Millionen Dollar. Holmes und Fielder waren laut Deadline die angesagten Halloween-Kostüme, getragen von einer Flut an Memes in den sozialen Netzwerken.",
+            "„Clayface“, der von James Watkins inszenierte Ableger über den Batman-Schurken, kommt auf 3,1 Millionen am Freitag und mehr als 10 Millionen im zweiten Wochenende, insgesamt 43,7 Millionen Dollar. Ein Rückgang von rund 60 Prozent gilt für einen Genrefilm als hoch.",
+            "Dahinter folgen Laikas Stop-Motion-Film „Wildwood“ mit 6,8 Millionen Dollar und insgesamt 25,1 Millionen, die Erotikkomödie „Wicker“ mit Olivia Colman mit rund 3,5 Millionen und „Street Fighter“ mit 3,3 Millionen Dollar im dritten Wochenende, insgesamt 53,1 Millionen."
+          ],
+          "highlight": "Holmes und Fielder waren laut Deadline die angesagten Halloween-Kostüme, getragen von einer Flut an Memes in den sozialen Netzwerken.",
+          "assessment": [
+            "Dass eine dreistündige Dokumentation an Halloween einen Superheldenfilm schlägt, ist die schönste Kinogeschichte des Herbstes. „You Can See Everything“ ist auf dem Weg, eine der erfolgreichsten Dokumentationen überhaupt zu werden, und das ganz ohne Franchise.",
+            "Für DC ist „Clayface“ dagegen ein mittlerer Dämpfer. Die schwachen Kritiken und der steile Abfall zeigen, dass das Publikum bei Comicfilmen inzwischen sehr wählerisch ist."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/You-Can-See-Everything-Clayface-1.jpg?w=1024",
+            "alt": "Szenen aus „You Can See Everything“ (links) und „Clayface“",
+            "credit": "A24; Warner Bros; Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          }
+        },
+        {
+          "title": "Scorsese: Der Sony-Hack hat meinen Cleopatra-Film mit Angelina Jolie zerstört",
+          "lead": "Martin Scorsese erzählt, dass er mit Angelina Jolie einen Film über Kleopatra drehen wollte. Das Projekt sei an den Folgen des Sony-Hacks von 2014 gescheitert.",
+          "body": [
+            "Martin Scorsese wollte einst einen Film über Kleopatra drehen, mit Angelina Jolie in der Titelrolle. Das sagte der Regisseur in der ersten Folge der Tribeca-Serie „Crafty“. Gescheitert sei das Projekt an den Folgen des Hackerangriffs auf Sony.",
+            "Im November 2014 waren Sonys E-Mails von einer Gruppe gehackt worden, die verhindern wollte, dass Sony die Seth-Rogen-Komödie „The Interview“ herausbringt, einen Film über ein fiktives Attentat auf den nordkoreanischen Machthaber Kim Jong Un. „Wir wollten irgendwann Cleopatra machen, und dann haben sie sich über Kim Jong Un lustig gemacht, und er wurde wütend und hat alle bei Columbia in die Luft gejagt“, sagt Scorsese. „Seth Rogen, richtig? Und das hat Cleopatra ruiniert.“",
+            "Direkt verantwortlich für das Aus war Rogen natürlich nicht. Der Hack legte aber Tausende E-Mails offen, darunter solche des Produzenten Scott Rudin an Sony-Managerin Amy Pascal, in denen er Jolie als „minimal talentiertes verwöhntes Gör“ bezeichnete.",
+            "„Wir wollten das machen“, sagt Scorsese. „Angelina Jolie. Sie sollte Kleopatra VII. sein. Es wäre richtig wild geworden.“ Das Drehbuch sollte Eric Roth schreiben, der auch „Killers of the Flower Moon“ verfasst hat."
+          ],
+          "highlight": "Sie sollte Kleopatra VII. sein. Es wäre richtig wild geworden.“",
+          "assessment": [
+            "Eine schöne Anekdote mit einem wahren Kern: Der Sony-Hack hat nicht nur ein Studio blamiert, sondern auch Projekte erledigt, weil sich plötzlich alle Beteiligten gegenseitig in internen Mails beleidigt lesen konnten. Nach Rudins Ausfällen war eine Zusammenarbeit mit Jolie bei Sony kaum noch vorstellbar.",
+            "Scorsese, Jolie und Eric Roth an einem antiken Epos hätte man gern gesehen. Dass es an einer Kifferkomödie und Nordkorea scheiterte, gehört zu den absurdesten Kapiteln der jüngeren Hollywood-Geschichte."
+          ],
+          "sources": [
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/"
+            }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/10/split-image-1000_ede697.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+            "alt": "Martin Scorsese, Angelina Jolie und Seth Rogen in einer Bildmontage",
+            "credit": "Kristina Bumphrey; Earl Gibson III",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/"
+          }
+        },
+        {
+          "title": "Georgiens „Guria“ gewinnt die Asia Pacific Screen Awards",
+          "lead": "Levan Koguashvilis Film ist bei den 19. Asia Pacific Screen Awards an der australischen Gold Coast als bester Film ausgezeichnet worden.",
+          "body": [
+            "Der georgische Film „Guria“ von Levan Koguashvili ist bei den 19. Asia Pacific Screen Awards als bester Film ausgezeichnet worden. Die Preise wurden am 30. Oktober in The Star Gold Coast in Queensland, Australien, vergeben. Koguashvili teilt den Preis mit den Produzenten Olena Yershova und Boris Frumin. Der Film entstand als Koproduktion von sieben Ländern: Georgien, Schweiz, Luxemburg, Bulgarien, Türkei, Norwegen und Saudi-Arabien.",
+            "Die Regie-Auszeichnung ging an den Thailänder Sompot Chidgasornpongse für „9 Temples to Heaven“. Eine lobende Erwähnung in dieser Kategorie erhielt Aung Phyoe aus Myanmar für „Fruit Gathering“. Den Großen Preis der Jury bekam die afghanische Regisseurin Shahrbanoo Sadat für „No Good Men“.",
+            "Als beste Darstellerin oder bester Darsteller wurde Pushpa Thing Lama aus Nepal für „Elephants in the Fog“ geehrt, als beste Nachwuchsdarstellerin die Südkoreanerin Sim Su-bin für „The World Before“. Der Drehbuchpreis ging an Rakan Mayasi, Wahid Ajmi und Pôl Seif für „Yesterday the Eye Didn't Sleep“, die Auszeichnung für die Kamera an den Vietnamesen Nguyễn Vinh Phúc für „Hearing“.",
+            "Bester Jugendfilm wurde „Big Girls Don't Cry“ der Neuseeländerin Paloma Schneideman, der Animationspreis ging an „The Violinist“ aus Singapur, Spanien und Italien. Im Wettbewerb standen 36 Filme aus 32 Ländern und Regionen."
+          ],
+          "highlight": "Den Großen Preis der Jury bekam die afghanische Regisseurin Shahrbanoo Sadat für „No Good Men“.",
+          "assessment": [
+            "Die Asia Pacific Screen Awards sind kein Publikumsereignis, aber ein guter Gradmesser für das Kino eines riesigen Raums, der in Europa oft nur durch Japan und Korea wahrgenommen wird. Bemerkenswert ist der Preis für Shahrbanoo Sadat: Eine afghanische Regisseurin, die unter den Taliban nicht mehr arbeiten könnte, gewinnt einen der Hauptpreise.",
+            "„Guria“ und „No Good Men“ sind Namen, die man sich für die Festival- und Oscar-Saison merken sollte."
+          ],
+          "sources": [
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/"
+            }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/10/Asia-Pacific-Screen-Awards-winners-2026.jpg?w=1000&h=563&crop=1",
+            "alt": "Preisträgerinnen und Preisträger der Asia Pacific Screen Awards 2026",
+            "credit": "Asia Pacific Screen Awards",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/film/awards/georgia-guria-best-film-asia-pacific-screen-awards-1236935931/"
+          }
+        },
+        {
+          "title": "Sony verfilmt das Horrorspiel Mouthwashing, Karyn Kusama führt Regie",
+          "lead": "Sony hat sich die Filmrechte an dem gefeierten Indie-Horrorspiel gesichert. Die Regisseurin von „Yellowjackets“ soll es inszenieren.",
+          "body": [
+            "Sony hat die Filmrechte an Mouthwashing erworben, dem 2024 erschienenen Indie-Horrorspiel. Das berichtet Deadline, wie Eurogamer zusammenfasst. Die Rechte stammen vom Entwickler Wrong Organ und vom Publisher Critical Reflex. Regie führen soll Karyn Kusama, bekannt vor allem durch ihre Arbeit an der Serie „Yellowjackets“.",
+            "Das Drehbuch schreiben Matt Manfredi und Phil Hay. Produziert wird mit Crooked Highway, der Firma hinter den „Black Phone“-Filmen mit Ethan Hawke. Wer mitspielt und ob der Film der Geschichte des Spiels folgt, ist noch nicht bekannt.",
+            "Das Spiel wurde von der Kritik gefeiert und verkaufte sich bis Februar 2025 allein auf dem PC mehr als 500.000-mal. Seit dieser Woche ist es auch auf Konsolen und im Xbox Game Pass erhältlich.",
+            "Die Verfilmung folgt dem Weg von Iron Lung: Markipliers Kinofassung eines anderen Indie-Horrorspiels hatte weltweit 21 Millionen Dollar eingespielt."
+          ],
+          "highlight": "Regie führen soll Karyn Kusama, bekannt vor allem durch ihre Arbeit an der Serie „Yellowjackets“.",
+          "assessment": [
+            "Eine kluge Wahl. Kusama hat bei „Yellowjackets“ gezeigt, dass sie Psychohorror über Gruppen kann, die unter Druck zerfallen, und genau davon lebt auch Mouthwashing.",
+            "Dass ein Studio wie Sony nach Iron Lung nun das nächste kleine Horrorspiel einkauft, zeigt, wo Hollywood gerade Stoffe sucht: bei Spielen, die eine treue Fangemeinde haben und sich günstig verfilmen lassen."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/screenshot-mouthwashing00001.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ein Mann und eine Frau mit Partyhüten bei einer Geburtstagsfeier in Mouthwashing",
+            "credit": "Eurogamer / Critical Reflex",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/mouthwashing-movie-rights-sony-director"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Chauvet: UV-Licht zeigt eine natürliche Schutzschicht über 37.000 Jahre alten Pferden",
+          "lead": "Forscher der Sorbonne haben die Höhlenmalereien von Chauvet mit ultraviolettem Licht untersucht. Eine dünne Kalkschicht hat die Bilder offenbar konserviert.",
+          "body": [
+            "Die Höhle von Chauvet in Südostfrankreich enthält mehr als 1000 Zeichnungen und Gravuren, rund 37.000 Jahre alt: Pferde, Höhlenlöwen, Mammuts, Wollnashörner, Bären und Bisons. Ein Team um Philippe Walter und Yohan Boulard von der Sorbonne-Universität hat sie nun mit UV-Fluoreszenzspektroskopie untersucht. Die Ergebnisse sind in der Fachzeitschrift ACS Omega erschienen.",
+            "Die Forscher richteten aus etwa zweieinhalb Metern Entfernung UV-Licht auf die Malereien. Manche Materialien schlucken das Licht, andere leuchten sichtbar auf. An der Farbe des Leuchtens lassen sich die Stoffe an der Wand und organische Verunreinigungen bestimmen. Holzkohle leuchtet nicht. Die schwarzen Linien des berühmten Pferdepaneels sind jedoch von einer dünnen Kalzitschicht überzogen, die wie ein natürlicher Firnis gewirkt und die Zeichnungen geschützt haben könnte.",
+            "In der Nische der Löwen stellten die Forscher fest, dass sich Kalzitausblühungen an manchen Stellen auf dem blanken Fels gebildet hatten, nicht aber auf den Zeichnungen. Das könnte bedeuten, dass die Pigmente beeinflusst haben, wie die Minerale auskristallisierten.",
+            "Unter einigen Holzkohlestrichen, auch unter Wischspuren, die vermutlich von Fackeln stammen, sahen die Forscher ein orangefarbenes Leuchten. Im Labor ließ sich dieses Signal nur mit erhitztem Kalkstein und erhitztem Kalzit nachstellen. Das deutet darauf hin, dass die Bilder mit heißer Holzkohle gezeichnet wurden. „Die Ergebnisse zeigen das sorgfältige Zusammenspiel von Mensch und Geologie, das diese Kunstwerke Zehntausende Jahre erhalten hat“, sagt Walter."
+          ],
+          "highlight": "Das deutet darauf hin, dass die Bilder mit heißer Holzkohle gezeichnet wurden.",
+          "assessment": [
+            "Eine schöne Studie, weil sie zeigt, wie viel sich noch an einem der am besten untersuchten Orte der Steinzeitkunst herausfinden lässt, ohne ihn zu berühren. Chauvet ist für die Öffentlichkeit gesperrt, und jede Untersuchung muss berührungsfrei sein.",
+            "Der Befund mit der heißen Kohle ist der spannendste Teil: Er legt nahe, dass die Maler direkt mit Stücken aus dem Feuer oder von Fackeln zeichneten. Das macht die Szene in der dunklen Höhle sehr greifbar."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/30/uv-light-reveals-mineral-coatings-in-chauvet-cave/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261030-France-Chauvet-Cave-Paintings.jpg",
+            "alt": "Ausschnitt aus dem Pferdepaneel in der Höhle von Chauvet",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/30/uv-light-reveals-mineral-coatings-in-chauvet-cave/"
+          }
+        },
+        {
+          "title": "Apollonia ad Rhyndacum: Ein Grab mitten zwischen den Theatersitzen",
+          "lead": "Im Theater einer antiken Stadt in der Nordwesttürkei haben Archäologen ein 2000 Jahre altes Brandgrab gefunden. Warum dort jemand bestattet wurde, ist ein Rätsel.",
+          "body": [
+            "In der antiken Stadt Apollonia ad Rhyndacum, im heutigen Dorf Gölyazı am Uluabat-See in der Provinz Bursa, haben Archäologen ein Grab an einem Ort gefunden, an dem niemand eines erwartet: zwischen den Zuschauerrängen des Theaters. Es stammt aus dem 1. Jahrhundert nach Christus und lag im unteren Sitzbereich.",
+            "Das Grab besteht aus einer Kiste aus Lehmziegeln, die von einem Satteldach aus Terrakottaziegeln bedeckt ist. Der Tote wurde eingeäschert. „Weil die Überreste verbrannt sind, geben sie nicht viel her“, sagt Grabungsleiterin Derya Şahin von der Uludağ-Universität Bursa. Auch wie viele Menschen hier bestattet wurden, lasse sich nicht sagen.",
+            "Spannend ist der Ort. Die Stadt hatte eine eigene Nekropole am Stadteingang, und das Grab gleicht denen, die dort gefunden wurden. „Was macht ein Grab im Theater, wenn die Stadt eine eigene Nekropole hatte?“, fragt Şahin. „Das Grab muss etwas Besonderes sein. Es muss eine Bedeutung haben, vielleicht eine Spur von Heiligkeit oder Heldentum.“",
+            "Das Theater wurde in hellenistischer Zeit am Hang des Zambaktepe-Hügels über dem See errichtet und bot etwa 5000 Menschen Platz. Bisher wurden 42 Sitzstufen freigelegt und an ihren ursprünglichen Platz gesetzt. Das Team geht von zwei Rängen aus, getrennt durch einen etwa einen Meter breiten Umgang. Inschriften zufolge stammt die letzte Bauphase aus dem frühen 2. Jahrhundert. Die Grabungen laufen seit 2021, die diesjährige Saison endet Ende November."
+          ],
+          "highlight": "„Was macht ein Grab im Theater, wenn die Stadt eine eigene Nekropole hatte?“, fragt Şahin.",
+          "assessment": [
+            "Ein Grab im Theater ist tatsächlich ungewöhnlich, denn in griechisch-römischen Städten lagen die Toten aus religiösen Gründen normalerweise außerhalb. Die Deutung als Heroengrab liegt nahe: Gründer oder verehrte Wohltäter wurden manchmal an zentralen öffentlichen Orten bestattet.",
+            "Interessant ist auch die Zeitfolge. Wenn das Grab aus dem 1. Jahrhundert stammt und das Theater im frühen 2. Jahrhundert umgebaut wurde, hat man es offenbar bewusst respektiert. Das spricht für eine besondere Person."
+          ],
+          "sources": [
+            {
+              "name": "Türkiye Today",
+              "url": "https://www.turkiyetoday.com/culture/mystery-tomb-found-among-seats-of-ancient-turkish-theater-3231200"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/30/tomb-unearthed-at-theater-site-in-northwestern-turkey/"
+            }
+          ],
+          "image": {
+            "url": "https://img.turkiyetoday.com/images/2026/10/28/mystery-tomb-found-among-seats-of-ancient-turkish-theater-3231200_20261028132745.jpg",
+            "alt": "Ausgrabung im antiken Theater von Apollonia ad Rhyndacum",
+            "credit": "Türkiye Today",
+            "license": "Artikelbild Türkiye Today",
+            "source": "https://www.turkiyetoday.com/culture/mystery-tomb-found-among-seats-of-ancient-turkish-theater-3231200"
+          }
+        },
+        {
+          "title": "Australien gibt zwei geraubte Steinköpfe aus Song-Kaisergräbern an China zurück",
+          "lead": "Die National Gallery of Australia hat zwei Köpfe von Wächterfiguren aus den Kaisergräbern der Nördlichen Song-Dynastie zurückgegeben. Sie waren in den 1990er-Jahren aus China geschmuggelt worden.",
+          "body": [
+            "Die National Gallery of Australia hat am Mittwoch in Canberra zwei Kulturgüter an Chinas Nationale Behörde für Kulturerbe übergeben. Es handelt sich um die Köpfe zweier Statuen aus der Nördlichen Song-Dynastie (960 bis 1127): einen Zivilbeamten und einen Militärbeamten, beide aus Kalkstein.",
+            "Die Statuen standen einst als Wächter an den kaiserlichen Mausoleen bei Gongyi in der Provinz Henan, nahe der Song-Hauptstadt Kaifeng. Der Kopf des Zivilbeamten stammt vom Yongchang-Mausoleum, ist 70 Zentimeter hoch und wiegt 223 Kilogramm. Der Kopf des Militärbeamten kommt vom Yongyu-Mausoleum, misst 68 Zentimeter und wiegt 132 Kilogramm. Gongyi besitzt die größte und vergleichsweise gut erhaltene Gruppe von Steinskulpturen aus den Song-Kaisergräbern.",
+            "Laut Global Times wurden beide Köpfe von den Statuen abgetrennt und in den 1990er-Jahren aus China geschmuggelt. Die National Gallery erwarb sie 1995. 2025 verlangte die chinesische Kulturerbebehörde die Rückgabe, nach Ermittlungen mit dem Ministerium für öffentliche Sicherheit und Behörden in Henan. Grundlage waren die UNESCO-Konvention von 1970, eine chinesisch-australische Vereinbarung von 2009 und die Provenienzrichtlinie der Galerie von 2021.",
+            "„Die Rückkehr dieser beiden Statuen ist nicht das Ende ihrer Geschichte“, sagte Chinas Botschafter in Australien, Liu Jinsong. „Sie ist ein neuer Anfang für Forschung, Erhaltung und Kulturerbe.“ Nach chinesischen Angaben sind seit 1949 mehr als 150.000 Kulturgüter in über 300 Rückgaben nach China zurückgekehrt."
+          ],
+          "highlight": "Die National Gallery erwarb sie 1995.",
+          "assessment": [
+            "Die Rückgabe ist richtig und ein Beispiel dafür, dass Provenienzforschung wirkt. Auffällig ist, dass ein Nationalmuseum noch 1995 Stücke kaufte, die erkennbar von Statuen abgeschlagen worden waren. Das war schon damals kaum ohne Fragen möglich.",
+            "Man sollte die Sache aber auch politisch lesen: China nutzt solche Rückgaben gezielt für seine Kulturdiplomatie, und die Zahlen dazu stammen ausschließlich aus chinesischen Staatsmedien. An der Rechtmäßigkeit der Rückgabe ändert das nichts."
+          ],
+          "sources": [
+            {
+              "name": "Global Times",
+              "url": "https://www.globaltimes.cn/page/202610/1373118.shtml"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/30/australia-repatriates-ancient-sculptures-to-china/"
+            },
+            {
+              "name": "ECNS",
+              "url": "https://www.ecns.cn/cns-wire/2026-10-28/detail-ihfmqavp9412647.shtml"
+            }
+          ],
+          "image": {
+            "url": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-22/d1ca6a6d-4868-4a5a-8758-d746236f2719.jpeg",
+            "alt": "Die beiden von Australien zurückgegebenen Statuenköpfe aus der Nördlichen Song-Dynastie",
+            "credit": "National Cultural Heritage Administration",
+            "license": "Artikelbild Global Times",
+            "source": "https://www.globaltimes.cn/page/202610/1373118.shtml"
+          }
+        },
+        {
+          "title": "Ungarn: Mehr als 700 römische Münzen an der Drau",
+          "lead": "Archäologen des Rippl-Rónai-Museums haben an drei Fundstellen im Südwesten Ungarns einen großen Bestand römischer Münzen geborgen, die meisten aus der Zeit Konstantins.",
+          "body": [
+            "An drei Fundstellen nahe der Drau im Komitat Somogy im Südwesten Ungarns haben Archäologen des Rippl-Rónai-Museums mehr als 700 Münzen entdeckt. Das berichtet Hungary Today. Die Drau bildet dort heute die Grenze zu Kroatien, in der Antike lag die Region in der römischen Provinz Pannonien.",
+            "Die meisten Münzen stammen aus der Regierungszeit Kaiser Konstantins (306 bis 337 nach Christus). Daneben fanden sich Silbermünzen aus der Zeit der Kaiser Antoninus Pius (138 bis 161), Severus Alexander (222 bis 235), Aurelian (270 bis 275) und Probus (276 bis 282).",
+            "Eine Münze ist eine sogenannte Konsekrationsmünze, die vermutlich zum Tod und zur Vergöttlichung von Kaiser Claudius II. geprägt wurde, der von 268 bis 270 regierte. Solche Münzen verkündeten, dass der verstorbene Kaiser unter die Götter aufgenommen worden war.",
+            "Neben den Münzen bargen die Archäologen Keramik, Fibeln, also Gewandspangen, und Teile einer Waage."
+          ],
+          "highlight": "Die meisten Münzen stammen aus der Regierungszeit Kaiser Konstantins (306 bis 337 nach Christus).",
+          "assessment": [
+            "Die Waage ist hier vielleicht das wichtigste Fundstück. Zusammen mit Hunderten Münzen aus mehr als anderthalb Jahrhunderten deutet sie auf Handel, womöglich einen Markt- oder Umschlagplatz an der Drau, die damals ein wichtiger Verkehrsweg war.",
+            "Der Schwerpunkt auf Konstantin passt zur Geschichte Pannoniens, das im 4. Jahrhundert als Grenzprovinz stark militarisiert und gut mit Geld versorgt war."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/30/roman-coins-recovered-in-hungary/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261030-Hungary-Roman-Coins.jpg",
+            "alt": "Silbermünze des Antoninus Pius",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/30/roman-coins-recovered-in-hungary/"
+          }
+        },
+        {
+          "title": "Texas: Felsdach im Ceta Canyon liefert rund 3000 Funde aus bis zu 10.000 Jahren",
+          "lead": "Im Schaeffer Shelter haben Archäologen Werkzeuge, Schmuck und Keramik geborgen. Manche Stücke könnten 8000 bis 10.000 Jahre alt sein.",
+          "body": [
+            "Aus dem Schaeffer Shelter, einem Felsdach im Ceta Canyon in Texas, sind rund 3000 Fundstücke geborgen worden. Das berichtet der Sender KFDA. Der Unterstand auf Privatgelände ist klein und wurde 1949 von Stanley Schaeffer entdeckt.",
+            "Der Archäologe Brandon Tully geht davon aus, dass über Jahrtausende immer wieder verschiedene Gruppen an den Ort zurückkehrten. Einige der Funde schätzt er auf 8000 bis 10.000 Jahre. „Wir haben nicht viele Informationen über Fundstellen aus der archaischen Periode im Texas Panhandle, vor allem nicht über Felsdächer“, sagt Tully. „Fast alle unsere Felsdächer stammen aus den letzten rund 2000 Jahren.“ Ältere Objekte könnten allerdings auch erst später an den Ort gebracht worden sein.",
+            "Unter den Funden sind ein Anhänger aus Dolomit, Keramik aus dem Südwesten der USA sowie Perlen aus Türkis und Meeresmuscheln. Einige Muschelperlen stammen vermutlich aus Baja California oder von der Golfküste von Texas, mehr als 800 Kilometer entfernt.",
+            "Tully vermutet, dass die Landschaft des Canyons das Reisen durch die Region erleichterte. „Wir konnten im Grunde nachweisen, dass das eine Art Fernstraße war.“ Bison- und Hirschknochen stammen wohl von Jägern, gefundener Mais von Menschen, die auch Ackerbau betrieben."
+          ],
+          "highlight": "Einige Muschelperlen stammen vermutlich aus Baja California oder von der Golfküste von Texas, mehr als 800 Kilometer entfernt.",
+          "assessment": [
+            "Die Muschelperlen und das Türkis sind die eigentliche Nachricht: Sie zeigen, dass die Bewohner der südlichen Great Plains in weitreichende Tauschnetze eingebunden waren, die bis an zwei Meere reichten.",
+            "Bei den 10.000 Jahren ist Vorsicht angebracht. Tully selbst weist darauf hin, dass alte Stücke auch später mitgebracht worden sein können. Erst Datierungen der Schichten werden zeigen, wie alt die Nutzung des Felsdachs wirklich ist."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/10/29/rock-shelter-in-texas-yields-more-than-3000-artifacts/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/10/News-20261029-Texas-Rock-Shelter.jpg",
+            "alt": "Archäologen untersuchen das Schaeffer-Felsdach im Ceta Canyon",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/10/29/rock-shelter-in-texas-yields-more-than-3000-artifacts/"
+          }
+        }
+      ]
+    }
+  ]
+}
