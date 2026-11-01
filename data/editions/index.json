@@ -1,5 +1,37 @@
 [
   {
+    "nr": 26,
+    "date": "2026-11-01",
+    "updated": "2026-11-01T07:52:21+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "film": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu: OpenAI senkt sein Finanzierungsziel um zehn Milliarden, S&P warnt Meta",
+      "Nvidia soll für die Schulden eines Anthropic-Rechenzentrums bürgen",
+      "Intel-Aktie bricht um 28 Prozent ein, weil KI den Speicher für PCs wegkauft",
+      "Sam Altman: Arbeitsspeicher im eigenen PC ist „ziemlich schrecklich“",
+      "Gasturbinen ohne Genehmigung: NAACP-Klage gegen xAI geht weiter",
+      "Anthropic verbietet Claude Code, bestehende Spiele nachzubauen",
+      "Roblox verliert Spieler und setzt auf KI-Spiele",
+      "Destiny 2: Alte Kampagnen kommen zurück, aber erst Anfang 2028",
+      "Arduview: Ein Handheld, durch den man komplett hindurchsieht",
+      "Kalifornien diskutiert unbegrenzte Filmförderung",
+      "Taika Waititi nennt Kritiker „traurige verlorene Seelen“",
+      "Michael Douglas über Jack Nicholson: „Er ist verschwunden, aber es geht ihm gut“",
+      "„Criminal Minds: Evolution“ endet nach Staffel 20",
+      "Reese Witherspoons Hello Sunshine entlässt die Hälfte der Belegschaft",
+      "Saqqara: Grab des Beamten Weni mit seltenen Holzstatuen und Bronzewerkzeugen",
+      "Manduria: 2300 Jahre altes Grab gehörte vielleicht einer Priesterin der Demeter",
+      "Jordanien: Steinfiguren und Fossilien im Zentrum eines 9000 Jahre alten Jägerheiligtums",
+      "Nagapattinam: Bronzefiguren von Shiva und Sivakami aus der Chola-Zeit ausgegraben",
+      "Senden in Bayern: Keltin mit Speisebeigabe und Armring aus Fossilschlamm bestattet"
+    ]
+  },
+  {
     "nr": 25,
     "date": "2026-10-31",
     "updated": "2026-10-31T07:50:42+01:00",

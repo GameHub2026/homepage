@@ -1,0 +1,507 @@
+{
+  "nr": 26,
+  "date": "2026-11-01",
+  "intro": "Der KI-Ausverkauf an der Börse erreicht die Privatfinanzierung: OpenAI sammelt weniger Geld ein als geplant, Nvidia soll für Rechenzentren bürgen, und Intel stürzt ab, weil der Speicher für PCs knapp wird. Im Gaming-Kapitel geht es um eine neue Regel für Claude, Roblox' schrumpfende Nutzerzahlen und Bungies langen Weg zurück zu Destiny. Dazu Kaliforniens Streit um unbegrenzte Filmförderung, ein beleidigter Taika Waititi und fünf Funde von Saqqara bis Südindien.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu: OpenAI senkt sein Finanzierungsziel um zehn Milliarden, S&P warnt Meta",
+          "lead": "Der Ausverkauf bei KI-Aktien kommt bei den privaten Geldgebern an. OpenAI will statt 30 nur noch rund 20 Milliarden Dollar einsammeln, und die Ratingagentur S&P sieht Metas Kreditwürdigkeit unter Druck.",
+          "body": [
+            "OpenAI hat das Ziel seiner laufenden Finanzierungsrunde von 30 auf etwa 20 Milliarden Dollar gesenkt. Das berichtete die Financial Times am Freitag. Auch die angepeilte Bewertung sinkt, von 1,4 Billionen auf 1,25 Billionen Dollar. Einige Investoren haben ihre Zusagen verringert, der erste Abschluss der Runde soll laut FT sogar unter 20 Milliarden liegen. Das Wall Street Journal meldete, OpenAI habe bisher 11 Milliarden Dollar sicher, die Resonanz einiger großer Investoren sei „verhalten“ gewesen.",
+            "Anführen soll die Runde laut FT eine Gruppe von Investoren aus den Vereinigten Arabischen Emiraten. Später könnte ein Angebot für vermögende Privatleute die Summe auf die angepeilten 20 Milliarden bringen. Ende September war noch von 30 Milliarden bei 1,4 Billionen Dollar Bewertung die Rede. Später will OpenAI an die Börse. OpenAI äußerte sich auf Anfragen von TechCrunch und Fortune nicht.",
+            "Am späten Freitag senkte zudem S&P Global den Ausblick für Meta von „stabil“ auf „negativ“, die Bonitätsnote AA- bleibt vorerst. Begründung sind der negative Cashflow und die Unsicherheit über die Investitionspläne. S&P rechnet für Meta mit Investitionen von 140 Milliarden Dollar in diesem Jahr, mehr als 225 Milliarden 2027 und 252 Milliarden 2028. Der freie operative Cashflow läge demnach 2027 bei minus 71 Milliarden Dollar. Die Verschuldungsquote könnte schon 2027 über 1,0 steigen, die Schwelle für eine Herabstufung. Vor allem die geleasten Rechenzentren treiben die Verbindlichkeiten.",
+            "Meta widersprach: Die KI-Investitionen brächten schon jetzt mehr Nutzung, bessere Empfehlungen und höhere Erträge für Werbekunden. S&P hält dagegen fest, Meta könne mit seinen Rechenzentren weniger verdienen als die Konkurrenz, die Rechenleistung an KI-Labore und Firmen vermietet. Wann neue Produkte wie die Agenten-App Muse nennenswert Geld einbringen, sei unklar.",
+            "Fortune ordnet beides in eine schwierige Woche ein: Alphabet verlor am Donnerstag rund 12 Prozent, den schlechtesten Tag seiner Geschichte. Hinzu kommen steigende Anleihezinsen und eine wachsende Abneigung gegen Rechenzentren in der Bevölkerung. Der Marktstratege Ed Yardeni hält die Grenzen für gesund, weil sie Überinvestitionen bremsen könnten, und sieht in weiteren Rücksetzern eher Kaufgelegenheiten."
+          ],
+          "highlight": "Die Verschuldungsquote könnte schon 2027 über 1,0 steigen, die Schwelle für eine Herabstufung.",
+          "assessment": [
+            "Eine Runde über 20 Milliarden ist für fast jedes andere Unternehmen der Welt ein Traum. Bei OpenAI ist sie ein Warnsignal, weil sie zeigt, dass selbst der bekannteste Name der Branche nicht mehr jede Summe zu jedem Preis bekommt. Dass ausgerechnet jetzt Anthropic an die Börse drängt, macht die Konkurrenz um das Geld der Investoren nicht leichter.",
+            "Der Meta-Ausblick ist meiner Meinung nach die wichtigere Nachricht. Wenn eine Ratingagentur einem Konzern mit AA-Note vorrechnet, dass er drei Jahre lang Bargeld verbrennt, ist die Phase vorbei, in der Investitionen in KI automatisch als Stärke galten."
+          ],
+          "sources": [
+            { "name": "Fortune", "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/" }
+          ],
+          "image": {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297228232-e1793459799235.jpg?resize=1200,600",
+            "alt": "Sam Altman spricht auf der OpenAI DevDay in San Francisco",
+            "credit": "Getty Images",
+            "license": "Artikelbild Fortune",
+            "source": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/"
+          }
+        },
+        {
+          "title": "Nvidia soll für die Schulden eines Anthropic-Rechenzentrums bürgen",
+          "lead": "Der Chipkonzern verhandelt darüber, Milliardenkredite für den Bau eines Rechenzentrums in West Virginia abzusichern. Mieter ist Anthropic, Bauherr der Cloud-Anbieter Nscale.",
+          "body": [
+            "Nvidia ist in Gesprächen, Kredite über mehrere Milliarden Dollar für ein geplantes Rechenzentrum von Nscale in West Virginia abzusichern. Das berichtete zuerst The Information am Donnerstag, Bloomberg bestätigte es später. Faktisch würde Nvidia damit die Kredite eines Kunden mitunterschreiben.",
+            "Geplant ist eine sogenannte Restwertgarantie: Fällt Nscale mit den Zahlungen für den Bau aus, würde Nvidia einspringen, die Anlage vorübergehend übernehmen und helfen, einen Käufer und einen neuen Mieter zu finden. Die Finanzierung soll Strom- und Baukosten des Geländes decken. Bisher hatte Nvidia Cloud-Anbieter vor allem bei Mietverträgen und Chipkäufen unterstützt, nicht beim Bau selbst.",
+            "Anthropic hat laut Nscales Börsenprospekt einen Vertrag über 44,6 Milliarden Dollar für das erste Gebäude unterschrieben. Es hat 460 Megawatt und soll mit Nvidias nächster Chipgeneration Vera Rubin laufen. Über ein zweites Gebäude für rund 45 Milliarden wird verhandelt. Ein Investor sagte The Information, Anthropics Beteiligung erkläre Nvidias Interesse, das Projekt am Laufen zu halten.",
+            "Nscale selbst will an die Börse, bei einer Bewertung von bis zu 35 Milliarden Dollar. Im August liefen dort etwa 25.000 KI-Chips, geplant sind fast 500.000. Die Baustelle in West Virginia hat mit abfließendem Regenwasser mehrfach Häuser in der Nachbarschaft überflutet. Insgesamt hat Nvidia laut The Information rund 170 Milliarden Dollar an Investitionen und Kreditunterstützung an Cloud-Anbieter und große Kunden vergeben. Die Aktien von CoreWeave, Nebius und IREN fielen im Oktober jeweils um mehr als 30 Prozent."
+          ],
+          "highlight": "Faktisch würde Nvidia damit die Kredite eines Kunden mitunterschreiben.",
+          "assessment": [
+            "Hier sieht man, wie das KI-Geld im Kreis läuft: Nvidia verkauft die Chips, finanziert die Käufer und bürgt jetzt auch noch für die Gebäude, in denen die Chips stehen. Solange alle wachsen, funktioniert das. Wenn ein Glied ausfällt, steht am Ende der Lieferant mit dem Risiko da.",
+            "Für Anthropic ist das eine bequeme Lösung, gerade weil nach dem Börsengang eine schwache Bonitätsnote droht. Für Nvidia-Aktionäre ist es ein Grund, genauer hinzuschauen, wie viel von den Rekordumsätzen eigentlich durch eigene Zusagen abgesichert ist."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+            "alt": "Nscale-Schriftzug auf einem Smartphone-Bildschirm",
+            "credit": "Thomas Fuller/SOPA Images/LightRocket / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+          }
+        },
+        {
+          "title": "Intel-Aktie bricht um 28 Prozent ein, weil KI den Speicher für PCs wegkauft",
+          "lead": "Ein schwacher Ausblick auf das Weihnachtsquartal hat Intel einen der schlimmsten Börsentage seiner Geschichte beschert. Schuld ist ein Effekt des KI-Booms: Speicher wird teuer, PCs verkaufen sich schlechter.",
+          "body": [
+            "Die Intel-Aktie fiel am Freitag um etwa 28 Prozent, einer der schlechtesten Tage in der Geschichte des Unternehmens. Auslöser war ein schwächerer Ausblick auf das vierte Quartal als erwartet. Der Absturz riss viele Chipwerte mit, auch Nvidia gab nach.",
+            "Intel rechnet für das vierte Quartal mit 15 bis 16 Milliarden Dollar Umsatz, Analysten hatten etwa 17 Milliarden erwartet. Die Bruttomarge soll von 43 auf 37 Prozent sinken, wegen der hohen Investitionen erwartet Intel keinen positiven Cashflow. Das Hauptproblem sind schwache PC-Verkäufe. Die KI-Branche verbraucht so viel Arbeitsspeicher und andere Bauteile, dass PCs teurer werden. „Unsere Kunden haben begonnen, eine PC-Abschwächung wegen der Speicherpreise und der Verfügbarkeit zu signalisieren“, sagte Konzernchef Lip-Bu Tan.",
+            "Das Rechenzentrumsgeschäft wuchs dagegen um 78 Prozent zum Vorjahresquartal. Es ist aber begrenzt, bis Intel mehr Fertigungskapazität aufbaut und mehr externe Kunden gewinnt, wo es mit TSMC konkurriert. Eine neue Fabrik in Arizona läuft, die nächste soll erst 2028 in Betrieb gehen.",
+            "Der Absturz kostet auch den US-Staat Geld. Die Trump-Regierung hatte vor gut einem Jahr eine Beteiligung von 10 Prozent an Intel gekauft. Deren Wert sank laut CNBC an einem Tag um 12 Milliarden Dollar. Im Plus ist die Investition trotzdem, denn die Intel-Aktie liegt seit Jahresbeginn noch mehr als 70 Prozent höher, wenn auch deutlich unter den Höchstständen des Sommers."
+          ],
+          "highlight": "Die KI-Branche verbraucht so viel Arbeitsspeicher und andere Bauteile, dass PCs teurer werden.",
+          "assessment": [
+            "Die Ironie ist bitter: Intel leidet nicht daran, dass es den KI-Boom verpasst hat, sondern daran, dass der KI-Boom dem Kerngeschäft die Bauteile wegnimmt. Wer PCs baut, steht beim Speicher inzwischen hinten in der Schlange.",
+            "Für Käufer heißt das: Wer einen neuen Rechner braucht, wird ihn so bald nicht billiger bekommen. Und für Intels Wende unter Lip-Bu Tan ist es ein Rückschlag zur Unzeit, weil das Geld aus dem PC-Geschäft die teuren neuen Fabriken mitfinanzieren sollte."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+            "alt": "Intel-Chef Lip-Bu Tan",
+            "credit": "Intel",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+          }
+        },
+        {
+          "title": "Sam Altman: Arbeitsspeicher im eigenen PC ist „ziemlich schrecklich“",
+          "lead": "Mitten in der Speicherknappheit erklärt der OpenAI-Chef, warum der Arbeitsspeicher besser in Rechenzentren aufgehoben sei als auf dem Schreibtisch. Die Aussage passt unangenehm gut zu Intels Problemen.",
+          "body": [
+            "OpenAI-Chef Sam Altman hat im Podcast Cheeky Pint gesagt, es sei aus globaler Sicht „ziemlich schrecklich“, dass ein Teil des weltweit knappen Arbeitsspeichers in privaten Computern stecke. Er reagierte damit auf die Idee, KI-Modelle künftig lokal auf dem eigenen Rechner laufen zu lassen. The Verge hat die Passage aufgeschrieben.",
+            "Viele Menschen wollten lokale Inferenz, sagte Altman, und gingen davon aus, das Problem sei mit offenen Modellen gelöst, die man auf dem eigenen Computer betreiben könne. Doch der Speicher in einem Desktop-PC werde vielleicht fünf Prozent der Zeit genutzt. „In einer stark angebotsbeschränkten Lage will man maximale Auslastung in der Cloud“, so Altman. Die Intuition vieler Menschen sei das Gegenteil.",
+            "Die Aussage fällt in eine Zeit, in der die Speicherpreise stark steigen. Laut The Verge haben Samsung und SK Hynix langfristige Verträge mit Cloud-Betreibern und Projekten wie OpenAIs Stargate, die einen großen Teil der weltweiten Produktion der nächsten Jahre reservieren. Genau deshalb würden Laptops, Smartphones und andere Geräte teurer.",
+            "Verge-Redakteur Tom Warren kommentierte auf X: „Diese Leute wollen nicht mehr, dass man leistungsstarke Computer besitzt, sie wollen, dass man sie mietet.“ Kritiker wiesen darauf hin, dass gerade der Ausbau von Rechenzentren durch Firmen wie OpenAI den Speichermarkt leer kauft."
+          ],
+          "highlight": "Doch der Speicher in einem Desktop-PC werde vielleicht fünf Prozent der Zeit genutzt.",
+          "assessment": [
+            "Rein rechnerisch hat Altman nicht unrecht, ausgelastete Hardware ist effizienter. Aber das Argument kommt vom größten Käufer, der die Knappheit mitverursacht, und es läuft darauf hinaus, dass alle anderen ihre Rechenleistung bei ihm mieten sollen.",
+            "Ich halte das für einen Satz, der länger nachwirken wird als das Interview. Er macht sichtbar, worum es im Streit um lokale KI eigentlich geht: um Kontrolle darüber, wo die Daten verarbeitet werden und wer daran verdient."
+          ],
+          "sources": [
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers" }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+            "alt": "Sam Altman auf OpenAIs erster Entwicklerkonferenz",
+            "credit": "Justin Sullivan / Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+          }
+        },
+        {
+          "title": "Gasturbinen ohne Genehmigung: NAACP-Klage gegen xAI geht weiter",
+          "lead": "Eine Bundesrichterin hat xAIs Antrag abgewiesen, die Klage wegen der Turbinen am Rechenzentrum Colossus bei Memphis fallen zu lassen. Der Streit dreht sich um Luftverschmutzung in einem armen Viertel.",
+          "body": [
+            "Bundesrichterin Debra M. Brown hat einen Antrag von xAI abgelehnt, eine Klage der Bürgerrechtsorganisation NAACP abzuweisen. Die Klage wirft dem KI-Unternehmen, das inzwischen zu SpaceX gehört, vor, an seinem Rechenzentrum Colossus bei Memphis in Tennessee Gasturbinen ohne die nötigen Luftgenehmigungen betrieben zu haben.",
+            "Eingereicht hat die Klage das Southern Environmental Law Center im Namen der NAACP. Sie wirft xAI vor, „mindestens 35 Verbrennungsturbinen“ und weitere Emissionsquellen ohne Bau- oder Betriebsgenehmigung installiert und betrieben zu haben, ein Verstoß gegen das Luftreinhaltegesetz Clean Air Act.",
+            "xAI hatte argumentiert, die Turbinen seien mobil und deshalb genehmigungsfrei, die Kläger seien nicht klagebefugt und Bürgerklagen dieser Art seien verfassungswidrig. Die Richterin folgte keinem der Punkte. Die Kläger seien nach dem Clean Air Act klagebefugt, die Turbinen seien keine „mobilen Quellen“, und Bürgerkläger übten keine Exekutivgewalt des Staates aus, weil sie in eigenem Namen und für eigenen Schaden klagten. Einen ähnlichen Antrag des Justizministeriums hatte das Gericht schon Anfang Oktober abgelehnt.",
+            "„xAI darf keine Gasturbinen ohne die erforderlichen Genehmigungen betreiben“, sagte Abre' Connor, bei der NAACP zuständig für Umwelt- und Klimagerechtigkeit. Die Entscheidung fällt in eine Zeit wachsender Ablehnung gegenüber Rechenzentren: New York hat kürzlich einen Baustopp für neue Anlagen beschlossen, andere Bundesstaaten und Kommunen erwägen ähnliche Schritte."
+          ],
+          "highlight": "Die Richterin folgte keinem der Punkte.",
+          "assessment": [
+            "Das ist kein Urteil in der Sache, aber ein deutliches Signal: Der Trick, Kraftwerke als mobile Geräte zu deklarieren, damit man sie ohne Genehmigung betreiben kann, wird vor Gericht wohl nicht halten.",
+            "Für die Branche ist der Fall wichtiger, als er aussieht. Viele neue Rechenzentren bauen eigene Gaskraftwerke, weil das Netz nicht hinterherkommt. Wenn Anwohner dagegen erfolgreich klagen können, wird das Tempo des Ausbaus nicht nur an der Börse gebremst, sondern auch vor Ort."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+            "alt": "Gasturbinen an einem xAI-Rechenzentrum an der Riverport Road in Memphis",
+            "credit": "Brandon Dill for The Washington Post / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Anthropic verbietet Claude Code, bestehende Spiele nachzubauen",
+          "lead": "In Claude Codes Systemanweisung stehen jetzt zwei Sätze, die Nachbauten konkreter Spiele unterbinden sollen. Anthropic bestätigt die Änderung, Entwickler zweifeln an der Wirkung.",
+          "body": [
+            "Anthropic hat die Regeln für sein Programmierwerkzeug Claude Code erweitert: Es soll keine Nachbauten bestimmter, existierender Spiele mehr erstellen. Entdeckt hat das der X-Nutzer Chasm, der eine Änderung vom 27. Oktober bemerkte. Die neue Regel lautet sinngemäß, Claude solle originale Spiele, Spiele eines Genres und Spiele nach eigenen Entwürfen und Assets der Nutzer bauen, aber keine Nachbildung eines bestimmten existierenden Spiels, auch wenn sie umbenannt oder als Original bezeichnet wird. Abschalten lässt sie sich laut Chasm nicht.",
+            "Anthropic verwies Game Developer auf einen Beitrag von Addy Osmani aus dem technischen Team. „Wir haben Claude Codes Prompt für Opus 5.5 um zwei Sätze ergänzt, um es davon abzubringen, das konkrete Spiel eines anderen nachzubauen“, schrieb er auf X. Wer Claude nutze, um geistiges Eigentum zu verletzen, verstoße ohnehin gegen die Nutzungsrichtlinien. Originale Spiele, Genre-Spiele und Spiele nach eigenen Entwürfen sollten weiter funktionieren. Wer zu Unrecht abgewiesen werde, solle sich bei ihm melden.",
+            "Hintergrund ist eine wachsende Sorge in der Branche vor KI-Klonen. Das Studio Digital Sun Games hat einen öffentlichen Spieltest für sein nächstes Spiel ReVamp abgesagt, weil es fürchtete, jemand könnte die Demo in ein KI-Werkzeug füttern und das Spiel kopieren. Andere Studios haben ähnlich gehandelt, Entwickler haben Valve gefragt, wie es KI-Klone auf Steam verhindern will.",
+            "Game-Developer-Redakteur Bryant Francis bezweifelt, dass die Regel viel bewirkt. Sie dürfte vor allem einfache Nachahmer stoppen, weil sich Sicherheitsregeln mit rhetorischen Tricks umgehen ließen. Unklar sei auch, wie die Software erkennen solle, ob jemand eine Spielidee oder die Assets tatsächlich besitzt. In den Kommentaren hieß es, Kopierer könnten einfach auf offene Modelle ohne solche Beschränkungen ausweichen."
+          ],
+          "highlight": "Das Studio Digital Sun Games hat einen öffentlichen Spieltest für sein nächstes Spiel ReVamp abgesagt, weil es fürchtete, jemand könnte die Demo in ein KI-Werkzeug füttern und das Spiel kopieren.",
+          "assessment": [
+            "Zwei Sätze im Prompt sind keine Lösung, aber ein Statement. Anthropic zeigt, dass es das Problem ernst nimmt, und schiebt die Verantwortung zugleich ein Stück weit von sich: Wer die Regel umgeht, verstößt gegen die Nutzungsbedingungen.",
+            "Wirklich bemerkenswert ist der Hintergrund. Wenn Studios ihre Demos zurückhalten, weil sie Angst vor KI-Kopien haben, verlieren Spieler genau die frühen Tests, die kleinen Spielen oft erst Aufmerksamkeit verschaffen. Das schadet der Indie-Szene mehr als jeder einzelne Klon."
+          ],
+          "sources": [
+            { "name": "Game Developer", "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games" }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/GGJ_LA_2015.JPG/1280px-GGJ_LA_2015.JPG",
+            "alt": "Teilnehmer der Global Game Jam 2015 in Los Angeles arbeiten an Laptops",
+            "credit": "Kevin Wong",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:GGJ_LA_2015.JPG"
+          }
+        },
+        {
+          "title": "Roblox verliert Spieler und setzt auf KI-Spiele",
+          "lead": "Die Zahl der täglichen Nutzer ist um 9 Prozent gefallen, auch die Spielzeit sinkt. Roblox will mit generativer KI gegensteuern und gibt dafür viel Geld aus.",
+          "body": [
+            "Roblox hat im dritten Quartal seine Ziele bei den täglich aktiven Nutzern deutlich verfehlt. Die Zahl fiel im Jahresvergleich um 9 Prozent auf 138 Millionen, erwartet worden waren 145 Millionen. Die Spielzeit lag bei 34 Milliarden Stunden, mehr als erwartet, aber 15 Prozent weniger als vor einem Jahr. Roblox erklärt den Rückgang mit dem außergewöhnlich starken Wachstum im Vorjahr.",
+            "Finanziell sieht es gemischter aus. Laut Aktionärsbrief stieg der Umsatz um 16 Prozent auf 1,6 Milliarden Dollar, weil Roblox Einnahmen früherer Quartale nach und nach verbucht. Die Buchungen, also das tatsächlich ausgegebene Geld der Spieler, lagen bei 1,7 Milliarden Dollar, über der eigenen Prognose, aber 12 Prozent unter dem Vorjahr. Der operative Cashflow sank von 546 auf 395 Millionen Dollar, der freie Cashflow von 443 auf 364 Millionen. Höhere Ausgaben begründet Roblox mit Investitionen in KI, darunter Kosten für Training und Betrieb von KI-Modellen. Gegenüber dem Vorquartal wuchs die Zahl der täglichen Nutzer immerhin um 12 Prozent.",
+            "Die Führung glaubt, dass generative KI den Nutzerrückgang ausgleichen wird. Mehr als 80 Prozent der 100 erfolgreichsten Spiele auf der Plattform im vergangenen Quartal seien mit KI-Werkzeugen entstanden. Konzernchef David Baszucki spricht von einem „sprunghaften Wandel im Tempo, in dem Inhalte erstellt werden können“. Roblox' eigenes Werkzeug, das Spiele aus Texteingaben baut, ist seit Ende Juli in einer begrenzten öffentlichen Testphase.",
+            "Zuletzt geriet Roblox in die Kritik, weil ein KI-Agent des Unternehmens 145,5 Gigabyte 3D-Modelle von der Seite Open3DLab abgegriffen hatte, darunter auch Inhalte für Erwachsene. Ein Sprecher nannte das einen Fehler, die Daten würden nicht für KI-Training verwendet."
+          ],
+          "highlight": "Mehr als 80 Prozent der 100 erfolgreichsten Spiele auf der Plattform im vergangenen Quartal seien mit KI-Werkzeugen entstanden.",
+          "assessment": [
+            "Die Logik ist nachvollziehbar, aber nicht zwingend: Mehr Spiele lösen nicht das Problem, dass weniger Menschen Roblox spielen. Wenn die Plattform jetzt mit KI-generierten Inhalten geflutet wird, steigt vor allem das Angebot, nicht unbedingt die Nachfrage.",
+            "Interessant ist die 80-Prozent-Zahl. Sie zeigt, wie selbstverständlich KI-Werkzeuge bei Roblox schon sind, sagt aber wenig darüber, wie viel davon tatsächlich KI ist und wie viel klassische Arbeit mit etwas Hilfe."
+          ],
+          "sources": [
+            { "name": "Game Developer", "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate" },
+            { "name": "Roblox Aktionärsbrief Q3 2026 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001315098/000162828026068235/ex991-q32026earningsshar.htm" }
+          ],
+          "image": {
+            "url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2b056c274c017acb/689362ff4c8a423e5710e8e5/robloxx.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+            "alt": "Eine Reihe von Roblox-Spielen",
+            "credit": "Roblox",
+            "license": "Artikelbild Game Developer",
+            "source": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate"
+          }
+        },
+        {
+          "title": "Destiny 2: Alte Kampagnen kommen zurück, aber erst Anfang 2028",
+          "lead": "Bungie hat genauer erklärt, wie es gelöschte Inhalte von Destiny 2 wiederherstellen will. Der Fahrplan ist lang, dazu kommen vage Andeutungen über ein „Destiny Legacy“.",
+          "body": [
+            "Bungie hat in einem langen Blogbeitrag den Fahrplan für das sogenannte Unvaulting vorgestellt, also die Rückkehr der Inhalte, die seit 2020 aus Destiny 2 entfernt wurden. Die Arbeit ist in der Vorproduktion, Bungies neuer „Fortschrittsbalken“ reicht bis Anfang 2028. Die Vorproduktion soll bis Januar oder Februar 2027 dauern, danach rechnet Bungie mit einem weiteren Jahr, um die alten Inhalte vollständig zu übertragen.",
+            "Der erste Durchgang umfasst die Kampagnen Red War, Curse of Osiris, Warmind und Forsaken mit ihren Strikes, Raids und Raid-Lairs sowie die Menagerie mit überarbeiteten Belohnungen. Die Inhalte sollen für alle Spieler verfügbar sein. Dazu kommen Ziele für später und eine Liste von Inhalten, für die Bungie „derzeit aus technischen oder strategischen Gründen keinen Weg“ sieht.",
+            "Produktchef Josh Deane spricht von einem „echten Neustart für Bungie, Marathon und Destiny“. Er räumt ein: „Wir wissen auch, dass die Zeit nicht auf unserer Seite ist; wir spielen aus dem Rückstand.“ Langfristiges Ziel sei „ein neues, dauerhaftes Destiny“. Im Februar soll es weitere Fortschrittsbalken geben, darunter für eine „Celebration“ mit neuen Updates in Destiny 2 und ein Projekt namens „Destiny Legacy“, das die Reise von vor über zehn Jahren auf heutige Plattformen bringen soll.",
+            "Deane macht die Zukunft von Destiny auch vom Erfolg des Shooters Marathon abhängig: Nichts helfe mehr beim Weg in die Zukunft, als dass Marathon sich schnell weiterentwickle und tragfähig werde. Bungie hatte zuvor eingeräumt, dass Marathon weniger Spieler erreicht habe als erhofft."
+          ],
+          "highlight": "Die Arbeit ist in der Vorproduktion, Bungies neuer „Fortschrittsbalken“ reicht bis Anfang 2028.",
+          "assessment": [
+            "Das ist der ehrlichste Plan, den Bungie seit Monaten vorgelegt hat, und gerade deshalb ernüchternd. Über ein Jahr nur für Vorproduktion, dann ein weiteres Jahr für die Übertragung: Wer auf seine alten Lieblingsraids wartet, braucht Geduld bis tief in die nächste Konsolengeneration.",
+            "Die eigentliche Botschaft steckt im Nebensatz zu Marathon. Destiny hängt am Erfolg eines Spiels, das bisher schwächelt. Solange das so bleibt, sind „Legacy“ und „Celebration“ vor allem Versprechen auf einem Whiteboard."
+          ],
+          "sources": [
+            { "name": "GamesRadar+", "url": "https://www.gamesradar.com/games/destiny/bungie-shares-hopes-for-a-new-forever-destiny-and-destiny-legacy-but-we-arent-back-yet-time-isnt-our-friend/" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/NWw9vJMXVtuKttnNW9DhZm-1920-80.jpg",
+            "alt": "Die Destiny-2-Figur Lodi mit hellblau leuchtenden Augen hinter einer dunklen Brille",
+            "credit": "Bungie",
+            "license": "Artikelbild GamesRadar+",
+            "source": "https://www.gamesradar.com/games/destiny/bungie-shares-hopes-for-a-new-forever-destiny-and-destiny-legacy-but-we-arent-back-yet-time-isnt-our-friend/"
+          }
+        },
+        {
+          "title": "Arduview: Ein Handheld, durch den man komplett hindurchsieht",
+          "lead": "Ein Student hat eine Spielkonsole im Kreditkartenformat gebaut, bei der alles durchsichtig ist, auch der Bildschirm. Auf Kickstarter ist das Projekt schon finanziert.",
+          "body": [
+            "Der Arduview gilt als erster vollständig transparenter Handheld der Welt, einschließlich des Bildschirms. Gebaut hat ihn Louis Huang, Student am Babson College in Massachusetts. Sein Gedanke: Das Innere eines Geräts sei der interessanteste Teil, also solle man es auch sehen können.",
+            "Das Gerät ist etwa so groß wie eine Kreditkarte und basiert auf der offenen Arduboy-Plattform, die wiederum auf Arduino aufsetzt. Es soll sich öffnen, neu bespielen und verändern lassen, statt versiegelt zu sein. Ausgeschaltet sieht der Bildschirm aus wie Glas, eingeschaltet leuchten die Pixel cyanfarben, sodass man auch im Dunkeln spielen kann. 400 Spiele sind vorinstalliert, weitere aus der Arduboy-Community lassen sich aufspielen.",
+            "Auf Kickstarter kostet der Arduview in den Frühbucherstufen umgerechnet etwa 75, 89 oder 99 Dollar, der spätere Preis soll bei rund 147 Dollar liegen. Das Finanzierungsziel ist bereits erreicht, die Kampagne lief beim Erscheinen des Artikels noch 38 Tage. Einen Liefertermin nennt VGC nicht.",
+            "VGC hat nach eigenen Angaben seit etwa einem Monat ein Exemplar in der Hand und bestätigt, dass der Bildschirm so funktioniert wie auf der Kickstarter-Seite gezeigt. Ein ausführlicher Bericht soll folgen. Technische Daten wie Akku oder Auflösung nennt der Artikel nicht."
+          ],
+          "highlight": "Ausgeschaltet sieht der Bildschirm aus wie Glas, eingeschaltet leuchten die Pixel cyanfarben, sodass man auch im Dunkeln spielen kann.",
+          "assessment": [
+            "Ein Spielzeug, keine Konkurrenz für Switch oder Steam Deck, aber ein sehr schönes. Die Arduboy-Spiele sind winzige 1-Bit-Titel, wer dort große Abenteuer erwartet, wird enttäuscht.",
+            "Gerade in einer Woche, in der Hardware wegen der Speicherknappheit teurer wird, ist so ein offenes Bastelgerät eine sympathische Gegenbewegung. Bei Kickstarter bleibt allerdings das übliche Risiko: Ein erreichtes Ziel ist noch kein geliefertes Gerät."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/10/arduview.jpg",
+            "alt": "Der durchsichtige Handheld Arduview",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Kalifornien diskutiert unbegrenzte Filmförderung",
+          "lead": "Der Bundesstaat zahlt schon 750 Millionen Dollar im Jahr für Film- und Fernsehproduktionen, und trotzdem wandern Drehs ab. Jetzt wird über eine Förderung ohne Obergrenze verhandelt.",
+          "body": [
+            "Kaliforniens Abgeordnete haben am Donnerstag erstmals darüber diskutiert, die Obergrenze für die staatliche Film- und Fernsehförderung aufzuheben. Derzeit ist sie auf 750 Millionen Dollar im Jahr begrenzt. Rick Chavez Zbur, Vorsitzender des zuständigen Sonderausschusses, will in der nächsten Sitzungsperiode nachbessern: „Entweder die Obergrenze anheben oder abschaffen. Aber das ist ein schwerer Brocken.“",
+            "Wie dringend es ist, zeigte Betsy Beers, die Produktionspartnerin von Shonda Rhimes. Sie wollte einen neuen Ableger von „Grey's Anatomy“ in Santa Clarita drehen, die Serie bekam aber keine kalifornische Förderung. „Wir haben viel Zeit und viel Geld verloren, und jetzt drehen wir in Albuquerque“, sagte sie. Georgia fördert ohne Limit, New York darf auf künftige Jahresbudgets zugreifen, was praktisch auf dasselbe hinausläuft.",
+            "Ob sich das rechnet, ist umstritten. Ein Ökonom des Legislative Analyst's Office verwies auf Studien, wonach Filmförderungen pro eingesetztem Dollar nur 20 bis 50 Cent an den Staat zurückbringen. Eine vom Branchenverband MPA bezahlte Studie kommt dagegen auf 1,07 Dollar. Zbur schlug vor, den Nutzen der Förderung in der Haushaltsrechnung mit zu berücksichtigen, statt nur auf die Kosten zu schauen.",
+            "Kalifornien hatte die Grundförderung im vergangenen Jahr von 20 auf 35 Prozent erhöht und die Obergrenze von 330 auf 750 Millionen Dollar angehoben. Das Programm läuft 2030 aus. Diskutiert wird auch, Gagen für Schauspieler und Regie förderfähig zu machen. Gleichzeitig kämpft der Staat mit einem strukturellen Defizit und Kürzungen bei der Krankenversicherung Medicaid.",
+            "Auch eine mögliche bundesweite Förderung von 20 Prozent, über die der Kongress berät, würde Kalifornien laut mehreren Rednern nicht retten. „Wir sollten nicht annehmen, dass die Arbeit zurückkommt, nur weil sich die Bundespolitik ändert“, sagte Lindsay Dougherty, Chefin der Hollywood-Teamsters."
+          ],
+          "highlight": "„Wir haben viel Zeit und viel Geld verloren, und jetzt drehen wir in Albuquerque“, sagte sie.",
+          "assessment": [
+            "Dass eine Serie, die in Westtexas spielt, ausgerechnet in Kalifornien gedreht werden soll, zeigt, wie sehr Drehorte inzwischen nach Förderung statt nach Geschichte gewählt werden. Hollywood steckt in einem Subventionswettlauf mit anderen Bundesstaaten und Ländern, den es mit Obergrenzen kaum gewinnen kann.",
+            "Ich bezweifle, dass eine unbegrenzte Förderung angesichts des Haushaltslochs durchkommt. Realistischer ist eine weitere Erhöhung. Für die vielen arbeitslosen Crews in Los Angeles wäre aber schon das mehr als nichts."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/" }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/10/Rick-Chavez-Zbur.jpg?crop=0px%2C8px%2C1200px%2C675px&resize=1000%2C563",
+            "alt": "Der kalifornische Abgeordnete Rick Chavez Zbur",
+            "credit": "Variety",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/"
+          }
+        },
+        {
+          "title": "Taika Waititi nennt Kritiker „traurige verlorene Seelen“",
+          "lead": "Seine Ishiguro-Verfilmung „Klara and the Sun“ ist an der Kinokasse gefloppt und bei der Kritik durchgefallen. Der Regisseur wehrt sich auf Instagram.",
+          "body": [
+            "Taika Waititi hat sich gegen die schlechten Kritiken zu seinem neuen Film „Klara and the Sun“ gewehrt. Auf Instagram teilte er am Samstag das Filmplakat und stellte die Werte auf Rotten Tomatoes gegenüber: 78 Prozent beim Publikum, 28 Prozent bei der Kritik. Die Kritiker bezeichnete er laut The Hollywood Reporter als „traurige verlorene Seelen“.",
+            "Der Film lief vergangene Woche in 880 nordamerikanischen Kinos an und spielte am Startwochenende geschätzte 725.000 Dollar ein, damit verpasste er die Top 10. Weltweit kam er bis zum Erscheinen des Artikels auf rund 1,7 Millionen Dollar.",
+            "„Klara and the Sun“ basiert auf dem Roman von Kazuo Ishiguro aus dem Jahr 2021. Er spielt in einer dystopischen Zukunft und erzählt von einer ausgemusterten Begleit-Androidin, die eine Bindung zu ihrer neuen Besitzerin Josie aufbauen will, einem kranken Mädchen. In den Hauptrollen spielen Jenna Ortega und Amy Adams.",
+            "Bei der New Yorker Premiere hatte Waititi dem Hollywood Reporter auch etwas zu künstlicher Intelligenz gesagt, die im Film eine zentrale Rolle spielt. Er halte es für wahrscheinlich unvermeidlich, dass KI in der Branche genutzt werde. „Solange sie von Menschen als Werkzeug genutzt wird und nicht als Ersatz. Ich will keine Menschen ersetzen. Ich will mit ihnen arbeiten.“"
+          ],
+          "highlight": "Der Film lief vergangene Woche in 880 nordamerikanischen Kinos an und spielte am Startwochenende geschätzte 725.000 Dollar ein, damit verpasste er die Top 10.",
+          "assessment": [
+            "Regisseure, die sich öffentlich mit der Kritik anlegen, gewinnen fast nie. Und das Argument mit dem Publikumswert zieht hier kaum: Wenn kaum jemand ins Kino geht, sagen 78 Prozent von wenigen nicht viel.",
+            "Schade ist es trotzdem. Ishiguros Roman ist leise und traurig, das passt nicht unbedingt zu Waititis Stil, aber ein Risiko einzugehen ist ehrenwerter als der nächste Marvel-Film. Der Ausbruch auf Instagram lenkt jetzt eher davon ab."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227/" }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?crop=0px%2C165px%2C5283px%2C2959px&resize=1440%2C810",
+            "alt": "Jenna Ortega, Taika Waititi und Amy Adams bei einer Vorführung von „Klara and the Sun“ in New York",
+            "credit": "Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227/"
+          }
+        },
+        {
+          "title": "Michael Douglas über Jack Nicholson: „Er ist verschwunden, aber es geht ihm gut“",
+          "lead": "Jack Nicholson hat seit 2010 keinen Film mehr gedreht. Michael Douglas, der einst „Einer flog über das Kuckucksnest“ produzierte, hat jetzt erzählt, wie es ihm geht.",
+          "body": [
+            "Michael Douglas hat bei der Vorstellung seiner Memoiren „One Helluva Ride“ über Jack Nicholson gesprochen. „Ich hätte gern mit Jack gespielt“, sagte er. „Er arbeitet nicht mehr. Es geht ihm gut. Er ist verschwunden. Das weiß ich.“",
+            "Und weiter: „Ich sehe ihn noch, aber es geht ihm gut. Er ist oben bei seinem Haus und läuft in Hausschuhen herum. So ist das. Er hat es verdient. Ich verstehe das.“ Douglas ist 82, Nicholson 89 Jahre alt.",
+            "Die beiden standen nie gemeinsam vor der Kamera. Douglas produzierte aber 1975 „Einer flog über das Kuckucksnest“, in dem Nicholson Randle McMurphy spielte. Der Film erhielt neun Oscar-Nominierungen und gewann fünf, darunter für den besten Film und für Nicholson als besten Hauptdarsteller.",
+            "Offiziell hat Nicholson seinen Rückzug nie erklärt. Sein letzter Film war „Woher weißt du, dass es Liebe ist“ von 2010. Er wird nur noch selten fotografiert, zuletzt öffentlich zu sehen war er im Februar 2025 bei der Jubiläumssendung zu 50 Jahren „Saturday Night Live“. Zu seinem 89. Geburtstag im April teilte seine Tochter Lorraine ein Foto, das ihn lachend neben Joni Mitchell zeigt."
+          ],
+          "highlight": "Er ist oben bei seinem Haus und läuft in Hausschuhen herum.",
+          "assessment": [
+            "Keine große Nachricht, aber eine schöne. Nicholson hat nie einen Abschied inszeniert, er hat einfach aufgehört, und offenbar ist er damit zufrieden.",
+            "In einer Woche, in der Hollywood Patrick Stewart betrauert, ist es tröstlich zu hören, dass einer der Größten seiner Generation einfach in Hausschuhen seinen Ruhestand genießt. Ein Comeback braucht es nicht, das Werk reicht."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/news/jack-nicholson-retired-michael-douglas-1236936249/" }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/10/37th-AFI-Life-Achievement-Award-On-TV-Land-Prime-Backstage-And-Audience-NBA-All-Star-Game-2018-Women-In-Cinema-Red-Sea-International-Film-Festival-2024-1000.jpg?w=1000&h=563&crop=1",
+            "alt": "Collage mit Fotos von Jack Nicholson und Michael Douglas",
+            "credit": "Getty Images (u. a. Arnold Jerocki)",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/film/news/jack-nicholson-retired-michael-douglas-1236936249/"
+          }
+        },
+        {
+          "title": "„Criminal Minds: Evolution“ endet nach Staffel 20",
+          "lead": "Paramount+ stellt die Krimiserie ein. Die letzte Staffel ist schon abgedreht und wird 2027 gezeigt, ein echtes Finale bekommen die Fans aber nicht.",
+          "body": [
+            "Die 20. Staffel von „Criminal Minds: Evolution“ wird die letzte auf Paramount+. Das meldet Deadline. Damit endet vorerst eine Serie, die in zwei Fassungen auf zwei Plattformen lief: zuerst als „Criminal Minds“ bei CBS, nach der Absetzung dort als „Evolution“ beim Streamingdienst.",
+            "Staffel 20 soll 2027 starten, die Dreharbeiten wurden schon im Herbst abgeschlossen. Ein richtiges Ende ist deshalb nicht möglich. Die langjährige Showrunnerin Erica Messer deutete an, dass die Entscheidung plötzlich und wohl unerwartet kam.",
+            "Die Absetzung fällt in die Zeit nach der Fusion von Paramount und Skydance. Die frühere Originals-Chefin von Paramount+, Jane Wiseman, die erst vergangene Woche ausgeschieden ist, hatte im August noch gesagt, ihr Team seien „große Fans“ der Serie. Paramount+ bekommt ohnehin am Tag nach der Ausstrahlung alle CBS-Serien.",
+            "Mit 20 Staffeln liegt „Criminal Minds“ auf Platz fünf der am längsten laufenden Dramaserien, hinter „Law & Order: SVU“, „Law & Order“, „NCIS“ und „Grey's Anatomy“, die alle noch laufen. Zur Besetzung gehören Joe Mantegna, A.J. Cook, Kirsten Vangsness, Aisha Tyler, RJ Hatanaka, Adam Rodriguez und Paget Brewster. Produziert wird die Serie von 20th Television und CBS Studios."
+          ],
+          "highlight": "Staffel 20 soll 2027 starten, die Dreharbeiten wurden schon im Herbst abgeschlossen.",
+          "assessment": [
+            "Eine Serie nach 20 Staffeln ohne Abschluss zu beenden, ist respektlos gegenüber einem Publikum, das ihr zwei Jahrzehnte treu geblieben ist. Das ist leider typisch für Konzerne nach einer Fusion: Erst wird gespart, dann gefragt.",
+            "Ganz tot muss „Criminal Minds“ aber nicht sein. Die Serie hat schon einmal überlebt, und weil 20th Television mitproduziert, ist ein weiterer Neustart woanders zumindest denkbar."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/10/criminal-minds-evolution-canceled-final-season-20-paramount-1237209750/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/CME_S20_MB_0731_00751_RT.jpg?w=1024",
+            "alt": "RJ Hatanaka, Joe Mantegna, A.J. Cook, Paget Brewster, Adam Rodriguez, Kirsten Vangsness und Aisha Tyler am Set der 20. Staffel",
+            "credit": "Paramount+",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/criminal-minds-evolution-canceled-final-season-20-paramount-1237209750/"
+          }
+        },
+        {
+          "title": "Reese Witherspoons Hello Sunshine entlässt die Hälfte der Belegschaft",
+          "lead": "Kurz nachdem Witherspoon ihre Produktionsfirma zusammen mit Mediawan zurückgekauft hat, müssen rund 30 Beschäftigte gehen.",
+          "body": [
+            "Hello Sunshine, die Produktionsfirma von Reese Witherspoon, entlässt die Hälfte ihrer Belegschaft. Betroffen sind rund 30 Beschäftigte, wie Deadline von einer mit den Kürzungen vertrauten Person erfuhr. Der Schritt kam nicht überraschend: Witherspoon hat die Firma kürzlich zusammen mit dem französischen Studio Mediawan zurückgekauft.",
+            "Die Kürzungen sollen Hello Sunshine auf das Kerngeschäft ausrichten. Die verbleibenden Mitarbeiter konzentrieren sich auf Film, Fernsehen und Witherspoons Buchclub, dazu Marketing in sozialen Medien und Partnerschaften.",
+            "Zu Mediawan gehören auch Brad Pitts Produktionsfirma Plan B und die Chernin Group. Das Unternehmen habe „ein globales, unabhängiges Studio aufgebaut, indem es die Kreativen an erste Stelle setzt“, hatte Witherspoon Anfang des Monats erklärt. „Das war immer meine Vision für Hello Sunshine.“ Mitgründer Seth Rodsky ist neben Witherspoon und Vertretern von Mediawan in den Aufsichtsrat eingezogen.",
+            "Deadline ordnet den Fall in eine größere Entwicklung ein: Finanzinvestoren hatten in den Jahren niedriger Zinsen viel Geld in Produktionsfirmen gesteckt, gelockt vom scheinbar grenzenlosen Hunger von Netflix und anderen Streamern. Als die Plattformen ihre Ausgaben kürzten, gerieten viele Zulieferer in Schwierigkeiten."
+          ],
+          "highlight": "Die Kürzungen sollen Hello Sunshine auf das Kerngeschäft ausrichten.",
+          "assessment": [
+            "Hello Sunshine war einmal das Paradebeispiel für den Streaming-Goldrausch, eine Firma, um die sich Finanzinvestoren gerissen haben. Dass sie jetzt halbiert wird, zeigt, wie viel von diesem Wert an der Erwartung hing, dass die Streamer ewig weiter einkaufen.",
+            "Für Witherspoon kann der Neustart mit Mediawan trotzdem klug sein, eine kleinere Firma mit klarem Fokus ist in diesem Markt robuster. Für die 30 Menschen, die gehen müssen, ist das ein schwacher Trost."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/10/hello-sunshine-layoffs-reese-witherspoon-mediawan-1237209797/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2025/07/GettyImages-2220715006.jpg?w=1024",
+            "alt": "Reese Witherspoon",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/10/hello-sunshine-layoffs-reese-witherspoon-mediawan-1237209797/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Saqqara: Grab des Beamten Weni mit seltenen Holzstatuen und Bronzewerkzeugen",
+          "lead": "Ägyptische Archäologen haben im Süden Saqqaras die bemalte Grabkammer eines hohen Beamten aus dem Alten Reich gefunden. Rätselhaft sind Instrumente, die nach medizinischem Werkzeug aussehen.",
+          "body": [
+            "Eine ägyptische Mission des Obersten Rats für Altertümer hat in Saqqara die Grabkammer eines hohen Beamten namens Weni entdeckt. Sie liegt nordwestlich der Pyramide von König Merenre im Süden des Gräberfelds. Tourismus- und Altertumsminister Sherif Fathy besuchte die Fundstelle.",
+            "Die Archäologen fanden eine Mastaba aus Lehmziegeln mit mehreren Grabschächten. Einer führt hinab in Wenis Kammer aus dem Alten Reich. Die Inschriften an den Wänden sind so gut erhalten, dass sein Name und eine lange Liste von Titeln lesbar sind: Bürgermeister, Sem-Priester, Aufseher aller königlichen Gemächer, Schatzmeister des Hauses des Nordens, Einziger Freund und Herr der Stadt Kab. Er hatte also Aufgaben in Verwaltung und Kult und stand dem Königshof nahe.",
+            "Direkt über der Grabkammer lag ein gewölbter Raum voller Gegenstände, darunter zwei kleine Holzstatuen in einer seltenen betenden Haltung. Im Schacht fanden die Forscher außerdem Bronzeinstrumente, die nach Einschätzung von Fachleuten von Ärzten benutzt wurden. Solche Werkzeuge tauchen in Gräbern selten auf. Die Inschriften nennen Weni aber nirgends als Arzt, warum die Instrumente in seinem Grab liegen, ist unklar.",
+            "Auch Wenis Knochen erzählen etwas. Er starb nach dem 50. Lebensjahr, litt an fortgeschrittenen Erkrankungen der Zähne und des Zahnfleisches, und sein Skelett zeigt Spuren wiederholter schwerer körperlicher Belastung, was bei einem Mann seines Rangs überrascht. Außerdem fand die Mission eine Scheintür einer Frau namens Sechet-Nebti, die unter anderem Priesterin der Hathor war."
+          ],
+          "highlight": "Die Inschriften nennen Weni aber nirgends als Arzt, warum die Instrumente in seinem Grab liegen, ist unklar.",
+          "assessment": [
+            "Saqqara liefert so regelmäßig Funde, dass man fast abstumpft. Dieser hier ist trotzdem besonders, weil er mehrere Fragen gleichzeitig aufwirft: medizinisches Werkzeug bei einem Verwalter, schwere körperliche Abnutzung bei einem Hofbeamten.",
+            "Vielleicht war Weni nebenbei Heiler, vielleicht gehörten die Instrumente jemand anderem in der Familie. Gerade solche Widersprüche machen das Alte Reich menschlicher als jede Pyramide."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeologymag.com/2026/10/tomb-of-old-kingdom-official-weni-at-saqqara/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/tomb-of-official-weni-1.jpg",
+            "alt": "Funde aus dem Grab des Beamten Weni in Saqqara",
+            "credit": "Archaeology News Online Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/10/tomb-of-old-kingdom-official-weni-at-saqqara/"
+          }
+        },
+        {
+          "title": "Manduria: 2300 Jahre altes Grab gehörte vielleicht einer Priesterin der Demeter",
+          "lead": "In Apulien haben Archäologen ein Felsengrab mit zwei messapischen Inschriften und bemalten Kultsymbolen gefunden. Sie deuten auf eine Frau mit religiösem Amt.",
+          "body": [
+            "In der antiken messapischen Stadt Manduria in Süditalien haben Archäologen ein monumentales Grab aus dem 4. oder 3. Jahrhundert vor Christus entdeckt. „Grab 17“ ist in den Fels gehauen und war ursprünglich mit drei großen Steinplatten verschlossen. Vorgestellt wurde der Fund am 29. Oktober in Lecce.",
+            "Auf der Außenseite einer Platte ist eine Inschrift eingemeißelt, innen steht eine zweite, vierzeilige Inschrift in Rot und Blau. In beiden taucht das Wort „thabara“ auf, das ein Priesteramt bezeichnen könnte. Die gemalte Inschrift enthält zudem einen vorläufig als „Damatrioas“ gelesenen Namen. Die Forscher prüfen, ob er mit Demeter zusammenhängt, der Göttin des Ackerbaus, deren Kult auch mit Tod und dem Kreislauf des Lebens verbunden war.",
+            "An den Innenseiten der Platten sind Reste von Malereien erhalten, darunter ein Mäanderband, ein Tempelschlüssel und ein Thymiaterion, ein Gefäß zum Verbrennen von Weihrauch. Den Schlüssel trugen griechische Priesterinnen manchmal als Zeichen ihres Amtes am Heiligtum.",
+            "Das Grab war schon in der Antike geplündert worden, einige Beigaben blieben aber erhalten: Bronzefibeln, ein silberner Ring mit Schlangenmotiv, eine Silbermünze aus Tarent mit dem Kopf der Athena und Herakles im Kampf mit einem Löwen sowie ein Eisenobjekt unbekannter Funktion. Die Knochen sind so schlecht erhalten, dass die Bestattete kaum zu bestimmen ist. Insgesamt untersuchte das Team 24 Gräber, die meisten aus dem 4. und 3. Jahrhundert vor Christus.",
+            "Die Messapier lebten vor der römischen Herrschaft im Salento, mit eigener Sprache und Schrift und engen Kontakten zur griechischen Welt. Über die religiöse Rolle von Frauen in ihrer Gesellschaft ist wenig bekannt. Bestätigt sich der Priestertitel, wäre das Grab ein seltener direkter Beleg dafür."
+          ],
+          "highlight": "In beiden taucht das Wort „thabara“ auf, das ein Priesteramt bezeichnen könnte.",
+          "assessment": [
+            "Die Deutung als Demeter-Priesterin ist noch eine Hypothese, und die Forscher sagen das auch offen. Aber die Kombination aus Schlüssel, Weihrauchgefäß und zweifach genanntem Titel ist ziemlich stark.",
+            "Spannend finde ich vor allem die Sprache. Messapisch ist kaum verstanden, jede neue Inschrift hilft beim Entziffern. Dass eine davon ausgerechnet eine Frau mit religiöser Autorität betrifft, macht den Fund doppelt wertvoll."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/2300-year-old-tomb-with-two-inscriptions-discovered-may-belong-to-a-priestess-of-demeter/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/Messapic-inscriptions.jpeg",
+            "alt": "Messapische Inschrift auf einer Steinplatte von Grab 17 in Manduria",
+            "credit": "Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/2300-year-old-tomb-with-two-inscriptions-discovered-may-belong-to-a-priestess-of-demeter/"
+          }
+        },
+        {
+          "title": "Jordanien: Steinfiguren und Fossilien im Zentrum eines 9000 Jahre alten Jägerheiligtums",
+          "lead": "In der Wüste im Südosten Jordaniens haben Forscher eine Kultanlage von Gazellenjägern untersucht. Sie bildet im Kleinen die riesigen Fanganlagen nach, mit denen die Menschen jagten.",
+          "body": [
+            "An der Fundstelle Jibal al-Khashabiyeh östlich des Beckens von al-Jafr steht im Zentrum einer Kultanlage ein Paar menschenförmiger Steine, etwa 112 und 70 Zentimeter hoch. Der größere verbindet eine stilisierte menschliche Gestalt mit dem Bild eines sogenannten Wüstendrachens, der kleinere zeigt detailliertere menschliche Züge. Eine jordanisch-französische Mission unter Wael Abu-Azizeh und Mohammad Tarawneh hat die Anlage in den Grabungsjahren 2021 und 2023 freigelegt.",
+            "Hinter den Steinen fanden die Forscher fast 150 Meeresfossilien, viele davon aufrecht und bewusst angeordnet, dazu ungewöhnlich geformte Natursteine, Tierfiguren, bearbeitete Feuersteine und einen Stein, der als Altar gedeutet wird. Warum die Menschen in der heutigen Wüste versteinerte Meerestiere sammelten und aufstellten, ist unklar.",
+            "Wüstendrachen haben nichts mit Fliegen zu tun. Es sind riesige Jagdanlagen aus langen, aufeinander zulaufenden Steinmauern, die Herden in Gehege mit Fallgruben trieben, manche kilometerlang. Die Menschen von Jibal al-Khashabiyeh jagten damit vor allem Gazellen. Die Kultanlage selbst folgt im Grundriss der Form eines kleinen Wüstendrachens.",
+            "Eine im Februar 2026 veröffentlichte Studie datiert die Fanganlagen der Region mit Radiokarbon- und Lumineszenzmessungen in die zweite Hälfte des 8. Jahrtausends vor Christus. Damit entstand die organisierte Großjagd zur selben Zeit wie die ersten Bauerndörfer anderswo in der südlichen Levante. Am 28. Oktober meldete Jordaniens Antikenbehörde, dass rund 30 Objekte im Restaurierungszentrum Jerash konserviert und dreidimensional dokumentiert wurden. Sie sollen ins Museum von Petra kommen."
+          ],
+          "highlight": "Die Kultanlage selbst folgt im Grundriss der Form eines kleinen Wüstendrachens.",
+          "assessment": [
+            "Ein wunderbares Beispiel dafür, dass die Jungsteinzeit nicht nur aus Bauern bestand. Während anderswo Getreide angebaut wurde, bauten diese Jäger Fallen über Kilometer und verehrten sie offenbar zugleich.",
+            "Ich lese die Anlage als eine Art Gebet um Jagdglück, aber das bleibt Spekulation. Sicher ist nur, dass die Jagd für diese Menschen mehr war als Nahrungsbeschaffung. Sie war Teil ihres Weltbilds."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/two-mysterious-stone-figures-stand-at-the-heart-of-a-9000-year-old-shrine-in-jordan/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/10/JKSH-P52-scaled.jpg",
+            "alt": "Die Kultanlage JKSH P52 mit aufrecht stehenden Steinfiguren in der jordanischen Wüste",
+            "credit": "Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/two-mysterious-stone-figures-stand-at-the-heart-of-a-9000-year-old-shrine-in-jordan/"
+          }
+        },
+        {
+          "title": "Nagapattinam: Bronzefiguren von Shiva und Sivakami aus der Chola-Zeit ausgegraben",
+          "lead": "In einer alten Hafenstadt in Südindien sind zwei etwa 900 Jahre alte Götterstatuen aus Bronze aufgetaucht, einen Meter unter der Erde und mit ihren Sockeln.",
+          "body": [
+            "Bei Ausgrabungen in Nagapattinam im indischen Bundesstaat Tamil Nadu sind zwei Bronzestatuen der Gottheiten Shiva und Sivakami gefunden worden. Sie lagen etwa einen Meter unter der Oberfläche, noch auf ihren ursprünglichen Sockeln. Minister Rajmohan Arumugam gab den Fund am 30. Oktober bekannt.",
+            "Die größere Figur zeigt Shiva als Nataraja, den kosmischen Tänzer, 110 Zentimeter hoch und 100 Zentimeter breit. Er hat vier Arme und tanzt den Ananda Tandava, den Tanz der Glückseligkeit, ein Bein erhoben, der andere Fuß steht auf einer kleinen Figur, die für Unwissenheit steht. Sivakami verkörpert die Göttin Parvati und erscheint in südindischer Tempelkunst häufig an seiner Seite.",
+            "Die Archäologen datieren die Statuen vorläufig ins 12. Jahrhundert, nach Stil und Machart, nicht nach Laboranalysen. Laut der Behörde sind es die ersten Bronzefiguren dieser Art, die sie bei einer eigenen Grabung geborgen hat. Die Grabung läuft seit August, sechs Schnitte waren beim Fund geöffnet.",
+            "Warum die Figuren vergraben wurden, ist offen. Der Berater K. Rajan hält es für möglich, dass sie zur sicheren Aufbewahrung versteckt wurden. In der Gegend sind schon viele Bronzen aus der Chola-Zeit vergraben gefunden worden, möglicherweise in Zeiten von Invasionen oder Unruhen. Nagapattinam war unter den Chola ein wichtiger Hafen mit Verbindungen bis zum Srivijaya-Reich in Südostasien, dessen Herrscher dort im frühen 11. Jahrhundert ein buddhistisches Kloster gründete."
+          ],
+          "highlight": "Sie lagen etwa einen Meter unter der Oberfläche, noch auf ihren ursprünglichen Sockeln.",
+          "assessment": [
+            "Chola-Bronzen gehören zu den schönsten Skulpturen, die die Menschheit hervorgebracht hat, und die meisten in Museen haben eine dunkle Geschichte aus Raub und Schmuggel. Ein Paar, das sauber bei einer offiziellen Grabung gefunden wird, ist deshalb wissenschaftlich wertvoll: Man kennt den Fundzusammenhang.",
+            "Die Frage, warum in Nagapattinam immer wieder Götterbilder in der Erde auftauchen, ist die eigentlich spannende. Wenn die Grabung sie beantwortet, erfährt man viel über Krisen in einer der großen Handelsstädte Asiens."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/900-year-old-bronze-statues-of-shiva-and-sivakami-discovered-in-india/" }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/11/Bronze-Statues-of-Shiva-and-Siva.jpg",
+            "alt": "Die Bronzestatuen von Shiva als Nataraja und Sivakami nach der Ausgrabung",
+            "credit": "Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/900-year-old-bronze-statues-of-shiva-and-sivakami-discovered-in-india/"
+          }
+        },
+        {
+          "title": "Senden in Bayern: Keltin mit Speisebeigabe und Armring aus Fossilschlamm bestattet",
+          "lead": "In Schwaben haben Archäologen das Grab einer Frau aus keltischer Zeit gefunden, mit schwerem Bronzeschmuck und einem Lamm oder Zicklein als Beigabe. Das ist für keltische Gräber ungewöhnlich.",
+          "body": [
+            "Bei Grabungen in Senden im bayerischen Schwaben ist schon 2024 das Grab einer Frau aus keltischer Zeit zum Vorschein gekommen, die vor mehr als 2000 Jahren bestattet wurde. Es lag an der St.-Florian-Straße auf einem Gelände, das für ein Gewerbegebiet vorgesehen ist. Jetzt hat das Bayerische Landesamt für Denkmalpflege (BLfD) den Fund vorgestellt.",
+            "Neben der Toten lagen die Überreste eines Lamms oder Zickleins, die Forscher deuten sie als Speisebeigabe. Eine solche Gabe ist für ein keltisches Grab ungewöhnlich und wirft Fragen nach religiösen Vorstellungen, sozialen Beziehungen und Bestattungsritualen auf.",
+            "Die Frau trug reichen Schmuck: zwei massive Fußringe aus Bronze und einen Armring aus Sapropelit, einer Art verfestigtem fossilem Faulschlamm. Dazu kommen zwei geknotete Ringe aus demselben Schmuckensemble.",
+            "Stefanie Berg, Leiterin der Abteilung Bodendenkmalpflege am BLfD, nennt das Grab einen herausragenden Einzelfund, der in eine größere Geschichte gehöre. Auf der Grabungsfläche fanden sich Siedlungsspuren von der Keltenzeit bis in die römische Kaiserzeit. Die Funde wurden am 30. Oktober in Senden der Presse gezeigt, wo an diesem Wochenende auch die Jahrestagung der Gesellschaft für Archäologie in Bayern stattfindet."
+          ],
+          "highlight": "Eine solche Gabe ist für ein keltisches Grab ungewöhnlich und wirft Fragen nach religiösen Vorstellungen, sozialen Beziehungen und Bestattungsritualen auf.",
+          "assessment": [
+            "Ein Fund aus Deutschland, und ein schöner Beleg dafür, wie viel Geschichte unter künftigen Gewerbegebieten liegt. Ohne die Bauplanung wäre dieses Grab wohl nie entdeckt worden.",
+            "Der Armring aus Sapropelit ist mein Lieblingsdetail. Er zeigt, dass Schmuck in der Eisenzeit nicht nur aus Metall bestand, sondern aus Materialien, die man heute kaum noch kennt. Die Speisebeigabe macht die Frau zudem zu einem Rätsel, das die Forscher noch eine Weile beschäftigen wird."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeologymag.com/2026/10/celtic-womans-grave-held-animal-and-fossil-arm-ring/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/celtic-womans-grave-fossil-1.jpg",
+            "alt": "Schmuck aus dem keltischen Frauengrab von Senden",
+            "credit": "BLfD / Archaeology News Online Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/10/celtic-womans-grave-held-animal-and-fossil-arm-ring/"
+          }
+        }
+      ]
+    }
+  ]
+}
