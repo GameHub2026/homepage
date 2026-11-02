@@ -1,5 +1,38 @@
 [
   {
+    "nr": 27,
+    "date": "2026-11-02",
+    "updated": "2026-11-02T07:53:10+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Meta baut mit chinesischer Hilfe einen Haushaltsroboter namens „Max“",
+      "BSI warnt Bundestagsabgeordnete vor Spähsoftware auf ihren iPhones",
+      "OpenAI will Rechenzentren in „AI Compute Campuses“ umbenennen",
+      "Papst Leo XIV. fordert ein Verbot autonomer Waffen",
+      "„Geisterstudenten“: Betrüger kassieren mit KI Studienkredite",
+      "Valves verschollener Portal-Vorläufer F-Stop ist plötzlich spielbar",
+      "Final Fantasy 14: Evercold kommt am 23. Februar 2027",
+      "Persona 1 Remake: Angebliche Spielszenen sind aufgetaucht",
+      "Modern Warfare 4 auf Switch 2: doppelt so viel Verzögerung wie auf PS5",
+      "Pikmin 4 für Switch 2 erscheint am 12. November, Demo ab heute",
+      "Neu: Holmes-Doku holt Platz eins, Resident Evil knackt 400 Millionen",
+      "Michael Mann schießt sich auf dem Schießstand versehentlich ins Bein",
+      "Alex Garlands Elden-Ring-Film ist abgedreht und soll fast 200 Millionen kosten",
+      "Dave Bautista hat für Kratos neun Kilo Muskeln zugelegt",
+      "Dustin Hoffman: „Die Reifeprüfung“ war eine schreckliche Erfahrung",
+      "Polen: Keltischer Kriegerhelm auf einem Hügel an der Bernsteinstraße",
+      "Siebenbürgen im 17. Jahrhundert: 55 harte Winter, Hunger und Pest",
+      "Römisches Wunderglas: Sheffield bildet den Farbwechsel des Lykurgos-Bechers nach",
+      "Neandertaler hielten ihr Lager sauber: Holzkohle verrät Abfallzonen",
+      "Virginia: Studentin sucht Haizähne und findet eine 4.000 Jahre alte Speerspitze"
+    ]
+  },
+  {
     "nr": 26,
     "date": "2026-11-01",
     "updated": "2026-11-01T07:52:21+01:00",

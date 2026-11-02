@@ -1,0 +1,539 @@
+{
+  "nr": 27,
+  "date": "2026-11-02",
+  "intro": "Ein ruhiges Wochenende mit erstaunlich viel Gesprächsstoff: Meta baut heimlich an einem Haushaltsroboter, das BSI warnt Bundespolitiker vor Spähsoftware auf ihren iPhones, und OpenAI will Rechenzentren künftig anders nennen, weil sie so unbeliebt sind. Im Gaming-Kapitel ist Valves verschollener Portal-Vorläufer F-Stop plötzlich spielbar, im Kino schreibt eine Dokumentation Halloween-Geschichte, und in der Geschichte geht es um einen keltischen Helm im falschen Land, Siebenbürgens Hungerwinter und ein römisches Glas, das endlich nachgebaut wurde.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Meta baut mit chinesischer Hilfe einen Haushaltsroboter namens „Max“",
+          "lead": "Meta hat zusammen mit dem chinesischen Start-up Fourier einen humanoiden Roboter für den Haushalt entwickelt. Der Konzern bestätigt das Projekt, will den Roboter aber nicht verkaufen.",
+          "body": [
+            "Meta Platforms arbeitet offenbar schon weiter an eigenen humanoiden Robotern als bisher bekannt. Nach einem Bericht von The Information, den heise aufgegriffen hat, hat der Konzern zusammen mit dem chinesischen Robotik-Start-up Fourier einen Roboter in Menschengestalt gebaut, der im Haushalt helfen soll. Sein interner Name ist „Max“. Meta bestätigte die Arbeit auf Nachfrage, sprach aber von einem internen Projekt. Ein Verkauf sei nicht geplant.",
+            "Die technischen Daten klingen nach einem ernst gemeinten Prototyp. Max wiegt etwa 48 Kilogramm und ist rund 1,5 Meter groß. Im Kopf sitzt ein Bildschirm, der Gesichtsausdrücke zeigt, dazu kommen fünf Lautsprecher und Hände mit fünf Fingern. Als Rechner dient Nvidias Robotikplattform Jetson AGX Thor. Gebaut wurde der erste Prototyp laut Bericht in etwa drei Monaten, intern vorgestellt wurde er Ende August.",
+            "Seit September arbeitet das Team bereits an „Max 2“. Der Nachfolger soll einen überarbeiteten Oberkörper, bessere Hände, einen eingebauten Projektor und zusätzliche Sensoren bekommen, mit denen der Roboter Treppen steigen kann. Gerade das Treppensteigen gilt bei Haushaltsrobotern als eine der schwierigsten Aufgaben, weil die meisten Wohnungen nicht für Maschinen gebaut sind.",
+            "Hinter dem Projekt steht eine größere Strategie. Meta will seinen KI-Agenten „Muse“ in die physische Welt bringen, und dafür braucht es einen Körper. Schon Anfang 2025 hatte der Konzern sein Robotik-Framework Partnr mit Spot getestet, dem vierbeinigen Roboter von Boston Dynamics. Im Mai 2026 kaufte Meta zudem nach einem Bloomberg-Bericht das US-Start-up Assured Robot Intelligence, das KI-Modelle für Roboter entwickelt."
+          ],
+          "highlight": "Meta will seinen KI-Agenten „Muse“ in die physische Welt bringen, und dafür braucht es einen Körper.",
+          "assessment": [
+            "Dass Meta ausgerechnet mit einem chinesischen Partner arbeitet, ist der eigentlich interessante Teil. China ist bei Roboterhardware schlicht weiter und billiger, und selbst ein Konzern mit Metas Budget kauft sich lieber Erfahrung ein, als drei Jahre lang Gelenke zu entwickeln. Politisch ist das heikel, gerade während Washington ausländische Industrieroboter als Sicherheitsrisiko einstuft.",
+            "„Kein Verkauf geplant“ würde ich nicht zu wörtlich nehmen. So klingen Projekte, die noch nicht gut genug sind. Meta will mit Muse in jede Lebenslage, und ein Roboter in der Küche ist die konsequenteste Form davon. Ob jemand einen Roboter mit Kamera, Mikrofon und Meta-Logo in seine Wohnung lassen will, ist eine andere Frage."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Meta-arbeitet-offenbar-mit-chinesischer-Hilfe-an-humanoidem-Haushaltsroboter-11507414.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/6/0/5/shutterstock_2380164567-bc8869d8dc794a40.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild eines humanoiden Roboters",
+            "credit": "Below the Sky/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Meta-arbeitet-offenbar-mit-chinesischer-Hilfe-an-humanoidem-Haushaltsroboter-11507414.html"
+          }
+        },
+        {
+          "title": "BSI warnt Bundestagsabgeordnete vor Spähsoftware auf ihren iPhones",
+          "lead": "Apple hat Besitzern bestimmter iPhones gemeldet, dass ihre Geräte Ziel eines Angriffs mit Söldner-Spyware gewesen sein könnten. Darunter sind offenbar auch deutsche Politiker.",
+          "body": [
+            "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat Mitglieder des Bundestags und der Bundesregierung vor einem möglichen Spyware-Angriff auf ihre Telefone gewarnt. Das berichtete zuerst das ARD-Hauptstadtstudio, heise hat die Meldung mit Material der dpa aufgegriffen. Auslöser ist eine Bedrohungsmeldung von Apple: Seit dem 29. Oktober zeigen betroffene iPhones eine Warnung an, Apple habe einen Angriff mit sogenannter „Mercenary“-Spyware erkannt, also mit Spähsoftware, die kommerzielle Anbieter an Staaten oder andere zahlungskräftige Kunden verkaufen.",
+            "Digitalminister Karsten Wildberger (CDU) bestätigte den Vorgang. Apple habe mitgeteilt, dass bestimmte Geräte möglicherweise kompromittiert seien. Das BSI habe schnell reagiert und die Betroffenen kontaktiert. Weitere Einzelheiten nannte Wildberger nicht, Spekulationen über die Hintergründe bezeichnete er als verfrüht. Wie viele Abgeordnete betroffen sind und wer hinter dem Angriff stecken könnte, ist offen.",
+            "Solche Spionageprogramme können praktisch alles mitlesen, was auf einem Telefon passiert: Tastatureingaben, Nachrichten, Fotos, den Standort, und sie können auch das Mikrofon einschalten. Verbreitet werden sie oft über präparierte Anhänge, gefälschte Links oder inoffizielle Apps, bei den teuersten Varianten sogar ohne jedes Zutun des Opfers.",
+            "Apple verschickt solche Warnungen, wenn das Unternehmen davon ausgeht, dass ein Nutzer wahrscheinlich gezielt ins Visier genommen wurde. Eine Bestätigung, dass ein Gerät tatsächlich infiziert ist, ist die Meldung nicht."
+          ],
+          "highlight": "Seit dem 29. Oktober zeigen betroffene iPhones eine Warnung an, Apple habe einen Angriff mit sogenannter „Mercenary“-Spyware erkannt, also mit Spähsoftware, die kommerzielle Anbieter an Staaten oder andere zahlungskräftige Kunden verkaufen.",
+          "assessment": [
+            "Das ist kein Hackerstreich, sondern Spionage mit Software, die pro Ziel sehr viel Geld kostet. Wer so etwas gegen Bundestagsabgeordnete einsetzt, hat einen Grund und ein Budget, und die Liste der Verdächtigen ist entsprechend kurz.",
+            "Bemerkenswert ist, wer hier Alarm geschlagen hat: nicht der deutsche Staat, sondern ein amerikanischer Konzern. Das BSI hat reagiert, entdeckt hat den Angriff Apple. Für die Debatte um digitale Souveränität ist das eine unangenehme Pointe."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/6/0/0/shutterstock_1475631128-76dcc6e82e074f5e.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Spähsoftware auf dem Smartphone",
+            "credit": "iHaMoo/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html"
+          }
+        },
+        {
+          "title": "OpenAI will Rechenzentren in „AI Compute Campuses“ umbenennen",
+          "lead": "Rechenzentren sind in den USA so unbeliebt geworden, dass sie die Kongresswahlen am Dienstag mitentscheiden könnten. OpenAI plant nach der Wahl eine PR-Offensive, inklusive neuem Namen.",
+          "body": [
+            "OpenAI bereitet nach einem Bericht von Axios für die Zeit nach den US-Zwischenwahlen am 3. November eine groß angelegte PR-Kampagne vor. Chris Lehane, Chef für globale Angelegenheiten bei OpenAI, sagte dem Portal, die Wahlen seien „eine Art Filmtrailer für das, was man 2028 sehen wird“. Bei der Präsidentschaftswahl in zwei Jahren werde KI „das Thema“ sein.",
+            "Lehane skizzierte mehrere Vorschläge, mit denen OpenAI die Debatte beeinflussen will: „Tempolimits“ für KI, Wege, damit Menschen KI als Hilfe im Alltag erleben, eine aktive Rolle der USA bei globalen Standards und eben die Umbenennung von Rechenzentren in „AI Compute Campuses“. Die Diskussion über Rechenzentren nannte er „gut und gesund“. Gemeinden sollten Unternehmen zur Verantwortung ziehen, damit sie wirklich etwas von den Projekten hätten.",
+            "Wie groß der Widerstand ist, beschreibt TechCrunch in einer Reportage von einer Wahlveranstaltung in Brooklyn. Als die Moderatorin fragte, wer im Publikum für KI-Rechenzentren sei, wurde sie ausgebuht. Nach einem Bericht von Data Center Watch wurden in der ersten Jahreshälfte 2026 Rechenzentrumsprojekte im Wert von fast 200 Milliarden Dollar wegen politischen oder lokalen Widerstands verzögert, gestoppt oder blockiert. Pennsylvania, Georgia, Texas, New York und Virginia beraten über strengere Regeln.",
+            "Der Druck zeigt schon Wirkung: Amazon und Microsoft haben angekündigt, bei Verhandlungen mit Kommunen keine Verschwiegenheitsvereinbarungen mehr einzusetzen. Gerade die geheimen Absprachen mit lokalen Behörden hatten viele Anwohner aufgebracht, weil oft erst zu spät klar wurde, was eigentlich gebaut wird."
+          ],
+          "highlight": "Als die Moderatorin fragte, wer im Publikum für KI-Rechenzentren sei, wurde sie ausgebuht.",
+          "assessment": [
+            "Ein neuer Name für ein unbeliebtes Gebäude ist der älteste Trick der PR, und er funktioniert selten, wenn das Problem echt ist. Die Leute stören sich nicht am Wort „Rechenzentrum“, sondern an Strompreisen, Wasserverbrauch, Lärm und daran, dass sie nicht gefragt wurden. Ein „Campus“ ändert daran nichts.",
+            "Ernster nehmen sollte man Lehanes Satz über 2028. OpenAI rechnet offenbar damit, dass KI ein Wahlkampfthema wird, bei dem die Branche auf der Verliererseite stehen könnte. Dass ein Unternehmen seine Lobbystrategie so offen am Wahlkalender ausrichtet, sagt viel darüber, wie politisch das Geschäft inzwischen geworden ist."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/" },
+            { "name": "TechCrunch (Reportage)", "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+            "alt": "Demonstrierende mit Schildern gegen KI, auf einem ist ein durchgestrichenes „AI“ zu sehen",
+            "credit": "Ethan Cairns/Bloomberg / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+          }
+        },
+        {
+          "title": "Papst Leo XIV. fordert ein Verbot autonomer Waffen",
+          "lead": "In einer Ansprache ruft der Papst die UN-Staaten auf, tödliche autonome Waffen zu verbieten. KI-Systemen Rechte zu geben, lehnt er ab.",
+          "body": [
+            "Papst Leo XIV. hat dazu aufgerufen, KI-Systeme zu „entwaffnen“. Menschen hätten „die Verantwortung, ihre Anwendungen zu lenken, zu verändern und, wenn nötig, abzulehnen“, sagte er in einer Ansprache am Freitag. Die Mitgliedstaaten der Vereinten Nationen forderte er auf, bei ihrem Treffen in Genf im kommenden Monat „konkrete Schritte zu einem Verbot tödlicher autonomer Waffen“ zu unternehmen.",
+            "Die Rede knüpft an das erste große Lehrschreiben des Papstes vom Mai an, das sich mit dem Schutz der menschlichen Person im Zeitalter der künstlichen Intelligenz befasste. „Maschinen sind Werkzeuge, keine Personen“, sagte Leo und warnte davor, KI-Systemen Rechte oder eine Rechtspersönlichkeit zuzusprechen. „Entscheidungen über menschliches Leben, Freiheit und die Anwendung von Gewalt müssen immer einer wirksamen, informierten und verantwortlichen menschlichen Aufsicht unterliegen.“",
+            "Schon sein Vorgänger Franziskus hatte 2024 ein Verbot autonomer Waffen gefordert: „Keine Maschine sollte jemals entscheiden, einem Menschen das Leben zu nehmen.“ Für Leo ist KI ein Kernthema seines Pontifikats. Er hat angedeutet, seinen Namen auch deshalb gewählt zu haben, weil Leo XIII. die Kirche durch die industrielle Revolution führte.",
+            "Zum Schluss forderte der Papst internationale Institutionen, gemeinsame Standards, unabhängige Aufsicht und klare Mechanismen, damit Entscheidungen über die Entwicklung und den Einsatz von KI überprüft, angefochten und bei Schäden wiedergutgemacht werden können."
+          ],
+          "highlight": "„Maschinen sind Werkzeuge, keine Personen“, sagte Leo und warnte davor, KI-Systemen Rechte oder eine Rechtspersönlichkeit zuzusprechen.",
+          "assessment": [
+            "Der Papst ist inzwischen eine der lautesten Stimmen für KI-Regulierung weltweit, und er hat einen Vorteil, den Politiker nicht haben: Er muss keine Standortpolitik machen. Seine Forderungen sind deshalb klarer als die der meisten Regierungen.",
+            "Ob das in Genf etwas bewegt, bezweifle ich. Über autonome Waffen wird bei den UN seit über zehn Jahren verhandelt, und die Staaten, die sie entwickeln, haben kein Interesse an einem Verbot. Wertvoll ist die Rede trotzdem, weil sie die Frage nach Rechten für KI früh und deutlich beantwortet, bevor die Branche sie für sich entscheidet."
+          ],
+          "sources": [
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai" }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2226124908.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "alt": "Papst Leo XIV. während seines Aufenthalts in der Sommerresidenz",
+            "credit": "Ernesto Ruscio/Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+          }
+        },
+        {
+          "title": "„Geisterstudenten“: Betrüger kassieren mit KI Studienkredite",
+          "lead": "Das US-Justizministerium hat ein Netzwerk aufgedeckt, das mit gestohlenen Identitäten und KI Studierende vortäuscht und so staatliche Studienhilfe abgreift.",
+          "body": [
+            "Das US-Justizministerium hat nach eigenen Angaben ein groß angelegtes Betrugssystem aufgedeckt, das teilweise auf künstlicher Intelligenz beruht. Die Behörde beschlagnahmte Kryptowährung im Wert von mehr als 750.000 Dollar bei einem Netzwerk, das mit kenianischen Staatsangehörigen in Verbindung stehen soll. Colin M. McDonald von der neuen Betrugsabteilung des Ministeriums sprach von der ersten internationalen Beschlagnahmung dieser Art in Kenia.",
+            "Das Vorgehen beginnt mit gekauften persönlichen Daten von Amerikanern, bevorzugt von Menschen, die nach der Highschool direkt arbeiten gegangen sind und nie studiert haben. Mit diesen Identitäten beantragen die Betrüger staatliche Studienhilfe und schreiben sich an Hochschulen und Community Colleges ein. Die Hilfe geht zuerst an die Hochschule für Gebühren, der Rest landet auf Konten, die die Betrüger kontrollieren. Dutzende Amerikaner haben dafür als Strohleute Konten eröffnet.",
+            "KI hält das System am Laufen. Sie füllt Anträge aus, erledigt Kursaufgaben und lässt es so aussehen, als säßen die Studierenden in Online-Seminaren. „Es sieht so aus, als würde der Geisterstudent den Kurs tatsächlich absolvieren“, sagte McDonald. Ziel sei, die Scheinstudenten Semester für Semester eingeschrieben zu halten.",
+            "Das Bildungsministerium hat bislang mehr als 830.000 möglicherweise betrügerische Konten für Studienhilfe gefunden, die mit gestohlenen Daten angelegt wurden. Wären alle davon Geisterstudenten, lägen die Verluste nach Angaben des Justizministeriums bei knapp 130 Millionen Dollar. Die Menschen, deren Daten missbraucht wurden, merken davon oft erst etwas, wenn der Staat das Geld von ihnen zurückfordert."
+          ],
+          "highlight": "Das Bildungsministerium hat bislang mehr als 830.000 möglicherweise betrügerische Konten für Studienhilfe gefunden, die mit gestohlenen Daten angelegt wurden.",
+          "assessment": [
+            "Der Fall zeigt eine Seite von KI, über die wenig geredet wird: Sie macht nicht nur Arbeit billiger, sondern auch Betrug. Ein Scheinstudent, der Hausaufgaben abgibt und in Videokonferenzen auftaucht, war früher teuer. Heute skaliert er.",
+            "Die eigentlichen Opfer sind die jungen Leute ohne Studium, deren Namen benutzt werden und die irgendwann Rechnungen für Kredite bekommen, die sie nie aufgenommen haben. Online-Lehre wird auf solche Angriffe reagieren müssen, und zwar mit Identitätsprüfungen, die echte Studierende eher nerven werden."
+          ],
+          "sources": [
+            { "name": "Ars Technica", "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/" }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
+            "alt": "Eine Person im Gespensterkostüm sitzt am Schreibtisch vor einem Laptop",
+            "credit": "Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Valves verschollener Portal-Vorläufer F-Stop ist plötzlich spielbar",
+          "lead": "Fast 20 Jahre nach seiner Einstellung ist F-Stop aufgetaucht, ein Portal-Prequel mit Kamera-Mechanik. Fans haben das Spiel aus mehreren Leaks zusammengesetzt.",
+          "body": [
+            "F-Stop galt jahrelang als eines der berühmtesten verschollenen Spiele der Branche. Valve entwickelte es 2007 als Prequel zu Portal und stellte es wieder ein. Jetzt haben Leaker und das Fanprojekt Valve Cut Content eine nahezu vollständige, spielbare Fassung zusammengesetzt. Wer es gespielt hat, berichtet, es fehlten nur hier und da ein paar Grafiken und Dialogzeilen, das Spiel sei zu etwa 99 Prozent vollständig.",
+            "Möglich wurde das durch drei Leaks. Ende August tauchten rund 12 bis 13 Terabyte alter Steam-Daten aus den Jahren 2003 bis 2013 im Netz auf, darunter der Großteil der F-Stop-Grafiken. Quellcode und Kartendaten fehlten aber. Diese beiden Teile wurden in den vergangenen Tagen über den Discord-Server von Valve Cut Content verbreitet. Laut den Moderatoren verlangte die Person, die die Kartendaten hatte, zunächst 1.000 Dollar, gab sie dann aber doch kostenlos heraus. Das Team hat die Echtheit der Dateien nach eigenen Angaben geprüft.",
+            "Spielerisch unterscheidet sich F-Stop deutlich von Portal. Statt Portale zu schießen, fotografiert man mit einer experimentellen Aperture-Science-Kamera Gegenstände. Das Objekt verschwindet und wird zu einem Foto, mit dem man es an anderer Stelle wieder erscheinen lassen kann, teils in anderer Größe, um Rätsel zu lösen. Spiele wie Viewfinder und Superliminal haben später ähnliche Ideen umgesetzt.",
+            "Das Spiel ist kurz, Videos zeigen die komplette Kampagne in weniger als einer Stunde. Das passt zu seiner Entstehung: F-Stop entstand während der „Directed Design Experiments“, einer dreimonatigen Phase im Jahr 2007, in der sich Valve in fünf Teams aufteilte, die jeweils ein Spielexperiment bauten. Gabe Newell soll F-Stop gemocht haben, bei Testspielern kam es weniger gut an. Einige Dialoge, Figuren und Mechaniken landeten später in Portal 2."
+          ],
+          "highlight": "Statt Portale zu schießen, fotografiert man mit einer experimentellen Aperture-Science-Kamera Gegenstände.",
+          "assessment": [
+            "Für die Spielegeschichte ist das ein echter Fund. F-Stop war jahrelang ein Mythos, über den man nur aus Interviews und Andeutungen wusste. Jetzt lässt sich nachprüfen, ob Valve 2007 einen Fehler gemacht hat oder ob die Tester recht hatten.",
+            "Rechtlich ist das natürlich ein Leak, kein Fund im Archiv, und Valve hat sich nicht geäußert. Trotzdem zeigt der Fall, wie viel Spielegeschichte nur in Firmenarchiven liegt, an die niemand herankommt. Bewahrt wird sie oft erst, wenn jemand sie stiehlt. Das ist kein gutes Zeugnis für die Branche."
+          ],
+          "sources": [
+            { "name": "Kotaku", "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082" },
+            { "name": "The Verge", "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak" },
+            { "name": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks" }
+          ],
+          "image": {
+            "url": "https://kotaku.com/app/uploads/2026/11/F-Stop-Image-from-ToothpasteVixens-video-Valve-1200x675.jpg",
+            "alt": "Szene aus der geleakten Fassung von F-Stop",
+            "credit": "Valve, Bild aus einem Video von ToothpasteVixen",
+            "license": "Artikelbild Kotaku",
+            "source": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082"
+          }
+        },
+        {
+          "title": "Final Fantasy 14: Evercold kommt am 23. Februar 2027",
+          "lead": "Square Enix verschiebt die nächste Erweiterung um vier Wochen und zeigt die zweite neue Klasse: einen Armbrustschützen mit Vogel.",
+          "body": [
+            "Die nächste Erweiterung von Final Fantasy 14 heißt Evercold und erscheint am 23. Februar 2027, mit Vorabzugang ab dem 19. Februar. Produzent und Director Naoki Yoshida verkündete den Termin beim Fan Festival 2026 in Tokio. Damit kommt Evercold rund vier Wochen später als zuvor geplant. Square Enix gab außerdem bekannt, dass Final Fantasy 14 inzwischen mehr als 35 Millionen registrierte Konten hat.",
+            "Die zweite neue Klasse heißt Zephyr. Sie kämpft auf Distanz mit einer Armbrust und wird von einem Vogel namens Nephele unterstützt. Zephyr ergänzt Bastion, einen Tank mit großem Schild, den Square Enix beim Fan Festival in Berlin Anfang des Jahres vorgestellt hatte.",
+            "Vorbestellungen sind ab Mittwoch, 4. November, möglich. Wer vorbestellt, bekommt den Vorabzugang, ein Köttr-Begleittier und einen Ohrring, der die Erfahrungspunkte für besiegte Gegner um 30 Prozent erhöht. Die Gegenstände gibt es sofort, sodass man vor dem Start Klassen leveln kann. Eine Sammlerbox mit einer Illustration von Yoshitaka Amano und einer Figur des Warrior of Light enthält dagegen nur physische Artikel, nicht das Spiel.",
+            "Auf der Keynote zeigte Square Enix außerdem einen neuen Raid-Schwierigkeitsgrad namens Fierce zwischen Normal und Savage, einen neuen Trailer zum Crossover-Raid mit Evangelion und neue Artworks von Tetsuya Nomura für eine Raid-Reihe mit Final Fantasy 7 Remake. Geplant sind auch ein neues Kampfsystem, das die Eigenheiten der Klassen stärker betonen soll, ein Saisonsystem für Belohnungen und eine erweiterte Charaktererstellung.",
+            "Der Februar 2027 wird damit sehr voll. Laut GamesRadar erscheinen im selben Monat unter anderem Fable, God of War: Laufey, Persona 4 Revival und Metro 2039, die offenbar alle dem Start von GTA 6 im November aus dem Weg gehen."
+          ],
+          "highlight": "Square Enix gab außerdem bekannt, dass Final Fantasy 14 inzwischen mehr als 35 Millionen registrierte Konten hat.",
+          "assessment": [
+            "Vier Wochen Verschiebung sind bei einem MMO kein Drama, eher ein Zeichen, dass Yoshida nach dem durchwachsenen Dawntrail lieber sicher geht. Wichtiger als die neuen Klassen ist das angekündigte neue Kampfsystem. Die größte Kritik an FF14 ist seit Jahren, dass sich alle Klassen gleich spielen.",
+            "Pikant ist der Vorbestellstart am 4. November, dem Tag, an dem World of Warcraft Forever erscheint. Zufall oder nicht: Square Enix will an diesem Tag im Gespräch sein, wenn MMO-Spieler sich entscheiden."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date" },
+            { "name": "GamesRadar+", "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-gets-a-four-week-delay-the-mmos-new-expansion-now-launches-in-next-years-very-busy-february-season/" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/WMRj97Kg3Kx9YVVDTvX5Kn-1920-80.jpg",
+            "alt": "Motiv zur Erweiterung Final Fantasy XIV: Evercold",
+            "credit": "Square Enix",
+            "license": "Artikelbild GamesRadar+",
+            "source": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-gets-a-four-week-delay-the-mmos-new-expansion-now-launches-in-next-years-very-busy-february-season/"
+          }
+        },
+        {
+          "title": "Persona 1 Remake: Angebliche Spielszenen sind aufgetaucht",
+          "lead": "Ein kurzer Clip zeigt offenbar ein Remake des ersten Persona-Spiels im Stil von Persona 5. Atlus hat nichts angekündigt.",
+          "body": [
+            "Im Netz kursiert ein etwa zweiminütiges Video, das ein Remake des ersten Persona-Spiels zeigen soll, das 1996 als „Megami Ibunroku Persona“ erschien. Der Clip wurde im Reddit-Forum GamingLeaksAndRumours geteilt und am 31. Oktober bei einem Dateihoster hochgeladen, unter einem japanischen Dateinamen, der übersetzt „Megami Ibunroku Persona Remake“ lautet. Als Untertitel taucht „Be Your True Mind“ auf.",
+            "Das Material sieht aus wie die neueren Spiele von Atlus. Es zeigt stilisierte Menüs und kurze Kampfszenen, die stark an Persona 5 und Persona 3 Reload erinnern. Dazu kommt eine kurze Zwischensequenz in einem anderen, fast comicartigen Zeichenstil.",
+            "Fans haben im Video mehrere Details gefunden, die für die Echtheit sprechen sollen: Debug-Text der Unreal Engine in der linken oberen Ecke während eines Kampfes, auf die Atlus mit Persona 3 Reload umgestiegen ist, eine neue Version des Pandora-Themas aus dem PlayStation-Original und die Bezeichnung „Boy With Earring“ für den Helden, die schon in Persona 2: Eternal Punishment verwendet wurde.",
+            "Atlus hat kein Remake angekündigt, und überprüfen lässt sich das Material nicht. Der Serienproduzent hatte allerdings vor einiger Zeit gesagt, Remakes von Persona 1 und 2 seien etwas, das man „wahrscheinlich irgendwann machen“ werde. Ein Remake von Persona 4 ist bereits in Arbeit und soll im Februar 2027 erscheinen."
+          ],
+          "highlight": "Atlus hat kein Remake angekündigt, und überprüfen lässt sich das Material nicht.",
+          "assessment": [
+            "Die Details klingen plausibel, und es wäre die logische Fortsetzung: Atlus arbeitet die Serie gerade rückwärts ab, nach Persona 3 kommt Persona 4, warum nicht auch das Original. Das erste Persona ist heute kaum spielbar und im Westen nie richtig angekommen, ein Remake hätte also echten Wert.",
+            "Bis Atlus etwas sagt, bleibt es ein Leak. Aber wenn es echt ist, dürfte die Ankündigung nicht lange auf sich warten lassen, so ein Clip entsteht meist erst spät in der Entwicklung."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Anime-Figur mit dunklen Haaren in heller Uniform blickt auf ein blaues Buch",
+            "credit": "Atlus",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak"
+          }
+        },
+        {
+          "title": "Modern Warfare 4 auf Switch 2: doppelt so viel Verzögerung wie auf PS5",
+          "lead": "Digital Foundry hat die Switch-2-Fassung des neuen Call of Duty gemessen. Im Handheld-Modus sind Nintendo-Spieler online klar im Nachteil.",
+          "body": [
+            "Call of Duty: Modern Warfare 4 ist das erste Call of Duty seit 13 Jahren auf einer Nintendo-Konsole, zuletzt erschien Ghosts 2013 für die Wii U. Digital Foundry hat die Switch-2-Version nun technisch untersucht und dabei vor allem die Eingabeverzögerung gemessen. Im Mehrspielermodus lag sie im angedockten Betrieb bei 81 Millisekunden und im Handheld-Modus im Schnitt bei 100 Millisekunden, auf der PS5 dagegen bei 49 Millisekunden.",
+            "Getestet wurde auf beiden Konsolen mit kabellosen Controllern, also dem Switch 2 Pro Controller und dem DualSense. Im Handheld-Modus schwankten die Werte zwischen 83 und 125 Millisekunden. Digital Foundry schreibt, die Reaktionsfähigkeit sei „einfach nicht so gut wie auf anderen Konsolen“, und nennt die Verzögerung im Handheld-Modus „tatsächlich leistungsschädigend“.",
+            "Abgesehen davon fällt das Urteil eher positiv aus. Der Mehrspielermodus läuft meist mit 60 Bildern pro Sekunde, mit VRR-fähigem Fernseher fallen Einbrüche weniger auf. Die Kampagne ist auf 30 Bilder pro Sekunde begrenzt. Angedockt peilt das Spiel mit DLSS 900p an, fällt in hektischen Szenen wie der Verfolgungsjagd in Paris aber bis auf 450p. Im Handheld-Modus liegt das Ziel bei 720p, mit Einbrüchen bis 360p.",
+            "Die Rückkehr von Call of Duty zu Nintendo geht auf einen Zehnjahresvertrag zurück, den Microsoft Nintendo angeboten hatte, als es um die Genehmigung der 69 Milliarden Dollar schweren Übernahme von Activision Blizzard ging."
+          ],
+          "highlight": "Im Mehrspielermodus lag sie im angedockten Betrieb bei 81 Millisekunden und im Handheld-Modus im Schnitt bei 100 Millisekunden, auf der PS5 dagegen bei 49 Millisekunden.",
+          "assessment": [
+            "Eine Kampagne in 30 Bildern und dynamischer Auflösung kann man auf einem Handheld verschmerzen. Bei der Eingabeverzögerung hört der Spaß in einem Wettkampf-Shooter auf, denn dort tritt man gegen PS5- und PC-Spieler an, die fast doppelt so schnell reagieren können.",
+            "Die Version erfüllt damit vor allem einen Vertrag, den Microsoft den Kartellbehörden versprochen hat. Wer Call of Duty ernsthaft online spielen will, wird es auf der Switch 2 eher nicht tun. Für gelegentliche Runden unterwegs reicht es."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/cod-modern-warfare-4-captain-price.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Nahaufnahme von Captain Price mit Bart und Schrammen in einer kalten Umgebung",
+            "credit": "Activision",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry"
+          }
+        },
+        {
+          "title": "Pikmin 4 für Switch 2 erscheint am 12. November, Demo ab heute",
+          "lead": "Nintendo hat in einer überraschenden Pikmin Direct den Termin der Switch-2-Edition bekanntgegeben. Neu ist ein Prüfungsmodus unter Zeitdruck.",
+          "body": [
+            "Pikmin 4 erscheint am 12. November als Nintendo Switch 2 Edition. Nintendo nannte den Termin in einer kurzfristig angesetzten Pikmin Day Direct am Samstag. Eine Demo steht ab dem 2. November im eShop bereit, Fortschritte daraus lassen sich ins fertige Spiel übernehmen.",
+            "Neu ist die Dandori Academy, ein Prüfungsmodus mit Zeitlimit. In der Direct zeigte Nintendo die Prüfung „Gargantuan Garden“, in der man Goldklumpen einsammeln muss, bevor die Zeit abläuft. Außerdem kann man dem Hundebegleiter Oatchi in der Switch-2-Fassung Sprachbefehle geben. Wer Pikmin 4 schon für die erste Switch besitzt, kann ein Upgrade im eShop kaufen.",
+            "Neue Spiele hatte Nintendo vorab ausgeschlossen. Stattdessen stellte Shigeru Miyamoto die japanische Schauspielerin Fuka Koshiba als neue Botschafterin der Reihe vor, und Nintendo erklärte den 1. November offiziell zum Pikmin-Tag.",
+            "Pikmin 4 kam im Juli 2023 für die Switch heraus. Die Switch-2-Edition ist eine von zwei großen Nintendo-Veröffentlichungen in diesem Monat, neben dem Remake von The Legend of Zelda: Ocarina of Time am 5. November."
+          ],
+          "highlight": "Eine Demo steht ab dem 2. November im eShop bereit, Fortschritte daraus lassen sich ins fertige Spiel übernehmen.",
+          "assessment": [
+            "Ein kostenpflichtiges Upgrade für ein drei Jahre altes Spiel ist keine Sensation, aber Pikmin 4 war das zugänglichste Spiel der Reihe und hat ein zweites Leben verdient. Der Zeitdruck-Modus spricht eher die Veteranen an, die dem vierten Teil vorgeworfen hatten, zu gemütlich zu sein.",
+            "Interessanter ist der Kalender: Nintendo legt zwei große Titel in den November, genau in den Monat, in dem auch GTA 6 erscheint. Das wirkt selbstbewusst, ist aber auch klug, denn wer Pikmin spielt, wartet ohnehin nicht auf Rockstar."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ein großes orangefarbenes Käferwesen in einem dunklen Wald, daneben ein roter und ein gelber Pikmin",
+            "credit": "Nintendo",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Neu: Holmes-Doku holt Platz eins, Resident Evil knackt 400 Millionen",
+          "lead": "Am ruhigsten Kinowochenende seit Langem hat „You Can See Everything“ im dritten Anlauf die Spitze erobert. Weltweit sorgt Resident Evil für Rekorde, Nolans Odyssey für einen Studiorekord.",
+          "body": [
+            "Die Dokumentation „You Can See Everything“ von Nathan Fielder und Lance Oppenheim über die Theranos-Gründerin Elizabeth Holmes steht nach den Sonntagszahlen in Nordamerika auf Platz eins. Sie spielte in ihrem dritten Wochenende in 3.243 Kinos 10,6 Millionen Dollar ein, insgesamt sind es 63,8 Millionen. Laut IndieWire hat sie damit Michael Moores „Bowling for Columbine“ überholt und ist die achtzehnterfolgreichste Dokumentation aller Zeiten. Gekostet hat sie sieben Millionen Dollar.",
+            "Knapp dahinter liegt der DC-Horrorfilm „Clayface“ mit 10,4 Millionen Dollar im zweiten Wochenende und 44,1 Millionen insgesamt in Nordamerika, bei einem Budget von 44 Millionen. Laikas Stop-Motion-Film „Wildwood“ kam auf 7,5 Millionen, er steht bei 25 Millionen im Inland und knapp 36 Millionen weltweit, hat aber rund 100 Millionen gekostet. Insgesamt war das Wochenende mit 55,6 Millionen Dollar eines der schwächsten des Jahres, 42 Prozent weniger als die Woche davor. Halloween fiel auf einen Samstag, und die Studios hatten keine großen Neustarts angesetzt.",
+            "Weltweit hat Zach Creggers „Resident Evil“ im siebten Wochenende die Marke von 400 Millionen Dollar überschritten, 157,3 Millionen davon in Nordamerika und 71,4 Millionen in China. Laut Deadline liegt der Film damit vor Horror-Erfolgen wie „Sinners“ (371,6 Millionen) und „The Nun“ (366 Millionen) und nur 600.000 Dollar hinter „Backrooms“, dem erfolgreichsten Film von A24. Bis zum „Exorzisten“ von 1973 (430 Millionen) fehlen noch 30 Millionen.",
+            "Christopher Nolans „The Odyssey“ steht bei 1,799 Milliarden Dollar weltweit. Mit 1,17 Milliarden außerhalb Nordamerikas hat der Film nun das höchste Auslandsergebnis, das Universal je mit einem Kinofilm erzielt hat, knapp vor „Furious 7“. In Großbritannien eroberte unterdessen „Wicker“ mit Olivia Colman und Alexander Skarsgård Platz eins.",
+            "Trotz des schwachen Wochenendes liegt das Kinojahr in Nordamerika mit 8,46 Milliarden Dollar rund 20 Prozent über dem Vorjahr. Am kommenden Wochenende starten „The Cat in the Hat“, „Godzilla Minus Zero“ und „Wild Horse Nine“."
+          ],
+          "highlight": "Laut IndieWire hat sie damit Michael Moores „Bowling for Columbine“ überholt und ist die achtzehnterfolgreichste Dokumentation aller Zeiten.",
+          "assessment": [
+            "Dass eine dreistündige Dokumentation ein Kinowochenende gewinnt, ist bemerkenswert, auch wenn es ein leeres Wochenende war. Fielder hat aus einem längst bekannten Betrugsfall ein Ereignis gemacht, über das die Leute reden. So etwas lässt sich nicht planen, und genau deshalb ist es gut fürs Kino.",
+            "Die eigentliche Geschichte des Jahres steht aber in den weltweiten Zahlen: Zwei Spieleverfilmungen und ein Horrorfilm nach dem anderen tragen 2026, dazu ein Nolan, der Milliarden einspielt. Wildwood ist das Gegenbeispiel, gefeiert von der Kritik und trotzdem ein Verlustgeschäft."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-clayface-box-office-halloween-1236744345/" },
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-beats-clayface-first-place-1235224954/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/" }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Nathan-Fielder.png?crop=0px%2C6px%2C2986px%2C1671px&resize=1440%2C810",
+            "alt": "Nathan Fielder in „You Can See Everything“",
+            "credit": "Courtesy of A24",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-clayface-box-office-halloween-1236744345/"
+          }
+        },
+        {
+          "title": "Michael Mann schießt sich auf dem Schießstand versehentlich ins Bein",
+          "lead": "Der Regisseur von „Heat“ wurde am Samstag in Los Angeles leicht verletzt. Er bereitet gerade die Fortsetzung „Heat 2“ vor.",
+          "body": [
+            "Michael Mann ist am Samstag nach einem Unfall auf einem Schießstand in Los Angeles ins Krankenhaus gebracht worden. „Am Samstag hat sich auf einem Schießstand eine Waffe im Holster versehentlich entladen, was zu einer oberflächlichen Verletzung von Filmregisseur Michael Mann geführt hat. Er wurde behandelt und wird entlassen“, teilte ein Sprecher des viermal für den Oscar nominierten Regisseurs mit. Laut Guardian traf ihn der Schuss ins Bein.",
+            "Nach Informationen von TMZ wollte Mann beim Zielschießen auf einem zugelassenen Schießstand seine Waffe ins Holster stecken, als sich der Schuss löste. Er wurde mit leichten Verletzungen in ein Krankenhaus gebracht. Mann schießt seit Jahrzehnten als Sportschütze, und Waffen spielen in seinen Filmen eine große Rolle, die Schießerei in „Heat“ gilt bis heute als Maßstab für realistische Actionszenen.",
+            "Derzeit steckt Mann in der Vorproduktion von „Heat 2“, für den Leonardo DiCaprio, Stephen Graham und Christian Bale im Gespräch sein sollen. Der Film kommt mehr als drei Jahrzehnte nach dem Original von 1995 mit Al Pacino, Robert De Niro, Val Kilmer und Jon Voight.",
+            "Bekannt ist Mann außerdem für „Thief“ (1981), „Insider“ (1999), „Ali“ (2001), „Collateral“ (2004), „Miami Vice“ (2006), „Public Enemies“ (2009) und zuletzt „Ferrari“ (2023). Für „Insider“ war er als Regisseur, für den besten Film und das beste adaptierte Drehbuch nominiert, als Produzent außerdem für „Aviator“."
+          ],
+          "highlight": "„Am Samstag hat sich auf einem Schießstand eine Waffe im Holster versehentlich entladen, was zu einer oberflächlichen Verletzung von Filmregisseur Michael Mann geführt hat. Er wurde behandelt und wird entlassen“, teilte ein Sprecher des viermal für den Oscar nominierten Regisseurs mit.",
+          "assessment": [
+            "Zum Glück nur ein Kratzer, und deshalb darf man auch die Ironie sehen: Ausgerechnet der Regisseur, der für die präziseste Waffenhandhabung im Kino berühmt ist, verletzt sich beim Holstern. Es zeigt, wie schnell auch Erfahrene einen Fehler machen.",
+            "Für Heat 2 sollte das keine Folgen haben. Mann ist 83, und das Projekt ist sein großes Spätwerk. Jeder Monat zählt, und es ist gut, dass dieser Unfall glimpflich ausging."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg" }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Michael-Mann-getty-H-2026.png?w=1296&h=730&crop=1",
+            "alt": "Regisseur Michael Mann",
+            "credit": "Jamie McCarthy/Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347/"
+          }
+        },
+        {
+          "title": "Alex Garlands Elden-Ring-Film ist abgedreht und soll fast 200 Millionen kosten",
+          "lead": "Die Verfilmung des Erfolgsspiels steckt bereits in der Postproduktion. Auf dem American Film Market wird sie offenbar als teuerstes Einzelprojekt angeboten, das es dort je gab.",
+          "body": [
+            "Alex Garlands Verfilmung von Elden Ring ist nach einem Bericht des Guardian bereits gedreht und befindet sich in der Postproduktion. Zur Besetzung gehören Cailee Spaeny, Ben Whishaw, Nick Offerman, Sonoya Mizuno, Peter Serafinowicz und Jonathan Pryce. Garland schreibt und inszeniert, er ist bekannt für „Ex Machina“, „Annihilation“ und „Civil War“ und schrieb das Drehbuch zu „Dredd“.",
+            "Amazon MGM hat sich dem Bericht zufolge die Streamingrechte für zahlreiche internationale Märkte gesichert. Die Kinorechte werden beim American Film Market im November angeboten, wo der Film das teuerste eigenständige Projekt sein soll, das dort je zum Verkauf stand. Deadline beziffert das Budget auf knapp 200 Millionen Dollar.",
+            "Die Vorlage ist ein Schwergewicht. Elden Ring hat sich mehr als 30 Millionen Mal verkauft und gilt als eines der besten Videospiele überhaupt. Die Mythologie der verfeindeten Halbgötter schrieb George R. R. Martin. Das Spiel ist allerdings näher am Horror als an klassischer Fantasy, mit Kreaturen, die Würmer statt Gesichter haben, und einer Welt, in der fast alle tot sind.",
+            "Durchgesickerte Bilder deuten an, dass der Film zumindest teilweise vor den Ereignissen des Spiels spielen könnte. Sie zeigen die Hauptstadt Leyndell mit lebenden Bewohnern und die Hinrichtung einer Figur namens Dung Eater, die im Spiel zur Vorgeschichte gehört. Der Guardian-Autor erwartet den blutigsten Fantasyfilm, den Hollywood je gemacht hat."
+          ],
+          "highlight": "Die Kinorechte werden beim American Film Market im November angeboten, wo der Film das teuerste eigenständige Projekt sein soll, das dort je zum Verkauf stand.",
+          "assessment": [
+            "Garland ist eine ungewöhnlich gute Wahl. Er mag schöne Albträume, und er verweigert seinem Publikum gern das tröstliche Ende. Genau das braucht eine Welt wie die von Elden Ring, die keine Heldengeschichte im üblichen Sinn erzählt.",
+            "Die Frage ist, wie viel Freiheit ein Regisseur bei einem Budget von fast 200 Millionen behält. Fantasyverfilmungen wie „Warcraft“ oder „Der dunkle Turm“ sind genau daran gescheitert, dass sie es allen recht machen wollten. Dass der Film schon abgedreht ist, bevor ein Kinoverleih an Bord ist, spricht immerhin dafür, dass Garland ihn so machen konnte, wie er wollte."
+          ],
+          "sources": [
+            { "name": "The Guardian", "url": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny" }
+          ],
+          "image": {
+            "url": "https://i.guim.co.uk/img/media/3153d8dfcc692315cd63ebeabf01d29718716a6a/115_69_2462_1969/master/2462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f88e9615905a77bbffe38cea5a7ed27c",
+            "alt": "Szene aus dem Videospiel Elden Ring",
+            "credit": "Bandai Namco",
+            "license": "Artikelbild The Guardian",
+            "source": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny"
+          }
+        },
+        {
+          "title": "Dave Bautista hat für Kratos neun Kilo Muskeln zugelegt",
+          "lead": "Für die „God of War“-Serie bei Prime Video bringt Bautista inzwischen rund 113 Kilogramm auf die Waage. Er ersetzt den verletzten Ryan Hurst.",
+          "body": [
+            "Dave Bautista hat sich für seine Rolle als Kratos in der Serie „God of War“ weiter verwandelt. Er habe 20 Pfund Muskeln zugelegt, also gut neun Kilogramm, und wiege nun 250 Pfund, etwa 113 Kilogramm. Schon vor zwei Monaten hatte er Einblick in sein Training gegeben und gesagt, er habe noch Zeit, um dahin zu kommen, wo er hinmüsse.",
+            "Bautista übernahm die Rolle im August von Ryan Hurst, der ursprünglich als Kratos besetzt war. Hurst hatte sich am Set den Bizeps gerissen und musste operiert werden, was die Produktion bis 2027 verzögert hätte. Die Dreharbeiten hatten im Februar in Vancouver begonnen, alle Szenen mit Hurst müssen nun mit Bautista neu gedreht werden.",
+            "Die Serie folgt den beiden jüngsten Spielen der Reihe, in denen Kratos seinen zehnjährigen Sohn Atreus großzieht, gespielt von Callum Vinson, und gegen die Götter der nordischen Mythologie kämpft. Vater und Sohn brechen auf, um die Asche ihrer Frau und Mutter Faye zu verstreuen. Kratos will seinem Sohn beibringen, ein besserer Gott zu sein, Atreus seinem Vater, ein besserer Mensch zu sein.",
+            "Prime Video hat gleich zwei Staffeln bestellt, die direkt hintereinander gedreht werden. Bautista ist als Nächstes in „Road House 2“ und im Reboot von „Highlander“ zu sehen."
+          ],
+          "highlight": "Hurst hatte sich am Set den Bizeps gerissen und musste operiert werden, was die Produktion bis 2027 verzögert hätte.",
+          "assessment": [
+            "Bautista war von Anfang an die Wunschbesetzung vieler Fans, und er spielt seit Jahren genau diese Mischung aus Wucht und leiser Traurigkeit, die Kratos in den neuen Spielen ausmacht. Hurst war eine interessantere, aber riskantere Wahl.",
+            "Die Muskeln sind dabei das kleinste Problem. Entscheidend wird, ob die Serie die Vater-Sohn-Geschichte so ernst nimmt wie die Spiele. Mit zwei Staffeln am Stück hat Amazon sich festgelegt, und nach „The Last of Us“ und „Fallout“ ist die Erwartung an Spieleserien hoch."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/" }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/11/dave-bautista.webp?w=999&h=563&crop=1",
+            "alt": "Schauspieler Dave Bautista",
+            "credit": "Getty Images",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038/"
+          }
+        },
+        {
+          "title": "Dustin Hoffman: „Die Reifeprüfung“ war eine schreckliche Erfahrung",
+          "lead": "In einem Essay für den New Yorker erzählt Hoffman, wie Mike Nichols ihn beim Dreh schikaniert hat. Eine Ohrfeige ließ der Regisseur 27 Mal wiederholen.",
+          "body": [
+            "Dustin Hoffman hat in einem Essay für den New Yorker über die Dreharbeiten zu „Die Reifeprüfung“ von 1967 geschrieben, dem Film, der ihn berühmt machte. Er nennt sie eine „schreckliche Erfahrung“, obwohl der Film sein Leben verändert habe. Die Rolle des Benjamin Braddock habe „von Anfang an all meine Unsicherheiten verstärkt“.",
+            "Schon die Besetzung kam ihm absurd vor. Er habe den Roman von Charles Webb gelesen, und Benjamin sei ein Leichtathlet, Einserschüler und Chef des Debattierclubs, ein wohlhabender, durch und durch amerikanischer Junge. „Warum sollte man jemanden, der so ethnisch aussieht wie ich, als den ultimativen WASP besetzen? Das ergab überhaupt keinen Sinn.“ Erst sein Agent überredete ihn zu den Probeaufnahmen.",
+            "Mike Nichols sei mit allen gereizt gewesen, aber nur bei ihm habe sich „eine gewisse Grausamkeit“ eingeschlichen. In einer Szene sollte Katharine Ross ihn ohrfeigen. „Er ließ uns 27 Takes machen“, schreibt Hoffman. Nichols habe Ross immer wieder aufgefordert, fester zuzuschlagen. Ross habe sich Sorgen gemacht, und er habe ihr gesagt, sie solle nur nicht das Ohr treffen. Ein paar Mal traf sie doch. „Am Ende des Tages war mir schwindelig, und Mike hat die Ohrfeige nicht einmal im Film verwendet.“",
+            "Am nächsten Tag drehte Hoffman eine Unterwasserszene im Taucheranzug. Als er nach ein paar Takes auftauchte, lief ihm Blut aus dem Ohr. Zwischen den Ohrfeigen und dem Wasserdruck am Grund des Pools habe er sich das Trommelfell durchstoßen. „Die Reifeprüfung“ kam am 22. Dezember 1967 in die Kinos, wurde für sieben Oscars nominiert, und Mike Nichols gewann den Regiepreis."
+          ],
+          "highlight": "„Am Ende des Tages war mir schwindelig, und Mike hat die Ohrfeige nicht einmal im Film verwendet.“",
+          "assessment": [
+            "Geschichten wie diese gibt es aus dem alten Hollywood viele, und sie werden oft als Anekdoten über geniale, schwierige Regisseure erzählt. Hoffman erzählt sie anders, nämlich als das, was es war: Schikane an einem unsicheren jungen Schauspieler.",
+            "Interessant ist, wie er die Besetzung beschreibt. Dass ein jüdischer Schauspieler aus Los Angeles den Inbegriff des weißen Ostküstensohns spielt, war damals ein Bruch, und gerade das machte den Film so modern. Hoffman hat sechzig Jahre gebraucht, um zu sagen, wie es sich angefühlt hat."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/" }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2026/11/M8DGRAD_EC005_8b5014.jpg?w=1000&h=563&crop=1",
+            "alt": "Dustin Hoffman und Anne Bancroft in „Die Reifeprüfung“, 1967",
+            "credit": "Courtesy Everett Collection",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Polen: Keltischer Kriegerhelm auf einem Hügel an der Bernsteinstraße",
+          "lead": "Auf der Łysa Góra im Nordosten Polens lag ein Bronzehelm der Latène-Kultur, weit weg von seiner Heimat. Er könnte zeigen, dass Kelten die Bernsteinroute mitorganisierten.",
+          "body": [
+            "Archäologen haben im Norden Polens einen Bronzehelm der Latène-Kultur aus Mitteleuropa gefunden. Er stammt von der Łysa Góra, einem sandigen Hügel beim Dorf Bagienice zwischen dem Fluss Orzyc und einem Altarm, umgeben von Sumpf. Die Forscher beschreiben den Ort als befestigte Siedlung, Metallwerkstatt, Ritualplatz und wahrscheinliche Station an der baltischen Bernsteinstraße. Die Studie erschien in der Fachzeitschrift Antiquity.",
+            "Der Fund kam überraschend. Die Menschen im Nordosten Polens hielten zwischen dem achten und dritten Jahrhundert vor Christus an spätbronzezeitlichen Bräuchen fest und blieben weitgehend unter sich. Auf der Łysa Góra lebten vom sechsten bis vierten Jahrhundert vor Christus Angehörige der westbaltischen Hügelgräberkultur. Seit 2024 graben das Staatliche Archäologische Museum Warschau und die Universität Warschau dort wieder und haben fast 350 Metallobjekte geborgen.",
+            "Der Helm vom Typ Berru lag zerdrückt in einer Grube mit verkohlten Resten innerhalb der Befestigung, neben eisernen Dechseln und einer Sense. Er ähnelt stark Funden vom Dürrnberg in Österreich. Dazu kommen 31 meist fragmentierte frühlatènezeitliche Fibeln und Ringschmuck aus der Mitte des vierten Jahrhunderts vor Christus. Zerbrochener Bronzeschmuck war in Bündeln verpackt, wohl zum Einschmelzen, und Bernsteinperlen sowie ein unfertiger Bernsteinring deuten auf Handel mit Regionen südlich der Karpaten.",
+            "In der Latène-Welt war ein Helm Zeichen hohen Ranges unter Kriegereliten. Die einheimischen Gemeinschaften hatten aber offenbar keine Häuptlinge, für sie hätte ein solches Symbol wenig bedeutet. Die Autoren vermuten deshalb, dass Gruppen aus dem Süden, vielleicht mit Angehörigen der Elite, selbst vor Ort waren. Weitergereichter Handel bleibt möglich, ist wegen des Prestiges des Helms aber weniger wahrscheinlich.",
+            "Die Forscher bringen den Fund mit der Organisation der Bernsteinroute in Verbindung, die in die bernsteinreiche Region Kurpie und zur Halbinsel Samland führte. Sie halten es für möglich, dass Latène-Leute das Handelsnetz aufbauten oder unterhielten. Bleiisotopenanalysen sollen nun klären, woher das Metall stammt."
+          ],
+          "highlight": "Die Autoren vermuten deshalb, dass Gruppen aus dem Süden, vielleicht mit Angehörigen der Elite, selbst vor Ort waren.",
+          "assessment": [
+            "Ein einzelner Helm ist noch keine keltische Kolonie, und die Autoren sind zu Recht vorsichtig. Aber er passt nicht zu bloßem Tauschhandel. Niemand gibt sein Rangabzeichen weiter, damit es in einer Gesellschaft ohne Ränge landet.",
+            "Spannend ist der größere Gedanke: Bernstein war in der Antike ein Luxusgut, und wer den Nachschub kontrollierte, wurde reich. Dass Leute aus dem Alpenraum selbst an die Ostsee zogen, um die Route zu sichern, ist plausibel und würde die Geschichte des Bernsteinhandels um einiges früher und internationaler machen."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/11/iron-age-bronze-helmet-unearthed-at-lysa-gora/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/bronze-helmet-at-lysa-gora-1.jpg",
+            "alt": "Der Bronzehelm der Latène-Kultur von der Łysa Góra in Polen",
+            "credit": "B. Kaczyński et al., Antiquity (2026), CC BY 4.0",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/11/iron-age-bronze-helmet-unearthed-at-lysa-gora/"
+          }
+        },
+        {
+          "title": "Siebenbürgen im 17. Jahrhundert: 55 harte Winter, Hunger und Pest",
+          "lead": "Forscher aus Oradea haben fast 1.000 Wetterberichte aus Chroniken und Tagebüchern ausgewertet. Sie zeigen ein kaltes, nasses Jahrhundert, in dem das Wetter sogar Belagerungen entschied.",
+          "body": [
+            "Ein Team der Universität Oradea in Rumänien hat das Wetter im Siebenbürgen des 17. Jahrhunderts rekonstruiert, und zwar aus dem, was die Menschen damals aufschrieben. Die Forscher sammelten 937 Wetterberichte aus 68 Orten und Regionen, aus Chroniken, Tagebüchern, Kirchenbüchern und Briefen auf Ungarisch, Deutsch, Latein, in slawischen Sprachen und auf Türkisch. Die Studie erschien am 28. Oktober in PLOS Climate.",
+            "Die Aufzeichnungen beschreiben 55 harte Winter, 36 davon nach 1645, als das Maunder-Minimum begann und die Sonne jahrzehntelang ungewöhnlich ruhig war. Zwischen 1645 und 1668 waren 19 von 24 Wintern bitterkalt. 1645 sollen der Olt und der Mureș bis zum Grund zugefroren sein, mit Eis von acht Handbreit. Gleichzeitig gab es 14 sehr heiße Sommer und schwere Dürren in den 1630er-Jahren. 1669 fiel vom 6. August bis zum 6. November kein Regen.",
+            "Das Wetter entschied auch Kriege. 1659 stoppten Kälte und Schnee ein osmanisches Heer bei Timișoara, die Truppen gaben die Belagerung der Festung Oradea auf. 1691 fror der Fluss Criș so fest zu, dass habsburgische Soldaten die Festung Gyula direkt vom Eis aus belagerten.",
+            "Am härtesten traf es die Bauern, die meist nur für den Eigenbedarf anbauten. Die Quellen nennen 20 Jahre mit schlechten Ernten, 26 Jahre mit Teuerung und Hunger und 11 Jahre mit Heuschrecken- oder Mäuseplagen. Hungersnöte herrschten von 1601 bis 1606 und von 1648 bis 1652. Die Pest wütete in 31 verschiedenen Jahren. In Kronstadt starben zwischen Juni und Dezember 1633 rund 11.000 Menschen.",
+            "Um die Berichte zu prüfen, verglichen die Forscher sie mit natürlichen Archiven. Die durchschnittliche Zahl der Sonnenflecken fiel von 35 in der ersten auf 8 in der zweiten Jahrhunderthälfte, im gleichen Maß nahmen die Kälteberichte zu. Auch Höhleneis aus dem Apuseni-Gebirge passte weitgehend. Die Autoren betonen aber, dass das Klima nicht die einzige Ursache des Elends war: Kriege, die Rivalität zwischen Osmanen und Habsburgern und die Kluft zwischen Arm und Reich kamen hinzu."
+          ],
+          "highlight": "1691 fror der Fluss Criș so fest zu, dass habsburgische Soldaten die Festung Gyula direkt vom Eis aus belagerten.",
+          "assessment": [
+            "Die Studie ist ein schönes Beispiel dafür, wie Geschichte und Klimaforschung sich ergänzen. Sonnenflecken und Eisbohrkerne sagen, dass es kalt war. Erst die Chroniken sagen, was das für die Menschen bedeutete: verfaulte Ernten, Seuchen, abgebrochene Feldzüge.",
+            "Die Vorsicht der Autoren gefällt mir. Es ist verlockend, alles auf die Kleine Eiszeit zu schieben, aber das Wetter war ein Verstärker, keine alleinige Ursache. Wer ohnehin am Existenzminimum lebte, den traf ein kalter Winter tödlich. Das gilt beim Klima bis heute."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/11/harsh-winters-hunger-in-17th-century-transylvania/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/harsh-winters-transylvania-1.jpg",
+            "alt": "Gemälde einer gefrorenen Winterlandschaft mit Schlittschuhläufern",
+            "credit": "Hendrick Avercamp, „Winterlandschaft mit Eisläufern“ (um 1608), Rijksmuseum Amsterdam, CC0",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/11/harsh-winters-hunger-in-17th-century-transylvania/"
+          }
+        },
+        {
+          "title": "Römisches Wunderglas: Sheffield bildet den Farbwechsel des Lykurgos-Bechers nach",
+          "lead": "Der 1.600 Jahre alte Becher im British Museum leuchtet grün oder rot, je nachdem, woher das Licht kommt. Forscher haben das Glas nun erstmals überzeugend nachgebaut.",
+          "body": [
+            "Der Lykurgos-Becher gehört zu den berühmtesten Objekten der römischen Glaskunst. Je nachdem, wo die Lichtquelle steht, wechselt er die Farbe: Bei normalem Licht wirkt er jadegrün, von hinten beleuchtet rubinrot. Wie die Römer das im vierten Jahrhundert schafften, hat Historiker und Glasmacher lange beschäftigt. Jetzt haben Forscher der Universität Sheffield den Effekt nachgebildet, mit einem antiken Rezept, das sie aus einem Fragment römischen zweifarbigen Glases ableiteten.",
+            "Der Trick liegt in winzigen Teilchen. Lisa Hollands und die Glasexpertin Caroline Jackson mussten Nanopartikel aus Gold und Silber in das Glas einbetten, jedes rund tausendmal kleiner als ein Sandkorn. Beim Abkühlen der Schmelze von weit über 1.000 Grad wuchsen die Kristalle. „Wenn Licht hindurchscheint, blockieren die Gold- und Silberteilchen blaues und grünes Licht und lassen nur Rot und Orange durch“, erklärt Hollands. Fällt Licht auf die Oberfläche, wird es gestreut, und das Glas erscheint undurchsichtig grün.",
+            "Ian Freestone, emeritierter Professor am University College London, sagt, zwar sei schon in den 1960er-Jahren ein ähnlich gefärbtes Glas gelungen, Sheffield komme den tatsächlichen Farben aber deutlich näher. Die Arbeit zeige, wie schwer die Farben zu erreichen seien. „Die Farbe hing stark von den Bedingungen im Ofen ab“, sagt Freestone. „Es lässt mich denken, dass die Römer mit dem Lykurgos-Glas den Jackpot geknackt haben.“",
+            "Der Becher zeigt in tiefem Relief, wie der Weingott Dionysos über König Lykurgos triumphiert, der von einer Rebe gefangen wird. Freestone verweist auf eine Theorie, wonach der Wechsel von Grün zu Rot das Reifen der Trauben symbolisiert. Ein Glaskünstler hat aus dem neuen Glas eine Skulptur geschaffen, die vom 6. bis 15. November beim Festival of the Mind in Sheffields Millennium Gallery zu sehen ist und danach dauerhaft ins Turner Museum of Glass geht."
+          ],
+          "highlight": "„Es lässt mich denken, dass die Römer mit dem Lykurgos-Glas den Jackpot geknackt haben.“",
+          "assessment": [
+            "Das Schönste an der Geschichte ist Freestones Schlussfolgerung. Die Römer hatten offenbar kein Geheimrezept, das sie beliebig wiederholen konnten, sondern viel Erfahrung und eine Portion Glück. Das macht den Becher eher noch kostbarer, weil er womöglich nie wirklich reproduzierbar war.",
+            "Solche Nachbauten sind mehr als Spielerei. Erst wer versucht, ein antikes Objekt selbst herzustellen, versteht, wie es gemacht wurde und wie schwer das war. Experimentelle Archäologie erzählt oft mehr über alte Handwerker als jede Inschrift."
+          ],
+          "sources": [
+            { "name": "The Guardian", "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass" }
+          ],
+          "image": {
+            "url": "https://i.guim.co.uk/img/media/36274fa02586505fbfdfcdc84de3302a298d0f0e/84_0_2690_2152/master/2690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=badd0a21e62d14264925d0c3a098a939",
+            "alt": "Der Lykurgos-Becher, einmal grün im Auflicht und einmal rot im Gegenlicht",
+            "credit": "British Museum",
+            "license": "Artikelbild The Guardian",
+            "source": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass"
+          }
+        },
+        {
+          "title": "Neandertaler hielten ihr Lager sauber: Holzkohle verrät Abfallzonen",
+          "lead": "In einem Felsdach bei Barcelona zeigt die Verteilung von 640 Holzkohlestücken, wo Neandertaler ihre Feuerstellen ausräumten und den Abfall ablegten.",
+          "body": [
+            "Eine neue Studie zeigt, dass verkohlte Holzreste viel über das Lagerleben der Neandertaler verraten. Das Team untersuchte Holzkohle aus dem Abric Romaní, einem Felsdach bei Barcelona, in dem Neandertaler zwischen etwa 110.000 und 40.000 Jahren vor heute lebten. Die Fundstelle hat klar getrennte Schichten, und frühere Arbeiten deuteten auf getrennte Bereiche zum Schlafen, Werkzeugmachen und für Abfall hin.",
+            "Diesmal ging es um eine einzige Schicht namens Ra, die zwischen 2019 und 2022 ausgegraben wurde. Unter dem Mikroskop bestimmten die Forscher die Holzart jedes Stücks und prüften Spuren von Wachstum, Zersetzung, Verbrennung und Mineralablagerungen. Außerdem kartierten sie die genaue Lage jedes Fragments und verglichen die Verteilung statistisch.",
+            "Von den 640 untersuchten Stücken stammten etwa 76 Prozent von der Bergkiefer. Die Holzstruktur zeigt, dass die Neandertaler meist totes Holz sammelten, etwa heruntergefallene Äste, statt lebende Bäume zu fällen.",
+            "Die Karten zeigen zwei Muster. Im Norden ist die Holzkohle breit verteilt und eng an die Feuerstellen gebunden, im Süden liegt sie in kleinen, verstreuten Häufchen, oft fern von jeder Feuerstelle. Das passt dazu, dass Menschen beim Ausräumen der Feuer Material wegtrugen. Die Autoren deuten den Norden als Hauptabfallzone und den Süden als zweite Ablage für ausgeräumten Herdabfall. Wasser spielte im Süden eine kleine Rolle, die Unterschiede blieben aber auch nach dessen Berücksichtigung bestehen.",
+            "Ganz sicher sind sich die Forscher nicht. Ob die südlichen Häufchen vom Fegen, von Wasser oder von beidem stammen, kann Holzkohle allein nicht klären, ebenso wenig, ob die Schicht einen langen oder mehrere kurze Aufenthalte zeigt. Erstmals wurde eine solche räumliche Analyse von Holzkohle am Abric Romaní angewandt. Nun soll sie mit Karten von Knochen, Steinwerkzeugen und feinen Sedimentspuren kombiniert werden."
+          ],
+          "highlight": "Die Autoren deuten den Norden als Hauptabfallzone und den Süden als zweite Ablage für ausgeräumten Herdabfall.",
+          "assessment": [
+            "Dass Neandertaler ihren Wohnplatz organisierten, überrascht inzwischen niemanden mehr, das Bild vom primitiven Höhlenmenschen ist längst überholt. Neu ist die Methode: Holzkohle wurde bisher vor allem bestimmt, um zu wissen, was verbrannt wurde. Hier wird sie zum Spurenträger für Verhalten.",
+            "Ich mag an der Studie, wie offen sie ihre Grenzen benennt. Ob da jemand fegte oder ein Bach die Asche verteilte, bleibt offen. Aber der Gedanke, dass vor 50.000 Jahren jemand die Feuerstelle ausräumte und den Abfall in eine Ecke trug, macht diese Menschen sehr nahbar."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/10/neanderthals-charcoal-spanish-rock-shelter/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/neanderthals-reused-bone-tools-1.jpg",
+            "alt": "Gemälde von Neandertalern bei der Bearbeitung von Feuerstein vor einer Höhle",
+            "credit": "Charles Robert Knight, „Neanderthal Flintworkers“ (1920), gemeinfrei",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/neanderthals-charcoal-spanish-rock-shelter/"
+          }
+        },
+        {
+          "title": "Virginia: Studentin sucht Haizähne und findet eine 4.000 Jahre alte Speerspitze",
+          "lead": "Bei einem Ökologiekurs auf einer Barriereinsel entdeckte eine Biologiestudentin eine perfekt erhaltene Steinspitze. Sie gehört nun dem Staat.",
+          "body": [
+            "Auf einer Barriereinsel an der Eastern Shore von Virginia ist eine Speerspitze aus Stein gefunden worden, die 3.000 bis 4.500 Jahre alt ist. Sie ist etwa 15 Zentimeter lang und wird dem Typ Lehigh/Koens-Crispin zugeordnet. Der Archäologe, der sie untersuchte, sagte, er habe noch nie eine in so gutem Zustand gesehen.",
+            "Gefunden hat sie Brooklyn Rolph, Biologiestudentin an der Mary Baldwin University, am 21. September 2026. Es war der letzte volle Tag eines viertägigen Ökologiekurses am Anheuser-Busch Coastal Research Center der University of Virginia. Wegen Wind und Gezeiten blieben der Gruppe nur 35 bis 40 Minuten auf der Insel, jeder Student hatte nach dem Mittagessen ein paar Minuten zum Umsehen.",
+            "Rolph hatte Jahre zuvor am Strand kleine Haizähne gefunden und hielt die mit Muscheln bedeckte Insel für einen guten Ort, also achtete sie auf alles Spitze. Sie entdeckte den Stein im flachen Wasser am Rand eines Priels. Die Flut stieg bereits, und laut Kursleiter Paul Callo wäre die Spitze bald unter Sand verschwunden. Callo nannte die Verkettung von Zufällen „ziemlich unglaublich“.",
+            "Die Insel gehört zu einem staatlichen Naturschutzgebiet, und die Gruppe war mit Genehmigung dort. Callo hatte Rolph schon gewarnt, dass sie die Spitze vielleicht nicht behalten dürfe. Ein Anruf klärte die Sache: Der Fund gehört dem Bundesstaat. Rolph akzeptierte das ohne Einwände. Noch am selben Tag holte die Naturschutzbehörde die Spitze ab und übergab sie dem Virginia Department of Historic Resources zur weiteren Untersuchung."
+          ],
+          "highlight": "Die Flut stieg bereits, und laut Kursleiter Paul Callo wäre die Spitze bald unter Sand verschwunden.",
+          "assessment": [
+            "Eine kleine Geschichte, aber eine schöne. Viele bedeutende Funde gehen auf Zufall und aufmerksame Laien zurück, und dieser zeigt, wie knapp es oft ist: ein paar Minuten auf der Insel, eine steigende Flut, und das Stück wäre vielleicht nie wieder aufgetaucht.",
+            "Vorbildlich ist auch, wie es weiterging. Die Studentin hat den Fund abgegeben, statt ihn einzustecken, und er landete am selben Tag bei den Fachleuten. Genau so sollte es laufen, und genau so läuft es leider oft nicht."
+          ],
+          "sources": [
+            { "name": "Archaeology News Online Magazine", "url": "https://archaeologymag.com/2026/10/student-finds-ancient-spear-point-on-virginia-island/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/spear-point-on-virginia-island-1.jpg",
+            "alt": "Die steinerne Speerspitze im Moment ihrer Entdeckung",
+            "credit": "Mary Baldwin University",
+            "license": "Artikelbild Archaeology News Online Magazine",
+            "source": "https://archaeologymag.com/2026/10/student-finds-ancient-spear-point-on-virginia-island/"
+          }
+        }
+      ]
+    }
+  ]
+}
