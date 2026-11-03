@@ -11,7 +11,8 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - .wrenfell-passwort.txt auf Kevins Freigabe in den Papierkorb (Passwort liegt als Pages-Secret SITE_PASSWORD).
 
 ## Offen
-- Heft 27 (2026-11-02) erschienen. Wikimedia- und Openverse-API waren aus der Cloud nicht erreichbar, Bild-Fallback ggf. über andere Artikel derselben Meldung suchen.
+- Heft 28 (2026-11-03) erschienen. Bild-Fallback: anderen Artikel derselben Meldung nehmen (CNBC blockiert curl mit 403, Wikimedia/Openverse unzuverlässig).
+- Checkout steht beim Start auf detached HEAD: mit `git push origin HEAD:main` pushen.
 - Mobile Ansicht der Projektkarten und der Cover-Reihe ungeprüft.
 - Kevin entscheidet: Passwort in 1Password sichern, Projekt aus iCloud nach ~/Projekte umziehen.
 - Später: eigenes Hosting statt GameHub2026-Account, eigene Domain, GitHub-Repo privat.
