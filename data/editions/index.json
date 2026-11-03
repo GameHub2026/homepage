@@ -1,5 +1,38 @@
 [
   {
+    "nr": 28,
+    "date": "2026-11-03",
+    "updated": "2026-11-03T07:47:53+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Anthropic legt Quartalszahlen nach: 17 Milliarden Umsatz, 23 Milliarden Verlust",
+      "Marvell kauft Lumentum für 115 Milliarden Dollar, die Börse straft beide ab",
+      "Oracle holt sich 20 Milliarden, und das Geld für KI wird knapp",
+      "New York Times verklagt Brave: Der Browser soll Artikel an KI-Firmen verkaufen",
+      "Britische Cyberabwehr: KI-Ransomware gegen kritische Infrastruktur bis 2028 „sehr wahrscheinlich“",
+      "Nagoshi Studio ist offiziell aufgelöst",
+      "Neu: Phantom Blade Zero verkauft sich vier Millionen Mal in drei Tagen",
+      "VR-Studio Schell Games entlässt rund 40 Prozent der Belegschaft",
+      "Bericht: Bend Studios nächstes Spiel kommt 2027",
+      "Thief: The Dark Project Remastered erscheint am 3. Dezember",
+      "Disney bereitet die größte Entlassungsrunde des Jahres vor",
+      "Neu: Godzilla Minus Zero startet in Japan, Kritiker sind begeistert",
+      "Joel Coen dreht Gothic-Krimi „Jack of Spades“ für Netflix, mit Kinostart 2027",
+      "Meta macht den neuen Hunger-Games-Film zum 3D-Film",
+      "Reznor und Ross vertonen Finchers „Cliff Booth“",
+      "Inka-Opferkinder: Haaranalysen zeigen Koka bei allen, Alkohol bei manchen, Harmin bei Juanita",
+      "Westminster Abbey: Im römischen Sarkophag lag wohl ein angelsächsischer Abt",
+      "Buto: Satellitenradar findet 2600 Jahre alten Bau auf einem Sandpolster",
+      "Peking: Drei 1800 Jahre alte Flussboote, eines mit zehn Staatsstempeln",
+      "Ungarn: Auf einem Schlachtfeld von 1596 liegt ein Bronzeschatz von vor 3000 Jahren"
+    ]
+  },
+  {
     "nr": 27,
     "date": "2026-11-02",
     "updated": "2026-11-02T07:53:10+01:00",

@@ -1,0 +1,648 @@
+{
+  "nr": 28,
+  "date": "2026-11-03",
+  "intro": "Das Geld für die KI wird knapp: Anthropic legt vor dem Börsengang neue Quartalszahlen mit hohem Verlust vor, Oracle besorgt sich 20 Milliarden, und Marvell kauft Lumentum für 115 Milliarden Dollar. Beim Gaming ist das Studio des Yakuza-Erfinders Nagoshi endgültig Geschichte, während Phantom Blade Zero vier Millionen Mal verkauft wird. Disney plant die nächste Entlassungswelle, Godzilla Minus Zero läuft in Japan an, und in der Geschichte geht es um Drogen im Inka-Opferritual und einen Abt im römischen Sarkophag von Westminster.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Anthropic legt Quartalszahlen nach: 17 Milliarden Umsatz, 23 Milliarden Verlust",
+          "lead": "Vor dem Börsengang hat Anthropic seinen Wertpapierprospekt um das dritte Quartal ergänzt. Der Umsatz wächst weiter enorm, aber langsamer, und die Zahlungsverpflichtungen für Rechenleistung erreichen fast 900 Milliarden Dollar.",
+          "body": [
+            "Anthropic hat am 2. November bei der US-Börsenaufsicht SEC eine geänderte Fassung seines Börsenprospekts (Form S-1) eingereicht. Die erste öffentliche Fassung aus der Vorwoche deckte nur das erste Halbjahr 2026 ab, jetzt sind die Zahlen bis Ende September enthalten. Laut CNBC bereitet sich das Unternehmen darauf vor, mit der Roadshow bei Investoren zu beginnen. Einen Termin für den Börsengang nennt der Bericht nicht.",
+            "Im dritten Quartal setzte Anthropic rund 17 Milliarden Dollar um, etwa 1.127 Prozent mehr als ein Jahr zuvor. Der Nettoverlust lag im selben Quartal bei 23,29 Milliarden Dollar. Für die ersten neun Monate des Jahres kommt das Unternehmen auf 33,24 Milliarden Dollar Umsatz und einen Nettoverlust von 104 Milliarden Dollar, nach 25,1 Milliarden im Vorjahreszeitraum. Der größte Teil des Verlusts geht auf Bewertungsänderungen bei Wandelanleihen und Derivaten zurück, ist also kein Geld, das tatsächlich abgeflossen ist.",
+            "Das Wachstum hat sich deutlich verlangsamt: CNBC nennt für das dritte Quartal rund 47 Prozent, nach 144 Prozent im zweiten und 132 Prozent im ersten Quartal. Die Ausgaben für Rechenleistung und Infrastruktur stiegen in den neun Monaten um 14,4 Milliarden Dollar, ein Plus von 329 Prozent.",
+            "Die auffälligste Zahl steht in den Verpflichtungen: Kaufzusagen und Mietverträge summieren sich auf rund 895,4 Milliarden Dollar, laut Prospekt „im Wesentlichen alle“ für Rechenleistung und Infrastruktur. Der Prospekt enthält mehr als 90 Seiten Risikofaktoren. Konkurrent OpenAI hat im Juni vertraulich einen Börsengang beantragt und peilt 2027 an.",
+            "Auf Tech Policy Press fordert Matt Scherer vom Open Markets Institute die SEC auf, den Börsengang vorerst zu stoppen. Er verweist auf rund 96 Milliarden Dollar Barreserven gegenüber den Verpflichtungen, von denen mindestens 582 Milliarden gegenüber Amazon, AMD, Broadcom, Google und Microsoft nicht kündbar seien, und darauf, dass die Zahlen für 2026 ungeprüft sind. Anthropic solle erst zwei geprüfte Quartalsabschlüsse vorlegen."
+          ],
+          "highlight": "Kaufzusagen und Mietverträge summieren sich auf rund 895,4 Milliarden Dollar, laut Prospekt „im Wesentlichen alle“ für Rechenleistung und Infrastruktur.",
+          "assessment": [
+            "Der Milliardenverlust ist zum größten Teil Buchhaltung, darüber muss man sich nicht aufregen. Die 895 Milliarden an Zusagen dagegen sind echtes Geld, das in den nächsten Jahren fließen soll, und sie stehen einem Umsatz gegenüber, der zwar riesig ist, aber gerade an Tempo verliert. Das ist die eigentliche Wette, die Aktionäre beim Börsengang mitkaufen.",
+            "Scherers Forderung wird die SEC kaum erfüllen, aber sein Punkt mit den ungeprüften Zahlen ist berechtigt. Hinweis in eigener Sache: Dieses Heft wird mit Claude erstellt, einem Produkt von Anthropic. Umso wichtiger, hier nüchtern zu bleiben."
+          ],
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+            },
+            {
+              "name": "Tech Policy Press",
+              "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.sanity.io/images/3tzzh18d/production/07bfadd5db5c963aa461d36b3f5bfa4a34c6f335-1200x675.png",
+            "alt": "Anthropic-Chef Dario Amodei bei einem Pressetermin vor dem Weißen Haus",
+            "credit": "Kevin Dietsch/Getty Images",
+            "license": "Artikelbild Tech Policy Press",
+            "source": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/"
+          }
+        },
+        {
+          "title": "Marvell kauft Lumentum für 115 Milliarden Dollar, die Börse straft beide ab",
+          "lead": "Der Chipkonzern Marvell übernimmt den Spezialisten für optische Verbindungen Lumentum komplett in Aktien. Es ist eine der größten Übernahmen der Techbranche und eine Wette darauf, dass KI-Rechenzentren immer mehr Licht statt Kupfer brauchen.",
+          "body": [
+            "Marvell Technology hat am 2. November angekündigt, Lumentum zu übernehmen. Lumentum-Aktionäre erhalten für jede Aktie fest 4,5 Marvell-Aktien, Bargeld fließt nicht. Laut Mitteilung der Unternehmen entspricht das rund 1.132 Dollar je Lumentum-Aktie, einem Aufschlag von etwa 23,9 Prozent auf die Schlusskurse vom 28. Oktober und einem Unternehmenswert von 115 Milliarden Dollar.",
+            "Nach dem Abschluss sollen die bisherigen Marvell-Aktionäre rund 67 Prozent des gemeinsamen Unternehmens halten, die von Lumentum etwa 33 Prozent. Marvell erwartet jährliche Kosteneinsparungen von mehr als einer Milliarde Dollar. Matt Murphy bleibt Chef, Lumentum-Chef Michael Hurlston und zwei weitere Lumentum-Vertreter ziehen in den Verwaltungsrat ein. Aktionäre und Behörden müssen noch zustimmen, der Abschluss ist für das erste Halbjahr 2028 geplant.",
+            "Der Hintergrund: Um die Chips zu verbinden, auf denen große Sprachmodelle trainiert werden und laufen, setzen Rechenzentren zunehmend auf optische Verbindungen. Lumentum baut Laser und optische Transceiver-Module, Marvell bringt die elektrische Seite mit. Schon in diesem Jahr hatte Marvell das Photonik-Start-up Celestial AI gekauft. Nvidia hat laut TrendForce zwei Milliarden Dollar in Lumentum investiert.",
+            "Die Anleger reagierten schroff. Laut CNBC fiel die Marvell-Aktie am Montag um rund 13 Prozent, Lumentum um fast 19 Prozent. Beide Papiere waren im KI-Boom stark gestiegen, Lumentum hatte sich im vergangenen Jahr vervierfacht. Murphy nannte den Deal ein „Double down“ auf Nvidia als Taktgeber der Branche und wies Bedenken wegen Nvidias Beteiligungen an beiden Firmen zurück: „Wir werden hier eine neue Kategorie von Unternehmen schaffen.“"
+          ],
+          "highlight": "Laut CNBC fiel die Marvell-Aktie am Montag um rund 13 Prozent, Lumentum um fast 19 Prozent.",
+          "assessment": [
+            "Industriell ergibt der Deal Sinn: Wer künftig KI-Rechenzentren ausstattet, muss Elektronik und Optik aus einer Hand liefern können. Aber 115 Milliarden Dollar in Aktien für ein Unternehmen, das sich gerade vervierfacht hat, sind ein Kauf zum Höchstpreis. Dass beide Kurse gleichzeitig abstürzen, zeigt, dass der Markt genau das so sieht.",
+            "Auffällig ist auch, wie oft Nvidia im Hintergrund steht. Wenn der wichtigste Kunde an beiden Partnern beteiligt ist, wird das Geflecht der KI-Branche nicht durchsichtiger."
+          ],
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html"
+            },
+            {
+              "name": "SEC (Pressemitteilung Marvell/Lumentum)",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm"
+            },
+            {
+              "name": "TrendForce",
+              "url": "https://www.trendforce.com/news/?p=65896"
+            }
+          ],
+          "image": {
+            "url": "https://img.trendforce.com/blog/wp-content/uploads/2026/06/18163803/Marvell_Santa_Clara_IMG_3245-624x416.jpg",
+            "alt": "Marvell-Schriftzug vor der Firmenzentrale in Santa Clara",
+            "credit": "Marvell",
+            "license": "Artikelbild TrendForce",
+            "source": "https://www.trendforce.com/news/?p=65896"
+          }
+        },
+        {
+          "title": "Oracle holt sich 20 Milliarden, und das Geld für KI wird knapp",
+          "lead": "Oracle verkauft für je zehn Milliarden Dollar neue Aktien und Anleihen, um seinen Rechenzentrumsausbau zu finanzieren. Die Aktie fällt trotzdem, und Banken und Konzernchefs warnen, dass Kapital zum Engpass des KI-Booms wird.",
+          "body": [
+            "Oracle hat am 2. November bei der SEC angemeldet, Stammaktien für zehn Milliarden Dollar und vorrangige Anleihen für weitere zehn Milliarden auszugeben. Der Erlös ist für allgemeine Zwecke gedacht, darunter Investitionen und Schuldentilgung. Angekündigt hatte Oracle den Schritt schon am Investorentag am 28. Oktober. Dort legte der Konzern auch fest, dass er für den Investitionszyklus der Geschäftsjahre 2027 bis 2030 höchstens 20 Milliarden Dollar zusätzlich am Kapitalmarkt aufnehmen will. Den Rest sollen Lieferantenkredite, von Kunden gestellte Hardware und Vorauszahlungen abdecken.",
+            "Die Aktie verlor am Montag trotzdem 8,8 Prozent. Seit Jahresbeginn liegt sie 33 Prozent im Minus, auf zwölf Monate gerechnet 50 Prozent. Oracle hatte Ende August Schulden von 125,34 Milliarden Dollar, S&P hat das Rating im Juli auf BBB- gesenkt, eine Stufe über Ramschniveau. Die Absicherung gegen einen Zahlungsausfall ist laut CNBC innerhalb eines Jahres um 265 Prozent teurer geworden.",
+            "Oracle ist kein Einzelfall. Fortune zählt auf: SpaceX hat 40 Milliarden Dollar Kredit aufgenommen, Microsoft 25 Milliarden an Schulden, Meta will 95 Milliarden an Eigenkapital einsammeln. S&P hat den Ausblick für Meta auf „negativ“ gesenkt. OpenAI hat sein Ziel für die laufende Finanzierungsrunde von 30 auf 20 Milliarden Dollar reduziert.",
+            "Die großen Cloud-Konzerne investieren in diesem Jahr laut Fortune rund 800 Milliarden Dollar, im nächsten Jahr mehr als eine Billion. Gartner schätzt, dass Rechenzentrumsbetreiber bis Ende des Jahrzehnts 8,5 Billionen Dollar Umsatz bräuchten, um das zu rechtfertigen, KI aber höchstens 3,6 Billionen einbringen dürfte. BlackRock-Chef Larry Fink sagt, er habe in seiner Karriere noch nie so harten Wettbewerb um Kapital erlebt. Der Leiter des Tech-Kreditgeschäfts einer großen europäischen Bank sagte Bloomberg, man nähere sich der Grenze dessen, was man der Branche leihen könne."
+          ],
+          "highlight": "Gartner schätzt, dass Rechenzentrumsbetreiber bis Ende des Jahrzehnts 8,5 Billionen Dollar Umsatz bräuchten, um das zu rechtfertigen, KI aber höchstens 3,6 Billionen einbringen dürfte.",
+          "assessment": [
+            "Bisher war die Frage, ob es genug Chips und Strom für den KI-Ausbau gibt. Jetzt kommt die dritte Frage dazu: ob es genug Geld gibt. Wenn eine Bank offen sagt, sie sei am Limit, und Oracle mit einem Rating knapp über Ramsch weiter Schulden aufnimmt, ist das kein Randthema mehr.",
+            "Die Gartner-Lücke von fast fünf Billionen Dollar ist natürlich eine Schätzung mit viel Spielraum. Aber selbst wenn sie zur Hälfte stimmt, wird jemand Abschreibungen schreiben müssen. Oracle hat sich mit seiner Obergrenze immerhin selbst eine Bremse gesetzt. Ob sie hält, sieht man, wenn das Unternehmen 2027 doch wieder an den Markt muss."
+          ],
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/11/02/ai-boom-supply-crunch-capital-debt-bonds-capex-spending"
+            }
+          ],
+          "image": {
+            "url": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2281437321-e1793632288170.jpg?resize=1200,600",
+            "alt": "OpenAI-Chef Sam Altman winkt beim G7-Gipfel in Evian",
+            "credit": "Mandel Ngan / AFP via Getty Images",
+            "license": "Artikelbild Fortune",
+            "source": "https://fortune.com/2026/11/02/ai-boom-supply-crunch-capital-debt-bonds-capex-spending"
+          }
+        },
+        {
+          "title": "New York Times verklagt Brave: Der Browser soll Artikel an KI-Firmen verkaufen",
+          "lead": "Die New York Times und drei weitere Zeitungen ziehen gegen den Browserhersteller Brave vor Gericht. Der Vorwurf: Brave kopiere ihre Texte und verkaufe sie an Anthropic, Perplexity, Mistral, xAI und Cohere.",
+          "body": [
+            "Die New York Times hat am 2. November vor dem Bundesgericht in Manhattan Klage gegen Brave eingereicht. Am selben Tag folgten die Daily News, die Chicago Tribune und der Orlando Sentinel mit einer ähnlichen Klage. Brave ist vor allem für seinen datenschutzorientierten Browser und seine Suchmaschine bekannt, wurde 2015 gegründet und hat laut TechCrunch bisher rund 250 Millionen Dollar eingesammelt.",
+            "Laut Klageschrift hat Brave mit einem nicht gekennzeichneten Crawler einen Index aus mehr als 30 Milliarden Webseiten aufgebaut, den Verlage nicht blockieren können. Die Inhalte verkaufe Brave an Kunden weiter, die Times nennt Anthropic, Perplexity, Mistral, xAI und Cohere. Sie bezeichnet Brave als „Lieferanten, Händler und Verteiler gestohlener urheberrechtlich geschützter Inhalte“ und als KI-„Hehler“.",
+            "Die Klage richtet sich außerdem gegen eine Browserfunktion, die Bezahlschranken umgeht, und dagegen, dass Brave die Werbung der Verlage blockiert und eigene verkauft. Die Times verlangt eine einstweilige Verfügung und Schadenersatz. Brave reagierte zunächst nicht auf Anfragen.",
+            "Es ist nicht der erste Streit dieser Art. News Corp, Mutterkonzern des Wall Street Journal und der New York Post, hatte Brave im Juli mit einer Gegenklage überzogen. Brave liefere über sein „Data for AI API“-Geschäft Textauszüge von bis zu rund 250 Wörtern, etwa fünfmal so lang wie übliche Suchschnipsel, fast wörtlich an KI-Unternehmen. Brave hält dagegen, eine Suchmaschine müsse Inhalte indexieren, um überhaupt zu funktionieren. Die Times klagt bereits gegen OpenAI und Perplexity."
+          ],
+          "highlight": "Laut Klageschrift hat Brave mit einem nicht gekennzeichneten Crawler einen Index aus mehr als 30 Milliarden Webseiten aufgebaut, den Verlage nicht blockieren können.",
+          "assessment": [
+            "Die Klage verschiebt den Kampf der Verlage eine Stufe nach vorn: nicht mehr nur gegen die KI-Firmen selbst, sondern gegen die Zulieferer, die ihnen die Texte besorgen. Das ist klug, denn bei einem Suchindex lässt sich leichter zeigen, wer was kopiert hat, als bei einem fertigen Modell.",
+            "Für Brave ist das unangenehm. Die Firma verkauft sich als die anständige Alternative zu Google, und nun stehen gleich zwei große Verlagshäuser mit fast denselben Vorwürfen vor Gericht. Wenn sich die Sache mit dem nicht blockierbaren Crawler bestätigt, wird es schwer, das noch als normale Suchmaschinenarbeit zu verkaufen."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+            },
+            {
+              "name": "TheWrap",
+              "url": "https://www.thewrap.com/industry-news/public-policy-legal/news-corp-countersues-search-engine-brave-al-copyright-infringement/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+            "alt": "Hand mit Smartphone vor dem Logo von Brave",
+            "credit": "TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+          }
+        },
+        {
+          "title": "Britische Cyberabwehr: KI-Ransomware gegen kritische Infrastruktur bis 2028 „sehr wahrscheinlich“",
+          "lead": "Das britische National Cyber Security Centre warnt in seinem Jahresbericht vor einer Welle KI-gestützter Angriffe. KI erfinde keine neuen Methoden, mache aber alte Schwachstellen in großem Stil ausnutzbar.",
+          "body": [
+            "Das National Cyber Security Centre (NCSC), Teil des britischen Geheimdienstes GCHQ, hat am 3. November seinen Jahresbericht „State of the Cyber Nation“ vorgestellt. Er deckt den Zeitraum vom 1. September 2025 bis 31. August 2026 ab. Die zentrale Warnung: Betreiber kritischer Infrastruktur sollten sich auf einen Ransomware-Angriff mit KI-gestützter Schadsoftware einstellen, der bis 2028 „sehr wahrscheinlich“ sei.",
+            "Innerhalb von zwei Jahren werde der Einsatz von KI durch feindliche Akteure Ransomware, Social Engineering und das Ausnutzen von Sicherheitslücken in Umfang und Effizienz sehr wahrscheinlich steigern. Neue Angriffsmethoden schaffe KI laut NCSC nicht. Sie sorge aber dafür, dass seit Langem hingenommene Schwachstellen in viel größerem Maßstab gefunden und ausgenutzt werden können.",
+            "NCSC-Chef Richard Horne sprach von einem „Moment der Entscheidung“. „Jahrzehntelang sind wir alle damit durchgekommen, Technik billig zu machen“, sagte er. In den kommenden Monaten drohe ein beispielloser Anstieg von Cybervorfällen. Führungskräfte müssten womöglich bald erklären, warum keine Lebensmittel in den Regalen liegen, das Licht ausgeht und Firmen pleitegehen.",
+            "Die Behörde rät Organisationen, ausreichend in Technik zu investieren, Systeme nicht unnötig ans Internet anzuschließen und das Zertifikat Cyber Essentials nur als Ausgangspunkt zu sehen. Die Regierung hatte in der Vorwoche 60 Millionen Pfund für die erste Phase eines nationalen „Cyber Shield“ angekündigt, 70 Millionen für ein Zentrum, das Schwachstellen in Infrastruktur und Wirtschaft aufspüren soll, und ein neues KI-Sicherheitszentrum in Manchester."
+          ],
+          "highlight": "Sie sorge aber dafür, dass seit Langem hingenommene Schwachstellen in viel größerem Maßstab gefunden und ausgenutzt werden können.",
+          "assessment": [
+            "Das ist die nüchternste und zugleich unangenehmste Beschreibung dessen, was KI in der IT-Sicherheit verändert. Es braucht keinen Superhacker aus der Science-Fiction. Es reicht, dass die vielen ungepatchten Altsysteme, mit denen man bisher irgendwie durchkam, plötzlich billig und massenhaft abgeklopft werden können.",
+            "Hornes Satz über Technik „auf die billige Tour“ gilt nicht nur für Großbritannien. Deutsche Kommunen, Kliniken und Stadtwerke kennen das Problem genauso. Die Warnung hat ein Datum, 2028, und das ist für Behörden-IT sehr bald."
+          ],
+          "sources": [
+            {
+              "name": "NCSC",
+              "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years"
+            }
+          ],
+          "image": {
+            "url": "https://www.ncsc.gov.uk/sites/default/files/styles/uncropped_lg/public/2026-11/Nova-AR.jpg?itok=f_tfsBpR",
+            "alt": "Glasfassaden moderner Bürogebäude in Grün und Rot",
+            "credit": "NCSC",
+            "license": "Artikelbild NCSC",
+            "source": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Nagoshi Studio ist offiziell aufgelöst",
+          "lead": "Das Studio des Yakuza-Erfinders Toshihiro Nagoshi gibt es nicht mehr. Japans Amtsblatt hat die Auflösung bestätigt, nachdem NetEase dem Projekt „Gang of Dragon“ das Geld entzogen hatte.",
+          "body": [
+            "Nach Monaten der Spekulation ist es amtlich: Nagoshi Studio, gegründet von Toshihiro Nagoshi, dem Erfinder der Yakuza-Reihe, wurde formell aufgelöst. Das japanische Amtsblatt Kanpo führte das Unternehmen am Montag in seiner aktuellen Liste der Firmenauflösungen, wie VGC berichtet.",
+            "Das Studio war 2021 mit Geld von NetEase gegründet worden. Sein erstes Spiel sollte „Gang of Dragon“ werden, ein Actionspiel, das im Dezember angekündigt wurde und damals schon weit in der Entwicklung war. Die Hauptrolle spielte Ma Dong-seok, bekannt aus „Train to Busan“, „The Outlaws“ und Marvels „Eternals“.",
+            "Laut einem Bloomberg-Bericht vom März 2026 erfuhren die Mitarbeiter damals, dass NetEase die Finanzierung einstellen wolle. Der Konzern soll die Entscheidung getroffen haben, nachdem klar wurde, dass das Projekt weitere sieben Milliarden Yen, rund 44,4 Millionen Dollar, bis zur Fertigstellung gebraucht hätte.",
+            "Nagoshi Studio ist das jüngste Opfer des Rückzugs von NetEase aus der internationalen Spieleentwicklung. Der chinesische Konzern hatte jahrelang in neue Studios weltweit investiert. Geschlossen wurden zunächst T-Minus, FPC und Bad Brain, von Worlds Untold (gegründet mit dem früheren Mass-Effect-Autor Mac Walters) und Jar of Sparks (gegründet vom Xbox-Veteranen Jerry Hook) trennte sich NetEase. Ouka Studio, Entwickler von „Visions of Mana“, schloss bereits 2024.",
+            "Einige Studios machen ohne NetEase weiter, darunter Goichi Sudas Grasshopper Manufacture und GPTRACK50 von Resident-Evil-Produzent Hiroyuki Kobayashi. Nagoshi selbst hatte VGC 2023 im ersten westlichen Interview seines Studios versprochen, er werde die Fans seiner früheren Spiele nicht enttäuschen."
+          ],
+          "highlight": "Der Konzern soll die Entscheidung getroffen haben, nachdem klar wurde, dass das Projekt weitere sieben Milliarden Yen, rund 44,4 Millionen Dollar, bis zur Fertigstellung gebraucht hätte.",
+          "assessment": [
+            "Ein Eintrag im Amtsblatt als Schlusspunkt für einen der bekanntesten Namen der japanischen Spielebranche, das ist ein trauriges Ende. Nagoshi hat Sega verlassen, um etwas Eigenes zu bauen, und am Ende hing alles an einem einzigen Geldgeber, der seine Strategie geändert hat.",
+            "Die Lehre aus der NetEase-Welle ist unbequem: Prominente Gründer und große Namen schützen nicht, wenn ein Konzern kalkuliert. Wer heute ein Studio gründet, sollte sich gut überlegen, ob ein einzelner Investor wirklich die sicherste Wahl ist."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/12/Screenshot-2025-12-12-020734.jpg",
+            "alt": "Szene aus dem Actionspiel „Gang of Dragon“ von Nagoshi Studio",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/"
+          }
+        },
+        {
+          "title": "Neu: Phantom Blade Zero verkauft sich vier Millionen Mal in drei Tagen",
+          "lead": "Das chinesische Wuxia-Actionspiel von S-GAME hat innerhalb von 72 Stunden nach dem Start mehr als vier Millionen Exemplare abgesetzt.",
+          "body": [
+            "Der chinesische Entwickler S-GAME meldet für „Phantom Blade Zero“ mehr als vier Millionen verkaufte Exemplare innerhalb von 72 Stunden nach dem Start. Das Spiel erschien am 29. Oktober digital für PlayStation 5 und PC, auf dem PC über Steam und den Epic Games Store. Eine Disc-Fassung für die PS5 soll 2027 folgen.",
+            "„Phantom Blade Zero“ ist ein Action-Rollenspiel im Wuxia-Stil auf Basis der Unreal Engine 5. Die Hauptfigur Soul wird für den Tod ihres Meisters verantwortlich gemacht und hat nur noch 66 Tage zu leben. Es gibt mehr als 30 Waffen und über 20 sogenannte „Phantom Edges“, mit denen sich der Kampfstil anpassen lässt. Besiegten Gegnern kann man Waffen und Spezialtechniken abnehmen.",
+            "S-GAME nennt den Stil „Kungfupunk“, eine Mischung aus Kampfkunst und Maschinen, angelehnt an das Hongkong-Actionkino der goldenen Ära. Die Kampfchoreografien wurden per Motion Capture aufgenommen. Der Entwickler beschreibt das Spiel als „chinesisches Kung-Fu, neu gedacht für eine neue Generation“.",
+            "Der Start fällt in einen dichten Herbst: Am 19. November erscheint GTA 6, das die Aufmerksamkeit der Spieler für Wochen binden dürfte."
+          ],
+          "highlight": "Der chinesische Entwickler S-GAME meldet für „Phantom Blade Zero“ mehr als vier Millionen verkaufte Exemplare innerhalb von 72 Stunden nach dem Start.",
+          "assessment": [
+            "Vier Millionen in drei Tagen ist für ein neues Spiel ohne bekannte Marke eine Ansage. Nach „Black Myth: Wukong“ ist das der zweite Beweis, dass chinesische Studios inzwischen auf dem Niveau großer Actionspiele mitspielen und ein weltweites Publikum finden.",
+            "Klug war auch das Timing: Wer Ende Oktober erscheint, hat noch drei Wochen, bevor GTA 6 alles andere verschluckt. Spannend wird, ob die Zahlen auch nach dem 19. November weiter steigen."
+          ],
+          "sources": [
+            {
+              "name": "Gematsu",
+              "url": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours"
+            }
+          ],
+          "image": {
+            "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Phantom-Blade-Zero-Sales_11-01-26.jpg",
+            "alt": "Werbebild zu „Phantom Blade Zero“ mit dem Kämpfer Soul",
+            "credit": "S-GAME / Gematsu",
+            "license": "Artikelbild Gematsu",
+            "source": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours"
+          }
+        },
+        {
+          "title": "VR-Studio Schell Games entlässt rund 40 Prozent der Belegschaft",
+          "lead": "Der Entwickler von „I Expect You to Die“ und „Among Us 3D“ hat zum zweiten Mal in diesem Jahr Stellen gestrichen, diesmal in großem Umfang.",
+          "body": [
+            "Schell Games hat einen großen Teil seiner Mitarbeiter entlassen. Bekannt wurde das zuerst durch einen Bluesky-Beitrag von Kyle Hilliard, dem Ehemann einer betroffenen Entwicklerin. Studiochef Jesse Schell bestätigte inzwischen, dass „etwa 40 Prozent des Studios“ gehen mussten.",
+            "In einer LinkedIn-Erklärung verweist das Studio auf „diese schwierige Zeit in der Spielebranche“. Man habe eine erhebliche Zahl von Mitarbeitern entlassen müssen, um eine nachhaltige Zukunft zu sichern. Das sorge für Stabilität, sei aber „unglaublich schmerzhaft, weil wir großartige Talente verlieren“.",
+            "Eine genaue Zahl nennt Schell Games nicht. Road to VR schätzt rund 50 Betroffene: Nach der ersten Runde im August, der ersten Entlassung in der mehr als 20-jährigen Geschichte des Studios, waren es etwa 125 Beschäftigte, damals wurden rund zehn Prozent abgebaut. Betroffen sind diesmal unter anderem Unity- und Unreal-Entwickler, Artists, Game- und Sounddesigner, Produzenten, Marketing, QA und Forschung für Lernspiele.",
+            "Schell Games ist eines der ältesten VR-Studios. Bekannt sind die „I Expect You to Die“-Trilogie, „Among Us 3D“, „Until You Fall“ und „Silent Slayer“. Zuletzt kündigte das Studio „Dragon Grove“ an, ein Mixed-Reality-Gartenspiel für Quest 3 und Metas VR-Brille, das im Frühjahr 2027 erscheinen soll.",
+            "Der VR-Bereich trifft es 2026 besonders hart. UploadVR nennt Entlassungen bei Kluge Interactive, Survios, Camouflaj und Combat Waffle sowie Schließungen von Sanzaru Games, Twisted Pixel, Armature, Polyarc, Vertigo Games Amsterdam und zwei nDreams-Studios."
+          ],
+          "highlight": "Studiochef Jesse Schell bestätigte inzwischen, dass „etwa 40 Prozent des Studios“ gehen mussten.",
+          "assessment": [
+            "Die Liste der geschlossenen VR-Studios liest sich inzwischen wie ein Nachruf auf eine ganze Sparte. Wenn selbst Schell Games, das mit „I Expect You to Die“ einen der wenigen echten VR-Klassiker gemacht hat, fast die Hälfte der Leute gehen lassen muss, ist das kein Einzelfall mehr.",
+            "Dass das neue Projekt ausgerechnet für Metas Brille entsteht, zeigt, wohin die Reise geht: weg von großen VR-Spielen, hin zu kleinen Mixed-Reality-Anwendungen. Ob das reicht, um ein Studio dieser Größe zu tragen, bezweifle ich."
+          ],
+          "sources": [
+            {
+              "name": "Road to VR",
+              "url": "https://roadtovr.com/schell-games-vr-layoffs-50-staff-2026/"
+            },
+            {
+              "name": "UploadVR",
+              "url": "https://www.uploadvr.com/schell-games-lays-off-large-portion-of-staff/"
+            }
+          ],
+          "image": {
+            "url": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/10/schell-games-offices.jpg",
+            "alt": "Die Büros von Schell Games",
+            "credit": "UploadVR",
+            "license": "Artikelbild UploadVR",
+            "source": "https://www.uploadvr.com/schell-games-lays-off-large-portion-of-staff/"
+          }
+        },
+        {
+          "title": "Bericht: Bend Studios nächstes Spiel kommt 2027",
+          "lead": "Das Days-Gone-Studio soll sein neues Spiel im nächsten Jahr nicht nur zeigen, sondern auch veröffentlichen. Eine Fortsetzung von Days Gone ist es laut dem Bericht nicht.",
+          "body": [
+            "Laut MP1st, das sich auf mit dem Projekt vertraute Quellen beruft, wird Sonys Bend Studio sein nächstes Spiel 2027 enthüllen und im selben Jahr auch veröffentlichen. Die Entwicklung sei „viel weiter fortgeschritten“, als manche erwarteten. VGC hat den Bericht aufgegriffen, bestätigt ist er nicht.",
+            "Demnach handelt es sich nicht um eine Fortsetzung von Days Gone. Das neue Spiel soll ein Koop-Spiel aus der Third-Person-Perspektive sein, aber kein Live-Service-Titel.",
+            "Bend hat schwierige Jahre hinter sich. Anfang 2025 strich Sony Berichten zufolge ein Live-Service-Spiel des Studios, ebenso eines bei Bluepoint Games. Später im Jahr meldete Bloomberg, dass Bend fast ein Drittel seiner Belegschaft abgebaut habe.",
+            "Days Gone von 2019 ist bis heute das jüngste Spiel des Studios. Es bekam gemischte Kritiken (Metacritic 71), hat aber eine treue Fangemeinde. Sony hatte 2021 bestätigt, dass Bend an einer neuen Marke arbeite, die auf den Open-World-Systemen von Days Gone aufbaue."
+          ],
+          "highlight": "Das neue Spiel soll ein Koop-Spiel aus der Third-Person-Perspektive sein, aber kein Live-Service-Titel.",
+          "assessment": [
+            "Wenn der Bericht stimmt, wären das acht Jahre zwischen zwei Bend-Spielen, mit einem gestrichenen Projekt und einem Drittel weniger Personal dazwischen. Dass das Studio überhaupt noch etwas veröffentlicht, ist unter diesen Umständen schon eine kleine Nachricht.",
+            "Interessant ist das „kein Live-Service“. Sony scheint aus den teuren Fehlschlägen der letzten Jahre gelernt zu haben. Ein Koop-Spiel mit festem Umfang klingt vernünftiger als der nächste Versuch, ein Dauerprodukt zu bauen."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/days-gone-developer-bend-studios-next-game-will-be-revealed-and-released-next-year-report-claims/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2019/04/meet-the-zombies-aka-freakers-e1556547696829.jpg",
+            "alt": "Eine Horde Freaker aus dem Spiel Days Gone",
+            "credit": "Sony Interactive Entertainment / VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/days-gone-developer-bend-studios-next-game-will-be-revealed-and-released-next-year-report-claims/"
+          }
+        },
+        {
+          "title": "Thief: The Dark Project Remastered erscheint am 3. Dezember",
+          "lead": "Nightdive und Eidos-Montréal bringen den Schleichspiel-Klassiker von 1998 für alle aktuellen Plattformen neu heraus, Vorbestellungen laufen.",
+          "body": [
+            "Atari hat den Termin für „Thief: The Dark Project Remastered“ bekannt gegeben: Das Spiel erscheint am 3. Dezember für PS5, Xbox Series, Switch 2, PS4, Switch und PC (Steam, Epic Games Store und GOG). Entwickelt wird es von Nightdive Studios gemeinsam mit Eidos-Montréal. Für PS5 und Switch 2 gibt es auch eine Disc-Fassung über Clear River Games.",
+            "Die Standardausgabe kostet 29,99 Euro, die Digital Deluxe Edition 34,99 Euro. Sie enthält zusätzlich ein Artbook zum Remaster, den Soundtrack und eine Leseprobe eines Romans zu „Thief: The Dark Project“.",
+            "Das Original stammt von Looking Glass Studios aus dem Jahr 1998. Das Remaster basiert auf Nightdives KEX Engine und bringt überarbeitete Texturen, Modelle und Animationen sowie kleine Korrekturen am Leveldesign. Enthalten sind die zwölf ursprünglichen Missionen und die drei Zusatzmissionen aus „Thief: Gold“ von 1999 mit fünf neuen Gegnertypen.",
+            "Technisch unterstützt das Spiel bis zu 4K bei 120 Bildern pro Sekunde. Dazu kommen moderne Controllersteuerung mit Waffenrad, Vibration und Gyro, eine Missionsauswahl zum Wiederholen, eingebaute Unterstützung für eigene Kampagnen, drei Schwierigkeitsgrade mit jeweils anderen Zielen sowie ein Archiv mit Material hinter den Kulissen."
+          ],
+          "highlight": "Enthalten sind die zwölf ursprünglichen Missionen und die drei Zusatzmissionen aus „Thief: Gold“ von 1999 mit fünf neuen Gegnertypen.",
+          "assessment": [
+            "Nightdive ist für solche Klassiker die beste Adresse, das haben die Remaster von „System Shock 2“, „Quake“ und „Turok“ gezeigt. Dass Garrett jetzt mit Gyrosteuerung auf der Switch 2 durch dunkle Gänge schleicht, hätte sich 1998 niemand vorstellen können.",
+            "Wichtig ist vor allem die Unterstützung für eigene Kampagnen. Die Thief-Fanszene baut seit Jahrzehnten neue Missionen, und wenn die im Remaster laufen, ist das mehr wert als jede neue Textur."
+          ],
+          "sources": [
+            {
+              "name": "Gematsu",
+              "url": "https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3"
+            }
+          ],
+          "image": {
+            "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Thief-Remaster-Date_11-02-26.jpg",
+            "alt": "Meisterdieb Garrett im Werbebild zu „Thief: The Dark Project Remastered“",
+            "credit": "Atari / Gematsu",
+            "license": "Artikelbild Gematsu",
+            "source": "https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Disney bereitet die größte Entlassungsrunde des Jahres vor",
+          "lead": "Disney will offenbar erneut Tausende Stellen streichen, diesmal auch in den Fernsehsendern und im Filmstudio. Manche Abteilungen sollen bis zu 20 Prozent ihrer jährlichen Kosten einsparen.",
+          "body": [
+            "Die Walt Disney Company plant nach Berichten von Bloomberg, Deadline und Variety eine weitere große Entlassungswelle. Betroffen sein sollen mehrere Sparten, darunter die Fernsehsender und das Filmstudio, und zwar in unterschiedlichem Umfang. Wie vor solchen Schritten üblich, haben die Leiter der betroffenen Teams Sparziele bekommen. Einige sollen laut Deadline bis zu 20 Prozent ihrer jährlichen Kosten einsparen. Disney wollte sich nicht äußern, der genaue Zeitpunkt ist offen.",
+            "Es wäre die vierte Runde von Stellenstreichungen im Jahr 2026 unter dem neuen Konzernchef Josh D’Amaro und nach Bloomberg die mit den meisten Betroffenen. D’Amaro hatte am 18. März die Nachfolge von Bob Iger angetreten. Im April fielen rund 1.000 Stellen weg, vor allem durch eine neu zusammengelegte Marketingabteilung. Im Juli folgten mehrere Hundert, unter anderem bei Pixar, ESPN, Disney Entertainment Television und National Geographic. Ende September traf es einige Hundert Beschäftigte aus Personalwesen und IT, vergangene Woche 100 bis 200 Mitarbeiter der Sparte Experiences, die meisten davon bei Imagineering in Glendale.",
+            "Im August hatte Disney langjährigen Führungskräften ab 50 Jahren mit mindestens zehn Jahren im Unternehmen ein freiwilliges Vorruhestandsangebot gemacht. Laut Deadline haben mehr Manager zugegriffen als erwartet. Das Angebot galt intern von Anfang an als Vorstufe zu Entlassungen. Personalchefin Sonia Coleman schrieb damals, unfreiwillige Kündigungen hätten in einigen Bereichen bereits begonnen und würden „bis ins nächste Jahr“ weitergehen. Das Wall Street Journal berichtete zudem im Oktober über einen Umbau der Fernsehsparte, bei dem Hunderte Stellen wegfallen und Abteilungen zusammengelegt werden sollen.",
+            "D’Amaro will einen Teil der Einsparungen nach Bloomberg wieder in Film- und Fernsehprogramm, Technik, Themenparks und Kreuzfahrten stecken. Kreativchefin Dana Walden verteidigte die ständigen Kürzungen im Oktober mit dem Druck durch die Tech-Konkurrenz: „Die Technologie hat unser Geschäft ins Visier genommen, und wir müssen überleben, bestehen und wachsen.“ Disney beschäftigte zum Ende des letzten Geschäftsjahres gut 230.000 Menschen weltweit. Am 17. November legt der Konzern seine Zahlen für das vierte Geschäftsquartal vor.",
+            "Disney ist nicht allein. Netflix hat im Oktober rund 1.000 Stellen gestrichen, und bei Skydance, dem Konzern aus Paramount und Warner Bros. Discovery, werden laut Variety bis Jahresende ebenfalls größere Entlassungen erwartet."
+          ],
+          "highlight": "Einige sollen laut Deadline bis zu 20 Prozent ihrer jährlichen Kosten einsparen.",
+          "assessment": [
+            "Vier Kürzungsrunden in einem Jahr sind keine Restrukturierung mehr, das ist ein Dauerzustand. D’Amaro kommt aus dem Parkgeschäft, und man merkt, wo sein Herz schlägt: Gespart wird bei Studio und Sendern, investiert in Parks und Schiffe.",
+            "Dass ausgerechnet das Filmstudio jetzt betroffen ist, sollte zu denken geben. Disney lebt von seinen Marken, und die entstehen nicht in Excel-Tabellen. Wer bei den Leuten spart, die Filme machen, spart am Ende an den Filmen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/tv/news/disney-layoffs-thousands-expected-1236938144/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2023/09/GettyImages-1530263483.jpg?w=1024",
+            "alt": "Eingangstor der Walt Disney Studios in Burbank mit dem Schriftzug „The Walt Disney Co.“",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/"
+          }
+        },
+        {
+          "title": "Neu: Godzilla Minus Zero startet in Japan, Kritiker sind begeistert",
+          "lead": "Takashi Yamazakis Fortsetzung des Oscar-Gewinners „Godzilla Minus One“ kommt heute, am Godzilla-Tag, in die japanischen Kinos. In Nordamerika folgt sie schon am Freitag.",
+          "body": [
+            "Toho bringt „Godzilla Minus Zero“ am heutigen Dienstag, 3. November, in Japan in die Kinos. Das Datum ist gewählt: Am 3. November 1954 lief der erste „Godzilla“ an, in Japan ist der Tag als Godzilla-Tag bekannt. Der Verleih GKIDS startet den Film am Freitag, 6. November, landesweit in Nordamerika. Laut GKIDS ist es das erste Mal, dass ein in Japan produzierter Godzilla-Film in Japan und Nordamerika fast gleichzeitig anläuft. Termine für weitere Länder wollte der Verleih später nennen.",
+            "Regie, Drehbuch und Effektaufsicht liegen wieder bei Takashi Yamazaki. Sein „Godzilla Minus One“ hatte 2023 weltweit über 116 Millionen Dollar eingespielt und den Oscar für die besten visuellen Effekte gewonnen. Die Fortsetzung spielt 1949, zwei Jahre nach dem ersten Teil. Ryunosuke Kamiki ist wieder der frühere Kamikazepilot Kōichi Shikishima, Minami Hamabe seine Frau Noriko. Gegner ist zunächst nicht Godzilla, sondern der dreiköpfige King Ghidorah, der mit einem Meteoriten in den japanischen Bergen niedergeht und Matsumoto angreift.",
+            "Der Kritiker von IndieWire hat den Film beim New York Film Festival gesehen und hält ihn in fast jeder Hinsicht für besser als den Vorgänger. Er nennt ihn „thematisch geschlossener und emotional bewegender“. Neu ist, dass die amerikanische Besatzungsmacht diesmal auftaucht, als Einheit machthungriger Soldaten, die in den Monstern eher eine Chance als eine Bedrohung sehen. Die Figuren würden von Opfern zu Überlebenden, die sich zwischen Trauer und Neuanfang, Rache und Frieden entscheiden müssen.",
+            "Es gibt nur zwei lange Monsterszenen, aber die gehören laut IndieWire zu den packendsten ihrer Art. Die Luftschlacht über Matsumoto, getragen von Naoki Satōs Musik, sei mitreißend, die Effekte deutlich besser als die etwas schwerelosen Computerbilder des ersten Teils. Das Finale zwischen Ghidorah und Godzilla bringt der Reihe ihre erste Altersfreigabe „R“ in den USA ein. Kritisiert wird nur, dass es durch graue Atmosphäre und ein paar fehlende Momente etwas leide.",
+            "Der Film wirke wie der Mittelteil einer Trilogie, heißt es in der Kritik. Ein endgültiges Ende biete er nicht."
+          ],
+          "highlight": "Der Kritiker von IndieWire hat den Film beim New York Film Festival gesehen und hält ihn in fast jeder Hinsicht für besser als den Vorgänger.",
+          "assessment": [
+            "„Minus One“ war die schönste Überraschung des Kinojahres 2023: ein Monsterfilm mit kleinem Budget und großem Herz, der Hollywood vorgeführt hat, wie man Effekte und Gefühl verbindet. Dass Yamazaki nun die Amerikaner ins Bild holt, ist mutig und überfällig, denn das Fehlen der Besatzer war die größte Schwäche des ersten Teils.",
+            "Der fast gleichzeitige Start in Japan und den USA zeigt, wie sehr Toho inzwischen auf den Weltmarkt schielt. Für deutsche Fans bleibt die Frage nach dem Starttermin. Hoffentlich nicht wieder nur ein paar Tage im Kino und dann ab zum Streamer."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
+            },
+            {
+              "name": "GKIDS",
+              "url": "https://gkids.com/?p=5400"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-07-09-100054.webp?w=650",
+            "alt": "Szene aus „Godzilla Minus Zero“",
+            "credit": "IndieWire",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/"
+          }
+        },
+        {
+          "title": "Joel Coen dreht Gothic-Krimi „Jack of Spades“ für Netflix, mit Kinostart 2027",
+          "lead": "Joel Coen kehrt zu Netflix zurück. Sein neuer Film mit Josh O’Connor, Lesley Manville und Damian Lewis kommt im Herbst 2027 zuerst ins Kino.",
+          "body": [
+            "Joel Coens nächster Film heißt „Jack of Spades“ und erscheint bei Netflix. Der Streamer will ihn im Herbst 2027 zuerst in die Kinos bringen, bevor er auf der Plattform startet. Coen führt wie bei „The Tragedy of Macbeth“ (2021, A24) allein Regie. Das Drehbuch hat er aber wieder mit seinem Bruder Ethan geschrieben, dazu mit der Schriftstellerin Eleanor Catton und dem Dramatiker Conor McPherson.",
+            "Vorlage ist Frances Frederica Montrésors Roman „The Alien: A Story of Middle Age“ von 1901. Die offizielle Inhaltsangabe spricht von einem „finsteren Gothic-Krimi voller Intrigen und Verrat in den stimmungsvollen schottischen Highlands“. Der Roman erzählt von Esther Mordaunt, einer Frau Mitte dreißig, und ihrer Beziehung zu Jasper, einem Reisenden mit bewegter Vergangenheit.",
+            "Die Hauptrollen spielen Patsy Ferran, Josh O’Connor, Damian Lewis und Lesley Manville. Hinter der Kamera arbeitet Coen wieder mit dem Kameramann Bruno Delbonnel („Inside Llewyn Davis“) und dem langjährigen Coen-Komponisten Carter Burwell („Fargo“). Zu den Produzenten gehört Frances McDormand.",
+            "Für Coen ist es die Rückkehr zu Netflix. Dort erschien 2018 der letzte gemeinsame Film der Brüder, der Western-Episodenfilm „The Ballad of Buster Scruggs“."
+          ],
+          "highlight": "Der Streamer will ihn im Herbst 2027 zuerst in die Kinos bringen, bevor er auf der Plattform startet.",
+          "assessment": [
+            "Das ist die schönste Personalie des Tages: Die Coens schreiben wieder zusammen, und mit Catton und McPherson sitzen zwei Autoren mit am Tisch, die Atmosphäre und Abgründe beherrschen. Ein Gothic-Stoff in den Highlands, gedreht von Delbonnel, das klingt nach dem Schwarzweiß-Ernst von „Macbeth“, hoffentlich mit etwas mehr Humor.",
+            "Josh O’Connor ist gerade der Schauspieler, den alle guten Regisseure wollen. Dass Netflix einen Kinostart verspricht, ist erfreulich, aber man wird abwarten müssen, ob das mehr als die übliche Pflichtrunde für Preisverleihungen wird."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/netflix-joel-coen-jack-of-spades-theatrical-release-2027-1235225019/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300603366.jpg?w=650",
+            "alt": "Porträt von Regisseur Joel Coen mit Brille vor dunklem Hintergrund",
+            "credit": "Stephane Cardinale - Corbis/Corbis via Getty Images",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/netflix-joel-coen-jack-of-spades-theatrical-release-2027-1235225019/"
+          }
+        },
+        {
+          "title": "Meta macht den neuen Hunger-Games-Film zum 3D-Film",
+          "lead": "„The Hunger Games: Sunrise on the Reaping“ läuft ab 20. November auch in 3D. Die Umwandlung hat Meta bezahlt, das den Film später auf seiner neuen VR-Brille zeigen will.",
+          "body": [
+            "Lionsgate bringt „The Hunger Games: Sunrise on the Reaping“ am 20. November auch in 3D in die Kinos. Ungewöhnlich ist der Partner: Meta hat die 3D-Umwandlung zusammen mit dem Effektstudio DNEG und dessen 3D-Abteilung Stereo umgesetzt, Regisseur Francis Lawrence hat daran mitgearbeitet. Es ist laut IndieWire das erste Mal, dass Meta mit einem Hollywood-Studio so zusammenarbeitet. Weitere Lionsgate-Filme sollen folgen, Titel werden später genannt.",
+            "Später soll der Film auch auf Metas VR-Brille laufen, die im Frühjahr 2027 in den Handel kommt. IndieWire konnte sie bereits ausprobieren und beschreibt sie als leichter und unauffälliger als bisherige Headsets, eher wie eine etwas größere Sonnenbrille. In der Vorführung liefen Ausschnitte aus einem Billie-Eilish-Konzertfilm, bei dem James Cameron Ko-Regie geführt hat, und aus „Avengers: Endgame“.",
+            "Lawrence sagte, man habe den Film von Anfang an „körperlich und immersiv“ machen wollen, um das Publikum tief in Haymitchs Erleben hineinzuziehen. 3D sei dafür ein weiteres Werkzeug. Sarah Malkin, Unterhaltungschefin von Metas Reality Labs, nannte Lionsgate einen idealen Partner wegen der „künstlerischen Stärke und weltweiten Anziehungskraft“ seiner Reihen.",
+            "„Sunrise on the Reaping“ ist der sechste Film der Reihe und das zweite Prequel nach „The Ballad of Songbirds and Snakes“ (2023), der weltweit 363 Millionen Dollar einspielte. Joseph Zada spielt den jungen Haymitch Abernathy, den in den früheren Filmen Woody Harrelson verkörpert hat. Dazu kommen McKenna Grace, Ralph Fiennes als Präsident Snow, Jesse Plemons, Glenn Close, Kieran Culkin, Elle Fanning, Maya Hawke und Kelvin Harrison Jr."
+          ],
+          "highlight": "Es ist laut IndieWire das erste Mal, dass Meta mit einem Hollywood-Studio so zusammenarbeitet.",
+          "assessment": [
+            "Hier geht es nicht um 3D, sondern um Brillen. Meta braucht für seine VR-Hardware Inhalte, die Leute wirklich sehen wollen, und kauft sich dafür in einen der größten Filme des Herbstes ein. Für Lionsgate ist das bequemes Geld für eine Umwandlung, die man sonst selbst hätte bezahlen müssen.",
+            "Ob jemand einen zweieinhalbstündigen Film mit einer Brille auf der Nase schaut, ist eine andere Frage. Bisher ist noch jede Welle von Heimkino-3D wieder abgeebbt."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
+            "alt": "Szene aus „The Hunger Games: Sunrise on the Reaping“",
+            "credit": "IndieWire",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/"
+          }
+        },
+        {
+          "title": "Reznor und Ross vertonen Finchers „Cliff Booth“",
+          "lead": "Trent Reznor und Atticus Ross schreiben zum sechsten Mal die Musik für einen Film von David Fincher. Das verrät das neue Plakat zum Tarantino-Ableger mit Brad Pitt.",
+          "body": [
+            "Die Musik zu David Finchers „The Further Mis-Adventures of Cliff Booth“ stammt von Trent Reznor und Atticus Ross. Bekannt wurde das über das Filmplakat. Es ist die sechste Zusammenarbeit der beiden Nine-Inch-Nails-Musiker mit Fincher.",
+            "Angefangen hat es 2010 mit „The Social Network“, für den sie den Oscar und den Golden Globe für die beste Filmmusik gewannen. Danach vertonten sie jeden Fincher-Film: „Verblendung“ (2011), „Gone Girl“ (2014), „Mank“ (2020) und „The Killer“ (2023). Für „Verblendung“ gab es 2013 einen Grammy. Außerhalb von Finchers Filmen schrieben sie unter anderem die Musik zu „Soul“, „Challengers“ und „Queer“.",
+            "„Cliff Booth“ ist ein Ableger von Quentin Tarantinos „Once Upon a Time in Hollywood“ (2019). Tarantino hat das Drehbuch geschrieben, Brad Pitt spielt wieder den Stuntman Cliff Booth, acht Jahre nach den Ereignissen des ersten Films. Dazu kommen Elizabeth Debicki, Scott Caan, Carla Gugino, Timothy Olyphant und Yahya Abdul-Mateen II.",
+            "Der Film läuft ab 25. November zwei Wochen lang ausschließlich in IMAX-Kinos und ist ab 23. Dezember bei Netflix zu sehen. Wie in der Ausgabe vom 31. Oktober berichtet, wollen die US-Ketten Regal und Cinemark ihre IMAX-Säle dafür nicht hergeben."
+          ],
+          "highlight": "Es ist die sechste Zusammenarbeit der beiden Nine-Inch-Nails-Musiker mit Fincher.",
+          "assessment": [
+            "Keine Überraschung, aber eine gute Nachricht. Reznor und Ross haben Finchers Filmen seit „The Social Network“ ihren kalten, pulsierenden Klang gegeben. Spannend wird, wie das zu einer Tarantino-Welt passt, die bisher von alten Popsongs aus dem Radio lebte.",
+            "Gerade dieser Bruch könnte den Film interessant machen: Fincher ist kein Nostalgiker, und die Musik deutet an, dass „Cliff Booth“ eher nach Fincher als nach Tarantino klingen wird."
+          ],
+          "sources": [
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/"
+            }
+          ],
+          "image": {
+            "url": "https://variety.com/wp-content/uploads/2024/11/GF1_0037.jpg?w=1000&h=563&crop=1",
+            "alt": "Trent Reznor und Atticus Ross bei der Premiere von „Queer“",
+            "credit": "Variety",
+            "license": "Artikelbild Variety",
+            "source": "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Inka-Opferkinder: Haaranalysen zeigen Koka bei allen, Alkohol bei manchen, Harmin bei Juanita",
+          "lead": "Ein Team um die Warschauer Archäologin Dagmara Socha hat Haare und Nägel von acht Inka-Mumien aus Peru und Argentinien auf psychoaktive Stoffe untersucht. Das Ergebnis: Das Opferritual Capacocha lief offenbar nicht überall gleich ab.",
+          "body": [
+            "Die Studie ist in der Fachzeitschrift „Antiquity“ erschienen. Untersucht wurden Haar- und Nagelproben von natürlich gefriergetrockneten Mumien, die in Bergheiligtümern in großer Höhe in Peru und Argentinien gefunden worden waren. Die Kinder und jungen Frauen wurden vor etwa 500 Jahren bei der Capacocha geopfert, einer der wichtigsten religiösen Zeremonien der Inka. Die Opfer wurden an heiligen Orten wie Berggipfeln dargebracht, oft nach langen Reisen aus verschiedenen Teilen des Reiches.",
+            "Historische Berichte erwähnen, dass bei diesen Zeremonien berauschende Mittel im Spiel waren. Bisherige Untersuchungen hätten aber entweder nichts gefunden oder sich vor allem auf Kokablätter konzentriert, sagt Hauptautorin Dagmara Socha von der Universität Warschau. Mit verfeinerten toxikologischen Verfahren hat das Team nun nach einem breiteren Spektrum von Substanzen gesucht. Haare und Nägel speichern chemische Spuren von dem, was ein Mensch zu Lebzeiten zu sich genommen hat, auch wenn das übrige Gewebe längst zerfallen ist.",
+            "In allen acht Mumien fand sich Kokain, alle hatten also Kokablätter gekaut. Koka hatte in den Anden religiöse Bedeutung, dämpft aber auch Hunger und Müdigkeit und hilft bei Anstrengung in großer Höhe, was auf dem Weg zu den Heiligtümern in mehreren tausend Metern Höhe wichtig gewesen sein dürfte. Bei vier der acht Mumien wiesen die Forschenden zusätzlich Alkohol nach, vermutlich in Form von Chicha, einem vergorenen Maisgetränk, das laut historischen Quellen in der Endphase des Rituals gereicht wurde.",
+            "Der auffälligste Befund betrifft die berühmte „Dame von Ampato“, auch Juanita genannt, die 1995 auf dem Vulkan Ampato im Süden Perus entdeckt wurde. In ihren Proben fand das Team Harmin, ein Alkaloid aus Lianen der Gattung Banisteriopsis, die auch für Ayahuasca verwendet werden. Das heißt nicht, dass Juanita Ayahuasca in der heutigen Form getrunken hat. Die Forschenden vermuten eher ein harminhaltiges Getränk, das eine besondere Rolle in den Zeremonien an genau diesem Berg spielte. Schon 2022 hatte Sochas Team Harmin und Harmalin bei zwei anderen Kindern vom Ampato nachgewiesen.",
+            "Aus den Unterschieden zieht das Team einen weitergehenden Schluss. „Was wir sehen, ist, dass die Capacocha kein einheitliches, standardisiertes Ritual war“, sagt Socha. Die Inka hätten es offenbar an verschiedene Kulte und örtliche religiöse Traditionen angepasst. Koka war demnach überall dabei, Alkohol und andere Substanzen wurden gezielter eingesetzt, womöglich abhängig vom jeweiligen heiligen Berg oder der verehrten Gottheit."
+          ],
+          "highlight": "In allen acht Mumien fand sich Kokain, alle hatten also Kokablätter gekaut.",
+          "assessment": [
+            "Die eigentliche Nachricht steckt nicht in der Drogenliste, sondern in der These, dass ein Staatsritual des Inkareichs regional angepasst wurde. Das passt zu dem, was man über die Inka als Imperium weiß: Sie haben lokale Heiligtümer und Kulte eher eingebunden als ersetzt. Dass sich das jetzt chemisch in den Haaren von Kindern ablesen lässt, ist beeindruckend und bedrückend zugleich.",
+            "Acht Individuen sind allerdings eine kleine Grundlage für so eine weitreichende Aussage, und Alkohol, der kurz vor dem Tod getrunken wurde, lässt sich im Haar kaum nachweisen. Ich würde das Ergebnis deshalb als starke Spur lesen, nicht als fertigen Beweis."
+          ],
+          "sources": [
+            {
+              "name": "HeritageDaily",
+              "url": "https://www.heritagedaily.com/2026/11/analysis-of-inca-mummies-reveals-drugs-used-in-child-sacrifice-rituals/159879"
+            },
+            {
+              "name": "Antiquity (Studie)",
+              "url": "https://doi.org/10.15184/aqy.2026.10439"
+            },
+            {
+              "name": "Science News (Vorstudie 2022)",
+              "url": "https://www.sciencenews.org/article/inca-children-sacrifice-ayahuasca-chemical"
+            }
+          ],
+          "image": {
+            "url": "https://www.heritagedaily.com/wp-content/uploads/2026/11/pr1.jpg",
+            "alt": "Steinerne Inka-Anlage auf einem verschneiten Andengipfel, im Hintergrund weitere Vulkane",
+            "credit": "J. Reinhard",
+            "license": "Artikelbild HeritageDaily",
+            "source": "https://www.heritagedaily.com/2026/11/analysis-of-inca-mummies-reveals-drugs-used-in-child-sacrifice-rituals/159879"
+          }
+        },
+        {
+          "title": "Westminster Abbey: Im römischen Sarkophag lag wohl ein angelsächsischer Abt",
+          "lead": "Der Steinsarg trägt den Namen eines Römers, doch der Mann darin starb rund 600 Jahre später. Der Archäologe Warwick Rodwell hält einen frühen Abt von Westminster für den wahrscheinlichsten Kandidaten.",
+          "body": [
+            "Der Kalksteinsarkophag stammt aus der Römerzeit, etwa aus dem 4. Jahrhundert. Eine dreizeilige lateinische Inschrift widmet ihn „dem Andenken an Valerius Amandinus“, vermutlich ein angesehener Bewohner Londons, über den sonst nichts bekannt ist. Auf dem Deckel ist jedoch ein 1,80 Meter langes Kreuz im spätangelsächsischen Stil eingemeißelt, das mindestens 600 Jahre nach dem Sarg entstanden sein dürfte. Das weckte schon lange Zweifel, wer wirklich darin liegt.",
+            "Die Geschichte des Fundes ist wechselhaft. Arbeiter stießen 1820 auf den Sarg, zerbrachen den Deckel in sechs Teile und beschädigten den Schädel. Danach wurde er ohne Dokumentation wieder vergraben, 1869 bei Umbauarbeiten erneut gefunden und vom North Green in den östlichen Kreuzgang gebracht. Charles Dickens Jr., der älteste Sohn des Schriftstellers, beschrieb ihn 1879. Als der Sarg 2016 für die neuen Galerien der Abtei restauriert werden sollte, nutzte Rodwell, beratender Archäologe der Abtei, die Gelegenheit zur Untersuchung. Seine Ergebnisse hat er am 20. Oktober im „Journal of the British Archaeological Association“ veröffentlicht.",
+            "Das Skelett ist zu etwa 90 Prozent erhalten. Es gehört einem Mann, der mit 35 bis 49 Jahren starb, laut Radiokarbondatierung zwischen 987 und 1052. Er hatte gute Zähne, verheilte Brüche, Arthrose und Gicht, aber keine erkennbare tödliche Verletzung oder Krankheit. Eine rechteckige Kalkschicht zeigt, dass der Tote zunächst in einem mit Kalk gefüllten Holzsarg lag, der dann in den Steinsarg gestellt wurde. Solche Kalkbestattungen waren im Mittelalter selten und meist hochrangigen Personen vorbehalten.",
+            "Rodwell schließt daraus auf einen Mönch oder Abt von Westminster. Zeitlich passen zwei Äbte: Ælfwig, Abt von 993 bis etwa 1020, und Wulfnoth, der 1020 folgte. Rodwell hält Ælfwig für wahrscheinlicher, weil er schon vor seiner Wahl Mönch in Westminster war. „Kein einzelner Hinweis hat die Sache entschieden“, räumt er ein.",
+            "Warum ein gebrauchter heidnischer Sarg? Steinsärge wurden in spätangelsächsischer Zeit kaum noch hergestellt, ein alter war deshalb nach Rodwells Worten eine „Trophäe“. Es gibt Parallelen: Im 7. Jahrhundert sollen Mönche aus Ely für ihre Äbtissin Æthelthryth einen Steinsarg aus einem römischen Friedhof in Cambridge geholt haben. Der Mittelalterarchäologe Simon Roffey von der Universität Winchester, der nicht an der Studie beteiligt war, verweist auf einen Sarkophag aus dem 4. Jahrhundert in den Vatikanischen Museen, der Helena, der Mutter Konstantins, zugeschrieben wird."
+          ],
+          "highlight": "Es gehört einem Mann, der mit 35 bis 49 Jahren starb, laut Radiokarbondatierung zwischen 987 und 1052.",
+          "assessment": [
+            "Eine schöne Detektivgeschichte, und Rodwell ist ehrlich genug zu sagen, dass sie auf Indizien beruht. Datierung, Kalkbestattung und Ort ergeben zusammen ein plausibles Bild, einen Namen auf dem Knochen gibt es aber nicht. Ælfwig ist eine gute Wette, mehr nicht.",
+            "Interessanter finde ich fast die Frage dahinter: Christliche Mönche legten ihren Abt in den Sarg eines Römers und ritzten ein Kreuz darauf. Recycling mit Prestige-Effekt, das ist sehr mittelalterlich und sehr menschlich."
+          ],
+          "sources": [
+            {
+              "name": "CNN (via KEYT)",
+              "url": "https://keyt.com/news/national-world/cnn-other/2026/11/02/a-mystery-skeleton-found-in-a-roman-sarcophagus-at-westminster-abbey-may-finally-have-an-identity/"
+            },
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/case-of-mysterious-medieval-skeleton-buried-in-roman-era-sarcophagus-at-westminster-abbey-finally-solved"
+            }
+          ],
+          "image": {
+            "url": "https://keyt.com/wp-content/uploads/2026/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZ2ZHZ4M2IwMDA2MmE2a3FleDAzbWxt-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdnRxYW14MjAwMXoyN3FpaG83eGcxNDU-860x573.jpg",
+            "alt": "Römischer Steinsarkophag mit lateinischer Inschrift vor zwei gotischen Rundfenstern in der Westminster Abbey",
+            "credit": "CNN",
+            "license": "Artikelbild CNN",
+            "source": "https://keyt.com/news/national-world/cnn-other/2026/11/02/a-mystery-skeleton-found-in-a-roman-sarcophagus-at-westminster-abbey-may-finally-have-an-identity/"
+          }
+        },
+        {
+          "title": "Buto: Satellitenradar findet 2600 Jahre alten Bau auf einem Sandpolster",
+          "lead": "Unter einem Siedlungshügel im Nildelta haben ägyptische Forschende einen großen Lehmziegelbau aus der Saitenzeit aufgespürt, ohne zunächst zu graben. Darunter liegt eine künstliche Sandschicht, die den Bau gegen den nassen Tonboden schützte.",
+          "body": [
+            "Buto, heute Tell el-Fara'in, war eines der wichtigsten religiösen Zentren Unterägyptens und Sitz der Kobragöttin Wadjet. Die Stadt war vom 4. Jahrtausend vor Christus bis in römische Zeit besiedelt, entsprechend dick sind die Schichten. Am Hügel Kom C waren frühere Grabungen nur bis in die ptolemäischen und römischen Lagen gekommen, dann stießen sie auf Grundwasser und durchnässten Deltaton.",
+            "Das Team um den Fernerkundungsforscher Abdelaziz Elfadaly von Ägyptens Nationaler Behörde für Fernerkundung und Weltraumwissenschaften wertete deshalb Radarbilder des ESA-Satelliten Sentinel-1 aus. Sie zeigten unter Kom C eine ovale Anomalie von etwa 128 mal 62 Metern. Anschließend legten die Forschenden 15 parallele Messlinien für elektrische Widerstandstomografie über rund 5400 Quadratmeter. Die Studie erschien bereits im März in der Fachzeitschrift „Acta Geophysica“, Live Science und HeritageDaily haben sie jetzt bekannt gemacht.",
+            "In den oberen drei Metern fanden sich verstreute Ziegel, Scherben und Kalksteinbrocken aus ptolemäischer und römischer Zeit. Zwischen drei und sechs Metern Tiefe zeichnet sich massive Lehmziegelarchitektur der 26. Dynastie ab, der Saitenzeit von etwa 688 bis 525 vor Christus, darunter ein rechteckiger Bau von rund 20 mal 25 Metern mit einer Umfassung. Es könnte sich um ein Grab, ein Heiligtum oder ein Priesterhaus handeln.",
+            "In sechs bis sieben Metern Tiefe liegt eine dicke Schicht sauberen Sandes. Bohrungen zeigen, dass natürlicher Sand in Buto erst deutlich tiefer ansteht, die Schicht wurde also absichtlich eingebracht. Sie verteilte das Gewicht des Baus, ließ Wasser abfließen und verhinderte, dass Grundwasser in die Lehmziegel aufstieg. Elfadaly sagt, dieser Fund erkläre, wie die schweren Bauten den hohen Grundwasserspiegel und den beweglichen Tonboden überstanden haben.",
+            "Eine Testgrabung von zehn mal zehn Metern bestätigte dicke Ziegelmauern ungefähr in der vorhergesagten Tiefe. Dabei kamen Uschebtis zutage, also kleine Dienerfiguren für das Jenseits, außerdem ein Kalksteinaltar mit Rinnen und Rückständen, die zu Tierblut passen, sowie eine Pavianfigur aus Fayence, ein Tier des Gottes Thot. Das Team will nun mit größerem Elektrodenabstand noch tiefere Schichten untersuchen."
+          ],
+          "highlight": "Bohrungen zeigen, dass natürlicher Sand in Buto erst deutlich tiefer ansteht, die Schicht wurde also absichtlich eingebracht.",
+          "assessment": [
+            "Das Sandpolster ist der eigentliche Fund. Dass Baumeister vor 2600 Jahren den Delta-Untergrund so genau verstanden, dass sie ein Drainagefundament anlegten, sagt mehr über die Saitenzeit als ein weiterer Mauerzug.",
+            "Methodisch ist das vorbildlich: erst vom All aus suchen, dann messen, dann gezielt ein kleines Loch graben, um die Messung zu prüfen. Gerade im Nildelta, wo Grundwasser und Bebauung jede Grabung erschweren, dürfte das Schule machen. Die Schlagzeile „aus dem Weltraum entdeckt“ ist trotzdem etwas dick, die entscheidende Arbeit leisteten die Widerstandsmessungen am Boden."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/ancient-egyptians/buried-for-2-600-years-beneath-nile-mud-a-massive-ancient-egyptian-complex-was-just-found-from-space"
+            },
+            {
+              "name": "HeritageDaily",
+              "url": "https://www.heritagedaily.com/2026/11/2600-year-old-egyptian-complex-discovered-beneath-ancient-buto/159882"
+            },
+            {
+              "name": "Acta Geophysica (Studie)",
+              "url": "https://doi.org/10.1007/s11600-026-01809-4"
+            }
+          ],
+          "image": {
+            "url": "https://www.heritagedaily.com/wp-content/uploads/2026/11/cg1.jpg",
+            "alt": "Satellitenbild des Fundorts Buto mit farbigen Messwerten und markiertem Untersuchungsfeld zwischen Feldern und Dorfhäusern",
+            "credit": "Springer Nature",
+            "license": "Artikelbild HeritageDaily",
+            "source": "https://www.heritagedaily.com/2026/11/2600-year-old-egyptian-complex-discovered-beneath-ancient-buto/159882"
+          }
+        },
+        {
+          "title": "Peking: Drei 1800 Jahre alte Flussboote, eines mit zehn Staatsstempeln",
+          "lead": "Sieben Meter unter einem alten Flussbett im Pekinger Bezirk Fengtai lagen drei hölzerne Boote aus der Han- und Jin-Zeit. Sie sind die größten Binnenschiffe dieser Epoche, die bisher in Nordchina gefunden wurden.",
+          "body": [
+            "Das Archäologische Institut der Stadt Peking hat die Boote Ende 2025 bei Bauarbeiten im Dorf Wanquansi im Bezirk Fengtai ausgegraben, öffentlich gemacht wurde der Fund im März 2026. Am 31. Oktober stellte die Forscherin Ding Lina die Ergebnisse zum Abschluss der „Beijing People's Archaeology Season“ neu vor. Die Boote lagen nebeneinander an einer Biegung des alten Yongding-Flusses und heißen nun Yongding 1, 2 und 3.",
+            "Alle drei sind flachbodig und über zehn Meter lang, das größte misst 15 Meter. Das am besten erhaltene zweite Boot ist 14 Meter lang, zehn Querverstrebungen teilen seinen Rumpf in neun Kammern. Erste Radiokarbondaten weisen in die späte Östliche Han-Dynastie und die Wei- und Jin-Zeit, also rund 1800 Jahre zurück. Laut Ding Lina verband der Yongding damals Nordchina mit der Zentralebene und war schiffbar.",
+            "Am auffälligsten sind zehn eingeschnittene Schriftzeichen „官“ (guan) an verschiedenen Holzteilen des zweiten Bootes. Das Zeichen steht für den Staat oder eine Behörde und deutet darauf hin, dass das Boot einem öffentlichen Zweck diente. Ob es direkt im Auftrag des Staates gebaut oder nur unter staatlicher Aufsicht eingesetzt wurde, ist offen. Die Funde gelten als erster direkter archäologischer Beleg für Binnenschifffahrt im Raum Peking.",
+            "Die Bootsbauer kombinierten Techniken: Die Bodenplanken sind mit Holzverbindungen und Dübeln gefügt, für obere Verbindungen nutzten sie Eisennägel. Für die Rümpfe verwendeten sie vor allem Kiefer, für manche Verbindungsteile Maulbeerholz. Die Verbindung der Bodenplanken ähnelt dem Boot „Seidenstraße Nr. 1“ aus Xi'an. Chinesische Fachleute sehen auch Ähnlichkeiten mit römischen Schiffbautechniken im Mittelmeer, einen Beleg für einen Austausch gibt es aber nicht.",
+            "Rund um die Boote fanden sich menschliche Überreste und Knochen von Pferden, Rindern, Schafen, Schweinen und Hunden. Die Boote wurden mit Stahlstützen gesichert und zur Konservierung geborgen, ihr durchnässtes Holz braucht eine Spezialbehandlung."
+          ],
+          "highlight": "Die Funde gelten als erster direkter archäologischer Beleg für Binnenschifffahrt im Raum Peking.",
+          "assessment": [
+            "Ganz neu ist der Fund nicht, er wurde schon im Frühjahr gemeldet. Die jetzt vorgestellten Details machen ihn aber erst interessant: Zehn Behördenstempel auf einem Boot sind ein seltener direkter Blick darauf, wie ein chinesischer Staat vor 1800 Jahren seinen Flusstransport organisiert hat.",
+            "Die vorsichtig angedeutete Verbindung zum römischen Schiffbau würde ich dagegen schnell wieder vergessen. Ähnliche Probleme führen oft zu ähnlichen Lösungen, und die Forschenden sagen selbst, dass es keinen Beleg für einen Austausch gibt."
+          ],
+          "sources": [
+            {
+              "name": "Arkeonews",
+              "url": "https://arkeonews.net/three-1800-year-old-wooden-boats-discovered-7-meters-beneath-beijing/"
+            }
+          ],
+          "image": {
+            "url": "https://arkeonews.net/wp-content/uploads/2026/11/Three-wooden-boats.png",
+            "alt": "Ausgegrabene flache Holzboote mit Querverstrebungen in einer tiefen, terrassierten Grabungsgrube",
+            "credit": "Arkeonews",
+            "license": "Artikelbild Arkeonews",
+            "source": "https://arkeonews.net/three-1800-year-old-wooden-boats-discovered-7-meters-beneath-beijing/"
+          }
+        },
+        {
+          "title": "Ungarn: Auf einem Schlachtfeld von 1596 liegt ein Bronzeschatz von vor 3000 Jahren",
+          "lead": "Archäologen, die bei Mezőkeresztes die Schlacht zwischen Osmanen und Habsburgern erforschen, haben einen ganz anderen Fund gemacht: eine Bronzetasse mit zwei Spiralarmreifen aus der späten Bronzezeit.",
+          "body": [
+            "Das Mezőkeresztes-Schlachtfeldprojekt untersucht seit rund zehn Jahren den Ort der Schlacht vom 22. bis 26. Oktober 1596, in der das Osmanische Reich gegen eine christliche Koalition unter Führung der Habsburger und Siebenbürgens kämpfte. Das Untersuchungsgebiet umfasst mehr als 100 Quadratkilometer, die Suchflächen werden anhand historischer Quellen ausgewählt.",
+            "Bei einer der jüngsten Begehungen schlug der Metalldetektor des ehrenamtlichen Mitarbeiters Zoltán Vágó an. Im Boden lagen drei Bronzeobjekte: eine große Tasse und zwei verzierte Spiralarmreifen. Nach Form und Verzierung stammen sie aus der späten Bronzezeit, etwa dem 13. bis 11. Jahrhundert vor Christus, und wurden damit rund 2500 Jahre vor der Schlacht vergraben.",
+            "Statt die Stücke einzeln herauszunehmen, bargen die Archäologen das gesamte Depot im Block. Es soll nun im Labor unter kontrollierten Bedingungen freigelegt werden. Bronzeobjekte in Gefäßen zu deponieren, ist aus der späten Bronzezeit bekannt, Funde mit intakter Fundlage sind aber selten. Laut den Forschenden ist es das erste vergleichbare Ensemble aus der Region Borsod, das per Mikrograbung dokumentiert wird.",
+            "Die Hoffnung ist, dass in oder an der Tasse mikroskopische organische Reste erhalten sind. Sie könnten verraten, was das Gefäß einst enthielt. Warum die Objekte vergraben wurden, ist offen: Bronzezeitliche Depots werden als versteckte Wertsachen ebenso gedeutet wie als Opfergaben. Die genaue Fundlage könnte hier den Ausschlag geben. Das Bild der Fundstelle stammt vom Ungarischen Nationalmuseum."
+          ],
+          "highlight": "Statt die Stücke einzeln herauszunehmen, bargen die Archäologen das gesamte Depot im Block.",
+          "assessment": [
+            "Ein kleiner Fund, aber ein gut behandelter. Dass das Team der Versuchung widerstanden hat, die Bronzen sofort aus der Erde zu holen, ist der eigentliche Gewinn: Wie die Reifen in der Tasse lagen, kann mehr über den Zweck des Depots verraten als die Objekte selbst.",
+            "Und es zeigt nebenbei, wofür Schlachtfeldarchäologie mit Freiwilligen und Metalldetektoren noch gut ist. Wer 100 Quadratkilometer systematisch absucht, findet eben nicht nur Musketenkugeln."
+          ],
+          "sources": [
+            {
+              "name": "HeritageDaily",
+              "url": "https://www.heritagedaily.com/2026/11/3000-year-old-bronze-age-treasure-discovered-on-hungarian-battlefield/159871"
+            }
+          ],
+          "image": {
+            "url": "https://www.heritagedaily.com/wp-content/uploads/2026/11/sno1.jpg",
+            "alt": "Runde Bronzetasse mit grün patinierten Spiralarmreifen, noch in der Erde liegend, daneben Messlatten",
+            "credit": "Magyar Nemzeti Múzeum",
+            "license": "Artikelbild HeritageDaily",
+            "source": "https://www.heritagedaily.com/2026/11/3000-year-old-bronze-age-treasure-discovered-on-hungarian-battlefield/159871"
+          }
+        }
+      ]
+    }
+  ]
+}
