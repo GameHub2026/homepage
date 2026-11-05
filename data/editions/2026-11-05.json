@@ -1,0 +1,433 @@
+{
+  "nr": 29,
+  "date": "2026-11-05",
+  "intro": "Die Zwischenwahlen in den USA prägen diese Ausgabe gleich zweimal: Die Wut über Rechenzentren hat Stimmen gekostet, und Hollywood rätselt, was der Machtwechsel im Kongress für die geplante Filmförderung bedeutet. Dazu kommen Googles Druck auf Schulen, eine verschobene God-of-War-Fortsetzung, ein Machtkampf um Arkane und ein Bootsgrab an der Nordseeküste, dessen Toter Lepra hatte und vielleicht aus dem Donauraum stammte.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Zwischenwahlen: Der Ärger über Rechenzentren wird zur politischen Kraft",
+          "lead": "Die Demokraten haben bei den US-Zwischenwahlen beide Kammern des Kongresses erobert. Die Abneigung gegen KI-Rechenzentren hat dabei messbar mitgespielt, und die Millionen der KI-Lobby haben wenig bewirkt.",
+          "body": [
+            "Seit Dienstag ist klar, dass die Demokraten ab Januar den gesamten Kongress kontrollieren, während die Republikaner das Weiße Haus halten. TechCrunch hat die Ergebnisse auf ein Thema hin ausgewertet, das in vielen Wahlkreisen eine überraschend große Rolle spielte: den Bau von Rechenzentren für KI.",
+            "Eine Nachwahlbefragung von NBC zeigt die Stimmung deutlich. Mehr als die Hälfte der Befragten glaubt, dass KI mehr schadet als nützt. Fast 80 Prozent lehnen ein Rechenzentrum in der eigenen Nachbarschaft ab, und knapp 60 Prozent gaben an, dass Rechenzentren für ihre Wahlentscheidung ein entscheidender oder wichtiger Faktor waren. Besonders sichtbar wurde das in Ohio, wo OpenAI ein Rechenzentrum für 500 Milliarden Dollar plant. Das County, in dem Meta eine Anlage mit rund 65.000 Quadratmetern bauen wollte, hat ein Verbot für Rechenzentren beschlossen, und Gemeinden im ganzen Bundesstaat stimmten gegen entsprechende Vorhaben. Auch in Texas, Maine, Michigan, Nevada, Georgia und South Carolina gewannen Kandidaten, die sich gegen den schnellen Ausbau gestellt hatten.",
+            "Die politischen Gruppen der KI-Branche haben dagegen viel Geld für wenig Ertrag ausgegeben. Die Super-PACs American Mission und Building the Future steckten zusammen 4,8 Millionen Dollar in die Senatskandidatin Darline Graham in South Carolina, die verlor. American Mission gehört zu Leading the Future, einem Netzwerk, hinter dem OpenAI-Präsident Greg Brockman und die Investmentfirma Andreessen Horowitz stehen. Auch zwei republikanische Hauskandidaten, die jeweils mit mehr als 500.000 Dollar unterstützt wurden, scheiterten. Die von Anthropic unterstützte Gruppe Public First hatte bei republikanischen Kandidaten ebenfalls wenig Glück, bei demokratischen mehr.",
+            "Leading the Future sagt selbst, dass die Vorwahlen das eigentliche Schlachtfeld seien. Dort gab die Gruppe 27,38 Millionen Dollar aus, davon allein 8 Millionen gegen den New Yorker Abgeordneten Alex Bores. Die Gegenseite, die Guardrails Alliance, hat ein klares Ziel formuliert: Geld von KI-Firmen soll politisch giftig werden. Ihr politischer Direktor Charlie Blaettler sagt, die Branche halte sich in umkämpften Rennen zurück, weil ihr Geld sonst selbst zum Wahlkampfthema werde.",
+            "Analysten von Goldman Sachs erwarten nun Verzögerungen beim Bau von Rechenzentren in Georgia und Texas. Wahrscheinlich sind mehr Baustopps auf lokaler Ebene und Auflagen, nach denen Betreiber den Netzausbau selbst bezahlen müssen. Im Kongress könnten Vorschläge wie ein bundesweites Moratorium von Bernie Sanders und Alexandria Ocasio-Cortez oder der GRID Savings Act von Senator Martin Heinrich bessere Chancen bekommen, auch wenn Präsident Trump ein Veto einlegen könnte. OpenAI reagierte noch am Mittwoch mit einem Essay seines Politikchefs Chris Lehane, der für 2028 einen „New Deal“ für das KI-Zeitalter skizziert."
+          ],
+          "highlight": "Fast 80 Prozent lehnen ein Rechenzentrum in der eigenen Nachbarschaft ab, und knapp 60 Prozent gaben an, dass Rechenzentren für ihre Wahlentscheidung ein entscheidender oder wichtiger Faktor waren.",
+          "assessment": [
+            "Das ist die eigentliche Nachricht dieser Wahl für die KI-Branche: Nicht die abstrakte Angst vor Superintelligenz bewegt Wähler, sondern die Stromrechnung und der Betonklotz am Ortsrand. Damit ist das Thema dort angekommen, wo Politik tatsächlich gemacht wird, in Kreistagen und Bauausschüssen.",
+            "Für die Branche ist das gefährlicher als jedes KI-Gesetz aus Washington. Die Modelle brauchen Rechenzentren, und wenn Genehmigungen zum Spießrutenlauf werden, verschieben sich die Zeitpläne, auf denen die gigantischen Bewertungen beruhen. Dass OpenAI ausgerechnet am Tag danach Roosevelt zitiert, zeigt, wie sehr man den Wind gedreht sieht."
+          ],
+          "sources": [
+            { "name": "TechCrunch (Rechenzentren)", "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/" },
+            { "name": "TechCrunch (KI-PACs)", "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/" },
+            { "name": "TechCrunch (OpenAI-Essay)", "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677", "alt": "Das US-Kapitol in Washington bei Nacht", "credit": "Unsplash", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/" }
+        },
+        {
+          "title": "Google stellt Schulen vor die Wahl: KI einschalten oder ohne Suche leben",
+          "lead": "Google schaltet seine KI-Werkzeuge an US-Schulen künftig standardmäßig ab. Wer sie aber ganz sperrt, verliert auch den Zugang zur Google-Suche. Politiker sprechen von Erpressung.",
+          "body": [
+            "Google hat am Dienstag angekündigt, KI-Werkzeuge für Schülerinnen und Schüler an Schulen bis zur zwölften Klasse ab dem kommenden Jahr zu deaktivieren, sofern die Schulverwaltung sie nicht ausdrücklich einschaltet. Betroffen sind Gemini, NotebookLM, Gemini in Classroom und die Google-Suche. Google begründet das mit Gesprächen mit Schulen, Lehrkräften, Forschern und Politikern.",
+            "Der Haken steckt im Detail. Chris Phillips, bei Google für Bildung zuständig, sagte der New York Times, Suche und KI seien „tief integriert“. Eine Schule, die KI komplett sperrt, sperrt damit auch die Suche: Die Schüler „werden keinen Zugang zur Suche haben“ und stattdessen einen Hinweis ihrer Schule sehen. Wer die Suche behalten will, muss also die KI-Übersichten mitnehmen.",
+            "Die Reaktionen kamen schnell, obwohl am selben Tag gewählt wurde. Senator Bernie Sanders nannte das Vorgehen auf X „Erpressung“. Senator Richard Blumenthal warf Google vor, es gehe dem Konzern mehr darum, Gemini in die Schulen zu drücken, als um den Lernerfolg. Die frühere Chefin der Wettbewerbsbehörde FTC, Lina Khan, sprach von einem unregulierten Monopolisten, der eine unverzichtbare Dienstleistung kontrolliere, und New Yorks Bürgermeister Zohran Mamdani erklärte, kein Konzern dürfe bestimmen, wie Kinder unterrichtet werden.",
+            "Google verteidigte sich: Gemini, Gemini Notebook und die Suche seien standardmäßig aus und könnten einzeln eingeschaltet werden, das gebe Schulen mehr Wahl, nicht weniger. Parallel bringt Google das Werkzeug Guided Learning an die Schulen, eine Art KI-Nachhilfe, die Schritt für Schritt zur Lösung führen soll, statt die Antwort zu liefern. Die Suchmaschine DuckDuckGo nutzte die Gelegenheit sofort und bewarb sich bei Schulen als Alternative.",
+            "Das Gewicht der Entscheidung ergibt sich aus Googles Stellung im Klassenzimmer. Millionen Schüler arbeiten mit Chromebooks und Googles Bildungsdiensten, für sie ist ein Wechsel der Suchmaschine keine einfache Sache."
+          ],
+          "highlight": "Eine Schule, die KI komplett sperrt, sperrt damit auch die Suche",
+          "assessment": [
+            "Google verkauft eine Zwangskopplung als Wahlfreiheit. Technisch mag die Suche mit den KI-Übersichten verwoben sein, aber ein Konzern dieser Größe könnte eine Schulversion ohne Zusammenfassungen bauen, wenn er wollte. Dass er es nicht tut, sagt viel darüber, wie wichtig ihm die nächste Generation von Gemini-Nutzern ist.",
+            "Politisch kommt das zum ungünstigsten Zeitpunkt. Der neue Kongress ist demokratisch, mehrere Gerichte haben Google bereits als Monopolisten eingestuft, und hier liefert der Konzern ein Lehrbuchbeispiel dafür, wie Marktmacht in einen Nachbarmarkt übertragen wird. Ich rechne damit, dass Google bis zum Start nachgibt."
+          ],
+          "sources": [
+            { "name": "TechCrunch (Gegenwind)", "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/" },
+            { "name": "TechCrunch (Ankündigung)", "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/" },
+            { "name": "TechCrunch (DuckDuckGo)", "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200", "alt": "Schülerinnen und Schüler tippen an Laptops", "credit": "izusek / Getty Images", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/" }
+        },
+        {
+          "title": "Anthropic arbeitet an einem kryptografischen Ausweis für KI-Modelle",
+          "lead": "Mit FlashProve soll sich nachweisen lassen, welches Modell eine Antwort tatsächlich erzeugt hat. Das System ist quelloffen, aber noch Forschung.",
+          "body": [
+            "Anthropic hat am Dienstag ein Forschungsprojekt namens FlashProve vorgestellt. Es soll sogenannte beweisbare Inferenz ermöglichen: einen kryptografischen Nachweis, also eine mathematische Garantie, dass eine bestimmte Ausgabe von einem bestimmten Modell stammt. Nutzer könnten damit prüfen, ob die Antwort, die sie bekommen, wirklich von dem Modell kommt, für das sie bezahlen.",
+            "Das Prinzip ähnelt digitalen Signaturen bei E-Mails. FlashProve soll auch gegen Täuschung durch den Anbieter selbst schützen. Die Forscher nennen ausdrücklich den Fall, dass eine KI-Firma heimlich ein billigeres Modell einsetzt, um Kosten zu sparen, oder ein teureres, um Testergebnisse zu schönen. Auch Behauptungen Dritter ließen sich prüfen, etwa wenn ein Entwickler sagt, seine Software sei von einem führenden Sicherheitsmodell auf Schwachstellen untersucht worden.",
+            "Damit das funktioniert, müssten die Labore für jedes veröffentlichte Modell einen „Fingerabdruck“ hinterlegen, mit dem sich Ausgaben später abgleichen lassen. Entscheidend ist, dass dieser Fingerabdruck die Gewichte des Modells nicht verrät, also genau die Zahlen, die geschlossene Anbieter wie Anthropic und OpenAI als ihr wichtigstes Gut hüten. Die Prüfung soll so schlank sein, dass sie auch auf einem lokalen Gerät läuft.",
+            "Anthropic hat eine technische Spezifikation und funktionierenden Code unter einer Open-Source-Lizenz auf GitHub veröffentlicht. Einen Einsatz bei Anthropic oder einem anderen Labor gibt es noch nicht. Die Forscher schreiben, sie teilten einen Zwischenstand, damit andere ihn aufgreifen und verbessern."
+          ],
+          "highlight": "Die Forscher nennen ausdrücklich den Fall, dass eine KI-Firma heimlich ein billigeres Modell einsetzt, um Kosten zu sparen, oder ein teureres, um Testergebnisse zu schönen.",
+          "assessment": [
+            "Das klingt nach Nische, berührt aber ein echtes Vertrauensproblem. Wer über eine Schnittstelle ein Modell bucht, hat heute keine Möglichkeit zu prüfen, was im Rechenzentrum wirklich läuft. Gerade weil Rechenzeit knapp und teuer ist, ist die Versuchung zum stillen Austausch real.",
+            "Bemerkenswert ist, dass ein Anbieter ein Werkzeug baut, mit dem man ihn selbst kontrollieren kann. Ob die Konkurrenz mitzieht, ist offen. Ohne Fingerabdrücke aller großen Labore bleibt FlashProve eine schöne Idee, und freiwillig hat sich die Branche selten in die Karten schauen lassen."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798", "alt": "Anthropic-Logo auf einem Smartphone-Bildschirm", "credit": "Samuel Boivin / NurPhoto / Getty Images", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/" }
+        },
+        {
+          "title": "Meta kauft das Coding-Start-up Conductor",
+          "lead": "Meta übernimmt eine junge Firma, die mehrere KI-Agenten parallel an einem Softwareprojekt arbeiten lässt. Der Cloud-Dienst von Conductor wird am 20. November abgeschaltet.",
+          "body": [
+            "Meta hat Conductor übernommen, ein 2024 gegründetes Start-up für KI-gestütztes Programmieren. Zuerst berichtete Axios, Meta bestätigte den Kauf gegenüber TechCrunch, nannte aber keine Details und keinen Preis. Gründer und Chef Charlie Holtz schrieb im Firmenblog, Conductor schließe sich Meta an, und kündigte „große, verrückte Pläne für die nächste Oberfläche“ an, mit etwas Neuem bis Anfang nächsten Jahres.",
+            "Conductor hat sein Kernprodukt erst im vergangenen Sommer gestartet. Die Software verteilt mehrere KI-Agenten auf getrennte Arbeitsbereiche, sodass sie gleichzeitig an verschiedenen Teilen eines Projekts arbeiten können, in der Cloud, lokal oder vom Telefon aus. Die Agenten selbst stammen nicht von Conductor, sondern von großen Laboren wie Anthropic und OpenAI.",
+            "Für Kunden ändert sich zunächst wenig, mit einer Ausnahme: Der Cloud-Dienst wird am 20. November eingestellt, danach löscht die Firma die Cloud-Daten der Nutzer. Holtz freut sich nach eigenen Worten auf die Arbeit mit Metas KI-Chef Alexandr Wang und Nat Friedman, dem Produktchef der Superintelligence Labs.",
+            "Meta lag bei KI-Diensten lange zurück und versucht seit Monaten aufzuholen. Im August startete der Konzern seinen eigenen Coding-Agenten Muse Code, die Muse-Agenten haben nach Firmenangaben mehr als zehn Millionen Nutzer. Im vergangenen Jahr kaufte Meta mehrere KI-Firmen, darunter die Agentenplattform Moltbook."
+          ],
+          "highlight": "Der Cloud-Dienst wird am 20. November eingestellt, danach löscht die Firma die Cloud-Daten der Nutzer.",
+          "assessment": [
+            "Meta kauft hier weniger Technik als eine Idee davon, wie Programmieren mit mehreren Agenten aussehen soll, plus das Team dazu. Das passt zu Zuckerbergs Strategie, fehlende Zeit mit Geld zu ersetzen.",
+            "Für Nutzer ist es die übliche Lektion: Wer seine Arbeit einem kleinen Werkzeug anvertraut, muss mit dem Tag rechnen, an dem ein Konzern es schluckt. Gut zwei Wochen Vorlauf bis zur Datenlöschung sind knapp."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653", "alt": "Mark Zuckerberg mit einer Meta-Ray-Ban-Brille", "credit": "Meta / Screenshot", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/" }
+        },
+        {
+          "title": "Apple rationiert die KI-Nutzung seiner Ingenieure",
+          "lead": "Laut Bloomberg senkt Apple das tägliche KI-Budget seiner Entwickler. Das Ende des Token-Rauschs ist damit auch bei einem der reichsten Konzerne angekommen.",
+          "body": [
+            "Apple kürzt den Betrag, den seine Entwicklungsteams pro Tag für KI ausgeben dürfen. Das berichtete Bloomberg am Mittwoch. Im Oktober wurde die tägliche Obergrenze für Ingenieure von 300 auf 200 Dollar gesenkt, weitere Kürzungen sind laut den Quellen geplant, manche Budgets sollen auf 100 Dollar pro Tag fallen. Außerhalb der Entwicklung erwägt Apple demnach eine Grenze von nur 25 Dollar täglich.",
+            "Apple hatte KI in den vergangenen Monaten stark in seine Entwicklungsprozesse eingebaut. Zu Jahresbeginn hatten viele Firmen ihre Leute gedrängt, KI so viel wie möglich zu nutzen, im Namen vage definierter Effizienzgewinne. Als die Rechnungen für die verbrauchten Tokens kamen, schlug die Stimmung um, und Rationierung gilt nun vielerorts als vernünftiger.",
+            "Apple hat sich auf Anfrage von TechCrunch nicht geäußert. Die Meldung fällt in eine Zeit, in der die Lücke zwischen den Kosten von KI und den oft unklaren Produktivitätsgewinnen offener diskutiert wird."
+          ],
+          "highlight": "Im Oktober wurde die tägliche Obergrenze für Ingenieure von 300 auf 200 Dollar gesenkt",
+          "assessment": [
+            "200 Dollar pro Tag und Kopf sind immer noch viel Geld, aufs Jahr gerechnet fast ein zusätzliches Gehalt. Wenn selbst Apple nachrechnet, ist die Phase vorbei, in der KI-Verbrauch als Beweis für Fortschritt galt.",
+            "Für die Anbieter ist das ein ernstes Signal. Ihre Umsatzprognosen setzen voraus, dass Firmenkunden immer mehr verbrauchen. Wenn die großen Kunden anfangen, Kontingente zu setzen, wächst der Umsatz langsamer, als die Investitionen in Rechenzentren es verlangen."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800", "alt": "Ein iPhone mit angeschlossenem USB-Kabel", "credit": "STR / NurPhoto / Getty Images", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/" }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Arkane-Gewerkschaft: Xbox „sabotiert“ Blade, während Käufer bieten",
+          "lead": "Die französische Gewerkschaft der Arkane-Belegschaft wirft Microsoft vor, die Entwicklung von Marvel's Blade absichtlich gebremst zu haben. Gleichzeitig soll Ubisoft für das Studio geboten haben.",
+          "body": [
+            "Die französische Spielegewerkschaft STJV hat im Namen der Beschäftigten von Arkane Lyon schwere Vorwürfe gegen Microsoft erhoben. Xbox habe die Entwicklung von Marvel's Blade „sabotiert“, indem es einen Einstellungsstopp von 19 Monaten verhängte. Interne Verzögerungen räumt die Gewerkschaft ein, sie seien aber „künstlich verursacht“ worden.",
+            "In der Erklärung heißt es, die Arbeit an Blade laufe gut und die Qualität sei auf dem Niveau, das Spieler von Arkane gewohnt seien. Trotzdem könne das Studio geschlossen werden, „nur weil Microsoft es so entschieden hat, selbst wenn das bedeutet, das Spiel zu sabotieren, das es selbst finanziert hat“. Arkane sei profitabel, nur nicht profitabel genug für Microsoft. Eine Schließung wäre nach Ansicht der Gewerkschaft wahrscheinlich teurer, als das Spiel fertigzustellen.",
+            "Die Forderungen: Mitsprache bei der Frage, wer das Studio kauft, und eine höhere Abfindung, falls es doch zur Schließung kommt. Das bisherige Angebot nennt die Gewerkschaft „empörend niedrig“. Xbox hat sich zu den Vorwürfen bislang nicht geäußert.",
+            "Am Vortag hatte Jason Schreier bei Bloomberg berichtet, dass mehrere Firmen für Arkane Lyon geboten haben, darunter Ubisoft und mindestens zwei weitere Spielefirmen. Xbox erwäge auch einen Verkauf an das eigene Management, ähnlich wie bei Double Fine und Compulsion Games. Microsoft hat die Frist für einen Käufer bis Mitte Dezember verlängert. Arkane wurde 1999 gegründet, ist für Dishonored und Prey bekannt und kam 2021 mit der Übernahme von ZeniMax zu Microsoft. Der mögliche Verkauf gehört zum „Reset“, den die neue Xbox-Chefin Asha Sharma eingeleitet hat."
+          ],
+          "highlight": "Eine Schließung wäre nach Ansicht der Gewerkschaft wahrscheinlich teurer, als das Spiel fertigzustellen.",
+          "assessment": [
+            "Der Vorwurf ist hart, aber plausibel. Ein Studio jahrelang nicht wachsen zu lassen und ihm dann Verzögerungen vorzuhalten, ist ein bekanntes Muster, wenn ein Konzern sich innerlich schon verabschiedet hat.",
+            "Ubisoft als Retter wäre allerdings ein zweischneidiges Geschenk. Der Konzern streicht selbst seit Monaten Projekte und Stellen. Am besten für Blade und für Arkane wäre wohl ein Käufer, der genau dieses eine Spiel fertig sehen will, und davon gibt es wenige."
+          ],
+          "sources": [
+            { "name": "VGC (Gewerkschaft)", "url": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/" },
+            { "name": "VGC (Ubisoft-Gebot)", "url": "https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/" }
+          ],
+          "image": { "url": "https://www.videogameschronicle.com/files/2026/11/Marvels-Blade.jpg", "alt": "Szenenbild aus Marvel's Blade von Arkane Lyon", "credit": "VGC", "license": "Artikelbild VGC", "source": "https://www.videogameschronicle.com/news/arkane-union-says-xbox-is-sabotaging-blade-development/" }
+        },
+        {
+          "title": "God of War Laufey wird auf den 20. Mai 2027 verschoben",
+          "lead": "Sony Santa Monica braucht drei Monate mehr. Das erste große God of War ohne Kratos als Hauptfigur erscheint nicht mehr im Februar.",
+          "body": [
+            "Santa Monica Studio hat God of War Laufey verschoben. Statt am 16. Februar 2027 erscheint das Spiel nun am 20. Mai 2027. Das Studio begründet das mit zusätzlicher Arbeit, die nötig sei, um das Spiel „zu seinem vollen Potenzial“ zu bringen.",
+            "In der Mitteilung dankt das Team für die Begeisterung seit der Enthüllung im Juni und schreibt, man nehme das Vertrauen der Fans nicht als selbstverständlich. Die gewonnene Zeit wolle man für den letzten Schliff nutzen.",
+            "Laufey ist der erste Hauptteil der Reihe, in dem nicht Kratos die Hauptfigur ist. Gespielt wird Faye, die auch Laufey die Gerechte heißt, Kratos' nordische Frau und Mutter von Atreus, die vor den Ereignissen von God of War aus dem Jahr 2018 gestorben ist. Nach ihrer Beerdigung erwacht sie in einem fremden Land, dem Jenseits der Götter namens Everywhen, und muss feststellen, dass ihre Pläne zum Schutz ihrer Familie in Gefahr sind. Dort kämpfen Götter aus verschiedenen Mythologien um die Macht.",
+            "Sony hatte bereits eine Sammleredition für 150 Dollar vorgestellt, die das Spiel selbst nicht enthält, sowie eine digitale Deluxe-Ausgabe mit Vorbestellerbonus."
+          ],
+          "highlight": "Statt am 16. Februar 2027 erscheint das Spiel nun am 20. Mai 2027.",
+          "assessment": [
+            "Drei Monate sind bei einem Spiel dieser Größe eine Feinkorrektur, kein Alarmsignal. Santa Monica hat mit Ragnarök gezeigt, dass eine Verschiebung dem Ergebnis gut tun kann.",
+            "Strategisch ist der Februar ohnehin ein vollgestopfter Monat, und mit GTA 6 im November dürfte der Markt noch lange mit sich selbst beschäftigt sein. Der Mai wirkt wie der ruhigere Platz für einen Neuanfang der Reihe mit neuer Heldin."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/" }
+          ],
+          "image": { "url": "https://www.videogameschronicle.com/files/2026/09/god-of-war-laufey-pic1.jpg", "alt": "Faye, die Heldin von God of War Laufey, in einer Spielszene", "credit": "VGC", "license": "Artikelbild VGC", "source": "https://www.videogameschronicle.com/news/god-of-war-laufey-has-officially-been-delayed/" }
+        },
+        {
+          "title": "Ocarina-of-Time-Remake ist das bestbewertete Spiel des Jahres",
+          "lead": "Nintendos Neuauflage des N64-Klassikers steht bei Metacritic auf 96 Punkten und schafft es auch in die Liste der besten Spiele aller Zeiten.",
+          "body": [
+            "The Legend of Zelda: Ocarina of Time Remake für die Switch 2 hat bei Metacritic einen Schnitt von 96 Punkten aus 70 Kritiken erreicht. Damit steht es an der Spitze der besten Spiele des Jahres 2026 und hat den Twin-Stick-Shooter Sektori mit 93 Punkten abgelöst.",
+            "Die Wertung reicht auch für die Allzeitliste der Seite. Dort steht das Remake derzeit auf Platz 24, vor Half-Life, Gran Turismo, Metal Gear Solid 2, Elden Ring und Mass Effect 2, aber hinter The Orange Box, Baldur's Gate 3 und dem ursprünglichen Resident Evil 4. Auf Platz eins steht weiterhin das Original für das Nintendo 64, das einzige Spiel mit 99 Punkten.",
+            "Weil die Spiele von Platz 16 bis 34 alle bei 96 liegen und nur feinere Berechnungen über die Reihenfolge entscheiden, kann sich die Position noch verschieben, wenn weitere Kritiken eintreffen. Der Vorsprung in der Jahresliste ist mit drei Punkten deutlicher. Ob er hält, wird sich zeigen, denn Grand Theft Auto 6 erscheint in zwei Wochen.",
+            "VGC gab dem Remake fünf Sterne und lobte, dass Nintendo das Original nicht umgebaut, sondern behutsam modernisiert habe. Es sei die maßgebliche Art, das Spiel zu entdecken, für Neulinge wie für Rückkehrer."
+          ],
+          "highlight": "Auf Platz eins steht weiterhin das Original für das Nintendo 64, das einzige Spiel mit 99 Punkten.",
+          "assessment": [
+            "Das ist ein schönes Kuriosum: Nintendos Remake konkurriert in der Bestenliste vor allem mit sich selbst. Dass ein 28 Jahre altes Design mit modernem Anstrich Neuerscheinungen überholt, sagt einiges über die Qualität des Originals.",
+            "Es zeigt auch Nintendos Haltung zu Remakes. Statt alles neu zu erfinden, wird restauriert. Das ist weniger spektakulär als ein Final Fantasy VII Remake, aber offenbar genau das, was Kritiker bei diesem Spiel wollten."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes-its-all-time-top-30/" }
+          ],
+          "image": { "url": "https://www.videogameschronicle.com/files/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_06.jpg", "alt": "Szene aus dem Remake von Zelda: Ocarina of Time für die Switch 2", "credit": "Nintendo", "license": "Artikelbild VGC", "source": "https://www.videogameschronicle.com/news/the-zelda-ocarina-of-time-remake-has-shot-to-the-top-of-metacritics-best-games-of-2026-so-far-makes-its-all-time-top-30/" }
+        },
+        {
+          "title": "Nintendo, Xbox, EA und Ubisoft führen einheitliche Barrierefreiheits-Kennzeichen ein",
+          "lead": "Sechs große Firmen zeigen jetzt dieselben 25 Kennzeichen für Barrierefreiheit an. Spieler sollen leichter finden, welche Spiele die Hilfen bieten, die sie brauchen.",
+          "body": [
+            "Nintendo, Xbox, Ubisoft, EA, Riot Games und Google haben das Kennzeichnungssystem der Accessible Games Initiative übernommen. Die Initiative wird vom US-Branchenverband Entertainment Software Association geführt und soll sichtbar machen, welche Spiele bestimmte Barrierefreiheitsfunktionen haben.",
+            "Es gibt 25 Kennzeichen, aufgeteilt in Hören, Spielablauf, Eingabe und Sehen. Ein Spiel kann etwa markiert werden, wenn es große und klare Untertitel, Sprachausgabe für Texte, eine Alternative zum schnellen Tastenhämmern, reine Touch-Steuerung, wählbare Schwierigkeitsgrade oder Mono-Ton bietet. Die Teilnahme ist freiwillig, und die Kennzeichen können neben bestehenden Systemen stehen.",
+            "Die Umsetzung unterscheidet sich je nach Firma. Nintendo zeigt die Kennzeichen auf den Spielseiten seiner Website und bietet eine Liste, über die man nach Funktionen filtern kann. Xbox hat eine eigene Seite mit Filtern, Ubisoft hat 80 Spiele gekennzeichnet, EA zeigt die Angaben in seiner App und auf der Website. Riot erklärt die Funktionen seiner Spiele auf einer eigenen Seite, Google zeigt sie bei YouTube Playables.",
+            "Die Direktorin der Initiative, Daniella Decker, sagte, ein Spiel mit den gewünschten Funktionen zu finden, solle einfach sein. Eine gemeinsame Sprache mache die Funktionen leichter erkennbar, das nütze Spielern und Geschäft gleichermaßen."
+          ],
+          "highlight": "Es gibt 25 Kennzeichen, aufgeteilt in Hören, Spielablauf, Eingabe und Sehen.",
+          "assessment": [
+            "Eine unspektakuläre, aber wirklich nützliche Nachricht. Wer auf bestimmte Hilfen angewiesen ist, musste sich bisher durch Foren und Tests wühlen, um herauszufinden, ob ein Spiel spielbar ist. Ein einheitliches Etikett beim Kauf ist ein echter Fortschritt.",
+            "In der Liste der sechs Firmen fehlen Sony und Valve mit Steam. Solange die größten Läden nicht mitmachen, bleibt das System lückenhaft. Der Druck dürfte aber steigen, wenn die Konkurrenz es vormacht."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/" }
+          ],
+          "image": { "url": "https://www.videogameschronicle.com/files/2026/11/accessible-games-initiative.jpg", "alt": "Logo und Symbole der Accessible Games Initiative", "credit": "VGC", "license": "Artikelbild VGC", "source": "https://www.videogameschronicle.com/news/accessible-games-initiative-tags-adopted-by-nintendo-xbox-ubisoft-and-ea-making-it-easier-to-find-accessibility-features/" }
+        },
+        {
+          "title": "BioWare-Fans bitten die kanadische Regierung um Rettung des Studios",
+          "lead": "Eine Petition im kanadischen Parlament fordert, dass der Staat BioWare die Unabhängigkeit finanziert. Zum N7-Tag wird der Kampf um Mass Effect lauter.",
+          "body": [
+            "Fans von BioWare haben eine Petition auf der offiziellen Website des kanadischen Parlaments gestartet. Sie fordern, dass die Regierung eingreift und das Studio als unabhängige Firma erhält. Begründet wird das kulturell: BioWare sei einer der wichtigsten kanadischen Kulturexporte des 21. Jahrhunderts und habe weltweit zig Millionen Spiele verkauft.",
+            "Der Text greift den Eigentümer scharf an. BioWare sei von seiner amerikanischen Muttergesellschaft Electronic Arts geschlossen worden, die inzwischen Saudi-Arabiens Staatsfonds PIF und Jared Kushners Affinity Partners gehöre. Die Schließung sei ein großer Verlust und möglicherweise ein gezielter Angriff auf Kanadas kulturelles Erbe. Gefordert wird Geld, damit BioWare sich und seine Marken von EA kaufen kann, und Schutz für kanadische Entwickler vor ausländischen Konzerninteressen.",
+            "Unterschreiben dürfen nur Menschen mit kanadischem Wohnsitz oder kanadischer Staatsbürgerschaft. EA hatte die Schließung im vergangenen Monat angekündigt, von einem Verkauf oder einem Rückkauf durch das Studio war nie die Rede. Ob EA überhaupt verkaufen würde, ist offen, zumal die Mass-Effect-Serie fürs Fernsehen weiter entsteht.",
+            "Eine weitere Petition zur Rettung von Mass Effect hat fast 300.000 Unterschriften gesammelt, Unterstützer haben sogar Werbeflächen am Times Square gebucht. Zum N7-Tag am 7. November erscheinen trotzdem neue Fanartikel, was darauf hindeutet, dass BioWare vor der Schließung etwas für den Tag geplant hatte."
+          ],
+          "highlight": "Gefordert wird Geld, damit BioWare sich und seine Marken von EA kaufen kann",
+          "assessment": [
+            "Realistisch ist das nicht. Kein Staat kauft einem Konzern ein Studio samt Marken ab, das dieser gerade abgewickelt hat, und Ottawa hat gerade andere Sorgen. Als Zeichen ist die Petition trotzdem interessant, weil sie Spiele ausdrücklich als nationales Kulturgut behandelt.",
+            "Der Ton gegen die neuen saudischen Eigentümer zeigt, wie sehr die EA-Übernahme das Verhältnis zur Fangemeinde vergiftet hat. Für EA ist das ein Imageproblem, das mit jeder weiteren Studioschließung wächst."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/" }
+          ],
+          "image": { "url": "https://www.videogameschronicle.com/files/2023/11/mass-effect-n7-day.jpg", "alt": "Commander Shepard in N7-Rüstung aus Mass Effect", "credit": "VGC", "license": "Artikelbild VGC", "source": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/" }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Nach der Wahl: Wackelt die geplante Bundesförderung für Hollywood?",
+          "lead": "Ein parteiübergreifendes Gesetz soll Film- und Serienproduktionen mit einer Steuergutschrift zurück in die USA holen. Ob der Machtwechsel im Kongress hilft oder schadet, ist in der Branche umstritten.",
+          "body": [
+            "Die Wahlergebnisse vom Dienstag haben auch für Hollywood Folgen. Im September wurde der parteiübergreifende Motion Picture, Television, and Entertainment Revitalization Act eingebracht. Er sieht erstmals eine bundesweite Steuergutschrift vor, die Produktionen zurück in die USA locken soll, nachdem viele Drehs nach Kanada, Großbritannien oder Osteuropa abgewandert sind. Die Hoffnung war, das Gesetz an den Haushaltsbeschluss zum Jahresende zu hängen, über den bis zum 11. Dezember abgestimmt werden soll.",
+            "Ob das noch der Plan ist, weiß derzeit niemand genau. „Es macht es schwerer“, sagte ein Beteiligter der Lobbykampagne zu Deadline. Das überrascht, weil die Demokraten die Steuergutschrift zuerst vorangetrieben haben. Mit einer deutlichen Mehrheit in beiden Kammern ist aber die gesamte Strategie der Partei offen, und viele Prioritäten konkurrieren miteinander.",
+            "Andere sehen es optimistischer. Ein zweiter Lobbyist meinte, ein klares Ergebnis sei besser als ein knappes, das einen langen Streit nach sich gezogen hätte. Ermutigend sei auch, dass Präsident Trump in der Wahlnacht offen für Abmachungen mit den Demokraten wirkte. Unklar bleibt der Zeitplan, solange die Republikaner ihren Führungsstreit nicht gelöst haben, nachdem Mike Johnson seinen Rückzug angekündigt hat.",
+            "Der Produzent Scott Budnick, einer der wichtigsten Unterstützer der kalifornischen Filmförderung, glaubt nicht an große Auswirkungen. Schon vor der Wahl hätten ranghohe Republikaner und Demokraten gemeinsam daran gearbeitet, sagte er Deadline."
+          ],
+          "highlight": "Er sieht erstmals eine bundesweite Steuergutschrift vor, die Produktionen zurück in die USA locken soll",
+          "assessment": [
+            "Das ist für Hollywood die wichtigste politische Frage dieses Winters. Die Branche schrumpft in Los Angeles seit Jahren, und eine Bundesförderung wäre der größte Hebel, um Arbeit zurückzuholen.",
+            "Mein Eindruck: Die Chance liegt im Dezember. Ein Gesetz, das Jobs in vielen Bundesstaaten verspricht und auf beiden Seiten Freunde hat, ist genau die Art Paket, das bei einem Haushaltskompromiss mitrutscht. Verpasst man das Fenster, beginnt im Januar ein neuer Kongress mit neuen Prioritäten, und dann wird es zäh."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/midterm-election-results-impact-federal-film-tax-incentive-1237213335/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/Midterm-Elections.jpg?w=1024", "alt": "Symbolbild zu den US-Zwischenwahlen 2026", "credit": "Getty Images", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/midterm-election-results-impact-federal-film-tax-incentive-1237213335/" }
+        },
+        {
+          "title": "Neu: Godzilla Minus Zero steuert in Nordamerika auf 30 Millionen Dollar zu",
+          "lead": "Nach dem Start in Japan kommt Takashi Yamazakis Fortsetzung am Wochenende in die nordamerikanischen Kinos und dürfte dort auf Platz eins landen. Der Animationsfilm „The Cat in the Hat“ wird Zweiter.",
+          "body": [
+            "Godzilla Minus Zero soll am Startwochenende in Nordamerika rund 30 Millionen Dollar aus 3.254 Kinos einspielen, schreibt Variety unter Berufung auf Prognosen. Das wäre fast das Dreifache dessen, womit Godzilla Minus One 2023 in den USA gestartet war, nämlich 11,4 Millionen Dollar. Der Vorgänger kam am Ende auf 57 Millionen Dollar in Nordamerika, wurde zum erfolgreichsten japanischen Realfilm dort, spielte weltweit 113 Millionen Dollar ein und gewann den Oscar für die visuellen Effekte.",
+            "Die Fortsetzung wird von Toho produziert und in den USA von GKids verliehen. Sie ist die erste japanische Produktion, die überhaupt für IMAX gedreht wurde, und dürfte deshalb in den Premium-Sälen besonders stark laufen. Die Handlung setzt zwei Jahre nach dem ersten Film ein: Godzilla regeneriert sich und taucht wieder auf, um gegen ein neues Monster zu kämpfen, das das Japan der Nachkriegszeit heimsucht. Die Kritiken sind überwiegend begeistert.",
+            "Auf Platz zwei erwartet die Branche Warner Bros.' Animationsfilm „The Cat in the Hat“ mit 20 bis 25 Millionen Dollar aus rund 4.000 Kinos, Bill Hader spricht den Kater. Das ist deutlich weniger als frühere Dr.-Seuss-Verfilmungen: „Der Grinch“ startete 2018 mit 67 Millionen, „Der Lorax“ 2012 mit 70 Millionen. Der Film hat 92 Millionen Dollar gekostet und muss auf Mundpropaganda und das Ausland setzen.",
+            "Martin McDonaghs schwarze Komödie „Wild Horse Nine“ mit John Malkovich und Sam Rockwell startet bei Searchlight in nur rund 1.000 Kinos und soll 5 bis 7 Millionen Dollar holen."
+          ],
+          "highlight": "Sie ist die erste japanische Produktion, die überhaupt für IMAX gedreht wurde",
+          "assessment": [
+            "Neu gegenüber unserer Meldung vom Japan-Start ist die Größenordnung in den USA: Aus dem Überraschungserfolg eines kleinen Verleihs wird ein regulärer Spitzenreiter. Godzilla Minus One war die Ausnahme, die bewiesen hat, dass ein japanischer Monsterfilm mit Herz und kleinem Budget Hollywood vorführen kann. Minus Zero könnte zeigen, dass das kein Zufall war.",
+            "Die schwache Prognose für den Kater ist das Gegenstück. Eine bekannte Marke allein füllt die Säle nicht mehr, wenn ein Original wie Pixars „Hoppers“ im Frühjahr mehr geschafft hat."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/" }
+          ],
+          "image": { "url": "https://variety.com/wp-content/uploads/2026/09/MCDGOMI_EC012_8e64a0.jpg?w=1000&h=563&crop=1", "alt": "Szenenbild aus Godzilla Minus Zero", "credit": "Courtesy Everett Collection", "license": "Artikelbild Variety", "source": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/" }
+        },
+        {
+          "title": "Wechsel an der Pixar-Spitze: Jonathan Garson folgt auf Jim Morris",
+          "lead": "Nach zwölf Jahren als Präsident tritt Jim Morris in eine Ehrenrolle zurück. Jonathan Garson übernimmt im Januar die Leitung von Produktion und Betrieb.",
+          "body": [
+            "Pixar bekommt eine neue Führung. Jim Morris, seit 21 Jahren im Studio und seit 2014 dessen Präsident, wird Präsident emeritus. Sein Nachfolger Jonathan Garson leitet künftig Produktion und Betrieb und arbeitet mit Chief Creative Officer Pete Docter zusammen. Beide berichten an Alan Bergman, den Chef von Disney Entertainment und Studios, der den Wechsel am Mittwoch bekanntgab. Er gilt ab dem 4. Januar 2027.",
+            "Garson verantwortet damit die Produzenten, Abteilungsleiter und die Postproduktion des Studios, das zuletzt mit „Toy Story 5“ über eine Milliarde Dollar eingespielt hat. Als Nächstes stehen die Originalfilme „Gatto“ und „Ghost Market“ an. Morris bleibt ausführender Produzent von „Die Unglaublichen 3“, der im Juni 2028 in die Kinos kommen soll, und kümmert sich um Nachwuchsförderung und technische Projekte bei Pixar und den Walt Disney Studios. Zusätzlich übernimmt Jonas Rivera eine erweiterte Rolle als kreativer Executive Vice President.",
+            "Morris kam 2005 von Lucasfilm zu Pixar, wo er Generaldirektor von Industrial Light & Magic und später Präsident von Lucas Digital war. 2014 folgte er auf den Pixar-Mitgründer Ed Catmull. In seiner Amtszeit haben Pixar-Filme weltweit mehr als zwölf Milliarden Dollar eingespielt.",
+            "Bergman sprach von einer geordneten Übergabe mit Blick auf Morris' späteren Ruhestand. Morris selbst sagte, nach 52 Jahren im Geschäft und fast 40 davon bei Lucasfilm und Pixar trete er aus dem Tagesgeschäft zurück."
+          ],
+          "highlight": "In seiner Amtszeit haben Pixar-Filme weltweit mehr als zwölf Milliarden Dollar eingespielt.",
+          "assessment": [
+            "Ein ruhiger, gut vorbereiteter Wechsel, wie Disney ihn nach den Turbulenzen der letzten Jahre dringend braucht. Morris hat Pixar durch eine schwierige Phase gesteuert, in der Originalfilme an der Kinokasse litten und Fortsetzungen das Geld bringen mussten.",
+            "Garsons Aufgabe ist klar: beweisen, dass Pixar auch mit neuen Geschichten wieder verlässlich Publikum findet. „Gatto“ und „Ghost Market“ werden die ersten Gradmesser sein."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816/" }
+          ],
+          "image": { "url": "https://variety.com/wp-content/uploads/2026/11/morris-garson.jpg?crop=0px%2C9px%2C1000px%2C562px&resize=1000%2C563", "alt": "Porträts von Jim Morris und Jonathan Garson", "credit": "Deborah Coleman / Pixar", "license": "Artikelbild Variety", "source": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816/" }
+        },
+        {
+          "title": "„The Pitt“ gegen die Crichton-Erben: Der Streit geht vor Gericht",
+          "lead": "Ein Berufungsgericht in Kalifornien hat entschieden, dass Warner Bros. Television sich einem Geschworenenprozess stellen muss. Die Erben des ER-Erfinders sehen in der Erfolgsserie ein verkapptes Remake.",
+          "body": [
+            "Die Krankenhausserie „The Pitt“ mit Noah Wyle steckt mitten in den Dreharbeiten zur dritten Staffel, muss sich aber im kommenden Jahr wohl auch vor Gericht verantworten. Ein Berufungsgericht hat ein Urteil der ersten Instanz bestätigt, nach dem die Klage der Erben von Michael Crichton gegen Warner Bros. Television nicht vorzeitig abgewiesen wird. Damit kommt es zu einem Geschworenenprozess am Superior Court in Los Angeles.",
+            "Das 33-seitige Urteil unterscheidet allerdings. Gegen WBTV geht das Verfahren weiter, Noah Wyle und die ausführenden Produzenten John Wells und R. Scott Gemmill sind dagegen aus dem Verfahren entlassen. Deadline hält es dennoch für wahrscheinlich, dass sie im Prozess als Zeugen auftauchen. Noch steht die Beweisaufnahme aus, ein Prozess könnte frühestens im nächsten Sommer beginnen, falls sich die Parteien nicht einigen. Ein Vergleich gilt wegen der verhärteten Fronten als unwahrscheinlich.",
+            "Crichtons Witwe Sherri Crichton hatte im August 2024 Klage wegen Vertragsbruchs eingereicht, noch bevor die Serie lief. Die Erben argumentieren, „The Pitt“ sei entstanden, nachdem Verhandlungen über eine Neuauflage von „Emergency Room“ gescheitert waren. Die Originalserie lief 15 Staffeln lang bei NBC, Wyle spielte darin bereits einen Arzt, und Wells war ihr ausführender Produzent.",
+            "Die Verteidigung argumentierte, es gebe keinerlei Beleg dafür, dass The Pitt von ER kopiert habe oder darauf aufbaue. „The Pitt“ wurde nach dem Start Anfang 2025 ein Kritiker- und Publikumserfolg für HBO Max und gewann den Emmy."
+          ],
+          "highlight": "Gegen WBTV geht das Verfahren weiter, Noah Wyle und die ausführenden Produzenten John Wells und R. Scott Gemmill sind dagegen aus dem Verfahren entlassen.",
+          "assessment": [
+            "Juristisch ist der Fall spannender, als er zunächst klingt. Es geht nicht um ein klassisches Plagiat, sondern um die Frage, ob man aus gescheiterten Verhandlungen über einen Stoff einfach etwas sehr Ähnliches mit denselben Leuten machen darf.",
+            "Wer beide Serien kennt, sieht die Verwandtschaft: gleiches Genre, gleicher Hauptdarsteller, gleicher Produzent. Ob das vor Geschworenen reicht, ist offen, aber allein das Risiko dürfte Warner zu einer Einigung drängen, auch wenn beide Seiten das heute bestreiten."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/the-pitt-michael-crichton-estate-lawsuit-trial-1237213710/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/05/noah-wyle-shawn-hatosy-1.jpg?w=1024", "alt": "Noah Wyle und Shawn Hatosy in einer Szene aus The Pitt", "credit": "HBO Max", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/the-pitt-michael-crichton-estate-lawsuit-trial-1237213710/" }
+        },
+        {
+          "title": "Adam Driver: Kylo Ren ist erledigt, „The Hunt for Ben Solo“ kommt nicht",
+          "lead": "Adam Driver schließt eine Rückkehr zu Star Wars aus. Sein mit Steven Soderbergh entwickelter Film über Ben Solo ist an Disneys Spitze gescheitert.",
+          "body": [
+            "In der „Rich Eisen Show“ hat Adam Driver alle Hoffnungen auf eine Rückkehr als Kylo Ren beendet. „Ja, es ist vorbei. Kein Star Wars mehr“, sagte er. Man habe versucht, noch einen Film zu machen, aber die Antwort sei gewesen: „Nein, er ist tot.“ Gemeint sind Disney-Chef Bob Iger und Studiochef Alan Bergman, die das Drehbuch abgelehnt haben.",
+            "Driver hatte das Projekt mit dem Regisseur Steven Soderbergh entwickelt. Sie hätten „ein paar Jahre wirklich ernsthaft“ daran gearbeitet, mit Scott Burns und Rebecca Blunt am Drehbuch, das „wirklich gut“ gewesen sei. Bei Lucasfilm sei die Idee gut angekommen, Iger und Bergman hätten aber nicht gesehen, wie Ben Solo am Leben sein könne.",
+            "Auf die Frage, ob er zurückkäme, falls jemand das Projekt wiederbelebt, antwortete Driver, das sei nicht seine Entscheidung. „Ich glaube aber, das Schiff ist abgefahren.“ Die Reaktion der Fans habe ihn überrascht. Fans hatten ein Flugzeug gechartert, das mit dem Banner „Save The Hunt for Ben Solo“ über die Walt Disney Studios in Burbank flog, und Plakatwände gebucht. Soderbergh hatte schon im April gesagt, der Film wäre längst gemacht, wenn er gemacht werden sollte."
+          ],
+          "highlight": "Iger und Bergman hätten aber nicht gesehen, wie Ben Solo am Leben sein könne.",
+          "assessment": [
+            "Damit ist eines der interessantesten Star-Wars-Projekte der letzten Jahre offiziell beerdigt. Ein Soderbergh-Film mit Driver wäre genau das gewesen, was der Reihe fehlt: ein eigenwilliger Filmemacher mit einer klaren Idee statt eines Konzepts aus der Planungsabteilung.",
+            "Die Begründung ist bezeichnend. In einem Universum, in dem Palpatine zurückkehrt, scheitert ein Film daran, dass eine Figur tot ist. Das sagt weniger über die Logik als darüber, wie vorsichtig Disney mit der Sequel-Trilogie inzwischen umgeht."
+          ],
+          "sources": [
+            { "name": "Variety", "url": "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/" }
+          ],
+          "image": { "url": "https://variety.com/wp-content/uploads/2025/10/adam.driver.png?w=1000&h=563&crop=1", "alt": "Adam Driver als Kylo Ren in Star Wars", "credit": "Walt Disney Studios Motion Pictures / Lucasfilm / Everett Collection", "license": "Artikelbild Variety", "source": "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/" }
+        },
+        {
+          "title": "DC plant einen neuen Constantine-Film mit Francis Galluppi",
+          "lead": "Der Regisseur von „Evil Dead Wrath“ soll für DC Studios das Drehbuch zu einem Film über den Okkultisten John Constantine schreiben. Das Projekt steht ganz am Anfang.",
+          "body": [
+            "DC Studios hat laut Deadline Francis Galluppi damit beauftragt, ein Drehbuch für einen Film über John Constantine zu schreiben. DC wollte sich nicht äußern. Das Projekt ist nach Deadlines Informationen in einer sehr frühen Phase, weitere Beteiligte gibt es noch nicht. Die Nachricht kommt, während „Clayface“ weltweit bereits über 90 Millionen Dollar eingespielt hat.",
+            "John Constantine, auch Hellblazer genannt, tauchte 1985 erstmals in „The Saga of the Swamp Thing“ Nummer 37 auf. Erfunden haben ihn Alan Moore sowie die Zeichner Steve Bissette und John Totleben: ein britischer Detektiv aus der Arbeiterklasse, Experte für Magie und Okkultes und ein Hang zum Betrug.",
+            "Keanu Reeves spielte 2005 eine in Los Angeles angesiedelte Version der Figur in Francis Lawrences „Constantine“, auf eine Fortsetzung warten Fans seit Langem. Im Fernsehen spielte Matt Ryan die Rolle in einer NBC-Serie, die 2014 nach einer Staffel endete. Ob der neue Film das Reeves-Projekt ersetzt, lässt der Bericht offen.",
+            "Galluppi wurde mit dem Krimi „The Last Stop in Yuma County“ bekannt. Seinen Evil-Dead-Film hat er selbst Sam Raimi vorgeschlagen, Warner Bros. bringt „Evil Dead Wrath“ am 7. April 2028 in die Kinos."
+          ],
+          "highlight": "Das Projekt ist nach Deadlines Informationen in einer sehr frühen Phase, weitere Beteiligte gibt es noch nicht.",
+          "assessment": [
+            "Galluppi ist eine gute Wahl für die Figur. Constantine funktioniert am besten als dreckiger Horror mit trockenem Humor, und genau dafür hat Galluppi ein Gespür. Wenn DC ihn auch Regie führen lässt, könnte das einer der eigenständigeren Filme im neuen DC-Universum werden.",
+            "Für Reeves-Fans ist das eher eine schlechte Nachricht. Eine Fortsetzung des Films von 2005 wird nicht wahrscheinlicher, wenn das Studio parallel eine neue Version entwickelt."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/john-constantine-movie-francis-galluppi-in-works-1237213853/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/Francis-Galluppi-John-Constantine-DC-Comics.jpg?w=1000", "alt": "Francis Galluppi und eine Comic-Darstellung von John Constantine", "credit": "Sela Shiloni / DC Comics", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/john-constantine-movie-francis-galluppi-in-works-1237213853/" }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Bootsgrab an der Nordsee: Der Mann mit dem Thron hatte Lepra und Wurzeln im Donauraum",
+          "lead": "Ein vor 1.500 Jahren in Fallward an der Nordseeküste bestatteter Mann wurde genetisch untersucht. Er trug den Lepra-Erreger in sich und stammte womöglich aus der Gegend der römischen Donaugrenze.",
+          "body": [
+            "Im 5. Jahrhundert wurde an der Nordseeküste zwischen Elbe und Weser ein etwa 50 Jahre alter Mann in einem über vier Meter langen Eichenboot bestattet. Das Grab Nummer 265 des Gräberfelds Fallward wurde schon in den 1990er-Jahren ausgegraben. Berühmt ist es für einen reich verzierten, aus einem Erlenstamm geschnitzten Sessel, der als „Thron aus der Marsch“ bekannt ist. Dazu kamen ein Fußschemel aus Ahorn mit Jagdszene und Runeninschrift, ein Spielbrett, ein Bronzebecken, ein Tongefäß und ein Gürtel, wie ihn römische Soldaten trugen.",
+            "Ein Team unter Leitung der Universität Kiel hat nun im Fachblatt iScience die DNA mehrerer Toter des Gräberfelds ausgewertet. Von zwölf Proben aus elf Individuen reichte die Qualität nur bei dreien für genaue Vergleiche. Zwei ähneln Menschen der Eisenzeit und des frühen Mittelalters in Nordwesteuropa, auch frühen Angelsachsen. Der Mann aus dem Bootsgrab dagegen zeigt die größte Ähnlichkeit mit Gemeinschaften an der römischen Donaugrenze, im Gebiet des heutigen Kroatien, Slowenien, Ungarn und Serbien, etwa 1.400 Kilometer südöstlich. Die Forscher betonen, dass die Daten für eine genaue Herkunft nicht ausreichen.",
+            "Das gibt dem römischen Militärgürtel eine neue Bedeutung. Möglicherweise war der Mann einer der Foederaten, verbündete Krieger, die im römischen Heer dienten. Der Gürtel kann aber auch über Handel, Erbe oder als Beute ins Grab gekommen sein. Fischgräten, Schilfmatten und ein kleines Kästchen in Form eines Wasservogels im Boot sowie kräftige Oberarmmuskeln deuten darauf hin, dass er viel ruderte oder fischte.",
+            "Die größte Überraschung: In Zahn und Fersenbein fanden die Forscher DNA von Mycobacterium leprae, dem Erreger der Lepra. Am Skelett zeigen sich keine typischen Veränderungen, die Krankheit hat also vermutlich nur das Weichgewebe befallen, und gestorben ist der Mann wohl an etwas anderem. Der rekonstruierte Erreger gehört zur Abstammungslinie 4, zu der auch ein Nachweis aus einer ägyptischen Mumie aus dem 4. bis 2. Jahrhundert vor Christus gehört.",
+            "Fallward schrumpfte im 5. Jahrhundert und wurde vermutlich bis zu dessen Ende aufgegeben, wie viele Siedlungen an der südlichen Nordseeküste. Die Studie liefert damit neue Daten zur Mobilität in den letzten Jahrhunderten des Römischen Reiches und zur Zeit der Auswanderung nach Britannien."
+          ],
+          "highlight": "Der Mann aus dem Bootsgrab dagegen zeigt die größte Ähnlichkeit mit Gemeinschaften an der römischen Donaugrenze",
+          "assessment": [
+            "Der Thron von Fallward gehört zu den schönsten Holzfunden der Völkerwanderungszeit in Deutschland, und es ist großartig, dass er nach 30 Jahren eine neue Geschichte bekommt. Ein Mann, der vielleicht vom Balkan an die Nordsee kam, in römischen Diensten stand und als Würdenträger in seinem Boot begraben wurde: Das ist Spätantike im Kleinen.",
+            "Die Vorsicht der Forscher ist angebracht. Eine einzelne Genomanalyse ist kein Lebenslauf, und der Gürtel beweist keinen Militärdienst. Aber die Kombination aus Herkunftssignal, römischen Beigaben und Lepra zeigt, wie vernetzt diese scheinbar abgelegene Marschlandschaft war."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/1500-year-old-boat-grave-in-germany-reveals-a-wooden-throne-and-roman-links/" },
+            { "name": "iScience (Studie)", "url": "https://doi.org/10.1016/j.isci.2026.117877" }
+          ],
+          "image": { "url": "https://arkeonews.net/wp-content/uploads/2026/11/Wooden-Throne-scaled.jpg", "alt": "Der verzierte Holzthron aus dem Bootsgrab von Fallward", "credit": "Rolf Kiepe / NIhK", "license": "Artikelbild Arkeonews", "source": "https://arkeonews.net/1500-year-old-boat-grave-in-germany-reveals-a-wooden-throne-and-roman-links/" }
+        },
+        {
+          "title": "Häringe: Das Wrack eines Kriegsschiffs aus den 1480er-Jahren gibt seine Küche preis",
+          "lead": "Vor Stockholm untersuchen Archäologen ein 35 Meter langes Wrack, das das älteste bekannte in Schweden oder Dänemark gebaute mittelalterliche Kriegsschiff sein könnte. Neu entdeckt: Reste der Kombüse und ein Mast aus neun Teilen.",
+          "body": [
+            "Meeresarchäologen des Vrak-Museums und der Södertörn-Hochschule haben bei Häringe südlich von Stockholm das Wrack „Vrak 5“ erneut untersucht. Das Schiff stammt aus den 1480er-Jahren und ist auf rund 35 Metern erhalten, ursprünglich war es nach Schätzung des Archäologen Håkan Altrock wohl 40 bis 45 Meter lang. Es liegt in der Bucht Landfjärden, wo von 2023 bis 2025 sechs Wracks, vier Hafenanlagen und eine Fischereianlage dokumentiert wurden.",
+            "Die Forscher legten mit einer Pumpe einen kleinen Abschnitt frei und dokumentierten ihn in 3D. Sie fanden Ziegel und Mörtel, vermutlich Reste eines Herds oder Ofens, auf dem für die Mannschaft gekocht wurde. Dazu kommen zahlreiche Jungfern, Holzblöcke, mit denen die Taue der Takelage gespannt wurden. Am ungewöhnlichsten ist der Mast: Er besteht nicht aus einem Stamm, sondern aus neun zusammengesetzten Teilen, die von schweren Tauen gehalten werden. Diese Bauweise kannten die Archäologen bisher nur von historischen Gemälden.",
+            "Das Schiff ist in Kraweelbauweise gebaut, die Planken liegen also glatt Kante an Kante statt überlappend wie bei Wikingerschiffen. Diese Technik ermöglichte größere und kampfstärkere Schiffe, und Vrak 5 könnte das früheste bekannte Beispiel aus Schweden oder Dänemark sein. Heck und Ruder stehen noch aufrecht, große Teile der Spanten ragen aus dem Meeresboden.",
+            "Wie das Schiff sank, ist offen. Eine Hypothese verbindet es mit dem Jahr 1501, als König Hans von Dänemark, der als Herrscher der Kalmarer Union auch Anspruch auf Schweden erhob, Häringe im Kampf gegen den schwedischen Reichsverweser Sten Sture den Älteren angriff und niederbrannte. Belegt ist das nicht. Laut Professor Johan Rönnby stammt das Holz offenbar aus Blekinge, das damals zu Dänemark gehörte, was auf ein dänisch gebautes Schiff hindeuten könnte. Da beide Seiten große Kraweelschiffe besaßen, bleibt unklar, wem es gehörte."
+          ],
+          "highlight": "Diese Bauweise kannten die Archäologen bisher nur von historischen Gemälden.",
+          "assessment": [
+            "Das Schöne an diesem Fund ist, dass er eine Lücke zwischen Bild und Sache schließt. Ein Mast aus neun Teilen, den man nur aus Gemälden kannte, liegt jetzt tatsächlich im Schlamm der Ostsee. Das hilft, alte Darstellungen ernster zu nehmen.",
+            "Die Kombüse ist der leise Star. Über Seeschlachten und Schiffbau wissen wir viel, darüber, was Matrosen aßen und wie sie an Bord lebten, sehr wenig. Wenn die Analyse der Ziegel ihre Herkunft verrät, könnte das auch die Frage klären, wessen Schiff hier versank."
+          ],
+          "sources": [
+            { "name": "Medievalists.net", "url": "https://medievalists.net/2026/11/rare-medieval-warship-wreck-investigated-in-sweden" }
+          ],
+          "image": { "url": "https://www.medievalists.net/wp-content/uploads/2026/11/medieval26110414.jpg", "alt": "Illustration des mittelalterlichen Schiffswracks bei Häringe", "credit": "Vrak / SMTM", "license": "Artikelbild Medievalists.net", "source": "https://medievalists.net/2026/11/rare-medieval-warship-wreck-investigated-in-sweden" }
+        },
+        {
+          "title": "Zahlenschloss von 1583: Computertomografie knackt den Code „ANCE“",
+          "lead": "Ein Messingschloss aus dem Wrack der Ann Francis vor Wales war über 400 Jahre verschlossen. Forscher haben die Kombination gefunden, ohne es zu beschädigen.",
+          "body": [
+            "Am 28. Dezember 1583 geriet das Handelsschiff Ann Francis auf dem Weg von Spanien nach England in einen schweren Sturm, kam vom Kurs ab und strandete am Margam Beach nahe dem heutigen Port Talbot in Südwales. An Bord waren Gold- und Silbermünzen, persönliche Gegenstände, Navigationsinstrumente und Handelswaren. Vieles blieb jahrhundertelang im Sand verborgen.",
+            "Zwischen 1996 und 2017 barg der Sondengänger Peter Hughes Hunderte Gegenstände vom Strand, darunter rund 870 Gold- und Silbermünzen aus Spanien, Portugal, Deutschland und Amerika. Ein Fund fiel besonders auf: ein gut erhaltenes Messingschloss mit vier drehbaren Ringen voller Buchstaben. Die Ringe ließen sich noch bewegen, aber niemand kannte die richtige Folge.",
+            "Statt das Schloss aufzubrechen, untersuchten Forscher der Universität Cardiff und des walisischen Nationalmuseums Amgueddfa Cymru es mit Mikro-Computertomografie, einem Röntgenverfahren, das dreidimensionale Bilder des Inneren liefert. David Williams von der Ingenieursfakultät erkannte, welche inneren Kerben zu welchen Buchstaben passen. Die Kombination lautet ANCE, und das Museum konnte das Schloss damit öffnen.",
+            "Das Schloss ist nur 31,8 Millimeter hoch und wiegt 28,5 Gramm, ein sogenanntes Nürnberger Schloss. Ein vergleichbares Stück im British Museum öffnet sich mit MARCI. Ob ANCE für den Besitzer etwas bedeutete, ist unklar. Was es verschloss, ebenfalls: Es lag nahe spanischen Silbermünzen und zwei Münzgewichten, vielleicht sicherte es eine kleine Geldkiste. Akten belegen, dass der Schiffseigner Francis Shaxton aus einer Kaufmannsfamilie stammte, die mit Schmuggel in Verbindung gebracht wird, und dass nach dem Unglück um das Wrack gestritten und geplündert wurde. Das Schloss ist bis September 2027 in der Ausstellung „Tides of Treasure“ im National Waterfront Museum in Swansea zu sehen."
+          ],
+          "highlight": "Die Kombination lautet ANCE, und das Museum konnte das Schloss damit öffnen.",
+          "assessment": [
+            "Eine kleine Geschichte, aber eine wunderbare. Mit einem Gerät, das sonst Knochen durchleuchtet, ein elisabethanisches Zahlenschloss zu knacken, ist genau die Art von Archäologie, die zeigt, wie viel moderne Technik aus scheinbar erschöpften Funden noch herausholt.",
+            "Und es bleibt das Rätsel, das jeder Krimiautor lieben würde: ein Schmugglerschiff, geplünderte Kisten, ein Code, der vielleicht ein Name ist. Die Antwort, was hinter dem Schloss lag, wird man wohl nie bekommen."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/ct-scans-crack-the-code-of-a-400-year-old-shipwreck-lock/" }
+          ],
+          "image": { "url": "https://arkeonews.net/wp-content/uploads/2026/11/The-brass-lock.jpg", "alt": "Das Messing-Zahlenschloss aus dem Wrack der Ann Francis", "credit": "Amgueddfa Cymru", "license": "Artikelbild Arkeonews", "source": "https://arkeonews.net/ct-scans-crack-the-code-of-a-400-year-old-shipwreck-lock/" }
+        },
+        {
+          "title": "Cerveteri: Etruskergräber mit Felsthronen und roten Wandmalereien",
+          "lead": "Bei Sicherungsarbeiten an der Nekropole Monte Abatone haben Archäologen in den Tuff gehauene Throne, rot bemalte Wände und ein fast vollständiges verziertes Gefäß gefunden.",
+          "body": [
+            "Die zuständige italienische Denkmalbehörde für das südliche Etrurien hat am 3. November Funde aus der Nekropole Monte Abatone in Cerveteri nordwestlich von Rom bekanntgegeben. Mehrere Grabkammern waren beschädigt und instabil, deshalb mussten Archäologen eingreifen. Sie räumten blockierte Eingänge frei und trugen angesammelte Ablagerungen ab, bevor sie die Kammern untersuchten.",
+            "Die Gräber unterscheiden sich deutlich. Eine Kammer hat ihre ursprüngliche gewölbte Decke weitgehend behalten, in einer anderen ist die Grabausstattung direkt aus dem vulkanischen Tuff gehauen, darunter thronartige Sitze. Eine dritte zeigt großflächige Reste roter Farbe an den Wänden. Wie die Malereien ursprünglich aussahen und wann sie entstanden, muss noch untersucht werden.",
+            "Unter den Funden sticht eine fast vollständige Olla hervor, ein Gefäß in der Form eines Stamnos mit breitem Bauch. Auf der Oberfläche sind Tierfiguren eingeritzt, einzelne Details sind rot bemalt. Welche Tiere dargestellt sind und wie alt das Gefäß ist, hat die Behörde noch nicht mitgeteilt. Es hat frühere Störungen der Gräber fast unbeschadet überstanden und soll nach der Restaurierung ausgestellt werden.",
+            "Monte Abatone gehörte zur Etruskerstadt Caere, einem der bedeutendsten Zentren dieser Kultur. Die Nekropole wurde vom späten 8. Jahrhundert vor Christus bis ins 1. Jahrhundert vor Christus genutzt. Im 20. Jahrhundert wurden dort Hunderte Gräber erfasst, Grabungen von 2018 bis 2021 untersuchten Grabgruppen aus der ersten Hälfte des 7. Jahrhunderts vor Christus."
+          ],
+          "highlight": "in einer anderen ist die Grabausstattung direkt aus dem vulkanischen Tuff gehauen, darunter thronartige Sitze",
+          "assessment": [
+            "Cerveteri ist eigentlich gut erforscht, deshalb ist interessant, dass solche Funde ausgerechnet bei Notsicherungen auftauchen. Es zeigt, wie viel in bekannten Nekropolen noch unbeachtet liegt, und wie sehr der Verfall diese Orte bedroht.",
+            "Die Felsthrone sind kein Unikat, aber sie illustrieren gut, was die Etrusker unter einem Grab verstanden: kein Loch für den Toten, sondern ein Haus mit Möbeln für ein Weiterleben. Spannend wird, ob die Datierung des Gefäßes zu den älteren oder jüngeren Phasen passt."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/etruscan-tombs-reveal-rock-carved-thrones-painted-walls-and-decorated-pottery/" }
+          ],
+          "image": { "url": "https://arkeonews.net/wp-content/uploads/2026/11/Cerveteri.jpeg", "alt": "Innenraum eines in den Fels gehauenen Etruskergrabs in Cerveteri", "credit": "SABAP Etruria Meridionale", "license": "Artikelbild Arkeonews", "source": "https://arkeonews.net/etruscan-tombs-reveal-rock-carved-thrones-painted-walls-and-decorated-pottery/" }
+        },
+        {
+          "title": "Nicaragua: 372 Hügel ohne Herrscher stellen die Idee monumentaler Baukunst infrage",
+          "lead": "Die Fundstätte Aguas Buenas ist ein riesiges geometrisches Ensemble aus Erd- und Steinhügeln. Neue Grabungen zeigen, dass es über Jahrhunderte gewachsen ist, offenbar ohne zentrale Macht.",
+          "body": [
+            "Südliches Mittelamerika galt lange als Nebenschauplatz der Monumentalarchitektur, weil es dort keine Pyramiden wie bei den Maya und keine großen Steinbauten wie in den Anden gibt. Aguas Buenas in der Region Chontales in Nicaragua passt nicht in dieses Bild. Auf mehr als 30 Hektar liegen mindestens 372 Hügel aus Erde und Stein in einer großen halbkreisförmigen Anordnung, die wegen des Bewuchses vom Boden aus kaum zu erkennen ist.",
+            "Für die Anlage wurden schätzungsweise 50.000 Kubikmeter Stein bewegt, nach früheren Berechnungen mindestens 426 Personenjahre Arbeit. Ein internationales Team unter Leitung von Dita Auziņa von der Universität Leiden hat 2025 zwanzig Hügel untersucht und die Ergebnisse im Fachjournal Antiquity veröffentlicht. In kleinen Gruben an den Gipfeln fanden die Forscher zwischen sechs und 14 Erdschichten und bestimmten ihre Abfolge mit tragbarer optisch stimulierter Lumineszenz.",
+            "Das Ergebnis: Die Hügel wurden nicht in einem Zug gebaut. Menschen fügten über verschiedene Zeiträume Material hinzu, veränderten bestehende Bauten und erneuerten Flächen. Unter vier der äußeren Hügel lagen Ansammlungen großer Keramikgefäße, vielleicht von gemeinsamen Mahlzeiten oder Opfergaben. Im Inneren fanden sich mehr Keramik, Steinwerkzeuge, lehmziegelartiges Baumaterial und Holzkohle. Unter neun Hügeln liegen Schichten vulkanischer Asche.",
+            "Ältere Radiokarbondaten verweisen auf 404 bis 666 nach Christus, die Keramik spricht für eine Nutzung etwa zwischen 300 und 900. Hinweise auf eine Elite oder eine zentrale Verwaltung, die den Bau gesteuert hätte, fanden die Archäologen nicht. Sie behaupten nicht, dass es keine politische Autorität gab, sehen in Aguas Buenas aber ein Gegenbeispiel zur Annahme, dass Monumentalbauten zwingend eine zentrale Führung brauchen."
+          ],
+          "highlight": "Hinweise auf eine Elite oder eine zentrale Verwaltung, die den Bau gesteuert hätte, fanden die Archäologen nicht.",
+          "assessment": [
+            "Das ist ein schönes Beispiel dafür, wie unsere Vorstellung von „Monument“ von Pyramiden und Palästen geprägt ist. Hier entsteht etwas Gewaltiges nicht als Projekt eines Königs, sondern als Landschaft, die Generationen immer wieder umbauen. Die Forscher nennen das „langsame Monumentalität“, ein treffender Begriff.",
+            "Ob es wirklich ohne Anführer ging, lässt sich aus fehlenden Belegen natürlich nicht beweisen. Aber die Beweislast verschiebt sich: Wer behauptet, Großbauten bräuchten Herrscher, muss erklären, warum sie hier keine Spuren hinterlassen haben."
+          ],
+          "sources": [
+            { "name": "Arkeonews", "url": "https://arkeonews.net/nicaraguas-372-ancient-mounds-challenge-ideas-about-monumental-architecture/" }
+          ],
+          "image": { "url": "https://arkeonews.net/wp-content/uploads/2026/11/ancient-mounds-at-Aguas-Buenas-digital.png", "alt": "Digitales Höhenmodell der Hügelanordnung von Aguas Buenas in Nicaragua", "credit": "Auziņa et al., Antiquity (2026)", "license": "Artikelbild Arkeonews", "source": "https://arkeonews.net/nicaraguas-372-ancient-mounds-challenge-ideas-about-monumental-architecture/" }
+        }
+      ]
+    }
+  ]
+}

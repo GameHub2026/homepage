@@ -1,5 +1,39 @@
 [
   {
+    "nr": 29,
+    "date": "2026-11-05",
+    "updated": "2026-11-05T07:50:00+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Zwischenwahlen: Der Ärger über Rechenzentren wird zur politischen Kraft",
+      "Google stellt Schulen vor die Wahl: KI einschalten oder ohne Suche leben",
+      "Anthropic arbeitet an einem kryptografischen Ausweis für KI-Modelle",
+      "Meta kauft das Coding-Start-up Conductor",
+      "Apple rationiert die KI-Nutzung seiner Ingenieure",
+      "Arkane-Gewerkschaft: Xbox „sabotiert“ Blade, während Käufer bieten",
+      "God of War Laufey wird auf den 20. Mai 2027 verschoben",
+      "Ocarina-of-Time-Remake ist das bestbewertete Spiel des Jahres",
+      "Nintendo, Xbox, EA und Ubisoft führen einheitliche Barrierefreiheits-Kennzeichen ein",
+      "BioWare-Fans bitten die kanadische Regierung um Rettung des Studios",
+      "Nach der Wahl: Wackelt die geplante Bundesförderung für Hollywood?",
+      "Neu: Godzilla Minus Zero steuert in Nordamerika auf 30 Millionen Dollar zu",
+      "Wechsel an der Pixar-Spitze: Jonathan Garson folgt auf Jim Morris",
+      "„The Pitt“ gegen die Crichton-Erben: Der Streit geht vor Gericht",
+      "Adam Driver: Kylo Ren ist erledigt, „The Hunt for Ben Solo“ kommt nicht",
+      "DC plant einen neuen Constantine-Film mit Francis Galluppi",
+      "Bootsgrab an der Nordsee: Der Mann mit dem Thron hatte Lepra und Wurzeln im Donauraum",
+      "Häringe: Das Wrack eines Kriegsschiffs aus den 1480er-Jahren gibt seine Küche preis",
+      "Zahlenschloss von 1583: Computertomografie knackt den Code „ANCE“",
+      "Cerveteri: Etruskergräber mit Felsthronen und roten Wandmalereien",
+      "Nicaragua: 372 Hügel ohne Herrscher stellen die Idee monumentaler Baukunst infrage"
+    ]
+  },
+  {
     "nr": 28,
     "date": "2026-11-03",
     "updated": "2026-11-03T07:47:53+01:00",
