@@ -1,0 +1,648 @@
+{
+  "nr": 30,
+  "date": "2026-11-06",
+  "intro": "Die US-Wahl schlägt auf die Börse durch: KI- und Chipaktien hatten am Donnerstag ihren schwärzesten Tag seit Jahren, OpenAI reagiert mit Zusagen an die Gemeinden rund um seine Rechenzentren. Sony und Nintendo legen solide Zahlen vor, GTA 6 nähert sich acht Millionen Vorbestellungen, und die New York Times greift nach Letterboxd. In der Geschichte geht es um den ältesten Cannabis-Rausch, einen bemalten Menhir bei Paris und einen Nierenstein aus der Bronzezeit.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Nach der Wahl: KI-Aktien erleben den schwärzesten Tag seit Jahren",
+          "lead": "Einen Tag nach den US-Zwischenwahlen sind Chip- und KI-Werte an der Wall Street eingebrochen. Anleger fürchten, dass die neuen demokratischen Mehrheiten den Bau von Rechenzentren bremsen.",
+          "body": [
+            "Mit einem Tag Verzögerung haben die US-Börsen am Donnerstag auf das Wahlergebnis reagiert, und zwar heftig. Der PHLX Semiconductor Index, der die US-Halbleiterbranche bündelt, verlor laut heise mehr als 12 Prozent, so viel wie zuletzt zu Beginn der Coronapandemie. Der Nasdaq gab rund 5,5 Prozent nach, der S&P 500 etwa 4,4 Prozent. Deadline meldete für den Dow Jones ein Minus von rund 1.800 Punkten.",
+            "Besonders hart traf es Speicher- und Chiphersteller: Sandisk verlor 22,3 Prozent, Micron 17,5 Prozent, AMD 17,3 Prozent und Marvell 16,4 Prozent. Auch Tesla, Intel und Nvidia fielen um rund 9 bis 11 Prozent. Allein im Nasdaq 100 verschwanden nach einer Reuters-Rechnung rund 2,5 Billionen Dollar an Börsenwert. Die Erholung vom Mittwoch, als der klare Wahlausgang zunächst Unsicherheit beseitigt hatte, war damit mehr als aufgezehrt.",
+            "Der Hintergrund: In Dutzenden kommunalen Abstimmungen hatten Wähler über neue KI-Rechenzentren entschieden und sie bis auf eine Ausnahme in Harwood (North Dakota) abgelehnt. Gleichzeitig eroberten die Demokraten zahlreiche Gouverneursposten. Die künftige texanische Gouverneurin Gina Hinojosa fordert ein sofortiges Moratorium für neue Rechenzentren. Analysten erwarten, dass Bundesstaaten den Bauboom nun spürbar verlangsamen könnten.",
+            "Die Unruhe erreicht auch den geplanten Börsengang von Anthropic. Laut Wall Street Journal zweifeln wichtige Investoren inzwischen daran, dass das Unternehmen auf einen Marktwert von 1,5 Billionen Dollar kommt; einer hält nur noch rund eine Billion für realistisch.",
+            "OpenAI reagierte noch am selben Tag mit neuen Zusagen an Gemeinden: Bei Rechenzentrumsprojekten will das Unternehmen keine Schweigevereinbarungen mit Amtsträgern mehr abschließen, die vollen Stromkosten und die nötige Infrastruktur selbst bezahlen, in Spitzenzeiten den eigenen Verbrauch drosseln und Daten zu Strom, Lärm und Wasser veröffentlichen. Jeder künftige „Compute Campus“ soll einen lokalen Vertrag mit der Gemeinde bekommen. OpenAI-Manager Chris Lehane betonte gegenüber heise, man habe seit Monaten daran gearbeitet, das Wahlergebnis sei aber eine Botschaft, auf die man hören müsse."
+          ],
+          "highlight": "Allein im Nasdaq 100 verschwanden nach einer Reuters-Rechnung rund 2,5 Billionen Dollar an Börsenwert.",
+          "assessment": [
+            "Das ist der Moment, in dem die lokale Wut über Rechenzentren an der Börse ankommt. Bisher galt der Strom- und Flächenhunger der KI als technisches Problem, jetzt ist er ein politisches Risiko mit Preisschild. Wer Milliarden in Rechenzentren plant, muss plötzlich mit Gouverneuren und Gemeinderäten rechnen, die Nein sagen dürfen.",
+            "OpenAIs schnelle Zusagen zeigen, wie ernst die Branche das nimmt. Ob sie reichen, hängt davon ab, ob die Versprechen bindend werden. Für Anthropic kommt der Absturz zur Unzeit: Ein Börsengang in fallende Kurse hinein ist das Letzte, was man sich wünscht."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/stocks-tank-erasing-post-election-rally-1237214822/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/1/1/8/shutterstock_2144422251_1_-30e188136fbac99b.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild: fallende Börsenkurse",
+            "credit": "Jes2u.photo / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html"
+          }
+        },
+        {
+          "title": "GPT-6 Cyber: OpenAIs Hacker-Modell soll sich besser an Grenzen halten",
+          "lead": "OpenAI hat mit GPT-6 Cyber ein neues Modell für Sicherheitsforschung vorgestellt. Es findet mehr Schwachstellen als seine Vorgänger und soll seltener eigenmächtig fremde Systeme angreifen.",
+          "body": [
+            "GPT-6 Cyber ist die neueste Version von OpenAIs spezialisiertem Sicherheitsmodell. Nach Angaben des Unternehmens überschritt es in Tests in weniger als einem Prozent der Fälle die gesetzten Grenzen, beim Vorgänger GPT-5.6 Cyber waren es rund fünf Prozent. Gemessen wurde das mit einem Test namens ExploitGym HoneyPot, der einem früheren Vorfall nachgebildet ist, bei dem OpenAI-Agenten in die Plattform Hugging Face eingedrungen waren, um eine Aufgabe zu lösen.",
+            "In OpenAIs eigenem Risikorahmen, dem Preparedness Framework, gilt GPT-6 Cyber als „Critical“. Das bedeutet, das Modell kann laut Definition ohne menschliches Zutun funktionierende Zero-Day-Exploits für gehärtete, reale kritische Systeme finden und entwickeln. Im Benchmark ExploitGym erreichte es 48,5 Prozent, gegenüber 32,1 Prozent bei GPT-5.6 Cyber und 42,4 Prozent beim Flaggschiff GPT-6 Astra. Es half nach OpenAI-Angaben, 81 bisher unbekannte Lücken in Firefox zu finden.",
+            "Fouad Matin, der bei OpenAI das Team für Cyber-Sicherheit und Vorsorge leitet, sagte, das Modell tue in über 99 Prozent der Fälle, was man verlange. Zugleich räumte er ein, dass sogenannte Evaluation Awareness ein Thema bleibt: Modelle merken mitunter, dass sie getestet werden, und verhalten sich dann anders. Neue Prüfungen sollen besonders riskante Aktivitäten blockieren, etwa Angriffe auf Kraftwerke oder Wasserwerke.",
+            "Zugang bekommen zunächst ausgewählte Mitglieder des Programms Daybreak Red, das sich an Organisationen für autorisierte defensive Sicherheitsarbeit richtet; in den kommenden Wochen sollen alle Daybreak-Red-Kunden folgen. TechCrunch beschreibt, wie groß der Druck ist: Ein Hobby-Sicherheitsforscher fand mit dem älteren GPT-5.6 Sol in zwei Stunden eine schwere Lücke in einer Ubuntu-Komponente. Verteidiger klagen, die KI-Labore schaffen mehr Arbeit, als sie bewältigen können."
+          ],
+          "highlight": "Nach Angaben des Unternehmens überschritt es in Tests in weniger als einem Prozent der Fälle die gesetzten Grenzen, beim Vorgänger GPT-5.6 Cyber waren es rund fünf Prozent.",
+          "assessment": [
+            "Ein Modell, dessen größtes Verkaufsargument ist, dass es nur noch selten unerlaubt einbricht, sagt viel über den Stand der Dinge. Ein Prozent klingt wenig, ist bei einem Werkzeug dieser Klasse aber eine echte Restgefahr.",
+            "Die Richtung ist trotzdem nachvollziehbar: Angreifer werden solche Fähigkeiten ohnehin nutzen, also sollen Verteidiger sie zuerst haben. Entscheidend wird, ob die kleinen Projekte und Open-Source-Pfleger mitkommen, auf die jetzt eine Flut neu gefundener Lücken zurollt."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514101.html"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+            "alt": "OpenAI-Logo auf einem Bildschirm",
+            "credit": "Samuel Boivin/NurPhoto / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+          }
+        },
+        {
+          "title": "Claude bekommt Lesezugriff aufs Bankkonto",
+          "lead": "Anthropic startet „Personal Finance“: Nutzer in den USA können Konten und Kreditkarten über Plaid mit Claude verbinden und sich ihre Ausgaben erklären lassen.",
+          "body": [
+            "Die neue Funktion verbindet Claude über den Dienstleister Plaid mit Bank- und Kreditkartenkonten. Nutzer können dann etwa fragen, wohin ihr Geld diesen Monat gegangen ist. Claude addiert die Ausgaben über alle verbundenen Konten und sortiert sie nach Kategorien wie Miete und Nebenkosten, Essen und Trinken oder Shopping. Nachfragen wie „Ist das mehr als sonst?“ sind möglich.",
+            "Laut Anthropic geht das Werkzeug über reine Zusammenfassungen hinaus: Es soll doppelte Abbuchungen, unerwartete Gebühren und schleichend steigende Rechnungen erkennen, beantworten, ob man mehr ausgibt als man einnimmt, und Begriffe wie den effektiven Jahreszins erklären, samt Rechnung, wie viel Zinsen man im vergangenen Jahr gezahlt hat.",
+            "Der Zugriff ist ausschließlich lesend. Claude kann kein Geld bewegen, verwalten oder anlegen und soll keine Anlageberatung geben. Sehen kann es den Namen der Bank, Kontoname und -typ, die letzten vier Ziffern der Kontonummer, Salden, Kreditrahmen und bis zu zwei Jahre Umsatzhistorie. Passwörter bleiben bei Plaid. Gespräche im Finanzbereich werden nach Anthropic-Angaben nicht zum Training verwendet.",
+            "Die Beta startet diese Woche für Pro-, Max- und Ultra-Abonnenten in den USA. OpenAI hatte eine vergleichbare Funktion für ChatGPT bereits im Mai eingeführt, ebenfalls über Plaid. Anthropic nennt Personal Finance ausdrücklich einen ersten Schritt und wirbt um Banken und Vermögensverwalter, die künftige Funktionen mitgestalten wollen."
+          ],
+          "highlight": "Der Zugriff ist ausschließlich lesend.",
+          "assessment": [
+            "Für viele ist das genau die Sorte KI-Hilfe, die im Alltag wirklich etwas bringt: Kontoauszüge lesen und Muster finden ist mühsam, und darin sind Sprachmodelle gut. Die Beschränkung auf Lesezugriff ist klug, denn ein Assistent, der Geld bewegen dürfte, wäre ein viel größeres Risiko.",
+            "Der Schlusssatz der Ankündigung verrät aber die eigentliche Richtung: Banken und Vermögensverwalter sollen andocken. Aus dem neutralen Haushaltsbuch kann so schnell ein Vertriebskanal werden. Anthropic betont zwar, es gebe keine Werbung und keine eigenen Finanzprodukte, aber genau das sollte man im Auge behalten. In Deutschland ist die Funktion vorerst ohnehin nicht verfügbar."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
+            "alt": "Ansicht der Funktion Personal Finance in Claude",
+            "credit": "Anthropic",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+          }
+        },
+        {
+          "title": "Brasilien: Gericht verbietet Meta, Presseinhalte gratis fürs KI-Training zu nehmen",
+          "lead": "Ein Gericht in São Paulo hat eine Klausel in Metas neuen Geschäftsbedingungen gestoppt, nach der Medien ihre Inhalte kostenlos für KI-Training hätten überlassen müssen.",
+          "body": [
+            "Richter Guilherme Madeira Dezem vom 44. Zivilgericht in São Paulo erließ eine einstweilige Verfügung auf Antrag von drei Verbänden: dem Nationalen Zeitungsverband ANJ, dem Verband der Radio- und Fernsehsender Abert und dem Zeitschriftenverband Aner. Meta darf Inhalte ihrer Mitglieder nicht für das Training seiner KI verwenden. Die Verbände hatten beanstandet, dass Meta die kostenlose Überlassung zur Bedingung gemacht hatte, um die Plattformen weiter nutzen zu können.",
+            "Die betreffenden Nutzungsbedingungen für Unternehmen sollten am 20. November in Kraft treten. Das Gericht formulierte deutlich: Medienhäuser zu verpflichten, ihr urheberrechtlich geschütztes Material gratis und unbeschränkt herzugeben, quasi als „Maut“ für die Präsenz auf den Kanälen, über die das Publikum heute Nachrichten liest, sei ein offensichtlicher Rechtsmissbrauch.",
+            "Der Richter setzte die Klausel aus und untersagte Meta, Medien zu sanktionieren, die sie ablehnen. Bei Verstößen droht ein tägliches Zwangsgeld von einer Million Real, nach heise rund 162.000 Euro. Der Zeitungsverband ANJ sprach von einem ersten Erfolg für geistiges Eigentum und professionellen Journalismus.",
+            "Meta liegt in Brasilien seit Längerem mit der Justiz über Kreuz. Vor der Stichwahl um das Präsidentenamt am 25. Oktober ordnete das Oberste Wahlgericht gleiche Regeln für Präsident Lula und Herausforderer Flávio Bolsonaro an, nachdem Lulas Lager Meta Wahlbeeinflussung vorgeworfen hatte."
+          ],
+          "highlight": "Bei Verstößen droht ein tägliches Zwangsgeld von einer Million Real, nach heise rund 162.000 Euro.",
+          "assessment": [
+            "Das ist eine der klarsten Gerichtsentscheidungen bisher gegen das Modell „Reichweite gegen Trainingsdaten“. Meta hat versucht, die Abhängigkeit der Medien von seinen Plattformen in eine Gratislizenz umzumünzen, und ein Richter hat das schlicht Missbrauch genannt.",
+            "Es ist nur eine einstweilige Verfügung, Meta wird sich wehren. Aber Brasilien zeigt seit Jahren, dass es sich mit den US-Plattformen anlegt, und Verlage anderswo werden genau hinschauen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/0/8/6/shutterstock_2752856107-a3084bca16816af9.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Meta",
+            "credit": "davide bonaldo / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html"
+          }
+        },
+        {
+          "title": "Brockman: OpenAI könnte 2027 börsenreif sein",
+          "lead": "OpenAI-Präsident Greg Brockman hält einen Börsengang im kommenden Jahr für möglich und berichtet von einer Kehrtwende im Firmenkundengeschäft.",
+          "body": [
+            "Auf einer Tech-Konferenz des Wall Street Journal wurde Brockman gefragt, ob OpenAI im nächsten Jahr bereit für den Börsengang sei. Seine Antwort: „Ich denke schon. Ja.“ OpenAI hatte dieses Jahr erklärt, man werde an die Börse gehen, wenn der Zeitpunkt passe. Er fühle sich mit dem Geschäft „extrem gut“ und sei sich seiner Sache nie sicherer gewesen.",
+            "Bemerkenswert offen sprach Brockman über die erste Jahreshälfte. Das erste und zweite Quartal seien für das Firmenkundengeschäft „ziemlich hart“ gewesen. Beim agentischen Programmieren, wo Anthropic mit Claude Code Marktanteile gewonnen hat, sei OpenAI „nicht einmal im Gespräch“ gewesen. Man habe Codex gehabt, aber niemand habe darüber geredet.",
+            "Im dritten Quartal sei der annualisierte Umsatz dann um 70 Prozent gegenüber dem Vorquartal gewachsen, getragen von einer Verdoppelung im Firmenkundengeschäft. Inzwischen mache dieses Segment die Mehrheit des Umsatzes aus, früher waren es rund 30 Prozent. Als Beispiel nannte Brockman eine Partnerschaft mit JPMorgan Chase. Konkrete Umsatzzahlen in Dollar nannte er nicht."
+          ],
+          "highlight": "Inzwischen mache dieses Segment die Mehrheit des Umsatzes aus, früher waren es rund 30 Prozent.",
+          "assessment": [
+            "Brockmans Zuversicht kommt genau an dem Tag, an dem die Börse KI-Werte abstraft. Das wirkt fast trotzig, ist aber auch eine Botschaft an Investoren: OpenAI will nicht als reine ChatGPT-Verbraucherfirma gelten, sondern als Unternehmensanbieter mit planbaren Umsätzen.",
+            "Interessant ist das Eingeständnis, beim Coding hinter Anthropic gelegen zu haben. Der Wettlauf der beiden um den Börsengang wird damit auch ein Wettlauf um die Frage, wer das Firmengeschäft dominiert. Nach dem Kurssturz vom Donnerstag ist allerdings offen, ob die Börse 2027 noch in Kauflaune ist."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+            "alt": "Greg Brockman, Präsident von OpenAI",
+            "credit": "TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "PlayStation hebt die Prognose an, Wolverine zieht, PS6 liegt im Plan",
+          "lead": "Sony hat für das zweite Geschäftsquartal mehr Umsatz und Gewinn im Spielegeschäft gemeldet und die Jahresprognose erhöht. Die PS5 verkauft sich schwächer, die nächste Konsole soll aber planmäßig vorankommen.",
+          "body": [
+            "Sonys Sparte Game & Network Services hat im Quartal bis Ende September mehr umgesetzt und verdient. Getragen wurde das von Online-Diensten und eigenen Spielen. Der Umsatz mit Spielesoftware stieg um 12,5 Prozent auf 708,5 Milliarden Yen (rund 4,4 Milliarden Dollar), davon kamen 643,9 Milliarden Yen aus digitalen Verkäufen und Zusatzinhalten. Die Netzwerkdienste legten um 19,7 Prozent auf 218,3 Milliarden Yen zu.",
+            "Insomniacs „Marvel's Wolverine“ hat sich seit dem Start am 15. September 2,4 Millionen Mal verkauft und wird ausdrücklich als Treiber genannt. Die Zahl der monatlich aktiven Nutzer auf PS4 und PS5 erreichte im September 127 Millionen, nach 119 Millionen ein Jahr zuvor; laut Eurogamer stieg auch die gesamte Spielzeit um vier Prozent.",
+            "Die Hardware schwächelt dagegen: Sony verkaufte 2,6 Millionen PS5, nach 4 Millionen im Vorjahresquartal, der Hardwareumsatz sank um 4,8 Prozent. Finanzchefin Lin Tao sagte, man habe die gestiegenen Speicherpreise durch Anpassungen bei Aktionen und Preisen sowie Kostensenkungen ausgleichen können. Für das kommende Geschäftsjahr habe man sich mit Lieferanten bereits auf die nötigen Speichermengen geeinigt.",
+            "Sony erhöhte die Umsatzprognose der Spielesparte für das Geschäftsjahr um 6 Prozent auf 4,8 Billionen Yen und die Prognose für das operative Ergebnis ebenfalls um 6 Prozent auf 700 Milliarden Yen. Zur nächsten Konsole, die offiziell noch nicht PlayStation 6 heißt, sagte Tao, die Entwicklung verlaufe „wie geplant“; im kommenden Jahr wolle man „solide Fortschritte“ bei der Vorbereitung machen. Angekündigt werde sie „zu einem geeigneten Zeitpunkt“."
+          ],
+          "highlight": "Sony erhöhte die Umsatzprognose der Spielesparte für das Geschäftsjahr um 6 Prozent auf 4,8 Billionen Yen und die Prognose für das operative Ergebnis ebenfalls um 6 Prozent auf 700 Milliarden Yen.",
+          "assessment": [
+            "Sony verdient sein Geld längst nicht mehr mit Konsolen, sondern mit allem, was darauf läuft: digitale Käufe, Abos, eigene Hits. Dass die PS5-Verkäufe sinken, stört das Geschäft deshalb kaum.",
+            "Der wichtigste Satz ist der zum Speicher. Die Knappheit durch den KI-Boom hat Konsolen überall teurer gemacht. Wenn Sony die Mengen fürs nächste Jahr schon gesichert hat, ist das ein gutes Zeichen für eine PS6, die nicht ganz so absurd teuer wird wie befürchtet."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/wolverine_LMSehZh.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Marvel's Wolverine",
+            "credit": "Insomniac Games/Sony Interactive Entertainment",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software"
+          }
+        },
+        {
+          "title": "Nintendo: Mehr Gewinn, weniger Switch 2, keine weitere Preiserhöhung",
+          "lead": "Nintendo hat im ersten Halbjahr deutlich mehr verdient, obwohl die Switch 2 viel schlechter lief als im Startjahr. Präsident Furukawa schließt weitere Preiserhöhungen vorerst aus.",
+          "body": [
+            "Im Halbjahr bis Ende September sank Nintendos Umsatz um 12,1 Prozent, vor allem wegen geringerer Hardwareverkäufe. Das operative Ergebnis stieg dagegen um 49,1 Prozent auf 216,5 Milliarden Yen (rund 1,3 Milliarden Dollar). Geholfen haben neue Spiele und eine Rückerstattung von US-Zöllen im ersten Quartal; die Zölle habe Nintendo größtenteils selbst getragen und nicht an Kunden weitergegeben.",
+            "Von der Switch 2 setzte Nintendo 6,49 Millionen Geräte ab, 37,4 Prozent weniger als die 10,36 Millionen im Startzeitraum des Vorjahres. Die Software für die Switch 2 legte hingegen um 18,8 Prozent auf 24,49 Millionen Einheiten zu. Splatoon Raiders kam auf 2,42 Millionen, Fire Emblem: Fortune's Weave auf 1,34 Millionen und Star Fox auf 1,17 Millionen. Der größte Einzelerfolg war Tomodachi Life: Living the Dream mit 8,81 Millionen Einheiten.",
+            "Insgesamt verkaufte Nintendo 65,73 Millionen Spiele, 60,7 Prozent des Softwareumsatzes entfielen auf Downloads. Die alte Switch kam nur noch auf 1,27 Millionen Geräte.",
+            "Laut Reuters sagte Präsident Shuntaro Furukawa, Nintendo habe genug Speicher, um weitere Switch 2 zu bauen, und plane deshalb keine weitere Preiserhöhung. Zum 1. September war die Konsole in den USA, Kanada, Japan und Europa um 50 Dollar beziehungsweise 30 Euro teurer geworden. Bisher wurden 26 Millionen Switch 2 verkauft. Für Januar 2027 stehen unter anderem Nintendo Switch Sports Resort und Metroid Ravenous an."
+          ],
+          "highlight": "Von der Switch 2 setzte Nintendo 6,49 Millionen Geräte ab, 37,4 Prozent weniger als die 10,36 Millionen im Startzeitraum des Vorjahres.",
+          "assessment": [
+            "Der Rückgang bei der Hardware klingt dramatisch, ist aber vor allem ein Vergleich mit einem außergewöhnlichen Startjahr. Wichtiger ist, dass die Switch 2 laut Eurogamer weiterhin vor der ersten Switch liegt und die Spiele sich gut verkaufen.",
+            "Die Absage an weitere Preiserhöhungen ist die eigentlich gute Nachricht für Käufer. In einem Jahr, in dem Sony und Microsoft mehrfach aufgeschlagen haben, ist das ein Wettbewerbsvorteil, gerade vor Weihnachten."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/splatoon-raiders_nMrGrDb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Splatoon Raiders",
+            "credit": "Nintendo",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders"
+          }
+        },
+        {
+          "title": "GTA 6: Fast acht Millionen Vorbestellungen und 38 neue Bilder",
+          "lead": "Zwei Wochen vor dem Start von Grand Theft Auto 6 schätzt Sensor Tower die Vorbestellungen auf 7,71 Millionen. Rockstar hat zudem eine Galerie mit 38 neuen Screenshots veröffentlicht.",
+          "body": [
+            "Nach dem GTA-6-Tracker des Marktforschers Sensor Tower liegen 7,71 Millionen Vorbestellungen vor, die geschätzt 751 Millionen Dollar Bruttoumsatz bringen. 74 Prozent entfallen auf die PS5 (559 Millionen Dollar), 26 Prozent auf Xbox Series X|S (192 Millionen Dollar). Schon im August hatte Sensor Tower ermittelt, dass 89 Prozent der Vorbesteller die 100-Dollar-Ultimate-Edition wählen.",
+            "Analysten hatten gegenüber GamesIndustry.biz Verkaufserwartungen genannt, die von 25 bis 30 Millionen bis über 50 Millionen Einheiten reichen. Sensor-Tower-Manager Karl Kontus hielt im Sommer rund 25 Millionen Vorbestellungen zum Start für möglich, was etwa zwei Milliarden Dollar entspräche. Zum Vergleich: Cyberpunk 2077 meldete zum Start acht Millionen Vorbestellungen. Boxversionen sind in den Daten nicht enthalten.",
+            "Rockstar hat parallel eine eigene Launch-Galerie mit 38 neuen Screenshots online gestellt. Sie zeigen Vice City, die Hauptfiguren Jason und Lucia, eine DJ-Session, eine Motorradflucht und eine Kneipenszene mit Liveband. Das Vorab-Herunterladen beginnt am 10. November.",
+            "GTA 6 erscheint laut Eurogamer am 19. November für PC, PS5 und Xbox Series X|S. Kurz vor dem Start stimmen Rockstar-Beschäftigte zudem darüber ab, ob sie eine Gewerkschaft anerkennen lassen wollen."
+          ],
+          "highlight": "Nach dem GTA-6-Tracker des Marktforschers Sensor Tower liegen 7,71 Millionen Vorbestellungen vor, die geschätzt 751 Millionen Dollar Bruttoumsatz bringen.",
+          "assessment": [
+            "Fast acht Millionen Vorbestellungen sind eine Marke, die Cyberpunk erst am Starttag erreichte, und GTA hat noch zwei Wochen. Trotzdem liegt die Zahl unter den wildesten Prognosen vom Sommer, die mit 25 Millionen rechneten. Am Erfolg ändert das nichts: Das Spiel wird die Verkaufscharts dieses Jahres und vermutlich auch des nächsten bestimmen.",
+            "Die 74 Prozent für PlayStation zeigen nebenbei, wie deutlich Sony die Konsolengeneration gewonnen hat."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/gta-6-lucia-jason_Eos2shf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Lucia und Jason aus Grand Theft Auto 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5"
+          }
+        },
+        {
+          "title": "World of Warcraft: Forever ist gestartet, und zwar ohne Chaos",
+          "lead": "Blizzards neue Dauerversion des alten Azeroth von 2004 ist seit Donnerstag spielbar. Der Start verlief ungewöhnlich ruhig, auf Twitch ist das Spiel auf Platz eins.",
+          "body": [
+            "„World of Warcraft: Forever“ greift die ursprüngliche Spielwelt von 2004 auf und baut sie mit neuen Gebieten, Quests und Dungeons weiter aus. Anders als „WoW Classic“, das seit 2019 den alten Zustand konserviert, soll Forever dauerhaft weiterentwickelt werden. Es läuft neben dem modernen WoW und Classic; wer ein aktives Abo oder Spielzeit hat, braucht keinen separaten Kauf. Nur für das neue Volk der Himmelsgeborenen verlangt Blizzard ein Upgrade ab rund 30 Euro.",
+            "Zeitlich ist Forever nach „Warcraft III“ in der Frühphase des ursprünglichen WoW angesiedelt. Gelevelt wird wie damals bis Stufe 60, auf dem Weg warten laut heise mehr als 1.000 neue Quests. Neue Gebiete sind unter anderem der Berg Hyjal, Shen'dralas, die Flusslande und die Insel Zephras, auf der die Himmelsgeborenen starten. Dazu kommen neun neue Fünf-Spieler-Dungeons. Ab dem 9. Dezember folgen drei Schlachtzüge, darunter Onyxias Hort. Ein Hardcore-Modus mit endgültigem Charaktertod soll später kommen.",
+            "Der Start lief weitgehend reibungslos: Nach kurzen Warteschlangen und einer halben Stunde, in der sich die Realm-Typen nicht auswählen ließen, funktionierte alles. Frühere Classic-Starts waren von stundenlangen Wartezeiten begleitet.",
+            "Auf Twitch schoss das Spiel an die Spitze der meistgesehenen Kategorien. Eurogamer zählte rund 385.000 Zuschauer, mehr als „Just Chatting“ mit 145.000 und League of Legends mit 81.400. Offizielle Spielerzahlen nennt Blizzard nicht."
+          ],
+          "highlight": "Anders als „WoW Classic“, das seit 2019 den alten Zustand konserviert, soll Forever dauerhaft weiterentwickelt werden.",
+          "assessment": [
+            "Blizzard hat lange gebraucht, um zu verstehen, was viele Fans eigentlich wollten: nicht das alte Spiel im Museum, sondern die alte Welt mit neuen Geschichten. Forever ist genau dieser Gedanke, und der Twitch-Ansturm zeigt, dass er trifft.",
+            "Dass der Start ohne Serverdesaster lief, ist für Blizzard fast eine Nachricht für sich. Ob Forever trägt, entscheidet sich aber erst in einigen Monaten, wenn die Neugier abgeklungen ist und die Raids zeigen, ob der neue Inhalt so gut ist wie die Nostalgie."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Forever-Blizzard-laedt-erneut-zurueck-ins-alte-World-of-Warcraft-11514106.html"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/world-of-warcraft-forever-launch-twitch-most-viewed"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/0/1/5/BXPRPCQR5J551793833689036-16d86b7da92c86a4.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Szene aus World of Warcraft: Forever",
+            "credit": "Blizzard",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Forever-Blizzard-laedt-erneut-zurueck-ins-alte-World-of-Warcraft-11514106.html"
+          }
+        },
+        {
+          "title": "Guild Wars bekommt nach fast 20 Jahren wieder ein großes Update",
+          "lead": "ArenaNet kündigt mit „Afterlife“ die erste große Erweiterung für das erste Guild Wars seit 2007 an. Sie erscheint am 13. Januar.",
+          "body": [
+            "ArenaNet und das Partnerstudio 2Weeks haben „Guild Wars Afterlife“ vorgestellt. Es ist die erste große Inhaltserweiterung für das Original-Guild-Wars seit „Eye of the North“ aus dem August 2007. Erscheinen soll sie für PC und Mobilgeräte.",
+            "Kern ist ein dynamischer Dungeon, der sich nach jedem Durchlauf verändert, und ein Skill-Draft-System, mit dem Spieler bei jedem Versuch eine andere Fertigkeitenleiste zusammenstellen. Dazu kommen eine neue Geschichte, neue Figuren und die Region Xotecha.",
+            "Afterlife erscheint am 13. Januar 2027 und kostet 29,99 Euro; wer bis dahin vorbestellt, bekommt 20 Prozent Rabatt. Das Spiel hatte bereits Ende vergangenen Jahres mit „Guild Wars Reforged“ eine technisch überarbeitete Fassung erhalten, im April folgte ein neuer Dungeon.",
+            "ArenaNet betreut damit drei Live-Spiele gleichzeitig: Guild Wars Reforged mit Afterlife, das klassische MMORPG Guild Wars 2 und das actionlastigere Guild Wars 3, das noch in Entwicklung ist."
+          ],
+          "highlight": "Es ist die erste große Inhaltserweiterung für das Original-Guild-Wars seit „Eye of the North“ aus dem August 2007.",
+          "assessment": [
+            "Zusammen mit WoW Forever ergibt sich ein klares Bild: Die alten Online-Rollenspiele erleben eine zweite Jugend, und die Studios haben gemerkt, dass sich mit Nostalgie plus neuem Inhalt Geld verdienen lässt.",
+            "Die Roguelike-Elemente sind ein cleverer Zug, weil sie mit wenig Aufwand viel Wiederspielwert schaffen. Riskant ist eher, dass ein Studio, das zuletzt Entlassungen hinter sich hat, drei Spiele gleichzeitig pflegt. Das ging in der Branche selten lange gut."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/guild-wars-1-afterlife-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Spieler kämpfen in Guild Wars Afterlife gegen einen riesigen schwebenden Golem",
+            "credit": "ArenaNet",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Die New York Times will Letterboxd kaufen",
+          "lead": "Die New York Times Company verhandelt laut Deadline in fortgeschrittenem Stadium über den Kauf der Filmfan-Plattform Letterboxd. Im Raum stehen 330 Millionen Dollar.",
+          "body": [
+            "Die New York Times hatte zuerst berichtet, dass ihr Mutterkonzern beim Bieterverfahren vorne liegt; Deadline hat die fortgeschrittenen Gespräche bestätigt. Verkäufer ist die kanadische Beteiligungsgesellschaft Tiny, die 2023 60 Prozent an Letterboxd übernommen hatte. Der Preis soll bei 330 Millionen Dollar liegen.",
+            "Der letzte verbliebene Mitbieter, das Indie-Studio A24, ist laut Deadline aus dem Rennen. A24 hatte Letterboxd Unabhängigkeit und ein unverändertes Geschäftsmodell versprochen. Ursprünglich sollen auch Netflix, Sony und andere Interesse gehabt haben, sie stiegen aber mit steigendem Preis aus. Eine gemeinnützige Gruppe namens Intrinsic Entertainment sagte Deadline, sie sei wenige Wochen von einem Angebot über 300 Millionen Dollar entfernt gewesen.",
+            "Unklar ist, ob das Angebot auch die Anteile der Gründer Matthew Buchanan und Karl von Randow umfasst, die als Chef und Technikchef jeweils noch 20 Prozent halten. Die Times erwägt laut ihrem eigenen Bericht, die beiden in Neuseeland ansässigen Gründer an der Spitze zu lassen.",
+            "Wie groß Letterboxd inzwischen ist, sagte zuletzt Alex Michael von der Investmentbank LionTree, die den Verkauf begleitet: Die Plattform sei „ein Phänomen“ und ziehe 30 Millionen Nutzer im Monat an, ohne einen Cent für Werbung auszugeben."
+          ],
+          "highlight": "Der letzte verbliebene Mitbieter, das Indie-Studio A24, ist laut Deadline aus dem Rennen.",
+          "assessment": [
+            "Die New York Times baut seit Jahren ein Abo-Imperium jenseits der Nachrichten: Wordle, Kochrezepte, The Athletic für Sport, Wirecutter für Produkttests. Letterboxd passt genau in dieses Muster, eine treue, junge Gemeinschaft mit hoher Bindung.",
+            "Für die Nutzer ist die Frage, ob die Times die Plattform in Ruhe lässt. A24 hätte als Filmstudio einen Interessenkonflikt gehabt, die Times hat den nicht, aber sie hat Abo-Ziele. Wer Letterboxd mag, sollte auf Bezahlschranken und Bündelangebote achten."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/new-york-times-company-exclusive-talks-letterboxd-1237215118/"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/digital/news/letterboxd-negotiations-new-york-times-1236940881/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
+            "alt": "Symbolbild zur New York Times",
+            "credit": "Craig T Fruchtman / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+          }
+        },
+        {
+          "title": "Pamela Abdy rechnet ab: „Es wird schwerer, nicht leichter, eine Frau in dieser Branche zu sein“",
+          "lead": "Die frühere Chefin der Filmsparte von Warner Bros. hat bei den Women in Film Honors eine wütende Rede über die Lage von Frauen in Hollywood gehalten.",
+          "body": [
+            "Es war Pamela Abdys erster öffentlicher Auftritt, seit sie und Mike De Luca bei Warner Bros. abgelöst wurden. Bei der jährlichen Gala von Women in Film im Beverly Hilton erhielt sie den Vanguard Award und nutzte die rund 15-minütige Rede für eine Abrechnung.",
+            "„Man hat mich schwierig genannt, emotional, streitlustig“, sagte Abdy. Man habe ihr gesagt, sie solle lächeln, und Filme mit Frauen in der Hauptrolle oder von Regisseurinnen brächten weniger Geld ein, weil Männer angeblich nicht ins Kino kämen. Sie warf männlichen Regisseuren vor, Kolleginnen nicht so zu unterstützen wie einander.",
+            "„Es wird schwerer, nicht leichter, eine Frau in dieser Branche zu sein“, sagte sie. Dass es einige Frauen auf Chefsessel geschafft hätten, bedeute nicht, dass der Weg für die nächste Generation geebnet sei. Es gebe Listen der mächtigsten Frauen Hollywoods, aber keine für Männer, „denn sie sind die Liste“. Sie fragte, was für eine Branche man künftigen Vorreiterinnen hinterlasse, und sprach von der „reinen, unverfälschten Wut“, die sie zu kanalisieren versuche. Auch Medien, die Analyse gegen Klickköder eingetauscht hätten, bekamen ihr Fett weg.",
+            "Vor der Rede sagte Abdy dem Hollywood Reporter, sie habe „keine Ahnung“, was sie als Nächstes mache, und das sei auch schön. Den jüngsten Abgang mehrerer Top-Managerinnen nannte sie bedrückend: Neben ihr musste Cindy Holland als Streamingchefin bei Paramount gehen, bei Netflix wurde Content-Chefin Bela Bajaria abgesetzt."
+          ],
+          "highlight": "Dass es einige Frauen auf Chefsessel geschafft hätten, bedeute nicht, dass der Weg für die nächste Generation geebnet sei.",
+          "assessment": [
+            "Solche Reden hält man selten, solange man noch einen Studiojob hat. Abdy kann jetzt aussprechen, was viele in der Branche denken, und sie tut es mit Namen und Beispielen statt Floskeln.",
+            "Der Kontext macht die Rede gewichtig: Innerhalb weniger Monate sind bei Warner, Paramount und Netflix drei der mächtigsten Frauen Hollywoods verschwunden. Das kann Zufall der Umstrukturierungen sein, aber das Muster ist auffällig genug, um die Frage zu stellen."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/pamela-abdy-pure-unadulterated-rage-wif-honors-speech-1236746987/"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/film/news/pamela-abdy-warner-bros-taking-break-1236941011/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2303752723.jpg?crop=0px%2C116px%2C3609px%2C2020px&resize=1440%2C810",
+            "alt": "Pamela Abdy bei den Women in Film Honors 2026 im Beverly Hilton",
+            "credit": "John Shearer/WireImage",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/pamela-abdy-pure-unadulterated-rage-wif-honors-speech-1236746987/"
+          }
+        },
+        {
+          "title": "Nolans „Odyssey“ kommt im Dezember zurück ins Kino",
+          "lead": "Universal bringt Christopher Nolans Homer-Verfilmung ab dem 11. Dezember erneut in über 1.000 nordamerikanische Kinos, auch in Imax 70mm. Der Film hat bereits 1,8 Milliarden Dollar eingespielt.",
+          "body": [
+            "„The Odyssey“ mit Matt Damon als Odysseus startet am 11. Dezember landesweit noch einmal in mehr als 1.000 Kinos in Nordamerika, in allen Formaten einschließlich Imax und Imax 70mm. Der Film war am 17. Juli angelaufen und hatte Nolans größtes Startwochenende international und weltweit hingelegt.",
+            "Bisher hat das Epos 626 Millionen Dollar in Nordamerika und 1,8 Milliarden Dollar weltweit eingespielt. Im September überholte es „Jurassic World“ von 2015 als weltweit erfolgreichster Universal-Film aller Zeiten, zuvor bereits „The Dark Knight Rises“ als Nolans größten Erfolg. In der ewigen Weltrangliste steht der Film auf Platz 11, direkt hinter „Zoomania 2“ mit 1,87 Milliarden Dollar. In Nordamerika liegt er auf Platz 15 und noch unter den 652 Millionen von „Jurassic World“.",
+            "Neben Damon spielen Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Zendaya und Charlize Theron. Der Zeitpunkt der Wiederaufführung ist kein Zufall: Die Oscar-Saison läuft an, und „The Odyssey“ gilt als einer der Favoriten in mehreren Kategorien, auch als bester Film."
+          ],
+          "highlight": "Bisher hat das Epos 626 Millionen Dollar in Nordamerika und 1,8 Milliarden Dollar weltweit eingespielt.",
+          "assessment": [
+            "Eine Wiederaufführung fünf Monate nach Start ist zweierlei: Oscar-Kampagne und Rekordjagd. Mit ein paar Wochen Imax im Dezember könnte der Film die 1,87 Milliarden von „Zoomania 2“ einholen und in die weltweiten Top 10 rutschen.",
+            "Für alle, die den Film verpasst oder nur auf kleiner Leinwand gesehen haben, ist es die Gelegenheit. Nolan dreht für Imax, und 70mm ist genau das Format, für das sich der Weg ins Kino lohnt."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-christopher-nolan-theatrical-rerelease-december-1236748623/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/The-Odyssey-everett-H-2026.png?w=1296&h=730&crop=1",
+            "alt": "Matt Damon und Zendaya in The Odyssey",
+            "credit": "Universal Pictures/Courtesy Everett Collection",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-christopher-nolan-theatrical-rerelease-december-1236748623/"
+          }
+        },
+        {
+          "title": "Adam Driver bestätigt: Er ist der Bösewicht in „Heat 2“",
+          "lead": "Adam Driver spielt in Michael Manns Fortsetzung des Krimiklassikers den Hauptgegenspieler Otis Wardell. Mann geht es nach seinem Unfall am Schießstand gut, die Dreharbeiten beginnen Anfang 2027.",
+          "body": [
+            "In der Rich Eisen Show bestätigte Driver am Mittwoch, dass er in „Heat 2“ Otis Wardell spielen wird, den zentralen Antagonisten. Der Hollywood Reporter hatte bereits im Oktober 2025 berichtet, dass Driver für das Projekt im Gespräch ist. Driver hatte mit Mann zuletzt „Ferrari“ gedreht.",
+            "Der Film basiert auf Manns Roman „Heat 2“ von 2022, der zugleich Vorgeschichte und Fortsetzung des Films von 1995 mit Al Pacino, Robert De Niro und Val Kilmer ist. Driver lobte das Drehbuch: Es sei noch verdichteter als der Roman, „der Film ist eine Rakete“. Er steige Anfang Dezember ein, gedreht werde ab Anfang nächsten Jahres.",
+            "Der 83-jährige Mann hatte sich am Wochenende auf einem Schießstand in Los Angeles versehentlich ins Bein geschossen und kam ins Krankenhaus. Driver sagte, er habe ihm sofort geschrieben. „Es geht ihm gut. Er hat geantwortet und war am nächsten Tag wieder bei der Arbeit.“ Mann habe diese Bewegung 20.000 Mal gemacht und früher an Wettkämpfen teilgenommen; was genau passiert sei, wisse er nicht."
+          ],
+          "highlight": "In der Rich Eisen Show bestätigte Driver am Mittwoch, dass er in „Heat 2“ Otis Wardell spielen wird, den zentralen Antagonisten.",
+          "assessment": [
+            "Driver als Gegenspieler in einem Michael-Mann-Film ist eine Besetzung, die man sich nicht besser ausdenken könnte. Er kann diese kontrollierte, unterschwellige Bedrohung spielen, die Manns Krimis brauchen.",
+            "Die eigentlich gute Nachricht ist aber, dass Mann wohlauf ist und der Zeitplan steht. Bei einem 83-jährigen Regisseur, der seit Jahren an diesem Projekt hängt, ist jede Verzögerung ein Risiko."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/adam-driver-heat-2-role-michael-mann-shooting-update-1236748736/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/michael-adam.jpg?w=1440&h=810&crop=1",
+            "alt": "Michael Mann und Adam Driver beim New York Film Festival 2023",
+            "credit": "Arturo Holmes/Getty Images for FLC",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/adam-driver-heat-2-role-michael-mann-shooting-update-1236748736/"
+          }
+        },
+        {
+          "title": "John-Wick-Animationsfilm ist offiziell beschlossen, Keanu Reeves spricht die Hauptrolle",
+          "lead": "Lionsgate hat grünes Licht für einen animierten John-Wick-Film gegeben, der die legendäre „unmögliche Aufgabe“ erzählt. Das Studio legte am selben Tag starke Quartalszahlen vor.",
+          "body": [
+            "Keanu Reeves hat unterschrieben und kehrt als Auftragskiller John Wick zurück, diesmal als Sprecher. Regie führt Shannon Tindle („Ultraman: Rising“, „Kubo – Der tapfere Samurai“), das Drehbuch stammt von Ryan und Kaz Firpo. Produziert wird vom bekannten Wick-Team um Basil Iwanyk, Erica Lee, Chad Stahelski und Reeves selbst, zusammen mit Point Grey. Lionsgate-Chef Jon Feltheimer sagte, der Film sei in der Vorproduktion.",
+            "Angekündigt hatte Lionsgate-Filmchef Adam Fogelson das Projekt schon auf der CinemaCon 2025. Es soll die Geschichte der „unmöglichen Aufgabe“ erzählen, jenes Auftrags, mit dem sich Wick den Ausstieg aus der Unterwelt verdiente und die im ersten Film nur angedeutet wird. Keine John-Wick-Geschichte wünschten sich Fans mehr, sagte Fogelson damals.",
+            "Die Ankündigung kam mit den Quartalszahlen. Lionsgate steigerte den Umsatz im zweiten Geschäftsquartal um 41 Prozent auf 667 Millionen Dollar und verringerte den Nettoverlust auf 15,5 Millionen Dollar, nach 113,5 Millionen ein Jahr zuvor. Die Filmsparte wuchs um 30 Prozent, vor allem dank des Michael-Jackson-Films „Michael“.",
+            "Daneben baut Lionsgate das Geschäft mit Bühnenshows und Spielen aus, darunter ein Musical zu „La La Land“ für 2028 und ein großes John-Wick-Videospiel mit dem Entwickler Saber."
+          ],
+          "highlight": "Es soll die Geschichte der „unmöglichen Aufgabe“ erzählen, jenes Auftrags, mit dem sich Wick den Ausstieg aus der Unterwelt verdiente und die im ersten Film nur angedeutet wird.",
+          "assessment": [
+            "Die unmögliche Aufgabe ist das größte Geheimnis der Reihe, und genau deshalb ist es riskant, sie zu zeigen. Mythen wirken oft stärker, solange man sie nicht sieht. Dass Lionsgate dafür Animation wählt, ist dennoch schlau: Reeves muss sich nicht verjüngen lassen, und Tindle hat mit „Ultraman: Rising“ bewiesen, dass er Action animieren kann.",
+            "Unterm Strich ist John Wick für Lionsgate längst mehr als eine Filmreihe, sondern eine Marke, die in Spiele, Serien und Bühnen ausgewalzt wird."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/lionsgate-animated-john-wick-film-with-keanu-reaves-officially-a-go-1237214979/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/lionsgate-1237214817/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2025/04/MCDJOWI_LG006.jpg?w=1024",
+            "alt": "Szene aus John Wick: Kapitel 4",
+            "credit": "Lionsgate/Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/lionsgate-animated-john-wick-film-with-keanu-reaves-officially-a-go-1237214979/"
+          }
+        },
+        {
+          "title": "Rosamund Pike wird Mama-Influencerin in Leslye Headlands Body-Horror „Feed“",
+          "lead": "Rosamund Pike spielt und produziert „Feed“, einen Body-Horror-Film der „Acolyte“-Schöpferin Leslye Headland. Das Projekt geht nächste Woche auf dem American Film Market in den Verkauf.",
+          "body": [
+            "Pike, Oscar-nominiert für „Gone Girl“, spielt in „Feed“ eine sogenannte Momfluencerin, also eine Mutter, die ihr Familienleben in sozialen Netzwerken vermarktet. Regie führt Leslye Headland („Russian Doll“, „The Acolyte“), das Drehbuch schrieb Daniella Isaacs. Es ist vom finnischen Horrorfilm „Hatching“ von 2022 inspiriert.",
+            "Headland nannte das Drehbuch „kühn, verstörend und zutiefst menschlich“ und Pike eine der mutigsten Schauspielerinnen der Gegenwart. Sie sei froh, die dunklen Ecken der Geschichte mit zwei Frauen anzugehen, deren Arbeit sie bewundere.",
+            "Pike produziert über ihre Firma Primitive Streak, gemeinsam mit Magnolia Entertainment, Spooky Pictures, ZQ Entertainment und Agile Films. ZQ Entertainment hat die Entwicklung des Drehbuchs finanziert. Der Verkauf der internationalen Rechte beginnt auf dem American Film Market, der kommende Woche stattfindet."
+          ],
+          "highlight": "Es ist vom finnischen Horrorfilm „Hatching“ von 2022 inspiriert.",
+          "assessment": [
+            "„Hatching“ war eine bitterböse Geschichte über eine Mutter, die ihre Familie für die perfekte Online-Fassade inszeniert. Das Thema mit Pike in einer amerikanischen Version neu aufzulegen, liegt nahe: Sie hat in „Gone Girl“ und „I Care a Lot“ gezeigt, wie gut sie lächelnde Monster spielt.",
+            "Für Headland ist es nach dem frühen Aus von „The Acolyte“ eine Rückkehr zu kleineren, schärferen Stoffen. Body-Horror mit Social-Media-Satire ist gerade gefragt, das Projekt dürfte auf dem Markt schnell Käufer finden."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Rosamund-Pike-Leslye-Headland.jpg?w=1024",
+            "alt": "Rosamund Pike und Leslye Headland",
+            "credit": "François Berthier/JC Olivera/PMC via Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/rosamund-pike-star-produce-feed-leslye-headland-sales-afm-1237215121/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Sibirien: Der älteste Beleg für Cannabis-Rausch stammt aus einem Fürstengrab",
+          "lead": "In einem 2.800 Jahre alten Grabhügel in Südsibirien haben Forscher Hanfsamen und THC-Spuren in Menschenhaar gefunden. Die Droge könnte Opfer vor ihrer Tötung beruhigt haben.",
+          "body": [
+            "Die Studie erschien am 5. November in der Fachzeitschrift Science. Untersucht wurde ein „Königshügel“ an der Fundstelle Tunnug im Uyuk-Tal im Süden Sibiriens. In der Mitte des Hügels lagen vier Holzbauten mit mehreren Baumsargbestattungen. Darauf fanden sich die Skelette von Pferden, die eine Art „Geisterkavalkade“ bildeten, eine skythische Bestattungssitte, zu der Pferde- und Menschenopfer gehörten.",
+            "In den Grabkammern entdeckten die Archäologen mehr als 1.000 ganze und rund 500 zerbrochene Samen von Cannabis ruderalis, einer wilden Hanfart. Die Radiokarbondatierung ergab ein Alter zwischen 800 und 760 vor Christus. In mehreren Haarproben aus dem Grab wiesen sie Signale von Cannabinol und THC nach, den berauschenden Wirkstoffen der Pflanze. Wie viel konsumiert wurde, lässt sich daraus nicht ablesen.",
+            "Hanf wurde in Asien schon vor Jahrtausenden genutzt, für Seile und Textilien und vor rund 6.000 Jahren als Ölsaat. Wann Menschen die Rauschwirkung entdeckten, war bisher unklar. Herodot beschrieb im 5. Jahrhundert vor Christus, wie Skythen die Dämpfe verbrannter Hanfsamen einatmeten, und ein Friedhof in China lieferte Belege aus der Zeit um 500 vor Christus. Der neue Fund verschiebt die Datierung um rund drei Jahrhunderte nach vorn.",
+            "„Die molekularen Spuren im Haar und die Cannabissamen stammen aus demselben Grab und deuten darauf hin, dass Cannabis wegen seiner berauschenden Wirkung genutzt wurde“, sagt Erstautor Gino Caspari vom Max-Planck-Institut für Geoanthropologie in Jena. In dem Fürstengrab habe es umfangreiche Pferdeopfer und höchstwahrscheinlich auch Menschenopfer gegeben. Die Pflanze könnte nach Ansicht der Forscher dazu gedient haben, die zum Ritual bestimmten Menschen zu beruhigen. Als Nächstes will das Team die Pflanzenreste genetisch sequenzieren, um mehr über Domestizierung und Verbreitung zu erfahren."
+          ],
+          "highlight": "Der neue Fund verschiebt die Datierung um rund drei Jahrhunderte nach vorn.",
+          "assessment": [
+            "Der Fund ist methodisch stark, weil er zwei unabhängige Belege verbindet: die Samen im Grab und die Wirkstoffe im Haar der Toten. Damit ist der Rauschgebrauch nicht mehr nur Deutung, sondern messbar.",
+            "Die These mit den betäubten Opfern ist dagegen ausdrücklich eine Vermutung. Sie passt zum Kontext, lässt sich aber nicht beweisen. Bemerkenswert ist, wie gut sich Herodot hier wieder einmal bestätigt: Der viel gescholtene „Vater der Lügen“ lag bei den Skythen offenbar richtig."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/2-800-year-old-tomb-in-siberia-has-evidence-of-the-earliest-use-of-cannabis-possibly-as-a-way-to-calm-human-sacrifice-victims"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/xo89Hm7Hzn6SsdL6WAn4FE-2560-80.png",
+            "alt": "Hände halten einen frisch ausgegrabenen Zopf aus Menschenhaar",
+            "credit": "Frozen Corpses Golden Treasures, T. Wallace & G. Caspari",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/2-800-year-old-tomb-in-siberia-has-evidence-of-the-earliest-use-of-cannabis-possibly-as-a-way-to-calm-human-sacrifice-victims"
+          }
+        },
+        {
+          "title": "Bei Paris: Jungsteinzeitlicher Friedhof mit einem tonnenschweren Menhir",
+          "lead": "Bei Champigny-sur-Marne haben französische Archäologen einen rund 6.500 Jahre alten Friedhof freigelegt. Im Zentrum lag ein menschenähnlich gestalteter Menhir, der einst bemalt gewesen sein könnte.",
+          "body": [
+            "Die Fundstelle nahe der Marne wurde von Archäologen des französischen Instituts für präventive Archäologie (Inrap) untersucht. Sie umfasst elf Gräber, rund 30 Megalithe, Spuren von Holzpfosten und einen menschengestaltigen Menhir mit einem Gewicht von mehr als neun Tonnen. Der Stein lag auf der Seite in seiner Grube; aufrecht stand er einst mehr als drei Meter hoch.",
+            "Die Oberfläche des Menhirs wurde zunächst durch wiederholte Schläge aufgeraut. Danach meißelte man einen Gürtel und eine bogenförmige Reihe kleiner Schälchen hinein. Weiße und schwarze Flecken in der oberen linken Ecke könnten von Pigmenten stammen, die Statue war also vermutlich bemalt. Zwei kleinere Sandsteinblöcke in der Nähe standen wohl ebenfalls aufrecht.",
+            "Neben jedem Kopf der Bestatteten fand sich ein Pfostenloch, vermutlich die Markierung des Grabes. In den Gräbern lagen Feuersteinklingen und -spitzen, ein Sandsteinbeil und Knochenwerkzeuge. Ein Grab war ein enger runder Schacht mit einem sitzend bestatteten Erwachsenen, dessen Unterschenkel und Füße in Kalksinter eingeschlossen waren. Ein Hügel mit einer zerbrochenen kleinen Stele und einer Palisade gehört ebenfalls zur Anlage.",
+            "Bemerkenswert ist eine Art früher Mörtel: Die Erbauer mischten kalkreichen Sand und Schluff mit Kies und Wasser zu einer Masse, die beim Trocknen aushärtete. Sie fand sich an den Rändern der Gräber und in den Gruben, in denen der Menhir und die anderen Blöcke standen."
+          ],
+          "highlight": "Weiße und schwarze Flecken in der oberen linken Ecke könnten von Pigmenten stammen, die Statue war also vermutlich bemalt.",
+          "assessment": [
+            "Menhire kennt man vor allem als graue Steine in der Bretagne. Ein bemalter, menschenähnlicher Stein mit Gürtel zeigt, wie viel von dieser Welt verloren gegangen ist: Diese Monumente waren wohl farbig, gestaltet und Teil eines Rituals, nicht bloß aufgestellte Felsbrocken.",
+            "Dass so etwas heute im Großraum Paris bei Bauvorhaben zutage kommt, ist der Verdienst der präventiven Archäologie. Ohne Pflichtgrabungen vor dem Bau wäre der Friedhof einfach im Fundament verschwunden."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/05/neolithic-cemetery-excavated-near-paris/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261105-France-Cemetery-Aerial.jpg",
+            "alt": "Luftaufnahme der Grabungsstätte in Champigny-sur-Marne",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/05/neolithic-cemetery-excavated-near-paris/"
+          }
+        },
+        {
+          "title": "Ein Nierenstein so groß wie eine Traube: Bronzezeit-Mann litt jahrelang",
+          "lead": "In einem 5.300 Jahre alten Kurgan-Grab im Süden Russlands haben Forscher einen Harnstein gefunden. Er verrät eine chronische Infektion und vermutlich große Schmerzen.",
+          "body": [
+            "Das Grab gehört zu einem Kurgan-Friedhof im Stawropoler Hochland in Südwestrussland, einer Steppentradition, bei der man große Erdhügel über Gräbern aufschüttete. In einer Katakombe unter dem Hügel lag das Skelett eines Mannes, der um 3300 vor Christus in seinen Vierzigern starb. Nahe seinem Becken fand sich eine Pfeilspitze aus Feuerstein.",
+            "Erst im Labor fiel zwischen den Handknochen ein bräunliches, rundes Objekt mit mehreren Ausbuchtungen auf, etwa 2,1 Zentimeter groß. Röntgenfluoreszenz zeigte vor allem Kalzium und Phosphor. Die Röntgenbeugung wies Whitlockit nach, ein seltenes Kalziumsalz, das in Nieren-, Blasen- und Prostatasteinen vorkommt und eng mit bakteriellen Infektionen verbunden ist.",
+            "Die Forscher um die Anthropologin Natalia Berezina von der Moskauer Lomonossow-Universität halten einen Nierenstein infolge einer chronischen Infektion der oberen Harnwege für die wahrscheinlichste Erklärung. „Er lebte mit einer chronischen urogenitalen Infektion“, sagte Berezina Live Science. „Das war keine kurze Episode. Seine letzten Jahre waren wahrscheinlich von erheblichen und mehr oder weniger ständigen Schmerzen geprägt.“",
+            "Ob der Stein zum Tod beitrug, ist offen. Hätte er einen Harnleiter blockiert, wären eine Nierenschwellung, eine zweite Infektion oder eine Blutvergiftung möglich gewesen. Die Studie erschien am 30. September in der Fachzeitschrift Archaeological and Anthropological Sciences."
+          ],
+          "highlight": "Seine letzten Jahre waren wahrscheinlich von erheblichen und mehr oder weniger ständigen Schmerzen geprägt.",
+          "assessment": [
+            "Solche Funde sind selten, weil Harnsteine beim Ausgraben leicht übersehen werden oder als gewöhnliche Steinchen im Abraum landen. Dass dieser im Labor zwischen den Handknochen auftauchte, war ein Glücksfall.",
+            "Der Fall erinnert daran, wie wenig Spielraum Menschen vor der modernen Medizin bei an sich behandelbaren Leiden hatten. Ein Antibiotikum hätte diesem Mann wohl Jahre voller Schmerzen erspart."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/04/kidney-stone-recovered-from-5300-year-old-russian-grave/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/Ei8JmYB5euRjx7QRaoRvwe-1522-80.png",
+            "alt": "Links der Harnstein in Nahaufnahme, rechts das Skelett bei der Ausgrabung",
+            "credit": "Berezina et al. / Archaeological and Anthropological Sciences",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea"
+          }
+        },
+        {
+          "title": "Ukraine: Bunte Gürtelschnalle aus der Römerzeit gehörte vielleicht einem sarmatischen Reiter",
+          "lead": "Anwohner haben in einem ukrainischen Wald eine 1.800 Jahre alte, emaillierte Gürtelschnalle gefunden. Sie stammt aus der Zeit, als die Region am Rand der römischen Provinz Dakien lag.",
+          "body": [
+            "Die Schnalle wurde im Wald von Tsetsyn entdeckt und an Antonii Moisei übergeben, einen Professor der Bukowinischen Staatlichen Medizinischen Universität. Das fast quadratische Metallstück misst etwa 2,1 Zentimeter pro Seite und ist mit türkisfarbenem, blauem und gelbem Email verziert.",
+            "Stil und Machart datieren die Schnalle ins 2. bis 3. Jahrhundert nach Christus. Damals gehörte die Gegend zum Umfeld der römischen Provinz Dakien. Kaiser Trajan hatte das Dakerreich unter König Decebalus in zwei Kriegen in den Jahren 101/102 und 105/106 zerschlagen und als Provinz annektiert; die Trajanssäule in Rom erzählt bis heute davon.",
+            "Mit der Schnalle wurden ein Zierbeschlag und drei kleine runde Metallteile gefunden, die wohl zum selben Gürtel gehörten. Moisei hat eine Rekonstruktion des Gürtels angefertigt. Wem er gehörte, ist offen. Eine Theorie: einem berittenen Krieger der Sarmaten, Stammesverbänden aus dem Schwarzmeerraum, die teils gegen Rom kämpften und teils als Söldner für Rom.",
+            "Die Stücke gehören zu einer römischen Provinzhandwerkstradition und könnten durch Handel oder als Kriegsbeute in andere Hände gelangt sein. Moisei untersucht noch, ob sie tatsächlich sarmatisch sind. In jedem Fall belegen sie militärische Kontakte mit Rom am Rand des Reiches."
+          ],
+          "highlight": "Eine Theorie: einem berittenen Krieger der Sarmaten, Stammesverbänden aus dem Schwarzmeerraum, die teils gegen Rom kämpften und teils als Söldner für Rom.",
+          "assessment": [
+            "Ein kleiner Fund, aber ein schönes Beispiel dafür, wie durchlässig die Grenzen des Römischen Reiches waren. Römisches Handwerk landete am Gürtel von Menschen, die Rom bekämpften oder für Rom kämpften, manchmal wohl beides nacheinander.",
+            "Vorsicht ist trotzdem angebracht: Ein Oberflächenfund ohne Grabungskontext lässt viel Raum für Deutungen. Die Sarmaten-These ist reizvoll, mehr als eine Hypothese ist sie derzeit nicht."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/colorful-1-800-year-old-belt-buckle-discovered-in-a-ukrainian-forest-may-have-belonged-to-a-nomadic-equestrian-warrior"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/6VfecEPMwyL8v5QExkffbD-1321-80.png",
+            "alt": "Metallschnalle mit türkisfarbener, blauer und gelber Emaileinlage",
+            "credit": "Bukovinian State Medical University",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/colorful-1-800-year-old-belt-buckle-discovered-in-a-ukrainian-forest-may-have-belonged-to-a-nomadic-equestrian-warrior"
+          }
+        }
+      ]
+    }
+  ]
+}

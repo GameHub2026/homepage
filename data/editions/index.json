@@ -1,5 +1,38 @@
 [
   {
+    "nr": 30,
+    "date": "2026-11-06",
+    "updated": "2026-11-06T07:50:11+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Nach der Wahl: KI-Aktien erleben den schwärzesten Tag seit Jahren",
+      "GPT-6 Cyber: OpenAIs Hacker-Modell soll sich besser an Grenzen halten",
+      "Claude bekommt Lesezugriff aufs Bankkonto",
+      "Brasilien: Gericht verbietet Meta, Presseinhalte gratis fürs KI-Training zu nehmen",
+      "Brockman: OpenAI könnte 2027 börsenreif sein",
+      "PlayStation hebt die Prognose an, Wolverine zieht, PS6 liegt im Plan",
+      "Nintendo: Mehr Gewinn, weniger Switch 2, keine weitere Preiserhöhung",
+      "GTA 6: Fast acht Millionen Vorbestellungen und 38 neue Bilder",
+      "World of Warcraft: Forever ist gestartet, und zwar ohne Chaos",
+      "Guild Wars bekommt nach fast 20 Jahren wieder ein großes Update",
+      "Die New York Times will Letterboxd kaufen",
+      "Pamela Abdy rechnet ab: „Es wird schwerer, nicht leichter, eine Frau in dieser Branche zu sein“",
+      "Nolans „Odyssey“ kommt im Dezember zurück ins Kino",
+      "Adam Driver bestätigt: Er ist der Bösewicht in „Heat 2“",
+      "John-Wick-Animationsfilm ist offiziell beschlossen, Keanu Reeves spricht die Hauptrolle",
+      "Rosamund Pike wird Mama-Influencerin in Leslye Headlands Body-Horror „Feed“",
+      "Sibirien: Der älteste Beleg für Cannabis-Rausch stammt aus einem Fürstengrab",
+      "Bei Paris: Jungsteinzeitlicher Friedhof mit einem tonnenschweren Menhir",
+      "Ein Nierenstein so groß wie eine Traube: Bronzezeit-Mann litt jahrelang",
+      "Ukraine: Bunte Gürtelschnalle aus der Römerzeit gehörte vielleicht einem sarmatischen Reiter"
+    ]
+  },
+  {
     "nr": 29,
     "date": "2026-11-05",
     "updated": "2026-11-05T07:50:00+01:00",
