@@ -11,7 +11,8 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - .wrenfell-passwort.txt auf Kevins Freigabe in den Papierkorb (Passwort liegt als Pages-Secret SITE_PASSWORD).
 
 ## Offen
-- Heft 29 (2026-11-05) erschienen (für 2026-11-04 gab es keine Ausgabe). Bild-Fallback: anderen Artikel derselben Meldung nehmen (CNBC blockiert curl mit 403, Wikimedia/Openverse unzuverlässig). Deadline/Variety: WebFetch scheitert (Tollbit 402), curl mit Browser-UA klappt.
+- Heft 30 (2026-11-06) erschienen. Recherche am schnellsten über RSS-Feeds (heise, TechCrunch, Verge, GamesIndustry.biz, Eurogamer, Deadline, THR, archaeology.org, livescience.com/feeds.xml) plus curl mit Browser-UA; WebSearch findet Tagesnews kaum.
+- Bild-Fallback: anderen Artikel derselben Meldung nehmen (Wikimedia-API liefert oft kein JSON). heise-Startseiten-og ist Standardbild, Artikel-og ok. Guardian und Variety-Text per curl nicht lesbar, Deadline/THR/Eurogamer gut.
 - Checkout steht beim Start auf detached HEAD: mit `git push origin HEAD:main` pushen.
 - Mobile Ansicht der Projektkarten und der Cover-Reihe ungeprüft.
 - Kevin entscheidet: Passwort in 1Password sichern, Projekt aus iCloud nach ~/Projekte umziehen.
