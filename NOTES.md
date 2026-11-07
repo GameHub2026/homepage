@@ -11,7 +11,8 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - .wrenfell-passwort.txt auf Kevins Freigabe in den Papierkorb (Passwort liegt als Pages-Secret SITE_PASSWORD).
 
 ## Offen
-- Heft 30 (2026-11-06) erschienen. Recherche am schnellsten über RSS-Feeds (heise, TechCrunch, Verge, GamesIndustry.biz, Eurogamer, Deadline, THR, archaeology.org, livescience.com/feeds.xml) plus curl mit Browser-UA; WebSearch findet Tagesnews kaum.
+- Heft 31 (2026-11-07) erschienen. Recherche am schnellsten über RSS-Feeds (heise, TechCrunch, Verge, Ars Technica, GamesIndustry.biz, Eurogamer, VGC, Deadline, THR, IndieWire, archaeology.org, livescience.com/feeds.xml) plus curl mit Browser-UA; WebSearch findet Tagesnews kaum. Geschichte ist oft dünn: zusätzlich finestresullarte.info und greekreporter.com; heritagedaily/phys.org/arkeonews-Feeds per curl nicht nutzbar.
+- Trailer-Links: YouTube-Embeds in Artikeln sind oft Fremdkanäle (JoBlo); Kanal per youtube.com/oembed prüfen, offiziellen Kanal über YouTube-Suche finden.
 - Bild-Fallback: anderen Artikel derselben Meldung nehmen (Wikimedia-API liefert oft kein JSON). heise-Startseiten-og ist Standardbild, Artikel-og ok. Guardian und Variety-Text per curl nicht lesbar, Deadline/THR/Eurogamer gut.
 - Checkout steht beim Start auf detached HEAD: mit `git push origin HEAD:main` pushen.
 - Mobile Ansicht der Projektkarten und der Cover-Reihe ungeprüft.
