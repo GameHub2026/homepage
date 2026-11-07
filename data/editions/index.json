@@ -1,5 +1,37 @@
 [
   {
+    "nr": 31,
+    "date": "2026-11-07",
+    "updated": "2026-11-07T07:49:38+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 3
+    },
+    "titles": [
+      "OpenAI sammelt 11 Milliarden Dollar ein, bei einer Bewertung von 1,25 Billionen",
+      "Ramp-Daten: Unternehmen nutzen mehr KI, geben aber kaum mehr dafür aus",
+      "Spionageverdacht: Kongress lädt Nvidia-Chef Jensen Huang vor",
+      "Neu: Meta legt die umstrittene KI-Klausel für Facebook-Seiten auf Eis",
+      "Hunderte Instanzen des KI-Hackerwerkzeugs Artex stehen offen im Netz",
+      "Nach EA jetzt Unity? Saudi-Fonds und Silver Lake verhandeln über Übernahme",
+      "Sony stellt den Mobil-Shooter Ratchet & Clank: Ranger Rumble ein",
+      "Wing Commander und Ultima kommen überarbeitet auf Steam und GOG",
+      "SAG-AFTRA erlaubt Profi-Sprecher schon für Demos und Pitches",
+      "BioWare bekommt einen Dokumentarfilm, Warren Spector rechnet mit EA ab",
+      "James Bond: Auch Robert Pattinson und Nicholas Hoult haben für 007 vorgesprochen",
+      "Sebastián Lelio ist tot: Der Regisseur von „Eine fantastische Frau“ wurde 52 Jahre alt",
+      "Trailer zu „Karōshi“: Das John-Wick-Team schickt Teo Yoo in einen Konzernkrieg",
+      "Adam Driver über X-Men: „Es fühlte sich wie der richtige Zeitpunkt an“, zu „Girls“ kehrt er nicht zurück",
+      "„The Remarried Empress“ ist der erfolgreichste lokale Serienstart in der Geschichte von Disney+",
+      "Amazon bringt eine zweiteilige Serie über Melania Trump",
+      "Spielkarten im Wrack: Mongolisches Mutterschiff vor Japan gibt Freizeitleben preis",
+      "War Verica eine Königin? Forscher deutet britischen Herrscher aus der Eisenzeit neu",
+      "Manduria: Bemaltes Grab gehörte vielleicht einer Priesterin der Demeter"
+    ]
+  },
+  {
     "nr": 30,
     "date": "2026-11-06",
     "updated": "2026-11-06T07:50:11+01:00",

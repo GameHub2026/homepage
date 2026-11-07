@@ -1,0 +1,613 @@
+{
+  "nr": 31,
+  "date": "2026-11-07",
+  "intro": "Nach dem Börsenbeben der Wahlwoche sortiert sich die KI-Branche neu: OpenAI sammelt Geld zu einer niedrigeren Bewertung als erhofft ein, und neue Daten zeigen, dass Firmen kaum noch mehr für KI ausgeben. Im Gaming-Kapitel greifen die EA-Käufer nach Unity, im Kino wird die Bond-Suche mit Robert Pattinson plötzlich prominent, und Chile trauert um Sebastián Lelio. Zum Schluss: Spielkarten aus einem mongolischen Kriegsschiff, eine mögliche Königin der Eisenzeit und das Grab einer Priesterin in Apulien.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "OpenAI sammelt 11 Milliarden Dollar ein, bei einer Bewertung von 1,25 Billionen",
+          "lead": "OpenAI hat laut Bloomberg in einer laufenden Finanzierungsrunde bereits 11 Milliarden Dollar zugesagt bekommen. Die Bewertung ist gewaltig, bleibt aber hinter den eigenen Zielen zurück.",
+          "body": [
+            "OpenAI ist nach einem Bericht von Bloomberg in einer neuen Finanzierungsrunde mit 1,25 Billionen Dollar bewertet worden. Bisher sind 11 Milliarden Dollar zusammengekommen. Die Runde ist noch nicht abgeschlossen und soll in den kommenden Wochen auf insgesamt etwa 20 Milliarden Dollar wachsen, sagte eine mit der Sache vertraute Person der Nachrichtenagentur.",
+            "Damit gehört OpenAI zu den wertvollsten Unternehmen der Welt. Noch im März hatte die Firma 122 Milliarden Dollar bei einer Bewertung von 852 Milliarden Dollar eingesammelt, wie The Verge erinnert. Der Sprung ist also erheblich, doch die ursprünglichen Pläne waren ehrgeiziger: Ende September hatte Bloomberg berichtet, OpenAI wolle 30 Milliarden Dollar einsammeln, und zwar bei einer höheren Bewertung von 1,4 Billionen.",
+            "Dass es nun weniger wird, hat mit der Stimmung am Markt zu tun. Nach den US-Zwischenwahlen, in denen die Demokraten deutlich gewannen und Wähler sich in vielen Gemeinden gegen neue Rechenzentren stellten, sind Technologiewerte stark gefallen. Viele Anleger rechnen nun mit mehr Regulierung.",
+            "Die Nachricht kam nur Stunden nach einem weiteren Bloomberg-Bericht über den Börsengang des Konkurrenten Anthropic, der vergangene Woche seinen Börsenprospekt (S-1) eingereicht hat. Mögliche Käufer der Aktien sehen dessen Wert demnach deutlich niedriger als erhofft: Manche halten nur noch 1,1 Billionen Dollar für realistisch, nachdem vor rund einem Monat noch von 2 Billionen die Rede war.",
+            "OpenAI selbst hat seinen Börsengang verschoben. Sam Altman hatte erklärt, man wolle erst an die Börse gehen, wenn man sicherere Aussagen über die Sicherheit der eigenen Modelle machen könne. Erwartet wird ein Börsengang im Lauf des kommenden Jahres."
+          ],
+          "highlight": "Manche halten nur noch 1,1 Billionen Dollar für realistisch, nachdem vor rund einem Monat noch von 2 Billionen die Rede war.",
+          "assessment": [
+            "Eine Bewertung von 1,25 Billionen Dollar klingt nach Triumph, ist aber eher ein Zeichen, dass die Luft dünner wird. OpenAI bekommt weniger Geld zu einem niedrigeren Preis als geplant, und das in einer Woche, in der die Börse KI-Werte abgestraft hat.",
+            "Interessanter als OpenAIs Zahl ist die von Anthropic: Wenn Käufer beim Börsengang fast die Hälfte der erhofften Bewertung abziehen, zeigt das, dass der Markt die Kosten der KI-Firmen inzwischen genauer ansieht. Wer zuletzt an die Börse geht, könnte dabei den besseren Zeitpunkt erwischen, oder den schlechteren, wenn die Skepsis anhält."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "alt": "Illustration mit dem OpenAI-Logo",
+            "credit": "The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+          }
+        },
+        {
+          "title": "Ramp-Daten: Unternehmen nutzen mehr KI, geben aber kaum mehr dafür aus",
+          "lead": "Der Finanzdienstleister Ramp sieht in seinen Daten, dass die Ausgaben für KI im Spätsommer fast stagnierten, obwohl die Nutzung weiter stieg. Für OpenAI und Anthropic ist das ein Warnsignal.",
+          "body": [
+            "Ramp, ein US-Anbieter für Firmenkarten und Ausgabenverwaltung, wertet anonymisiert aus, wofür Unternehmen Geld ausgeben. Nach dem neuen Bericht wuchsen die Ausgaben für KI-Tokens im August und September zusammen nur um 1,5 Prozent. Zum Vergleich: Im Juli waren sie gegenüber dem Vormonat noch um 42 Prozent gestiegen. Gleichzeitig nahm die Menge der verarbeiteten Tokens weiter zu.",
+            "„Fast die gesamten KI-Ausgaben stammen von wagniskapitalfinanzierten, schnell wachsenden Tech-Firmen“, sagte Ramps Chefökonom Ara Kharazian zu TechCrunch. Solange deren Ausgaben stiegen, sei das kein Problem. Wenn sie aber aus irgendeinem Grund langsamer würden, bremsten alle gleichzeitig, mit möglichen Folgewirkungen. Schon das oberste Prozent der Firmen, die eifrigsten KI-Nutzer, habe im August und September etwas weniger ausgegeben als die rund 10.000 Dollar pro Mitarbeiter im Monat, die sie im Sommer erreicht hatten.",
+            "Die Mitte der Unternehmen gibt laut Ramp 12 bis 15 Dollar pro Mitarbeiter und Monat aus, die obersten zehn Prozent 600 bis 1.000 Dollar. Beide Gruppen legen zu, doch das reicht nicht, um die Delle an der Spitze auszugleichen. Kharazian bezweifelt, dass etwa eine Arztpraxis oder ein Autohaus je so viel für KI ausgeben müsse wie Softwarefirmen. „Die Ära des Hyperwachstums könnte vorbei sein“, sagte er.",
+            "Den Grund sieht er nicht in fehlender Nachfrage, sondern im Preiskampf. OpenAI hat im September die API-Preise für GPT-6 Sol und GPT-6 Luna halbiert, Anthropic zog mit deutlichen Preissenkungen für Fable 5.1 und Opus 5.5 nach. Nach Anthropics eigenen Angaben in einer Pflichtmitteilung hat das das Umsatzwachstum um etwa 600 Millionen Dollar geschmälert. Dazu kommen günstige oder offene Modelle von Meta, Nvidia und Anbietern aus China und den USA.",
+            "Im Oktober zogen die Ausgaben wieder etwas an: Vom 23. September bis 23. Oktober stiegen sie um 8,9 Prozent. Kharazian hält den Gegenwind trotzdem für stark. Er veröffentlicht seit einiger Zeit eine Blogreihe mit dem Titel „Cracks in the AI Thesis“."
+          ],
+          "highlight": "Nach dem neuen Bericht wuchsen die Ausgaben für KI-Tokens im August und September zusammen nur um 1,5 Prozent.",
+          "assessment": [
+            "Das ist eine der wichtigeren Zahlen dieser Woche, gerade weil sie unspektakulär aussieht. Die KI-Bewertungen beruhen auf der Annahme, dass die Umsätze im Tempo des Jahres 2025 weiterwachsen. Wenn mehr Nutzung nicht mehr mehr Umsatz bedeutet, gerät diese Rechnung ins Wanken.",
+            "Für Kunden ist der Preiskampf eine gute Nachricht, für die Anbieter ein Dilemma: Die Modelle werden billiger, die Rechenzentren aber nicht. Ramps Daten bilden nur einen Ausschnitt der Wirtschaft ab, doch sie passen auffällig gut zu den gedämpften Bewertungen, über die gerade beim Börsengang von Anthropic gesprochen wird."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+            "alt": "Artikelbild zum Ramp-Bericht über KI-Ausgaben",
+            "credit": "TechCrunch",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+          }
+        },
+        {
+          "title": "Spionageverdacht: Kongress lädt Nvidia-Chef Jensen Huang vor",
+          "lead": "Drei Ausschüsse des US-Repräsentantenhauses wollen von Jensen Huang wissen, wie nahe ihm eine mutmaßliche chinesische Agentin gekommen ist. Neue Berichte nennen sie eine Rekrutin des chinesischen Geheimdienstes.",
+          "body": [
+            "Die republikanischen Vorsitzenden der Ausschüsse für China, Außenpolitik und Geheimdienste im US-Repräsentantenhaus, John Moolenaar, Brian Mast und Rick Crawford, haben Nvidia-Chef Jensen Huang zu einer gemeinsamen, nicht öffentlichen Anhörung am 18. November gebeten. „Jüngste Berichte werfen erhebliche Fragen der nationalen Sicherheit auf“, schrieben sie mit Blick auf Chinas Zugang zu sensibler US-Technologie.",
+            "Auslöser sind Berichte der New York Times. Sie hatte vergangene Woche geschrieben, US-Geheimdienste hielten Huang für das Ziel einer chinesischen Spionageoperation. Im Mittelpunkt steht Alice Huang, eine Managerin des Cloud-Anbieters Megaspeed aus Singapur, der Nvidia-Chips für Milliarden Dollar gekauft hat. Die beiden sind nicht verwandt, die Zeitung beschreibt ihr Verhältnis als eng.",
+            "Neu ist laut The Verge die Angabe der Times, das chinesische Ministerium für Staatssicherheit habe Alice Huang angeworben. Sie sollte demnach Informationen über amerikanische KI-Chips beschaffen und womöglich darauf hinwirken, dass Nvidia sich für die Freigabe seiner modernsten Chips nach China einsetzt. Präsident Trump, der mit Huang gut bekannt ist, sei im vergangenen Jahr über die Beziehung informiert worden, habe aber nichts unternommen. Eine sogenannte Defensivunterrichtung, mit der Geheimdienste mögliche Ziele warnen, habe Huang nicht erhalten.",
+            "Nvidia weist die Vorwürfe zurück. „Treffen mit Kunden gehören zum Job eines CEO“, teilte das Unternehmen mit. Regionale Cloud-Kunden erhielten gewöhnliche Geschäftsinformationen, keine Betriebsgeheimnisse und nichts, was für die nationale Sicherheit relevant sei. Ob Huang der Einladung folgt, ließ Nvidia offen. Eine interne Prüfung bei Megaspeed habe keine Hinweise ergeben, dass Chips nach China umgeleitet wurden.",
+            "Megaspeed wurde 2023 als Ableger eines chinesischen Spielekonzerns gegründet und war schon früher wegen möglichen Chipschmuggels im Visier der US-Behörden, Anklagen gab es aber nicht. Der Fall fällt in eine Zeit, in der Nvidias Lieferkette wegen der Exportkontrollen ohnehin unter Beobachtung steht: Anfang des Jahres wurde Wally Liaw, Mitgründer des Nvidia-Partners Supermicro, wegen Schmuggels von Nvidia-Chips nach China angeklagt. Er bestreitet die Vorwürfe."
+          ],
+          "highlight": "Neu ist laut The Verge die Angabe der Times, das chinesische Ministerium für Staatssicherheit habe Alice Huang angeworben.",
+          "assessment": [
+            "Für Nvidia ist das mehr als eine peinliche Geschichte. Das Unternehmen lebt davon, dass Washington ihm vertraut, wenn es um Exportlizenzen für China geht. Ein Chef, der als Spionageziel gilt, schwächt genau diese Position.",
+            "Bemerkenswert ist, dass es Republikaner sind, die Huang vorladen, obwohl Trump ihm nahesteht. Nach der verlorenen Wahl suchen viele in der Partei Themen, bei denen sie Härte gegenüber China zeigen können. Huang dürfte gut beraten sein, der Einladung zu folgen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica (Financial Times)",
+              "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+            "alt": "Nvidia-Chef Jensen Huang",
+            "credit": "Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+          }
+        },
+        {
+          "title": "Neu: Meta legt die umstrittene KI-Klausel für Facebook-Seiten auf Eis",
+          "lead": "Meta verzichtet vorerst darauf, Betreiber von Facebook-Unternehmensseiten zum KI-Training auf ihren verlinkten Websites zu verpflichten. Vorausgegangen waren Gerichtsverfügungen, eine britische Untersuchung und heftiger Protest von Verlagen.",
+          "body": [
+            "Meta hat die geplante Änderung seiner kommerziellen Nutzungsbedingungen auf unbestimmte Zeit verschoben. „Wir setzen die Änderungen aus, während wir weiter mit den Beteiligten sprechen und uns Zeit nehmen, es richtig zu machen“, sagte ein Sprecher der Nachrichtenagentur Reuters. Bis auf Weiteres gelten die bisherigen Bedingungen.",
+            "Die neuen Regeln hätten Inhaber von Meta-Business-Konten verpflichtet, Meta umfangreiches KI-Training mit Inhalten externer Websites zu erlauben, die auf Facebook verlinkt werden. Eine Möglichkeit zum Widerspruch gab es nicht: Wer eine Unternehmensseite behalten wollte, musste das Crawlen der verlinkten Seiten erlauben. Verlage hätten laut Ars Technica sogar Testzugänge anlegen müssen, damit Metas Bots Bezahlschranken zuverlässig umgehen können.",
+            "Rechtsexperten warnten im Nieman Lab, die vage Formulierung könnte es Meta erlauben, Sperren in robots.txt-Dateien zu ignorieren. Da praktisch jedes Nachrichtenmedium eine Facebook-Seite hat, hätte Meta womöglich Lizenzgebühren in Millionenhöhe gespart. Ursprünglich sollte die Änderung am 30. Oktober greifen, dann wurde sie auf den 20. November verschoben.",
+            "Der Widerstand kam von vielen Seiten. Gerichte in Brasilien und Norwegen erließen einstweilige Verfügungen, die britische Wettbewerbsbehörde CMA eröffnete eine förmliche Untersuchung, ob Meta seine Marktmacht ausnutzt, um an wertvolle Trainingsdaten zu kommen. In den USA forderten der Demokrat Adam Schiff und die Republikanerin Marsha Blackburn Mark Zuckerberg schriftlich auf, die Bedingungen zurückzuziehen.",
+            "Theo Bamber, Chef des britischen Verlegerverbands News Media Association, hatte zuvor kritisiert, dass Meta lediglich das Wort „trainieren“ gestrichen habe. „Entwickeln“ sei genauso bedrohlich. „Denkt Meta, wir können nicht lesen?“, schrieb er auf LinkedIn."
+          ],
+          "highlight": "Wer eine Unternehmensseite behalten wollte, musste das Crawlen der verlinkten Seiten erlauben.",
+          "assessment": [
+            "Ein seltener Fall, in dem ein Tech-Konzern bei KI-Trainingsdaten tatsächlich zurückweicht, und zwar nicht aus Einsicht, sondern weil Gerichte, Behörden und Politiker beider Parteien gleichzeitig Druck gemacht haben. Das brasilianische Urteil aus der vergangenen Woche war offensichtlich nur der Anfang.",
+            "„Aufgeschoben“ ist allerdings nicht „aufgehoben“. Meta hat deutlich gemacht, wie wertvoll ihm diese Daten sind. Ich würde erwarten, dass eine überarbeitete Fassung kommt, dann vermutlich mit Ausnahmen für große Verlage und weiterhin wenig Spielraum für alle anderen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg",
+            "alt": "Symbolbild zu Meta und Facebook",
+            "credit": "demaerre / iStock / Getty Images Plus",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+          }
+        },
+        {
+          "title": "Hunderte Instanzen des KI-Hackerwerkzeugs Artex stehen offen im Netz",
+          "lead": "Sicherheitsforscher haben mehr als 800 ungeschützte Installationen eines chinesischen KI-Angriffswerkzeugs gefunden. Artex wird bereits mit mehreren großen Cyberangriffen in Verbindung gebracht.",
+          "body": [
+            "Die Sicherheitsfirma Censys, die das Internet nach offenen und verwundbaren Systemen durchsucht, hat nach eigenen Angaben mehr als 800 verschiedene Artex-Installationen entdeckt, die ohne Passwort aus dem Netz erreichbar waren. Damit könnten Außenstehende die Werkzeuge nutzen, um selbst Angriffe zu starten, berichtet TechCrunch.",
+            "Artex ist ein in China entwickeltes Open-Source-Werkzeug für automatisierte Penetrationstests, also Software, die Systeme selbstständig nach Schwachstellen absucht. Seit der Veröffentlichung im Juli ist es beliebt bei allen, die keinen Zugang zu den Sicherheitsmodellen von Anthropic oder OpenAI haben. Microsoft beschrieb Artex als System von KI-Agenten, das Angriffe „von der Erkundung bis zum Datenabfluss mit wenig menschlichem Zutun“ durchführen kann.",
+            "Censys-Forscher Silas Cutler betont, dass nicht jede Instanz bösartig betrieben werde, viele gehörten autorisierten Testern. Unklar sei aber, warum so viele öffentlich erreichbar seien, die Software benötige das nicht. Auf den offenen Systemen liegen auch Angriffswerkzeuge wie Implantate, mit denen sich Angreifer dauerhaft in fremden Netzen festsetzen.",
+            "Artex wurde bereits mit mehreren großen Angriffen in Verbindung gebracht. CrowdStrike schrieb Angriffe auf die südkoreanische Finanzbranche im September einem chinesischsprachigen Hacker zu, der eine offene Artex-Instanz hinterlassen hatte. Nach Censys-Daten enthielt sie Angriffsdaten weit über die koreanischen Banken hinaus, auch zu Zahlungs- und Spielefirmen. Im Oktober nutzten mit China verbundene Hacker Artex beim Angriff auf den IT-Dienstleister ConnectWise, über den sie Tausende Organisationen in Microsofts Cloud ausspähen konnten.",
+            "Viele dieser Angriffe beruhten auf einfachen Schwächen wie erratbaren oder bekannten Passwörtern und fehlender Zwei-Faktor-Authentifizierung."
+          ],
+          "highlight": "Viele dieser Angriffe beruhten auf einfachen Schwächen wie erratbaren oder bekannten Passwörtern und fehlender Zwei-Faktor-Authentifizierung.",
+          "assessment": [
+            "Die Ironie ist kaum zu übersehen: Ein KI-Werkzeug für Angriffe liegt selbst ungeschützt im Netz. Wichtiger ist aber, was der Fall über die neue Lage sagt. Während Anthropic und OpenAI ihre Cyber-Modelle nur ausgewählten Kunden geben, ist mit Artex längst ein freies Gegenstück verbreitet.",
+            "Die gute Nachricht steckt im letzten Satz: Die KI macht Angriffe schneller, aber sie nutzt meist dieselben alten Lücken. Wer starke Passwörter und Zwei-Faktor-Anmeldung durchsetzt, nimmt auch automatisierten Angreifern viel von ihrem Vorteil."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+            "alt": "Symbolbild zu Cyberangriffen",
+            "credit": "Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Nach EA jetzt Unity? Saudi-Fonds und Silver Lake verhandeln über Übernahme",
+          "lead": "Die Investoren, die Electronic Arts für 55 Milliarden Dollar gekauft haben, sprechen laut Reuters mit Unity. Gleichzeitig legt der Engine-Hersteller das beste dritte Quartal seiner Geschichte vor.",
+          "body": [
+            "Der saudische Staatsfonds PIF und die Beteiligungsfirma Silver Lake verhandeln nach einem Bericht von Reuters über die Übernahme von Unity. Im Gespräch war eine Bewertung von rund 25 Milliarden Dollar. Beide waren maßgeblich am 55-Milliarden-Kauf von Electronic Arts beteiligt. Silver Lake ist bei Unity bereits mit etwa acht Prozent investiert, Silver-Lake-Manager Egon Durban sitzt im Verwaltungsrat.",
+            "„Unity arbeitet mit einer Investmentbank daran, nach der Annäherung seine Optionen zu prüfen“, zitiert Reuters Insider. „Ein Abschluss ist nicht sicher, Plan und Konditionen können sich noch ändern.“ Die 25 Milliarden wurden laut den Quellen besprochen, bevor Unity seine neuen Zahlen vorlegte.",
+            "Diese Zahlen fielen stark aus. Der Umsatz stieg im dritten Quartal um 32 Prozent auf 622 Millionen Dollar, erstmals seit dem Börsengang 2020 schrieb Unity nach US-Bilanzregeln (GAAP) einen Gewinn, laut Eurogamer 122 Millionen Dollar. Treiber ist das KI-gestützte Werbenetz Vector, das um 126 Prozent zulegte. Die Sparte Grow Solutions, zu der Vector gehört, wuchs um 44 Prozent auf 457 Millionen Dollar. Das Engine-Geschäft Create Solutions legte dagegen nur um 8 Prozent auf 165 Millionen zu.",
+            "„Wir sehen die sich verstärkende Wirkung unserer Schwungrad-Strategie“, sagte Unity-Chef Matt Bromberg: Mehr Entwickler machten mehr Spiele mit Unity, und mehr Spiele bräuchten mehr Werbung, um gefunden zu werden. Nach Reuters stieg der Börsenwert nachbörslich um 4 Prozent auf geschätzt 21,5 Milliarden Dollar.",
+            "Unity hatte 2024 mit der geplanten Laufzeitgebühr pro Spielinstallation einen Sturm der Entrüstung ausgelöst und sie schließlich zurückgenommen. Eurogamer erinnert daran, dass EA nach dem Kauf durch das Konsortium, einer fremdfinanzierten Übernahme, Hunderte Stellen strich und BioWare schloss. Wie ein Unity-Geschäft aufgebaut wäre, ist nicht bekannt."
+          ],
+          "highlight": "Der saudische Staatsfonds PIF und die Beteiligungsfirma Silver Lake verhandeln nach einem Bericht von Reuters über die Übernahme von Unity.",
+          "assessment": [
+            "Nach EA wäre Unity der zweite große Baustein der Spielebranche in derselben Hand. Das ist strategisch nachvollziehbar: Wer eine der meistgenutzten Engines und ein großes Werbenetz für Mobilspiele besitzt, verdient an einem großen Teil der Branche mit, egal welches Spiel gewinnt.",
+            "Für Entwickler ist das kein beruhigender Gedanke. Unitys Gewinn kommt aus der Werbung, nicht aus der Engine, und eine Übernahme mit hoher Schuldenlast würde den Druck erhöhen, die Engine-Kunden stärker zur Kasse zu bitten. Die Erinnerung an die Laufzeitgebühr ist noch frisch."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake"
+            },
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Fall-Guys-Season-2-Battle-Pass-rewards%2C-including-all-skins%2C-costumes-and-patterns.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Bunte Spielfiguren aus Fall Guys",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake"
+          }
+        },
+        {
+          "title": "Sony stellt den Mobil-Shooter Ratchet & Clank: Ranger Rumble ein",
+          "lead": "Das Free-to-play-Spiel war ein Jahr lang in einzelnen Ländern im Testbetrieb. Eine weltweite Veröffentlichung wird es nicht geben, im Mai 2027 gehen die Server vom Netz.",
+          "body": [
+            "Ratchet & Clank: Ranger Rumble, der Mobil-Ableger von Sonys und Insomniacs Jump-’n’-Run-Reihe, ist eingestellt. Das teilten die Entwickler auf der offiziellen Website mit. „Wir haben die schwierige Entscheidung getroffen, die Entwicklung zu beenden“, heißt es dort, verbunden mit einem Dank an die Community.",
+            "Das Spiel war im November 2025 als „schneller Multiplayer-Arena-Shooter mit Plattform-Elementen“ angekündigt worden. Entwickelt hat es das Studio Oh BiBi in Zusammenarbeit mit Insomniac, PlayStation trat als Publisher auf. Der Testbetrieb begann auf den Philippinen und in Indonesien und wurde später auf Länder wie Norwegen, Schweden, Finnland, Dänemark, Frankreich, Kanada und Großbritannien ausgeweitet.",
+            "Das letzte Update erscheint jetzt, am 21. November verschwindet das Spiel aus den App-Stores. Wer es installiert hat, kann bis zur endgültigen Abschaltung der Server am 1. Mai 2027 weiterspielen.",
+            "Echtgeld-Käufe sind bereits abgeschaltet. Die Saisons des Qwark Pass laufen bis zum Ende weiter, der Super Pass ist ab sofort für alle kostenlos, und die Spielwährung lässt sich weiter erspielen und für Upgrades, Kostüme und Figuren ausgeben."
+          ],
+          "highlight": "Wer es installiert hat, kann bis zur endgültigen Abschaltung der Server am 1. Mai 2027 weiterspielen.",
+          "assessment": [
+            "Kein großer Verlust für die meisten, aber ein weiteres Indiz dafür, dass Sonys Mobilstrategie nicht aufgeht. Eine bekannte Marke allein reicht auf dem Smartphone nicht, wenn das Spiel sich wie hundert andere Arena-Shooter spielt.",
+            "Ein Leser bei VGC trifft es ganz gut: Als kleines Kaufspiel für zehn Euro auf Konsole hätte Ranger Rumble vielleicht Freunde gefunden. Free-to-play mit Saisonpass war für Ratchet & Clank wohl einfach das falsche Format."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2025/11/582980676_122101029441113898_7428758206767494062_n-e1762967722467.jpg",
+            "alt": "Werbebild zu Ratchet & Clank: Ranger Rumble",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/"
+          }
+        },
+        {
+          "title": "Wing Commander und Ultima kommen überarbeitet auf Steam und GOG",
+          "lead": "EA hat 25 Klassiker aus den Neunzigern leicht aufpoliert neu veröffentlicht. Herzstück sind die Wing-Commander-Filmszenen, die aus Originalbändern in einem vergessenen Archiv gerettet wurden.",
+          "body": [
+            "Electronic Arts hat 25 Spiele aus den 1990er-Jahren behutsam überarbeitet und auf Steam und GOG veröffentlicht, darunter mehrere Wing-Commander-Teile und fast die gesamte Ultima-Reihe. Kein Spiel kostet mehr als 5 Dollar. Wer die alten Fassungen schon bei GOG oder im EA-Store besitzt, bekommt die neuen Versionen kostenlos.",
+            "Wie es dazu kam, hat EA-Produzent Jim Vessella in einem langen Blogbeitrag beschrieben. Nach der Arbeit an der Command & Conquer Remastered Collection 2019 stieß er auf dem EA-Campus in Redwood Shores auf einen Raum voller schlecht beschrifteter alter Datenträger. In seiner Freizeit begann er mit anderen, das Archiv zu katalogisieren, und fand dabei fast vollständig die Originalaufnahmen der Filmsequenzen von Wing Commander III und IV.",
+            "Ein kleines Team sichtete und digitalisierte das Material in Schichten von 17 Stunden am Tag. Zusammen mit Leuten aus der Fangemeinde, vor allem Matt Wells, der Verbesserungs-Patches für die Reihe gebaut hat, entstanden die Neuauflagen von Wing Commander I bis IV, Prophecy, Privateer 2 und Road Rash. Neben deutlich besseren Videosequenzen gibt es Spielgrafik mit 60 Bildern pro Sekunde, viele neue Einstellmöglichkeiten und Controller-Unterstützung, über die sich in den Steam-Foren allerdings manche beklagen.",
+            "Für Privateer 2 fand sich das hochwertige Material zunächst nicht. Schließlich hatte der damalige Cinematics-Regisseur Steve Hilliker die Bänder auf seinem Dachboden. Er nutzte die Gelegenheit für eine neue Farbkorrektur und skalierte alle Szenen hoch. Für Road Rash lizenzierte EA den kompletten Originalsoundtrack neu."
+          ],
+          "highlight": "In seiner Freizeit begann er mit anderen, das Archiv zu katalogisieren, und fand dabei fast vollständig die Originalaufnahmen der Filmsequenzen von Wing Commander III und IV.",
+          "assessment": [
+            "Eine schöne Geschichte, und eine, die zeigt, wie Spielegeschichte tatsächlich gerettet wird: nicht durch Konzernstrategie, sondern durch einzelne Leute, die in ihrer Freizeit Kisten durchsuchen und Fans, die seit Jahrzehnten Patches pflegen.",
+            "Dass ausgerechnet EA, das gerade BioWare geschlossen hat, diese Pflege betreibt, wirkt fast unfreiwillig komisch. Wer Wing Commander III mit Mark Hamill nur als verwaschenes Video kennt, sollte trotzdem zugreifen. Für fünf Dollar ist das Spielegeschichte zum Taschengeldpreis."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
+            "alt": "Szene aus einem der Wing-Commander-Spiele",
+            "credit": "EA",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+          }
+        },
+        {
+          "title": "SAG-AFTRA erlaubt Profi-Sprecher schon für Demos und Pitches",
+          "lead": "Die US-Schauspielgewerkschaft hat einen eigenen Vertrag für Spiele vor der Finanzierung geschaffen. Kleine Studios sollen so leichter professionelle Stimmen und Motion Capture für ihre Präsentationen bekommen.",
+          "body": [
+            "Die Gewerkschaft SAG-AFTRA hat das „Pre-Funding Pitch Interactive Media Agreement“ eingeführt. Es gilt für Demos, sogenannte Vertical Slices, Trailer, Teaser, Präsentationsvideos und spielbare Prototypen, mit denen Entwickler Geldgeber überzeugen wollen.",
+            "Die Bedingungen sind eng: Ein Projekt darf höchstens 30 Prozent seiner anfänglichen Produktionsfinanzierung gesichert haben und darf nicht fertig wirken. Über Crowdfunding veröffentlichte Projekte sind ausgeschlossen, ebenso alles, was kommerziell erscheint oder öffentlich spielbar ist. Erfüllt ein Projekt nur einen Teil der Voraussetzungen, können Entwickler eine Ausnahme beantragen.",
+            "„Der Vertrag vereinfacht es, professionelle Gewerkschaftsmitglieder zu engagieren, und kann Entwicklern den entscheidenden Vorteil verschaffen, um in einer extrem umkämpften Branche Geld zu bekommen“, sagte SAG-AFTRA-Geschäftsführer Duncan Crabtree-Ireland. Gewerkschaftspräsident Sean Astin sprach davon, dass Studios so früher professionelle Stimm- und Bewegungsdarsteller einbinden könnten.",
+            "SAG-AFTRA hatte 2024 und 2025 elf Monate lang gegen mehrere Spielefirmen gestreikt, es ging um Bezahlung, Sicherheit und den ungeregelten Einsatz von KI. Danach kam der Interactive Media Agreement mit Lohnerhöhungen, Beiträgen zur Kranken- und Rentenversicherung und Schutzregeln für KI. Schon im vergangenen Jahr hatte die Gewerkschaft zwei Sonderverträge für Studierende und Game Jams aufgelegt."
+          ],
+          "highlight": "Ein Projekt darf höchstens 30 Prozent seiner anfänglichen Produktionsfinanzierung gesichert haben und darf nicht fertig wirken.",
+          "assessment": [
+            "Klug von der Gewerkschaft. Gerade in der Pitch-Phase greifen kleine Studios heute gern zu KI-Stimmen, weil professionelle Sprecher zu teuer und vertraglich zu kompliziert sind. Wer Profis früh ins Projekt holt, behält sie oft auch für das fertige Spiel.",
+            "Ob das in der Praxis reicht, hängt von den Gagen ab, die der Vertrag vorsieht. Doch die Richtung stimmt: Statt nur gegen KI zu kämpfen, macht SAG-AFTRA das menschliche Angebot einfacher zugänglich."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/APP_Pre-Funding_Pitch_IMA_2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Grafik zum neuen Pitch-Vertrag von SAG-AFTRA",
+            "credit": "SAG-AFTRA",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices"
+          }
+        },
+        {
+          "title": "BioWare bekommt einen Dokumentarfilm, Warren Spector rechnet mit EA ab",
+          "lead": "Ein kanadischer Dokumentarfilm hat das Studio in seinen letzten Monaten begleitet und kommt 2027 heraus. Derweil wird die Kritik an der Schließung lauter.",
+          "body": [
+            "„Mass Effect: The BioWare Story“ heißt der Dokumentarfilm, den Akash Sherman für den kanadischen Sender Super Channel geschrieben und inszeniert hat. Er erzählt die Geschichte des Studios von der Gründung 1995 bis zu Hits wie Mass Effect und Dragon Age. Die Dreharbeiten begannen zwei Jahre vor der Ankündigung der Schließung und liefen weiter, sodass der Film laut Deadline auch „BioWares letztes Kapitel“ festhält.",
+            "Zu Wort kommen die Gründer Ray Muzyka, Greg Zeschuk und Augustine Yip, Mass-Effect-Regisseur Casey Hudson, weitere Entwickler und Shepard-Sprecherin Jennifer Hale, außerdem Ex-EA-Chef John Riccitiello, Lucasfilm-Games-Manager Douglas Reilly und Game-Awards-Erfinder Geoff Keighley. „Mit der Schließung des Studios ist der Film nun ein tiefer Abschied“, sagt Sherman. Geplant sind eine Festivalrunde und eine Weltpremiere im kommenden Jahr, ein Termin steht noch nicht fest.",
+            "Gleichzeitig hat sich der Designer Warren Spector (Deus Ex) erneut auf LinkedIn zu Wort gemeldet, schärfer als beim ersten Mal. Er widerspricht dem Argument, die Schließung sei eine vernünftige Geschäftsentscheidung gewesen, weil BioWares beste Zeit vorbei sei. „Wenn Führungskräfte den Markt falsch einschätzen, zu viele Leute einstellen oder Entscheidungen treffen, die zu unterfinanzierten oder schlecht vermarkteten Spielen führen, verlieren sie dann Schlaf, geschweige denn ihren Job?“, fragt er. „Gibt es auf dieser Welt noch irgendeine Verantwortung? Offensichtlich nicht.“ Anschließend listet er die Jahresvergütungen von EA-Spitzenmanagern auf.",
+            "Ganz verschwindet das BioWare-Erbe nicht: Dragon-Age-Autor David Gaider arbeitet nach eigenen Worten an der Geschichte von „The Expanse: Osiris Reborn“ mit, einem Rollenspiel von Owlcat Games, das an Mass Effect erinnert. Eine Petition hat außerdem genug Unterschriften gesammelt, damit sich die kanadische Regierung mit einer möglichen Rettung befassen muss."
+          ],
+          "highlight": "„Gibt es auf dieser Welt noch irgendeine Verantwortung? Offensichtlich nicht.“",
+          "assessment": [
+            "Ein Film, der als Studioporträt begann und als Nachruf endet, das ist bitter und vermutlich gerade deshalb sehenswert. Selten dürfte ein Dokumentarfilm so nah dran gewesen sein, als ein großes Studio abgewickelt wurde.",
+            "Spectors Wut trifft einen Nerv, weil er etwas ausspricht, das in der Branche sonst selten so deutlich gesagt wird: Die Folgen von Fehlentscheidungen tragen die Entwickler, nicht die Vorstände. An der Schließung wird das nichts ändern, an der Erzählung darüber vielleicht schon."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer (Dokumentarfilm)",
+              "url": "https://www.eurogamer.net/bioware-closure-documentary-release"
+            },
+            {
+              "name": "Eurogamer (Warren Spector)",
+              "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability"
+            },
+            {
+              "name": "Eurogamer (David Gaider)",
+              "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/mass-effect-legendary-edition_AmSQYAn.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Commander Shepard holt in Mass Effect mit einer roten Energieklinge gegen einen Gegner aus",
+            "credit": "EA",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/bioware-closure-documentary-release"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "James Bond: Auch Robert Pattinson und Nicholas Hoult haben für 007 vorgesprochen",
+          "lead": "Die Suche nach dem neuen Bond ist in der Endrunde, und die Liste der Kandidaten hat zwei prominente Überraschungen. Bestätigt ist das allerdings nicht.",
+          "body": [
+            "Robert Pattinson und Nicholas Hoult gehören nach übereinstimmenden Berichten von Deadline und The Hollywood Reporter zu den Schauspielern, die zuletzt Probeaufnahmen für die Rolle des James Bond gemacht haben. Sie stehen damit neben Jack Lowden, Josh O’Connor und Callum Turner, deren Namen schon bekannt waren. Bestätigt sind die Angaben nicht, sie stammen von Insidern. Amazon war für eine Stellungnahme nicht zu erreichen.",
+            "Laut THR fanden die Probeaufnahmen am Wochenende des 24. Oktober in London statt, wo Pattinson gerade „The Batman Part II“ dreht. Deadline zufolge wurde ein fünfter Test erst in letzter Minute angesetzt, unklar ist, welcher Schauspieler das war. Eine Entscheidung erwarten die meisten bis Ende November, möglicherweise noch vor Thanksgiving.",
+            "Die Suche läuft seit dem Frühjahr. Damals gab das Studio bekannt, dass Casting-Direktorin Nina Gold an Bord ist. Nach zwei Monaten Gesprächen begannen im August die ersten Vorsprechen, im September verkleinerten Amazon, die Produzenten Amy Pascal und David Heyman und Regisseur Denis Villeneuve die Liste auf die Endauswahl. Es ist der erste Bond-Film unter Amazons Kontrolle, nachdem der Konzern im Februar 2025 der Familie Broccoli die kreativen Rechte abgekauft hatte.",
+            "Pattinson, 40, wäre eine Abkehr von der gängigen Annahme, dass der nächste Bond kein Weltstar sein soll. Er ist bereits das Gesicht von DCs Batman-Reihe, spielt in Nolans „The Odyssey“ und hat mit Villeneuve gerade „Dune: Part Three“ gedreht, der am 18. Dezember startet. Die Zusammenarbeit soll für beide gut gelaufen sein. Hoult war vor Jahren schon bei Batman der Zweitplatzierte hinter Pattinson.",
+            "Daniel Craig war im Oktober 2005 als Bond verkündet worden, vor 21 Jahren. Er spielte die Rolle in fünf Filmen bis „Keine Zeit zu sterben“ (2021), darunter mit „Skyfall“ den bisher einzigen Bond-Film mit mehr als einer Milliarde Dollar Einspiel."
+          ],
+          "highlight": "Robert Pattinson und Nicholas Hoult gehören nach übereinstimmenden Berichten von Deadline und The Hollywood Reporter zu den Schauspielern, die zuletzt Probeaufnahmen für die Rolle des James Bond gemacht haben.",
+          "assessment": [
+            "Pattinson als Bond wäre ein echter Bruch mit der Tradition, einen relativ unverbrauchten Darsteller zur Ikone zu machen. Gleichzeitig passt er erstaunlich gut zu Villeneuve, der eher einen kühlen, verschlossenen Bond inszenieren dürfte als einen Charmeur.",
+            "Mein Tipp bleibt trotzdem jemand aus der ersten Liste. Pattinson ist mit Batman auf Jahre gebunden, und Amazon wird kaum zwei Großreihen um einen Terminkalender herum planen wollen. Dass er überhaupt getestet wurde, zeigt aber, wie offen die Entscheidung noch ist."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903/"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-2-1.jpg?w=1024",
+            "alt": "Robert Pattinson und Nicholas Hoult nebeneinander",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/"
+          }
+        },
+        {
+          "title": "Sebastián Lelio ist tot: Der Regisseur von „Eine fantastische Frau“ wurde 52 Jahre alt",
+          "lead": "Der chilenische Filmemacher wurde am Freitag tot in seinem Haus in Santiago gefunden. Er gewann 2018 den Oscar für den besten internationalen Film.",
+          "body": [
+            "Sebastián Lelio ist tot. Wie zuerst die chilenische Zeitung Emol berichtete, wurde der 52-Jährige am Freitag, 6. November, in seinem Haus in Santiago gefunden, die Familie nennt gesundheitliche Probleme als Ursache. Entdeckt hat ihn seine Partnerin, die Schauspielerin und Regisseurin Amalia Kassai, die in seinem letzten Film „The Wave“ spielte, einem Protest-Musical, das 2025 in Cannes lief.",
+            "„Mit großer Trauer teilen wir das Ableben des chilenischen Filmemachers Sebastián Lelio aufgrund gesundheitlicher Probleme mit“, schrieb Kassai auf Instagram. „Er war ein wunderbarer Mensch und hat die chilenische Kultur in großen Momenten der Geschichte geteilt.“ Die Familie bat um Privatsphäre.",
+            "International bekannt wurde Lelio 2013 mit „Gloria“: Paulina García gewann für die Rolle einer 58-jährigen Geschiedenen, die noch einmal neu anfängt, den Silbernen Bären der Berlinale als beste Darstellerin. 2018 drehte er den Stoff mit Julianne Moore und John Turturro als „Gloria Bell“ für A24 neu. Seinen größten Erfolg hatte er mit „Eine fantastische Frau“ über eine trans Frau, die nach dem Tod ihres Partners um ihre Würde kämpft. Der Film gewann 2018 den Oscar als bester internationaler Film. Im selben Zeitraum entstand „Disobedience“ mit Rachel Weisz und Rachel McAdams.",
+            "Lelio wurde in Argentinien geboren und kam mit zwei Jahren mit seiner Mutter nach Chile. Er arbeitete eng mit den Brüdern Pablo und Juan de Dios Larraín zusammen, die fast alle seine Filme produzierten. Zuletzt drehte er laut IndieWire „Chilean Poet“ nach dem Roman von Alejandro Zambra, nun sein letztes Werk."
+          ],
+          "highlight": "Der Film gewann 2018 den Oscar als bester internationaler Film.",
+          "assessment": [
+            "Lelio war einer der wichtigsten Regisseure Lateinamerikas, und einer, der Figuren ernst nahm, die das Kino sonst übersieht: eine Frau jenseits der fünfzig, die tanzen geht, eine trans Frau, die nicht einmal trauern darf. Seine Filme waren nie laut, aber sie hatten Haltung.",
+            "Mit 52 zu sterben, mitten in einem neuen Projekt, ist ein großer Verlust. Wer ihn noch nicht kennt: „Gloria“ und „Eine fantastische Frau“ sind ein guter Einstieg, und beide halten bis heute."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/P114LRRT.jpg?w=650",
+            "alt": "Der chilenische Regisseur Sebastián Lelio",
+            "credit": "Lexie Moreland/PMC",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991/"
+          }
+        },
+        {
+          "title": "Trailer zu „Karōshi“: Das John-Wick-Team schickt Teo Yoo in einen Konzernkrieg",
+          "lead": "Lionsgate hat den ersten Trailer zum dystopischen Actionfilm aus dem Umfeld von Chad Stahelski veröffentlicht. Der Film soll Anfang 2027 ins Kino kommen.",
+          "body": [
+            "„Karōshi“ ist der japanische Begriff für Tod durch Überarbeitung. So heißt auch der neue Actionthriller, den Lionsgate Anfang 2027 ins Kino bringt. Hinter dem Film steht nach Angaben von Ars Technica Chad Stahelski, der Erfinder der John-Wick-Reihe, Regie und Drehbuch stammen von Takashi Doscher.",
+            "Die Handlung spielt in einem Manhattan der nahen Zukunft, in dem Firmenloyalität und kulturelle Tradition den Alltag umgeformt haben. Nach dem Tod eines Mitarbeiters dringt ein geheimnisvoller Außenseiter in einen mächtigen Konzern ein, Ikigai Technologies, und deckt das gewalttätige System hinter der polierten Fassade auf.",
+            "Teo Yoo („Past Lives“) spielt die Hauptfigur Hiro. Außerdem dabei sind Takehiro Hira, bekannt aus der Serie „Shōgun“, Giancarlo Esposito, Cynthia Erivo, Bill Camp, Richard Harmon, Isabel May und Show Kasamatsu.",
+            "Der Trailer beginnt mit einer Rede von Hiras Figur über den Beitrag des Konzerns zum „modernen Leben von Millionen“ und die „tägliche Hingabe und Opferbereitschaft“ der Angestellten. Dann stürzt sich ein verzweifelter Mitarbeiter vom Dach des Firmenturms. Hiro vermutet hinter dem Samurai-Kult des Unternehmens mit seinen Werten Integrität und Ehre etwas Finsteres und kämpft sich bald im Stil von John Wick durch Gegnerscharen, an einer Stelle mit einem Papierschirm als Schutz vor spritzendem Blut."
+          ],
+          "highlight": "Nach dem Tod eines Mitarbeiters dringt ein geheimnisvoller Außenseiter in einen mächtigen Konzern ein, Ikigai Technologies, und deckt das gewalttätige System hinter der polierten Fassade auf.",
+          "assessment": [
+            "Die Idee ist gut: Die Ausbeutung in der Arbeitswelt als Actionfilm zu erzählen, liegt nahe und ist trotzdem selten gemacht worden. Mit Teo Yoo hat der Film außerdem einen Hauptdarsteller, dem man eher stille Verzweiflung als stumpfe Härte zutraut.",
+            "Ob „Karōshi“ mehr ist als John Wick im Büro, wird sich zeigen. Der Trailer setzt sehr auf die bekannten Zutaten. Aber die Choreografie aus dem 87Eleven-Umfeld ist im Moment das Beste, was das amerikanische Actionkino zu bieten hat, und das allein reicht für einen Kinobesuch."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/"
+            },
+            {
+              "name": "Trailer: Karōshi",
+              "url": "https://www.youtube.com/watch?v=jQHoAsDcjVU"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png",
+            "alt": "Szene aus dem Trailer zu Karōshi",
+            "credit": "Lionsgate",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/"
+          }
+        },
+        {
+          "title": "Adam Driver über X-Men: „Es fühlte sich wie der richtige Zeitpunkt an“, zu „Girls“ kehrt er nicht zurück",
+          "lead": "Nach Jahren der Absagen an Marvel erklärt Adam Driver, warum er nun Mister Sinister spielt. Eine Rückkehr in Lena Dunhams „Girls“-Revival lehnt er dagegen ab.",
+          "body": [
+            "Adam Driver spielt im neuen X-Men-Film von Jake Schreier Nathaniel Millbury alias Mister Sinister, das war bei der D23 im August verkündet worden. In der Show von Jimmy Kimmel erklärte er nun, warum er nach vielen Absagen doch bei Marvel unterschrieben hat. „Ich war als Kind ein großer X-Men-Fan“, sagte er. Mit seinem Cousin habe er nachgespielt, der eine als Sabretooth, er selbst als Wolverine. „Das hier fühlte sich wie der richtige Zeitpunkt an, und dann ist es X-Men.“",
+            "Marvel-Chef Kevin Feige hatte zuvor erzählt, es sei eine „langjährige Tradition“, Driver per Videoanruf eine Rolle anzubieten, worauf dieser nach ein paar Tagen Bedenkzeit ablehnte. Diesmal hätten X-Men, Schreiers Idee für den Film und Feige selbst zusammengepasst, sagte Driver: „Das Drehbuch ist richtig gut.“ Den Druck spürt er: „Viele Leute werden ihn sehen, und wenn er schlecht ist, sehen viele Leute, wie ich schlecht bin.“",
+            "Zum Ensemble gehören Christopher Abbott als Charles Xavier, Inde Navarrette als Rogue, Maya Boyd als Storm, Kit Connor als Cyclops, Sadie Sink als Jean Grey, Samara Weaving als Emma Frost und Asa Germann als Angel. Das Drehbuch schreiben Lee Sung Jin („Beef“) und Joanna Calo („The Bear“). Kinostart ist am 5. Mai 2028.",
+            "Eine andere Rückkehr schloss Driver aus: HBO bringt „Girls“ als Revival mit fünf Folgen zurück, Drehbeginn ist 2027. Lena Dunham, Allison Williams, Jemima Kirke, Zosia Mamet und Andrew Rannells sind dabei. Ob er wieder Adam Sackler spielt? „Nein, aber ich wünsche ihnen viel Glück“, sagte Driver dem Portal CinemaBlend. Dunham hatte ihn in ihren Memoiren „Famesick“ als „verbal aggressiv“ bei den Dreharbeiten beschrieben."
+          ],
+          "highlight": "„Das hier fühlte sich wie der richtige Zeitpunkt an, und dann ist es X-Men.“",
+          "assessment": [
+            "Driver hat in dieser Woche schon den Bösewicht in „Heat 2“ bestätigt und Kylo Ren endgültig begraben. Jetzt sortiert er offenbar öffentlich seine Karriere, und das Muster ist klar: große Antagonisten in großen Filmen, keine Rückblicke.",
+            "Mister Sinister ist eine kluge Wahl. Die Figur ist ein manipulativer Wissenschaftler, kein Muskelprotz, und genau diese kontrollierte Bedrohlichkeit kann Driver. Dass er bei „Girls“ abwinkt, überrascht nach Dunhams Buch niemanden."
+          ],
+          "sources": [
+            {
+              "name": "Deadline (X-Men)",
+              "url": "https://deadline.com/2026/11/adam-driver-explains-x-men-right-time-after-rejecting-marvel-1237215963/"
+            },
+            {
+              "name": "Deadline (Girls)",
+              "url": "https://deadline.com/2026/11/adam-driver-shuts-down-girls-return-1237216089/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/P108U31W-e1794001418422.jpg?w=1024",
+            "alt": "Adam Driver",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/adam-driver-explains-x-men-right-time-after-rejecting-marvel-1237215963/"
+          }
+        },
+        {
+          "title": "„The Remarried Empress“ ist der erfolgreichste lokale Serienstart in der Geschichte von Disney+",
+          "lead": "Das koreanische Historiendrama nach einem Webtoon hat nach drei Tagen einen Rekord für Disney+ und Hulu aufgestellt. In mehr als 50 Ländern ist es die meistgesehene koreanische Premiere.",
+          "body": [
+            "Die koreanische Serie „The Remarried Empress“ ist nach Angaben von Disney die meistgesehene lokale Eigenproduktion, die je auf Disney+ gestartet ist, gemessen an den ersten drei Tagen. Die Serie lief am 3. November an. In über 50 Märkten, darunter die USA, Großbritannien, Frankreich, Spanien, Deutschland, Mexiko, Chile, Australien, Neuseeland und Kanada, ist sie die erfolgreichste Premiere eines koreanischen Titels.",
+            "Ursprünglich sollte die Serie erst am 4. November erscheinen, Disney zog sie als Dank an die Fans um einen Tag vor. Die Erwartungen waren hoch: Erste Folgen liefen im Oktober beim Filmfestival in Busan, der Trailer kam in 48 Stunden auf 13 Millionen Aufrufe, und der zugrunde liegende Webtoon hat 3 Milliarden Aufrufe.",
+            "Die Geschichte dreht sich um Kaiserin Navier und Kaiser Sovieshu aus dem Ostreich. Als der Kaiser sich in eine geflohene Sklavin verliebt, zerbricht die Ehe. Navier willigt in die Scheidung ein, unter einer Bedingung: Sie will den Kronprinzen Heinrey aus dem rivalisierenden Westkönigreich heiraten.",
+            "Regie führt Cho Suwon. Shin Mina spielt Navier, Ju Jihoon den Kaiser, Lee Jongsuk den Kronprinzen und Lee Seyoung die Sklavin Rashta. Die ersten vier Folgen sind online, danach kommen jeden Mittwoch zwei neue, bis zum Finale am 25. November."
+          ],
+          "highlight": "In über 50 Märkten, darunter die USA, Großbritannien, Frankreich, Spanien, Deutschland, Mexiko, Chile, Australien, Neuseeland und Kanada, ist sie die erfolgreichste Premiere eines koreanischen Titels.",
+          "assessment": [
+            "Disney hat lange gebraucht, um bei koreanischen Serien gegen Netflix anzukommen. Mit diesem Start hat der Dienst endlich einen eigenen Hit, und zwar mit einem Stoff, der seine Fans schon mitbringt: Webtoon-Adaptionen sind das verlässlichste Rezept im koreanischen Fernsehen geworden.",
+            "Interessant ist, dass ein klassisches Hofdrama mit Scheidung und Wiederheirat weltweit so gut ankommt. Das Genre ist nicht neu, aber die Mischung aus Kostümpracht und moderner Selbstbestimmung trifft offenbar einen Nerv."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-disney-hulu-biggest-local-original-launch-1236749905/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Remarried-Empress2.jpg?w=1024",
+            "alt": "Szene aus der Serie The Remarried Empress",
+            "credit": "Disney+",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159/"
+          }
+        },
+        {
+          "title": "Amazon bringt eine zweiteilige Serie über Melania Trump",
+          "lead": "Nach dem Dokumentarfilm aus diesem Jahr legt Prime Video nach: „Melania: The Series“ startet am 20. November, wieder unter der Regie von Brett Ratner.",
+          "body": [
+            "Amazon veröffentlicht auf Prime Video eine zweiteilige Serie über die First Lady. „Melania: The Series“ startet am 20. November, berichtet The Verge. Sie folgt auf den Dokumentarfilm „Melania“, der Anfang des Jahres Premiere hatte.",
+            "Laut Pressemitteilung enthüllt die Serie „nie zuvor erzählte Geschichten“ und bietet „beispiellose Einblicke“ in Melania Trumps Leben, einschließlich der „außergewöhnlichen Tage“ unmittelbar nach der Amtseinführung ihres Mannes als 47. Präsident. Die Episodenbeschreibungen kündigen an, wie sie ihre Prioritäten als First Lady setzt, wie im Weißen Haus Vertrauen auf die Probe gestellt wird und wie sie ihre Mission „für das amerikanische Volk“ beginnt.",
+            "Beide Folgen hat Brett Ratner inszeniert, der schon beim Film Regie führte. Weitere Mitwirkende oder Details zur Produktion nennt die Ankündigung nicht."
+          ],
+          "highlight": "„Melania: The Series“ startet am 20. November, berichtet The Verge.",
+          "assessment": [
+            "Das ist weniger eine Kultur- als eine Machtnachricht. Amazon hatte schon den Melania-Film ins Programm genommen, und eine Serie mit derart wohlwollenden Episodentexten liest sich eher wie Hofberichterstattung als wie ein Dokumentarformat.",
+            "Der Zeitpunkt ist bemerkenswert: zwei Wochen nach einer Wahl, die für Trump schlecht ausgegangen ist. Ob Amazon damit Zuschauer gewinnt, ist fraglich. Gute Beziehungen nach Washington dürften dem Konzern wichtiger sein."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303179993.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+            "alt": "Melania Trump bei einem offiziellen Termin",
+            "credit": "Bloomberg via Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Spielkarten im Wrack: Mongolisches Mutterschiff vor Japan gibt Freizeitleben preis",
+          "lead": "Vor der Insel Takashima haben Archäologen ein drittes Schiff der Mongolenflotte von 1281 untersucht. Unter den Funden sind Würfel und Karten eines chinesischen Spiels, ein Vorläufer von Mahjong.",
+          "body": [
+            "Vor der japanischen Insel Takashima in der Präfektur Nagasaki ist ein weiteres Wrack aus dem 13. Jahrhundert untersucht worden, berichtet die Zeitung Mainichi, zitiert vom Magazin Archaeology. Zwei andere Schiffe waren dort bereits 2011 und 2015 identifiziert worden. Alle drei sanken vermutlich 1281 in der Schlacht von Kōan, als die mongolisch geführte chinesische Yuan-Dynastie versuchte, Japan zu erobern.",
+            "Das neu untersuchte Schiff war ursprünglich etwa 30 Meter lang und hatte Wohnquartiere an Bord. Die Forscher halten es für das Mutterschiff des Verbands. Unter den geborgenen Gegenständen sind fünf Würfel und 29 kleine Karten für Koppai, ein Spiel, das aus China stammt.",
+            "„Die Koppai-Karten, die als Vorläufer der Mahjong-Steine gelten, dienten wahrscheinlich der Unterhaltung“, sagt Yoshifumi Ikeda, Archäologieprofessor an der Kokugakuin-Universität. Er leitete die Untersuchung gemeinsam mit der Stadtverwaltung von Matsuura. „Die Funde geben einen Einblick in das Leben während des Krieges.“",
+            "Die Invasion von 1281 war der zweite Versuch Kublai Khans, Japan zu erobern, nach einem ersten Angriff im Jahr 1274. Beide Male wurde die Flotte von Stürmen schwer getroffen. In Japan wurden diese Taifune als „Kamikaze“, als göttlicher Wind, verklärt."
+          ],
+          "highlight": "Unter den geborgenen Gegenständen sind fünf Würfel und 29 kleine Karten für Koppai, ein Spiel, das aus China stammt.",
+          "assessment": [
+            "Von solchen Funden lebt die Archäologie: Waffen und Anker erzählen von der Schlacht, Würfel und Spielkarten von den Menschen. Man sieht Soldaten und Seeleute vor sich, die in einer engen Kajüte auf den Angriff warten und sich mit einem Spiel die Zeit vertreiben.",
+            "Dass so kleine Spielkarten über 700 Jahre im Meer erhalten blieben, ist bemerkenswert und spricht für die guten Bedingungen im Schlick der Bucht. Für die Geschichte der Brettspiele ist es zudem ein seltener, sicher datierter Beleg."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/06/playing-cards-found-in-mongol-invasion-shipwreck-off-japan/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261106-Japan-Mongol-Shipwreck.jpg",
+            "alt": "Ein Würfel aus dem mongolischen Schiffswrack vor Takashima",
+            "credit": "Matsuura Municipal Board of Education, Nagasaki Prefecture",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/06/playing-cards-found-in-mongol-invasion-shipwreck-off-japan/"
+          }
+        },
+        {
+          "title": "War Verica eine Königin? Forscher deutet britischen Herrscher aus der Eisenzeit neu",
+          "lead": "Der Archäologe Miles Russell hält den Atrebaten-Herrscher Verica, dessen Flucht nach Rom die Invasion Britanniens auslöste, für eine Frau. Er beruft sich auf Namen, Titel und Münzbilder.",
+          "body": [
+            "Verica herrschte im ersten Jahrhundert nach Christus über die Atrebaten, einen keltischen Stamm im Süden Britanniens, und spielte eine zentrale Rolle bei der römischen Eroberung. Nach dem Sturz im Jahr 40 floh Verica zu Kaiser Claudius und überzeugte ihn, die Insel drei Jahre später zu erobern. Bisher galt Verica als Mann. Nach einer Mitteilung der Bournemouth University war Verica jedoch eine Frau.",
+            "Hinter der neuen Deutung steht der Archäologe Miles Russell. Er macht die patriarchale Denkweise klassischer Historiker des 19. Jahrhunderts für die Verwechslung verantwortlich. Russell weist darauf hin, dass der Name wie bei anderen weiblichen Herrscherinnen Britanniens jener Zeit, Boudicca und Cartimandua, auf „a“ endet.",
+            "Dass Verica für einen Mann gehalten wurde, lag auch am Titel „rex“, lateinisch für König, der auf den Münzen steht. Russell hält den Titel aber nicht für geschlechtsgebunden, selbst Kleopatra habe ihn verwendet. Hinzu kommen die Münzbilder: „Während andere britische Herrscher der Eisenzeit, die Münzen prägten, eindeutig männliche Krieger zeigen, ist Verica als schlanke, weibliche Figur mit nackten Brüsten zu Pferd dargestellt“, sagt Russell.",
+            "„Wir sollten die archäologischen Belege beim Wort nehmen und uns an Verica als weiblichen König und eine der frühesten und wichtigsten britischen Herrscherinnen erinnern“, so der Forscher."
+          ],
+          "highlight": "Nach dem Sturz im Jahr 40 floh Verica zu Kaiser Claudius und überzeugte ihn, die Insel drei Jahre später zu erobern.",
+          "assessment": [
+            "Eine reizvolle These, aber eine These. Ein Name auf „a“ und eine weibliche Figur auf Münzen sind Indizien, kein Beweis. Münzbilder der Eisenzeit sind oft symbolisch, eine Reiterin könnte auch eine Gottheit darstellen.",
+            "Trotzdem ist der Kern des Arguments stark: Die Gelehrten des 19. Jahrhunderts haben einen Mann gesehen, weil sie einen erwartet haben. Dass Britannien mit Boudicca und Cartimandua weibliche Herrscherinnen hatte, wissen wir aus römischen Quellen. Verica in diese Reihe zu stellen, ist nicht abwegig, und die Debatte darüber dürfte jetzt erst beginnen."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/06/researcher-argues-famous-british-iron-age-king-was-really-a-queen/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261106-England-Verica-Silver-Coin-Featured.jpg",
+            "alt": "Münze des Verica mit einer Reiterfigur",
+            "credit": "Museums Victoria Collections, CC BY 4.0",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/06/researcher-argues-famous-british-iron-age-king-was-really-a-queen/"
+          }
+        },
+        {
+          "title": "Manduria: Bemaltes Grab gehörte vielleicht einer Priesterin der Demeter",
+          "lead": "In Apulien haben Archäologen ein Felsgrab mit Malereien und zwei Inschriften in messapischer Sprache untersucht. Ein gemalter Tempelschlüssel deutet auf eine Frau mit priesterlichem Amt.",
+          "body": [
+            "Im Archäologischen Park der Messapischen Mauern in Manduria bei Tarent haben Archäologen ein Grab freigelegt, das Fachleute besonders interessiert. Das als Grab 17 bezeichnete Felsgrab stammt aus dem 4. oder 3. Jahrhundert vor Christus, also aus der Zeit, bevor Rom Süditalien kontrollierte. Vorgestellt wurden die Ergebnisse am 29. Oktober bei der zuständigen Denkmalbehörde für Brindisi, Lecce und Tarent.",
+            "Das Grab wurde direkt in den Fels gehauen und mit drei großen Steinplatten verschlossen, auf denen eine Inschrift in Messapisch steht, der Sprache, die vor der römischen Eroberung im Südosten Italiens gesprochen wurde. Im Inneren finden sich Mäandermuster und Darstellungen, die als Heiligtumsschlüssel und als Räuchergefäß, ein sogenanntes Thymiaterion, gedeutet werden. Eine zweite Inschrift ist in Rot und Blau auf die Innenseite einer der Platten gemalt.",
+            "Nach ersten Analysen der Inschriften und Bilder könnte hier eine Frau bestattet worden sein, die im Kult der Demeter, der griechischen Göttin der Fruchtbarkeit und des Ackerbaus, ein Priesteramt innehatte. Schlüssel waren im griechischen Raum ein Symbol von Priesterinnen, die als Hüterinnen der Tempel galten. Die Fachleute betonen, dass dies eine vorläufige Deutung ist, die weitere epigrafische und ikonografische Studien bestätigen müssen.",
+            "Insgesamt untersuchte das vom Kulturministerium finanzierte Projekt 24 Gräber und dokumentierte eine antike Straße sowie Teile der Befestigungen. Restaurierungen und weitere Analysen sind geplant, im Gespräch ist auch eine Ausstellung im Archäologischen Museum von Manduria."
+          ],
+          "highlight": "Nach ersten Analysen der Inschriften und Bilder könnte hier eine Frau bestattet worden sein, die im Kult der Demeter, der griechischen Göttin der Fruchtbarkeit und des Ackerbaus, ein Priesteramt innehatte.",
+          "assessment": [
+            "Die Messapier sind eines der weniger bekannten Völker des antiken Italien, und jede Inschrift in ihrer kaum verstandenen Sprache ist ein Gewinn. Hier gibt es gleich zwei, dazu Bilder, die sie einordnen helfen.",
+            "Spannend ist die Verbindung von einheimischer Sprache und griechischem Kult: Sie zeigt, wie eng Messapier und griechische Kolonisten wie die in Tarent miteinander verflochten waren. Wenn sich die Lesung bestätigt, wäre das Grab ein seltener Hinweis darauf, dass Frauen in dieser Gesellschaft religiöse Ämter mit sichtbarem Ansehen hatten."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/05/southern-italian-burial-may-have-belonged-to-a-priestess/"
+            },
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/en/archaeology/manduria-a-painted-tomb-with-inscriptions-in-the-messapian-language-has-been-discovered-it-may-have-belonged-to-a-priestess-of-demeter"
+            },
+            {
+              "name": "Greek Reporter",
+              "url": "https://greekreporter.com/2026/11/03/tomb-italy-ancient-greek-priestess-demeter/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261105-Italy-Manduria-Tombs.jpg",
+            "alt": "Steinblock mit messapischer Inschrift aus einem Grab in Manduria",
+            "credit": "Soprintendenza Archeologia, Belle Arti e Paesaggio Brindisi, Lecce e Taranto",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/05/southern-italian-burial-may-have-belonged-to-a-priestess/"
+          }
+        }
+      ]
+    }
+  ]
+}
