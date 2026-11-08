@@ -11,10 +11,10 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - .wrenfell-passwort.txt auf Kevins Freigabe in den Papierkorb (Passwort liegt als Pages-Secret SITE_PASSWORD).
 
 ## Offen
-- Heft 31 (2026-11-07) erschienen. Recherche am schnellsten über RSS-Feeds (heise, TechCrunch, Verge, Ars Technica, GamesIndustry.biz, Eurogamer, VGC, Deadline, THR, IndieWire, archaeology.org, livescience.com/feeds.xml) plus curl mit Browser-UA; WebSearch findet Tagesnews kaum. Geschichte ist oft dünn: zusätzlich finestresullarte.info und greekreporter.com; heritagedaily/phys.org/arkeonews-Feeds per curl nicht nutzbar.
+- Heft 32 (2026-11-08) erschienen. Recherche am schnellsten über RSS-Feeds (heise, TechCrunch, Verge, Ars Technica, GamesIndustry.biz, Eurogamer, VGC, Deadline, THR, IndieWire, archaeology.org, livescience.com/feeds.xml) plus curl mit Browser-UA; WebSearch findet Tagesnews kaum. Geschichte ist oft dünn: zusätzlich finestresullarte.info und greekreporter.com; heritagedaily/phys.org/arkeonews-Feeds per curl nicht nutzbar. Live-Science-Artikeltext steht im RSS (content:encoded), nicht im HTML. Deadline-Feed mit ?paged=2,3 für mehr Meldungen.
 - Trailer-Links: YouTube-Embeds in Artikeln sind oft Fremdkanäle (JoBlo); Kanal per youtube.com/oembed prüfen, offiziellen Kanal über YouTube-Suche finden.
 - Bild-Fallback: anderen Artikel derselben Meldung nehmen (Wikimedia-API liefert oft kein JSON). heise-Startseiten-og ist Standardbild, Artikel-og ok. Guardian und Variety-Text per curl nicht lesbar, Deadline/THR/Eurogamer gut.
-- Checkout steht beim Start auf detached HEAD: mit `git push origin HEAD:main` pushen.
+- Mit `git push origin HEAD:main` pushen (klappt auch, wenn der Checkout auf main steht).
 - Mobile Ansicht der Projektkarten und der Cover-Reihe ungeprüft.
 - Kevin entscheidet: Passwort in 1Password sichern, Projekt aus iCloud nach ~/Projekte umziehen.
 - Später: eigenes Hosting statt GameHub2026-Account, eigene Domain, GitHub-Repo privat.
