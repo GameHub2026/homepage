@@ -1,0 +1,499 @@
+{
+  "nr": 32,
+  "date": "2026-11-08",
+  "intro": "Der Sonntag bringt eine neue Wendung im Fall Nvidia: Ein US-Geheimdienstmemo nennt eine Managerin aus Singapur als mutmaßliche Spionin bei Jensen Huang. Daneben ein Bericht, wie schnell Anthropic mit KI an KI arbeitet, ein Rekordstart für Godzilla in Nordamerika, Christopher Nolans Kampfansage an KI-Training mit Filmen und ein Befund aus Mexiko, nach dem die Maya ihre Seen mit roter Farbe vergiftet haben.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Geheimdienstmemo nennt eine Managerin aus Singapur als mutmaßliche Spionin bei Jensen Huang",
+          "lead": "Nach der Vorladung Jensen Huangs vor den Kongress werden Details bekannt: Ein auf US-Geheimdienstinformationen gestütztes Memo behauptet, Chinas Staatssicherheit habe eine Managerin der Firma Megaspeed auf den Nvidia-Chef angesetzt. Zugleich zeigt eine Recherche, dass die US-Regierung Chipverkäufe an eine Firma mit leerem Büro genehmigt hat.",
+          "body": [
+            "Ein Memo, das Anfang des Jahres in US-Regierungskreisen kursierte, behauptet laut mehreren Medienberichten, dass die Technologiemanagerin Alice Huang vom chinesischen Ministerium für Staatssicherheit angeworben worden sei, um Nvidia-Chef Jensen Huang auszuspionieren. Zuerst berichtete die New York Times über das Papier, das auf Erkenntnissen der US-Geheimdienste beruhen soll. Die Times hatte bereits zuvor geschrieben, dass Huang Ziel chinesischer Geheimdienste gewesen sei.",
+            "Die Financial Times legte nach: Dem Memo zufolge soll Jensen Huang eine Liebesbeziehung mit Alice Huang gehabt haben. Sie ist Managerin bei Megaspeed, einem Unternehmen mit Sitz in Singapur. Eine Nvidia-Sprecherin sagte der New York Times, Huangs Kontakte zu Alice Huang seien „nicht ungewöhnlich“ gewesen, und das Unternehmen teile keine geheimen Informationen mit seinen Kunden.",
+            "Parallel dazu hat die New York Times untersucht, an wen Nvidia seine H200-Chips in China überhaupt verkaufen darf. Auf der Liste der vom US-Handelsministerium genehmigten Käufer steht die Firma New Matrix. An der angegebenen Adresse fanden die Reporter nur eine „hohle graue Hülle mit Kabeln, die von der Decke hängen, wo Lampen sein sollten“. Im Firmenverzeichnis des Gebäudes taucht New Matrix nicht auf, die Hausverwaltung hatte keinen Eintrag. Die Eigentümer haben laut Times Verbindungen zu einer chinesischen Private-Equity-Firma, die seit 2024 auf der schwarzen Liste der USA steht.",
+            "Laut Times ist das kein Einzelfall, sondern Teil eines Musters: Mehrfach seien Firmen mit Verbindungen zu Unternehmen unter Handelsbeschränkungen als Käufer zugelassen worden. Unter Präsident Biden durfte Nvidia solche Chips nicht nach China verkaufen. Die Trump-Regierung lockerte die Regeln, nachdem Nvidia zugesagt hatte, dem Staat 15 Prozent aller Verkaufserlöse abzugeben. Nvidia erklärt, man verkaufe „das Erste, Beste und das meiste unserer Technologie in Amerika“.",
+            "Der Kongress hatte Huang am Freitag wegen der Spionagesorgen vorgeladen. Mit dem Memo und der Recherche zu New Matrix bekommt die Anhörung nun deutlich mehr Stoff."
+          ],
+          "highlight": "An der angegebenen Adresse fanden die Reporter nur eine „hohle graue Hülle mit Kabeln, die von der Decke hängen, wo Lampen sein sollten“.",
+          "assessment": [
+            "Die Geschichte um Alice Huang ist der Stoff, aus dem Schlagzeilen sind, aber sie bleibt vorerst ein Vorwurf aus einem Memo, das niemand öffentlich prüfen kann. Wichtiger ist die nüchterne Recherche zu New Matrix. Sie zeigt, dass die Exportkontrolle für KI-Chips offenbar an der einfachsten Stelle versagt: Niemand schaut nach, ob es den Käufer überhaupt gibt.",
+            "Für Nvidia wird es unangenehm. Das Unternehmen hat jahrelang argumentiert, Exportregeln schadeten nur dem eigenen Geschäft und nützten China. Wenn sich zeigt, dass gelockerte Regeln über Briefkastenfirmen ausgenutzt werden, liefert das den Gegnern dieser Politik genau die Argumente, die sie im neuen Kongress brauchen."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/" },
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+            "alt": "Nvidia-Chef Jensen Huang bei einer Keynote auf der Dreamforce-Konferenz in San Francisco",
+            "credit": "Benjamin Fanjoy / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+          }
+        },
+        {
+          "title": "METR-Bericht: Anthropic entwickelt seine Modelle doppelt so schnell wie vor einem Jahr, und zwar vor allem dank KI",
+          "lead": "Die Sicherheitsorganisation METR hat elf Wochen lang bei Anthropic untersucht, wie stark KI die eigene Forschung beschleunigt. Das Ergebnis alarmiert viele Fachleute, und Anthropic hat große Teile des Berichts geschwärzt.",
+          "body": [
+            "Die gemeinnützige KI-Sicherheitsorganisation METR hat am Donnerstag einen Bericht veröffentlicht, der auf einer elfwöchigen Untersuchung bei Anthropic beruht. Kernaussage: Die Modelle des Unternehmens verbessern sich ungefähr doppelt so schnell wie vor einem Jahr. Benchmark-Werte deuteten darauf hin, dass Anthropic „im vergangenen Jahr ungefähr zwei Jahre historischen Fortschritts gemacht“ habe. Anzeichen für abnehmende Erträge oder Engpässe fanden die Forscher nicht.",
+            "Entscheidend ist die Ursache. METR ist sich nach eigenen Worten „sicher“, dass die Beschleunigung nicht einfach auf mehr Rechenleistung zurückgeht. Stand Oktober sei der Großteil der Beschleunigung „auf KI zurückzuführen“, mit wachsendem Anteil. Beschäftigte, die das stärkste interne Modell nutzen, schätzten sich im Schnitt als etwa zwölfmal so produktiv ein wie ohne KI, rund doppelt so viel wie wenige Monate zuvor mit Mythos 5. Noch kommt der Schub vor allem aus KI, die menschlichen Forschern hilft. METR warnt aber, es gebe „Anzeichen, dass vollständig autonome Beiträge bald eine größere Rolle spielen“.",
+            "Der Bericht nennt auch drei bislang unveröffentlichte Modelle mit den Codenamen Model 2, Model 3 und Model 4, deren Training im Juli, im August und September sowie im September und Oktober abgeschlossen wurde. Anthropic durfte laut Vereinbarung Teile des Berichts schwärzen und hat davon reichlich Gebrauch gemacht. METR selbst schreibt, die Öffentlichkeit müsse sich deshalb „viel mehr auf METRs Urteil verlassen, als ideal wäre“. Anthropic-Mitgründer Sam McCandlish verteidigte das auf X: Offenzulegen, was genau die Beschleunigung antreibt, sei geschäftlich heikel und könne anderen eine Anleitung liefern, schneller zu werden. Anthropic will in den kommenden Wochen einen eigenen Bericht zum Tempo des KI-Fortschritts vorlegen.",
+            "Die Reaktionen fallen heftig aus. Marius Hobbhahn, Chef von Apollo Research, sagte The Verge, das Tempo liege sogar über dem viel diskutierten Szenario „AI 2027“. Ryan Greenblatt schrieb, er habe sich bei der Geschwindigkeit der rekursiven Selbstverbesserung „ernsthaft geirrt“. Daniel Kokotajlo, früher bei OpenAI und heute Leiter des AI Futures Project, warf Anthropic vor, „rücksichtslos mit unserem Leben zu spielen“. Der Bericht erscheint, während Anthropic seinen Börsengang vorbereitet und Firmenchef Dario Amodei öffentlich dafür wirbt, die KI-Entwicklung zu bremsen."
+          ],
+          "highlight": "Stand Oktober sei der Großteil der Beschleunigung „auf KI zurückzuführen“, mit wachsendem Anteil.",
+          "assessment": [
+            "Das ist der bisher deutlichste externe Beleg dafür, dass KI ihre eigene Entwicklung messbar beschleunigt. Genau diese Schwelle galt lange als Punkt, ab dem Prognosen über KI-Fortschritt unzuverlässig werden. Man sollte das ernst nehmen, auch wenn Selbstauskünfte zur Produktivität aus Slack-Umfragen keine harte Messung sind.",
+            "Der Widerspruch ist offensichtlich: Ein Unternehmen, das zum Bremsen mahnt, legt das höchste Tempo vor und schwärzt die Details mit dem Argument, andere könnten sonst aufholen. Das ist aus Firmensicht nachvollziehbar, untergräbt aber den Anspruch, Vorbild für Transparenz zu sein. Ein freiwilliger Prüfbericht, den der Geprüfte zensieren darf, ist ein Fortschritt gegenüber gar keiner Prüfung, aber keine Aufsicht."
+          ],
+          "sources": [
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development" }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+            "alt": "Anthropic-Chef Dario Amodei in der Firmenzentrale",
+            "credit": "Jason Henry / Bloomberg via Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+          }
+        },
+        {
+          "title": "Rechenzentren in Europa: Verbrauch geheim, Baustelle besetzt",
+          "lead": "Mehr als die Hälfte der großen Rechenzentrumsbetreiber in Deutschland veröffentlicht laut SWR ihren Strom- und Wasserverbrauch nicht, obwohl das Gesetz es verlangt. In Amsterdam stürmten Hunderte die Baustelle eines Microsoft-Rechenzentrums.",
+          "body": [
+            "Das Energieeffizienzgesetz verpflichtet Betreiber größerer Rechenzentren in Deutschland, Kennzahlen zu Strom- und Wasserverbrauch zu veröffentlichen. Das SWR Data Lab hat bei rund dreißig der größten Betreiber nachgefragt und nachgesehen. Mehr als die Hälfte kommt der Pflicht demnach mutmaßlich nicht nach, die Angaben waren im Netz nicht zu finden. Manche verweigerten die Auskunft ausdrücklich, darunter laut Bericht Equinix, NTT und CloudHQ. Rechenzentren verbrauchen nach Bitkom-Angaben knapp vier Prozent des deutschen Stroms.",
+            "Die Unternehmen berufen sich auf Betriebs- und Geschäftsgeheimnisse. Equinix argumentiert, Verbrauchsdaten könnten Rückschlüsse auf Investitionen oder Kundenkapazitäten erlauben, NTT verweist auf Ausnahmen in der EU-Richtlinie. Das deutsche Gesetz enthält eine solche pauschale Ausnahme aber nicht, und das zuständige Bundesamt für Wirtschaft und Ausfuhrkontrolle betont, es gebe keine Absprachen über Freistellungen. Im nationalen Rechenzentrumsregister ist bislang nur knapp jedes vierte der rund hundert größten Rechenzentren verzeichnet. Der Erlanger Juraprofessor Bernhard Wegener hält die Praxis für rechtswidrig.",
+            "Statt nachzuschärfen, plant die Bundesregierung eine Reform, die Geschäftsgeheimnisse ausdrücklich von der Veröffentlichungspflicht ausnehmen würde. Gleichzeitig will sie die Leistung der Rechenzentren bis 2030 verdoppeln. Julian Bothe von AlgorithmWatch nennt es fatal, den Ressourcenhunger mitten in einer Energie- und Wasserkrise im Verborgenen zu lassen.",
+            "Wie aufgeladen das Thema inzwischen ist, zeigte sich am Freitag in Amsterdam. Hunderte Demonstranten drangen auf die Baustelle eines Microsoft-Rechenzentrums vor, die Polizei nahm 150 bis 200 Menschen wegen Hausfriedensbruchs fest und setzte laut NOS-Bildern Schlagstöcke ein. Vor Ort waren zwei Gruppen: die Klimabewegung Fossielvrij NL, die vor dem Gelände demonstrieren wollte, und die Aktionsgruppe Geef Tegengas, die Zäune mit Werkzeug aufbrach. Geef Tegengas sprach vom ersten Massenprotest gegen große Rechenzentren in Europa. Microsoft erklärte, man respektiere friedlichen Protest, billige aber keine Gesetzesverstöße."
+          ],
+          "highlight": "Mehr als die Hälfte kommt der Pflicht demnach mutmaßlich nicht nach, die Angaben waren im Netz nicht zu finden.",
+          "assessment": [
+            "In den USA haben Rechenzentren gerade eine Wahl mitentschieden, in Europa kommt der Konflikt jetzt auf der Straße an. Die Branche macht es ihren Gegnern leicht: Wer sich weigert, gesetzlich geforderte Zahlen zu nennen, nährt den Verdacht, dass sie unangenehm sind.",
+            "Die geplante Gesetzesänderung wirkt vor diesem Hintergrund schlecht getimt. Akzeptanz für den Ausbau gewinnt man nicht, indem man die Transparenz abschafft, die ihn begründen könnte. OpenAI hat in den USA nach den Wahlen schon angekündigt, auf Verschwiegenheitsvereinbarungen mit Kommunen zu verzichten. Die deutschen Betreiber wären gut beraten, nicht erst auf ihre eigene Protestwelle zu warten."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html" },
+            { "name": "heise online", "url": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/1/9/6/shutterstock_2718876939-18c812abc1908493.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Rechenzentrum von Meta in den USA (Symbolbild)",
+            "credit": "Snehit Photo / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html"
+          }
+        },
+        {
+          "title": "Crusoe gibt sein Problemprojekt in Wyoming an Google ab",
+          "lead": "Der Rechenzentrumsentwickler Crusoe hat ein unfertiges Großprojekt in Wyoming an Google verkauft. Google hatte zuvor Zweifel an Kosten und Zeitplan unter Crusoes Regie.",
+          "body": [
+            "Crusoe, ein acht Jahre altes Unternehmen aus Denver, das zuletzt mit 30,9 Milliarden Dollar bewertet wurde, hat am Freitag bestätigt, dass es ein unfertiges Rechenzentrumsprojekt im Südosten Wyomings an Google verkauft hat. Ausgerechnet Google hatte Crusoe vergeblich als Kunden für den Standort gewinnen wollen. Berichten zufolge hatte der Konzern Bedenken wegen Kosten und Bauzeit, solange Crusoe das Projekt führt.",
+            "Crusoe hatte das Projekt im vergangenen Jahr gemeinsam mit dem von Blackstone gestützten Infrastrukturunternehmen Tallgrass angekündigt, mit dem Ziel, es auf bis zu zehn Gigawatt Leistung auszubauen. Was Google bezahlt hat, ist nicht bekannt. Google kündigte aber an, 17 Milliarden Dollar in den Ausbau des Campus zu investieren.",
+            "Ganz getrennt haben sich die Wege nicht: Crusoe baut für Google weiterhin ein Rechenzentrum bei Amarillo in Texas. Zu Crusoes größten Projekten gehört der Campus in Abilene, Texas, der in Phasen für Oracle und OpenAI entsteht, daneben ein 900-Megawatt-Campus für Microsoft, dessen erstes Gebäude Mitte 2027 in Betrieb gehen soll. Im September hatte Crusoe trotz des Rückschlags in Wyoming 3,9 Milliarden Dollar eingesammelt.",
+            "Das Unternehmen begann ursprünglich als Krypto-Miner, der Erdgas nutzte, das sonst abgefackelt worden wäre. Heute vermietet es Rechenzentrumsfläche, eigene GPUs und Rechenleistung für den Betrieb von KI-Modellen."
+          ],
+          "highlight": "Ausgerechnet Google hatte Crusoe vergeblich als Kunden für den Standort gewinnen wollen.",
+          "assessment": [
+            "Der Deal zeigt, wie schwer es unabhängige Entwickler haben, Projekte dieser Größenordnung zu stemmen. Geräte, Strom und zunehmend auch die Zustimmung vor Ort sind knapp, und wer bei Kosten oder Zeitplan wackelt, verliert das Projekt an einen Konzern mit tieferen Taschen.",
+            "Für die Branche ist das ein Hinweis auf Konsolidierung: Die Hyperscaler holen sich die Standorte zurück, sobald es eng wird. Für Crusoe ist es eher ein geordneter Rückzug als eine Niederlage, denn das Geschäft mit Oracle, OpenAI und Microsoft läuft weiter."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+            "alt": "Crusoe-Chef Chase Lochmiller bei einer Podiumsdiskussion zum Strombedarf der KI",
+            "credit": "Brett Coomer / Houston Chronicle / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+          }
+        },
+        {
+          "title": "SoundCloud lässt KI-Musik direkt aus ElevenLabs veröffentlichen",
+          "lead": "Mit ElevenMusic erzeugte Songs lassen sich jetzt ohne Umweg auf SoundCloud hochladen. Während andere Plattformen KI-Musik eindämmen, öffnet SoundCloud ihr die Tür.",
+          "body": [
+            "Wer mit ElevenMusic, der KI-Musikplattform des Audio-Spezialisten ElevenLabs, Songs erzeugt, kann sie jetzt direkt auf SoundCloud veröffentlichen. Die Streaming-Plattform begründet das damit, dass Musikschaffende ihren Arbeitsablauf nicht mehr unterbrechen müssten. Auf diesem Weg hochgeladene Stücke werden mit einem Hinweis auf ElevenMusic als Ursprung gekennzeichnet.",
+            "Zur Kooperation gehört ein Lockangebot: Abonnenten von SoundCloud Artist Pro erhalten ElevenMusic Pro drei Monate kostenlos. Damit lassen sich bis zu 1000 Musikstücke pro Monat generieren, 500-mal Songs in Einzelspuren zerlegen und fünf eigene Stile oder Stimmen anlegen.",
+            "Die Branche geht mit KI-Musik sehr unterschiedlich um. Bandcamp verbietet seit Januar 2026 Musik, die ganz oder zu wesentlichen Teilen von KI erzeugt wurde. Spotify und YouTube lassen sie grundsätzlich zu, verlangen oder fördern aber Angaben zum KI-Einsatz und gehen gegen Spam und unerlaubte Imitationen vor. ElevenLabs arbeitet zudem seit September mit Universal Music an einer eigenen KI-Plattform."
+          ],
+          "highlight": "Damit lassen sich bis zu 1000 Musikstücke pro Monat generieren, 500-mal Songs in Einzelspuren zerlegen und fünf eigene Stile oder Stimmen anlegen.",
+          "assessment": [
+            "SoundCloud war immer die Plattform für alles, was nicht durch die Filter der großen Labels passt. Dass sie sich jetzt als Abladeplatz für KI-Musik anbietet, ist konsequent, aber riskant: 1000 Stücke pro Monat und Nutzer sind keine Werkzeugunterstützung mehr, sondern Massenproduktion.",
+            "Die Kennzeichnung ist ein Anfang. Entscheidend wird sein, ob SoundCloud seine Empfehlungen so steuert, dass menschliche Musik nicht in der Flut untergeht. Sonst verliert die Plattform genau die Szene, die sie groß gemacht hat."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/SoundCloud-erlaubt-direkte-Veroeffentlichung-KI-generierter-Musik-11515523.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/7/4/1/shutterstock_1342811438-ad1e0984c4be3fde.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild Musikproduktion",
+            "credit": "Primakov / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/SoundCloud-erlaubt-direkte-Veroeffentlichung-KI-generierter-Musik-11515523.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Star Wars Zero Company: Bit Reactor entlässt Personal, einen Monat nach der Rückholung aus der Zwangspause",
+          "lead": "Das Studio hinter dem erfolgreichen Taktikspiel Star Wars Zero Company hat eine unbekannte Zahl von Beschäftigten entlassen. Erst im Oktober hatte es Teile des beurlaubten Teams zurückgeholt.",
+          "body": [
+            "Bit Reactor, Entwickler von Star Wars Zero Company, hat Mitarbeiter entlassen. Mehrere Entwickler machten das am Freitag, 6. November, auf LinkedIn öffentlich, zuerst berichtete Bespin Bulletin. Wie viele Menschen betroffen sind, hat das Studio nicht gesagt. Unter den Betroffenen sind der Senior Environment Artist Ryan Lopez, der dreieinhalb Jahre an dem Spiel gearbeitet hatte und nach drei Monaten Zwangspause gehen musste, UI-Entwickler Tyler Eichten und Ryan Mosher aus der Qualitätssicherung.",
+            "Die Vorgeschichte ist ungewöhnlich. In den Wochen vor dem Start am 27. August hatte Bit Reactor den Großteil seiner Belegschaft beurlaubt, eine Quelle sprach von rund 80 Prozent. Dem Studio war offenbar kurz vor dem Ziel das Geld ausgegangen. Das Spiel lief trotzdem gut und soll im ersten Monat mehr als eine Million Mal verkauft worden sein.",
+            "Am 7. Oktober schrieb Firmenchef Greg Foertsch auf Bluesky, man habe begonnen, mehr Leute zurückzuholen. Die Beurlaubung so kurz vor dem Start sei „eine unglaublich schwere Entscheidung“ gewesen, aber nötig, um am Ende möglichst viele zurückholen zu können. Mehr als die Hälfte des Studios soll zurückgekehrt sein, allerdings nicht alle mit vollem Gehalt. Ob unter den jetzt Entlassenen auch Rückkehrer sind, ist unklar.",
+            "„Auch wenn es weh tut, ich bin wirklich stolz auf das, was wir zusammen gebaut haben“, schrieb Lopez. Eurogamer hatte das Spiel mit vier von fünf Sternen bewertet."
+          ],
+          "highlight": "Das Spiel lief trotzdem gut und soll im ersten Monat mehr als eine Million Mal verkauft worden sein.",
+          "assessment": [
+            "Ein Spiel mit großer Lizenz, guten Kritiken und über einer Million Verkäufen, und trotzdem müssen Leute gehen: Das sagt viel über die Finanzierung mittelgroßer Studios. Wenn das Geld vor dem Start ausgeht, reicht auch ein Erfolg danach nicht, um alle Löcher zu stopfen.",
+            "Für die Betroffenen ist das Hin und Her besonders bitter. Erst Zwangspause, dann Rückkehr mit Hoffnung, dann doch die Kündigung. Wer so plant, verspielt Vertrauen, das ein Studio für das nächste Projekt dringend braucht."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/star-wars-zero-company-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Star Wars Zero Company: ein Klonkrieger im Gefecht",
+            "credit": "EA",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs"
+          }
+        },
+        {
+          "title": "Sony verschiebt die Pulse-Elevate-Lautsprecher auf unbestimmte Zeit",
+          "lead": "Weniger als eine Woche vor dem Verkaufsstart hat Sony seine ersten Desktop-Lautsprecher für PlayStation gestoppt. Bei Qualitätstests sei ein Produktionsproblem aufgefallen.",
+          "body": [
+            "Sony hat die kabellosen Lautsprecher Pulse Elevate auf unbestimmte Zeit verschoben. Die Nachricht kam am 6. November als Nachtrag zur ursprünglichen Ankündigung im PlayStation Blog. „Im Rahmen unserer laufenden Qualitätstests haben wir ein Produktionsproblem festgestellt und beschlossen, den Start zu verschieben“, heißt es dort. Die zusätzliche Zeit solle sicherstellen, dass das Produkt das beabsichtigte Erlebnis liefere. Einen neuen Termin gibt es nicht.",
+            "Eigentlich sollten die Lautsprecher am 12. November weltweit in den Handel kommen, Vorbestellungen liefen seit September. Was mit diesen Bestellungen passiert, ist noch offen. Der Preis liegt bei 199,99 Pfund beziehungsweise 219,99 Dollar.",
+            "Sony hatte Pulse Elevate im September 2025 als erste kabellose Lautsprecher für das Spielen am Schreibtisch vorgestellt, als Ergänzung zum Headset Pulse Elite und den Ohrhörern Pulse Explore. Sie verbinden sich über PlayStation Link mit PS5, PC, Mac und PlayStation Portal und können gleichzeitig per Bluetooth mit einem Smartphone gekoppelt werden. Im rechten Lautsprecher steckt ein Mikrofon mit KI-gestützter Geräuschunterdrückung."
+          ],
+          "highlight": "Eigentlich sollten die Lautsprecher am 12. November weltweit in den Handel kommen, Vorbestellungen liefen seit September.",
+          "assessment": [
+            "Eine Verschiebung wenige Tage vor dem Start ist ungewöhnlich und deutet darauf hin, dass das Problem nicht kosmetisch ist. Lieber jetzt stoppen als eine Rückrufaktion riskieren, das ist die vernünftige Entscheidung.",
+            "Große Folgen hat das für PlayStation nicht, Lautsprecher sind ein Nischenprodukt. Ärgerlich ist es für alle, die vorbestellt haben, und Sony sollte schnell erklären, ob das Geld zurückfließt oder die Bestellung bestehen bleibt."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-07-at-19.29.39.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Vier kegelförmige Pulse-Elevate-Lautsprecher in Schwarz und Weiß mit PlayStation-Logo",
+            "credit": "Sony / Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue"
+          }
+        },
+        {
+          "title": "Unbestätigt: Assassin's Creed soll ins antike Rom gehen, ein Mobilspiel nach Jerusalem",
+          "lead": "Laut einem Leak arbeitet Ubisoft an zwei neuen Assassin's-Creed-Spielen mit den Codenamen Mars und Pocket. Insider Gaming kennt die Namen ebenfalls, konnte sie aber nicht unabhängig bestätigen.",
+          "body": [
+            "Ubisoft arbeitet angeblich an zwei weiteren Assassin's-Creed-Spielen. Das behauptet der YouTuber Xj0nathan, der sich auf zwei Quellen mit Zugang zu Ubisofts internen Systemen beruft. Eines der Spiele mit dem Codenamen Mars soll im antiken Rom spielen und wahrscheinlich mit der geplanten Assassin's-Creed-Fernsehserie verknüpft sein.",
+            "Das zweite Projekt mit dem Codenamen Pocket soll ein Mobilspiel sein, das in Jerusalem spielt. Es soll sich ähnlich spielen wie die Mastery Challenges aus Valhalla und optisch an das jüngste Prince of Persia erinnern. Die Mentorin der Hauptfigur heiße Myriam.",
+            "Eurogamer ordnet die Meldung vorsichtig ein. Insider Gaming habe die Codenamen ebenfalls gehört, sie aber nicht gut genug bestätigen können, um selbst darüber zu berichten. Das Medium führt das auch auf die Unruhe in der Reihe nach dem Weggang von Assassin's-Creed-Chef Marc-Alexis Côté zurück. Den nächsten Hauptteil Hexe sollen Quellen zufolge intern um ein weiteres Jahr verschoben worden sein, wahrscheinlich auf 2028. Sollte Mars in die volle Produktion gehen, rechnet Insider Gaming nicht vor 2029 oder 2030 mit Neuigkeiten.",
+            "Rom war schon einmal Schauplatz der Reihe, in Brotherhood von 2010, allerdings in der Renaissance. Erst vor wenigen Tagen hatte Ubisoft erklärt, derzeit seien keine weiteren Remakes älterer Teile in Arbeit."
+          ],
+          "highlight": "Insider Gaming habe die Codenamen ebenfalls gehört, sie aber nicht gut genug bestätigen können, um selbst darüber zu berichten.",
+          "assessment": [
+            "Das ist ein Gerücht und sollte so behandelt werden. Plausibel ist es trotzdem: Das antike Rom ist das offensichtlichste Szenario, das Assassin's Creed noch nicht richtig bespielt hat, und Origins und Odyssey haben gezeigt, dass Antike bei Ubisoft funktioniert.",
+            "Wenn die Zeitangaben stimmen, ist das aber ein Spiel für das Ende des Jahrzehnts. Bis dahin muss Ubisoft erst einmal zeigen, dass es Hexe pünktlich und in guter Form fertigbekommt, und das ist im Moment die größere Frage."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Assassins-Creed-Black-Flag-Resynced---Naval-Combat-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Seegefecht aus Assassin's Creed Black Flag Resynced: Edward und die Jackdaw jagen ein feindliches Schiff",
+            "credit": "Ubisoft",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour"
+          }
+        },
+        {
+          "title": "Xbox Cloud Gaming: Das Smartphone wird zum Controller für den Fernseher",
+          "lead": "Microsoft testet zwei neue Wege, Cloud-Spiele auf Smart-TVs zu spielen. Einer davon kommt ganz ohne Controller aus.",
+          "body": [
+            "Microsoft hat am 4. November auf Xbox Wire zwei neue Testfunktionen für Xbox Cloud Gaming angekündigt. Die erste macht das Smartphone zum Controller: Wer keinen Controller zur Hand hat, verbindet Android- oder iOS-Gerät per QR-Code mit dem Fernseher, die Steuerung öffnet sich im Browser des Telefons. Die Vorschau wird auf unterstützten Fernsehern in allen Ländern ausgerollt, in denen Xbox Cloud Gaming verfügbar ist.",
+            "Die zweite Neuerung heißt Cloud Connect und ist vorerst auf die USA beschränkt. Damit spricht der neue Controller Xbox Nano per WLAN direkt mit der Cloud-Sitzung, statt sich mit dem Fernseher zu koppeln. Das soll die Eingabeverzögerung senken.",
+            "Freischalten lässt sich die Smartphone-Steuerung über die Vorschaufunktionen in den Kontoeinstellungen der aktuellen Xbox-App für Smart-TVs. Microsoft weist darauf hin, dass beide Funktionen noch getestet werden und Verfügbarkeit sowie unterstützte Spiele und Geräte eingeschränkt sein können. Parallel testet Microsoft eine überarbeitete Xbox-App für den PC, die 60 Prozent schneller starten soll."
+          ],
+          "highlight": "Wer keinen Controller zur Hand hat, verbindet Android- oder iOS-Gerät per QR-Code mit dem Fernseher, die Steuerung öffnet sich im Browser des Telefons.",
+          "assessment": [
+            "Für ernsthaftes Spielen ist ein Touchscreen-Controller ein Notbehelf. Als Einstieg ist er aber klug: Wer einen Fernseher mit Xbox-App hat, kann sofort loslegen, ohne etwas zu kaufen. Genau diese Hürde will Microsoft für Cloud Gaming senken.",
+            "Spannender ist Cloud Connect. Wenn der Controller direkt mit dem Server spricht, fällt ein Glied der Latenzkette weg. Das ist die Art technischer Kleinarbeit, die Cloud Gaming wirklich besser macht."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Fernseher mit einem Cloud-Spiel, davor ein Smartphone mit virtueller Controller-Oberfläche",
+            "credit": "Microsoft / Xbox Wire",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect"
+          }
+        },
+        {
+          "title": "Dragon-Age-Autor David Gaider schreibt am Rollenspiel The Expanse: Osiris Reborn mit",
+          "lead": "Der frühere BioWare-Chefautor arbeitet mit Owlcat Games an dem Rollenspiel zur Science-Fiction-Reihe The Expanse. Das Spiel gilt als einer der Erben von Mass Effect.",
+          "body": [
+            "David Gaider, Chefautor von Dragon Age: Origins, Dragon Age 2 und Dragon Age: Inquisition und oft als Architekt der Fantasywelt Thedas bezeichnet, arbeitet an The Expanse: Osiris Reborn mit. „Neben meiner Arbeit bei Summerfall habe ich mit dem Team von Owlcat Games an The Expanse: Osiris Reborn zusammengearbeitet und mich auf bestimmte Aspekte der Erzählung konzentriert“, schrieb er auf Bluesky. The Expanse sei seit Langem eine seiner Lieblingsreihen.",
+            "Gaider hatte nach seinem Abschied von BioWare das Studio Summerfall gegründet, das zuletzt das Rollenspiel-Musical Stray Gods veröffentlichte. Er lobte, wie stark Owlcat auf Fans reagiere. Als Beispiel nannte er die Neubesetzung des männlichen Protagonisten nach Kritik aus der Community. Den überarbeiteten Marskapitän spricht jetzt Blythe Melin.",
+            "Osiris Reborn ist eines von zwei Rollenspielen, die im kommenden Jahr das Erbe von Mass Effect antreten wollen, das andere ist Exodus. Die Nachricht kommt in einer Woche, in der die Schließung von BioWare die Branche beschäftigt."
+          ],
+          "highlight": "Den überarbeiteten Marskapitän spricht jetzt Blythe Melin.",
+          "assessment": [
+            "Zeitlich könnte das kaum passender sein: Während BioWare zugemacht wird, tauchen die Leute, die das Studio groß gemacht haben, bei anderen Projekten auf. Das Erbe von Mass Effect und Dragon Age lebt weiter, nur nicht mehr unter dem alten Namen.",
+            "Owlcat hat mit den Pathfinder-Spielen und Rogue Trader bewiesen, dass es komplexe Rollenspiele kann. Erzählerisch war das Studio aber nicht immer so stark wie spielerisch. Gaider könnte genau die Lücke füllen."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/expanse-osiris-reborn-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Figur im Raumanzug mit beleuchtetem Helmvisier aus The Expanse: Osiris Reborn",
+            "credit": "Owlcat Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Rekord: Godzilla Minus Zero ist der erfolgreichste Start eines fremdsprachigen Realfilms in Nordamerika",
+          "lead": "Nach den ersten Prognosen steht nun fest: Godzilla Minus Zero steuert auf rund 32 Millionen Dollar am Startwochenende zu. Getragen wird das fast vollständig von Imax- und Premiumsälen.",
+          "body": [
+            "Godzilla Minus Zero von Regisseur Takashi Yamazaki kommt laut Deadline-Hochrechnung vom Samstagmorgen auf rund 32 Millionen Dollar am Startwochenende in den USA und Kanada, nach 14,5 Millionen am Freitag. Das ist der beste Start eines fremdsprachigen Realfilms in Nordamerika und der größte Start in der Geschichte des Verleihs Gkids. Den Gesamtrekord für fremdsprachige Filme hält weiter der Anime Demon Slayer: Infinity Castle mit 70,6 Millionen Dollar.",
+            "Bemerkenswert ist die Verteilung: 74 Prozent des Umsatzes kommen aus Imax- und anderen Premiumsälen, ein Wert, den Deadline als bisher nie gesehen bezeichnet. Zum Vergleich: Nolans The Odyssey holte 52 Prozent seines Startumsatzes von 123,5 Millionen Dollar in solchen Sälen. Das Marketingbudget in Nordamerika lag unter zehn Millionen Dollar, Fernsehspots wurden laut iSpot gar keine gebucht.",
+            "Das Publikum ist begeistert. Der Film bekam wie sein Vorgänger Godzilla Minus One von 2023 ein A im CinemaScore, bei PostTrak gibt es 95 Prozent positive Bewertungen und 85 Prozent klare Empfehlungen. In Japan hat der Film seit seinem Start am Dienstag 11,8 Millionen Dollar eingespielt. Das Publikum in Nordamerika ist gemischt: 37 Prozent Weiße, 32 Prozent Hispanics und Latinos, je 13 Prozent asiatisch- und afroamerikanisch.",
+            "Auf Platz zwei steuert der Animationsfilm The Cat in the Hat von Warner Bros. auf bis zu 20 Millionen Dollar zu, ebenfalls mit einem A im CinemaScore. Dahinter folgt das Glaubensdrama Drummer Boy von Angel Studios mit rund 8,8 Millionen."
+          ],
+          "highlight": "Bemerkenswert ist die Verteilung: 74 Prozent des Umsatzes kommen aus Imax- und anderen Premiumsälen, ein Wert, den Deadline als bisher nie gesehen bezeichnet.",
+          "assessment": [
+            "Toho zeigt Hollywood erneut, was mit einem Bruchteil des Budgets möglich ist. Kein Fernsehspot, kaum Marketing, und trotzdem ein Rekord, weil der Vorgänger so viel Vertrauen aufgebaut hat. Mundpropaganda schlägt Werbebudget, zumindest wenn der Film hält, was er verspricht.",
+            "Die Imax-Quote ist das eigentliche Signal. Das Publikum geht für Spektakel noch ins Kino, aber dann richtig, auf der größten Leinwand. Für die Kinobetreiber ist das gut, für mittelgroße Filme ohne Schauwert eher eine schlechte Nachricht."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/%E3%80%8E%E3%82%B4%E3%82%B8%E3%83%A9-0.0%E3%80%8F%E3%83%91%E3%83%96%E3%82%AB%E3%83%83%E3%83%88%E3%89%92-e1793929665158.jpg?w=1024",
+            "alt": "Szene aus Godzilla Minus Zero",
+            "credit": "Toho / Gkids",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          }
+        },
+        {
+          "title": "Camerimage beginnt mit Schweigeminute für die Opfer von Krakau",
+          "lead": "Das Kamerafestival im polnischen Toruń ist im Schatten des tödlichsten Schusswaffenangriffs in Polen seit Jahrzehnten gestartet. Eröffnet wurde es mit Luca Guadagninos OpenAI-Film Artificial.",
+          "body": [
+            "Die 34. Ausgabe des Camerimage-Festivals in Toruń begann am Samstagabend mit einer Schweigeminute. Wenige Stunden zuvor war ein Mann, der Berichten zufolge Verbindungen zu rechtsextremen Ideologien hat, auf den historischen Marktplatz von Krakau gefahren und hatte das Feuer eröffnet. Mindestens sechs Menschen starben, mehr als ein Dutzend wurden verletzt. Ministerpräsident Donald Tusk sagte, im Haus des Verdächtigen seien später drei weitere Leichen gefunden worden. Es ist der tödlichste Schusswaffenangriff in Polen seit Jahrzehnten.",
+            "Das Festival für Kameraleute stellte KI ins Zentrum. Festivaldirektor Marek Zydowicz holte einen humanoiden Roboter auf die Bühne und kündigte an, die „Hoffnungen und Gefahren“ der KI würden die sieben Festivaltage prägen. Eingespielt wurden Statements von Francis Ford Coppola, Gal Gadot, Christopher Nolan, Maggie Gyllenhaal, Steven Spielberg und Ben Affleck zum Thema.",
+            "Darren Aronofsky, der mit seinem Studio Primordial Soup offen für generative KI im Film wirbt, erhielt den Ehrenpreis für Regie. Er komme zurück, weil es selten Festivals gebe, die die Zusammenarbeit aller feierten. Geehrt wurden außerdem die polnische Schauspielerin Karolina Gruszka und Spielbergs langjähriger Kameramann Janusz Kamiński. Zudem erinnerte das Festival an Andrzej Wajda, der in diesem Jahr 100 Jahre alt geworden wäre.",
+            "Eröffnungsfilm war Luca Guadagninos Artificial über die Anfänge von OpenAI, mit Andrew Garfield als Sam Altman und Yura Borisov als Ilya Sutskever. Guadagnino sagte, ihn interessierten schon länger die Persönlichkeiten der sogenannten Tech-Oligarchen. Neon bringt den Film am 25. Dezember in die US-Kinos, in Großbritannien startet er am 22. Januar 2027."
+          ],
+          "highlight": "Es ist der tödlichste Schusswaffenangriff in Polen seit Jahrzehnten.",
+          "assessment": [
+            "Ein Festival kann nach so einem Tag nicht einfach feiern, und Camerimage hat das richtig gemacht: innehalten, benennen, dann weitermachen. Dass es ausgerechnet in Polen, einem Land mit strengen Waffengesetzen, zu so einer Tat kommt, wird das Land noch lange beschäftigen.",
+            "Filmisch ist Camerimage interessant, weil es sich als Festival der Handwerker versteht. Dass ausgerechnet hier KI zum Leitthema wird und Aronofsky geehrt wird, zeigt, wie tief die Frage inzwischen in die Gewerke reicht. Kameraleute sind die Ersten, deren Arbeit sich durch generierte Bilder grundsätzlich verändert."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/camerimage-darren-aronofsky-luca-guadagnino-artificial-1237216360/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Darren-Aronofsky.jpg?w=1024",
+            "alt": "Darren Aronofsky beim Camerimage-Festival 2026",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/camerimage-darren-aronofsky-luca-guadagnino-artificial-1237216360/"
+          }
+        },
+        {
+          "title": "Christopher Nolan nimmt die Studios beim KI-Training in die Pflicht",
+          "lead": "Als Präsident der Regiegewerkschaft DGA fordert Nolan, dass die Studios ihre Urheberrechte gegen KI-Firmen verteidigen. Im Abspann von The Odyssey steht erstmals ein Verbot, den Film für KI-Training zu nutzen.",
+          "body": [
+            "Christopher Nolan, seit vergangenem September Präsident der Directors Guild of America, hat im Podcast Hollywood Insiders klargemacht, wen er beim Schutz vor KI in der Verantwortung sieht: die Studios. „KI ist ein zu großer Sammelbegriff. Er beschreibt zu viele Dinge, und Unternehmen benutzen ihn, um sich aus der Verantwortung zu stehlen“, sagte er. Sie wollten KI als Frankensteins Monster darstellen, das außer Kontrolle geraten könne, ohne dass sie dafür haften. „Dagegen müssen wir uns entschieden wehren.“",
+            "Es gebe bereits Gesetze, die Kreative schützten. Dass sich KI-Firmen hinter Fair-Use-Regeln versteckten, werde vor Gericht langfristig nicht halten, es habe schon bedeutende Urteile dagegen gegeben. Die Gewerkschaft könne selbst wenig tun, weil Regisseure fast nie Inhaber der Urheberrechte an ihren Filmen seien. „Es liegt an den Studios.“",
+            "Er sei „sehr erfreut“ gewesen, dass der Rechtehinweis am Ende von The Odyssey erstmals eine Klausel enthalte, nach der der Film nicht als Trainingsdatensatz verwendet werden dürfe. Weil die Einnahmen der Regisseure aus Wiederverwertung von der richtigen Vermarktung dieser Rechte abhingen, stehe die DGA ständig im Gespräch mit den Konzernen darüber, ob sie den Wert der Werke ausschöpften."
+          ],
+          "highlight": "Er sei „sehr erfreut“ gewesen, dass der Rechtehinweis am Ende von The Odyssey erstmals eine Klausel enthalte, nach der der Film nicht als Trainingsdatensatz verwendet werden dürfe.",
+          "assessment": [
+            "Nolan trifft einen wunden Punkt: Die Gewerkschaften können über Arbeitsbedingungen verhandeln, aber nicht über Urheberrechte, die ihnen nicht gehören. Damit liegt der Ball bei Studios, die selbst mit KI-Firmen Lizenzgeschäfte machen und deshalb nicht immer nur Gegner sind.",
+            "Die Klausel im Abspann ist juristisch vor allem ein Signal, aber kein schwaches. Wenn sie Standard wird, können sich KI-Firmen künftig schwerer darauf berufen, niemand habe widersprochen. Dass ausgerechnet Nolan, der Analogfilm-Purist, diese Linie zieht, passt ins Bild."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/P1162THW-e1794093819243.jpg?w=1024",
+            "alt": "Christopher Nolan bei den DGA Awards",
+            "credit": "Michael Buckner / PMC",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/"
+          }
+        },
+        {
+          "title": "Heated Rivalry dreht zwei Staffeln am Stück und einen Kinofilm",
+          "lead": "Die Eishockey-Romanze wird laut Deadline gleich um zwei Staffeln mit je sechs Folgen verlängert. Dazu kommt ein Weihnachtsfilm fürs Kino, allerdings ohne das Hauptpaar.",
+          "body": [
+            "Fans von Heated Rivalry bekommen mehr, als sie erwartet haben. Nach Informationen von Deadline werden derzeit zwei Staffeln mit je sechs Folgen direkt hintereinander gedreht. Die Dreharbeiten sollen Ende November oder Anfang Dezember abgeschlossen sein. Im Dezember soll dann ein eigenständiger Film entstehen, beschrieben als Weihnachtsspecial, der im kommenden Dezember in die Kinos kommen soll.",
+            "Die Stars Connor Storrie und Hudson Williams sind in dem Film den Quellen zufolge nicht dabei. Im Mittelpunkt soll das zweite Paar der ersten Staffel stehen, Scott und Kip, gespielt von François Arnaud und Robbie G.K. Passend dazu hat Rachel Reid, Autorin der Buchreihe Game Changers, eine Kurzgeschichte mit dem Titel „Merry Christmas, Scott and Kip!“ geschrieben. Der kanadische Streamingdienst Crave erklärte, es gebe keine Projekte zu bestätigen.",
+            "Die zweite Staffel ist für Frühjahr 2027 bestätigt, wahrscheinlich im April. Die Serie hatte am 28. November vergangenen Jahres Premiere und Storrie und Williams über Nacht berühmt gemacht. In den USA läuft sie bei HBO Max. Wie gut sie im Kino funktioniert, zeigt sich gerade: Die erste Staffel läuft als Doppelfolgen in 880 Kinos und kam am Freitag auf 420.000 Dollar, das Wochenende dürfte bei rund 1,3 Millionen liegen."
+          ],
+          "highlight": "Die Stars Connor Storrie und Hudson Williams sind in dem Film den Quellen zufolge nicht dabei.",
+          "assessment": [
+            "Zwei Staffeln am Stück zu drehen, ist bei einem Überraschungshit klug: Die Darsteller sind gerade begehrt, und jedes Jahr Wartezeit erhöht das Risiko, dass sie anderswo gebunden sind. Crave sichert sich so Zeit.",
+            "Der Kinofilm ohne das Hauptpaar ist ein mutiger Test. Er wird zeigen, ob das Publikum die Welt der Serie liebt oder nur die beiden Stars. Die Kinozahlen für die alten Folgen sprechen dafür, dass die Fans weit mitgehen."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/heated-rivalry-season-2-season-3-movie-scott-kip-1237216072/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Heated-Rivalry.jpg?w=1024",
+            "alt": "Hudson Williams, François Arnaud, Robbie G.K. und Connor Storrie in Heated Rivalry",
+            "credit": "HBO Max",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/heated-rivalry-season-2-season-3-movie-scott-kip-1237216072/"
+          }
+        },
+        {
+          "title": "Hunger Games: Sunrise on the Reaping verkauft im Vorverkauf besser als Wicked",
+          "lead": "Der neue Tribute-von-Panem-Film hat laut Deadline die besten Vorverkäufe, die Lionsgate seit der Pandemie gesehen hat. Die Untergrenze für den Start liegt nun bei 80 Millionen Dollar.",
+          "body": [
+            "Die Vorverkäufe für The Hunger Games: Sunrise on the Reaping liegen deutlich vor denen von Universals Wicked und auch vor Michael, der in Nordamerika mit 97,2 Millionen Dollar gestartet war. Es sind die besten Vorverkäufe, die Lionsgate seit Corona für einen Titel gesehen hat. Deadline hebt die Untergrenze für das Startwochenende deshalb auf mehr als 80 Millionen Dollar an, nach 60 bis 70 Millionen in der Vorwoche.",
+            "Auf der Prognoseplattform Polymarket wird eine 75-prozentige Wahrscheinlichkeit für einen Start über 100 Millionen Dollar gehandelt, und auch einige Verleiher halten das für möglich. Deadline mahnt zur Vorsicht: Filme mit überwiegend weiblichem Publikum seien oft stark auf den Start konzentriert. Bei Wicked gab es dieselbe Sorge, am Ende standen 112,5 Millionen Dollar.",
+            "Der Vorgänger The Ballad of Songbirds and Snakes ist als Vergleich kaum brauchbar. Er litt unter dem Schauspielerstreik, basierte auf einem weniger beliebten Roman und startete 2023 mit 44,6 Millionen Dollar so schwach wie kein anderer Teil der Reihe. Der neue Film nach Suzanne Collins' Roman von 2025 inszeniert Francis Lawrence, im Ensemble sind Jesse Plemons, Elle Fanning, Mckenna Grace, Joseph Zada und Ralph Fiennes. Über das Thanksgiving-Wochenende trifft er auf Disneys Hexed und die Ariana-Grande-Komödie Focker-in-Law, denen jeweils 40 bis 50 Millionen zugetraut werden."
+          ],
+          "highlight": "Es sind die besten Vorverkäufe, die Lionsgate seit Corona für einen Titel gesehen hat.",
+          "assessment": [
+            "Die Reihe ist zurück. Nach dem lauwarmen Songbirds and Snakes war nicht ausgemacht, dass Panem noch ein Massenpublikum zieht. Der Roman hat das offenbar geändert, und die Besetzung mit Elle Fanning als junger Effie Trinket hilft sichtlich.",
+            "Für Lionsgate ist das wichtig, weil das Studio kaum andere Marken dieser Größe hat. Ob es die 100 Millionen werden, hängt am Freitag, aber selbst die vorsichtige Prognose wäre fast eine Verdoppelung gegenüber dem Vorgänger."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-presales-1237215871/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/solstice-unit-251009-00442rc5-crop4rc2-e1793996447611.jpg?w=1024",
+            "alt": "Elle Fanning als Effie Trinket in The Hunger Games: Sunrise on the Reaping",
+            "credit": "Murray Close / Lionsgate",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-presales-1237215871/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Rote Farbe als Gift: Die Maya verseuchten ihre Seen mit Quecksilber",
+          "lead": "Sedimentbohrkerne aus Yucatán zeigen extreme Quecksilberwerte aus der Maya-Zeit. Die Ursache war vermutlich Zinnober, das Pigment für das leuchtende Rot, das die Maya überall verwendeten.",
+          "body": [
+            "Die Maya liebten Rot. Für sie stand die Farbe für Sonne, Blut und Leben, und sie bemalten damit Skulpturen, Monumente, Wände, Plätze, Keramik und sogar ihre Toten. Ein häufiges Pigment war Zinnober, ein Quecksilbersulfid. Gelangt es mit Regenwasser in Seen, wandeln Bakterien es in hochgiftiges Methylquecksilber um, das sich in der Nahrungskette anreichert.",
+            "Ein Team um den Paläolimnologen Matthew Waters von der Auburn University hat nun Sedimentkerne aus zwei Gewässern auf der Halbinsel Yucatán untersucht: dem Cobá-See neben der gleichnamigen Maya-Stadt und dem Cenote Xcach, einer gefluteten Doline bei einer kaum ausgegrabenen Ruinenstadt. Die Kerne reichen mehr als 2000 Jahre zurück. Die Studie erschien am 4. November in Science Advances.",
+            "Die am stärksten belasteten Schichten enthielten 2,3 Teile Quecksilber pro Million. Zum Vergleich: In den USA dürfen Fische ab einem Teil pro Million beschlagnahmt werden. Die Belastungsphasen fallen in die Präklassik und Klassik zwischen etwa 40 und 820 nach Christus. „Sie haben das jahrzehntelang erlebt, in einem Fall jahrhundertelang“, sagt Waters. In den belasteten Schichten fehlen Fossilien von Süßwassermuscheln fast völlig, und es gibt kaum Spuren von Algenblüten. Das Wasser war offenbar so vergiftet, dass kaum etwas darin lebte. „Wir hatten nicht vermutet, dass sie es in solchen Mengen verwendeten“, so Waters.",
+            "Zinnober kommt in Yucatán nicht natürlich vor und wurde vermutlich aus dem heutigen Honduras eingeführt. Am Cobá-See endeten die Importe offenbar, um 520 nach Christus sank die Belastung auf etwa 20 Teile pro Milliarde. Am Cenote Xcach hielt die Verseuchung dagegen bis zum Zusammenbruch der klassischen Maya-Kultur an. Als Hauptursache des Zusammenbruchs gilt weiter die Dürre, das Quecksilber könnte nach Ansicht der Forscher aber beigetragen haben."
+          ],
+          "highlight": "Die am stärksten belasteten Schichten enthielten 2,3 Teile Quecksilber pro Million.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, dass Umweltverschmutzung keine Erfindung der Industrialisierung ist. Eine Gesellschaft hat ihre eigene Lebensgrundlage beschädigt, weil eine kulturelle Vorliebe wichtiger war als das, was man im Wasser sah, ohne die Ursache zu verstehen.",
+            "Vorsicht ist bei der Verbindung zum Zusammenbruch angebracht. Die Forscher selbst sagen, dass die Belastung vielerorts schon Jahrhunderte vorher zurückging. Quecksilber war also eher ein zusätzlicher Stressfaktor als der Auslöser. Gerade das macht die Studie glaubwürdig: Sie verkauft keinen einfachen Grund für ein komplexes Ende."
+          ],
+          "sources": [
+            { "name": "Live Science", "url": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/PvSQnQiFuVjiUjoZMvRDNX-2000-80.jpg",
+            "alt": "Nahaufnahme einer rötlichen, fein gearbeiteten Maya-Schnitzerei",
+            "credit": "Live Science",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/americas/the-maya-used-so-much-red-paint-that-they-poisoned-their-water-with-mercury-mud-sediments-reveal"
+          }
+        },
+        {
+          "title": "Athenische Vase für persische Käufer: Ein Gefäß aus Nubien zeigt Griechen als Verlierer",
+          "lead": "Ein Trinkgefäß des Töpfers Sotades zeigt einen persischen Reiter, der einen Griechen niederstreckt. Eine neue Studie erklärt die seltene Szene mit Handelswegen nach Ägypten.",
+          "body": [
+            "Der Archäologe George Reisner fand das Gefäß im Januar 1921 im Südfriedhof von Meroe im heutigen Sudan. Plünderer hatten es offenbar aus der Grabkammer einer Pyramide geholt und an der Oberfläche liegen lassen, wo Flugsand es bedeckte. Heute gehört es dem Museum of Fine Arts in Boston.",
+            "Das Rhyton, ein Trink- und Schenkgefäß, entstand um 440 vor Christus und trägt den Namen des athenischen Töpfers Sotades. Es ist als Amazone zu Pferd geformt, auf ihrem Rücken sitzt ein bemalter Becher. Die Bilder zeigen einen berittenen Perser, der einen gestürzten Griechen angreift, und einen weiteren Griechen, der vor einem Perser zurückweicht. Szenen, in denen Perser Griechen besiegen, sind auf athenischer Keramik extrem selten. Das einzige andere bekannte Beispiel ist ein bruchstückhaftes Rhyton in Kamelform, ebenfalls von Sotades.",
+            "Henry P. Colburn vom Bryn Mawr College untersucht das Stück in der Fachzeitschrift Greece & Rome. Die Form erinnert an persische Trinkgefäße aus Metall, die Reiterin trägt Hosen und eine langärmelige Tunika, wie Perser in der griechischen Kunst. Colburn schließt daraus, dass das Gefäß für persische Käufer gedacht war, wahrscheinlich in Ägypten, das damals zum Perserreich gehörte. In Memphis, einem wichtigen Verwaltungszentrum, lebten Perser, die griechische Importkeramik kaufen konnten.",
+            "Ein diplomatisches Geschenk hält Colburn für unwahrscheinlich: Das Grab stammt aus dem frühen 4. Jahrhundert vor Christus, lange vor der ersten Königsbestattung in Meroe, und persische Königsgeschenke waren eher Edelmetall als Keramik. Er vermutet, dass Händler Informationen über die Vorlieben ausländischer Kunden zurück in die athenischen Werkstätten trugen, wobei sich die Beschreibungen von Händler zu Händler veränderten. Die Verbindungen nennt er „schwach, aber beständig“."
+          ],
+          "highlight": "Szenen, in denen Perser Griechen besiegen, sind auf athenischer Keramik extrem selten.",
+          "assessment": [
+            "Die Studie zeigt, wie pragmatisch antike Handwerker waren. Wenige Jahrzehnte nach den Perserkriegen stellte ein Athener Töpfer Gefäße her, die Griechen als Verlierer zeigen, weil sich das an Perser verkaufen ließ. Kundschaft schlägt Patriotismus.",
+            "Besonders schön ist das Bild der stillen Post: Händler bringen vage Vorstellungen davon zurück, was Perser mögen, und heraus kommt eine Amazone in persischer Kleidung. Das ist ein Blick auf die Mechanik antiker Märkte, den man selten so konkret bekommt."
+          ],
+          "sources": [
+            { "name": "Greek Reporter", "url": "https://greekreporter.com/2026/11/07/vase-discovered-nubian-tomb-shows-persian-warrior-spearing-fallen-greek/" }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2026/11/an-ancient-greek-drinking-vessel-depicting-an-amazon-on-horseback-credit-henry-p-colburn-cc-by-nc-nd-40-1.jpg",
+            "alt": "Griechisches Trinkgefäß in Form einer Amazone zu Pferd",
+            "credit": "Henry P. Colburn / CC BY-NC-ND 4.0",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/07/vase-discovered-nubian-tomb-shows-persian-warrior-spearing-fallen-greek/"
+          }
+        },
+        {
+          "title": "Adada: Römische Sitzstufen dienten vielleicht dem Unterricht früher Christen",
+          "lead": "In einer Kirche im Südwesten der Türkei könnten Taufbewerber auf älteren römischen Steinstufen unterrichtet worden sein. Rätsel gibt eine eingeritzte Schiffszeichnung mit Lebensbaum auf.",
+          "body": [
+            "Die Südtal-Kirche in der antiken Stadt Adada in der heutigen Provinz Isparta wurde wohl im 5. oder 6. Jahrhundert nach Christus über einem älteren römischen Bau errichtet. Sie hat drei Schiffe, einen großen Hof und steinerne Sitzstufen an der Süd- und Westseite. Die südlichen Stufen sind gut 15,5 Meter lang, einige westliche Steine tragen Verzierungen in Form von Löwenpranken. Ihre Anordnung spricht dafür, dass die Sitzreihen älter sind als die Kirche.",
+            "Ahmet Mörel und Nurittin Çelik von der Süleyman-Demirel-Universität vermuten in der Fachzeitschrift Arkeoloji Dergisi, dass auf diesen Stufen Katechumenen unterrichtet wurden, also Menschen, die sich auf die Taufe vorbereiteten. Der Grundriss stützt die Idee: Gänge an der Südseite führen zu Räumen nahe einem möglichen Taufbereich hinter der Apsis. So hätten Taufbewerber sich bewegen können, ohne den Hauptraum zu betreten. Inschriften, die das bestätigen, gibt es allerdings nicht, die Stufen könnten auch Gläubigen bei Versammlungen als Sitzplatz gedient haben.",
+            "Auf einem der oberen Steine fanden die Forscher eine Ritzzeichnung: ein etwa 15 Zentimeter langes Schiff, darauf eine menschliche Figur, und dort, wo das Segel sein müsste, ein Symbol, das sie als Lebensbaum deuten. Eine Lesart verbindet das Bild mit einem Reisenden, der in der Gegend dem Christentum begegnete, Belege dafür gibt es nicht.",
+            "Adada lag an Routen zwischen der Mittelmeerküste und dem Inneren Anatoliens. Im nahen Pisidischen Antiochia predigte der Apostel Paulus auf seinen Missionsreisen. In und um Adada sind 13 Kirchen bekannt."
+          ],
+          "highlight": "So hätten Taufbewerber sich bewegen können, ohne den Hauptraum zu betreten.",
+          "assessment": [
+            "Die These ist vorsichtig formuliert und das ist gut so. Ohne Inschrift bleibt es eine Deutung aus dem Grundriss. Plausibel ist sie trotzdem, weil sie zu dem passt, was man aus Texten über die Trennung von Getauften und Taufbewerbern in der frühen Kirche weiß.",
+            "Spannender als die Funktion ist das Prinzip: Frühe Christen bauten nicht auf der grünen Wiese, sie nahmen römische Strukturen und gaben ihnen einen neuen Sinn. Adada mit seinen 13 Kirchen ist ein gutes Labor, um diesen Übergang Stein für Stein nachzuvollziehen."
+          ],
+          "sources": [
+            { "name": "Greek Reporter", "url": "https://greekreporter.com/2026/11/07/ancient-roman-church-turkey-early-christians/" }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2026/11/general-view-of-the-south-valley-church-credit-ahmet-morel-et-al-ccbyncnd4.jpg",
+            "alt": "Gesamtansicht der Südtal-Kirche in Adada",
+            "credit": "Ahmet Mörel et al. / CC BY-NC-ND 4.0",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/07/ancient-roman-church-turkey-early-christians/"
+          }
+        },
+        {
+          "title": "Kreta: Archäologen warnen vor Radarbau auf dem minoischen Ringbau von Papoura",
+          "lead": "Für den neuen Flughafen von Heraklion sollen Radaranlagen auf dem Papoura-Hügel entstehen, wo 2024 ein einzigartiger minoischer Rundbau gefunden wurde. Zwei Archäologenverbände schlagen Alarm.",
+          "body": [
+            "Der Rundbau auf dem Gipfel des Papoura-Hügels bei Kastelli wurde 2024 entdeckt, als Arbeiter das Gelände für die Radaranlagen des neuen Flughafens vorbereiteten. Das griechische Kulturministerium nannte ihn einen einzigartigen Fund für die minoische Archäologie. Die Anlage misst etwa 48 Meter im Durchmesser und bedeckt rund 1800 Quadratmeter. Acht konzentrische Steinringe bilden einen labyrinthartigen Grundriss. Genutzt wurde sie vor allem in der mittleren Bronzezeit, mit Aktivität bis in spätere minoische Phasen.",
+            "Welchem Zweck der Bau diente, ist offen. Spätere Grabungsergebnisse deuten darauf hin, dass sich hier regelmäßig Menschen zu gemeinsamen Zeremonien oder Festmählern versammelten, was die Debatte über das minoische Labyrinth neu belebt. Der Fund zählt zu den wichtigsten archäologischen Entdeckungen Griechenlands der letzten Jahre und erhielt 2025 einen bedeutenden internationalen Archäologiepreis.",
+            "Am 25. September wies der Staatsrat, Griechenlands oberstes Verwaltungsgericht, eine Klage der Gemeinde Minoa Pediada gegen die Radaranlagen ab. Nun haben der kretische Zweig des Verbands griechischer Archäologen und der Verband der Vertragsarchäologen gemeinsam gewarnt. Grabung und Konservierung seien nicht abgeschlossen, trotzdem würden Sprengungen, Felsabtrag und schwere Maschinen vorbereitet, bevor Studien zu Standort, Konservierung, Stabilisierung und Statik genehmigt seien. Die freigelegten Reste hätten zudem weder ein dauerhaftes noch ein provisorisches Schutzdach.",
+            "Maria Mari, Vorsitzende des kretischen Archäologenverbands, kündigte an, man werde weiter rechtliche und institutionelle Wege nutzen, auch auf europäischer Ebene. Das Problem gehe über das Monument hinaus, weil sich auch die umgebende Landschaft verändere. Die Verbände fordern, das Radar an einen anderen Ort zu verlegen."
+          ],
+          "highlight": "Acht konzentrische Steinringe bilden einen labyrinthartigen Grundriss.",
+          "assessment": [
+            "Ein klassischer Konflikt zwischen Infrastruktur und Erbe, und hier wiegt das Erbe schwer. Papoura ist kein weiterer Grabhügel, sondern ein Bautyp, den man so aus der minoischen Welt nicht kannte. Wer ihn mit Sprengarbeiten in der Nachbarschaft gefährdet, bevor er überhaupt fertig untersucht ist, handelt kurzsichtig.",
+            "Dass ein Radar um ein paar hundert Meter verschoben werden kann, ein bronzezeitlicher Ringbau aber nicht, liegt auf der Hand. Das Gerichtsurteil hat die Frage rechtlich entschieden, politisch ist sie offen."
+          ],
+          "sources": [
+            { "name": "Greek Reporter", "url": "https://greekreporter.com/2026/11/07/archaeologists-warn-airport-radar-papoura-hill-minoan-monument/" }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2024/06/minoan-structure-kastelli-crete-credit-ministry-culture.jpeg",
+            "alt": "Der minoische Ringbau auf dem Papoura-Hügel bei Kastelli auf Kreta",
+            "credit": "Griechisches Kulturministerium",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/07/archaeologists-warn-airport-radar-papoura-hill-minoan-monument/"
+          }
+        }
+      ]
+    }
+  ]
+}

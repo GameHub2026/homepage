@@ -1,5 +1,37 @@
 [
   {
+    "nr": 32,
+    "date": "2026-11-08",
+    "updated": "2026-11-08T07:48:25+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Geheimdienstmemo nennt eine Managerin aus Singapur als mutmaßliche Spionin bei Jensen Huang",
+      "METR-Bericht: Anthropic entwickelt seine Modelle doppelt so schnell wie vor einem Jahr, und zwar vor allem dank KI",
+      "Rechenzentren in Europa: Verbrauch geheim, Baustelle besetzt",
+      "Crusoe gibt sein Problemprojekt in Wyoming an Google ab",
+      "SoundCloud lässt KI-Musik direkt aus ElevenLabs veröffentlichen",
+      "Star Wars Zero Company: Bit Reactor entlässt Personal, einen Monat nach der Rückholung aus der Zwangspause",
+      "Sony verschiebt die Pulse-Elevate-Lautsprecher auf unbestimmte Zeit",
+      "Unbestätigt: Assassin's Creed soll ins antike Rom gehen, ein Mobilspiel nach Jerusalem",
+      "Xbox Cloud Gaming: Das Smartphone wird zum Controller für den Fernseher",
+      "Dragon-Age-Autor David Gaider schreibt am Rollenspiel The Expanse: Osiris Reborn mit",
+      "Rekord: Godzilla Minus Zero ist der erfolgreichste Start eines fremdsprachigen Realfilms in Nordamerika",
+      "Camerimage beginnt mit Schweigeminute für die Opfer von Krakau",
+      "Christopher Nolan nimmt die Studios beim KI-Training in die Pflicht",
+      "Heated Rivalry dreht zwei Staffeln am Stück und einen Kinofilm",
+      "Hunger Games: Sunrise on the Reaping verkauft im Vorverkauf besser als Wicked",
+      "Rote Farbe als Gift: Die Maya verseuchten ihre Seen mit Quecksilber",
+      "Athenische Vase für persische Käufer: Ein Gefäß aus Nubien zeigt Griechen als Verlierer",
+      "Adada: Römische Sitzstufen dienten vielleicht dem Unterricht früher Christen",
+      "Kreta: Archäologen warnen vor Radarbau auf dem minoischen Ringbau von Papoura"
+    ]
+  },
+  {
     "nr": 31,
     "date": "2026-11-07",
     "updated": "2026-11-07T07:49:38+01:00",
