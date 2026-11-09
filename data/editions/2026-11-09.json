@@ -1,0 +1,626 @@
+{
+  "nr": 33,
+  "date": "2026-11-09",
+  "intro": "Jensen Huang gesteht eine Affäre mit einer mutmaßlichen chinesischen Agentin, und Nvidias Verwaltungsrat ermittelt. Im Kino schlagen Godzilla und das indische Epos Ramayana Hollywood, Denis Villeneuve erteilt KI-Filmen eine Absage, und World of Warcraft: Forever meldet den größten Start seiner Geschichte. Dazu germanische Krieger aus dem Elsass und Michelangelos selbstgebaute Kammpinsel.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Jensen Huang gesteht die Affäre, der Verwaltungsrat lässt ermitteln",
+          "lead": "Nach den Berichten über eine mutmaßliche chinesische Agentin in seinem Umfeld hat der Nvidia-Chef in einem Brief an die Belegschaft eine Affäre eingeräumt. Der Verwaltungsrat hat eine unabhängige Untersuchung mit externen Anwälten angeordnet.",
+          "body": [
+            "Nvidia hat am Sonntag zwei Mitteilungen veröffentlicht: einen Brief von Jensen Huang an die Beschäftigten und eine Erklärung des Board of Directors, das in etwa einem deutschen Aufsichtsrat entspricht. In dem Brief räumt Huang ein, seiner Frau untreu gewesen zu sein. „Meine Handlungen haben sie und unsere Kinder verletzt. Es gibt keine Entschuldigung für das, was ich getan habe“, schreibt er. Den Namen der Frau nennt er nicht. Huang ist laut heise seit 1985 mit seiner Frau Lori verheiratet, das Paar hat zwei Kinder.",
+            "Hintergrund sind Berichte der New York Times und der Financial Times aus den vergangenen Tagen. Danach soll Huang eine Beziehung mit Alice Huang gehabt haben, einer Managerin des Nvidia-Kunden Megaspeed aus Singapur. Ein Memo, das auf Erkenntnissen von US-Geheimdiensten beruhen soll, behauptet, sie sei vom chinesischen Ministerium für Staatssicherheit angeworben worden, um den Nvidia-Chef auszuspähen. Verwandt sind die beiden trotz des gleichen Nachnamens nicht. Die chinesische Botschaft in Washington hatte die Vorwürfe Ende Oktober als „haltlose Verleumdungen“ zurückgewiesen, angeklagt ist bisher niemand.",
+            "Der Verwaltungsrat schreibt, Huang sei möglicherweise „Ziel einer nachrichtendienstlichen Aktivität eines fremden Staates“ geworden. Unabhängige Direktoren sollen das zusammen mit externen Rechtsberatern prüfen. Man habe keinen Grund zu der Annahme, dass die nationale Sicherheit oder Geschäftsgeheimnisse von Nvidia kompromittiert wurden, und habe Vertrauen in Huang und sein Führungsteam. Huang schreibt, er unterstütze die Untersuchung und werde vollständig kooperieren. Auf die Spionagevorwürfe selbst gehen weder er noch das Board inhaltlich ein.",
+            "Heikel ist die politische Seite. Laut heise sollen US-Dienste Präsident Donald Trump vor dessen China-Reise im Mai 2026 gewarnt haben, Trump habe Huang trotzdem mitgenommen. Ungenannte Regierungsvertreter sagten der New York Times, sie bezweifelten, dass Huang die ganze Zeit nichts von der mutmaßlichen Rolle seiner Bekannten gewusst haben könne. Huang hat sich wiederholt für lockerere Exportregeln für KI-Chips nach China eingesetzt, der Kongress hat ihn bereits vorgeladen.",
+            "Der Yale-Professor Jeffrey Sonnenfeld, der Huang bei seinen Chef-Gipfeln zu Gast hatte, schätzt dessen Chancen, im Amt zu bleiben, gegenüber TechCrunch auf „etwa 50 zu 50“. Er spricht von „bemerkenswert schlechtem Urteilsvermögen“; jeder andere Nvidia-Mitarbeiter würde für so etwas entlassen. Retten könne Huang nur der Vertrauensvorschuss, den er sich seit der Gründung von Nvidia 1993 erarbeitet habe, und auch das nur, wenn er belegen könne, dass er getäuscht wurde."
+          ],
+          "highlight": "In dem Brief räumt Huang ein, seiner Frau untreu gewesen zu sein.",
+          "assessment": [
+            "Das Private ist hier nicht der Punkt. Der Chef des wichtigsten KI-Chipherstellers der Welt, der in Washington für Chipverkäufe nach China wirbt, hatte eine Beziehung mit einer Frau, die US-Dienste für eine Agentin Pekings halten. Das Board rahmt Huang mit dem Wort „Ziel“ bewusst als Opfer. Ob diese Lesart hält, entscheidet sich nicht in Santa Clara, sondern in den Anhörungen des Kongresses.",
+            "Das Geständnis wirkt wie die Flucht nach vorn, bevor weitere Details auftauchen. Nvidia ohne Huang ist für Anleger kaum vorstellbar, und genau deshalb wird das Board alles tun, ihn zu halten. Sonnenfelds 50 zu 50 halte ich für realistisch: Kommt heraus, dass Huang früher gewarnt wurde und nichts tat, wird es eng."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+            },
+            {
+              "name": "TechCrunch (Sonnenfeld)",
+              "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+            },
+            {
+              "name": "The Verge (Wortlaut des Briefs)",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/3/6/6/shutterstock_2470895321-c3689e21cdce2542.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Nvidia-Chef Jensen Huang in seiner typischen Lederjacke",
+            "credit": "jamesonwu1972 / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html"
+          }
+        },
+        {
+          "title": "Elvis und Eminem gegen Suno: Zwei neue Klagen wegen KI-Stimmenklonen",
+          "lead": "Rechteinhaber der Musik von Elvis Presley und der Verlag einiger der größten Eminem-Platten verklagen den KI-Musikdienst Suno. Im Elvis-Fall stützt sich die Klage auf ein Gesetz aus Tennessee, das ausgerechnet nach dem King benannt ist.",
+          "body": [
+            "Suno sieht sich mit zwei weiteren Klagen konfrontiert. Eine Gruppe von Rechteinhabern der Musik von Elvis Presley und der Verlag, bei dem einige der größten Eminem-Aufnahmen liegen, werfen dem KI-Musikunternehmen vor, illegal Musik und Texte zu erzeugen, die diese Künstler nachahmen. Das berichtet The Verge.",
+            "Die Anwälte der Presley-Seite berufen sich auf den Ensuring Likeness Voice and Image Security Act des Bundesstaats Tennessee, kurz ELVIS Act. Das Gesetz verbietet es KI-Firmen, die Stimme eines Sängers zu klonen. In der Klageschrift heißt es, Suno habe „die Identität, harte Arbeit, Kreativität und Zeit von Künstlern mechanisch in sich hineincodiert“ und daraus ein Fließband für „kaltes, hartes Geld“ gemacht. An anderer Stelle werfen die Anwälte Suno vor, menschliche Kreativität überflüssig machen zu wollen, indem es ohne Lizenz in Sekunden nachbilde, was Jahre an Übung und Mühe koste.",
+            "Die neuen Verfahren ähneln stark einer Klage, die der Musiker Jason Isbell und andere im September eingereicht hatten. Auch dort ging es um Imitationen der Kläger, nicht direkt um Urheberrechtsverletzungen. Dieser Ansatz umgeht die Frage, ob das Training mit geschützten Aufnahmen erlaubt war, und zielt auf das Ergebnis: Stimmen und Stil, die erkennbar einer realen Person zugeordnet werden.",
+            "Suno-Sprecherin Cat McCormack erklärte, Suno solle Menschen helfen, neue und eigene Musik zu schaffen, und nicht vom Namen oder Abbild anderer profitieren. Prompts mit Namen bestimmter Künstler oder Songs seien nicht erlaubt, hochgeladene Audiodateien und Texte würden von externen Dienstleistern auf Missbrauch geprüft. Man arbeite laufend an weiteren Schutzmechanismen.",
+            "Die Liste der Verfahren gegen Suno ist damit weiter gewachsen. Klagen von Sony, Universal Music, Reservoir Media, Isbell und anderen sind bereits anhängig."
+          ],
+          "highlight": "Das Gesetz verbietet es KI-Firmen, die Stimme eines Sängers zu klonen.",
+          "assessment": [
+            "Die Klage nach dem ELVIS Act ist juristisch der interessantere Weg. Urheberrechtsprozesse um KI-Training ziehen sich über Jahre und hängen an der Fair-Use-Frage. Ein Persönlichkeitsrecht an der eigenen Stimme ist dagegen klarer: Klingt es wie Elvis, ist der Schaden greifbar, egal wie das Modell trainiert wurde.",
+            "Sunos Verteidigung, man sperre Künstlernamen im Prompt, ist schwach. Jeder, der die Plattform kennt, weiß, dass man einen Stil auch umschreiben kann. Gewinnen die Elvis-Erben, hätte Tennessee das erste Gesetz, das KI-Stimmenklone tatsächlich teuer macht, und andere Bundesstaaten würden nachziehen."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200",
+            "alt": "Elvis Presley bei einem Auftritt, Archivfoto",
+            "credit": "The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+          }
+        },
+        {
+          "title": "Apple drückt aufs Tempo: Siri soll zum echten KI-Agenten werden",
+          "lead": "Laut Bloomberg-Reporter Mark Gurman drängt Apple-Chef John Ternus darauf, Siri schneller zu einem Agenten auszubauen, der Aufgaben selbstständig erledigt. Code in einer Beta deutet zudem an, dass Chatbots auf Apples Heimzentrale HomeView kommen könnten.",
+          "body": [
+            "Apple will Siri deutlich mächtiger machen und steht dabei unter Druck. Nach einem Bericht von Mark Gurman (Bloomberg), den The Verge aufgreift, drängt CEO John Ternus den KI-Verantwortlichen Craig Federighi, den Fahrplan zu beschleunigen und einen leistungsfähigen KI-Agenten zu liefern, der mit OpenAIs Dots oder Metas Muse mithalten kann. Federighi habe zwar in sehr kurzer Zeit eine funktionierende Version von Siri AI geliefert, doch im Konzern mache man sich keine Illusionen, mit der Konkurrenz Schritt zu halten.",
+            "Zwei größere Neuerungen werden in den kommenden Monaten erwartet. Mit iOS 27.3 soll Siri Apples eigene Apps fein steuern können, etwa Bilder in Fotos drehen und zuschneiden oder Tabs in Safari ordnen. Die größere Änderung, die Anbindung von Apps anderer Anbieter, soll laut Gurman im Frühjahr folgen. Dann könnte Siri zum Beispiel über Grubhub Essen bestellen oder über OpenTable einen Tisch reservieren.",
+            "Das ist erst der Anfang. Apple will Siri so weiterentwickeln, dass sie fortlaufende Aufgaben übernimmt statt nur einzelner Befehle. Dots, Muse und Grok könnten Ziele im Blick behalten, selbst bestimmen, was als Nächstes zu tun ist, und daran weiterarbeiten, ohne dass der Nutzer jeden Schritt anstößt, schreibt Gurman. Er hält es für möglich, dass Siri schon im nächsten Jahr agentischer wird, zumal Apple angesichts der Nachfrage kaum eine Wahl habe.",
+            "Passend dazu hat ein Entwickler im Code der iOS-27.3-Beta einen Schalter für eine Kategorie „Conversational Apps“ gefunden, die sich auf HomeView bezieht, Apples Steuerzentrale fürs Zuhause. Welche Apps darunter fallen sollen, ist offen, naheliegend wären Chatbots wie ChatGPT oder Claude. Die Beta bringt außerdem Grundlagen für Audio in beide Richtungen und eine Sitzungsverwaltung mit, die aber noch nicht vollständig verdrahtet seien. Dazu kommt ein Schutz gegen Täuschungsversuche: Nach drei Fehlversuchen muss man sich per iPhone authentifizieren, wiederholte Sperren dauern von einer bis zu acht Stunden. Offiziell angekündigt hat Apple nichts davon."
+          ],
+          "highlight": "Die größere Änderung, die Anbindung von Apps anderer Anbieter, soll laut Gurman im Frühjahr folgen.",
+          "assessment": [
+            "Apple ist bei KI-Assistenten in einer ungewohnten Rolle: nicht Vorreiter, sondern Nachzügler, der aufholen muss. Der eigentliche Trumpf liegt aber auf der Hand. Kein Chatbot-Anbieter hat so tiefen Zugriff auf Apps, Kalender und Fotos auf Hunderten Millionen iPhones. Wenn Siri im Frühjahr wirklich fremde Apps bedienen kann, ist das wichtiger als jede Benchmark.",
+            "Dass gleichzeitig Chatbots anderer Firmen auf HomeView kommen könnten, zeigt eine pragmatische Haltung: Apple baut die Bühne und lässt notfalls andere darauf auftreten. Das ist klüger als der Versuch, alles selbst zu können."
+          ],
+          "sources": [
+            {
+              "name": "The Verge (Siri)",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+            },
+            {
+              "name": "The Verge (HomeView)",
+              "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
+            "alt": "Siri wird auf einem iPhone aufgerufen, der Bildschirmrand leuchtet",
+            "credit": "David Imel / The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+          }
+        },
+        {
+          "title": "TSMC soll an 3D-DRAM arbeiten und damit ins Speichergeschäft drängen",
+          "lead": "Der weltgrößte Auftragsfertiger für Chips plant einem Bericht zufolge eigene Speicherbausteine mit gestapelten Zellen. Das könnte einen Markt aufmischen, den sich bisher fast nur Samsung, SK Hynix und Micron teilen.",
+          "body": [
+            "TSMC entwickelt laut einem Bericht von The Information 3D-DRAM. Die Zeitung beruft sich auf zwei Personen, die mit den Plänen vertraut sein sollen. Angaben zu Zeitplänen, möglichen Partnern oder neuen Fabriken gibt es nicht. Bislang arbeitet das taiwanische Unternehmen vor allem als Foundry: Es fertigt Chips nach den Entwürfen von Kunden wie AMD, Apple, Nvidia und Intel, die diese dann unter eigenem Namen verkaufen.",
+            "Ein Einstieg ins DRAM-Geschäft wäre eine erhebliche Veränderung. Den Markt teilen sich laut heise Samsung, SK Hynix und Micron mit zusammen rund 87 Prozent Anteil. Nur der chinesische Hersteller CXMT konnte sich in den vergangenen Jahren mit inzwischen etwa zehn Prozent dazwischenschieben. Da 3D-DRAM die Kapazität pro Chip massiv steigern soll, hätte der erste Anbieter mit marktreifen Produkten gute Aussichten. Angesichts der Speicherkrise, die nach heise noch mindestens zwei Jahre anhalten dürfte, könnte eine neue Bauform Abhilfe schaffen, sofern sie bestehende Standards wie DDR5 oder LPDDR einhält.",
+            "Bei 3D-DRAM wird der Chip in die Höhe gebaut, wie es bei NAND-Flash seit Jahren üblich ist. Statt mehrerer dünner Einzelchips wie bei HBM werden mehrere Lagen aus Speicherkondensatoren und Transistoren auf einem einzigen Die übereinander angeordnet. Hintergrund: Die Zellen lassen sich kaum noch weiter verkleinern, ohne dass sie ihre Ladung nicht mehr lange genug halten. Bisher besteht DRAM aus einem flachen Die, dessen Fläche die Kapazität bestimmt.",
+            "Der Haken: Auch die etablierten Speicherhersteller forschen seit Jahren an 3D-DRAM, ebenso Neulinge wie das kalifornische Start-up Neo Semiconductor, das schon 2023 sein Konzept „3D X-DRAM“ vorstellte. Marktreife Produkte hat bisher niemand."
+          ],
+          "highlight": "Da 3D-DRAM die Kapazität pro Chip massiv steigern soll, hätte der erste Anbieter mit marktreifen Produkten gute Aussichten.",
+          "assessment": [
+            "Der Bericht ist dünn belegt, aber plausibel. Der KI-Boom hat Speicher zum Engpass gemacht, und wer die Fertigung beherrscht wie TSMC, schaut zwangsläufig auf einen Markt mit Mondpreisen und drei Platzhirschen.",
+            "Für Verbraucher wäre ein vierter großer Anbieter die beste Nachricht seit Langem. Realistisch ist das allerdings ein Projekt für Jahre, nicht für das nächste Weihnachtsgeschäft. Die RAM-Preise rettet TSMC vorerst nicht."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/TSMC-koennte-mit-3D-DRAM-ins-Speichergeschaeft-einsteigen-11516713.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/3/4/4/3D-X-DRAM-16-9-2ea49e0182acf3d4-e6cb81576230f794.webp?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Schemazeichnung eines 3D-DRAM-Chips mit mehreren gestapelten Speicherlagen",
+            "credit": "Neo Semiconductor",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/TSMC-koennte-mit-3D-DRAM-ins-Speichergeschaeft-einsteigen-11516713.html"
+          }
+        },
+        {
+          "title": "Nach den Midterms: Rechenzentren werden zum Wahlthema, Musk steht mit leeren Händen da",
+          "lead": "Bei den US-Zwischenwahlen haben Wähler in Dutzenden lokalen Abstimmungen Beschränkungen für Rechenzentren beschlossen. In Texas gewann eine Gouverneurin, die genau das versprochen hat. Für die KI-Branche wird der Ausbau damit schwieriger.",
+          "body": [
+            "Der historische Sieg der Demokraten bei den Midterms könnte die Tech-Branche stärker treffen als gedacht. Darüber diskutierten die TechCrunch-Redakteure Kirsten Korosec, Sean O'Kane und Anthony Ha im Podcast Equity. In Dutzenden lokalen Abstimmungen ging es um Rechenzentren. Viele dieser Vorlagen sahen Beschränkungen oder Moratorien vor, und fast alle wurden angenommen.",
+            "Auch wo Rechenzentren nicht direkt zur Wahl standen, wählten die Menschen Politiker, die versprochen hatten, sie zu begrenzen. Das prominenteste Beispiel ist Texas: Die künftige Gouverneurin Gina Hinojosa hat Amtsinhaber Greg Abbott geschlagen und offen angekündigt, sich nach Amtsantritt um das Thema zu kümmern. Texas ist einer der wichtigsten Standorte für den KI-Ausbau.",
+            "Elon Musk habe als größter Spender der Republikaner rund eine halbe Milliarde Dollar in die Wahl gesteckt und dafür praktisch nichts bekommen, sagte O'Kane. Stattdessen sitzen seine Unternehmen nun in einem Bundesstaat, der so blau gewählt hat wie wohl nie zuvor. Musk gehört mit xAI zugleich zu den größten Bauherren von Rechenzentren.",
+            "Korosec meinte, Rechenzentren seien wohl nicht der Hauptgrund für die „blaue Welle“ gewesen. Sie seien aber zunehmend ein Thema an der Basis geworden, auch wegen der Art, wie Hyperscaler ihre Projekte durchgesetzt hätten. Die ersten Firmen reagierten bereits: Unternehmen wie OpenAI signalisierten plötzlich, man könne die eigenen Richtlinien ja ändern. Das Thema gilt als parteiübergreifend, die Demokraten hätten den Unmut aber besser genutzt."
+          ],
+          "highlight": "Viele dieser Vorlagen sahen Beschränkungen oder Moratorien vor, und fast alle wurden angenommen.",
+          "assessment": [
+            "Hier zeigt sich, was die KI-Branche lange unterschätzt hat: Rechenzentren sind kein abstraktes Infrastrukturthema, sondern Lärm, Strompreise und Wasserverbrauch vor der eigenen Haustür. Wer Standorte mit Steuerdeals und Geheimhaltung durchdrückt, bekommt irgendwann die Quittung an der Wahlurne.",
+            "Für die großen KI-Pläne heißt das: Der Engpass ist nicht mehr nur Strom und Chips, sondern Zustimmung. Dass ausgerechnet Texas kippt, ist für die Branche ein Warnschuss, und für Musk eine besonders teure Fehlinvestition."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+            "alt": "Elon Musk, Archivfoto",
+            "credit": "Robin Legrand / AFP via Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "World of Warcraft: Forever ist der größte Start in der Geschichte des Spiels",
+          "lead": "Blizzard meldet Rekorde bei gleichzeitig aktiven Spielern und Rückkehrern, dazu so viele Neueinsteiger wie seit 15 Jahren nicht. Konkrete Zahlen nennt das Studio allerdings nicht.",
+          "body": [
+            "World of Warcraft: Forever hat den erfolgreichsten Start in der über 20-jährigen Geschichte des Online-Rollenspiels hingelegt. Das teilte Blizzard am 7. November in sozialen Netzwerken mit. Die neue Ausgabe, die am 4. November erschienen ist, habe die Rekorde sowohl bei den gleichzeitig aktiven Spielern als auch bei zurückkehrenden Spielern gebrochen. „Glückwunsch an alle, ihr habt Geschichte geschrieben“, schrieb der offizielle WoW-Account.",
+            "Holly Longdale, ausführende Produzentin und Vizepräsidentin für World of Warcraft, legte nach: Forever habe so viele neue Spieler angezogen wie kein WoW-Start in den vergangenen 15 Jahren. Absolute Spielerzahlen hat Blizzard bislang nicht veröffentlicht.",
+            "Schon in den ersten Tagen war Forever zum meistgesehenen Spiel auf Twitch aufgestiegen und hatte dabei League of Legends und das neue Zelda überholt. Blizzard hatte die neue Ausgabe im September auf der BlizzCon offiziell bestätigt, nachdem Datenschürfer zuvor Hinweise unter dem Kürzel „wow 2“ auf der Blizzard-Website gefunden hatten.",
+            "Am Freitag kam der erste größere Hotfix. Er beseitigt unter anderem einen Fehler, durch den Flaggenträger in PvP-Schlachtfeldern wie der Kriegshymnenschlucht extrem schnell wurden, was der Horde einen deutlichen Vorteil verschaffte. Blizzard hat außerdem angedeutet, dass Forever irgendwann auch auf Konsolen erscheinen könnte."
+          ],
+          "highlight": "Holly Longdale, ausführende Produzentin und Vizepräsidentin für World of Warcraft, legte nach: Forever habe so viele neue Spieler angezogen wie kein WoW-Start in den vergangenen 15 Jahren.",
+          "assessment": [
+            "Rekorde ohne Zahlen sind immer mit Vorsicht zu genießen, aber die Twitch-Daten und der reibungslose Start sprechen für sich. Blizzard hat offenbar verstanden, was viele Spieler wollten: das alte Gefühl von Azeroth ohne den Ballast aus zwei Jahrzehnten Erweiterungen.",
+            "Am wichtigsten finde ich die Neueinsteiger. Ein MMO lebt nicht von Nostalgikern, die nach drei Monaten wieder gehen, sondern von Leuten, die bleiben. Wenn Forever wirklich eine neue Generation anlockt, ist das die beste Nachricht für WoW seit Wrath of the Lich King."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/wow-forever.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus dem Trailer zu World of Warcraft: Forever: ein bärtiger Zwerg betrachtet eine Blume auf einer Wiese",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/wow-forever-biggest-launch-world-of-warcraft-history-concurrent-players"
+          }
+        },
+        {
+          "title": "Mass Effect retten? BioWare-Mitgründer schätzt die Kosten auf über 200 Millionen Dollar",
+          "lead": "Nach der Schließung von BioWare und dem Aus für Mass Effect 5 wächst die Kampagne #SaveMassEffect. Trent Oster, einer der Gründer des Studios, rechnet vor, was ein neues Spiel kosten würde.",
+          "body": [
+            "Wer Mass Effect von EA kaufen und fortsetzen will, braucht sehr viel Geld. Das sagt Trent Oster, Mitgründer von BioWare. „Das Beängstigende an Mass Effect ist, dass das Publikum das Beste der AAA-Entwicklung erwarten wird“, schrieb er auf X. Grob geschätzt, gemessen an vergleichbaren Spielen, seien das über 200 Millionen Dollar. „Das ist eine große Summe, die man vorab zusagen muss. Es braucht einen größeren Plan für die Marke, damit die Rechnung aufgeht.“",
+            "Oster hält es aber auch für möglich, günstiger ans Ziel zu kommen: mit Disziplin und einem erfahrenen Team, das sich auf die großen Momente konzentriert. Das wäre dann allerdings nicht das, was das Team im Konzept „Universe“ beschrieben habe. Entscheidend sei, die Marke freizubekommen. „Die Fans verdienen mehr als ein Spiel.“ Schon am 4. November hatte er geschrieben, die Energie hinter #SaveMassEffect mache ihm Lust, „einen Teil der alten Truppe wieder zusammenzubringen“.",
+            "Hintergrund ist EAs Entscheidung, BioWare zu schließen und Mass Effect 5 einzustellen, wenige Monate nach der 55 Milliarden Dollar schweren, saudisch finanzierten Übernahme von EA. Einem Bericht zufolge musste EA zwischen zwei Science-Fiction-Projekten wählen, einem neuen Mass Effect und einem neuen Star Wars Battlefront, und entschied sich für Letzteres.",
+            "Eine Online-Petition, die EA auffordert, Mass Effect weiterzuentwickeln oder abzugeben, hat inzwischen mehr als 317.000 Unterschriften. Kanadische Fans haben zudem genug Unterschriften für eine Petition an das Parlament in Ottawa gesammelt. EA hat sich bisher nicht dazu geäußert, ob es die Rechte verkaufen würde."
+          ],
+          "highlight": "Grob geschätzt, gemessen an vergleichbaren Spielen, seien das über 200 Millionen Dollar.",
+          "assessment": [
+            "Osters Zahl ist ein nützlicher Realitätscheck für eine Kampagne, die bisher vor allem von Gefühl getragen wird. 200 Millionen Dollar für ein Spiel, dessen letzter Teil Andromeda hieß und enttäuschte, sind ein Risiko, das kaum ein unabhängiger Käufer eingehen wird.",
+            "Sein zweiter Gedanke ist der klügere: ein kleineres, fokussiertes Mass Effect. Dass EA die Marke abgibt, halte ich trotzdem für unwahrscheinlich. Konzerne verkaufen ihre bekannten Namen selten, auch wenn sie nichts damit vorhaben."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/mass-effect-shepard-sad.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Commander Shepard aus Mass Effect mit nachdenklichem Blick",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/mass-effect-5-save-cost-200m-bioware-co-founder-trent-oster"
+          }
+        },
+        {
+          "title": "Epic Games Launcher kommt offiziell auf SteamOS",
+          "lead": "Epic hat bestätigt, dass sein neuer Linux-Launcher auch SteamOS und damit das Steam Deck unterstützen soll. Ob Fortnite folgt, bleibt wegen des Anti-Cheat-Systems offen.",
+          "body": [
+            "Epic Games will seinen neuen Launcher für Linux auf möglichst vielen Distributionen anbieten, ausdrücklich auch auf Valves SteamOS. Das bestätigte Kommunikationschef Jake Jones gegenüber der Seite GamingOnLinux: „Der neue Epic Games Launcher ist noch in der Preview, und wir planen, so viele Linux-Distributionen wie möglich zu unterstützen, darunter Fedora, SteamOS, Cachy, Omarchy und mehr.“",
+            "Die Preview war zunächst als AppImage erschienen, das inzwischen durch ein .deb-Paket für Debian und Ubuntu ersetzt wurde. Man teste und bewerte verschiedene Paketformate, sagte Jones. Das AppImage solle noch in diesem Monat zurückkehren. GamingOnLinux regt an, den Launcher auch über Flathub anzubieten, was die Installation im Desktop-Modus des Steam Deck besonders einfach machen würde.",
+            "Im Oktober hatte Epic erklärt, man prüfe, Fortnite mit SteamOS kompatibel zu machen. Damals stand SteamOS noch nicht auf der Liste der unterstützten Systeme. Dass der Launcher kommt, heißt aber nicht automatisch, dass auch Fortnite auf dem Steam Deck läuft. Offen ist die Unterstützung für Easy Anti-Cheat in der Linux-Version 2. Epic hatte erklärt, das Steam Deck unterstütze die dafür nötigen Funktionen nicht, man spreche aber mit Valve.",
+            "Zusammen mit der bereits bestätigten Linux-Version von GOG Galaxy zeichnet sich ab, dass die großen PC-Spieleläden Linux ab 2027 offiziell bedienen."
+          ],
+          "highlight": "Dass der Launcher kommt, heißt aber nicht automatisch, dass auch Fortnite auf dem Steam Deck läuft.",
+          "assessment": [
+            "Das ist ein kleiner Satz mit großer Wirkung. Bisher mussten Steam-Deck-Besitzer Epic-Spiele über Umwege wie Heroic starten. Ein offizieller Launcher macht die Gratisspiele und Käufe aus dem Epic Store endlich ohne Bastelei nutzbar.",
+            "Strategisch ist es bemerkenswert, dass Epic ausgerechnet auf der Plattform des großen Konkurrenten Valve auftaucht. Tim Sweeney hat lange gegen geschlossene Systeme gewettert. Mit SteamOS bekommt er ein offenes, und er nutzt es. Linux-Gaming ist damit endgültig aus der Nische heraus."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+            },
+            {
+              "name": "GamingOnLinux",
+              "url": "https://www.gamingonlinux.com/2026/11/epic-games-comments-on-planned-linux-distribution-support/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Steam_Deck_%28front%29.png",
+            "alt": "Ein Steam Deck von vorn",
+            "credit": "Liam Dawe/GamingOnLinux, PNG-Version von VulcanSphere",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/wiki/File:Steam_Deck_(front).png"
+          }
+        },
+        {
+          "title": "Unbestätigt: Das Ocarina-of-Time-Remake enthält Daten für die Master Quest",
+          "lead": "Datenschürfer haben in den Dateien des Switch-2-Remakes Hinweise auf die berüchtigt schwere Spielvariante gefunden. Freigeschaltet werden soll sie offenbar über einen kostenpflichtigen oder kostenlosen Zusatzinhalt.",
+          "body": [
+            "Die Master Quest von Ocarina of Time könnte im neuen Remake zurückkehren. Der Datenschürfer MrCheeze hat auf Bluesky eine Liste von Zeichenketten aus den Spieldateien veröffentlicht, die das Kürzel „MQ“ mit Dungeons wie Dodongos Höhle verknüpfen. Weitere Einträge heißen „HasMQ“, „IsMQModeExist“, „NewGameMQ“ und „ReleaseMQ“.",
+            "Ein zweiter bekannter Datenschürfer, OatmealDome, ergänzte auf X, der Modus werde durch den Besitz eines DLC freigeschaltet und nicht per normalem Update nachgeliefert. Die Daten seien unvollständig. „Ich kann bestätigen, dass die Welt gespiegelt ist und die Dungeons verändert sind“, schrieb er, etwa durch Kühe in Jabu-Jabus Bauch.",
+            "Die Master Quest ist eine Neuabmischung von Ocarina of Time mit umgestellten Dungeons und schwereren Rätseln. Sie erschien zuerst als Bonus-Disc für den GameCube und kam 2011 mit Ocarina of Time 3D zurück, wo man sie nach dem Durchspielen freischaltete. Dort war die ganze Welt gespiegelt, und Gegner richteten doppelten Schaden an, was zu den jetzt gefundenen Daten passt.",
+            "Wie bei jedem Datenfund gibt es keine Garantie, dass der Modus erscheint. Nintendo hat keinen Zusatzinhalt für das Remake angekündigt, und es ist unklar, ob die Master Quest wie auf dem 3DS kostenlos wäre oder Geld kosten würde. Das Remake ist am 5. November für die Switch 2 erschienen und gilt als bestbewertetes Spiel des Jahres."
+          ],
+          "highlight": "Nintendo hat keinen Zusatzinhalt für das Remake angekündigt, und es ist unklar, ob die Master Quest wie auf dem 3DS kostenlos wäre oder Geld kosten würde.",
+          "assessment": [
+            "Die Daten sind ziemlich eindeutig, an der Existenz der Master Quest im Code gibt es wenig zu zweifeln. Die spannende Frage ist das Geschäftsmodell. Ein Modus, der auf GameCube und 3DS Teil des Pakets war, als Bezahl-DLC: Das würde Nintendo viel Ärger einbringen.",
+            "Mein Tipp: Es kommt als Teil eines größeren Zusatzpakets, damit sich der Preis rechtfertigen lässt. Wer das Remake ohnehin liebt, wird zahlen, und Nintendo weiß das."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-08-at-17.31.26.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Titelbild von Ocarina of Time Master Quest neben Codezeilen zu Dungeon-Räumen",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine"
+          }
+        },
+        {
+          "title": "Über Among Us gerettet: Vermisste Jugendliche vertraut sich einem Kontakt im Spiel an",
+          "lead": "Eine seit mehr als 17 Monaten vermisste Jugendliche aus Utah ist in Oregon befreit worden. Sie hatte im Spiel Among Us Kontakt zu einer anderen jugendlichen Person aufgenommen und ihr erzählt, wer sie ist.",
+          "body": [
+            "Eine Jugendliche, die im Mai 2025 im Alter von 15 Jahren in Garden City im US-Bundesstaat Utah verschwunden war, ist aus einem Haus in Oregon gerettet worden. Den entscheidenden Hinweis gab ein Kontakt im Multiplayerspiel Among Us. Das geht aus einer Strafanzeige der US-Bundesbehörden hervor, über die Newsweek und der Sender KUTV berichteten.",
+            "Laut der Anzeige begann das Mädchen um den 15. Oktober herum, im Spiel mit einer anderen jugendlichen Person zu chatten. Später wechselten die beiden auf eine andere App. Dort erzählte sie, wer sie war und dass sie in Oregon gegen ihren Willen festgehalten werde. Sie hatte ein Handy ohne mobile Daten bekommen und konnte nur über WLAN online gehen.",
+            "Diese Person erzählte es einem Elternteil, der am 1. November das FBI einschaltete. Ermittler hörten bei einem Videoanruf zwischen dem Elternteil und dem Mädchen mit, noch am selben Tag wurde sie aus dem Haus geholt. Sie ist inzwischen 17 Jahre alt.",
+            "Ein 39-jähriger Mann aus Huntington in Oregon wurde bei einer Verkehrskontrolle festgenommen. Er soll das Mädchen im Mai 2025 online kennengelernt, sie in Utah abgeholt und über Staatsgrenzen hinweg zu sich gebracht haben. Ihm wird vorgeworfen, sie zum Zweck sexueller Straftaten transportiert zu haben. Die Staatsanwaltschaft betont, dass eine Anzeige nur eine Anschuldigung ist und die Unschuldsvermutung gilt."
+          ],
+          "highlight": "Den entscheidenden Hinweis gab ein Kontakt im Multiplayerspiel Among Us.",
+          "assessment": [
+            "Über Online-Spiele wird meist im Zusammenhang mit Gefahren für Kinder berichtet, und das zu Recht. Dieser Fall zeigt die andere Seite: Ein Spiel war der eine Kanal, den der mutmaßliche Täter nicht unter Kontrolle hatte.",
+            "Die eigentlichen Helden sind die junge Person am anderen Ende, die zugehört, die Geschichte ernst genommen und einen Erwachsenen eingeschaltet hat, und deren Elternteil, der sofort gehandelt hat. Das ist genau das Verhalten, das man Jugendlichen online beibringen möchte."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/among-us-is-coming-to-xbox-next-year-1608287434062.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Werbegrafik zu Among Us: die rote Spielfigur vor dem Weltraum, im Hintergrund weitere Crewmitglieder",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Kinowochenende: Ramayana startet gewaltig, der Kater mit Hut lahmt, Godzilla bleibt vorn",
+          "lead": "Nach dem Rekordstart in Nordamerika gewinnt Godzilla Minus Zero auch das weltweite Wochenende. Dahinter liefert das indische Großepos Ramayana starke Zahlen, während Warners Dr.-Seuss-Film enttäuscht.",
+          "body": [
+            "Godzilla Minus Zero hat am Wochenende weltweit 63 Millionen Dollar eingespielt, berichtet Deadline. In Nordamerika kam der Film von Takashi Yamazaki auf 31,6 Millionen Dollar, nach Angaben des Hollywood Reporter der beste Start eines nicht englischsprachigen Realfilms seit Zhang Yimous „Hero“ 2004 und der erfolgreichste Start in der Geschichte des Verleihs GKids. Bemerkenswert ist der IMAX-Anteil: Der erste japanische Film, der für IMAX gedreht wurde, holte 12 Millionen Dollar und damit 40 Prozent seines Einspiels in Nordamerika aus diesem Format. In Japan hat er seit Dienstag rund 17 Millionen Dollar eingenommen. Das Budget soll bei nur rund 15 Millionen Dollar liegen.",
+            "Knapp dahinter folgt Ramayana: Rise of a Legend mit 55,7 Millionen Dollar weltweit, davon 32 Millionen in Indien. In Nordamerika brachte Sony den ersten Teil des zweiteiligen Epos über Prinz Rama auf 1.433 Leinwände, so breit wie noch keinen indischen Film, und kam in vier Tagen auf gut 12 Millionen Dollar, den zweitbesten Start eines indischen Films dort. Im Vereinigten Königreich und in Australien lag Ramayana vor Godzilla. Das Gesamtbudget beider Teile wird mit 420 Millionen Dollar und mehr angegeben. Nach Hollywood-Maßstäben wäre der Start für einen Film dieser Größenordnung ein Flop, schreibt Deadline, in Indien laufen solche Filme aber oft über Wochen weiter.",
+            "Warner Bros. hatte weniger Grund zur Freude. Der Animationsfilm The Cat in the Hat startete in Nordamerika mit 20,5 Millionen Dollar aus 4.003 Kinos, international kamen 10 Millionen hinzu. Das entspricht zwar der eigenen Prognose, liegt aber weit unter früheren Dr.-Seuss-Verfilmungen: Der Grinch startete 2018 mit 67,5 Millionen, Der Lorax 2012 mit 70,2 Millionen Dollar. Der Film hat 92 Millionen Dollar gekostet, die Kritiken sind mäßig, das Publikum vergab aber die Note A.",
+            "Unter den weiteren Neustarts überzeugte das christliche Musical Drummer Boy von Angel Studios mit 9,3 Millionen Dollar. Martin McDonaghs Oscar-Hoffnung Wild Horse Nine mit John Malkovich, Sam Rockwell und Steve Buscemi startete in 1.100 Kinos mit rund 6 Millionen Dollar. Insgesamt spielten die Kinos in Nordamerika 121,7 Millionen Dollar ein, das Jahr liegt mit 8,625 Milliarden Dollar 20,6 Prozent über dem Vorjahr."
+          ],
+          "highlight": "Der erste japanische Film, der für IMAX gedreht wurde, holte 12 Millionen Dollar und damit 40 Prozent seines Einspiels in Nordamerika aus diesem Format.",
+          "assessment": [
+            "Das Wochenende erzählt eine Geschichte, die Hollywood nervös machen sollte: Die beiden erfolgreichsten Filme der Welt kommen aus Japan und Indien, und der eine hat einen Bruchteil eines Marvel-Budgets gekostet. Godzilla zeigt, dass ein klar inszenierter Film mit Ereignischarakter das Publikum ins IMAX bringt, egal in welcher Sprache.",
+            "Bei Ramayana bin ich vorsichtiger. 420 Millionen Dollar für zwei Filme sind auch für indische Verhältnisse riesig, und ob die Rechnung aufgeht, entscheidet sich erst in den kommenden Wochen. The Cat in the Hat wiederum bestätigt, dass ein bekannter Name kein Selbstläufer ist, wenn der Film selbst niemanden begeistert."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Godzilla-Ramayana-2-shot.jpg?w=1000",
+            "alt": "Bildmontage aus Godzilla Minus Zero und Ramayana: Rise of a Legend",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/"
+          }
+        },
+        {
+          "title": "„You Can See Everything“ räumt bei den Critics Choice Documentary Awards ab und wird zum Kassenphänomen",
+          "lead": "Nathan Fielders und Lance Oppenheims Film über die letzten Tage von Elizabeth Holmes vor dem Gefängnis hat in jeder Kategorie gewonnen, in der er nominiert war. An der Kinokasse ist er inzwischen der dritterfolgreichste A24-Film in Nordamerika.",
+          "body": [
+            "Bei den Critics Choice Documentary Awards in der Nacht zum Montag hat „You Can See Everything“ alle wichtigen Preise gewonnen. Der Film von Nathan Fielder und Lance Oppenheim begleitet die Theranos-Gründerin Elizabeth Holmes in ihren letzten Tagen, bevor sie ins Gefängnis musste. Er wurde als bester Dokumentarfilm ausgezeichnet, Fielder und Oppenheim erhielten den Regiepreis. Dazu kamen Preise für Kamera (David Bolen), Schnitt (Adam Locke-Norton) und Musik (Ari Balouzian).",
+            "Zweiter großer Gewinner war David Greaves' „Once Upon a Time in Harlem“, ausgezeichnet als bestes Dokumentarfilmdebüt, bester Archivfilm und bester historischer Dokumentarfilm. Weitere Preise gingen unter anderem an „NAZA“, „Musk“ und „EPiC: Elvis Presley in Concert“.",
+            "Der Film ist auch kommerziell eine Ausnahme. Mit 79,8 Millionen Dollar in Nordamerika ist er laut IndieWire inzwischen der dritterfolgreichste A24-Film auf dem heimischen Markt. Er hat „Everything Everywhere All at Once“ mit 77 Millionen Dollar überholt und liegt nur noch hinter „Backrooms“ (197 Millionen) und „Marty Supreme“ (96 Millionen). Gekostet hat er 7 Millionen Dollar.",
+            "Damit ist „You Can See Everything“ nach Angaben von Variety, die IndieWire zitiert, der zweiterfolgreichste Dokumentarfilm in Nordamerika nach Michael Moores „Fahrenheit 9/11“ mit 119 Millionen Dollar, Konzertfilme wie den Taylor-Swift-Film nicht mitgerechnet. „Die Reise der Pinguine“ (77 Millionen) liegt nun dahinter. In den meisten Ländern außerhalb Nordamerikas ist der Film noch gar nicht gestartet."
+          ],
+          "highlight": "Mit 79,8 Millionen Dollar in Nordamerika ist er laut IndieWire inzwischen der dritterfolgreichste A24-Film auf dem heimischen Markt.",
+          "assessment": [
+            "Ein Dokumentarfilm, der mehr einspielt als ein Oscar-Gewinner für den besten Film: Das ist ein echtes Ereignis. Fielders Methode, die Grenzen zwischen Beobachtung und Inszenierung zu verwischen, trifft offenbar einen Nerv, und Holmes ist die perfekte Figur dafür, eine Frau, deren ganze Karriere aus Inszenierung bestand.",
+            "Nach diesem Abräumen bei den Kritikerpreisen ist der Film für mich der klare Favorit für den Dokumentarfilm-Oscar. Spannend wird, ob die Academy einem so ironischen, unbequemen Film den Preis gibt oder lieber zu etwas Klassischerem greift."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/you-can-see-everything-critics-choice-documentary-awards-winners-1237217011/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=1024",
+            "alt": "Szene aus dem Dokumentarfilm „You Can See Everything“",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/you-can-see-everything-critics-choice-documentary-awards-winners-1237217011/"
+          }
+        },
+        {
+          "title": "Denis Villeneuve: „Ich kann etwas mit einem Prompt erschaffen oder mit Schauspielern in die Wüste gehen“",
+          "lead": "Bei der Gala Art+Film im Los Angeles County Museum of Art wurde der Dune-Regisseur geehrt. In seiner Rede positionierte er sich klar gegen KI-Film und spielte mit der Frage, wer der nächste James Bond wird.",
+          "body": [
+            "Das Los Angeles County Museum of Art (LACMA) hat Denis Villeneuve am Samstagabend bei seiner jährlichen Gala Art+Film geehrt, die in diesem Jahr zum 15. Mal stattfand. Die Laudatio hielt Nicole Kidman, die eigens aus Australien angereist war, obwohl sie Villeneuve nach eigenen Worten kaum kennt. Sie habe ihn in seinen Filmen kennengelernt, von „Die Frau, die singt“ über „Prisoners“, „Sicario“, „Blade Runner“ und „Arrival“ bis zu den Dune-Filmen. Unter den rund 600 Gästen waren auch seine Dune-Stars Timothée Chalamet und Anya Taylor-Joy.",
+            "Villeneuve erzählte, wie er bei der Vorbereitung von „Arrival“ nicht wusste, wie er den Film inszenieren sollte, bis er im LACMA eine Ausstellung von James Turrell sah: Menschen, die schweigend im Licht standen. „Dann dachte ich: Okay, jetzt weiß ich, wie ich den Film drehe.“ Er dankte Steven Spielberg, der der Grund sei, warum er heute hier stehe, sowie James Cameron, Alfonso Cuarón, Alejandro González Iñárritu und Chloé Zhao.",
+            "Dann kam er auf künstliche Intelligenz zu sprechen. „Wir stehen an einer Wegscheide und fragen uns, was einen Menschen ausmacht und was menschlicher Ausdruck wert ist“, sagte er. Diese Frage stehe auch im Zentrum von „Dune: Part Three“, der am 18. Dezember startet. „Für einen Filmemacher ist das heute sehr real. Ich habe die Wahl. Ich kann etwas mit einem Prompt erschaffen oder ich kann mit Schauspielern und einer Crew in die Wüste gehen und ein echtes Abenteuer erleben, bei dem ich etwas über das Leben lerne und besser in meinem Handwerk werde.“ Wichtiger als das Ergebnis sei der Prozess. Gerade jetzt sei es wichtiger denn je, dass Menschen gemeinsam Kunst machen.",
+            "Zum Schluss sorgte Villeneuve, der als Nächstes den neuen James-Bond-Film inszeniert, für einen Lacher: Mit dem Segen seiner neuen Freunde bei Amazon werde er nun verraten, wer der nächste Bond sei. „Der neue James Bond ist … und hier höre ich auf, weil Amy Pascal sonst einen Herzinfarkt bekommt.“ Die Besetzung befindet sich laut Hollywood Reporter in der Endphase."
+          ],
+          "highlight": "Ich kann etwas mit einem Prompt erschaffen oder ich kann mit Schauspielern und einer Crew in die Wüste gehen und ein echtes Abenteuer erleben, bei dem ich etwas über das Leben lerne und besser in meinem Handwerk werde.",
+          "assessment": [
+            "Nach Christopher Nolan vor wenigen Tagen bezieht nun der zweite große Blockbuster-Regisseur unmissverständlich Stellung. Das Gewicht solcher Sätze liegt darin, wer sie sagt: Villeneuve und Nolan sind genau die Regisseure, die Studios für ihre teuersten Projekte brauchen.",
+            "Sein Satz über die Produzenten, die einwenden würden, das eine sei teurer als das andere, ist der ehrlichste Teil der Rede. Darum geht es am Ende: nicht um Kunst gegen Technik, sondern um Kosten. Den Bond-Gag fand ich übrigens gelungen, er zeigt, wie entspannt Villeneuve mit dem enormen Druck dieses Projekts umgeht."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/denis-villeneuve-dune-new-bond-lacma-artfilm-gala-2026-1236750330/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/2304074313.jpg?crop=0px%2C244px%2C5000px%2C2798px&resize=1440%2C810",
+            "alt": "Denis Villeneuve bei der LACMA Art+Film Gala in Los Angeles",
+            "credit": "The Hollywood Reporter",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/denis-villeneuve-dune-new-bond-lacma-artfilm-gala-2026-1236750330/"
+          }
+        },
+        {
+          "title": "Zweiter Trailer zu „Cliff Booth“: Fincher und Tarantino stellen die Bruce-Lee-Szene in den Mittelpunkt",
+          "lead": "Netflix hat den zweiten Trailer zu „The Further Mis-Adventures of Cliff Booth“ veröffentlicht. Er beginnt ausgerechnet mit der umstrittensten Szene aus „Once Upon a Time in Hollywood“.",
+          "body": [
+            "Der neue Trailer zu „The Further Mis-Adventures of Cliff Booth“ hält sich nicht lange mit Vorreden auf. Die ersten Worte lauten: „Hast du die Geschichte gehört, wie Bruce Lee von einem Stuntman verprügelt wurde?“ Kurz darauf folgt eine weitere Anspielung auf die Szene, lange bevor Rick Dalton oder andere Ereignisse des ersten Films erwähnt werden. Die Manson-Morde, an deren Ende Cliff im ersten Film beteiligt war, kommen gar nicht vor, bemerkt IndieWire.",
+            "Der Film ist eine Art Fortsetzung für Netflix. Regie führt David Fincher, das Drehbuch stammt von Quentin Tarantino. Brad Pitt spielt erneut Cliff Booth, die Rolle, für die er den Oscar gewann. Der Film wird als eigenständiges Abenteuer der Figur vermarktet. Leonardo DiCaprio fehlt entweder ganz oder ist ein sehr gut gehütetes Geheimnis. Tarantino hat gesagt, die Geschichte habe mehr mit den Krimis von Elmore Leonard gemein als mit dem lässigen Erzählstil des ersten Films.",
+            "Die Szene, in der Cliff am Filmset mit Bruce Lee kämpft, hatte nach dem Kinostart 2019 heftige Kritik ausgelöst. Lees Tochter Shannon Lee sagte 2020, der Film habe die Erzählung befeuert, ihr Vater sei ein arroganter Mensch gewesen. Er habe aber nicht herumgezogen und Leute zum Kampf herausgefordert und sich hart für eine authentische Darstellung asiatischer Männer in Hollywood eingesetzt. Tarantino verteidigte die Szene wiederholt und berief sich auf Anekdoten von Menschen, die Lee kannten.",
+            "Der Film startet noch in diesem Monat in ausgewählten Kinos und kommt im Dezember zu Netflix. Bis dahin werden mehr als sieben Jahre seit der Premiere von „Once Upon a Time in Hollywood“ vergangen sein."
+          ],
+          "highlight": "Die ersten Worte lauten: „Hast du die Geschichte gehört, wie Bruce Lee von einem Stuntman verprügelt wurde?“",
+          "assessment": [
+            "Das ist kalkulierte Provokation. Netflix muss dem Publikum in Erinnerung rufen, wer Cliff Booth ist, und wählt dafür ausgerechnet die Szene, über die sich am meisten gestritten wurde. Aufmerksamkeit ist garantiert, ein neuer Streit wohl auch.",
+            "Interessanter finde ich, was der Trailer über den Film verrät: Ohne DiCaprio und ohne Manson-Bezug wird das eher ein knochentrockener Krimi als eine Nostalgiereise. Fincher, Tarantino und Pitt in dieser Kombination bleiben einer der spannendsten Filme des Jahres."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/general-news/further-mis-adventures-of-cliff-booth-trailer-bruce-lee-tarantino-1235225974/"
+            },
+            {
+              "name": "Trailer: The Further Mis-Adventures of Cliff Booth",
+              "url": "https://www.youtube.com/watch?v=fJH-wfSXnWg"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-06-at-9.15.04-AM.png?w=650",
+            "alt": "Szene aus dem zweiten Trailer zu „The Further Mis-Adventures of Cliff Booth“",
+            "credit": "IndieWire",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/general-news/further-mis-adventures-of-cliff-booth-trailer-bruce-lee-tarantino-1235225974/"
+          }
+        },
+        {
+          "title": "Andy Serkis über die Rückkehr zu Gollum: „Es war verrückt“",
+          "lead": "Für „The Hunt for Gollum“ steht Andy Serkis nicht nur wieder als die berühmte Figur vor der Kamera, er führt auch Regie. Der Doppeljob raubt ihm nach eigenen Worten den Schlaf.",
+          "body": [
+            "Andy Serkis spielt in „The Hunt for Gollum“ erneut die Figur, die ihn berühmt gemacht hat, und inszeniert den neuen Herr-der-Ringe-Film zugleich selbst. In einem Interview mit der britischen Times sprach er darüber, was das mit ihm macht.",
+            "„Ich habe so lange mit Gollum gelebt. Ich schlafe schrecklich. Mein Kopf ist ziemlich aktiv, und es war verrückt, zu der Figur zurückzukehren, die ich vor 26 Jahren zu spielen begann. Ich wache nachts auf“, sagte Serkis. „Ich weiß eigentlich nicht, ob ich schlafe oder wach bin, aber ich denke: Führe ich bei dir Regie, Gollum? Oder du bei mir? Streiten wir?“",
+            "Schon Anfang der Woche hatte Serkis bei der Vorstellung seines neuen Buchs darüber gesprochen, wie eine Rolle Schauspieler verändert. Man werde von jeder Figur geprägt und lerne etwas über sich oder die Welt. „Ich glaube, man wird auf eine Art chemisch verändert. Man überlistet seinen Körper, seinen Kopf und seine Psyche, damit sie zu diesem anderen Wesen passen.“ Sich von einer Rolle zu lösen, könne lange dauern.",
+            "Bei Gollum rechnet er nicht damit, dass das je gelingt. „Ich vermute nicht, dass Gollum mich jemals verlassen wird, ehrlich gesagt.“"
+          ],
+          "highlight": "„Ich vermute nicht, dass Gollum mich jemals verlassen wird, ehrlich gesagt.“",
+          "assessment": [
+            "Eine schöne, sehr menschliche Anekdote zu einem Projekt, dem viele Fans skeptisch gegenüberstehen. Serkis ist der Einzige, der diesen Film glaubwürdig machen kann: Er hat das Performance-Capture-Kino praktisch miterfunden und kennt die Figur besser als jeder andere.",
+            "Ob es eine gute Idee ist, gleichzeitig Hauptdarsteller und Regisseur einer so technisch aufwendigen Figur zu sein, ist eine andere Frage. Die Schlaflosigkeit klingt jedenfalls nach jemandem, der das Projekt sehr ernst nimmt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/andy-serkis-playing-gollum-insane-1237216962/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/THE-LORD-OF-THE-RINGS-RETURN-OF-THE-KING-Gollum-2003-c-New-Linecourtesy-Everett-Collection-The-Lord-Of-The-Rings-The-War-Of-The-Rohirrim-World-Premiere-VIP-Arrivals-1000.jpg?w=1000",
+            "alt": "Gollum in „Der Herr der Ringe: Die Rückkehr des Königs“ neben einem Porträt von Andy Serkis",
+            "credit": "New Line / Everett Collection; Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/andy-serkis-playing-gollum-insane-1237216962/"
+          }
+        },
+        {
+          "title": "„Gangs of London“-Regisseur Kim Hong-sun dreht Martial-Arts-Film „The Hit List“ mit Jung Woo-sung",
+          "lead": "Der koreanische Actionregisseur verfilmt einen populären Webtoon aus der Joseon-Zeit. Squid-Game-Star Wi Ha-jun spielt einen Prinzen, der seinem jungen Neffen den Thron entreißen will.",
+          "body": [
+            "Die koreanische Vertriebsfirma Finecut hat die internationalen Rechte an „The Hit List“ übernommen, einem Martial-Arts-Actionfilm von Kim Hong-sun. Der Regisseur hat sich mit „Project Wolf Hunting“ und der dritten Staffel der britischen Serie „Gangs of London“ einen Namen gemacht. Die Dreharbeiten laufen seit Oktober 2026.",
+            "Hauptdarsteller ist Jung Woo-sung („12.12: The Day“). Die Vorlage ist einer der beliebtesten Webtoons der Plattform Kakao mit mehr als 120 Millionen Aufrufen. Die Geschichte spielt in der Joseon-Dynastie und dreht sich um Han Myeong-hoe, einen der mächtigsten Männer seiner Zeit, der durch Blutvergießen aufstieg, um Baek E-hwa, eine Frau, die nach dem Verlust von allem zur Verkörperung der Rache wird, und um Jang Gil-do, Hans rechte Hand und einen der gefürchtetsten Krieger der Epoche.",
+            "Wi Ha-jun, bekannt aus „Squid Game“, spielt Großprinz Suyang, der mit Hans Unterstützung seinem jungen Neffen den Thron entreißen will. Hinter der Kamera arbeitet Kim erneut mit Leuten aus dem Gangs-of-London-Team: Kameramann Lars Cox („House of the Dragon“) und Oberbeleuchter Kieran Waites, der auch an Nolans „The Odyssey“ beteiligt war.",
+            "Finecut hatte bereits „Project Wolf Hunting“ verkauft, und zwar in mehr als 70 Länder. Nach dem internationalen Erfolg nahm die Agentur WME Kim unter Vertrag, die auch Park Chan-wook und Bong Joon-ho vertritt."
+          ],
+          "highlight": "Wi Ha-jun, bekannt aus „Squid Game“, spielt Großprinz Suyang, der mit Hans Unterstützung seinem jungen Neffen den Thron entreißen will.",
+          "assessment": [
+            "Die historische Vorlage ist reizvoll: Großprinz Suyangs Machtergreifung im 15. Jahrhundert ist einer der bekanntesten Staatsstreiche der koreanischen Geschichte. Daraus einen brutalen Rachefilm zu machen, passt zu Kims Handschrift.",
+            "Wer „Project Wolf Hunting“ gesehen hat, weiß, dass Kim keine halben Sachen macht. Mit der Gangs-of-London-Crew dürfte das einer der härtesten Actionfilme aus Korea im nächsten Jahr werden. Für Genrefans unbedingt vormerken."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/kim-hong-sun-the-hit-list-gangs-of-london-finecut-1237216230/"
+            },
+            {
+              "name": "Variety",
+              "url": "https://variety.com/2026/film/news/gangs-of-london-director-kim-hong-sun-korean-action-film-hit-list-1236942835/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Kim-Hong-sun-1.jpg?w=1024",
+            "alt": "Porträt des Regisseurs Kim Hong-sun",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/kim-hong-sun-the-hit-list-gangs-of-london-finecut-1237216230/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Bei Colmar: Gräber germanischer Anführer mit Prunkwaffen und Pferden aus dem 5. Jahrhundert",
+          "lead": "Im Elsass haben Archäologen einen kleinen Friedhof aus der Zeit nach dem Zusammenbruch des Weströmischen Reichs freigelegt. Zwei Männer wurden mit Schwert, Schild, Speer und Goldgranat-Schmuck bestattet, daneben lagen zwei Pferde mit Zaumzeug.",
+          "body": [
+            "Bei Ausgrabungen nahe Colmar im Nordosten Frankreichs, nur wenige Kilometer vom Rhein entfernt, ist das französische Institut für präventive Archäologie (Inrap) auf einen seltenen Friedhof aus dem 5. Jahrhundert gestoßen. Er wurde etwa zwischen 450 und 500 n. Chr. genutzt, also genau in der Zeit, in der das Weströmische Reich zerfiel. Das teilte das Inrap am 6. November mit, Live Science berichtet darüber.",
+            "An der Stelle stand vom 1. bis 3. Jahrhundert ein gallo-römisches Dorf. Die Ausgräber fanden Hausreste, Herdstellen, Brunnen und Werkstattbereiche. Auf dem späteren Friedhof lagen 11 Erwachsene, drei Kinder und zwei Pferde. In zwei Frauengräbern fanden sich silberne Fibeln in Vogelform, Halsketten aus Glasperlen und ein Kamm aus Knochen, was auf Frauen von hohem Rang hindeutet.",
+            "Herausragend sind zwei Männergräber. Sie enthielten ein Schwert mit teilweise erhaltener hölzerner Scheide, einen Schild, einen Wurfspeer und einen Sax, ein germanisches Kurzschwert, das mit Gold und Granat verziert war. Solche Waffen sind laut den Archäologen typisch für Gräber germanischer Anführer oder Söldner. Die beiden Pferde wurden mit ihrem Zaumzeug in der Nähe bestattet.",
+            "Auch die Knochen erzählen von Gewalt. Zwei Menschen hatten Stichwunden, die nicht verheilt waren, sie starben also wohl schnell und gewaltsam. Bei einem weiteren Mann war das rechte Kniegelenk vollständig versteift, vermutlich nach einer schlecht verheilten Verletzung. Die Archäologen halten die Waffen deshalb nicht für bloße Statussymbole. Weitere Untersuchungen sollen klären, ob die Verletzungen aus Kämpfen stammen.",
+            "Germanische Siedlungen und Friedhöfe aus dem 5. Jahrhundert sind selten. Der Fund soll helfen zu verstehen, wie der politische Zusammenbruch Roms die Gemeinschaften am Rand des Reichs veränderte."
+          ],
+          "highlight": "Er wurde etwa zwischen 450 und 500 n. Chr. genutzt, also genau in der Zeit, in der das Weströmische Reich zerfiel.",
+          "assessment": [
+            "Das ist ein kleiner Friedhof mit großer Aussagekraft. Am Oberrhein trafen im 5. Jahrhundert die Reste römischer Ordnung und neue germanische Eliten aufeinander, und hier sieht man diese Elite fast im Porträt: Krieger mit Prunkwaffen, Pferden und sichtbaren Kampfspuren.",
+            "Spannend wird, ob die Isotopen- und DNA-Analysen zeigen, woher diese Leute kamen. Waren es Zugewanderte, oder romanisierte Einheimische, die sich germanisch inszenierten? Diese Frage ist für die Völkerwanderungszeit zentral, und Funde wie dieser können sie beantworten."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/RcCBnjtjMcQa5A9fsFkht9-1877-80.png",
+            "alt": "Zwei menschliche Skelette werden auf einer Grabungsfläche freigelegt",
+            "credit": "Live Science",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/rare-fifth-century-burials-of-germanic-chieftains-with-dazzling-weapons-and-warhorses-discovered-in-france"
+          }
+        },
+        {
+          "title": "Michelangelo malte das Jüngste Gericht mit selbstgebauten Kammpinseln",
+          "lead": "Bei der Reinigung des Freskos in der Sixtinischen Kapelle haben Restauratoren der Vatikanischen Museen entdeckt, dass Michelangelo mit mehrspitzigen Pinseln arbeitete. Außerdem ist ein verstecktes Selbstporträt nun deutlich zu sehen.",
+          "body": [
+            "Es begann mit einem Detail, das nicht passte. Paolo Violini, Leiter der Gemälderestaurierung der Vatikanischen Museen, stand auf dem Gerüst vor der Altarwand der Sixtinischen Kapelle, wenige Zentimeter vor dem Jüngsten Gericht. Er sah einen Pinselstrich, der leicht von seiner Bahn abwich. Daneben lagen weitere parallele Striche, und alle hatten exakt dieselbe Wellenbewegung. Eine Hand wiederholt aber nie dasselbe Zittern in zehn verschiedenen Strichen. Bewegen sich alle gemeinsam, wurden sie mit einem einzigen Werkzeug gezogen, berichtet das italienische Kunstmagazin Finestre sull'Arte.",
+            "Violinis Schluss: Michelangelo benutzte für das Fresko mit seinen mehr als 300 Figuren systematisch Pinsel mit mehreren Spitzen, ähnlich einem Kamm, die er höchstwahrscheinlich selbst gebaut hat. Gefunden wurden Spuren eines dreiköpfigen Pinsels und breiterer Werkzeuge von bis zu 15 Zentimetern, die bis zu zehn kleine Pinsel vereinten. Damit malte er schneller, vor allem aber erzielte er eine Kreuzschraffur, wie sie das Zahneisen beim Bildhauen im Marmor hinterlässt. Ein Vergleich mit einem Gipsabguss der Pietà Bandini zeigt die Ähnlichkeit. Anders als andere Maler folgte Michelangelo nicht der Form der Muskeln, sondern kreuzte die Striche ständig, damit das Licht auf den Körpern vibriert.",
+            "Möglich wurde das durch eine außerordentliche Wartung im Februar und März 2026. Die Kapelle war geschlossen, vor der Altarwand standen Gerüste über sieben Etagen. Hauptproblem war ein weißer Schleier aus Calciumlactat, ein Salz, das sich durch die Ausdünstungen von Millionen Besuchern gebildet hatte. Dreißig Restauratoren arbeiteten 30 Tage lang in zwei Schichten, um ihn mit Kompressen zu entfernen. Die Ergebnisse sind im Band „Michelangelo 2026“ der Edizioni Musei Vaticani dokumentiert, herausgegeben von Barbara Jatta und Fabrizio Biferali.",
+            "Bei der Arbeit wurde auch ein bekanntes, aber bisher schwer erkennbares Detail sichtbar. Im unteren linken Bereich, wo die Toten aus der Erde auferstehen, trägt eine Allegorie des Todes ein Gewand, in dessen Falten ein ausgezehrtes Gesicht den Betrachter ansieht. Biferali hält es für ein verstecktes Selbstporträt. Es sei der letzte Teil, den Michelangelo 1541 vollendete. Während der Arbeit daran sei er vom Gerüst gefallen und habe sich ein Bein gebrochen. Danach habe er sein Gesicht unter die Auferstehenden gemalt, „weil er sich nach dem Unfall wie neugeboren fühlte“."
+          ],
+          "highlight": "Damit malte er schneller, vor allem aber erzielte er eine Kreuzschraffur, wie sie das Zahneisen beim Bildhauen im Marmor hinterlässt.",
+          "assessment": [
+            "Ich mag solche Entdeckungen, weil sie aus genauem Hinsehen entstehen und nicht aus Spektakel. Dass Michelangelo, der sich selbst immer als Bildhauer verstand, die Technik des Meißels auf die Wand übertrug, passt perfekt zu ihm. Er malte, als würde er Stein bearbeiten.",
+            "Beim Selbstporträt bin ich zurückhaltender. Das Gesicht im Gewand des Todes ist seit Langem bekannt, die Deutung als Michelangelo ist plausibel, die schöne Geschichte vom Sturz und der Wiedergeburt bleibt aber Interpretation."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/arte-antica/michelangelo-dipingeva-con-un-pennello-a-piu-teste-pettine-scoperta-cappella-sistina"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/michelangelo-cappella-sistina-pennelli-scoperte-1-1.jpg",
+            "alt": "Detail aus Michelangelos Jüngstem Gericht in der Sixtinischen Kapelle mit sichtbaren parallelen Pinselstrichen",
+            "credit": "Finestre sull'Arte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/arte-antica/michelangelo-dipingeva-con-un-pennello-a-piu-teste-pettine-scoperta-cappella-sistina"
+          }
+        },
+        {
+          "title": "Herculaneum: Zwei römische Häuser öffnen nach Jahrzehnten wieder, erstmals mit Blick vom Obergeschoss",
+          "lead": "Im Archäologischen Park Herculaneum sind die Casa dell'Atrio a Mosaico und die Casa a Graticcio wieder zugänglich. Besucher können zum ersten Mal ein Obergeschoss betreten und auf eine antike Straße hinunterblicken.",
+          "body": [
+            "Nach jahrzehntelanger Schließung gehören zwei bedeutende römische Wohnhäuser wieder zum Besucherrundgang im Archäologischen Park Herculaneum. Die Casa dell'Atrio a Mosaico, das Haus mit dem Mosaik-Atrium, und die Casa a Graticcio, das Fachwerkhaus, wurden im Rahmen des Progetto Domus restauriert, eines Programms zur Rettung von sechs der wichtigsten Häuser der Stadt, die beim Vesuvausbruch 79 n. Chr. verschüttet wurde.",
+            "Die beiden Gebäude zeigen sehr unterschiedliche Lebenswelten. Die Casa dell'Atrio a Mosaico ist eine große, prächtige Villa mit Blick aufs Meer. Ihr Namensgeber, der Mosaikboden im Atrium, zeigt bis heute Verformungen durch das Gewicht des Vulkanmaterials, das fast 2000 Jahre lang auf ihm lastete. Auch zahlreiche verkohlte Holzteile zeugen von der Katastrophe. Der Rundgang führt durch den Garten zu restaurierten Räumen mit kostbarem Wandputz und verzierten Decken. Vom großen Saal, dem Oecus Aegyptius, blickt man auf das Atrium.",
+            "Die Casa a Graticcio war dagegen eine Art kleines römisches Mehrparteienhaus, mit einem Laden im Erdgeschoss und Wohnungen im ersten Stock, in denen sich noch Möbel erhalten haben. Hier gibt es eine Premiere: Zum ersten Mal können Besucher das Obergeschoss eines Hauses in Herculaneum betreten und von oben auf den Cardo IV blicken, eine kaiserzeitliche Straße, die zum Meer führte.",
+            "Das Progetto Domus hatte bereits im März 2025 die Casa del Colonnato Tuscanico und die Casa del Sacello di Legno wieder geöffnet, im Juli 2026 folgte die Casa del Mobilio Carbonizzato. Ziel ist nicht nur die Wiedereröffnung, sondern eine dauerhafte Pflege der Gebäude, die unter maroden Dächern, Witterung und fragiler Bausubstanz gelitten hatten."
+          ],
+          "highlight": "Hier gibt es eine Premiere: Zum ersten Mal können Besucher das Obergeschoss eines Hauses in Herculaneum betreten und von oben auf den Cardo IV blicken, eine kaiserzeitliche Straße, die zum Meer führte.",
+          "assessment": [
+            "Herculaneum steht immer im Schatten von Pompeji, dabei ist es in vielem spannender: Die Stadt wurde von heißen Ascheströmen begraben, nicht von Bimsregen, deshalb sind Holz, Möbel und Obergeschosse erhalten. Genau das macht die Casa a Graticcio so besonders.",
+            "Ein Mietshaus mit Laden unten und Wohnungen oben zeigt den römischen Alltag besser als jede Prunkvilla. Wer nach Neapel fährt, sollte Herculaneum nicht als Nebenprogramm behandeln."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/archeologia/case-dell-antica-ercolano-tornano-accessibili-riaprono-due-dimore-storiche"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/ercolano-casa-atrio-a-mosaico-prima-e-dopo-4.jpg",
+            "alt": "Der Mosaikboden im Atrium der Casa dell'Atrio a Mosaico in Herculaneum vor und nach der Restaurierung",
+            "credit": "Finestre sull'Arte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/archeologia/case-dell-antica-ercolano-tornano-accessibili-riaprono-due-dimore-storiche"
+          }
+        },
+        {
+          "title": "Verschollenes Hayez-Gemälde aufgetaucht: „Venus führt Helena zu Paris“ kehrt nach Trient zurück",
+          "lead": "Ein mythologisches Gemälde von Francesco Hayez aus dem Jahr 1831 galt als verloren und war nur durch einen Stich bekannt. Jetzt hat die Fondazione Caritro es gekauft und vereint es wieder mit seinem Gegenstück.",
+          "body": [
+            "Mehr als 40 Jahre lang hat der Kunsthistoriker Fernando Mazzocca nach einem Bild von Francesco Hayez (1791 bis 1882) gesucht, das er schon für zerstört hielt. Nun ist „Venere che conduce Elena a Paride“ (Venus führt Helena zu Paris) wieder aufgetaucht. Die Fondazione Caritro aus Trient hat es über das Wiener Auktionshaus Dorotheum erworben, berichtet Finestre sull'Arte.",
+            "Das Dorotheum hatte 2025 eine Ausfuhrgenehmigung für das Gemälde beantragt, das in Rom aufbewahrt wurde. Stattdessen stellte der italienische Staat es unter Schutz, sodass es das Land nicht verlassen durfte. Mazzocca hatte in seinem Gutachten vom Februar 2025 sogar empfohlen, es für die Pinacoteca di Brera anzukaufen, und nannte es ein „großartiges unveröffentlichtes Gemälde“.",
+            "Auftraggeber war der Trentiner Graf Girolamo Malfatti, der bei Hayez zwei mythologische Bilder bestellte. Das andere, die berühmte „Venus, die mit zwei Tauben spielt“, entstand ein Jahr früher und gehört bereits der Fondazione Caritro, die es als Leihgabe im Mart in Rovereto zeigt. Mit dem Kauf sind die beiden Gegenstücke nun wieder in einer Sammlung.",
+            "Bekannt war das 149,8 mal 203,8 Zentimeter große Bild bisher nur durch einen Stich von Carlo Della Rocca im Almanach der Brera-Ausstellung von 1831, dem einzigen Jahr, in dem es öffentlich gezeigt wurde. „Ich habe diesem Bild seit der Hayez-Ausstellung 1983 nachgejagt, man kann sagen ein Leben lang“, sagt Mazzocca. Das Gemälde soll nun restauriert werden."
+          ],
+          "highlight": "Bekannt war das 149,8 mal 203,8 Zentimeter große Bild bisher nur durch einen Stich von Carlo Della Rocca im Almanach der Brera-Ausstellung von 1831, dem einzigen Jahr, in dem es öffentlich gezeigt wurde.",
+          "assessment": [
+            "Hayez ist hierzulande vor allem durch „Der Kuss“ bekannt, in Italien aber der zentrale Maler der Romantik. Dass ein großformatiges Hauptwerk fast 200 Jahre im Privatbesitz verschwand, zeigt, wie viel Kunstgeschichte noch in Wohnzimmern hängt.",
+            "Bemerkenswert finde ich den Weg: Erst der Exportantrag hat das Bild sichtbar gemacht, und das italienische Schutzrecht hat verhindert, dass es ins Ausland verschwindet. Dass es nun wieder neben seinem Gegenstück hängen kann, ist ein seltenes gutes Ende."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/arte-moderna/riemerge-un-capolavoro-di-francesco-hayez-creduto-perso-la-fondazione-caritro-lo-riporta-a-trento"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/francesco-hayez-venere-conduce-elena-a-paride-d.jpg",
+            "alt": "Francesco Hayez, „Venus führt Helena zu Paris“ (1831), Ausschnitt",
+            "credit": "Finestre sull'Arte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/arte-moderna/riemerge-un-capolavoro-di-francesco-hayez-creduto-perso-la-fondazione-caritro-lo-riporta-a-trento"
+          }
+        }
+      ]
+    }
+  ]
+}

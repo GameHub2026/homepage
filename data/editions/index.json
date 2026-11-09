@@ -1,5 +1,38 @@
 [
   {
+    "nr": 33,
+    "date": "2026-11-09",
+    "updated": "2026-11-09T07:50:21+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Jensen Huang gesteht die Affäre, der Verwaltungsrat lässt ermitteln",
+      "Elvis und Eminem gegen Suno: Zwei neue Klagen wegen KI-Stimmenklonen",
+      "Apple drückt aufs Tempo: Siri soll zum echten KI-Agenten werden",
+      "TSMC soll an 3D-DRAM arbeiten und damit ins Speichergeschäft drängen",
+      "Nach den Midterms: Rechenzentren werden zum Wahlthema, Musk steht mit leeren Händen da",
+      "World of Warcraft: Forever ist der größte Start in der Geschichte des Spiels",
+      "Mass Effect retten? BioWare-Mitgründer schätzt die Kosten auf über 200 Millionen Dollar",
+      "Epic Games Launcher kommt offiziell auf SteamOS",
+      "Unbestätigt: Das Ocarina-of-Time-Remake enthält Daten für die Master Quest",
+      "Über Among Us gerettet: Vermisste Jugendliche vertraut sich einem Kontakt im Spiel an",
+      "Kinowochenende: Ramayana startet gewaltig, der Kater mit Hut lahmt, Godzilla bleibt vorn",
+      "„You Can See Everything“ räumt bei den Critics Choice Documentary Awards ab und wird zum Kassenphänomen",
+      "Denis Villeneuve: „Ich kann etwas mit einem Prompt erschaffen oder mit Schauspielern in die Wüste gehen“",
+      "Zweiter Trailer zu „Cliff Booth“: Fincher und Tarantino stellen die Bruce-Lee-Szene in den Mittelpunkt",
+      "Andy Serkis über die Rückkehr zu Gollum: „Es war verrückt“",
+      "„Gangs of London“-Regisseur Kim Hong-sun dreht Martial-Arts-Film „The Hit List“ mit Jung Woo-sung",
+      "Bei Colmar: Gräber germanischer Anführer mit Prunkwaffen und Pferden aus dem 5. Jahrhundert",
+      "Michelangelo malte das Jüngste Gericht mit selbstgebauten Kammpinseln",
+      "Herculaneum: Zwei römische Häuser öffnen nach Jahrzehnten wieder, erstmals mit Blick vom Obergeschoss",
+      "Verschollenes Hayez-Gemälde aufgetaucht: „Venus führt Helena zu Paris“ kehrt nach Trient zurück"
+    ]
+  },
+  {
     "nr": 32,
     "date": "2026-11-08",
     "updated": "2026-11-08T07:48:25+01:00",
