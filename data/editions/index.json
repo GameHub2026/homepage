@@ -1,5 +1,39 @@
 [
   {
+    "nr": 34,
+    "date": "2026-11-10",
+    "updated": "2026-11-10T07:49:47+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Anthropic bringt Claude Fable 5.2 und Mythos 5.2: billiger, schneller, aber schwerer zu prüfen",
+      "Anthropic kauft Gasturbinen für 3,4 Milliarden Dollar und hält am Börsengang fest",
+      "Neu im Fall Nvidia: Erste Sammelklage, Kurssturz und eine Warnung, die schon im Mai kam",
+      "Claude Code verteilt Passwörter und API-Schlüssel auf GitHub",
+      "Microsoft steigt aus Rechenzentrumsverträgen aus, auch bei Oracle",
+      "Take-Two: Umsatz sinkt, aber GTA 6 übertrifft schon vor dem Start alle Erwartungen",
+      "N7-Tag nach dem Aus von BioWare: Die Mass-Effect-Besetzung kämpft für die Serie",
+      "Tripwire entlässt 36 Mitarbeiter, zum zweiten Mal in diesem Jahr",
+      "Warhammer 40.000: Dark Heresy erscheint am 28. Januar",
+      "Masahiro Sakurai über generative KI: „Sie hat mein Vertrauen noch nicht gewonnen“",
+      "Beben bei DC: James Gunn und Peter Safran müssen gehen, Marvel-Veteran Jeremy Latcham übernimmt",
+      "Skydance-Bilanz: Warner-Filme kosten 200 Millionen, HBO Max und Paramount+ kommen 2027 im Paket",
+      "„Ebenezer“: Erste Reaktionen loben Johnny Depp als Scrooge",
+      "Camerimage widmet sich der KI, und die Kameraleute sind verzweifelt",
+      "„Clueless“-Serie: Breckin Meyer kehrt als Travis zurück und schreibt mit",
+      "Toukie Smith ist tot: Die Schauspielerin aus „227“ und „Miami Vice“ wurde 74",
+      "Alt-Dongola: Archäologen legen den Originalboden von Nubiens größter Kathedrale frei",
+      "Rob Roys Grabstein ist bis zu tausend Jahre älter als der Gesetzlose",
+      "Nazca-Kultur: Säugling mit Zyklopie wurde wie alle anderen Kinder bestattet",
+      "Menschenopfer, aber kaum Gewalt: Ein Rätsel aus dem Lambayeque-Tal in Peru",
+      "Hippos am See Genezareth: Eine Kathedrale mit zwei Taufkapellen"
+    ]
+  },
+  {
     "nr": 33,
     "date": "2026-11-09",
     "updated": "2026-11-09T07:50:21+01:00",
