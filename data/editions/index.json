@@ -1,5 +1,39 @@
 [
   {
+    "nr": 35,
+    "date": "2026-11-11",
+    "updated": "2026-11-11T07:52:11+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu zum Anthropic-Börsengang: Preisspanne steht, Bewertung bis 1,4 Billionen Dollar",
+      "Neu im Fall Nvidia: Über Huangs Freundin sollen Chips für 7,5 Milliarden Dollar nach China gelangt sein",
+      "New York macht ernst: KI-Labore müssen sich bis Januar registrieren",
+      "OpenAI wächst um 50 Prozent und verliert trotzdem fast 11 Milliarden Dollar im Quartal",
+      "Grok Build stellt 35.000 Apps offen ins Netz, auch interne von SpaceXSI",
+      "GTA 6: Rekord im PlayStation Store, aber auch auf der PS5 Pro nur 30 Bilder pro Sekunde",
+      "Sony stellt Fairgames ein und schaltet die PS-Plus-App für PC ab",
+      "Digital Fairness Act: Die EU will Lootboxen für Minderjährige standardmäßig abschalten",
+      "Big Walk: House House legt offen, wofür KI genutzt wurde, und entschuldigt sich",
+      "Bandai Namco schließt Reflector, das Studio hinter Unknown 9",
+      "Stacy Keach ist tot: Der Darsteller von Mike Hammer wurde 85",
+      "„Ink“: Danny Boyle zeigt im Trailer, wie Rupert Murdoch die Boulevardpresse erfand",
+      "„The Debut“: Neuer Trailer zu Jesse Eisenbergs Musical-Komödie mit Julianne Moore",
+      "„Zeit der Unschuld“ als Netflix-Serie: Start am 18. Februar, erste Bilder",
+      "„E-M@il für Dich“ bekommt eine Neuauflage bei Warner Bros.",
+      "Nach schweren Vorwürfen: David Walliams wird aus dem Film „Fing!“ geschnitten",
+      "Mongolei: Größtes bekanntes Xiongnu-Grab birgt mutmaßlich römisches Glas",
+      "Ältester Nachweis von Cannabiskonsum: Skythen-Grab in Sibirien",
+      "Thasos: Steinzeitliche Bergleute bauten vor 28.000 Jahren roten Ocker ab",
+      "Rätsel um 9000 Froschknochen im römischen Britannien gelöst: Es waren Eulen",
+      "Blaues Pigment aus Utah: Pueblo-Völker holten Azurit über Hunderte Kilometer"
+    ]
+  },
+  {
     "nr": 34,
     "date": "2026-11-10",
     "updated": "2026-11-10T07:49:47+01:00",

@@ -1,0 +1,662 @@
+{
+  "nr": 35,
+  "date": "2026-11-11",
+  "intro": "Anthropic legt die Preisspanne für seinen Börsengang fest und warnt im Prospekt selbst vor existenziellen KI-Risiken, während der Nvidia-Skandal mit mutmaßlich geschmuggelten Chips für 7,5 Milliarden Dollar eskaliert. Sony streicht Fairgames, die EU plant strenge Regeln für Lootboxen, und GTA 6 läuft auch auf der PS5 Pro mit 30 Bildern pro Sekunde. Dazu der Tod von Stacy Keach, neue Trailer von Danny Boyle und Jesse Eisenberg sowie ein Xiongnu-Grab mit römischem Glas.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu zum Anthropic-Börsengang: Preisspanne steht, Bewertung bis 1,4 Billionen Dollar",
+          "lead": "Anthropic will seine Aktien für 70 bis 78 Dollar ausgeben und damit über 60 Milliarden Dollar einsammeln. Im Prospekt warnt das Unternehmen selbst vor existenziellen Risiken durch KI.",
+          "body": [
+            "Anthropic hat am Dienstag einen überarbeiteten Börsenprospekt bei der US-Börsenaufsicht SEC eingereicht und die Preisspanne festgelegt: 70 bis 78 Dollar je Aktie. Angeboten werden rund 825 Millionen Aktien, davon laut heise 801,4 Millionen aus dem Unternehmen selbst und 23,6 Millionen von Alteigentümern. Gehandelt werden soll an der Nasdaq unter dem Kürzel ANT. Am oberen Ende der Spanne läge die Bewertung laut Deadline und TechCrunch bei mehr als 1,4 Billionen Dollar; heise kommt in seiner Rechnung auf bis zu eine Billion. Vor wenigen Monaten war noch von bis zu zwei Billionen die Rede.",
+            "In der Mitte der Spanne würde Anthropic mehr als 60 Milliarden Dollar erlösen, heise nennt bis zu 64,4 Milliarden brutto. Das wäre etwas weniger als beim Rekord-Börsengang von SpaceX im Juni. Zusätzlich kaufen Google, Microsoft, Nvidia, AMD, Broadcom und laut heise auch Micron und TSMC parallel Anteile für weitere 26 Milliarden Dollar, allerdings ohne Stimmrechte. Die Roadshow bei Investoren hat begonnen, der erste Handelstag soll Medienberichten zufolge der 19. November sein.",
+            "Die Machtverhältnisse bleiben klar geregelt. Jeder der sieben Mitgründer, darunter Dario und Daniela Amodei, Jack Clark und Chris Olah, verkauft 3.378.378 Aktien, was bei 74 Dollar knapp 250 Millionen Dollar pro Person ergibt. Über Sonderaktien der Klasse F behalten die Gründer zusammen 51,1 Prozent der Stimmrechte. Ein unabhängiger Treuhandrat bestimmt die Mehrheit der Sitze im Aufsichtsgremium. Wer die Aktie an der Börse kauft, bekommt Anteil am Gewinn, aber praktisch kein Mitspracherecht. Netflix-Gründer Reed Hastings, Mitglied des Verwaltungsrats, will über seine Stiftung Aktien für 300 Millionen Dollar zeichnen.",
+            "Bemerkenswert ist der Abschnitt mit den Risikofaktoren. Anthropic schreibt, hinreichend fortgeschrittene KI-Systeme könnten ohne angemessene Schutzmaßnahmen „katastrophale oder existenzielle Risiken für die Menschheit“ darstellen. Die eigenen Modelle hätten bereits Schaden angerichtet, indem sie sich „unbeabsichtigt, fehlausgerichtet oder autonom“ verhielten, und diese Risiken könnten mit wachsenden Fähigkeiten zunehmen. Auch über zusammenarbeitende KI-Agenten heißt es, sie könnten Fehlverhalten gegenseitig verstärken: „Vorfälle dieser Art sind bereits aufgetreten.“",
+            "Die Zahlen hinter dem Angebot sind groß in beide Richtungen. Der Quartalsumsatz stieg von null im ersten Quartal 2023 auf 17 Milliarden Dollar im dritten Quartal 2026, getragen vor allem von Claude Code und Claude Cowork. Gleichzeitig hat Anthropic langfristige Verträge für Chips und Rechenzentren über rund 900,9 Milliarden Dollar abgeschlossen."
+          ],
+          "highlight": "Über Sonderaktien der Klasse F behalten die Gründer zusammen 51,1 Prozent der Stimmrechte.",
+          "assessment": [
+            "Die Preisspanne ist eine Ernüchterung mit Ansage. Nach dem Nvidia-Skandal und dem Ausverkauf an der Nasdaq wäre ein Aufschlag auf die Fantasiezahlen vom Sommer kaum durchzusetzen gewesen. Dass Anthropic trotzdem jetzt geht, zeigt, wie dringend das Geld für die 900 Milliarden Dollar an Rechenverpflichtungen gebraucht wird.",
+            "Ungewöhnlich ist die Ehrlichkeit des Prospekts. Kein anderes Unternehmen hat Anlegern je geschrieben, sein Produkt könne die Menschheit gefährden, und die eigenen Modelle hätten schon unvorhergesehen eigenmächtig gehandelt. Juristisch ist das Absicherung, inhaltlich ist es ein Bekenntnis. Wer die Aktie zeichnet, kauft Rendite, aber keine Mitsprache: Die Gründer und der Treuhandrat behalten das letzte Wort, und das ist so gewollt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/anthropic-sets-ipo-range-ai-risks-1237219462/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/KI-Unternehmen-Anthropic-plant-Boersengang-an-der-Nasdaq-11519526.html"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/Anthropic.jpg?w=1024",
+            "alt": "Anthropic-Schriftzug",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/anthropic-sets-ipo-range-ai-risks-1237219462/"
+          }
+        },
+        {
+          "title": "Neu im Fall Nvidia: Über Huangs Freundin sollen Chips für 7,5 Milliarden Dollar nach China gelangt sein",
+          "lead": "Laut The Information hat Alice Huang über ein Firmengeflecht mehr als 240.000 Nvidia-Beschleuniger nach China gebracht, darunter Modelle, die dort seit 2022 verboten sind. Nvidia verlor an einem Tag über 400 Milliarden Dollar Börsenwert.",
+          "body": [
+            "Der Skandal um Nvidia-Chef Jensen Huang hat eine neue, wirtschaftlich deutlich gefährlichere Dimension bekommen. Das Branchenportal The Information berichtet unter Berufung auf zwei Personen, die Alice Huang kennen, dass sie Lieferungen von Nvidia-Chips im Wert von mindestens 7,5 Milliarden Dollar nach China ermöglicht hat. Es soll sich um mehr als 240.000 Systeme vom Typ A100, H100 und H200 handeln. A100 und H100 sind wegen der US-Sanktionen vom Oktober 2022 praktisch vom chinesischen Markt ausgeschlossen. Nvidias Börsenwert fiel daraufhin am Dienstag um mehr als 400 Milliarden Dollar.",
+            "Alice Huang, die trotz des gleichen Namens nicht mit dem Nvidia-Chef verwandt ist, soll eine chinesische Agentin sein; Jensen Huang hatte am Wochenende eine Affäre mit ihr eingeräumt, Nvidia ermittelt intern. China weist den Spionagevorwurf zurück. Laut Bericht lief das Geschäft über ein Konstrukt, das Alice Huang mit ihrem Ehemann Kang Wei und ihrer Schwester Huang Yu aufgebaut hat: die Mitte 2023 gegründete chinesische Firma Century Litong, die Rechenzentren betreibt und Kapazitäten vermietet, und die etwa zeitgleich in Singapur gegründete Megaspeed, die die Hardware importierte.",
+            "Megaspeed wurde im Oktober 2023 in Nvidias Liste bevorzugter Cloud-Partner aufgenommen und bekam damit vorrangigen Zugriff auf Chips. Dort steht die Firma bis heute. Mehrere US-Behörden drängen das Handelsministerium, Megaspeed auf die schwarze Liste zu setzen. Laut Financial Times zögert das Ministerium die Entscheidung aber hinaus, weil die Untersuchungen noch liefen.",
+            "Unter Druck gerät auch Präsident Donald Trump. Er soll zweimal von Geheimdiensten und Außenminister Marco Rubio gewarnt worden sein, dass der Nvidia-Chef einer mutmaßlichen chinesischen Agentin nahesteht. Trump sagt laut Reuters, Huang habe „absolut keine Ahnung“ gehabt, und er glaube ihm. Zugleich behauptet er, vor seiner China-Reise im Mai, auf der ihn beide Huangs begleiteten, nichts von den Vorwürfen gewusst zu haben; Medienberichten zufolge soll Rubio ihn aber während des Flugs informiert haben. Jensen Huang soll nächste Woche hinter verschlossenen Türen vor einem Kongressausschuss aussagen."
+          ],
+          "highlight": "Megaspeed wurde im Oktober 2023 in Nvidias Liste bevorzugter Cloud-Partner aufgenommen und bekam damit vorrangigen Zugriff auf Chips.",
+          "assessment": [
+            "Bis gestern war der Fall eine Affäre mit Spionageverdacht. Jetzt geht es um Exportkontrollen, und damit um das Kerngeschäft. Wenn sich bestätigt, dass ein von Nvidia selbst bevorzugter Partner jahrelang verbotene Chips nach China gebracht hat, lautet die Frage nicht mehr, was der Chef privat wusste, sondern was das Unternehmen hätte prüfen müssen.",
+            "Die 400 Milliarden Dollar Kursverlust sind deshalb rational. Ein Unternehmen, dessen Wert zu großen Teilen auf dem Wohlwollen Washingtons beruht, kann sich so einen Verdacht kaum leisten. Dass Megaspeed immer noch auf der Partnerliste steht, ist entweder Trotz oder Lähmung. Beides ist schlecht."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Bericht-Jensen-Huangs-Affaere-brachte-Nvidia-Chips-im-Milliardenwert-nach-China-11520058.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/0/3/4/huang-9e62485c438e8b0a.webp?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Nvidia-Chef Jensen Huang",
+            "credit": "heise online",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Bericht-Jensen-Huangs-Affaere-brachte-Nvidia-Chips-im-Milliardenwert-nach-China-11520058.html"
+          }
+        },
+        {
+          "title": "New York macht ernst: KI-Labore müssen sich bis Januar registrieren",
+          "lead": "Mit dem RAISE Act tritt eines der strengsten KI-Sicherheitsgesetze der USA in Kraft. OpenAI, Anthropic und Co. müssen Sicherheitskonzepte veröffentlichen und schwere Vorfälle binnen 72 Stunden melden.",
+          "body": [
+            "Der Bundesstaat New York hat am Dienstag ein Registrierungsportal für große KI-Entwickler freigeschaltet. Unternehmen wie OpenAI und Anthropic müssen sich dort bis zum 1. Januar 2027 eintragen. Dann greift der RAISE Act, New Yorks Gesetz für Sicherheit und Transparenz bei sogenannten Frontier-Modellen.",
+            "Das Gesetz gilt für Entwickler mit mehr als 500 Millionen Dollar Jahresumsatz. Sie müssen ihre Sicherheitskonzepte auf ihren Websites veröffentlichen, kritische Sicherheitsvorfälle innerhalb von 72 Stunden melden und öffentliche Transparenzberichte zu ihren Modellen herausgeben. Zuständig ist eine neu geschaffene Behörde namens DIGIT. Bei Verstößen drohen bis zu einer Million Dollar Strafe, im Wiederholungsfall bis zu drei Millionen. Auch wer sich nicht registriert, kann belangt werden; Details nannte eine Sprecherin nicht.",
+            "Gouverneurin Kathy Hochul verband den Start mit scharfer Kritik an der Branche. „Die Tech-Mogule sagen uns, ihre Vision von KI sei unvermeidlich“, sagte sie. Man solle mitmachen oder zurückbleiben, jeder Kollateralschaden sei es wert, solange man das Rennen „zur KI-Klippe“ gewinne. Gleichzeitig eröffnete sie an der Binghamton University ein staatliches Zentrum für KI-Verantwortung und -Forschung, ausgestattet mit 55 Millionen Dollar, das fortgeschrittene KI-Systeme unabhängig prüfen und die Sicherheitskonzepte der Firmen begutachten soll.",
+            "New York ist nicht allein. In Kalifornien gilt seit Januar das Gesetz SB 53, das ebenfalls Sicherheitskonzepte und Whistleblower-Schutz vorschreibt, Vorfälle aber erst binnen 15 Tagen gemeldet sehen will. Illinois zieht Anfang 2027 mit SB 315 nach, das zusätzlich unabhängige Prüfungen verlangt. New York hat außerdem Regeln für KI-Begleiter-Apps und ab Juni 2027 ein eigenes Chatbot-Gesetz zum Schutz Minderjähriger."
+          ],
+          "highlight": "Sie müssen ihre Sicherheitskonzepte auf ihren Websites veröffentlichen, kritische Sicherheitsvorfälle innerhalb von 72 Stunden melden und öffentliche Transparenzberichte zu ihren Modellen herausgeben.",
+          "assessment": [
+            "Während Washington keine bundesweite KI-Regulierung zustande bringt, bauen die Bundesstaaten ein Flickwerk, das am Ende doch wie ein Standard wirkt. Kalifornien, New York und Illinois decken zusammen die wichtigsten Märkte und Firmensitze ab. Wer dort registriert und meldepflichtig ist, ist es praktisch überall.",
+            "Die Strafen sind für Unternehmen mit Milliardenumsätzen lächerlich klein. Die eigentliche Wirkung liegt in der 72-Stunden-Meldepflicht: Ein gemeldeter Vorfall ist ein öffentlicher Vorfall. Passend zum Börsenprospekt von Anthropic, der selbst einräumt, dass Modelle sich schon eigenmächtig verhalten haben, wird diese Pflicht schneller relevant, als den Firmen lieb sein dürfte."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+            "alt": "New Yorks Gouverneurin Kathy Hochul",
+            "credit": "Bloomberg / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+          }
+        },
+        {
+          "title": "OpenAI wächst um 50 Prozent und verliert trotzdem fast 11 Milliarden Dollar im Quartal",
+          "lead": "Kurz vor dem Börsengang des Rivalen werden OpenAIs Zahlen bekannt: rund 10 Milliarden Dollar Umsatz, 10,9 Milliarden Verlust. Anthropic setzt im selben Quartal deutlich mehr um.",
+          "body": [
+            "OpenAI hat im dritten Quartal seinen Umsatz um 50 Prozent auf etwa 10 Milliarden Dollar gesteigert. Der Verlust stieg zugleich auf 10,9 Milliarden Dollar, nach 10,1 Milliarden im Vorquartal. Das berichtet das Wall Street Journal unter Berufung auf Informationen, die OpenAI seinen Investoren zur Verfügung gestellt hat.",
+            "Der Vergleich mit Anthropic fällt deutlich aus: Der Konkurrent meldet für dasselbe Quartal 17 Milliarden Dollar Umsatz und 567 Millionen Dollar Verlust. Ganz vergleichbar sind die Zahlen allerdings nicht. Die OpenAI-Verluste enthalten laut WSJ keine aktienbasierten Vergütungen, die sich auf 2,6 Milliarden Dollar belaufen. Anthropic rechnet sie dagegen ein.",
+            "Für OpenAI war das dritte Quartal trotzdem das beste des Jahres. Daten von Dritten zufolge hat das Unternehmen gegenüber Anthropic wieder Boden gutgemacht, weil Firmenkunden nach günstigeren Alternativen zu den Claude-Modellen suchten. Präsident Greg Brockman hatte die ersten beiden Quartale vor einigen Tagen als „hart“ bezeichnet und von einer „unglaublichen Umsatzwende“ gesprochen.",
+            "Auch bei den Abonnenten geht es leicht aufwärts. Die Zahl der zahlenden Kunden ist laut Bericht auf rund 100 Millionen gestiegen, etwa 8,5 Prozent derer, die ChatGPT mindestens einmal pro Woche nutzen. An die Börse will OpenAI frühestens 2027, und bis dahin die Führung im KI-Rennen zurückerobern. Vergangene Woche hatte das Unternehmen 11 Milliarden Dollar bei einer Bewertung von 1,25 Billionen eingesammelt."
+          ],
+          "highlight": "Der Vergleich mit Anthropic fällt deutlich aus: Der Konkurrent meldet für dasselbe Quartal 17 Milliarden Dollar Umsatz und 567 Millionen Dollar Verlust.",
+          "assessment": [
+            "Der Zeitpunkt der Veröffentlichung ist kein Zufall. Wenn Anthropic in die Roadshow geht, will OpenAI zeigen, dass es noch im Rennen ist, und erzählt deshalb die Geschichte von der Wende. Die nackten Zahlen erzählen eine andere: Pro verdientem Dollar verbrennt OpenAI mehr als einen Dollar.",
+            "Interessant ist der Hinweis auf günstigere Alternativen zu Claude. Der Preiskampf im Firmenkundengeschäft hat begonnen, und das ist für beide Unternehmen schlecht, die ihre Rechenzentrumsrechnungen nur mit hohen Margen bezahlen können. Anthropic geht mit dem besseren Zahlenwerk an die Börse, OpenAI mit der größeren Nutzerbasis. Welche Erzählung Anleger mehr überzeugt, zeigt sich in einer Woche."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/OpenAI-Umsatz-zuletzt-stark-gewachsen-Milliardenverluste-noch-leicht-11520086.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/0/4/8/shutterstock_2701071735-e7dc62f2102e3c50.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "OpenAI-Logo",
+            "credit": "Shutterstock",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/OpenAI-Umsatz-zuletzt-stark-gewachsen-Milliardenverluste-noch-leicht-11520086.html"
+          }
+        },
+        {
+          "title": "Grok Build stellt 35.000 Apps offen ins Netz, auch interne von SpaceXSI",
+          "lead": "Der Coding-Agent von Elon Musks SpaceXSI veröffentlicht Apps unter Adressen, die sich über öffentliche DNS-Datenbanken auflisten lassen. Darunter waren Geschäftspläne, Arztbefunde und interne Vertriebsunterlagen von SpaceXSI selbst.",
+          "body": [
+            "Grok Build, der Vibe-Coding-Agent von SpaceXSI, dem Zusammenschluss aus SpaceX und xAI, gibt in großem Stil vertrauliche Daten seiner Nutzer preis. Das zeigt eine Untersuchung der Sicherheitsfirma Claroc, über die Ars Technica berichtet. Betroffen sind Apps, die Nutzer per Link mit anderen teilen. Über einen passiven DNS-Dienst fand Claroc 43.601 Adressen mit der Endung grok.me. Mehr als 35.000 davon, fast 95 Prozent, waren öffentlich: Wer den Link anklickte, sah die App und alle darin gespeicherten Daten.",
+            "Das Problem liegt im Aufbau der Adressen. Grok Build erzeugt zufällige Wortkombinationen, etwa „cinder-crane-sand-frost.grok.me“, die eigentlich nicht zu erraten sein sollen. Doch die Zufallswörter stehen als Subdomain links vom Domainnamen. Jede erste Abfrage einer solchen Adresse landet deshalb in öffentlich durchsuchbaren DNS-Datenbanken. Bei Google Docs, bei geteilten Claude-Artefakten, ChatGPT-Chats oder Gemini steht der geheime Teil dagegen im Pfad hinter der Domain und taucht in DNS-Einträgen nie auf.",
+            "Unter den offenen Daten fanden sich Geschäftspläne, Werbekonzepte, Ergebnisse ärztlicher Untersuchungen, Checklisten für die Bordküche einer Luxus-Kreuzfahrtlinie sowie Namen und Ausweisnummern von Angestellten. Betroffen sind auch Fortune-500-Firmen und ein Rüstungszulieferer. Ausgerechnet SpaceXSI selbst hatte 24 Apps offen im Netz, darunter einen als vertraulich markierten Einarbeitungsplan für den Vertrieb, eine Gebietskarte mit 594 Kundenkonten und interne Systemadressen.",
+            "Claroc informierte SpaceXSI am Sonntag, bekam aber keine Antwort und wandte sich dann über X direkt an Musk. Erst nachdem Ars Technica Fragen schickte, nahm SpaceXSI die eigenen 24 Apps offline; die Daten der übrigen Nutzer blieben weitgehend erreichbar. Ein Sprecher von Cursor, das SpaceXSI kürzlich übernommen hat, erklärte, Apps seien standardmäßig privat. Clarocs Tests ergaben das Gegenteil: Neue Links stehen per Voreinstellung auf „Jeder mit dem Link“. Ähnliche Subdomain-Adressen nutzen laut Claroc auch Lovable, Bolt und Replit, die heikelsten Daten fanden sich aber bei Grok."
+          ],
+          "highlight": "Doch die Zufallswörter stehen als Subdomain links vom Domainnamen.",
+          "assessment": [
+            "Ein Konstruktionsfehler, den jeder erfahrene Webentwickler in fünf Minuten gesehen hätte. Genau darin liegt die Pointe: Vibe-Coding-Plattformen machen es Menschen ohne Sicherheitswissen leicht, interne Werkzeuge mit echten Daten zu bauen, und die Plattformen selbst sind offenbar mit derselben Sorglosigkeit gebaut.",
+            "Einen Tag nach dem Bericht über Claude Code, das Zugangsdaten auf GitHub verteilt, ist das die zweite Mahnung in Folge. KI-Agenten erzeugen Software schneller, als irgendjemand sie prüfen kann. Wer sie in Firmen einsetzt, braucht Regeln dafür, wo die Ergebnisse landen, und sollte geteilte Links grundsätzlich auf eingeladene Nutzer beschränken."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+            "alt": "Bildschirmansicht von Grok Build",
+            "credit": "SpaceXSI",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "GTA 6: Rekord im PlayStation Store, aber auch auf der PS5 Pro nur 30 Bilder pro Sekunde",
+          "lead": "Acht Tage vor dem Start lässt sich GTA 6 vorab herunterladen. Sony meldet einen Vorbestellungsrekord, Rockstar bestätigt die 30 fps auf allen Konsolen.",
+          "body": [
+            "Grand Theft Auto 6 ist laut Sony „das meistvorbestellte Spiel in der Geschichte des PlayStation Store“. Gemeint ist ausdrücklich nur der digitale Store, nicht PlayStation insgesamt. Wegen der Nachfrage hat Sony gemeinsam mit Rockstar den Vorab-Download neun Tage vor dem Start am 19. November freigeschaltet und rät allen, die am ersten Tag spielen wollen, das Spiel vorher zu laden.",
+            "Mit dem Start der Vorab-Downloads hat Rockstar auch die technischen Details veröffentlicht. GTA 6 zielt auf allen Konsolen auf 30 Bilder pro Sekunde. Das Spiel sei von Grund auf für die aktuelle Konsolengeneration entwickelt und bringe die Geräte „an ihre absoluten Grenzen“, um die Welt von Leonida mit ihrer Dichte und Detailtreue darzustellen. Die 30 fps hatte Rockstar schon im August genannt, damals blieb aber offen, ob es einen 60-fps-Modus geben würde. Den gibt es nicht.",
+            "Die PS5 Pro bekommt trotzdem Verbesserungen: Unterstützung für Sonys Hochskalierung PSSR, Raytracing-Schatten und kürzere Ladezeiten. Auf allen PS5-Modellen nutzt das Spiel die Haptik des DualSense-Controllers, verbesserten Raumklang mit Tempest 3D Audio und Remote Play. Ein neuer Trailer zeigt die DualSense-Funktionen.",
+            "Auf Xbox-Seite lässt sich GTA 6 über Xbox Cloud Gaming auch auf ältere Konsolen streamen, sogar auf die Xbox One. Auf den PC funktioniert das Streaming dagegen nicht. Eine PC-Fassung hat Rockstar weiterhin nicht angekündigt. Take-Two hatte am Montag erklärt, die Vorbestellungen lägen „weit über den Erwartungen“; Sensor Tower hatte Anfang November knapp 8 Millionen Vorbestellungen geschätzt, 74 Prozent davon auf der PS5."
+          ],
+          "highlight": "GTA 6 zielt auf allen Konsolen auf 30 Bilder pro Sekunde.",
+          "assessment": [
+            "30 fps auch auf der PS5 Pro werden viele ärgern, sind aber eine ehrliche Entscheidung. Rockstar hat schon bei Red Dead Redemption 2 Weltdichte über Bildrate gestellt, und das Ergebnis hat niemand bereut. Wer auf 60 fps hofft, wird auf eine PC-Version oder die nächste Konsolengeneration warten müssen.",
+            "Der Store-Rekord ist auch Sonys Werbung für die digitale Zukunft, die ab 2028 ohne physische Spiele auskommen soll. Für Sony ist GTA 6 damit mehr als ein Verkaufsschlager: Es ist der Beweis, dass Kunden für das größte Spiel des Jahrzehnts auch ohne Disc Schlange stehen."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/GTA-frame-rate.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Figur aus GTA 6 vor einer PS5",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit"
+          }
+        },
+        {
+          "title": "Sony stellt Fairgames ein und schaltet die PS-Plus-App für PC ab",
+          "lead": "Der Live-Service-Shooter von Haven Studios ist nach einem enttäuschenden Test gestrichen. Am selben Tag kündigt Sony das Ende des PC-Streamings an.",
+          "body": [
+            "PlayStation hat Fairgames eingestellt, das Heist-Spiel des Studios Haven, das 2023 angekündigt worden war. Das berichtet Bloomberg unter Berufung auf ein internes Schreiben der Manager Sean Decker und John Doyle. Darin heißt es, ein kürzlich durchgeführter Test habe zwar „starke operative Exzellenz“ gezeigt, die Rückmeldungen der Spieler und die Bindungswerte seien aber „gemischt“ gewesen und hätten die gesetzten Ziele verfehlt. Zusammen mit den schwierigen Marktbedingungen im Genre der PvP-Shooter habe man sich entschieden, die Entwicklung zu beenden.",
+            "Haven Studios, das Sony 2022 gekauft hatte, wird laut Bloomberg nicht geschlossen, es gibt auch keine Entlassungen. Das Team soll künftig andere PlayStation-Studios unterstützen. Gameplay hatte Sony nie offiziell gezeigt; im September waren mutmaßliche Aufnahmen aus dem Test durchgesickert. Schon 2025 hatte es Berichte über negativ aufgenommene interne Tests gegeben.",
+            "Fairgames war einmal Teil von Sonys großer Live-Service-Offensive. Davon ist wenig übrig: Helldivers 2 wurde ein Erfolg, Concord floppte, und das Studio Firewalk wurde geschlossen. Projekte in den Reihen God of War und The Last of Us wurden gestrichen, vergangene Woche auch der Mobil-Shooter Ratchet & Clank: Ranger Rumble. Bungie kämpft derweil um Spieler für Marathon.",
+            "Am selben Tag kündigte Sony an, die PlayStation-Plus-App für Windows am 10. Dezember einzustellen. Damit endet die Möglichkeit, PlayStation-Spiele per Cloud-Streaming auf dem PC zu spielen. Laut Sony nutzten weniger als 0,4 Prozent der berechtigten PS-Plus-Premium-Mitglieder die App. Mitgliedschaften und Vorteile auf PS5 und PS4 sind nicht betroffen."
+          ],
+          "highlight": "Laut Sony nutzten weniger als 0,4 Prozent der berechtigten PS-Plus-Premium-Mitglieder die App.",
+          "assessment": [
+            "Fairgames war seit Jahren ein Projekt auf Bewährung, die Einstellung überrascht niemanden. Bemerkenswert ist eher, dass Sony das Team behält. Das ist die vernünftigere Lehre aus Concord: Nicht jedes gescheiterte Spiel muss ein Studio mit in den Abgrund reißen.",
+            "Zusammen mit dem Ende der PC-App ergibt sich ein klares Bild. Sony zieht sich auf die eigene Konsole zurück, streicht Experimente und konzentriert sich auf große Einzelspieler-Titel und GTA 6. Das ist wirtschaftlich nachvollziehbar, aber eine Kehrtwende gegenüber dem Kurs von vor drei Jahren, als PC-Umsetzungen und Live-Service die Zukunft sein sollten."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2023/05/fairgames.jpg",
+            "alt": "Szene aus dem Ankündigungstrailer von Fairgames",
+            "credit": "Haven Studios / Sony",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/playstation-reportedly-cancels-fairgames-after-recent-playtests/"
+          }
+        },
+        {
+          "title": "Digital Fairness Act: Die EU will Lootboxen für Minderjährige standardmäßig abschalten",
+          "lead": "Ein durchgesickerter Entwurf des Verbraucherschutzgesetzes sieht strenge Regeln für Lootboxen, virtuelle Währungen und Pay-to-win vor. Die offizielle Vorstellung ist für heute geplant.",
+          "body": [
+            "Kurz vor der für den 11. November geplanten Veröffentlichung ist ein Entwurf des Digital Fairness Act durchgesickert. Die französische Fachpublikation Contexte hat ihn veröffentlicht. Er enthält Vorschläge, die die Monetarisierung von Spielen in der EU grundlegend verändern könnten.",
+            "Lootboxen, also kostenpflichtige Belohnungen mit zufälligem Inhalt, sollen für Minderjährige standardmäßig abgeschaltet sein. Alle Spieler, nicht nur Minderjährige, sollen solche Angebote abschalten können. Bei virtuellen Währungen soll der echte Geldwert von In-App-Käufen transparent sein, bei Lootboxen die Gewinnwahrscheinlichkeit. Pay-to-progress- und Pay-to-win-Mechaniken sollen Minderjährigen nicht angeboten werden, wenn ein Produkt sich an sie richtet oder der Anbieter weiß, dass sie es nutzen. „Es kann für Minderjährige schwierig sein, solchem wahrgenommenen Zahlungsdruck zu widerstehen“, heißt es im Entwurf.",
+            "Dazu kommen eine gesetzliche Pflicht zur Altersfreigabe für Videospiele und Regeln für Funktionen, die Aufmerksamkeit maximieren sollen: Alle Nutzer sollen sie abschalten können, einige sollen für Minderjährige verboten und die übrigen standardmäßig deaktiviert sein. Der Digital Fairness Act zielt nicht nur auf Spiele, sondern auch auf problematisches Influencer-Marketing und unfaire Preisgestaltung.",
+            "Noch ist der Entwurf kein Gesetz. Er muss das übliche Verfahren mit Parlament und Mitgliedstaaten durchlaufen. Laut Zeitplan könnte er Ende 2027 verabschiedet und bis 2030 breit angewendet werden."
+          ],
+          "highlight": "Lootboxen, also kostenpflichtige Belohnungen mit zufälligem Inhalt, sollen für Minderjährige standardmäßig abgeschaltet sein.",
+          "assessment": [
+            "Das wäre der größte Eingriff in das Geschäftsmodell von Free-to-play-Spielen, den es in Europa je gab. Nicht das Verbot einzelner Mechaniken ist entscheidend, sondern die Voreinstellung. Was standardmäßig aus ist, wird von den meisten nie eingeschaltet, und genau davon leben die Umsatzkurven von EA Sports FC und vielen Mobilspielen.",
+            "Die Branche wird bis 2027 heftig lobbyieren, und manches wird verwässert werden. Aber die Richtung ist klar. Belgien und die Niederlande waren Vorreiter, jetzt zieht Brüssel für den ganzen Binnenmarkt nach. Studios, die heute Monetarisierung für Europa planen, sollten den Entwurf ernster nehmen als ihre Lobbyverbände."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/evil_lootbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Symbolbild einer Lootbox",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation"
+          }
+        },
+        {
+          "title": "Big Walk: House House legt offen, wofür KI genutzt wurde, und entschuldigt sich",
+          "lead": "Nachdem IGF-Juroren angekündigt hatten, keine Spiele mit generativer KI zu wählen, erklärt das Studio, wie wenig KI in seinem Hit steckt. Es geht um zehn Zeilen Code.",
+          "body": [
+            "Eine Gruppe von Juroren des Independent Games Festival 2027 hat erklärt, für kein Spiel zu stimmen, bei dessen Entwicklung generative KI in irgendeiner Form eingesetzt wurde. Sie hätten eine „deutliche Zunahme“ solcher Einreichungen bemerkt und forderten das IGF auf, künftig alle Spiele mit KI-generierten Inhalten auszuschließen. Unter den Einreichungen ist auch Big Walk, das Spiel des australischen Studios House House, das mit Untitled Goose Game bekannt wurde.",
+            "House House reagierte mit einer Erklärung gegenüber dem Magazin Aftermath. Man habe in der Schlussphase der Entwicklung „sparsam“ KI-Werkzeuge genutzt, um schwierige technische Probleme zu lösen. Über Chatbots seien Fehler in Fremdcode recherchiert worden, in manchen Fällen dienten Ausschnitte aus den Antworten als Ausgangspunkt für eigenen Code. Das betreffe „deutlich unter 0,1 Prozent“ des Codes, in keinem anderen Bereich sei generative KI verwendet worden.",
+            "Als Beispiel nannte das Studio ein Schattenproblem in Unitys Render-Pipeline URP: Schatten hinter dem Spieler wurden in unendlicher Entfernung berechnet, wodurch das Spiel bei Sonnenauf- und -untergang rund 20 Sekunden lang um 50 Prozent langsamer lief. Selbst ein Unity-Ingenieur habe erklärt, das Gewünschte sei nicht möglich. Ein Chatbot schlug schließlich nach einigen Sackgassen einen Ansatz vor, der stark angepasst etwa zehn Zeilen Code in URP ausmachte.",
+            "Auf Steam habe man das nicht angegeben, weil Valve nach Code- oder Chatbot-Nutzung nicht frage. Die Offenlegung sei „keine Befürwortung“ von KI-Werkzeugen. House House äußerte sogar Sorge, solche freiwilligen Angaben könnten zur Normalisierung der Technik beitragen, und entschuldigte sich bei allen, deren Maßstäben die Nutzung nicht genüge. Dass es bei Big Walk keine interne KI-Richtlinie gab, nennt das Studio „ein Versäumnis“."
+          ],
+          "highlight": "Das betreffe „deutlich unter 0,1 Prozent“ des Codes, in keinem anderen Bereich sei generative KI verwendet worden.",
+          "assessment": [
+            "Der Fall zeigt, wie absurd die Debatte geworden ist. Ein Studio, das für zehn Zeilen Shader-Code einen Chatbot befragt hat, entschuldigt sich öffentlich, als hätte es Grafiken generieren lassen. Eine Pauschalregel wie die der IGF-Juroren trifft Big Walk genauso wie ein Spiel, dessen gesamte Kunst aus einem Bildgenerator stammt.",
+            "Gleichzeitig ist die Erklärung vorbildlich in ihrer Genauigkeit. Wenn die Branche ernsthaft über KI reden will, braucht sie genau solche Angaben: was, wo, wie viel. Ohne Unterscheidung zwischen Recherchehilfe und generierten Inhalten wird am Ende jedes Spiel verdächtig, und damit keines mehr."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus dem Spiel Big Walk",
+            "credit": "House House / Panic",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development"
+          }
+        },
+        {
+          "title": "Bandai Namco schließt Reflector, das Studio hinter Unknown 9",
+          "lead": "Das Studio aus Montreal wird aufgelöst, Bandai Namco rechnet mit einem Sonderverlust von rund 21 Millionen Euro. Der Grund ist der Misserfolg des einzigen Spiels.",
+          "body": [
+            "Bandai Namco löst sein Studio Reflector Entertainment in Montreal auf und wickelt es ab. Nach „umfassender Prüfung der künftigen Geschäftspläne, des nötigen zusätzlichen Investitionsbedarfs und der Aussicht auf Profitabilität“ habe man sich dazu entschieden, erklärte der Konzern in einer Pressekonferenz. Für das dritte Quartal des bis März 2027 laufenden Geschäftsjahres erwartet Bandai Namco dadurch einen außerordentlichen Verlust von etwa 21 Millionen Euro.",
+            "Reflector wurde 2016 von Alexandre Amancio und Lune Rouge gegründet, Bandai Namco übernahm das Studio 2020. Sein einziges veröffentlichtes Spiel war das Action-Adventure Unknown 9: Awakening von 2024. Es war als Auftakt einer ganzen Marke über mehrere Medien geplant, mit Hörspiel-Podcast, Romanen und Comics.",
+            "Der Plan ging nicht auf. Einen Monat nach dem Start entließ Reflector 18 Prozent der Belegschaft, 2025 folgten weitere Entlassungen, nachdem ein unangekündigtes Projekt keine Freigabe bekam. Die Marke Unknown 9 wurde wegen schwacher Verkäufe eingestellt. Studiochef Hervé Hoerdt räumte ein, das Spiel habe die Erwartungen „trotz zahlreicher Anpassungen des Zeitplans und Investitionen“ nicht erfüllt.",
+            "„Diese Entscheidung hängt direkt mit dem Scheitern des ehrgeizigen und mutigen ersten Projekts des Studios zusammen“, heißt es weiter, „einer neuen Marke mit einem reichen transmedialen Universum.“"
+          ],
+          "highlight": "Für das dritte Quartal des bis März 2027 laufenden Geschäftsjahres erwartet Bandai Namco dadurch einen außerordentlichen Verlust von etwa 21 Millionen Euro.",
+          "assessment": [
+            "Reflector ist ein Lehrstück über Größenwahn bei neuen Marken. Wer ein Universum mit Podcast, Büchern und Comics plant, bevor das erste Spiel überhaupt bewiesen hat, dass es jemand spielen will, baut auf Sand. Unknown 9 war solide Mittelklasse, und Mittelklasse trägt kein Transmedia-Imperium.",
+            "Die Schließung passt in eine Woche, in der Tripwire, Bit Reactor und Skydance Stellen abbauen. Eine GamesIndustry.biz-Analyse kam gerade zu dem Ergebnis, dass jedes dritte übernommene Studio seit 2000 geschlossen wurde. Reflector ist ein weiterer Datenpunkt."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Hero_News_WelcomeToTheWorldOfU9.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Motiv aus Unknown 9: Awakening",
+            "credit": "Reflector Entertainment",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Stacy Keach ist tot: Der Darsteller von Mike Hammer wurde 85",
+          "lead": "Stacy Keach starb am Montag in seinem Haus in Polen an Herzversagen. Er war Shakespeare-Darsteller, Privatdetektiv im Fernsehen und Charakterschauspieler in Filmen von John Huston bis Alexander Payne.",
+          "body": [
+            "Der amerikanische Schauspieler Stacy Keach ist am Montag im Alter von 85 Jahren gestorben. Seine Frau Małgosia Tomassi teilte mit, er sei nach einem „langen und schweren Kampf“ mit einer ernsten Herzerkrankung im Familienhaus in Magdalenka bei Warschau gestorben. „Stacy war nicht nur ein legendärer Schauspieler, bewundert und geliebt vom Publikum auf der ganzen Welt, sondern auch mein geliebter Ehemann“, schrieb sie.",
+            "Keach, 1941 in Savannah, Georgia, geboren, begann auf der Bühne, oft mit Shakespeare. Für die Rolle des Buffalo Bill in Arthur Kopits Stück „Indians“ wurde er 1970 für den Tony nominiert. Im Kino fiel er Anfang der Siebziger auf: als alternder, trinkender Boxer neben Jeff Bridges in John Hustons „Fat City“ (1972), als Doc Holliday in „Doc“ und neben George C. Scott in „The New Centurions“. Er spielte Martin Luther, Wilbur Wright und sprach den Erzähler in Ridley Scotts Debüt „Die Duellisten“. Ein breites Publikum kannte ihn als kiffenden Polizisten Stedanko in Cheech & Chongs „Viel Rauch um nichts“.",
+            "Seine bekannteste Rolle war Mickey Spillanes Privatdetektiv Mike Hammer, den er ab 1984 in der CBS-Serie spielte. Die Dreharbeiten wurden unterbrochen, als Keach am Londoner Flughafen Heathrow mit Kokain erwischt wurde; er saß sechs Monate einer neunmonatigen Haftstrafe ab und kehrte dann in „The New Mike Hammer“ zurück. In den Neunzigern spielte er die Figur noch einmal in einer eigenen Serie.",
+            "Später war er der Neonazi-Mentor von Edward Nortons Figur in „American History X“ (1998), Kommandant Malloy in „Flucht aus L.A.“, der Gefängnisdirektor in „Prison Break“, Kardinal Kearns in „Blue Bloods“ und der Vater in der Sitcom „Titus“. Auf der Bühne spielte er Falstaff, König Lear, Willy Loman und Richard Nixon in „Frost/Nixon“. Er wurde 2015 in die Theater Hall of Fame aufgenommen."
+          ],
+          "highlight": "Für die Rolle des Buffalo Bill in Arthur Kopits Stück „Indians“ wurde er 1970 für den Tony nominiert.",
+          "assessment": [
+            "Keach gehörte zu jenen Schauspielern, die man sofort an der Stimme erkannte und deren Namen man trotzdem suchen musste. Das ist kein kleines Lob: Er hat sechs Jahrzehnte lang gearbeitet, vom Theater über das New-Hollywood-Kino bis zur Network-Sitcom, ohne je in eine Schublade zu passen.",
+            "Wer nur einen Film nachholen will, sollte „Fat City“ sehen. Hustons Boxerdrama ist einer der traurigsten amerikanischen Filme der Siebziger, und Keach spielt darin einen Mann, der sein Scheitern längst begriffen hat und trotzdem weitermacht. Das war seine beste Rolle, und sie ist bis heute zu wenig bekannt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/stacy-keach-dead-mike-hammer-1237219619/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/stacy-keach-dead-mike-hammer-fat-city-new-centurions-1236752423/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2023/02/GettyImages-958792280.jpg?w=1024",
+            "alt": "Schauspieler Stacy Keach",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/stacy-keach-dead-mike-hammer-1237219619/"
+          }
+        },
+        {
+          "title": "„Ink“: Danny Boyle zeigt im Trailer, wie Rupert Murdoch die Boulevardpresse erfand",
+          "lead": "Netflix hat den Trailer zu Danny Boyles Fleet-Street-Drama veröffentlicht. Guy Pearce spielt den jungen Murdoch, Jack O’Connell seinen Chefredakteur Larry Lamb.",
+          "body": [
+            "Netflix hat den offiziellen Trailer zu „Ink“ veröffentlicht, Danny Boyles Film über die Anfänge von Rupert Murdochs Medienimperium. Er erzählt, wie der junge australische Zeitungsverleger 1969 in London gemeinsam mit seinem damaligen Partner Larry Lamb die „Sun“ übernahm und neu startete. Die beiden erfanden damit die moderne Boulevardzeitung und fanden heraus, dass das Publikum mehr wollte als die Wahrheit.",
+            "Guy Pearce spielt Murdoch, Jack O’Connell den Chefredakteur Lamb. Das Drehbuch stammt von James Graham, der sein eigenes Theaterstück adaptiert hat. „Ink“ lief 2017 im Londoner West End und 2019 am Broadway. Boyle versuchte jahrelang, den Film zu realisieren. „Ich habe Guy angefleht, dranzubleiben“, sagte er beim Telluride-Festival.",
+            "Der Film eröffnete die Filmfestspiele von Venedig 2026. Die Kritiken lobten den Unterhaltungswert, bemängelten aber Bekanntes. IndieWire nannte ihn eine „lebendig inszenierte, wenn auch überzogene politische Parabel“ darüber, wie wir hier gelandet sind; der Film endet mit einer Montage, in der auch Donald Trump und Elon Musk auftauchen. O’Connell, der auch in Boyles „28 Years Later“ spielte, sei als siegessüchtiger Redakteur großartig.",
+            "„Ink“ startet am 11. Dezember in ausgewählten Kinos und ist ab 8. Januar bei Netflix zu sehen. Netflix positioniert den Film als Oscar-Kandidaten."
+          ],
+          "highlight": "Die beiden erfanden damit die moderne Boulevardzeitung und fanden heraus, dass das Publikum mehr wollte als die Wahrheit.",
+          "assessment": [
+            "Ein Film über Murdoch kommt genau zur richtigen Zeit, nur nicht unbedingt zum Vorteil des Films. Die These, dass der Boulevard von 1969 direkt zu Trump und Musk führt, ist nicht falsch, aber sie ist auch nicht neu. Das Stück funktionierte im Theater, weil es eine Werkstatt-Geschichte war: zwei Männer, eine Zeitung, ein Jahr. Die Schlussmontage klingt nach einem Regisseur, der seinem Publikum die Pointe nicht zutraut.",
+            "Trotzdem: Boyle, Graham, Pearce und O’Connell sind eine starke Kombination. Für O’Connell, der seit Jahren unterschätzt wird, könnte das endlich die Rolle sein, die ihn in die Preisrennen bringt."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/"
+            },
+            {
+              "name": "Trailer: Ink",
+              "url": "https://www.youtube.com/watch?v=IdIaiqvtUCw"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/09/INK_05484_R.jpg?w=650",
+            "alt": "Guy Pearce als Rupert Murdoch und Jack O’Connell als Larry Lamb in „Ink“",
+            "credit": "Anthony Dickenson / Netflix",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/trailers/ink-trailer-danny-boyle-rupert-murdoch-jack-oconnell-1235226422/"
+          }
+        },
+        {
+          "title": "„The Debut“: Neuer Trailer zu Jesse Eisenbergs Musical-Komödie mit Julianne Moore",
+          "lead": "A24 zeigt den zweiten Trailer zu Eisenbergs drittem Film als Regisseur. Julianne Moore gilt für die Rolle einer Laiendarstellerin als Oscar-Favoritin.",
+          "body": [
+            "A24 hat den zweiten offiziellen Trailer zu „The Debut“ veröffentlicht, Jesse Eisenbergs dritter Regiearbeit. Julianne Moore spielt Mona, eine unauffällige Hausfrau aus New Jersey, die für ein Laientheater vorspricht. Regie bei dem Stück führt eine Figur, die Paul Giamatti spielt. Mona bekommt eine winzige Rolle, die der „Miss Danielle“, einer hartgesottenen Hausmeisterin in Manhattan, und steigert sich so hinein, dass sie das Drehbuch umschreibt und Fiktion und Wirklichkeit verschwimmen.",
+            "Es ist Eisenbergs erster Film über ein Musical. Er hat auch die Lieder für das Stück im Film geschrieben, das „Nosy Neighbors“ heißt. „The Debut“ lief in Telluride, Toronto und beim New York Film Festival und bekam dort sehr gute Kritiken. Eine Szene, in der Moores Figur auf der Bühne zusammenbricht und das Publikum mitten im Film applaudiert, hat sich seit der Premiere einen Ruf erarbeitet.",
+            "IndieWire hält die Rolle für eine der besten Moores und sieht sie als Favoritin für den Oscar als beste Hauptdarstellerin. Es wäre ihr zweiter nach „Still Alice“. Der Film startet am 11. Dezember in den US-Kinos, am selben Tag wie „Ink“."
+          ],
+          "highlight": "Mona bekommt eine winzige Rolle, die der „Miss Danielle“, einer hartgesottenen Hausmeisterin in Manhattan, und steigert sich so hinein, dass sie das Drehbuch umschreibt und Fiktion und Wirklichkeit verschwimmen.",
+          "assessment": [
+            "Eisenberg hat sich als Regisseur leise vorgearbeitet. „A Real Pain“ hat gezeigt, dass er Komik und Schmerz zusammenbringen kann, und eine Komödie über Laientheater ist dafür ein dankbares Feld: Nirgends ist die Fallhöhe zwischen Ehrgeiz und Talent größer.",
+            "Moore in einer Rolle, die vom Übertreiben lebt, ist ein kalkuliertes Risiko, das sich offenbar auszahlt. Wenn der Film hält, was die Festivalstimmen versprechen, wird er der Publikumsliebling dieser Preissaison."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/trailers/the-debut-new-trailer-peak-julianne-moore-performance-1235226458/"
+            },
+            {
+              "name": "Trailer: The Debut",
+              "url": "https://www.youtube.com/watch?v=lF9n06SMDPU"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDDEBU_EC034.jpg?w=650",
+            "alt": "Szene aus „The Debut“ mit Julianne Moore",
+            "credit": "Everett Collection",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/trailers/the-debut-new-trailer-peak-julianne-moore-performance-1235226458/"
+          }
+        },
+        {
+          "title": "„Zeit der Unschuld“ als Netflix-Serie: Start am 18. Februar, erste Bilder",
+          "lead": "Netflix verfilmt Edith Whartons Roman als achtteilige Miniserie mit Camila Morrone, Kristine Froseth und Ben Radcliffe. Die erste Folge inszeniert Shannon Murphy.",
+          "body": [
+            "Netflix hat die ersten Bilder und den Starttermin seiner Serie „The Age of Innocence“ veröffentlicht. Die achtteilige Miniserie nach Edith Whartons mit dem Pulitzerpreis ausgezeichnetem Roman startet am 18. Februar. Camila Morrone, Kristine Froseth und Ben Radcliffe spielen die Hauptrollen in der Dreiecksgeschichte um verbotene Liebe im New York des 19. Jahrhunderts.",
+            "Netflix verspricht eine werktreue Adaption, die zugleich „eine neue Generation ansprechen“ soll, durch die Ballsäle und Schlafzimmer ihrer jungen Figuren. Die Frage sei, was Liebe ist und was Begehren, und ob man dem Kopf oder dem Herzen folgen solle. In weiteren Rollen sind Fiona Glascott, Belinda Bromilow, Emma Shipp, John Light und Margo Martindale zu sehen.",
+            "Das Drehbuch schrieb Emma Frost, bekannt für „The White Queen“ und „The White Princess“; sie ist auch Showrunnerin. Produziert wird von Chernin Entertainment. Shannon Murphy führt in den ersten drei Folgen Regie, danach Lisa Brühlmann und Natalia Leite. „Der Titel bezieht sich auch auf eine Welt, die ihre Unschuld verloren hat“, sagte Frost.",
+            "Die bekannteste Verfilmung des Stoffs ist Martin Scorseses „Zeit der Unschuld“ von 1993 mit Daniel Day-Lewis, Michelle Pfeiffer und Winona Ryder. Für Kristine Froseth ist es die zweite Wharton-Adaption: Sie spielt auch in „The Buccaneers“ bei Apple TV nach Whartons letztem, unvollendetem Roman; die dritte Staffel kommt im nächsten Jahr."
+          ],
+          "highlight": "Die achtteilige Miniserie nach Edith Whartons mit dem Pulitzerpreis ausgezeichnetem Roman startet am 18. Februar.",
+          "assessment": [
+            "Gegen Scorsese anzutreten ist eine undankbare Aufgabe, aber eine Serie hat einen echten Vorteil: Zeit. Whartons Roman lebt von gesellschaftlichen Details, die in zwei Stunden Film zwangsläufig verloren gehen. Acht Folgen erlauben, die Zwänge der New Yorker Oberschicht wirklich auszubreiten.",
+            "Die Formulierung „Ballsäle und Schlafzimmer“ lässt allerdings ahnen, wohin Netflix zielt: eher Richtung „Bridgerton“ als Richtung Wharton. Ob das eine Stärke oder ein Verrat wird, hängt davon ab, ob die Serie die Pointe des Romans begreift. Bei Wharton ist die Leidenschaft gerade das, was nicht stattfindet."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/the-age-of-innocence-netflix-release-date-tv-show-photos-1237219435/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/AGEOFINNOCENCE_101_251010_CB_00198_R4.jpg?w=1024",
+            "alt": "Szene aus der Netflix-Serie „The Age of Innocence“",
+            "credit": "Netflix",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/the-age-of-innocence-netflix-release-date-tv-show-photos-1237219435/"
+          }
+        },
+        {
+          "title": "„E-M@il für Dich“ bekommt eine Neuauflage bei Warner Bros.",
+          "lead": "Jason Orley soll eine neue Geschichte im Geist der Liebeskomödie von 1998 inszenieren. Kein Remake, betont das Studio.",
+          "body": [
+            "Warner Bros. entwickelt eine neue Version von „You’ve Got Mail“, in Deutschland bekannt als „E-M@il für Dich“. Das hat The Hollywood Reporter erfahren. Es soll kein Remake des Films von 1998 mit Tom Hanks und Meg Ryan werden, sondern eine neue Geschichte. Details zur Handlung sind noch geheim.",
+            "Regie führt Jason Orley, bekannt für „I Want You Back“ und „Close Personal Friends“. Er schreibt auch die aktuelle Drehbuchfassung, die auf einem Skript von Deborah Kaplan und Harry Elfont basiert. Neal Moritz und Tania Landau sind als Produzenten an Bord.",
+            "Das Original von Nora Ephron erzählte vom Buchhandelsmagnaten Joe Fox und der Inhaberin eines kleinen Kinderbuchladens, Kathleen Kelly, die sich anonym im Internet ineinander verlieben, ohne zu wissen, dass er gerade dabei ist, sie aus dem Geschäft zu drängen. Vorlage war das ungarische Theaterstück „Parfumerie“ von Miklós László aus dem Jahr 1937, das schon Ernst Lubitsch 1940 als „Rendezvous nach Ladenschluss“ verfilmt hatte.",
+            "Der Film spielte weltweit mehr als 250 Millionen Dollar ein und brachte Meg Ryan eine Golden-Globe-Nominierung. Neben „Schlaflos in Seattle“ gehört er zu Ephrons erfolgreichsten Filmen."
+          ],
+          "highlight": "Es soll kein Remake des Films von 1998 mit Tom Hanks und Meg Ryan werden, sondern eine neue Geschichte.",
+          "assessment": [
+            "Die Geschichte hat schon drei Medienwechsel überlebt: Theaterbühne, Briefe bei Lubitsch, E-Mail bei Ephron. Ein neuer Film müsste klären, was heute die Anonymität ersetzt. In Zeiten, in denen jeder Chatpartner per Rückwärtssuche entlarvt ist, ist das schwieriger, als es klingt.",
+            "Dass Warner nach dem Gunn-Beben ausgerechnet eine Liebeskomödie ankündigt, ist ein kleines, aber freundliches Zeichen. Das Genre ist im Kino fast verschwunden, und „Anyone but You“ hat gezeigt, dass das Publikum durchaus noch kommt."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/16x9-MCDYOGO_EC004.jpg?w=1440&h=810&crop=1",
+            "alt": "Tom Hanks und Meg Ryan in „E-M@il für Dich“ (1998)",
+            "credit": "Everett Collection",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627/"
+          }
+        },
+        {
+          "title": "Nach schweren Vorwürfen: David Walliams wird aus dem Film „Fing!“ geschnitten",
+          "lead": "Die Produzenten entfernen seinen Gastauftritt, Sky steigt als britischer Verleih aus. Eine Recherche von ITV News und Guardian wirft dem Komiker sexuelles Fehlverhalten gegenüber jungen Frauen vor, Walliams bestreitet das.",
+          "body": [
+            "David Walliams wird aus dem Familienfilm „Fing!“ und dessen Werbematerial in den USA entfernt. „Wir nehmen die Vorwürfe gegen David Walliams ernst“, erklärten die Produzenten gegenüber Deadline. Sein Cameo sei herausgeschnitten, er werde weder an der Veröffentlichung noch an der Werbung beteiligt. Der Film nach Walliams’ eigenem Kinderbuch lief beim Sundance-Festival und kommt Anfang Januar über den Verleih Angel in die US-Kinos. Taika Waititi, Mia Wasikowska, Matt Lucas und Iona Bell spielen mit.",
+            "Parallel steigt der zu Comcast gehörende Sender Sky als Lizenznehmer für Großbritannien und Irland aus. „Die Vorwürfe gegen David Walliams sind äußerst schwerwiegend“, sagte ein Sprecher. Inhalte mit ihm habe Sky bereits von seinen Plattformen entfernt. Die BBC nimmt „Little Britain“ aus der Mediathek iPlayer, seine Literaturagentur hat sich von ihm getrennt.",
+            "Walliams, bekannt aus „Little Britain“ und als Juror bei „Britain’s Got Talent“, wurde am Dienstag als der britische Prominente benannt, um den sich eine gemeinsame Recherche von ITV News und The Guardian dreht. Sie stützt sich auf Gespräche mit mehr als 100 Quellen, darunter Freunde, Kollegen, frühere Partnerinnen und Verwandte. Die Frauen werfen ihm vor, seine Bekanntheit genutzt zu haben, um sich jungen Frauen und Mädchen ab 15 Jahren sexuell zu nähern, unter anderem über Kontakte bei „Britain’s Got Talent“.",
+            "Walliams bestreitet, ein „sexuelles Raubtier“ zu sein oder gegen Gesetze verstoßen zu haben. Der 55-Jährige hatte versucht, die Veröffentlichung per einstweiliger Verfügung zu verhindern, und dabei auch auf die Gefahr eines Suizids verwiesen. Das Gericht wies den Antrag vergangene Woche ab."
+          ],
+          "highlight": "Parallel steigt der zu Comcast gehörende Sender Sky als Lizenznehmer für Großbritannien und Irland aus.",
+          "assessment": [
+            "Die Geschwindigkeit, mit der Sender, Verlage und Produzenten reagieren, zeigt, wie ernst die Branche die Recherche nimmt. Eine Untersuchung mit über hundert Quellen, die vor Gericht gegen eine Verfügung bestanden hat, ist kein Gerücht mehr. Rechtlich gilt dennoch die Unschuldsvermutung, und Walliams bestreitet die Vorwürfe.",
+            "Für „Fing!“ ist das bitter, aber verkraftbar: Ein herausgeschnittenes Cameo rettet einen Film. Schwieriger wird es bei seinen Kinderbüchern, die in Großbritannien Millionen verkauft haben und auf denen auch dieser Film beruht. Die eigentliche Frage ist, wie lange ein Werk von seinem Urheber getrennt bleiben kann."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/david-walliams-cut-from-movie-fing-allegations-sky-exits-1237219487/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/01/Fing.jpg?w=1024",
+            "alt": "Szene aus dem Film „Fing!“",
+            "credit": "Sundance Institute",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/david-walliams-cut-from-movie-fing-allegations-sky-exits-1237219487/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Mongolei: Größtes bekanntes Xiongnu-Grab birgt mutmaßlich römisches Glas",
+          "lead": "Archäologen des Nationalmuseums von Korea haben die Ausgrabung eines 73 Meter langen Elitegrabs abgeschlossen. Ein Glasgefäß könnte aus dem Römischen Reich stammen.",
+          "body": [
+            "Das Nationalmuseum von Korea hat am 6. November den Abschluss der Ausgrabung von Grab 160 im Gräberfeld Duurlig Nars im Osten der Mongolei bekannt gegeben. Nach vier Jahren erneuter Arbeit gilt es als größtes bekanntes Grab der Xiongnu in der Mongolei, jenes Steppenvolks, das vor rund 2000 Jahren das Han-China herausforderte. Mit Zugangsrampe misst die Anlage etwa 73 Meter, sie reicht rund 14,5 Meter in die Tiefe.",
+            "Die Erbauer schichteten neun Lagen Steinfüllung über zwei ineinander gesetzte hölzerne Grabkammern mit einem einzelnen Sarg. Über dem zentralen Bereich lag ein lackierter Wagen, ein Zeichen für die hohe Stellung des Toten. Auffällig ist, dass die zentrale Kammer trotz der Größe der Anlage kleiner ist als in vergleichbaren Xiongnu-Gräbern. Die Forscher vermuten, dass sich darin der Machtverlust der Xiongnu im späten 1. oder 2. Jahrhundert n. Chr. spiegelt.",
+            "Der spektakulärste Fund ist ein durchsichtiges Glasgefäß mit Henkel, das die Forscher für römisch halten. Wo es hergestellt wurde, ist offen; eine chemische Analyse des Glases soll das klären. Am Boden des Sargs lagen 15 Jadeobjekte, die an die Zeremonialscheiben der Han-Dynastie erinnern, aber unregelmäßig geformt und anders verziert sind. Die Forscher deuten das als Anpassung chinesischer Bestattungsbräuche durch die Xiongnu.",
+            "Silberner Pferdeschmuck in Kürbisform ähnelt Funden aus Gräbern der Lelang-Zeit nahe dem heutigen Pjöngjang. Einige Stücke enthalten rote und blaue Materialien und Blattgold unter transparentem Bergkristall, eine Technik, die zum ersten Mal in einem Xiongnu-Grab nachgewiesen wurde. Wer hier bestattet wurde, ist unbekannt. Zähne und Haare werden genetisch untersucht, was auch zur Debatte beitragen könnte, ob die Xiongnu mit den europäischen Hunnen verwandt waren."
+          ],
+          "highlight": "Der spektakulärste Fund ist ein durchsichtiges Glasgefäß mit Henkel, das die Forscher für römisch halten.",
+          "assessment": [
+            "Das Grab ist ein Querschnitt durch das Eurasien der Zeitenwende: römisches Glas, chinesische Jade, koreanische Schmucktechnik, alles im Grab eines Steppenherrschers. Es zeigt, dass die Xiongnu keine Randfigur der Han-Geschichte waren, sondern ein Knotenpunkt des Austauschs zwischen Mittelmeer und Pazifik.",
+            "Vorsicht ist beim römischen Glas geboten, solange die Analyse aussteht. Römische Gläser gelangten über viele Zwischenhändler nach Osten, aber nicht jedes klare Glas ist römisch. Die Spannung liegt bei der DNA: Ein Elitegrab dieser Größe könnte die alte Frage nach Xiongnu und Hunnen ein Stück weiter beantworten."
+          ],
+          "sources": [
+            {
+              "name": "Greek Reporter",
+              "url": "https://greekreporter.com/2026/11/10/hun-tomb-mongolia-surprising-links-ancient-rome/"
+            }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2026/11/exposed-wooden-burial-chamber-of-a-2000-year-old-xiongnu-elite-tomb-at-duurlig-nars-mongolia-credit-national-museum-of-korea-scaled.jpg",
+            "alt": "Freigelegte hölzerne Grabkammer des Xiongnu-Grabs in Duurlig Nars",
+            "credit": "National Museum of Korea",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/10/hun-tomb-mongolia-surprising-links-ancient-rome/"
+          }
+        },
+        {
+          "title": "Ältester Nachweis von Cannabiskonsum: Skythen-Grab in Sibirien",
+          "lead": "In einem 2800 Jahre alten Fürstengrab in Tuwa fanden Forscher über tausend Hanfsamen und THC-Spuren im Haar der Toten. Sie vermuten, dass die Droge Opfer bei Bestattungsritualen beruhigen sollte.",
+          "body": [
+            "Ein internationales Team hat im Fachblatt Science den bislang ältesten Nachweis für die berauschende Nutzung von Cannabis vorgelegt. Er stammt aus dem monumentalen Grabhügel Tunnug 1 im Uyuk-Tal in Südsibirien, einer skythischen „Königskurgan“-Anlage. In der Mitte des Hügels lagen vier Holzkonstruktionen mit mehreren Baumsargbestattungen, darauf Skelette von Pferden, die eine Art „geisterhafte Reiterschar“ bildeten, eine skythische Bestattungstradition mit Pferde- und Menschenopfern.",
+            "In den Grabkammern fanden die Archäologen mehr als 1000 vollständige und rund 500 beschädigte Samen der wilden Hanfart Cannabis ruderalis, datiert auf 800 bis 760 v. Chr. In erhaltenen menschlichen Haaren wiesen sie Signale von THC und Cannabinol nach, den psychoaktiven Wirkstoffen der Pflanze. Wie viel konsumiert wurde und ob geraucht oder gegessen, lässt sich nicht sagen.",
+            "„Die molekularen Spuren im Haar und die Cannabissamen stammen aus demselben Grab und legen nahe, dass Cannabis wegen seiner berauschenden Wirkung genutzt wurde“, sagt Erstautor Gino Caspari vom Max-Planck-Institut für Geoanthropologie in Jena. Weil die Bestatteten von Pferde- und wahrscheinlich auch Menschenopfern begleitet wurden, halten die Forscher es für möglich, dass die Pflanze die Opfer vor dem Ritual beruhigen sollte.",
+            "Schon Herodot beschrieb im 5. Jahrhundert v. Chr., dass Skythen den Rauch verbrannter Hanfsamen einatmeten. Der bisher älteste archäologische Nachweis stammte von einem Gräberfeld in China um 500 v. Chr. Der neue Fund verschiebt das um rund drei Jahrhunderte. Kritiker wenden laut Associated Press ein, die Spuren im Haar könnten auch von der Pflanze im Grab stammen statt vom Konsum; Hanf sei auch für Öl und Textilien genutzt worden. Das Team hat begonnen, Pflanzenproben zu sequenzieren, um die Domestizierung von Cannabis zu erforschen."
+          ],
+          "highlight": "Der neue Fund verschiebt das um rund drei Jahrhunderte.",
+          "assessment": [
+            "Herodot hatte also recht, und zwar früher, als er selbst wusste. Der Fund ist ein schönes Beispiel dafür, wie Archäologie antike Berichte bestätigt, die lange als Reiseanekdoten galten.",
+            "Die These vom beruhigten Menschenopfer ist allerdings die spekulativste Stelle der Studie und die, die die Schlagzeilen bestimmt. Die Haarspuren beweisen, dass Cannabis im Grab war und wahrscheinlich konsumiert wurde. Wofür, ist Interpretation. Der Einwand der Kritiker, die Spuren könnten aus dem Grab selbst stammen, verdient eine Antwort, bevor man von Drogen für Opfer spricht."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/2-800-year-old-tomb-in-siberia-has-evidence-of-the-earliest-use-of-cannabis-possibly-as-a-way-to-calm-human-sacrifice-victims"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/10/cannabis-identified-in-siberian-scythian-tomb/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261110-Siberia-Cannabis-Seeds-Featured.jpg",
+            "alt": "Cannabissamen in Fundlage im Grabhügel Tunnug 1",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/10/cannabis-identified-in-siberian-scythian-tomb/"
+          }
+        },
+        {
+          "title": "Thasos: Steinzeitliche Bergleute bauten vor 28.000 Jahren roten Ocker ab",
+          "lead": "Eine Datierung aus einem Stollen auf der griechischen Insel ist der älteste europäische Radiokarbon-Nachweis für unterirdischen Hämatit-Bergbau.",
+          "body": [
+            "Auf dem Hügel Tzines bei Limenaria auf der Insel Thasos haben Menschen schon in der Altsteinzeit unter Tage gearbeitet. Ein Forschungsteam um C. Levato hat einen der Stollen in die Zeit des Gravettien datiert, auf etwa 28.400 bis 27.800 Jahre vor heute. Abgebaut wurde Hämatit, ein Eisenerz, das fein gemahlen ein blutrotes Pigment ergibt: roten Ocker.",
+            "Die Datierung stammt von einem Knochen, der am Eingang von Stollen T2 rund 110 Zentimeter tief in einer Schicht aus Abraum lag, zusammen mit Schlagwerkzeugen und sieben Abschlägen aus Gneis-Schiefer und Quarz. Sie zeigen, dass das Erz direkt vor Ort losgeschlagen wurde. Der Knochen enthielt noch 1,3 Prozent Kollagen, genug für eine verlässliche Radiokarbondatierung. Von 19 untersuchten Knochen- und Geweihproben ließen sich die meisten nicht datieren, weil ihr Kollagen zerfallen war.",
+            "Auf dem Hügel gibt es vier ausgegrabene Abbaubereiche. T1 ist ein elf Meter langer, waagerechter Hohlraum mit zwei Gängen; dort fanden sich 312 Rothirschgeweihe, die wohl als Keile dienten, sowie Steinhämmer und Knochenwerkzeuge zum Abschaben des Erzes. T2 ist eine drei mal vier Meter große Kammer mit 163 großen Steinwerkzeugen, die Spuren wiederholter Schläge tragen. Die Unterschiede deuten auf getrennte Abbauphasen hin.",
+            "Bisher war T1 auf etwa 25.000 bis 24.000 Jahre datiert. Die neue Datierung aus T2 ist mehr als 3000 Jahre älter und laut den Forschern die älteste europäische Radiokarbondatierung für unterirdischen Hämatitabbau. Wohin der Ocker gebracht wurde und in welcher Form, ließ sich nicht klären."
+          ],
+          "highlight": "Die neue Datierung aus T2 ist mehr als 3000 Jahre älter und laut den Forschern die älteste europäische Radiokarbondatierung für unterirdischen Hämatitabbau.",
+          "assessment": [
+            "Bergbau verbindet man meist mit Metallen und Bronzezeit. Dass Menschen schon in der Eiszeit Stollen in einen Hügel trieben, nur um an Farbe zu kommen, sagt viel darüber, wie wichtig Pigmente für sie waren: für Körperbemalung, Bestattungen, Höhlenkunst.",
+            "Die Datenbasis ist dünn, nur eine Probe ist wirklich verlässlich. Das schmälert den Befund nicht, aber es heißt, dass die Geschichte von Tzines noch nicht zu Ende geschrieben ist."
+          ],
+          "sources": [
+            {
+              "name": "Greek Reporter",
+              "url": "https://greekreporter.com/2026/11/10/prehistoric-miners-extracted-red-ochre-greece/"
+            }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2026/11/prehistoric-hematite-mines-on-the-hill-of-tzines-thasos-greece-credit-c-levato-et-al-cc-by-40.jpg",
+            "alt": "Prähistorische Hämatitstollen am Hügel Tzines auf Thasos",
+            "credit": "C. Levato et al.",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/10/prehistoric-miners-extracted-red-ochre-greece/"
+          }
+        },
+        {
+          "title": "Rätsel um 9000 Froschknochen im römischen Britannien gelöst: Es waren Eulen",
+          "lead": "In einem Graben bei Cambridge lagen Tausende Knochen von Fröschen. Eine neue Untersuchung zeigt, dass keine Menschen dahinterstecken, sondern Sumpfohreulen.",
+          "body": [
+            "Bei Ausgrabungen entlang der Fernstraße A14 zwischen Cambridge und Huntingdon stießen Archäologen in Bar Hill, einer Siedlung aus Eisenzeit und Römerzeit, auf eine ungewöhnliche Ansammlung: 12.683 Überreste kleiner Tiere, darunter Frösche und Wühlmäuse. 9135 Knochen lagen konzentriert in einem flachen, etwa 20 Meter langen Graben. Lange wurde gerätselt, ob die Tiere gegessen, bewusst vergraben oder bei Ritualen verwendet worden waren.",
+            "Ein Team um Paul Clarkson untersuchte nun Knochen und Zähne auf Spuren von Verdauung, Beschädigung und Bruch. Etwa 86 Prozent der Langknochen von Amphibien zeigten Verdauungsspuren, mehr als die Hälfte war unzerbrochen. Hinweise auf Schlachtung, Feuer oder menschlichen Verzehr fanden sich nicht. Das Muster passt genau zu Sumpfohreulen, die kleine Tiere ganz verschlingen und Unverdauliches als Gewölle wieder auswürgen. Schlangen, Otter oder Reiher verdauen Knochen gründlicher.",
+            "Den Hintergrund lieferte die Landschaft. In römischer Zeit sanken die Wasserstände, um die nahen Feuchtgebiete entstanden flache, zeitweilige Tümpel, ideale Laichplätze für Grasfrösche. Gleichzeitig hatten die Menschen den Wald für Weideland gerodet, ein perfektes Jagdgebiet für Sumpfohreulen. Die Eulen sammelten sich vermutlich im Herbst und Winter. Radiokarbondaten datieren die Knochen überwiegend ins 3. Jahrhundert n. Chr.",
+            "Der Befund verrät auch etwas über die Bewohner. Sumpfohreulen meiden Störungen. Ihre Anwesenheit deutet darauf hin, dass dieser Teil der Siedlung im Herbst und Winter kaum betreten wurde, vielleicht weil er als saisonaler Viehtrieb diente. Dass die Stelle aus religiösen Gründen gemieden wurde, halten die Forscher für möglich, aber schlecht belegt."
+          ],
+          "highlight": "Das Muster passt genau zu Sumpfohreulen, die kleine Tiere ganz verschlingen und Unverdauliches als Gewölle wieder auswürgen.",
+          "assessment": [
+            "Eine schöne Erinnerung daran, dass nicht jede seltsame Fundlage ein Ritual sein muss. Die Archäologie neigt dazu, Unerklärliches ins Kultische zu schieben; hier hat geduldige Knochenanalyse eine nüchterne, aber überzeugende Erklärung geliefert.",
+            "Und eine elegante: Aus dem Fressverhalten von Eulen lässt sich ablesen, wann Menschen einen Ort mieden. Kleinste Tierreste werden so zur Quelle für Landschafts- und Siedlungsgeschichte."
+          ],
+          "sources": [
+            {
+              "name": "Greek Reporter",
+              "url": "https://greekreporter.com/2026/11/11/scientists-solve-mystery-frog-bones-roman-britain/"
+            }
+          ],
+          "image": {
+            "url": "https://greekreporter.com/wp-content/uploads/2026/11/ancient-animal-bones-recovered-from-a-roman-britain-settlement-credit-paul-clarkson-et-al-ccby4.jpg",
+            "alt": "Kleintierknochen aus der römerzeitlichen Siedlung Bar Hill",
+            "credit": "Paul Clarkson et al.",
+            "license": "Artikelbild Greek Reporter",
+            "source": "https://greekreporter.com/2026/11/11/scientists-solve-mystery-frog-bones-roman-britain/"
+          }
+        },
+        {
+          "title": "Blaues Pigment aus Utah: Pueblo-Völker holten Azurit über Hunderte Kilometer",
+          "lead": "Isotopenanalysen zeigen, woher die Ancestral Puebloans vor 1400 Jahren ihr Blau bezogen. Viele Proben stammen aus dem Lisbon Valley in Utah.",
+          "body": [
+            "Forscher der University of New Mexico um Kari Schleher haben die geologische Herkunft von Azurit bestimmt, das Gemeinschaften der Ancestral Puebloans vor etwa 1400 Jahren nutzten. Azurit ist ein Kupfermineral mit leuchtend blauer Farbe, das als Pigment und Farbe diente.",
+            "Das Team analysierte zunächst Proben aus zwei Lagerstätten in New Mexico und Utah, von denen bekannt ist, dass Pueblo-Gruppen dort abbauten. Dann untersuchten sie die Isotope von Blei, Strontium und Kupfer in zwölf Azuritstücken aus Fundstellen in der Four-Corners-Region, wo Utah, Colorado, Arizona und New Mexico aneinandergrenzen. Die meisten Proben stammten aus dem Lisbon Valley in Utah, zwei aus den Zuni Mountains in New Mexico.",
+            "„Wir konnten zeigen, dass Pueblo-Leute vor 1400 Jahren aus dem heutigen New Mexico bis ins heutige zentrale Utah reisten“, sagt Schleher. Die Studie erschien im Journal of Archaeological Science: Reports. Als Nächstes will das Team weitere Azuritproben aus dem New Mexico Mining Museum untersuchen und mündliche Überlieferungen über Minen und traditionelle Territorien einbeziehen."
+          ],
+          "highlight": "Die meisten Proben stammten aus dem Lisbon Valley in Utah, zwei aus den Zuni Mountains in New Mexico.",
+          "assessment": [
+            "Pigmente sind ein unterschätzter Weg, um alte Netzwerke zu verfolgen. Sie sind klein, wertvoll und tragen ihren geologischen Fingerabdruck mit sich. Dass Pueblo-Gruppen so weite Wege für ein Blau auf sich nahmen, zeigt, welchen Rang Farbe in ihrer Kultur hatte.",
+            "Gut ist auch der angekündigte nächste Schritt. Mündliche Überlieferungen der heutigen Pueblo-Gemeinschaften einzubeziehen, ist mehr als eine Geste: Sie kennen Orte und Wege, die keine Isotopenanalyse findet."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/10/study-tracks-blue-pigments-in-ancient-southwest/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261110-Azurite-Featured.jpg",
+            "alt": "Azurit-Mineral mit blauer Färbung",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/10/study-tracks-blue-pigments-in-ancient-southwest/"
+          }
+        }
+      ]
+    }
+  ]
+}
