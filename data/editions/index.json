@@ -1,5 +1,39 @@
 [
   {
+    "nr": 36,
+    "date": "2026-11-12",
+    "updated": "2026-11-12T07:49:40+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Zweite Affäre bekannt, der Verwaltungsrat bereitet offenbar Huangs Ablösung vor",
+      "TSMC steigt bei Anthropic und OpenAI ein: je 500 Millionen Dollar",
+      "DeepMind beweist mit KI zentrale Eigenschaften des Signal-Protokolls",
+      "AlphaGenome 2: DeepMind sagt voraus, wie Mutationen in einzelnen Zelltypen wirken",
+      "CERT-EU warnt: Angreifer lassen KI-Agenten ganze Einbrüche erledigen",
+      "PlayStation 5 knackt die Marke von 100 Millionen Konsolen",
+      "Ocarina of Time wird zum schnellstverkauften Switch-2-Spiel",
+      "The Witcher 3: KI passt Geralts polnische Stimme an, weil der Sprecher einen Schlaganfall hatte",
+      "Black Forest Games kauft sich von Embracer frei und gründet Third Signal",
+      "15 Jahre Skyrim, aber Bethesda bremst: Zu Sentinel gibt es lange nichts Neues",
+      "Neuer James Bond: Villeneuve „gibt Gas“ beim Casting",
+      "„The Hunt for Gollum“ ist abgedreht: Jamie Dornan über seine Rolle als Aragorn",
+      "Lionsgate sichert sich Alma Har'els „Wet“ mit Rebecca Ferguson, Javier Bardem und Rosalía",
+      "„Avengers: Endgame – Encore“ kommt am 13. November zu Disney+, mit erstem Blick auf „Doomsday“",
+      "Anthony Clark ist tot: Der Star aus „Yes, Dear“ wurde 62",
+      "Irma P. Hall ist tot: Die „Big Mama Jo“ aus „Soul Food“ wurde 91",
+      "KZ Dachau: Archäologen finden Asche mit Knochenresten und 35 Hundezwinger der SS",
+      "Die letzte handschriftliche Fassung von „I Have a Dream“ kommt bei Christie's unter den Hammer",
+      "Kasachstan: Goldener Bär im 2200 Jahre alten Grabhügel der Saken",
+      "Wiederentdeckter Botticelli: Frühe Madonna ist nach 90 Jahren wieder in Oxford zu sehen",
+      "L'Aquila: Römischer Steinlöwe am alten Stadttor geborgen"
+    ]
+  },
+  {
     "nr": 35,
     "date": "2026-11-11",
     "updated": "2026-11-11T07:52:11+01:00",

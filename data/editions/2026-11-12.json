@@ -1,0 +1,643 @@
+{
+  "nr": 36,
+  "date": "2026-11-12",
+  "intro": "Bei Nvidia wird es ernst: Nach einer zweiten Affäre berät der Verwaltungsrat offenbar über die Ablösung von Jensen Huang. Daneben steigt TSMC bei Anthropic und OpenAI ein, die PS5 knackt die 100 Millionen und Ocarina of Time bricht Rekorde. In der Geschichte geht es um erschütternde Funde in Dachau und um Martin Luther Kings Redemanuskript, in dem ausgerechnet der berühmteste Satz fehlt.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Zweite Affäre bekannt, der Verwaltungsrat bereitet offenbar Huangs Ablösung vor",
+          "lead": "Nach der Affäre mit einer mutmaßlichen chinesischen Agentin soll Jensen Huang auch eine Beziehung mit einer hochrangigen Nvidia-Managerin gehabt haben. Laut Wall Street Journal berät der Verwaltungsrat über seine Absetzung, die Aktie fällt weiter.",
+          "body": [
+            "Die Krise um Nvidia-Chef Jensen Huang hat sich am Mittwoch noch einmal verschärft. Die New York Times berichtete, Huang habe neben der bereits eingestandenen Affäre mit Alice Huang auch eine Beziehung mit Kimberly Powell gehabt, die bei Nvidia als Vizepräsidentin das Geschäft mit dem Gesundheitswesen verantwortet. Die beiden sollen im März in einem Hotel im kalifornischen San José fotografiert worden sein. Powell ist seit 2008 im Unternehmen und seit 2017 in ihrer heutigen Position; ihr Bereich ist im Vergleich zu KI-Systemen und Grafikkarten klein.",
+            "Zur Erinnerung: Am Wochenende hatte Huang in einer Rundmail an die Belegschaft die Affäre mit Alice Huang zugegeben, einer Managerin des Geschäftspartners Megaspeed, die US-Geheimdienste für eine chinesische Agentin halten. China weist den Spionagevorwurf zurück. Weitere Berichte legten nahe, dass über diese Verbindung Nvidia-Chips im Milliardenwert nach China gelangten, teils unter Umgehung der US-Exportbeschränkungen. Nvidia hat eine interne Untersuchung eingeleitet.",
+            "Nach Informationen des Wall Street Journal will der Verwaltungsrat noch in dieser Woche, möglicherweise schon am Mittwoch, über Huangs Zukunft beraten. Es gehe auch um eine erzwungene Ablösung des Mitgründers, der das Unternehmen seit 33 Jahren führt. Einen designierten Nachfolger gibt es nicht. Laut Bloomberg arbeitet Nvidia bereits mit einer externen Firma zusammen, um mögliche Kandidaten zu finden. Huang hat nach eigenen Angaben rund 60 direkte Untergebene und gibt wenig ab.",
+            "Die Börse reagiert deutlich. Im nachbörslichen Handel verlor die Aktie am Mittwoch laut TechCrunch rund 8 Prozent, heise spricht von fast 9 Prozent. Innerhalb von vier Wochen ist der Kurs um mehr als 24 Prozent gefallen, Microsoft zog beim Börsenwert zeitweise vorbei.",
+            "Auch Washington erhöht den Druck. Der Vorsitzende des China-Ausschusses im Repräsentantenhaus, John Moolenaar, setzte Huang eine Frist bis Mittwochabend, um einer vertraulichen Befragung zuzustimmen. Brian Mast, Vorsitzender des Auswärtigen Ausschusses, kündigte an, sonst eine Vorladung zu verschicken."
+          ],
+          "highlight": "Nach Informationen des Wall Street Journal will der Verwaltungsrat noch in dieser Woche, möglicherweise schon am Mittwoch, über Huangs Zukunft beraten.",
+          "assessment": [
+            "Mit der zweiten Affäre ist der Fall von einer Sicherheitsfrage zu einer klassischen Governance-Frage geworden: Ein Chef, der eine Beziehung zu einer ihm unterstellten Managerin hat, ist in praktisch jedem US-Konzern nicht zu halten. Dass der Verwaltungsrat jetzt handelt, wirkt weniger mutig als zwangsläufig.",
+            "Das eigentliche Problem für Nvidia ist das Vakuum danach. Ein Unternehmen, das so sehr auf eine Person zugeschnitten ist, ohne Nachfolgeplan, mitten im KI-Boom und unter Beobachtung des Kongresses: Das ist für Anleger beunruhigender als jede Schlagzeile über Hotelfotos."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/8/2/6/shutterstock_2470895321-c3689e21cdce2542.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Nvidia-Chef Jensen Huang",
+            "credit": "jamesonwu1972/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html"
+          }
+        },
+        {
+          "title": "TSMC steigt bei Anthropic und OpenAI ein: je 500 Millionen Dollar",
+          "lead": "Der weltgrößte Auftragsfertiger für Chips will sich mit insgesamt einer Milliarde Dollar an den beiden wichtigsten KI-Laboren beteiligen. Das Geld fließt an Unternehmen, die zugleich zu den größten Abnehmern von TSMC-Chips gehören.",
+          "body": [
+            "Der Verwaltungsrat von TSMC hat laut Reuters beschlossen, bis zu 500 Millionen Dollar in Vorzugsaktien von OpenAI zu investieren, die großen Investoren vorbehalten sind. Weitere 500 Millionen Dollar sollen in Stammaktien von Anthropic fließen, und zwar zum erwarteten Ausgabepreis beim Börsengang. Anthropic hatte in dieser Woche eine Preisspanne von 70 bis 78 Dollar je Aktie genannt.",
+            "TSMC fertigt den Großteil der KI-Chips, die Nvidia für Rechenzentren entwirft, dazu die meisten Apple-Prozessoren. Die Fabriken stehen überwiegend in Taiwan, außerdem in Japan, China und Arizona; in Deutschland entsteht eine weitere. Anthropic und OpenAI kaufen ihrerseits riesige Mengen an Hardware, die bei TSMC vom Band läuft.",
+            "Ars Technica und das Wall Street Journal sehen den Schritt deshalb als weiteres Beispiel für Kreislauffinanzierung: Lieferanten beteiligen sich an ihren Kunden, die mit dem Geld wieder beim Lieferanten einkaufen. Analysten warnen laut Journal, solche Geschäfte machten es schwer, die tatsächliche Nachfrage nach KI-Hardware einzuschätzen. Zugleich könnte die Investition den Märkten einen Vertrauensschub geben, während der KI-Handel an der Börse Anzeichen von Schwäche zeigt.",
+            "Finanziell ist das für TSMC eine kleine Wette. Der Konzern hat sechs Rekordquartale in Folge hinter sich und verdiente im Quartal Juli bis September 2026 laut Reuters mehr als 23 Milliarden Dollar. Nvidia hat zum Vergleich bereits 30 Milliarden Dollar in OpenAI und 10 Milliarden Dollar in Anthropic gesteckt."
+          ],
+          "highlight": "Lieferanten beteiligen sich an ihren Kunden, die mit dem Geld wieder beim Lieferanten einkaufen.",
+          "assessment": [
+            "Eine Milliarde Dollar ist für TSMC wenig, das Signal zählt mehr: Selbst der Konzern, der am KI-Boom am sichersten verdient, weil er an alle liefert, will jetzt auch an den Modellbauern beteiligt sein. Das spricht für Zuversicht, aber auch dafür, dass die Branche sich ihre Nachfrage zunehmend gegenseitig finanziert.",
+            "Für Anthropic kommt das Geld zur rechten Zeit: Ein namhafter Ankerinvestor zum IPO-Preis hilft in einer Woche, in der Nvidia die Stimmung im KI-Sektor drückt."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+            "alt": "TSMCs Fab 18 in Tainan, Taiwan, eine Chipfabrik für modernste Fertigungsverfahren",
+            "credit": "Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+          }
+        },
+        {
+          "title": "DeepMind beweist mit KI zentrale Eigenschaften des Signal-Protokolls",
+          "lead": "Google DeepMind hat in vier Wochen wichtige kryptografische Garantien des Signal-Protokolls formal verifiziert. Das Werkzeug heißt AlphaProof Code und könnte mathematische Software-Beweise erstmals alltagstauglich machen.",
+          "body": [
+            "Forscher von Google DeepMind haben mit agentischer KI mehrere zentrale Sicherheitsgarantien des Signal-Protokolls mathematisch bewiesen. Das Protokoll schützt nicht nur den Messenger Signal, sondern auch Google Messages und WhatsApp. Das Projekt lief als Machbarkeitsstudie über nur vier Wochen und nutzte ein neues Framework namens AlphaProof Code.",
+            "Formale Verifikation gilt in der Softwaresicherheit seit langem als heiliger Gral: Statt Code nur zu testen, wird mathematisch bewiesen, dass er sich wie beabsichtigt verhält. Bisher war das enorm aufwendig, weil Menschen die gewünschten Eigenschaften beschreiben, in Formeln übersetzen und dann die Beweise führen mussten. KI-Agenten können vor allem den letzten Schritt stark beschleunigen.",
+            "In den untersuchten Teilen fand DeepMind keine neuen Schwachstellen. Als die Forscher AlphaProof Code auf ältere Signal-Versionen mit bekannten, längst behobenen Lücken ansetzten, erkannte das System diese und zeigte, dass sich das Protokoll in diesen Versionen nicht verifizieren ließ. Die Spezifikation und den Beweis veröffentlichen die Forscher. Signal-CTO Ehren Kret sagte, frühere Verifikationen hätten kleinere Codeteile betroffen, DeepMinds Ansatz erlaube eine deutliche Ausweitung.",
+            "Die Grenzen sind klar benannt: Die gesamte Signal-App wurde nicht verifiziert, und DeepMind profitierte von früheren Verifikationsarbeiten der Signal Foundation. Die Kosten der Analyse nennt Google nicht, ebenso wenig, ob ein kommerzielles Produkt geplant ist. DeepMind-Forscher Swarat Chaudhuri betont, Menschen müssten an entscheidenden Punkten prüfen. Man wolle keine Welt, in der KI die Ziele und die Beweise selbst schreibt."
+          ],
+          "highlight": "Als die Forscher AlphaProof Code auf ältere Signal-Versionen mit bekannten, längst behobenen Lücken ansetzten, erkannte das System diese und zeigte, dass sich das Protokoll in diesen Versionen nicht verifizieren ließ.",
+          "assessment": [
+            "Das ist eine der erfreulicheren KI-Meldungen der Woche. Während Coding-Agenten an anderer Stelle Passwörter verstreuen, zeigt dieses Projekt, wofür die Technik besonders taugt: für mühsame, präzise Arbeit, deren Ergebnis sich objektiv prüfen lässt. Ein Beweis stimmt oder er stimmt nicht.",
+            "Entscheidend wird der Preis sein. Wenn formale Verifikation für kritische Software wie Kryptobibliotheken oder Bankensysteme bezahlbar wird, wäre das ein echter Sicherheitsgewinn. Dass Google zu den Kosten schweigt, deutet an, dass es bis dahin noch ein Stück ist."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+            "alt": "Ein Finger tippt auf das Signal-Symbol auf einem Smartphone-Display",
+            "credit": "Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+          }
+        },
+        {
+          "title": "AlphaGenome 2: DeepMind sagt voraus, wie Mutationen in einzelnen Zelltypen wirken",
+          "lead": "Das neue Modell von Google DeepMind soll zeigen, wie dieselbe genetische Variante in Herz-, Haut- oder Immunzellen ganz unterschiedliche Folgen haben kann. Das könnte bei der Suche nach Krankheitsursachen helfen.",
+          "body": [
+            "Google DeepMind hat AlphaGenome 2 vorgestellt, den Nachfolger des im vergangenen Jahr veröffentlichten Genommodells AlphaGenome. Fast jede Zelle im Körper trägt dieselbe DNA, doch je nach Zelltyp und Zustand werden andere Gene an- und abgeschaltet. Dieselbe Variante kann deshalb in einer Herzmuskelzelle harmlos und in einer Immunzelle folgenreich sein.",
+            "AlphaGenome 2 soll genau diese Unterschiede erfassen und die Wirkung genetischer Varianten für einzelne Zelltypen und Zustände vorhersagen. Trainiert wurde es auf mehr als 100 Millionen einzelnen Zellprofilen aus 68 Geweben. DeepMind beschreibt das als Verwandlung statischer Zellatlanten in eine Vorhersagemaschine für die Humangenetik. Laut Google findet das Modell fast doppelt so viele Varianten, die die Genexpression verändern, wie das bisher beste Modell des Unternehmens.",
+            "Bemerkenswert ist, dass AlphaGenome 2 auch für Zelltypen und biologische Zustände Vorhersagen treffen kann, auf die es nicht trainiert wurde. Außerdem kann es Lücken in experimentellen Daten aufzeigen und so Forschern helfen zu entscheiden, was sie als Nächstes im Labor untersuchen.",
+            "DeepMind-Forscher Adam Gayoso sieht den Durchbruch darin, Humangenetik mit Zellbiologie zu verknüpfen: Varianten, die in großen Bevölkerungsstudien mit Krankheiten in Verbindung gebracht werden, lassen sich so bis auf die Ebene einzelner Zellen verfolgen."
+          ],
+          "highlight": "Dieselbe Variante kann deshalb in einer Herzmuskelzelle harmlos und in einer Immunzelle folgenreich sein.",
+          "assessment": [
+            "Genomstudien liefern seit Jahren lange Listen verdächtiger Varianten, ohne zu erklären, was diese eigentlich tun. Ein Modell, das die Wirkung pro Zelltyp abschätzt, setzt genau an dieser Lücke an. Das ist weniger spektakulär als ein Chatbot, aber vermutlich auf lange Sicht wichtiger.",
+            "Wie viel davon im Labor standhält, muss sich zeigen. Vorhersagen sind Hypothesen, keine Befunde. Aber wenn das Modell Forschern hilft, ihre Experimente gezielter zu wählen, ist schon viel gewonnen."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "alt": "Grafische Darstellung von Googles AlphaGenome Atlas",
+            "credit": "Google",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+          }
+        },
+        {
+          "title": "CERT-EU warnt: Angreifer lassen KI-Agenten ganze Einbrüche erledigen",
+          "lead": "Das Notfallteam der EU-Institutionen meldet eine rasche Zunahme von Angriffen mit agentischen Frameworks wie Artex. Neu sind nicht die Techniken, sondern Tempo und Masse.",
+          "body": [
+            "Incident-Response-Spezialisten erhalten immer mehr Berichte über Angriffe, bei denen KI-Agenten weite Teile eines mehrstufigen Einbruchs selbstständig erledigen. Das CERT-EU warnt vor häufigeren, schnelleren und besser skalierbaren automatisierten Angriffen mit höherer Erfolgsquote. Die Warnung bezieht sich konkret auf Artex, ein Agenten-Framework, das eigentlich für autorisierte Penetrationstests entwickelt wurde.",
+            "Der ursprüngliche Autor hat das Repository nach Missbrauchsberichten im Oktober 2026 entfernt, unabhängige Forks kursieren aber weiter. Dazu kommen Alternativen wie Cairn. Microsoft meldete zudem Artex-Kampagnen gegen Finanzorganisationen.",
+            "Das Prinzip: Ein menschlicher Operator gibt eine komplexe Aufgabe vor, etwa Domain-Admin-Rechte zu beschaffen. Ein Orchestrator-Agent verteilt Teilaufgaben an weitere Agenten, die bekannte Werkzeuge wie BloodHound oder Rubeus laden, ausführen und Ergebnisse zurückmelden. Schlägt ein Weg fehl, sucht der Orchestrator nach Alternativen.",
+            "Technisch ist daran nichts neu, so liefen schon Tausende Ransomware-Angriffe ab. Neu ist laut heise, dass die Schritte mit enormer Geschwindigkeit ablaufen, Verteidiger oft schlicht überrannt werden und Angreifer kaum noch Fachwissen brauchen, um viele Angriffe parallel zu steuern. Der Sicherheitsexperte Florian Roth warnt deshalb vor einer bevorstehenden Angriffswelle."
+          ],
+          "highlight": "Neu ist laut heise, dass die Schritte mit enormer Geschwindigkeit ablaufen, Verteidiger oft schlicht überrannt werden und Angreifer kaum noch Fachwissen brauchen, um viele Angriffe parallel zu steuern.",
+          "assessment": [
+            "Das ist die Kehrseite der Agenten-Euphorie, und sie kommt schneller als erwartet. Werkzeuge, die für Sicherheitstests gebaut wurden, verschieben die Ökonomie des Angriffs: Wer früher ein erfahrenes Team brauchte, braucht jetzt eine Konfigurationsdatei.",
+            "Für Verteidiger heißt das, dass Reaktionszeiten in Stunden nicht mehr reichen. Wer Active Directory nicht sauber hält, wird es demnächst von einer Maschine vorgeführt bekommen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/3/0/7/shutterstock_2649976727-ec63aafde4546be0.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu KI-gestützten Cyberangriffen",
+            "credit": "Shutterstock",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "PlayStation 5 knackt die Marke von 100 Millionen Konsolen",
+          "lead": "Fast genau sechs Jahre nach dem Start hat Sony mehr als 100 Millionen PS5 ausgeliefert. Der Meilenstein kommt in einer Phase, in der die Verkäufe deutlich nachlassen.",
+          "body": [
+            "Die PlayStation 5 hat offiziell die Marke von 100 Millionen verkauften Konsolen überschritten. Das geht aus aktualisierten Verkaufsdaten von Sony hervor. Erreicht wurde der Wert am 10. November, fast auf den Tag genau sechs Jahre nach dem Marktstart.",
+            "Die Zahl bezieht sich auf ausgelieferte Geräte an den Handel, nicht auf an Kunden verkaufte Konsolen. In den Wohnzimmern stehen also etwas weniger als 100 Millionen PS5. Mit dem Wert liegt die PS5 fast gleichauf mit der ersten PlayStation (102,4 Millionen) und rückt der PS4 näher, die bis Juni 2022 auf 117 Millionen kam.",
+            "Die Verkaufskurve zeigt allerdings nach unten. Im zweiten Quartal des Geschäftsjahres 2026 lieferte Sony 2,6 Millionen PS5 aus, nach 4 Millionen im Vorjahreszeitraum. Es war das schwächste zweite Quartal seit dem Start. Im ersten Quartal waren es sogar nur 1,6 Millionen. Erholen sich die Zahlen in den kommenden Quartalen nicht, könnte 2026 das schwächste PS5-Jahr überhaupt werden.",
+            "Eurogamer führt den Rückgang vor allem auf die mehrfachen Preiserhöhungen für PS5 und PS5 Pro zurück. Am Gewinn ändert das wenig, weil Sony mit Abos, Software und Diensten mehr Geld pro Kunde verdient. Kurzfristig dürfte GTA 6 helfen: Laut Sensor Tower wurden 74 Prozent der Vorbestellungen für die PS5 getätigt."
+          ],
+          "highlight": "Die Zahl bezieht sich auf ausgelieferte Geräte an den Handel, nicht auf an Kunden verkaufte Konsolen.",
+          "assessment": [
+            "Hundert Millionen sind eine schöne runde Zahl, aber die eigentliche Geschichte steht in den Quartalszahlen: Die PS5 verkauft sich spät im Zyklus schlechter als ihre Vorgängerin, weil sie teurer geworden statt billiger geworden ist. Das ist die neue Normalität der Konsolenbranche.",
+            "Sony kann damit leben, solange die vorhandenen Spieler mehr ausgeben. GTA 6 wird der PS5 noch einmal einen kräftigen Schub geben. Ob er die Marke der PS4 in Reichweite bringt, ist offen."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/where-to-preorder-ps5-pro-eurogamer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Die Konsole PlayStation 5 Pro",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026"
+          }
+        },
+        {
+          "title": "Ocarina of Time wird zum schnellstverkauften Switch-2-Spiel",
+          "lead": "Das Remake von The Legend of Zelda: Ocarina of Time hat sich in vier Tagen mehr als 5,2 Millionen Mal verkauft. Nintendo meldet damit einen Rekord für die Switch 2.",
+          "body": [
+            "Nintendo hat am Mittwoch per Pressemitteilung bekanntgegeben, dass sich das Remake von The Legend of Zelda: Ocarina of Time in den ersten vier Tagen mehr als 5,2 Millionen Mal verkauft hat. Damit ist es das am schnellsten verkaufte Switch-2-Spiel aus dem eigenen Haus.",
+            "Der Rekord gilt formal nur für von Nintendo veröffentlichte Spiele. Da diese auf der Switch 2 aber ohnehin die Bestseller stellen, dürfte er auch insgesamt gelten. Bereits am Dienstag hatte Eurogamer berichtet, dass die Switch 2 in den USA dank des Zelda-Starts ihre beste Woche des Jahres erlebte.",
+            "Das Remake wurde gemeinsam mit Bandai Namco und Monolith Soft entwickelt, die bei Figuren, Umgebungen, Animationen, Zwischensequenzen und Benutzeroberfläche mitarbeiteten. Die Kritiken sind ausgezeichnet, Eurogamer vergab die Höchstwertung von fünf Sternen.",
+            "Bemerkenswert ist auch das Timing: Nintendo brachte das Spiel im November heraus, wenige Wochen vor dem Start von GTA 6, und hat sich davon offensichtlich nicht schrecken lassen."
+          ],
+          "highlight": "Damit ist es das am schnellsten verkaufte Switch-2-Spiel aus dem eigenen Haus.",
+          "assessment": [
+            "Nintendo weiß, was es mit Ocarina of Time in der Hand hat, und hat das Remake nicht als Pflichtübung behandelt, sondern als Großproduktion. Der Erfolg zeigt, dass Nostalgie allein nicht reicht, sie aber mit Sorgfalt ein enormes Publikum findet.",
+            "Die naheliegende Folge: Weitere Remakes alter Zelda-Teile dürften jetzt ganz oben auf Nintendos Liste stehen. Majora's Mask wäre der logische Kandidat."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Link spielt Eponas Lied in The Legend of Zelda: Ocarina of Time für Switch 2",
+            "credit": "Nintendo",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo"
+          }
+        },
+        {
+          "title": "The Witcher 3: KI passt Geralts polnische Stimme an, weil der Sprecher einen Schlaganfall hatte",
+          "lead": "CD Projekt Red hat für die Erweiterung Songs of the Past die Aufnahmen von Jacek Rozenek per KI an seine frühere Stimme angeglichen. Der Sprecher hat zugestimmt und unterstützt das Vorgehen.",
+          "body": [
+            "CD Projekt Red hat bestätigt, dass für die kommende Witcher-3-Erweiterung Songs of the Past KI eingesetzt wurde, um Teile der Sprachaufnahmen zu verändern. Gegenüber Game File erklärte das Studio, es habe mit der Firma Respeecher zusammengearbeitet, damit Geralts polnische Zeilen so klingen wie vor einem Jahrzehnt im Hauptspiel.",
+            "Geralts langjähriger polnischer Sprecher Jacek Rozenek erlitt 2019 einen Schlaganfall und konnte danach zunächst nicht sprechen. 2022 kehrte er zur Synchronarbeit zurück, was täglich stundenlanges Training erforderte. Nach den Aufnahmen für das Next-Gen-Update sei er völlig erschöpft gewesen, sagt Rozenek. Ziel sei, dass die Stimme so nah wie möglich an seiner Stimme von vor zwölf Jahren liege.",
+            "Rozenek sprach alle neuen Zeilen selbst ein. Respeecher glich sie anschließend mit einem Modell an, das auf seinen früheren Aufnahmen für The Witcher 3 trainiert wurde. Lokalisierungsproduzent Mikołaj Szwed räumt die ethischen Bedenken gegenüber KI ein, hält diesen Fall aber für einen Weg, KI ethisch einzusetzen, mit Einwilligung und zu einem guten Zweck. Erwogen worden sei das nur wegen Rozeneks Gesundheit.",
+            "CD Projekt hat Respeecher schon einmal genutzt: Für Cyberpunk 2077: Phantom Liberty wurden mit Zustimmung der Familie neue Zeilen für den verstorbenen polnischen Sprecher von Viktor Vektor erzeugt. Die Meldung fällt in eine Woche, in der KI in Spielen besonders kritisch gesehen wird, nachdem House House den KI-Einsatz bei Big Walk einräumen musste."
+          ],
+          "highlight": "Rozenek sprach alle neuen Zeilen selbst ein.",
+          "assessment": [
+            "Das ist der Fall, an dem sich die KI-Debatte in der Spielebranche sauber sortieren lässt. Hier ersetzt die Technik keinen Menschen, sie ermöglicht einem Schauspieler, seine Rolle weiterzuspielen. Einwilligung, eigene Aufnahmen, klarer Anlass: So sieht ein vertretbarer Einsatz aus.",
+            "Dass CD Projekt das offen erklärt, bevor jemand es entdeckt, ist der eigentliche Unterschied zu Big Walk. Transparenz entschärft solche Diskussionen fast immer."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/09/the-witcher-3-songs-of-the-past.jpg",
+            "alt": "Szene aus der Witcher-3-Erweiterung Songs of the Past",
+            "credit": "CD Projekt Red",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/the-witcher-3-expansion-uses-ai-to-adjust-geralts-polish-voiceover-because-the-actor-suffered-a-stroke/"
+          }
+        },
+        {
+          "title": "Black Forest Games kauft sich von Embracer frei und gründet Third Signal",
+          "lead": "Das Studio hinter den Destroy-All-Humans-Remakes ist per Management-Buy-out unabhängig geworden. Gleich danach hat es eine neue Gruppe unabhängiger Studios mitgegründet.",
+          "body": [
+            "Black Forest Games, das Studio, das die ersten beiden Destroy-All-Humans-Spiele neu aufgelegt hat, hat sich von THQ Nordic und dem Mutterkonzern Embracer Group getrennt. Die Unabhängigkeit kam über ein Management-Buy-out zustande.",
+            "Gleichzeitig hat das Studio Third Signal mitgegründet, eine neue Gruppe unabhängiger Studios, die später auch anderen Indie-Teams mit Hilfe und Ressourcen zur Seite stehen soll. Third-Signal-Chef Andreas Tobler sagte, einige der besten Spiele des letzten Jahrzehnts seien von Teams mit 50 und nicht mit 500 Leuten gekommen. Ziel sei eine von Entwicklern getragene Gruppe, die ihren Teams Unabhängigkeit, Ressourcen und kreative Freiheit gibt.",
+            "Black Forest Games gehörte zu den ersten bekannten Übernahmen von Embracer vor fast zehn Jahren. Danach kaufte der schwedische Konzern in großem Stil Studios und Marken, von Herr der Ringe über Tomb Raider bis Kingdom Come: Deliverance, und stieß nach der Umstrukturierung 2024 viele davon wieder ab, darunter Gearbox mit Borderlands.",
+            "Die Rechte an Destroy All Humans und dem Alien Crypto scheint Black Forest nicht mitgenommen zu haben. Das Studio arbeitet laut eigener Aussage aber weiter in gewissem Umfang mit THQ Nordic zusammen."
+          ],
+          "highlight": "Die Unabhängigkeit kam über ein Management-Buy-out zustande.",
+          "assessment": [
+            "Eine seltene gute Nachricht aus dem Embracer-Kosmos. Während anderswo Studios geschlossen werden, nimmt hier ein eingespieltes Team sein Schicksal selbst in die Hand.",
+            "Ob Third Signal mehr wird als ein schönes Etikett, hängt am Geld. Ohne eigene Marke und mit einem Auftraggeber namens THQ Nordic ist der Start nicht leicht. Aber die These, dass mittelgroße Teams die besseren Spiele machen, hat in den letzten Jahren viele Belege bekommen."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Destroy-All-Humans_TIiH50c.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Das Alien Crypto im Remake von Destroy All Humans fletscht die Zähne vor einem Hologramm",
+            "credit": "THQ Nordic",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer"
+          }
+        },
+        {
+          "title": "15 Jahre Skyrim, aber Bethesda bremst: Zu Sentinel gibt es lange nichts Neues",
+          "lead": "Viele Fans hatten zum Skyrim-Jubiläum auf Neuigkeiten zu The Elder Scrolls 6: Sentinel gehofft. Bethesda Game Studios hat die Erwartungen öffentlich gedämpft.",
+          "body": [
+            "Skyrim ist am 11. November 15 Jahre alt geworden. Nachdem Bethesda Anfang des Monats den vollen Titel des nächsten Teils, The Elder Scrolls 6: Sentinel, enthüllt hatte, spekulierten viele Fans über weitere Neuigkeiten zum Jubiläum.",
+            "Der offizielle Account von Bethesda Game Studios trat dem auf Reddit entgegen. Man werde am Jubiläumstag keine großen Ankündigungen machen, hieß es. Man freue sich über die Begeisterung, werde aber für einige Zeit nichts Neues zu Sentinel zeigen.",
+            "Die Geduld der Fans wird damit weiter strapaziert. Skyrim erschien 2011, der erste Teaser zu The Elder Scrolls 6 kam 2018, danach veröffentlichte Bethesda 2023 zunächst Starfield.",
+            "Zum Jubiläum gibt es immerhin Rabatte auf Skyrim auf allen Plattformen. In The Elder Scrolls Online wird das Greymoor-Kapitel kostenlos ins Grundspiel übernommen, und eine Kampagne mit Skyrim-Belohnungen läuft bis zum 2. Dezember."
+          ],
+          "highlight": "Man freue sich über die Begeisterung, werde aber für einige Zeit nichts Neues zu Sentinel zeigen.",
+          "assessment": [
+            "Ehrlich ist das allemal: Lieber jetzt Erwartungen dämpfen als am Jubiläumstag eine enttäuschte Community verwalten. Es sagt aber auch, dass Sentinel noch weit entfernt ist. Wer auf 2027 gehofft hat, sollte sich auf mehr Geduld einstellen.",
+            "Bethesda hat ein Luxusproblem, um das andere Studios es beneiden: ein 15 Jahre altes Spiel, das noch immer so geliebt wird, dass schon das Ausbleiben von Neuigkeiten eine Nachricht ist."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/elder-scrolls-6-sentinel-01.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ein Juwel an einem goldenen Stab im Sand, Szene aus dem Trailer zu The Elder Scrolls 6: Sentinel",
+            "credit": "Bethesda",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Neuer James Bond: Villeneuve „gibt Gas“ beim Casting",
+          "lead": "Denis Villeneuve hat erstmals selbst über den Stand der Bond-Besetzung gesprochen. Entschieden ist noch nichts, aber der Regisseur macht Tempo.",
+          "body": [
+            "Ob der neue James Bond schon feststeht, wollte GQ von Denis Villeneuve wissen. Die Antwort des Dune-Regisseurs: Das sei im Gange, im Gange. Laut GQ sagte er das mit einem Lächeln und fügte hinzu: „Ich gebe Gas.“",
+            "Zuletzt hatte Deadline berichtet, dass Robert Pattinson und Nicholas Hoult Probeaufnahmen für die Rolle gemacht haben. Zuvor wurden bereits Jack Lowden, Josh O'Connor und Callum Turner als Kandidaten genannt, die getestet worden sein sollen. Zuletzt spielte Daniel Craig den Agenten, sein letzter Auftritt war 2021 in Keine Zeit zu sterben.",
+            "Pierce Brosnan äußerte sich gegenüber Vanity Fair wohlwollend über die Kandidaten. Er bewundere alle Schauspieler auf der Liste; Callum Turner kenne er aus gemeinsamer Arbeit, er sei sehr stark. Alle hätten Stimme, Statur und Präsenz auf der Leinwand. Er warte gespannt darauf, wer diese Rolle der Filmgeschichte übernehme.",
+            "Für die Besetzung ist Casting-Direktorin Nina Gold verantwortlich, die seit März unter Vertrag ist. Sie hat unter anderem Game of Thrones, The Crown und fünf Star-Wars-Filme besetzt."
+          ],
+          "highlight": "Zuletzt hatte Deadline berichtet, dass Robert Pattinson und Nicholas Hoult Probeaufnahmen für die Rolle gemacht haben.",
+          "assessment": [
+            "Inhaltlich ist das wenig, als Signal aber nicht nichts: Villeneuve klingt nicht wie jemand, der noch Monate suchen will. Eine Ankündigung in den nächsten Wochen wäre keine Überraschung.",
+            "Die Liste selbst ist bemerkenswert. Pattinson und Hoult sind etablierte Stars mit eigenem Profil, O'Connor und Turner eher der Typ Neuentdeckung. Welche Richtung Villeneuve wählt, wird viel darüber sagen, wie sehr er Bond neu erfinden will."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Denis-Villeneuve-James-Bond-007.jpg?w=1024",
+            "alt": "Regisseur Denis Villeneuve",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/denis-villeneuve-update-james-bond-casting-1237221346/"
+          }
+        },
+        {
+          "title": "„The Hunt for Gollum“ ist abgedreht: Jamie Dornan über seine Rolle als Aragorn",
+          "lead": "Jamie Dornan hat die Dreharbeiten zu Andy Serkis' Herr-der-Ringe-Film beendet. Über die Besetzung als Aragorn habe er geweint, erzählt er.",
+          "body": [
+            "Jamie Dornan hat seine Arbeit an The Lord of the Rings: The Hunt for Gollum vor etwa drei Wochen abgeschlossen. Das erzählte er Entertainment Tonight und nannte die Dreharbeiten eine unglaubliche Erfahrung. Dornan spielt Streicher, also Aragorn, die Rolle, die Viggo Mortensen in Peter Jacksons Trilogie geprägt hat.",
+            "Als er von der Besetzung erfuhr, habe er geweint, sagte Dornan. Es sei wie ein Traum und eine Ehre, diese Welt überhaupt zu betreten, geschweige denn eine Figur dieser Bedeutung zu spielen. Er hoffe, dass die Zuschauer die Geschichte annehmen, denn vielen Menschen liege diese Welt am Herzen.",
+            "Schon zuvor hatte Dornan gegenüber L'Officiel von Druck gesprochen. Mortensens Darstellung gehöre zu seinen absoluten Lieblingen, er wolle zumindest etwas von dessen Energie einfangen. Er versuche nicht, ihn zu übertreffen.",
+            "Regie führt Andy Serkis, der auch wieder Gollum spielt. Zur Besetzung gehören Anya Taylor-Joy, Leo Woodall, Kate Winslet, Elijah Wood, Ian McKellen und Lee Pace. Serkis hatte der BBC erzählt, der Film spiele zwischen den Hobbit- und den Herr-der-Ringe-Filmen und tauche tief in Psychologie und Vorgeschichte Gollums ein, verbunden mit Gandalfs Frage nach der Herkunft von Bilbos Ring."
+          ],
+          "highlight": "Er versuche nicht, ihn zu übertreffen.",
+          "assessment": [
+            "Dornan sagt das Richtige: Wer Mortensens Aragorn nachspielt, kann nur verlieren, wenn er ihn übertreffen will. Die Haltung, eine Rolle zu übernehmen statt sie neu zu erfinden, passt zu einem Film, der sich zwischen bekannte Kapitel schieben muss.",
+            "Interessanter als Aragorn ist ohnehin, was Serkis mit Gollum vorhat. Ein Film, der von einer Figur zusammengehalten wird, die ihr Darsteller seit 25 Jahren kennt, hat zumindest einen Vorteil, den viele Franchise-Ableger nicht haben."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/jamie-dornan-cried-aragorn-lord-of-the-rings-hunt-for-gollum-1236753600/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Jamie-Dornan-getty-H-2026.png?w=1296&h=730&crop=1",
+            "alt": "Schauspieler Jamie Dornan",
+            "credit": "Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/jamie-dornan-cried-aragorn-lord-of-the-rings-hunt-for-gollum-1236753600/"
+          }
+        },
+        {
+          "title": "Lionsgate sichert sich Alma Har'els „Wet“ mit Rebecca Ferguson, Javier Bardem und Rosalía",
+          "lead": "Lionsgate hat die Rechte für Nordamerika und Großbritannien an Alma Har'els neuem Film erworben. Die Besetzung ist bemerkenswert breit, gedreht wird 2027 in der Dominikanischen Republik.",
+          "body": [
+            "Lionsgate hat sich die Vertriebsrechte für Nordamerika und Großbritannien an Wet gesichert, dem neuen Film der Regisseurin und Autorin Alma Har'el (Honey Boy, Lady in the Lake). Produziert wird er von Fifth Season und 193, einer Firma von Legendary.",
+            "Vor der Kamera stehen Connor Storrie aus der Erfolgsserie Heated Rivalry, Rebecca Ferguson (Dune, Silo), Odessa A'zion (Marty Supreme), Oscarpreisträger Javier Bardem, die spanische Sängerin Rosalía und Lukas Haas. Das Drehbuch schrieb Har'el mit Christian Stangeby.",
+            "Worum es geht, bleibt geheim. Die Dreharbeiten sollen 2027 in der Dominikanischen Republik beginnen. Lionsgate-Filmchef Adam Fogelson nannte Drehbuch und Paket unwiderstehlich; man könne es kaum erwarten, mit dieser Gruppe ins Wasser zu steigen.",
+            "Har'el sagte, sie habe zuletzt Humor im Chaos und Menschlichkeit in den unvorhersehbarsten Situationen finden müssen. Sie wolle einen Film machen, der sich weigert, sich zu benehmen."
+          ],
+          "highlight": "Sie wolle einen Film machen, der sich weigert, sich zu benehmen.",
+          "assessment": [
+            "Ein Projekt ohne Inhaltsangabe, aber mit dieser Besetzung, ist ein Statement. Har'el hat mit Honey Boy gezeigt, dass sie aus heiklem Material etwas Eigenes machen kann; dass Lionsgate so früh zugreift, spricht dafür, dass das Drehbuch überzeugt.",
+            "Für Connor Storrie ist das nach Heated Rivalry der nächste Schritt vom Serienliebling zum Kinoschauspieler, an der Seite echter Schwergewichte."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/connor-storrie-rosalia-wet-lionsgate-1237221317/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/lionsgate-acquires-wet-connor-storrie-rebecca-ferguson-1236753619/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/09/rosalia-Javier-Bardem-Rebecca-Ferguson-Connor-Storrie-and-Odessa-Azion.jpg?w=1024",
+            "alt": "Rosalía, Javier Bardem, Rebecca Ferguson, Connor Storrie und Odessa A'zion",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/connor-storrie-rosalia-wet-lionsgate-1237221317/"
+          }
+        },
+        {
+          "title": "„Avengers: Endgame – Encore“ kommt am 13. November zu Disney+, mit erstem Blick auf „Doomsday“",
+          "lead": "Disney+ bringt eine Encore-Fassung von Avengers: Endgame, die einen ersten Einblick in Avengers: Doomsday enthält. Der neue Avengers-Film startet am 18. Dezember im Kino.",
+          "body": [
+            "Disney+ hat den Start von Avengers: Endgame: Encore auf Freitag, den 13. November, gelegt. Der Abschluss der Infinity-Saga, der weltweit mehr als 2,9 Milliarden Dollar eingespielt hat, enthält in dieser Fassung einen ersten Blick auf Avengers: Doomsday. Dazu veröffentlichte Marvel einen neuen TV-Spot mit dem Titel Countdown to Doomsday.",
+            "Avengers: Doomsday startet am 18. Dezember in den Kinos. Der Film bringt Heldengruppen aus mehreren Universen zusammen: die Avengers, die Wakander aus Black Panther, die Thunderbolts, die inzwischen als New Avengers firmieren, die Fantastic Four von Erde-828 und die ursprünglichen X-Men.",
+            "Zur Vorbereitung hat Disney+ eine Liste mit 15 Filmen und Serien zusammengestellt, darunter X-Men, X2, Avengers: Infinity War, Loki, Spider-Man: No Way Home, Deadpool & Wolverine, Thunderbolts* und The Fantastic Four: First Steps.",
+            "Endgame wurde von Kevin Feige produziert, Regie führten Anthony und Joe Russo."
+          ],
+          "highlight": "Der Abschluss der Infinity-Saga, der weltweit mehr als 2,9 Milliarden Dollar eingespielt hat, enthält in dieser Fassung einen ersten Blick auf Avengers: Doomsday.",
+          "assessment": [
+            "Ein alter Film mit neuem Anhang als Werbeträger: Das ist Marketing, aber geschicktes. Marvel weiß, dass Doomsday nur funktioniert, wenn das Publikum sich wieder für das große Ganze interessiert, und kaum etwas weckt diese Erinnerung so zuverlässig wie Endgame.",
+            "Die Watchlist mit 15 Titeln zeigt zugleich das Problem des Marvel-Universums: Wer einsteigen will, braucht Hausaufgaben. Doomsday muss beweisen, dass es auch ohne sie funktioniert."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/avengers-endgame-encore-poster.jpg?w=1024",
+            "alt": "Plakat zu Avengers: Endgame Encore",
+            "credit": "Marvel Studios/Disney+",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911/"
+          }
+        },
+        {
+          "title": "Anthony Clark ist tot: Der Star aus „Yes, Dear“ wurde 62",
+          "lead": "Der Komiker und Schauspieler Anthony Clark ist an den Folgen einer Lungenentzündung gestorben. Bekannt wurde er mit der CBS-Sitcom Yes, Dear.",
+          "body": [
+            "Anthony Clark ist tot. Das teilte sein früherer Kollege Mike O'Malley mit. Clark starb nach Informationen von Deadline an Komplikationen einer Lungenentzündung, er wurde 62 Jahre alt.",
+            "Clark begann als Stand-up-Komiker und war Mitte der Neunziger in Boston schon ein Star, der regelmäßig ausverkaufte Shows spielte. O'Malley erinnerte sich, er sei schon Fan gewesen, bevor er ein Freund wurde. 1995 trat Clark mit Garry Shandling, Dave Chappelle, Dave Attell und Louis C.K. im HBO-Special Young Comedians auf.",
+            "Bekannt wurde er mit der CBS-Sitcom Yes, Dear, die ab 2000 sechs Staffeln lief. Clark spielte dort neben O'Malley, Jean Louisa Kelly und Liza Snyder in einer Komödie über zwei Paare unter einem Dach. Davor und danach führte er die kurzlebigen Serien Boston Common und Soul Man an. Im Kino war er in Peter Bogdanovichs A Thing Called Love an der Seite von River Phoenix und Sandra Bullock zu sehen und als extravaganter Friseur, der Sean Connery in The Rock die Haare schneidet. 2006 moderierte er die vierte Staffel von Last Comic Standing.",
+            "Yes-Dear-Erfinder Greg Garcia schrieb, Clark habe den verrücktesten Humor von allen gehabt. Sein Manager Barry Katz nannte ihn einen der lustigsten und talentiertesten Komiker, die er je gesehen habe. Zuletzt hatte sich Clark aus Hollywood zurückgezogen und mit Immobilien gehandelt."
+          ],
+          "highlight": "Clark begann als Stand-up-Komiker und war Mitte der Neunziger in Boston schon ein Star, der regelmäßig ausverkaufte Shows spielte.",
+          "assessment": [
+            "Anthony Clark gehörte zu den Gesichtern einer Fernsehära, in der Stand-up-Komiker reihenweise eigene Sitcoms bekamen. Yes, Dear war nie Kritikerliebling, aber sechs Staffeln im Network-Fernsehen sind ein Erfolg, den viele größere Namen nicht hatten.",
+            "Dass Kollegen wie O'Malley und Garcia sich vor allem an seinen Humor abseits der Kamera erinnern, sagt viel über ihn. Für viele bleibt er der Friseur aus The Rock, eine kleine Rolle, die man nicht vergisst."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/anthony-clark-dead-yes-dear-actor-1237221232/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/anthony-clark-dead-comedian-yes-dear-actor-1236753548/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Anthony-Clark.jpg?w=1000",
+            "alt": "Schauspieler und Komiker Anthony Clark",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/anthony-clark-dead-yes-dear-actor-1237221232/"
+          }
+        },
+        {
+          "title": "Irma P. Hall ist tot: Die „Big Mama Jo“ aus „Soul Food“ wurde 91",
+          "lead": "Die Schauspielerin Irma P. Hall ist in Dallas gestorben. Sie war erst Lehrerin, bevor sie spät zur Schauspielerei kam und unter anderem in Cannes ausgezeichnet wurde.",
+          "body": [
+            "Irma P. Hall ist am Dienstag, dem 10. November, in Dallas gestorben, umgeben von ihrer Familie. Sie wurde 91 Jahre alt. Eine Todesursache nannte die Familie nicht.",
+            "Am bekanntesten war Hall als Big Mama Jo in George Tillman Jr.s Ensemblefilm Soul Food von 1997, für den sie den NAACP Image Award als beste Nebendarstellerin erhielt. Im selben Jahr spielte sie die Wurzeldoktorin Minerva in Mitternacht im Garten von Gut und Böse. 2004 bekam sie in Cannes einen Preis der Jury für ihre Rolle an der Seite von Tom Hanks in Ladykillers der Coen-Brüder.",
+            "Zu ihren weiteren Filmen gehören A Family Thing, Menschenkind, Patch Adams, Collateral und Tyler Perrys Meet the Browns. In der Showtime-Serie Soul Food spielte sie von 2000 bis 2004 erneut Mama Joe. Ihre Figur inspirierte den Boyz-II-Men-Song A Song for Mama.",
+            "Geboren 1935 in Beaumont, Texas, unterrichtete Hall zwei Jahrzehnte lang Englisch und Fremdsprachen an Schulen in Dallas. Entdeckt wurde sie von Schauspieler und Regisseur Raymond St. Jacques bei einer Lyriklesung, ihr Filmdebüt gab sie 1973 in Book of Numbers. In Dallas half sie, das Minority Repertory Theatre aufzubauen; seit 2015 tragen dort Theaterpreise ihren Namen."
+          ],
+          "highlight": "Entdeckt wurde sie von Schauspieler und Regisseur Raymond St. Jacques bei einer Lyriklesung, ihr Filmdebüt gab sie 1973 in Book of Numbers.",
+          "assessment": [
+            "Irma P. Hall war eine dieser Schauspielerinnen, die einen Film mit wenigen Szenen erden konnten. Dass ausgerechnet Cannes ihre Arbeit in einer Coen-Komödie auszeichnete, zeigt, wie viel sie aus Nebenrollen machte.",
+            "Ihr Weg von der Lehrerin zur Filmschauspielerin, die nebenbei ein Theater für schwarze Künstler in Dallas mit aufbaute, ist eine Biografie, die mehr Aufmerksamkeit verdient hätte als die meisten Starkarrieren."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/irma-p-hall-dead-1237220602/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Irma-P.-Hall.jpg?w=1024",
+            "alt": "Schauspielerin Irma P. Hall",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/irma-p-hall-dead-1237220602/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "KZ Dachau: Archäologen finden Asche mit Knochenresten und 35 Hundezwinger der SS",
+          "lead": "Bei Grabungen am ehemaligen Krematoriumsbereich des KZ Dachau sind Archäologen auf menschliche Überreste und den gut erhaltenen Hundeführerbereich der SS gestoßen. Die Gedenkstätte muss nun entscheiden, wie sie mit dem Ort umgeht.",
+          "body": [
+            "Archäologen sind bei Grabungen auf dem Gelände der KZ-Gedenkstätte Dachau an mehreren Stellen auf eine Schicht Asche gestoßen, die mit Schlacke und Knochenfragmenten durchsetzt ist. Es sei davon auszugehen, dass es sich um menschliche Überreste aus den Öfen des Krematoriums handelt, heißt es in einer gemeinsamen Mitteilung der Gedenkstätte und des Bayerischen Landesamts für Denkmalpflege vom Montag.",
+            "Direkt neben dem früheren Krematoriumsbereich legten die Teams zahlreiche gut erhaltene Reste des Hundeführerbereichs der SS frei, darunter mindestens 35 Zwinger für die Hunde der Wachmannschaften. Die SS hatte die Hundestaffel 1942 eingerichtet. Die Tiere wurden darauf abgerichtet, Häftlinge zu bewachen und einzuschüchtern; viele Überlebende haben in Texten und Zeichnungen beschrieben, wie sie eingesetzt wurden. Außerdem stellte sich heraus, dass in diesem Bereich auch die Verwaltung des Krematoriums saß, die die Verbrennung und Beseitigung der Leichen organisierte und dokumentierte.",
+            "Gedenkstättenleiterin Gabriele Hammermann sprach von unerwarteten Funden. Krematorium und Hundeführerbereich hätten als Orte des Terrors eine enge funktionale Einheit gebildet. Wegen der menschlichen Überreste stehe man bereits im Austausch mit den Erinnerungsgemeinschaften, auch darüber, wie das Areal als Erinnerungsort erschlossen werden kann.",
+            "Die Grabungen fanden im Vorfeld einer geplanten Neugestaltung der Gedenkstätte statt, beauftragt vom Staatlichen Bauamt Freising. Eine zweite Forschungs- und Lehrgrabung führte ein Team der Universität Münster durch. In den zwölf Jahren seines Bestehens waren im KZ Dachau mehr als 200.000 Menschen inhaftiert.",
+            "Generalkonservator Mathias Pfeil betonte die Bedeutung zeitgeschichtlicher Archäologie: Je leiser die Zeitzeugen würden, desto wichtiger werde ihre Rolle. Bilder und Texte lieferten kein vollständiges Bild. „Der Boden wird damit zum letzten und unbestechlichen Zeugen der NS-Verbrechen.“"
+          ],
+          "highlight": "„Der Boden wird damit zum letzten und unbestechlichen Zeugen der NS-Verbrechen.“",
+          "assessment": [
+            "Archäologie des 20. Jahrhunderts wird oft unterschätzt, weil es ja Akten und Fotos gibt. Dachau zeigt, warum das nicht reicht: Erst im Boden wird sichtbar, wie eng Verwaltung, Verbrennung und die Abrichtung der Hunde räumlich beieinander lagen.",
+            "Die schwierigere Aufgabe kommt jetzt. Ein Ort mit menschlicher Asche ist kein Baufeld mehr, sondern ein Grab. Dass die Gedenkstätte zuerst mit den Opferverbänden spricht, bevor sie plant, ist der richtige Weg."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/ss-dog-kennels-beside-the-crematorium-dachau/"
+            },
+            {
+              "name": "leinetal24 / KNA",
+              "url": "https://www.leinetal24.de/welt/archaeologen-stossen-auf-menschliche-ueberreste-in-kz-dachau-zr-94571925.html"
+            },
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/11/dog-kennels-and-human-bone-uncovered-at-nazi-death-camp/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/ss-dog-kennels-dachau-1.jpg",
+            "alt": "Freigelegte Fundamente des SS-Hundeführerbereichs neben dem ehemaligen Krematorium in Dachau",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/ss-dog-kennels-beside-the-crematorium-dachau/"
+          }
+        },
+        {
+          "title": "Die letzte handschriftliche Fassung von „I Have a Dream“ kommt bei Christie's unter den Hammer",
+          "lead": "Sieben gelbe Blätter mit Martin Luther Kings Entwurf seiner berühmtesten Rede lagen jahrzehntelang in einer Schreibtischschublade. Christie's versteigert sie am 22. Januar 2027 und rechnet mit mehr als 10 Millionen Dollar.",
+          "body": [
+            "Sieben gelbe, mit blauer Tinte beschriebene Blätter enthalten die einzige bekannte handschriftliche Endfassung der Rede, die Martin Luther King am 28. August 1963 beim Marsch auf Washington hielt. Christie's versteigert das Dokument am 22. Januar 2027 in New York in einer eigenen Auktion. Der Erlös geht an gemeinnützige Organisationen, darunter die Xernona Clayton Foundation und das King Center in Atlanta.",
+            "King stellte den Text in den frühen Morgenstunden des 28. August in seinem Zimmer im Willard Hotel fertig, gegen vier Uhr, nach Tagen der Abstimmung mit Beratern. Die Rede sollte etwa fünf Minuten dauern. Die Seiten zeigen Korrekturen, Streichungen und Änderungen. Die Worte „I have a dream“ stehen allerdings nicht darin: King fügte die berühmte Passage spontan vor der Menge ein. Das Schlusswort „Free at last, free at last; thank God almighty, we are free at last“ ist dagegen schon enthalten.",
+            "Die Blätter stammen aus dem Nachlass von Edward T. Clayton, PR-Chef der Bürgerrechtsorganisation SCLC und Redenberater Kings. Seine Frau Xernona Clayton fand sie erstmals Ende der Neunziger in einem Umschlag mit der Aufschrift „speech“ in seinem Schreibtisch, erkannte aber nicht, dass es sich um die einzige bekannte Endfassung handelte, und legte sie zurück. Erst 2024 stieß sie erneut darauf; mit Hilfe von Christie's wurde das Dokument identifiziert.",
+            "Einen Schätzpreis nennt Christie's nur auf Anfrage, erwartet aber mehr als 10 Millionen Dollar. Vor der Auktion sind die Seiten vom 16. bis 22. November im National Center for Civil and Human Rights in Atlanta zu sehen, später in Chicago und vom 15. bis 21. Januar 2027 bei Christie's in New York.",
+            "Martin Luther King III. sagte, es sei poetisch, dass die Vergangenheit die Zukunft schützen könne. Das Dokument zeige, wie sein Vater an einer Rede arbeitete, die den Lauf der Bürgerrechtsbewegung prägen sollte."
+          ],
+          "highlight": "Die Worte „I have a dream“ stehen allerdings nicht darin: King fügte die berühmte Passage spontan vor der Menge ein.",
+          "assessment": [
+            "Das schönste Detail dieser Geschichte ist das, was fehlt. Der berühmteste Satz der Rede steht nicht im Manuskript, weil King ihn improvisierte. Das Dokument ist damit auch ein Beleg dafür, dass große Reden nicht nur geschrieben, sondern im Moment gehalten werden.",
+            "Ob ein solches Stück in private Hände gehört, kann man fragen. Dass der Erlös ausdrücklich in Einrichtungen fließt, die Kings Erbe pflegen, und die Seiten vorher öffentlich gezeigt werden, macht die Sache aber vertretbar."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/mercato/ritrovata-in-un-cassetto-bozza-originale-di-i-have-a-dream-martin-luther-king-sara-venduta-da-christies"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/manoscritto-martin-luther-king-cover.jpg",
+            "alt": "Handschriftliche Seiten von Martin Luther Kings Rede beim Marsch auf Washington",
+            "credit": "Christie's",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/mercato/ritrovata-in-un-cassetto-bozza-originale-di-i-have-a-dream-martin-luther-king-sara-venduta-da-christies"
+          }
+        },
+        {
+          "title": "Kasachstan: Goldener Bär im 2200 Jahre alten Grabhügel der Saken",
+          "lead": "In einem geplünderten Grabhügel in Almaty haben Archäologen eine einzigartige goldene Bärenfigur gefunden. Ungewöhnlich ist auch die Zahl der Bestatteten.",
+          "body": [
+            "Archäologen haben in einem Grabhügel aus der frühen Eisenzeit im Gräberfeld Karagaily in Almaty eine goldene Bärenfigur entdeckt. Der Bär steht auf den Hinterbeinen und hält ein topfartiges Gefäß zwischen den Vorderpfoten. Löcher am Sockel zeigen, dass er auf einen Kopfschmuck genäht war.",
+            "„Die Bärenfigur ist in Kasachstan einzigartig. Vergleichbare Funde gab es bisher nicht“, sagte Lyazzat Sagyndykova, Direktorin des Museumsverbunds Almaty, der die Grabung leitete. Der Fund erlaube es, kulturelle Parallelen über ganz Eurasien vom Schwarzmeerraum bis zum Altai zu verfolgen. Welche Bärenart dargestellt ist, ist offen.",
+            "Die Figur stammt aus der Zeit der Saken, nomadischer Reitervölker der eurasischen Steppe. Ähnliche goldene Tierfiguren kennt man aus Kasachstan bereits, etwa einen kleinen Leoparden aus dem Gräberfeld Kok-Kainar aus dem 4. Jahrhundert v. Chr. oder ein Schafsmotiv am Kopfschmuck des berühmten Goldenen Mannes.",
+            "Vorläufige Analysen datieren die Anlage ins 4. bis 3. Jahrhundert v. Chr. Der Hügel ist etwa 2,4 Meter hoch und 26 Meter breit. Nach den gefundenen Knochen könnten hier vier Erwachsene und drei Kinder bestattet worden sein. Das sei für Kasachstan untypisch, sagte der Forscher Marat Nurpeisov; Hügel dieser Größe seien in der Regel für ein oder zwei Menschen angelegt worden.",
+            "Grabräuber hatten den Hügel schon in der Antike geplündert und eine drei Meter tiefe Grube hinterlassen, ihn aber nicht vollständig ausgeräumt. Anthropologische Untersuchungen sollen nun klären, wie viele Menschen tatsächlich bestattet wurden. Einige Funde sollen später im Museum von Almaty gezeigt werden."
+          ],
+          "highlight": "Nach den gefundenen Knochen könnten hier vier Erwachsene und drei Kinder bestattet worden sein.",
+          "assessment": [
+            "Der Goldbär ist das Fotomotiv, die Knochen sind die eigentliche Frage. Sieben Menschen in einem Hügel, der für ein oder zwei gedacht war: Das kann eine Familie, eine Katastrophe oder eine Bestattungssitte sein, die man bisher nicht kannte.",
+            "Schön ist auch, dass Grabräuber vor über 2000 Jahren ausgerechnet dieses Stück übersehen haben. Die Archäologie der Steppe lebt von solchen Resten, die den Plünderern entgangen sind."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/7UUkpDYrSSaQVnxYTcghR8-1920-80.jpg",
+            "alt": "Goldene Bärenfigur aus einem sakischen Grabhügel in Almaty",
+            "credit": "Almaty City Administration",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/2-200-year-old-gold-bear-figurine-and-surprising-number-of-bones-found-in-massive-burial-mound-in-kazakhstan"
+          }
+        },
+        {
+          "title": "Wiederentdeckter Botticelli: Frühe Madonna ist nach 90 Jahren wieder in Oxford zu sehen",
+          "lead": "Eine Madonna mit Kind, 1934 im Ashmolean Museum noch als Werkstattarbeit gezeigt, gilt heute als eigenhändiger Botticelli. Nach einem Ausfuhrstopp bleibt sie in Großbritannien.",
+          "body": [
+            "Eine Tafel von Sandro Botticelli, eine thronende Madonna mit Kind, ist seit dieser Woche im Ashmolean Museum in Oxford zu sehen, mehr als 90 Jahre nach ihrer letzten Ausstellung dort. 1934/35 hatte das Museum sie als Werk aus Botticellis Werkstatt gezeigt. Heute gilt sie als eigenhändig und kehrt mit dieser neuen Zuschreibung zurück.",
+            "Das Bild in Tempera auf Holz misst 83,3 mal 44,9 Zentimeter und entstand um 1470, als der junge Botticelli sich in Florenz durchsetzte. Bei der Prüfung für die Ausfuhrgenehmigung fiel auf, dass das Gesicht Marias in Form und Neigung der Venus aus der Primavera in den Uffizien ähnelt. Auffällig ist zudem das viele Blattgold, das zu Botticellis Zeit schon aus der Mode kam; der Maler, der der Überlieferung nach als Goldschmied ausgebildet wurde, nutzte es weiter.",
+            "Die Provenienz ist gut dokumentiert: Anfang des 19. Jahrhunderts hing das Bild im Oratorium San Giuliano in Florenz, später in einer Kapelle bei Figline Valdarno. 1903 kaufte es der Florentiner Händler Elia Volpi, 1904 erwarb es Lady Wantage in England. Mehr als ein Jahrhundert blieb es in der Familie und war kaum öffentlich zu sehen. Im Dezember 2024 versteigerte Sotheby's es in London.",
+            "Danach drohte die Ausfuhr. Die britische Regierung verhängte 2025 einen befristeten Exportstopp, um einer heimischen Institution den Kauf zu ermöglichen; der Preis lag bei 9,96 Millionen Pfund plus Mehrwertsteuer. Gekauft hat am Ende die private Klesch Collection, die das Bild nun für drei Jahre an das Ashmolean verleiht. Im Sommer 2026 wurde es restauriert, vergilbter Firnis und Übermalungen wurden entfernt."
+          ],
+          "highlight": "1934/35 hatte das Museum sie als Werk aus Botticellis Werkstatt gezeigt.",
+          "assessment": [
+            "Die Geschichte zeigt, wie fließend Zuschreibungen sind: Dasselbe Bild war vor 90 Jahren Werkstattware und ist heute ein früher Botticelli für zehn Millionen Pfund. Restaurierung und genauer Vergleich mit gesicherten Werken haben hier mehr bewirkt als jede Expertenmeinung.",
+            "Dass der britische Exportstopp nicht zu einem Museumskauf führte, sondern zu einer privaten Leihgabe, ist ein typischer Kompromiss unserer Zeit. Für Besucher ist das Ergebnis dasselbe, zumindest für drei Jahre."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/arte-antica/un-botticelli-ritrovato-rischiava-di-lasciare-il-regno-unito-ora-a-oxford"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/sandro-botticelli-madonna-col-bambino-klesch-1-1.jpg",
+            "alt": "Sandro Botticelli, Thronende Madonna mit Kind, um 1470",
+            "credit": "Klesch Collection",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/arte-antica/un-botticelli-ritrovato-rischiava-di-lasciare-il-regno-unito-ora-a-oxford"
+          }
+        },
+        {
+          "title": "L'Aquila: Römischer Steinlöwe am alten Stadttor geborgen",
+          "lead": "Bei Grabungen an der Porta Barete in L'Aquila ist ein römischer Löwe aus Kalkstein aufgetaucht. Er soll nun untersucht und restauriert werden.",
+          "body": [
+            "Im archäologischen Bereich der Porta Barete in L'Aquila ist ein Löwe aus Kalkstein aus römischer Zeit geborgen worden. Die zuständige Soprintendenza für die Provinzen L'Aquila und Teramo hat die Skulptur in die Accademia di Belle Arti der Stadt bringen lassen, wo ihr Zustand untersucht und eine Restaurierung vorbereitet wird. Die Bergung fand im Beisein der Kunstschutz-Einheit der Carabinieri statt.",
+            "Die Porta Barete gilt als besonders wichtig für die Rekonstruktion der frühesten Phasen der Stadtgeschichte. Der Löwe ist ein Zeugnis der monumentalen Gestaltung der Zugänge zur antiken Siedlung.",
+            "Die Figur ist nicht vollständig erhalten, besitzt laut Soprintendenza aber formale und qualitative Merkmale, die für die historische und archäologische Erforschung des Ortes interessant sind. Dokumentation, Analysen und Restaurierung sollen nun Technik, Material und kunsthistorische Einordnung klären.",
+            "Wo der Löwe später ausgestellt wird, ist noch offen. Nach der Restaurierung soll über die öffentliche Präsentation entschieden werden."
+          ],
+          "highlight": "Der Löwe ist ein Zeugnis der monumentalen Gestaltung der Zugänge zur antiken Siedlung.",
+          "assessment": [
+            "Eine kleine Meldung, aber eine, die zu L'Aquila passt: Die Stadt, die seit dem Erdbeben 2009 mühsam wieder aufgebaut wird, findet bei den Arbeiten immer wieder Spuren ihrer Vergangenheit.",
+            "Wie viel der Löwe tatsächlich erzählt, hängt von der Untersuchung ab. Steinlöwen bewachten in römischer Zeit oft Tore und Gräber; wo genau dieser stand, wird die spannendere Frage sein."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/archeologia/laquila-riemerge-un-leone-epoca-romana-che-decorava-antico-ingresso-della-citta"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/leone-porta-barete-cover.jpg",
+            "alt": "Römischer Steinlöwe aus dem Grabungsbereich der Porta Barete in L'Aquila",
+            "credit": "Soprintendenza ABAP L'Aquila e Teramo",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/archeologia/laquila-riemerge-un-leone-epoca-romana-che-decorava-antico-ingresso-della-citta"
+          }
+        }
+      ]
+    }
+  ]
+}
