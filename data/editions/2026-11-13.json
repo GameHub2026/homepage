@@ -1,0 +1,669 @@
+{
+  "nr": 37,
+  "date": "2026-11-13",
+  "intro": "Jensen Huang ist nicht mehr Chef von Nvidia, und der Fall zieht inzwischen Ermittlungen und eine Aussage vor dem Kongress nach sich. Daneben zeigt Google sein schnelles Modell Gemini 4 Hydrogen und seine ersten KI-Brillen, Xbox kündigt Wolfenstein 3 an, und eine GDC-Umfrage zeigt, wie schlecht die Stimmung in der Spielebranche ist. Im Kino startet Johnny Depps „Ebenezer“ unter gespaltenen Kritiken, und in der Geschichte geht es um 125.000 Jahre alte Giftwaffen, eine blutige Meuterei und das wiederentdeckte Gesicht Brunelleschis.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Jensen Huang tritt zurück, Colette Kress übernimmt vorerst",
+          "lead": "Nach 33 Jahren an der Spitze ist der Nvidia-Gründer mit sofortiger Wirkung zurückgetreten. Inzwischen ist von einer dritten Affäre die Rede, das US-Justizministerium ermittelt offenbar, und Huang soll noch vor Thanksgiving vor dem Kongress aussagen.",
+          "body": [
+            "Jensen Huang ist am Donnerstag kurz vor Börsenbeginn als CEO und Präsident von Nvidia zurückgetreten und hat auch seinen Sitz im Board of Directors aufgegeben. Übergangsweise führt Finanzchefin Colette Kress den Konzern. Das Board sucht nach einer dauerhaften Lösung und will dabei interne wie externe Kandidaten prüfen. Eine Nachfolgeregelung gab es nicht, Dutzende Führungskräfte berichteten direkt an Huang.",
+            "Ausgelöst hatte den Sturz das Eingeständnis vom vergangenen Wochenende, dass Huang eine Affäre mit Alice Huang hatte, einer Managerin des Nvidia-Kunden Megaspeed aus Singapur. Sie gilt als mutmaßliche chinesische Agentin, über Megaspeed sollen KI-Beschleuniger im Wert von mindestens 7,5 Milliarden Dollar nach China gelangt sein. Am Mittwoch berichtete die New York Times über eine zweite Beziehung mit Kimberly Powell, die bei Nvidia das Gesundheitsgeschäft leitet und Huang direkt unterstellt ist. Nun meldet Reuters unter Berufung auf zwei Insider eine dritte Beziehung mit einer weiteren, nicht genannten Mitarbeiterin.",
+            "Die rechtlichen Folgen werden größer. Laut Semafor haben mehrere Abteilungen des US-Justizministeriums Untersuchungen eingeleitet, die neben Nvidia auch Supermicro und Megaspeed betreffen; Anzeichen für eine Anklage gegen Nvidia oder Huang gibt es bislang nicht. Taiwan hat Alice Huang die Einreiseerlaubnis entzogen. Huang hat zugesagt, vor Thanksgiving hinter verschlossenen Türen vor mehreren republikanisch geführten Ausschüssen des Repräsentantenhauses auszusagen. Die Demokraten Richard Neal und Ron Wyden verlangen von Handelsminister Howard Lutnick Auskunft darüber, warum Megaspeed trotz Warnungen der Geheimdienste weiter Chips kaufen durfte.",
+            "Colette Kress ist seit September 2013 bei Nvidia, davor war sie Finanzchefin einer Sparte bei Cisco und 13 Jahre bei Microsoft. Sie versprach, auf dem „außergewöhnlichen Fundament“ aufzubauen, das Huang geschaffen habe. Am Dienstag legt Nvidia Quartalszahlen vor, dann dürfte sie sich erstmals ausführlich äußern. Donald Trump brachte auf Truth Social den früheren Apple-Chef Tim Cook als Nachfolger ins Spiel.",
+            "An der Börse hat der Skandal tiefe Spuren hinterlassen. Nachbörslich fiel die Aktie am Mittwoch um bis zu neun Prozent auf 158 Dollar, den tiefsten Stand seit Mitte 2025. Anfang Oktober war Nvidia noch 5,8 Billionen Dollar wert, am Mittwoch vor Bekanntwerden der zweiten Affäre etwa 4,2 Billionen. Huang hält zwar rund 3,6 Prozent der Anteile, bei Nvidia gilt aber das Prinzip „eine Aktie, eine Stimme“. Anders als Zuckerberg oder die Google-Gründer hatte er keine Sonderstimmrechte, die ihn hätten schützen können."
+          ],
+          "highlight": "Huang hält zwar rund 3,6 Prozent der Anteile, bei Nvidia gilt aber das Prinzip „eine Aktie, eine Stimme“.",
+          "assessment": [
+            "Vor einer Woche hätte niemand darauf gewettet, dass Huang geht. Dass es am Ende nicht die mutmaßliche Spionin war, sondern die Beziehung zu einer direkt unterstellten Managerin, die das Board kippen ließ, ist bezeichnend: Spionagevorwürfe sind politisch, ein Compliance-Verstoß im eigenen Haus ist für ein Aufsichtsgremium juristisch nicht mehr zu verteidigen.",
+            "Kress ist eine Verwalterin, keine Visionärin, und genau das braucht Nvidia gerade. Spannender ist die Frage, was aus den Exportgeschäften nach China wird. Die Ermittlungen gegen Megaspeed und der Brief der Demokraten zielen auch auf die Regierung Trump selbst. Der Fall Huang ist damit längst kein Unternehmensdrama mehr, sondern ein Stück Industriepolitik, das gerade öffentlich verhandelt wird."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nach-Bekanntwerden-einer-zweiten-Affaere-Nvidia-CEO-Jensen-Huang-abgetreten-11522193.html"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Berichte-ueber-kartellrechtliche-Pruefung-Nvidias-und-weitere-Affaere-des-Ex-Chefs-11523636.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+            "alt": "Jensen Huang bei einem öffentlichen Auftritt",
+            "credit": "Tomohiro Ohsumi / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+          }
+        },
+        {
+          "title": "Gemini 4 Hydrogen: Googles schnelles Modell ersetzt Flash und steckt jetzt in der Suche",
+          "lead": "Google hat Gemini 4 Hydrogen veröffentlicht, den Nachfolger von Gemini 3.8 Flash. Das Modell soll deutlich schneller sein, weniger erfinden und treibt ab sofort auch die KI-Funktionen der Google-Suche an.",
+          "body": [
+            "Mit Hydrogen setzt Google seine neue Namensgebung nach chemischen Elementen fort. Während Gemini 4 Carbon und Argon die großen Modelle für schwierige, lange Aufgaben sind, ersetzt Hydrogen die schnellen und günstigen Flash-Modelle, die im Google-Ökosystem am häufigsten genutzt werden. Anders als bei Carbon und Argon, die zuerst nur Sicherheitsforschern und dann zahlenden Ultra-Kunden offenstanden, beginnt der Zugang sofort.",
+            "Hydrogen arbeitet in vier Denkstufen: low, medium, high und neu xhigh. Selbst in der Stufe high sei es 2,5-mal so schnell wie Gemini 3.8 Flash, so Google. Erfundene Behauptungen sollen um mehr als den Faktor fünf seltener sein, im Programmier-Benchmark Terminal-Bench hat sich der Wert mehr als verdreifacht. Im Artificial Analysis Intelligence Index liegt Hydrogen sogar vor dem größeren Argon. Beim Agenten-Benchmark von Agent Arena kommt es auf Platz fünf.",
+            "Für die Google-Suche nennt der Konzern Hydrogen die bislang größte Modellverbesserung. Das Modell soll lange, mehrteilige Fragen und Tippfehler besser verstehen, über die sogenannte Fan-out-Technik mehr Unterabfragen stellen und mehr Links anzeigen. In AI Overviews und im AI Mode sollen häufiger Bilder, Vergleichstabellen und eigene Werkzeuge erscheinen. Die Umstellung läuft weltweit für alle Suchnutzer.",
+            "In der Gemini-App ist Hydrogen laut Ars Technica zunächst Abonnenten von AI Pro und Ultra vorbehalten, Nutzer von AI Plus und der Gratisversion bleiben vorerst bei 3.5 Flash-Lite. Über die API kostet Hydrogen wie bisher Flash 1,50 Dollar pro Million Eingabe-Token und 7,50 Dollar pro Million Ausgabe-Token. Carbon und Argon werden dagegen teurer: Ab nächstem Monat steigen ihre Preise von 2 und 10 auf 4 und 20 Dollar."
+          ],
+          "highlight": "Selbst in der Stufe high sei es 2,5-mal so schnell wie Gemini 3.8 Flash, so Google.",
+          "assessment": [
+            "Die wichtigste Zahl steht nicht in den Benchmarks, sondern in der Preisliste: Hydrogen bleibt so billig wie Flash, während Carbon und Argon ihren Preis verdoppeln. Google lenkt die Masse der Entwickler damit klar auf das kleine Modell und lässt sich die Spitzenmodelle teurer bezahlen. Für viele Agenten-Anwendungen, die tausende kleine Schritte machen, ist das die vernünftigere Wahl.",
+            "Bei der Suche bleibt die alte Skepsis: Mehr Links verspricht Google bei jedem Update. Ob Websites am Ende tatsächlich mehr Besucher bekommen oder ob die KI-Antworten die Klicks weiter auffressen, wird man erst in einigen Wochen an den Zahlen der Verlage sehen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
+            "alt": "Ankündigungsgrafik von Google zu Gemini 4 Hydrogen",
+            "credit": "Google",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+          }
+        },
+        {
+          "title": "Google und Samsung bringen ihre KI-Brillen im Dezember, ab 395 Dollar",
+          "lead": "Die gemeinsam mit Warby Parker und Gentle Monster entwickelten Brillen mit Gemini lassen sich ab sofort vorbestellen. Sie kommen zunächst nur in den USA und Südkorea, einen Europastart gibt es noch nicht.",
+          "body": [
+            "Google und Samsung greifen Meta auf dessen erfolgreichstem Hardware-Feld an. Ihre KI-Brillen, die sie zusammen mit den Brillenmarken Warby Parker und Gentle Monster gestaltet haben, kommen am 10. Dezember in den Handel. Die Modelle von Warby Parker kosten ab 395 Dollar, die von Gentle Monster ab 449 Dollar. Verkauft wird zunächst nur in den USA, die Gentle-Monster-Modelle gibt es zusätzlich in Südkorea.",
+            "Insgesamt stehen 30 Varianten zur Wahl, auch mit Sehstärke. Die Brillen wiegen rund 40 Gramm, der Akku hält laut Google bis zu neun Stunden, das Etui liefert bis zu sieben weitere Ladungen. Eingebaut sind eine 12-Megapixel-Kamera, Mikrofone und offene Lautsprecher. Ein Display fehlt noch, solche Modelle dürften im nächsten Jahr folgen. Die Brillen arbeiten mit ausgewählten Pixel- und Samsung-Telefonen sowie mit iPhones ab dem 13 Pro, setzen aber ein Google-Konto aus den USA oder Südkorea voraus.",
+            "Gemini beantwortet über die Kamera Fragen zur Umgebung, Google Maps gibt gesprochene Wegbeschreibungen, Google Translate übersetzt Gespräche in mehr als 70 Sprachen. Blinde und sehbehinderte Menschen können sich die Umgebung beschreiben lassen oder über den Dienst Aira einen menschlichen Assistenten zuschalten, der das Kamerabild live sieht.",
+            "Beim Datenschutz setzen die Hersteller auf bekannte Mittel. Eine LED zeigt Umstehenden an, wenn aufgenommen wird; ist sie verdeckt, soll die Aufnahme blockiert werden. Bei visuellen Anfragen an Gemini werden die Gesichter Unbeteiligter vor der Verarbeitung unkenntlich gemacht. Die Bilder sollen weder für das Training von KI-Modellen noch für personalisierte Werbung verwendet werden."
+          ],
+          "highlight": "Bei visuellen Anfragen an Gemini werden die Gesichter Unbeteiligter vor der Verarbeitung unkenntlich gemacht.",
+          "assessment": [
+            "Google kommt spät, aber mit dem stärkeren Argument: Wer ohnehin Android, Maps und Translate nutzt, bekommt mit der Brille eine Verlängerung seines Telefons, keine neue Plattform. Das automatische Verpixeln fremder Gesichter ist ein echter Unterschied zu Meta, auch wenn es das Grundproblem nicht löst, dass Fremde nie gefragt werden.",
+            "Für Nutzer in Deutschland ist die Brille vorerst ohnehin nur Zukunftsmusik. Die Bindung an US-Konten zeigt, dass Google die europäischen Regeln für KI und Datenschutz erst einmal umschifft."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/7/1/1/Google-Samsung-KI-Brillen-873739d4c9af2ab1.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Die KI-Brillen von Google und Samsung in verschiedenen Fassungen",
+            "credit": "Google / Samsung",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Googles-KI-Brillen-starten-im-Dezember-ab-395-US-Dollar-11523374.html"
+          }
+        },
+        {
+          "title": "Angriff auf Fireworks AI: Hacker erbeuten Chatprotokolle von Notion-Kunden",
+          "lead": "Beim KI-Plattformanbieter Fireworks AI sind Unbekannte über dessen Cloud-Anbieter eingedrungen. Betroffen ist unter anderem Notion, dessen KI-Chats teilweise abgeflossen sind.",
+          "body": [
+            "Fireworks AI ist eine Plattform, über die Entwickler offene KI-Modelle nutzen. Nach eigenen Angaben ist ein Angreifer zunächst beim Cloud-Anbieter des Unternehmens eingedrungen und gelangte von dort in ein Entwicklungssystem von Fireworks. Erbeutet wurden Rechnungsdaten von Kunden und einzelne Datensätze. Fireworks nennt Zehntausende Kunden weltweit, darunter das Legal-Tech-Unternehmen Harvey und den Coding-Dienst Cursor.",
+            "Bestätigt betroffen ist Notion. Laut dessen Mitteilung geht es um etwa ein Prozent der eigenen Kunden. Die Angreifer haben Chatprotokolle von Notion-AI-Nutzern mitgenommen, die die Funktion „Insights“ verwendet haben, und zwar jede Eingabe an das Modell und jede Ausgabe, die im Chat landete. Vieles davon lasse sich allerdings keinem bestimmten Kunden zuordnen. Notion hat am 3. November alle Verbindungen zu Fireworks gekappt und die dort gespeicherten Daten gelöscht.",
+            "Fireworks hält die Täter für finanziell motiviert. Ihr Ziel sei es vor allem, Zugänge zu Sprachmodellen weiterzuverkaufen, damit Dritte auf fremde Rechnung KI-Rechenzeit verbrauchen können. Es ist bereits der zweite Sicherheitsvorfall bei Fireworks innerhalb von zwei Monaten, der erste ereignete sich im Oktober."
+          ],
+          "highlight": "Die Angreifer haben Chatprotokolle von Notion-AI-Nutzern mitgenommen, die die Funktion „Insights“ verwendet haben, und zwar jede Eingabe an das Modell und jede Ausgabe, die im Chat landete.",
+          "assessment": [
+            "Der Fall zeigt die Schwachstelle der KI-Lieferkette: Notion-Kunden wussten vermutlich gar nicht, dass ihre Chats über einen Zwischenanbieter laufen. Jede zusätzliche Station zwischen Nutzer und Modell ist eine weitere Tür, und wer Notizen, Verträge oder Firmeninterna in einen KI-Chat kippt, legt sie in Wahrheit bei mehreren Firmen ab.",
+            "Bemerkenswert ist auch das Motiv. Der Handel mit gestohlenen Modellzugängen ist offenbar lukrativ genug, um gezielt Infrastrukturanbieter anzugreifen. Das wird nicht der letzte Vorfall dieser Art sein."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+            "alt": "Verfremdetes Notion-Logo mit Glitch-Effekt",
+            "credit": "TechCrunch / composite",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+          }
+        },
+        {
+          "title": "United Airlines sperrt KI-Agenten aus der Flugbuchung aus",
+          "lead": "Die US-Fluggesellschaft will verhindern, dass persönliche KI-Assistenten im Namen ihrer Nutzer Flüge buchen oder Reservierungen ändern. Sie verweist auf Sicherheitsrisiken und Bundesvorschriften.",
+          "body": [
+            "United Airlines schränkt den Zugriff von KI-Agenten auf seine Systeme ein. Das betrifft die eigene Website und App, aber auch indirekt Reisebüros und Vergleichsportale. Verboten werden sollen nicht autorisierte persönliche KI-Assistenten von Drittanbietern; dazu passt United seine Richtlinien für Buchung, Ticketausstellung und Vertrieb an.",
+            "Als Begründung nennt die Airline vor allem die Weitergabe von Zugangsdaten. Wer seinem KI-Assistenten das Passwort gibt, könne sensible Daten preisgeben, und die Werkzeuge könnten ungewollte Käufe, Kontoänderungen oder die Einlösung von MileagePlus-Meilen auslösen. Dazu kommen Bundesvorschriften: Beim Check-in muss etwa ein Mensch bestätigen, dass das Gepäck keine verbotenen Stoffe enthält.",
+            "United ist nicht allein. Airlines und Banken tun sich zunehmend schwer, echte Kunden von KI-Systemen zu unterscheiden, die in deren Namen handeln. Erst vergangene Woche hatte unter anderem die Bank of America ihre Kunden aufgefordert, Passwörter nicht mit KI-Assistenten zu teilen."
+          ],
+          "highlight": "Wer seinem KI-Assistenten das Passwort gibt, könne sensible Daten preisgeben, und die Werkzeuge könnten ungewollte Käufe, Kontoänderungen oder die Einlösung von MileagePlus-Meilen auslösen.",
+          "assessment": [
+            "Die Branche verkauft KI-Agenten gerade als die Assistenten, die uns lästige Buchungen abnehmen. United zeigt, wo das an die Wirklichkeit stößt: Solange Agenten sich mit dem Passwort des Nutzers einloggen, sind sie aus Sicht der Unternehmen nicht von Betrügern zu unterscheiden.",
+            "Die Sperre ist deshalb weniger Technikfeindlichkeit als eine Forderung nach sauberen Schnittstellen. Agenten werden sich erst durchsetzen, wenn es geprüfte, eingeschränkte Zugänge gibt, statt geteilter Passwörter. Daneben geht es United natürlich auch darum, die Kundschaft auf den eigenen Kanälen zu halten."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/United-Airlines-untersagt-KI-Agenten-das-Buchen-von-Fluegen-11523122.html"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
+            "alt": "Flugzeug von United Airlines",
+            "credit": "Skyhobo / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Wolfenstein 3 ist offiziell: MachineGames dreht wieder mit BJ Blazkowicz",
+          "lead": "Fast neun Jahre nach The New Colossus hat Xbox einen dritten Hauptteil der Wolfenstein-Reihe angekündigt. Das Spiel ist laut MachineGames bereits in Produktion.",
+          "body": [
+            "Xbox-Chefin Asha Sharma hat Wolfenstein 3 mit einem knappen Beitrag enthüllt: dem Namen und einem Foto eines Drehbuchs, dazu der Satz, man freue sich darauf, mehr zu zeigen. Das schwedische Studio MachineGames bestätigte, dass das Spiel „in Produktion“ ist, und veröffentlichte ein Foto von einer Motion-Capture-Aufnahme.",
+            "Laut IGN kehren Brian Bloom als William Joseph „BJ“ Blazkowicz und Debra Wilson als Grace Walker zurück, beide scheinen auf dem Foto zu sehen zu sein. Die Ankündigung kam im Rahmen der Feiern zu 25 Jahren Xbox, nur wenige Tage nachdem Bethesda den Titel The Elder Scrolls VI: Sentinel bestätigt hatte.",
+            "Der letzte Hauptteil, Wolfenstein II: The New Colossus, erschien 2017 und erzählte die Geschichte Blazkowiczs in einem alternativen 1960er-Amerika weiter, in dem Nazi-Deutschland den Zweiten Weltkrieg gewonnen hat. 2019 folgte mit Youngblood ein Koop-Ableger mit Blazkowiczs Zwillingstöchtern.",
+            "Am selben Tag bestätigte Sharma auch, dass id Software trotz der jüngsten Entlassungen bereits am nächsten Spiel arbeitet. Ein Termin für Wolfenstein 3 wurde nicht genannt."
+          ],
+          "highlight": "Das schwedische Studio MachineGames bestätigte, dass das Spiel „in Produktion“ ist, und veröffentlichte ein Foto von einer Motion-Capture-Aufnahme.",
+          "assessment": [
+            "Auf diese Fortsetzung warten Fans seit dem offenen Ende von 2017, und MachineGames gehört zu den wenigen Studios, die Shooter mit echter Geschichte bauen. Die Rückkehr der bekannten Besetzung ist ein gutes Zeichen, denn die Reihe lebt mehr von ihren Figuren als von ihren Waffen.",
+            "Die Ankündigung ohne Bild und Termin ist allerdings auch ein Signal an die eigene Belegschaft und die Fans nach einem Jahr voller Entlassungen bei Xbox: Seht her, wir haben noch große Spiele in der Pipeline. Vor 2028 sollte man nicht mit Wolfenstein 3 rechnen."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "alt": "Szene aus Wolfenstein II: The New Colossus",
+            "credit": "Bethesda Softworks",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+          }
+        },
+        {
+          "title": "GDC-Umfrage: Ein Drittel der Spieleentwickler hat seinen Job verloren",
+          "lead": "Der neue State of the Game Industry Report der GDC zeichnet ein düsteres Bild: mehr Entlassungen als im Vorjahr, kaum Hoffnung, und 40 Prozent der Entwickler nutzen generative KI.",
+          "body": [
+            "Für die 15. Ausgabe der Umfrage hat die GDC mehr als 2600 Beschäftigte der Spielebranche befragt. Rund ein Drittel gab an, in den vergangenen zwei Jahren entlassen worden zu sein, laut VGC 34 Prozent, in den USA sogar 39 Prozent. Im Bericht vom Januar waren es noch 28 Prozent. Mehr als die Hälfte der Entlassenen (54 Prozent) hat noch keine neue Stelle, und rund ein Viertel hat sich mindestens 100-mal beworben. Unter den AAA-Beschäftigten sagen 68 Prozent, dass ihr Studio Stellen gestrichen hat.",
+            "Die Stimmung ist entsprechend. 81 Prozent machen sich Sorgen um ihre Zukunft in der Branche, 73 Prozent widersprechen der Aussage, sie seien hoffnungsvoll, wohin sich die Industrie entwickelt. Nur 45 Prozent der Beschäftigten halten ihren Job für die nächsten zwölf Monate für sicher. Ein anonymer Studio-Mitgründer aus Nevada wird mit dem Satz zitiert, die Branche habe jahrelang keine Junioren ausgebildet und feuere nun die erfahrenen Leute, weil sie zu teuer seien.",
+            "Generative KI nutzen inzwischen 40 Prozent der Befragten bei der Arbeit, vier Punkte mehr als zuvor. Eingesetzt wird sie vor allem für Texte, Recherche, Prototypen, Programmierung und Präsentationen. 27 Prozent der AAA-Beschäftigten fühlen sich ermutigt oder gedrängt, KI zu nutzen, bei Indies sind es 9 Prozent. 55 Prozent halten den Einfluss von KI auf Spiele für negativ. Am selben Tag deutete Xbox-Chefin Asha Sharma in einem Memo zu 25 Jahren Xbox an, dass künftig „ein kleines Team Welten bauen kann, für die heute Hunderte Entwickler nötig sind“.",
+            "Bei den Plattformen dominiert der PC: 81 Prozent entwickeln ihr nächstes Projekt dafür, 45 Prozent für die PS5 und 37 Prozent für Xbox Series X/S. 10 Prozent arbeiten bereits für die nächste PlayStation, 8 Prozent für Xbox' Project Helix. Der Anteil der VR- und AR-Projekte ist von 8 auf 3 Prozent eingebrochen. Die Teilnehmer stammen allerdings überwiegend aus dem Westen, nur 6 Prozent aus Ost-, Süd- und Südostasien."
+          ],
+          "highlight": "Mehr als die Hälfte der Entlassenen (54 Prozent) hat noch keine neue Stelle, und rund ein Viertel hat sich mindestens 100-mal beworben.",
+          "assessment": [
+            "Die Zahlen sind ein Befund über den Westen, nicht über die ganze Branche. Analysten wie Amir Satvat argumentieren, dass Stellen vor allem von Nordamerika nach Asien wandern. Für die Betroffenen ändert das wenig: Wer in Kalifornien oder Montreal seinen Job verloren hat, findet offenbar oft keinen neuen.",
+            "Bitter ist das Nebeneinander mit dem Sharma-Memo. Während jeder Dritte entlassen wurde, schwärmt die Chefin des größten westlichen Publishers von kleinen Teams, die dank neuer Werkzeuge riesige Welten bauen. Man muss kein Pessimist sein, um darin eine Ankündigung zu lesen, wohin die Reise bei den Personalkosten gehen soll."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/one-in-three-games-industry-professionals-surveyed-by-gdc-were-laid-off-in-the-past-two-years-more-than-in-its-last-report/"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Titelgrafik des State of the Game Industry Report 2026",
+            "credit": "GDC Festival of Gaming",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work"
+          }
+        },
+        {
+          "title": "Golden Joysticks: Resident Evil Requiem ist Spiel des Jahres",
+          "lead": "Bei den 44. Golden Joystick Awards hat Capcom abgeräumt. Resident Evil Requiem gewann vier Preise, darunter den Hauptpreis, das Studio insgesamt sieben.",
+          "body": [
+            "Resident Evil Requiem, der neunte Hauptteil der Horrorreihe, wurde in der Nacht zum Donnerstag als Ultimate Game of the Year und als Konsolenspiel des Jahres ausgezeichnet. Dazu kamen der Preis für den besten Trailer und für die beste Hauptdarstellerin: Angela Sant'Albano, die Grace Ashcroft spielt.",
+            "Capcom gewann insgesamt sieben Preise und wurde Studio des Jahres. Onimusha: Way of the Sword erhielt den Preis für das beste Audiodesign, Grace Saif wurde für ihre Rolle als Diana in Pragmata als beste Nebendarstellerin geehrt.",
+            "Auch andere Titel wurden mehrfach ausgezeichnet. Dispatch von AdHoc gewann für die beste Geschichte und den besten Soundtrack. Meccha Chameleon holte gleich vier Preise: bestes selbstveröffentlichtes Indie-Spiel, bestes Multiplayer-Spiel, Streamer's Choice und Developer's Choice. Remedys Control Resonant erhielt den Preis für das beste visuelle Design, Subnautica 2 wurde bestes Early-Access-Spiel, Crimson Desert von Pearl Abyss PC-Spiel des Jahres und Big Walk von House House gewann den Kritikerpreis.",
+            "Requiem ist auch kommerziell ein Erfolg. Das Spiel hat bereits mehr als sieben Millionen Exemplare verkauft und Capcom das neunte Gewinnjahr in Folge beschert."
+          ],
+          "highlight": "Capcom gewann insgesamt sieben Preise und wurde Studio des Jahres.",
+          "assessment": [
+            "Die Golden Joysticks sind ein Publikumspreis mit großer Reichweite und deshalb ein guter Gradmesser dafür, was Spieler in diesem Jahr wirklich bewegt hat. Dass Capcom hier so dominiert, passt zu einem Studio, das seit Jahren fast nichts falsch macht: klare Marken, eigene Engine, keine Live-Service-Experimente.",
+            "Interessant ist der Kritikerpreis für Big Walk. House House hatte sich erst vor wenigen Tagen für den nicht offengelegten Einsatz von KI entschuldigt. Die Jury hat sich davon offensichtlich nicht beirren lassen. Mit Blick auf die Game Awards im Dezember ist Requiem jetzt klarer Favorit."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Grace Ashcroft in Resident Evil Requiem",
+            "credit": "Capcom",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty"
+          }
+        },
+        {
+          "title": "Paradox-Chef Fredrik Wester tritt ab, Mattias Lilja übernimmt",
+          "lead": "Nach unruhigen Jahren mit Flops, Absagen und Streit mit Partnerstudios gibt Fredrik Wester die Führung des schwedischen Strategiespiel-Publishers ab. Er bleibt größter Anteilseigner.",
+          "body": [
+            "Paradox Interactive bekommt zum 4. Januar 2027 einen neuen Chef. Der bisherige Vize Mattias Lilja übernimmt, Fredrik Wester bleibt bis dahin im Amt und wechselt dann in den Verwaltungsrat, um sich um die „langfristige Entwicklung“ zu kümmern. Er bleibt der größte Aktionär des Unternehmens.",
+            "„Mein Plan war nie, für immer CEO zu sein“, erklärte Wester. Er führte Paradox bereits von 2009 bis 2018, wechselte dann an die Spitze des Verwaltungsrats und kehrte 2021 als Chef zurück, weil das Unternehmen laut eigener Aussage einen Neustart brauchte. Lilja kam 2009 als erster Produzent zu Paradox, leitete später Studio- und Publishing-Bereiche und war zuletzt operativer Chef.",
+            "Westers zweite Amtszeit war schwierig. Vampire: The Masquerade – Bloodlines 2 erschien nach Jahren der Verzögerung und einem Entwicklerwechsel und floppte. Paradox schrieb 355,3 Millionen Kronen ab, der operative Gewinn brach um 162 Prozent ein. Dazu kamen die Absage der Lebenssimulation Life by You, die unbefristete Verschiebung von Prison Architect 2, die Trennung von Harebrained Schemes und der missratene Start von Cities: Skylines 2, dessen Konsolenfassung bis heute fehlt.",
+            "Lilja kündigte an, das Tempo zu erhöhen, mehr in das Kerngeschäft zu investieren und enger mit Spielern und Moddern zusammenzuarbeiten."
+          ],
+          "highlight": "Paradox schrieb 355,3 Millionen Kronen ab, der operative Gewinn brach um 162 Prozent ein.",
+          "assessment": [
+            "Der Wechsel ist folgerichtig. Paradox ist immer dann stark, wenn es sich auf seine großen Strategiereihen wie Crusader Kings, Europa Universalis und Stellaris konzentriert, und hat unter Wester zu oft versucht, in fremden Genres Fuß zu fassen.",
+            "Lilja ist ein Eigengewächs und kennt die Spiele von innen, das spricht für eine Rückbesinnung. Weil Wester als größter Aktionär im Verwaltungsrat bleibt, ist es aber eher eine Stabübergabe als ein Bruch."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/paradox-ceo-frederik-wester-stepping-down"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/fredrik-wester.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Paradox-Chef Fredrik Wester im Interview",
+            "credit": "Flamman/YouTube",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo"
+          }
+        },
+        {
+          "title": "Nach den Entlassungen: Ex-Entwickler von id Software gründen Hidden Horses",
+          "lead": "Mehr als 20 entlassene Mitarbeiter von id Software haben ein Studio gegründet, das den Beschäftigten selbst gehört. Gleichzeitig bestätigt Xbox, dass id am nächsten Spiel arbeitet.",
+          "body": [
+            "Im Juli hatte Xbox bei id Software rund 136 Stellen gestrichen. Mehr als 20 der Betroffenen, darunter Entwickler, Grafiker und Designer, haben nun das unabhängige Studio Hidden Horses gegründet. Es gehört den Mitarbeitern, die so am Erfolg beteiligt werden sollen. „Wenn Menschen am Erfolg einer Sache beteiligt sind, engagieren sie sich stärker“, sagt Mitgründer Andrew Willis.",
+            "Das erste Projekt ist Danger Pay, ein Einzelspieler-Shooter. Finanziert werden soll es über Kickstarter; das Geld ist unter anderem für Lizenzen, Hardware und Krankenversicherung gedacht. Mitgründer Regan Carver beschreibt den Wechsel nüchtern: Früher sei klar gewesen, dass das Unternehmen Erfolg habe, aber nicht, ob es sich um ihn kümmere. Jetzt sei es umgekehrt.",
+            "Am selben Tag erklärte Xbox-Chefin Asha Sharma, id Software arbeite „bereits an seinem nächsten Spiel“. Das Studio selbst schrieb, es handle sich um ein neues Spiel der Teams in Texas und Frankfurt, wieder unter der Leitung von Hugo Martin, dem Game Director von Doom: The Dark Ages. Es werde aber noch dauern, bis man etwas zeigen könne.",
+            "Nach den Entlassungen war spekuliert worden, id sei auf die Größe eines Support-Studios geschrumpft. id selbst hatte damals erklärt, das Team sei etwa so groß wie zu Zeiten von Doom (2016)."
+          ],
+          "highlight": "Das erste Projekt ist Danger Pay, ein Einzelspieler-Shooter.",
+          "assessment": [
+            "Zwei Meldungen, die zusammen ein ehrliches Bild der Branche ergeben. Xbox beeilt sich, ein Spiel anzukündigen, von dem es noch nichts zu zeigen gibt, offenkundig um den Eindruck zu zerstreuen, id sei kaputtgespart worden. Die Leute, die dafür gehen mussten, bauen derweil per Crowdfunding ihr eigenes Studio.",
+            "Mitarbeitergeführte Studios sind kein Allheilmittel, und Kickstarter ist für einen Shooter ein harter Weg. Aber wer bei id Doom gebaut hat, weiß, wie man einen guten Shooter macht. Danger Pay gehört auf die Beobachtungsliste."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2021/06/id-software-sign.jpg",
+            "alt": "Firmenschild von id Software",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "„Ebenezer“ startet: Die Kritiken zu Johnny Depps Comeback fallen gespalten aus",
+          "lead": "Ti Wests düstere Fassung von „A Christmas Carol“ kommt heute in die US-Kinos. Nach den freundlichen ersten Reaktionen sind nun die vollständigen Kritiken da, und sie gehen weit auseinander.",
+          "body": [
+            "„Ebenezer“ ist Johnny Depps erster großer Studiofilm seit Jahren. Regie führt Horrorspezialist Ti West, das Drehbuch stammt von Nathaniel Halpern. Neben Depp als Scrooge spielen Ian McKellen als Jacob Marley, Rupert Grint als Bob Cratchit, Sam Claflin und Daisy Ridley als Neffe Fred und dessen Frau, Andrea Riseborough sowie Tramell Tillman aus „Severance“ als Geist der gegenwärtigen Weihnacht. Der Film dauert 116 Minuten.",
+            "Deadline ist angetan. Die Kritik lobt die Ausstattung von Eve Stewart, die dunkle Kamera und vor allem die Geisterszenen, die so düster seien wie in kaum einer anderen Fassung. Depp habe sichtlich Spaß an der Rolle, und wie Scrooge sehe der begabte Schauspieler nach einer harten Zeit „wieder das Licht“. IndieWire-Kritiker David Ehrlich hält dagegen: Depps Spiel sei „unerträglich“, er grimassiere sich durch jede Szene und mache jede Verwandlung unglaubwürdig. Bei Rotten Tomatoes lag der Film laut The Hollywood Reporter zuletzt bei 50 Prozent.",
+            "Paramount bringt den Film in mehr als 3500 nordamerikanische Kinos und rechnet mit einem Startwochenende von 20 Millionen Dollar in den USA und weiteren 20 Millionen international. Das dürfte für Platz eins reichen, denn der zweite große Neustart, David Leitchs „How to Rob a Bank“, wird nur im hohen einstelligen Millionenbereich erwartet.",
+            "Depp war nach den Missbrauchsvorwürfen und dem Prozess gegen Amber Heard, den er 2022 gewann, weitgehend aus Hollywood verschwunden; Warner hatte ihn 2018 aus „Phantastische Tierwesen“ entlassen. Beobachtern fällt laut The Hollywood Reporter auf, dass er auf der Pressetour jede Selbstreflexion vermeidet. Als Nächstes spielt er in Marc Webbs Thriller „Day Drinker“, der im März 2027 startet."
+          ],
+          "highlight": "Paramount bringt den Film in mehr als 3500 nordamerikanische Kinos und rechnet mit einem Startwochenende von 20 Millionen Dollar in den USA und weiteren 20 Millionen international.",
+          "assessment": [
+            "Die Spaltung der Kritik verläuft fast exakt entlang der Frage, ob man Depps Manierismen noch charmant findet. Das wird auch beim Publikum so sein. Entscheidend ist, dass Paramount den Film als Weihnachtsfamilienfilm positioniert hat und nicht als Horror. Damit hat er über die Feiertage einen langen Atem, selbst wenn das Startwochenende nur mittelmäßig wird.",
+            "Ein echtes Comeback wäre es erst, wenn „Ebenezer“ deutlich über die eigenen Erwartungen von 40 Millionen weltweit am Start hinauskommt. Und die Debatte, ob Depp etwas aufzuarbeiten hätte, wird ihn ohnehin begleiten, egal wie die Zahlen ausfallen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/ebenezer-review-johnny-depp-scrooge-christmas-classic-1237220679/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/criticism/movies/ebenezer-movie-review-johnny-depp-1235227014/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-career-comeback-paramount-1236754032/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/07/EBZR-02234R_rgb.jpg?w=1024",
+            "alt": "Johnny Depp als Ebenezer Scrooge",
+            "credit": "Paramount Pictures",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/ebenezer-review-johnny-depp-scrooge-christmas-classic-1237220679/"
+          }
+        },
+        {
+          "title": "Brad Pitt spielt einen Stahlbauer im New York der Siebziger, Regie führt Darius Marder",
+          "lead": "Nach dem Erfolg von „F1“ arbeiten Brad Pitt und Apple wieder zusammen. „Connector“ wird der erste Film von „Sound of Metal“-Regisseur Darius Marder seit sechs Jahren.",
+          "body": [
+            "Apple hat sich laut Deadline das Projekt „Connector“ gesichert. Brad Pitt spielt die Hauptrolle und produziert über seine Firma Plan B zusammen mit Dede Gardner und Jeremy Kleiner. Darius Marder führt Regie und hat das Drehbuch mit seiner Schwester Nina Marder geschrieben.",
+            "Der Film spielt im New York der 1970er-Jahre und erzählt von einer Legende der Arbeiterklasse: einem Eisenflechter, der auf schmalen Stahlträgern in großer Höhe arbeitet und es mit Mächten aufnimmt, die größer sind als er selbst. Pitt, Plan B und Marder sprechen schon länger über das Projekt. Nach der jüngsten Drehbuchfassung soll Pitt es als möglichen nächsten Dreh für 2027 ins Auge gefasst haben.",
+            "Apple lag nahe: „F1“ wurde nach dem Start 2025 der erfolgreichste Sportfilm aller Zeiten und war als bester Film für den Oscar nominiert. Pitt hat einen starken Herbst hinter sich, sein Überlebensthriller „Heart of the Beast“ spielte weltweit fast 200 Millionen Dollar ein, zu Thanksgiving folgt „The Further Mis-Adventures of Cliff Booth“ und im nächsten Jahr Edward Bergers „The Riders“ für A24.",
+            "Für Marder ist es der zweite Spielfilm. Sein Debüt „Sound of Metal“ (2020) erhielt sechs Oscar-Nominierungen, darunter für den besten Film und sein Originaldrehbuch, und gewann die Preise für Ton und Schnitt."
+          ],
+          "highlight": "Der Film spielt im New York der 1970er-Jahre und erzählt von einer Legende der Arbeiterklasse: einem Eisenflechter, der auf schmalen Stahlträgern in großer Höhe arbeitet und es mit Mächten aufnimmt, die größer sind als er selbst.",
+          "assessment": [
+            "Das ist eine der spannenderen Paarungen der Saison. Marder hat mit „Sound of Metal“ gezeigt, dass er Körperlichkeit und Innenleben zusammenbringen kann, und ein Arbeiterdrama in schwindelnder Höhe bietet beides. Pitt wiederum sucht seit Jahren Rollen, die mehr verlangen als Charme.",
+            "Dass Apple nach „F1“ sofort zugreift, zeigt, wie sehr der Streamer auf Pitt als verlässlichen Kinostar setzt. Es ist ein klassisches Erwachsenenprojekt mit Prestige-Potenzial, wie es die großen Studios kaum noch machen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/brad-pitt-sound-of-metal-director-darius-marder-connector-1237221582/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Brad-Pitt-and-Darius-Marder.jpg?w=1024",
+            "alt": "Brad Pitt und Darius Marder, Porträts nebeneinander",
+            "credit": "Getty/Josh Telles/Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/brad-pitt-sound-of-metal-director-darius-marder-connector-1237221582/"
+          }
+        },
+        {
+          "title": "50 Jahre „Star Wars“: Die Originalfassung von 1977 kommt restauriert ins Kino, auch in IMAX 70mm",
+          "lead": "Lucasfilm und Disney bringen den ersten „Star Wars“ in seiner Kinofassung von 1977 zurück auf die Leinwand. Dazu gibt es eine neue Dokumentation über die Dreharbeiten.",
+          "body": [
+            "Zum 50. Jubiläum im nächsten Jahr haben Lucasfilm und Disney den ersten „Star Wars“-Film restauriert. Ab dem 19. Februar 2027 laufen Vorführungen der Originalversion von 1977, also der Fassung vor den späteren Überarbeitungen. Gezeigt wird in IMAX 70mm, Digital IMAX, digital, auf 70-mm- und 35-mm-Film sowie in 4DX.",
+            "Am 4. Mai 2027 folgt auf Disney+ die Dokumentation „The Hero Awakens“ von R.J. Cutler über die Entstehung des Films. Sie soll ausschließlich aus Archivmaterial bestehen, aus Bild- und Tonaufnahmen, die während und rund um die Dreharbeiten 1977 entstanden. Produziert wird sie von Lucasfilm, Cutler und seiner Firma This Machine sowie Kennedy/Marshall.",
+            "Das Jubiläumsjahr ist dicht gepackt. Die zweite Staffel von „Ahsoka“ startet am 20. Januar 2027, die Star Wars Celebration findet vom 1. bis 4. April in Los Angeles statt, und Shawn Levys Kinofilm „Star Wars: Starfighter“ kommt am 28. Mai.",
+            "„Es ist etwas ganz Besonderes, zum 50. Jubiläum die Originalversion von ‚Star Wars‘ in die Kinos zurückzubringen, damit das Publikum dieses Stück Filmgeschichte auf der großen Leinwand erleben kann“, sagte Lucasfilm-Co-Präsidentin Lynwen Brennan."
+          ],
+          "highlight": "Ab dem 19. Februar 2027 laufen Vorführungen der Originalversion von 1977, also der Fassung vor den späteren Überarbeitungen.",
+          "assessment": [
+            "Das ist die eigentliche Nachricht für Fans: Jahrzehntelang hat Lucasfilm die Kinofassung von 1977 praktisch unter Verschluss gehalten und nur George Lucas' überarbeitete Special Editions angeboten. Dass Disney nun ausgerechnet diese Version restauriert und auf echtem Film zeigt, ist ein später Sieg der Puristen.",
+            "Bleibt die Frage, ob die Fassung danach auch zum Streamen oder auf Disc kommt. Wenn nicht, wird diese Kinotour zum Pflichttermin, auch in Deutschland, sofern die Kopien hierherkommen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/lucasfilm-star-wars-50th-anniversary-rerelease-imax-1237221738/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2023/06/MSDSTWA_EC001.jpg?w=1024",
+            "alt": "Mark Hamill, Carrie Fisher und Harrison Ford in Star Wars von 1977",
+            "credit": "Everett",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/lucasfilm-star-wars-50th-anniversary-rerelease-imax-1237221738/"
+          }
+        },
+        {
+          "title": "„Avengers: Doomsday“ hat zehn Drehbuchautoren, darunter Hugh Jackman und Ryan Reynolds",
+          "lead": "Die Datenbank der Writers Guild verrät, wie viele Hände am Skript des nächsten Avengers-Films mitgeschrieben haben. Für Hugh Jackman ist es die erste offizielle Autorennennung.",
+          "body": [
+            "Im Abspann von „Avengers: Doomsday“ werden die Marvel-Veteranen Stephen McFeely und Michael Waldron als Drehbuchautoren stehen. Die Datenbank der Writers Guild of America führt aber noch acht weitere Autoren, die „zusätzliches literarisches Material“ beigesteuert haben: Ryan Reynolds, Hugh Jackman, Eric Pearson, Chris McKenna, Erik Sommers, Jeff Loveness, Andrew Lanham und Destin Daniel Cretton.",
+            "Reynolds war bereits Autor von „Deadpool & Wolverine“, für Jackman ist es dagegen die erste offizielle Nennung als Autor im WGA-Verzeichnis. Mehrere der Genannten haben zuletzt die Einzelfilme der Figuren geschrieben oder inszeniert, die nun zusammenkommen.",
+            "Die lange Liste erklärt sich aus der Größe des Projekts. Der Film muss die Überlebenden aus „Endgame“ wieder einführen, Robert Downey Jr. als neuen Schurken Doctor Doom etablieren, die Figuren aus „Thunderbolts*“ und „The Fantastic Four: First Steps“ einbinden und die neuen X-Men vorstellen. Hinzu kommt die Arbeitsweise der Regisseure Joe und Anthony Russo, die offen zugegeben haben, ohne fertiges Drehbuch zu drehen. Das Skript sei für sie ein „lebender Organismus“, sagte Joe Russo der Nachrichtenagentur AP.",
+            "Disney bringt „Avengers: Doomsday“ am 18. Dezember in die Kinos."
+          ],
+          "highlight": "Reynolds war bereits Autor von „Deadpool & Wolverine“, für Jackman ist es dagegen die erste offizielle Nennung als Autor im WGA-Verzeichnis.",
+          "assessment": [
+            "Zehn Autoren sind bei einem Film dieser Größe kein Skandal, sondern Handwerk. Die Liste ist trotzdem aufschlussreich: Wenn Reynolds und Jackman an ihren eigenen Szenen schreiben, darf man mit Deadpool-Humor rechnen, der ungefiltert in den Avengers-Film schwappt.",
+            "Den Hinweis auf das unfertige Drehbuch beim Drehstart sollte man dagegen ernst nehmen. Bei „Endgame“ ging das gut, bei vielen anderen Großproduktionen nicht. Ob „Doomsday“ wie ein Film oder wie ein Flickenteppich wirkt, entscheidet sich im Schnitt."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2025/06/173759_0039.jpg?w=1200",
+            "alt": "Ryan Reynolds und Hugh Jackman bei einem gemeinsamen Fernsehauftritt",
+            "credit": "Disney/Randy Holmes",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/"
+          }
+        },
+        {
+          "title": "„The Spot“: Claire Danes und Ewan McGregor im A24-Thriller ab 13. Januar bei Hulu",
+          "lead": "Die Psychothriller-Serie über eine Chirurgin, die womöglich ein Kind überfahren hat, hat einen Starttermin. Hulu zeigt erste Bilder.",
+          "body": [
+            "Hulu startet „The Spot“ am 13. Januar. Die Serie stammt von A24 und wurde von Ed Solomon entwickelt und geschrieben, der auch Showrunner ist. Regie führte Ariel Kleiman. A24 ist federführendes Studio, koproduziert wird mit 20th Television.",
+            "Claire Danes spielt eine erfolgreiche Chirurgin, Ewan McGregor ihren Mann, einen Lehrer. Die beiden beginnen zu vermuten, dass sie für den Tod eines Kindes bei einer Unfallflucht verantwortlich sein könnte. Die Suche nach der Wahrheit führt in ein Geflecht aus Misstrauen und dunklen Geheimnissen und stellt ihre Ehe auf die Probe.",
+            "Neben Danes und McGregor spielen Daveed Diggs, Michael Patrick Thornton und Macon Blair. Danes übernahm die Rolle von Kate Winslet, die ursprünglich für das Projekt vorgesehen war."
+          ],
+          "highlight": "Die beiden beginnen zu vermuten, dass sie für den Tod eines Kindes bei einer Unfallflucht verantwortlich sein könnte.",
+          "assessment": [
+            "Claire Danes in einer Rolle, die zwischen Kontrolle und Schuld schwankt, ist fast ein Versprechen: Das hat sie in „Homeland“ zur Meisterschaft gebracht. Mit McGregor an ihrer Seite und A24 als Studio spricht viel für einen der stärkeren Serienstarts im Januar.",
+            "In Deutschland dürfte die Serie bei Disney+ landen, einen Termin gibt es dafür noch nicht."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/184083_0007_R.jpg?w=1024",
+            "alt": "Ewan McGregor und Claire Danes in einer Szene aus The Spot",
+            "credit": "Disney",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480/"
+          }
+        },
+        {
+          "title": "New Line sichert sich Italiens Oscar-Beitrag „The Spiral“ für ein Remake",
+          "lead": "Nach einem Bieterwettbewerb hat New Line die Remake-Rechte an Paolo Strippolis Horrorthriller gekauft und bringt das Original noch vor Jahresende in US-Kinos.",
+          "body": [
+            "„The Spiral“ ist Italiens Beitrag für den Oscar als bester internationaler Film. Regisseur und Autor Paolo Strippoli erzählt von einer Mutter, gespielt von Jasmine Trinca, deren Familienleben aus den Fugen gerät, als eine geheimnisvolle Fremde, gespielt von Valeria Bruni Tedeschi, sie in einen faustischen Pakt zieht. Außerdem spielen Romana Maggiora Vergano und Adriano Giannini.",
+            "New Line, das inzwischen zu Paramount gehört, hat laut Deadline einen Bieterwettbewerb gewonnen. Der Deal umfasst die Rechte an einem englischsprachigen Remake und die Vertriebsrechte am Original in den USA, Kanada und mehreren asiatischen Märkten. Das italienische Original soll noch vor Jahresende begrenzt in die Kinos kommen, rechtzeitig für die Oscar-Saison.",
+            "Der Film lief im Wettbewerb von Venedig und gewann dort zwei Nebenpreise, beim Festival in Toronto wurde er Zweiter beim Publikumspreis der Midnight-Madness-Reihe. In Sitges erhielt Trinca den Preis als beste Darstellerin, der Film den Silbernen Méliès. In Italien startete er am 4. Oktober und spielte rund 4 Millionen Dollar ein.",
+            "Es ist Strippolis vierter Spielfilm nach „A Classic Horror Story“ (2021), „Flowing“ (2022) und „The Holy Boy“ (2025)."
+          ],
+          "highlight": "Der Deal umfasst die Rechte an einem englischsprachigen Remake und die Vertriebsrechte am Original in den USA, Kanada und mehreren asiatischen Märkten.",
+          "assessment": [
+            "Dass Italien einen Horrorfilm ins Oscar-Rennen schickt, ist schon ungewöhnlich genug. Dass Hollywood sofort das Remake kauft, zeigt, wie hungrig die Studios nach erprobten Genre-Ideen sind, die mit wenig Geld funktionieren.",
+            "Der klügere Teil des Deals ist aber die Kinoauswertung des Originals. Wenn New Line es ernst meint mit der Oscar-Kampagne, bekommt der Film eine Bühne, die italienische Genrekino sonst selten hat. Wer Trinca und Bruni Tedeschi im Original sehen will, sollte nicht auf die US-Fassung warten."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/new-line-the-spiral-italian-film-1237221714/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/The-Spiral.jpg?w=1024",
+            "alt": "Szene aus dem italienischen Horrorthriller The Spiral",
+            "credit": "Propaganda Italia",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/new-line-the-spiral-italian-film-1237221714/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Saudi-Arabien: Womöglich die ältesten Giftwaffen der Welt, 125.000 Jahre alt",
+          "lead": "An einem verschwundenen See in der heutigen Wüste Rub al-Chali haben Archäologen Steinspitzen mit Rückständen eines Pfeilgifts gefunden. Sie wären doppelt so alt wie die bisher ältesten Belege.",
+          "body": [
+            "Die Fundstelle 'Uruq Aljelibah, übersetzt etwa „Sanddünen einer Wasserstelle“, liegt im Süden Saudi-Arabiens im Leeren Viertel, einer der heißesten und trockensten Wüsten der Erde. Vor 125.000 Jahren war hier ein Süßwassersee von etwa 340 Quadratkilometern Fläche und bis zu 29 Metern Tiefe. Fossilien zeigen, dass an seinem Ufer Flusspferde, Büffel, Strauße, Kamele, Gazellen und Oryx lebten, dazu Palmen, Schilf und Bäume.",
+            "Die Forscher fanden mehr als 5500 Steinartefakte und außergewöhnlich gut erhaltene Pflanzenreste wie Fasern, Harze und Holz. Mehrere Steinspitzen zeigen Schäden, wie sie bei der Jagd auf große Tiere entstehen, und unter dem Mikroskop Spuren tierischen Gewebes. Die Werkzeuge lagen dort, wo sich auch die Tierknochen häuften, das Seeufer war also ein Jagd- und Schlachtplatz.",
+            "An einigen Spitzen fanden sich chemische Rückstände des Pfeilgiftbaums Acokanthera schimperi, der in Ost- und Zentralafrika und im Süden Arabiens wächst. Afrikanische Jäger bestreichen mit seinem Extrakt bis heute Speer- und Pfeilspitzen, um Wild zu lähmen oder zu töten. Die Studie erschien am 12. November in der Fachzeitschrift Science.",
+            "Mitautor Chris Clarkson vom Max-Planck-Institut für Geoanthropologie und der Griffith University bleibt vorsichtig. Die Funde wären deutlich älter als die rund 60.000 Jahre alten Giftpfeilspitzen aus Südafrika, man habe aber nicht gezeigt, wie das Gift zubereitet wurde und ob es wirkte. Er spricht deshalb von „möglicherweise den ältesten Belegen“. Sicher sei: Diese Menschen hätten nicht einfach Steine abgeschlagen, sondern Stein mit Holz, Fasern, Harz und womöglich Giftstoffen zu komplexen Waffen kombiniert."
+          ],
+          "highlight": "An einigen Spitzen fanden sich chemische Rückstände des Pfeilgiftbaums Acokanthera schimperi, der in Ost- und Zentralafrika und im Süden Arabiens wächst.",
+          "assessment": [
+            "Wenn sich der Befund hält, verschiebt er das Bild früher Jäger erheblich. Gift ist eine Wissenstechnik: Man muss die Pflanze kennen, die Wirkung verstehen und wissen, wie man das Fleisch danach essen kann. Das spricht für eine Planungstiefe, die man Menschen vor 125.000 Jahren lange nicht zugetraut hat.",
+            "Mindestens so beeindruckend ist das Bild der Landschaft. Flusspferde im Leeren Viertel erinnern daran, dass die Arabische Halbinsel in Feuchtphasen ein grüner Korridor war, über den Menschen aus Afrika weiterziehen konnten."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/middle-east/125-000-year-old-poisoned-stone-points-discovered-on-shore-of-ancient-lake-in-saudi-arabia"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/axh9bmhRPyGafX9fM8992W-2560-80.png",
+            "alt": "Eine Hand hält eine Steinspitze vor einer Wüstenlandschaft",
+            "credit": "Christopher Clarkson / Griffith University",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/middle-east/125-000-year-old-poisoned-stone-points-discovered-on-shore-of-ancient-lake-in-saudi-arabia"
+          }
+        },
+        {
+          "title": "Meuterei auf der Havmanden: Schuh des Gouverneurs und Sklavenhandelsgeld im Wrack gefunden",
+          "lead": "Vor Göteborg haben Taucher im Wrack eines dänischen Sklavenschiffs von 1683 einen ungewöhnlich feinen Schuh und zwei Manillas entdeckt. Der Schuh könnte dem ersten Gouverneur von Dänisch-Westindien gehört haben.",
+          "body": [
+            "Die dänische Fregatte Havmanden („Meermann“) war 1683 auf dem Weg nach St. Thomas in der Karibik, heute Teil der Amerikanischen Jungferninseln. An Bord waren Sträflinge und Schuldknechte, die für die Dänisch-Westindische Kompanie auf der Insel arbeiten sollten. Danach sollte das Schiff nach Westafrika fahren, um versklavte Menschen zu kaufen.",
+            "Wegen Mangel an Essen und Wasser übernahmen Besatzungsmitglieder und Sträflinge nahe den Azoren das Schiff und segelten zurück Richtung Kopenhagen. Sie erschossen den Kapitän und warfen im Ärmelkanal Offiziere über Bord, darunter Jørgen Iversen Dyppel, den ersten Gouverneur von Dänisch-Westindien. Nachdem das Schiff auf Grund gelaufen war, wurden die Meuterer in Kopenhagen zum Tode verurteilt. Laut Dänischem Nationalmuseum ist es eine der blutigsten Meutereien der dänischen Geschichte.",
+            "Im Wrack, das östlich von Göteborg auf dem Meeresgrund liegt, fanden Taucher die hintere Hälfte eines „ungewöhnlich feinen“ Männerschuhs. „Ich sehe sehr viele Schuhe aus Schiffswracks, aber noch nie einen von so hoher Qualität“, sagt Vivi Lena Andersen von den Rudersdal-Museen. Die winzigen, regelmäßigen Löcher am Sohlenrand verlangten Werkzeug und Können, das nur die besten Schuhmacher hatten. Deshalb vermuten die Forscher, dass der Schuh Iversen gehörte.",
+            "Außerdem bargen sie zwei Manillas, ringförmige Metallstücke, mit denen europäische Händler in Westafrika, vor allem an der Küste des heutigen Nigeria, versklavte Menschen bezahlten. In Skandinavien sind solche Funde selten. Dänemark betrieb den transatlantischen Sklavenhandel noch mehr als ein Jahrhundert weiter. König Christian VII. verbot ihn 1792, die Sklaverei in Dänisch-Westindien endete aber erst 1848 nach einem Aufstand."
+          ],
+          "highlight": "Außerdem bargen sie zwei Manillas, ringförmige Metallstücke, mit denen europäische Händler in Westafrika, vor allem an der Küste des heutigen Nigeria, versklavte Menschen bezahlten.",
+          "assessment": [
+            "Die Geschichte hat alles für einen Abenteuerfilm, aber die eigentliche Bedeutung liegt in den unscheinbaren Ringen. Manillas machen greifbar, dass dieses Schiff nicht nur Kolonisten transportieren, sondern Menschen kaufen sollte. Dänemark hat diesen Teil seiner Geschichte lange am Rand gehalten.",
+            "Der Schuh dagegen bringt eine Person zurück, von der sonst kaum etwas überliefert ist. Ob er wirklich Iversen gehörte, wird sich kaum beweisen lassen, aber als Indiz ist er stark."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/slave-payments-and-expensive-and-exclusive-shoe-discovered-on-17th-century-danish-ship-that-sank-after-deadly-mutiny"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/wpN77YV3ARZPMAHaHEGaWN-2560-80.png",
+            "alt": "Links die Ledersohle eines Schuhs aus dem Wrack, rechts eine Hand mit einem Manilla-Ring",
+            "credit": "National Museum of Denmark",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/slave-payments-and-expensive-and-exclusive-shoe-discovered-on-17th-century-danish-ship-that-sank-after-deadly-mutiny"
+          }
+        },
+        {
+          "title": "Das Gesicht Brunelleschis: Wiederentdeckter Terrakottakopf von 1447 erstmals ausgestellt",
+          "lead": "In Florenz ist ab sofort ein Bildnis des Architekten der Domkuppel zu sehen, das 2022 in einem historischen Wohnhaus auftauchte. Es stammt von seinem Adoptivsohn.",
+          "body": [
+            "Der Terrakottakopf zeigt Filippo Brunelleschi und wurde 1447, ein Jahr nach seinem Tod, von dem Bildhauer Andrea di Lazzaro Cavalcanti geschaffen, genannt il Buggiano, Brunelleschis Adoptivsohn. Er wurde 2022 unter der Einrichtung eines historischen Wohnhauses bei Florenz gefunden und 2023 als Modell für die Gedenkbüste des Architekten im Florentiner Dom identifiziert.",
+            "Die Opera di Santa Maria del Fiore kaufte den 25,6 Zentimeter hohen Kopf 2024 für 300.000 Euro und ließ ihn restaurieren. Er soll später ins Museo dell'Opera del Duomo kommen. Weil aus Brunelleschis Lebzeiten und der Zeit kurz nach seinem Tod kaum Bildnisse erhalten sind, gilt er als besonders treues Abbild seiner Gesichtszüge.",
+            "Die Ausstellung „Volti e figure. Brunelleschi dal suo riscoperto ritratto del Buggiano“ im Palazzo Guadagni Strozzi Sacrati läuft vom 12. November 2026 bis 14. Februar 2027, der Eintritt ist frei. Im Zentrum steht der Kopf neben Brunelleschis Totenmaske von 1446, die ebenfalls vom Buggiano stammt. So lässt sich nachvollziehen, wie Florentiner Werkstätten Totenmasken als Vorlage nutzten, um daraus erst ein Tonmodell und dann die Marmorbüste zu fertigen.",
+            "Ergänzt wird die Schau durch Gemälde des 19. Jahrhunderts, etwa Giuseppe Fattoris „Brunelleschi und das Ei“ von 1845 und Frederic Leightons „Der Tod Brunelleschis“ von 1852, das zum ersten Mal in Italien gezeigt wird."
+          ],
+          "highlight": "So lässt sich nachvollziehen, wie Florentiner Werkstätten Totenmasken als Vorlage nutzten, um daraus erst ein Tonmodell und dann die Marmorbüste zu fertigen.",
+          "assessment": [
+            "Fast sechs Jahrhunderte hat eine zerbrechliche Tonfigur überstanden, und das unbemerkt in einem Privathaus. Solche Funde sind selten, und sie zeigen, wie viel Renaissance noch in italienischen Wohnzimmern steckt.",
+            "Das Schöne an dieser Ausstellung ist ihr Fokus auf den Arbeitsprozess. Totenmaske, Modell, Büste: Man sieht, wie aus einem toten Gesicht ein Denkmal wurde. Wer bis Februar nach Florenz kommt, sollte den kostenlosen Abstecher einplanen."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/mostre/riemerge-dopo-quasi-600-anni-volto-terracotta-di-brunelleschi-scoperta-mostra-firenze"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/andrea-di-lazzaro-cavalcanti-testa-di-filippo-brunelleschi-cover.jpeg",
+            "alt": "Terrakottakopf Filippo Brunelleschis von Andrea di Lazzaro Cavalcanti, genannt il Buggiano",
+            "credit": "Opera di Santa Maria del Fiore",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/mostre/riemerge-dopo-quasi-600-anni-volto-terracotta-di-brunelleschi-scoperta-mostra-firenze"
+          }
+        },
+        {
+          "title": "Das Kind von Taung ist drei Millionen Jahre alt, und der Stammbaum wird zum Gestrüpp",
+          "lead": "Eine neue Datierung des berühmten Fossils aus Südafrika stellt die Art Australopithecus africanus infrage. Im Süden Afrikas lebten offenbar mehrere Vormenschenformen nebeneinander.",
+          "body": [
+            "Das Kind von Taung wurde 1924 in Südafrika gefunden und war der erste handfeste Beleg dafür, dass die Wiege der Menschheit in Afrika liegt. Es ist das Typusexemplar der Art Australopithecus africanus. Ein internationales Team unter Leitung von Gabriele Macho von der Vrije Universiteit Brussel datiert es nun in der Fachzeitschrift Nature auf 2,96 bis 3,03 Millionen Jahre.",
+            "Die Forscher untersuchten nicht nur das Alter der Fundstelle, sondern auch die Zahnstruktur, die Entwicklung von Gehirn und Zähnen sowie die Grenze zwischen Dentin und Zahnschmelz in einem Backenzahn. Mehrere erwachsene Fossilien, die lange derselben Art zugerechnet wurden, passen nicht zum Wachstumsmuster des Kindes. Vor allem die Gehirnentwicklung unterscheidet sich.",
+            "Daraus schließt das Team, dass im Gebiet um Sterkfontein mehrere Vormenschenarten lebten, nebeneinander oder nacheinander. Australopithecus africanus sei schlecht definiert, weil nie klare Kriterien festgelegt wurden, welche Funde dazugehören. Strenggenommen ist das Kind von Taung das einzige Fossil, das der Art sicher zugeordnet werden kann.",
+            "Als Ursache sehen die Forscher das Klima. Feuchte und trockene Phasen formten die Landschaft immer wieder um, Populationen wurden getrennt, entwickelten sich auseinander und vermischten sich wieder. Die Region liegt an der Grenze zwischen tropischen und gemäßigten Ökosystemen. Fossile Pollen zeigen, dass das Kind von Taung in einer viel feuchteren, bewaldeten Umgebung lebte als das heutige Südafrika."
+          ],
+          "highlight": "Mehrere erwachsene Fossilien, die lange derselben Art zugerechnet wurden, passen nicht zum Wachstumsmuster des Kindes.",
+          "assessment": [
+            "Die Paläoanthropologie verabschiedet sich seit Jahren vom Bild der geraden Linie vom Affen zum Menschen. Diese Studie geht einen Schritt weiter und stellt eine der bekanntesten Arten selbst infrage. Das ist unbequem, weil Dutzende Fossilien neu einsortiert werden müssten.",
+            "Das Bild eines Gestrüpps statt eines Stammbaums passt aber zu dem, was die Genetik über spätere Menschen zeigt: Vermischung war die Regel, nicht die Ausnahme. Es wäre erstaunlich, wenn das drei Millionen Jahre früher anders gewesen wäre."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/taung-child-dated-to-3-million-years-old/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/taung-child-dated-1.jpg",
+            "alt": "Abguss des Kinds von Taung in drei Teilen: Schädelausguss, Gesicht und Unterkiefer",
+            "credit": "Didier Descouens, CC BY-SA 4.0",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/taung-child-dated-to-3-million-years-old/"
+          }
+        },
+        {
+          "title": "Fingerabdrücke von Kindern: Natufier formten schon vor 15.000 Jahren Tonfiguren",
+          "lead": "Eine Studie zu Tonfiguren aus dem heutigen Israel verlegt die Tradition um bis zu 3000 Jahre nach vorn, lange vor Ackerbau und Töpferei. Und Kinder haben mitgeformt.",
+          "body": [
+            "Die Natufier waren Jäger und Sammler, die etwa von 15.000 bis 11.650 Jahren vor heute in der Levante lebten. Sie waren die ersten in Südwestasien, die sich in dauerhaften oder halbdauerhaften Dörfern niederließen. Bisher galt, dass Tonfiguren erst mit dem Ackerbau vor etwa 11.500 Jahren üblich wurden; von den Natufiern kannte man vor allem Figuren aus Knochen und Stein.",
+            "Ein Team um Laurent Davin hat 154 Tonstücke aus drei Fundorten untersucht: Eynan-Mallaha im oberen Jordantal, die Hayonim-Terrasse in Galiläa und die el-Wad-Terrasse am Karmel. Darunter sind 15 eindeutige Figuren und 139 zylinderförmige Bruchstücke größerer Figuren. Elf der Figuren sind Vögel, oft Enten und Gänse, manche Greifvögel, dazu ein Säugetier, eine Gazelle und zwei menschliche Gestalten. Einige Vögel haben den Kopf gesenkt und nach links gedreht, eine Haltung, die das Team mit dem Balzverhalten von Enten verbindet.",
+            "Unter dem Mikroskop fanden die Forscher Fingerabdrücke von Erwachsenen und von Kindern, manche wohl jünger als zehn Jahre. Eine menschliche Figur trägt zwei übereinanderliegende Abdrücke: einen einer jungen oder erwachsenen Frau und darüber den eines Kindes vor der Pubertät. Das Stück ging offenbar zwischen beiden hin und her. Die Lage der Kinderabdrücke zeigt, dass Kinder beim Formen und Bemalen halfen.",
+            "Einige Stücke tragen rote oder orange Farbspuren. Eine 15.000 Jahre alte Figur zeigt Engobe, eine dünne Schicht farbigen Tons, laut Studie die älteste bekannte Anwendung dieser Technik. Die Arbeit erschien am 11. November in PLOS One."
+          ],
+          "highlight": "Eine menschliche Figur trägt zwei übereinanderliegende Abdrücke: einen einer jungen oder erwachsenen Frau und darüber den eines Kindes vor der Pubertät.",
+          "assessment": [
+            "Das ist einer dieser Funde, bei denen die Vergangenheit plötzlich ganz nah rückt. Ein Kind, das seinen Daumen auf eine Figur drückt, die eine Erwachsene gerade geformt hat: Mehr Alltag geht kaum, und es zeigt, wie Wissen weitergegeben wurde.",
+            "Wissenschaftlich wichtiger ist die Datierung. Wenn symbolische Kunst aus Ton schon Jahrtausende vor dem Ackerbau verbreitet war, ist die Landwirtschaft nicht der Auslöser für diesen Schritt gewesen, sondern eher ein späterer Begleiter. Die Sesshaftigkeit allein reichte offenbar."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/children-helped-adults-shape-natufian-figurines/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/children-natufian-figurines-1.jpg",
+            "alt": "Natufische Tonfiguren von Wasservögeln, einem Greifvogel und einer Mensch-Vogel-Szene",
+            "credit": "Laurent Davin, CC BY 4.0",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/children-helped-adults-shape-natufian-figurines/"
+          }
+        }
+      ]
+    }
+  ]
+}

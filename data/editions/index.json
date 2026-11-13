@@ -1,5 +1,39 @@
 [
   {
+    "nr": 37,
+    "date": "2026-11-13",
+    "updated": "2026-11-13T07:51:25+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Jensen Huang tritt zurück, Colette Kress übernimmt vorerst",
+      "Gemini 4 Hydrogen: Googles schnelles Modell ersetzt Flash und steckt jetzt in der Suche",
+      "Google und Samsung bringen ihre KI-Brillen im Dezember, ab 395 Dollar",
+      "Angriff auf Fireworks AI: Hacker erbeuten Chatprotokolle von Notion-Kunden",
+      "United Airlines sperrt KI-Agenten aus der Flugbuchung aus",
+      "Wolfenstein 3 ist offiziell: MachineGames dreht wieder mit BJ Blazkowicz",
+      "GDC-Umfrage: Ein Drittel der Spieleentwickler hat seinen Job verloren",
+      "Golden Joysticks: Resident Evil Requiem ist Spiel des Jahres",
+      "Paradox-Chef Fredrik Wester tritt ab, Mattias Lilja übernimmt",
+      "Nach den Entlassungen: Ex-Entwickler von id Software gründen Hidden Horses",
+      "„Ebenezer“ startet: Die Kritiken zu Johnny Depps Comeback fallen gespalten aus",
+      "Brad Pitt spielt einen Stahlbauer im New York der Siebziger, Regie führt Darius Marder",
+      "50 Jahre „Star Wars“: Die Originalfassung von 1977 kommt restauriert ins Kino, auch in IMAX 70mm",
+      "„Avengers: Doomsday“ hat zehn Drehbuchautoren, darunter Hugh Jackman und Ryan Reynolds",
+      "„The Spot“: Claire Danes und Ewan McGregor im A24-Thriller ab 13. Januar bei Hulu",
+      "New Line sichert sich Italiens Oscar-Beitrag „The Spiral“ für ein Remake",
+      "Saudi-Arabien: Womöglich die ältesten Giftwaffen der Welt, 125.000 Jahre alt",
+      "Meuterei auf der Havmanden: Schuh des Gouverneurs und Sklavenhandelsgeld im Wrack gefunden",
+      "Das Gesicht Brunelleschis: Wiederentdeckter Terrakottakopf von 1447 erstmals ausgestellt",
+      "Das Kind von Taung ist drei Millionen Jahre alt, und der Stammbaum wird zum Gestrüpp",
+      "Fingerabdrücke von Kindern: Natufier formten schon vor 15.000 Jahren Tonfiguren"
+    ]
+  },
+  {
     "nr": 36,
     "date": "2026-11-12",
     "updated": "2026-11-12T07:49:40+01:00",
