@@ -1,0 +1,569 @@
+{
+  "nr": 38,
+  "date": "2026-11-14",
+  "intro": "Ein Freitag, an dem die Infrastruktur versagt hat: Microsoft kämpfte fast einen Tag lang mit einem weltweiten Ausfall, und in den USA stand der gesamte Luftverkehr stundenlang still, weil alte Radartechnik streikte. Im Fall Nvidia deutet eine Analyse darauf hin, dass Chinas beste offene Modelle auf verbotenen Blackwell-Chips trainiert wurden. Dazu kommen ein Rechtsstreit um „Heat“, Steams verstopfte Prüfwarteschlange kurz vor GTA 6 und ein römisches Reiterstandbild, von dem in Schottland nur ein Bein übrig ist.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Microsofts Großausfall: Fast ein Tag ohne Outlook, Teams und Cloud, Ursache war ein Netzumbau",
+          "lead": "Von Donnerstag bis Freitag fielen weltweit zentrale Dienste von Microsoft 365 aus. Microsoft entschuldigt sich und nennt als Auslöser einen Fehler bei einer früheren Erweiterung der Netzkapazität.",
+          "body": [
+            "Begonnen hat es am Donnerstagmittag (US-Zeit) mit Störungen bei Outlook und Teams, zunächst in Nord- und Südamerika. Daraus wurde binnen Stunden ein weltweiter Ausfall, der auch Microsofts Cloud-Dienste für private und geschäftliche E-Mail, Dateien und Dokumente traf. Laut TechCrunch fielen außerdem die Copilot-KI-Werkzeuge, die Sicherheitssoftware Defender und die Intune-Verwaltung für Administratoren aus, manche Nutzer kamen nicht mehr an ihre Cloud-PCs. Doug Madory vom Netzanalysten Kentik zählte rund 18 Stunden, bis der Verkehr zu Microsofts Diensten zurückkehrte.",
+            "Die Folgen reichten weit über verpasste Mails hinaus. Ars Technica und NBC News berichten von Krankenhäusern, in denen Ärzte Patienten keine Änderungen an der Medikation schicken konnten, von Banken, deren Kunden keine Bestätigungscodes für Überweisungen erhielten, und von Gerichten, deren Arbeit stockte, etwa am Obersten Gerichtshof der Philippinen. In Japan war nach Angaben der Regierung auch staatliche IT betroffen. Ciaran Martin, früher Chef des britischen National Cyber Security Centre, nannte es gegenüber NBC einen der größten Ausfälle aller Zeiten, womöglich schlimmer als die Pannen bei Amazon Web Services und Crowdstrike.",
+            "Technisch beschrieb Microsoft das Problem zunächst so: Server fielen bei automatischen Gesundheitsprüfungen durch und wurden deshalb aus dem Betrieb genommen, ein Kernprozess auf den betroffenen Maschinen war überlastet. Mehrere Rettungsversuche schlugen fehl, wieder hochgefahrene Server wurden unter Last erneut unansprechbar. Um keine Mails zu verlieren, verlängerte Microsoft die Zustellfrist auf 48 Stunden.",
+            "Am Freitag folgte die Erklärung: „Das war ein technisches Problem, das nichts mit Cyberangriffen oder KI-Agenten zu tun hat.“ Der Vorfall gehe auf einen Fehler bei einer früheren Erweiterung der Netzkapazität zurück, der nach einer jüngeren Netzänderung zutage getreten sei. „Es tut uns zutiefst leid“, schrieb das Unternehmen, einen Zeitpunkt für die vollständige Wiederherstellung konnte es am Freitagmittag noch nicht nennen. Ein ausführlicher Bericht zur Ursache ist angekündigt.",
+            "Für die Größenordnung: Microsoft selbst bezifferte im Januar die Zahl der bezahlten kommerziellen Microsoft-365-Abonnements auf mehr als 450 Millionen. Der letzte große Ausfall liegt erst zwei Monate zurück, im September legte ein Fehler in der Authentifizierungskonfiguration die Cloud tagelang lahm."
+          ],
+          "highlight": "Der Vorfall gehe auf einen Fehler bei einer früheren Erweiterung der Netzkapazität zurück, der nach einer jüngeren Netzänderung zutage getreten sei.",
+          "assessment": [
+            "Bemerkenswert ist der Satz, es habe nichts mit KI-Agenten zu tun. Dass ein Konzern so etwas inzwischen eigens dementieren muss, sagt viel über die Stimmung. Die eigentliche Lehre ist aber altmodisch: Eine Änderung am Netz, ein Folgefehler, und Hunderte Millionen Menschen hängen an einem einzigen Anbieter.",
+            "Zwei mehrtägige Ausfälle in zwei Monaten sind für einen Konzern, der seine Cloud als kritische Infrastruktur verkauft, ein ernstes Problem. Behörden und Kliniken, die alles auf Microsoft 365 gesetzt haben, sollten sich spätestens jetzt fragen, wie ihr Notbetrieb ohne Outlook aussieht."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/" },
+            { "name": "Ars Technica", "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/microsoft-outage-apology-blames-upgrade-1237223202/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894",
+            "alt": "Die App-Symbole von Teams und Outlook auf einem Smartphone, Outlook zeigt 1448 ungelesene Nachrichten",
+            "credit": "Andrew Caballero-Reynolds / AFP / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+          }
+        },
+        {
+          "title": "USA stoppen den gesamten Flugverkehr: Alte Radartechnik legt die Flugsicherung lahm",
+          "lead": "Am Freitag durfte in den USA fast fünf Stunden lang kein Flugzeug starten. Verkehrsminister Sean Duffy macht veraltete Hardware verantwortlich, wenige Tage nachdem die Flugsicherung ein KI-System landesweit ausgeweitet hatte.",
+          "body": [
+            "Die Luftfahrtbehörde FAA verhängte am Freitagnachmittag einen landesweiten Startstopp für alle US-Flughäfen. Verkehrsminister Sean Duffy sprach zunächst von einem Kommunikationsproblem, das alle Air Route Traffic Control Centers betreffe, also die 22 Kontrollzentralen, die den Luftraum zwischen den Flughäfen überwachen. Nach knapp fünf Stunden wurde der Stopp aufgehoben. Laut Deadline fielen mehr als 3500 Flüge aus, schätzungsweise 1,5 Millionen Passagiere saßen fest. Air Canada strich für den Abend alle Verbindungen in die USA.",
+            "Es war erst der dritte landesweite Startstopp in der Geschichte der FAA. Der erste galt nach den Anschlägen vom 11. September 2001, der zweite im Januar 2023, als ein System für Pilotenhinweise ausgefallen war und Flüge knapp zwei Stunden am Boden blieben.",
+            "Als Ursache nannte Duffy bei einer Pressekonferenz im Weißen Haus eine „Instabilität“ der Radarsysteme. „Es war die alte Hardware, die ausgefallen ist“, sagte er, Router seien überlastet gewesen. Die Flugsicherung arbeite mit jahrzehntealter analoger Technik aus den Achtziger- und Neunzigerjahren. „Keines der neuen Systeme ist ausgefallen.“ Er warnte, das System werde weiter versagen, und forderte zusätzlich 50 Milliarden Dollar für die Modernisierung, nachdem der Kongress im vergangenen Jahr bereits mehr als 12 Milliarden bewilligt hatte.",
+            "Heimatschutzminister Markwayne Mullin sprach zunächst von einem Telekommunikationsausfall ohne Hinweise auf einen Angriff, wollte später aber einen Cyber- oder KI-Angriff ausdrücklich nicht ausschließen. Weil die Behörden lange kaum informierten, kursierten Gerüchte, auch über ein Software-Update oder ein KI-System.",
+            "Der Hintergrund dieser Spekulation: Am 10. November hatte die FAA angekündigt, ihr KI-gestütztes Planungssystem SMART auf den Luftraum aller 22 Zentralen auszuweiten. Das 875 Millionen Dollar teure, cloudbasierte System soll aus Wetter, Flugrouten, Verkehrsfluss und Personalstand Empfehlungen für Routen und Anflugreihenfolgen ableiten, die letzte Entscheidung liegt bei Menschen. Die Gewerkschaft der Fluglotsen war nach eigenen Angaben weder an Entwurf noch an Tests beteiligt. Einen Zusammenhang mit dem Ausfall hat bislang niemand belegt, Duffy betonte ausdrücklich, die neuen Systeme hätten funktioniert."
+          ],
+          "highlight": "„Es war die alte Hardware, die ausgefallen ist“, sagte er, Router seien überlastet gewesen.",
+          "assessment": [
+            "Dass die größte Luftfahrtnation der Welt ihren Himmel schließen muss, weil Router aus den Neunzigern überlaufen, ist eine bittere Pointe. Die marode Flugsicherung ist seit Jahren bekannt, Geld wurde bewilligt, aber Infrastruktur dieser Art lässt sich nicht im laufenden Betrieb schnell austauschen.",
+            "Politisch wird der Ausfall nun zum Hebel: Duffy nutzte die Pressekonferenz für eine neue Milliardenforderung. Die offene Frage ist eine andere. Wenn neue KI-Planung auf alter Hardware aufsetzt, braucht es klare Auskunft darüber, wie beide Ebenen zusammenhängen. Dass die Lotsen-Gewerkschaft beim SMART-System außen vor blieb, macht das Vertrauen nicht größer."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564/" },
+            { "name": "Ars Technica", "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/" },
+            { "name": "Ars Technica (SMART)", "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg?w=1024",
+            "alt": "Blick auf den Flughafen San Francisco während des landesweiten Startstopps",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564/"
+          }
+        },
+        {
+          "title": "Neu im Fall Nvidia: Chinas beste offene Modelle tragen offenbar Spuren verbotener Blackwell-Chips",
+          "lead": "Eine Analyse von Modellgewichten legt nahe, dass DeepSeek und Moonshot auf Nvidia-Chips trainiert haben, die nicht nach China dürfen. Zugleich wird bekannt, wie wenig Jensen Huang von seiner Interimsnachfolgerin hielt.",
+          "body": [
+            "Will DePue, früher Forscher bei OpenAI und heute Leiter der gemeinnützigen Gruppe Unemployment Labs, hat die offen veröffentlichten Gewichte großer Sprachmodelle von DeepSeek, Moonshot AI, MiniMax und der Ant Group untersucht. Die Gewichte tragen laut seiner Analyse noch Spuren der Hardware, auf der sie trainiert wurden. Bei den meistbeachteten Modellen, darunter Moonshots Kimi K3 und DeepSeeks V4, fand er deutliche Hinweise auf ein Training mit Nvidias Blackwell-Chips.",
+            "Blackwell-GPUs dürfen weder nach China noch an chinesische Unternehmen geliefert werden. Erlaubt ist lediglich der schwächere H200, und zwar über einen Umweg, der der US-Regierung 25 Prozent Zoll einbringt. Der Technologieberater des Weißen Hauses, Michael Kratsios, hatte Moonshot bereits früher im Jahr unter Berufung auf Geheimdienste vorgeworfen, verbotene Chips zu nutzen. Die Forschungsorganisation Epoch AI schätzt, dass 2024 und 2025 rund zwei Millionen fortgeschrittene Chips über verschleierte Lieferwege nach China gelangt sind.",
+            "TechCrunch betont die Grenzen der Analyse: Sie beweist weder, dass die Modelle vollständig auf Nvidia-Hardware trainiert wurden, noch, dass Gesetze gebrochen wurden. Die Chips könnten in Rechenzentren im Ausland stehen, etwa in Malaysia, wohin laut Epoch 2024 und 2025 rund 275.000 Nvidia-Beschleuniger importiert wurden. Genau diese Lücke kritisieren Sicherheitspolitiker seit Langem, weil die Regeln an Besitz und Standort ansetzen und nicht daran, wer die Chips nutzt.",
+            "Die Verbindung zum Fall Huang läuft über Megaspeed. Alice Huang, mit der der zurückgetretene Nvidia-Chef eine Affäre hatte und die als mutmaßliche Agentin des chinesischen Geheimdienstes gilt, war dort Managerin. Gegen das Unternehmen und seine Tochter Speedmatrix ermitteln die USA und Singapur. Bloomberg berichtete am Freitag, eine Firma mit Verbindungen zu Alice Huang sei am Schmuggel verbotener Nvidia-Chips in ein Rechenzentrum in Shanghai beteiligt gewesen. TechCrunch vermutet, dass die mögliche Haftung für Exportverstöße bei der Trennung von Huang eine größere Rolle spielte als die Affären.",
+            "Zugleich berichtet das Wall Street Journal, Huang habe die heutige Interimschefin Colette Kress im Sommer intern als „Reh im Scheinwerferlicht“ bezeichnet und gesagt, sie könne ihm bei Strategie und Entscheidungen nicht helfen. Kress hatte kreditbasierte Geschäfte hinterfragt, an denen Huangs Schwiegersohn Nico Caprez beteiligt war, und die Zusage für OpenAIs Rechenzentrumsprojekt in Ohio von zunächst diskutierten 250 auf 105 Milliarden Dollar gesenkt. Nvidia sucht weiter einen dauerhaften Chef."
+          ],
+          "highlight": "Bei den meistbeachteten Modellen, darunter Moonshots Kimi K3 und DeepSeeks V4, fand er deutliche Hinweise auf ein Training mit Nvidias Blackwell-Chips.",
+          "assessment": [
+            "Für Nvidia ist das die gefährlichere Hälfte des Skandals. Affären beenden Karrieren, Exportverstöße können ein Unternehmen Milliarden und seinen Zugang zu Regierungsaufträgen kosten. Wenn die besten chinesischen Modelle tatsächlich auf Blackwell laufen, steht die gesamte Exportpolitik als wirkungslos da.",
+            "Die WSJ-Geschichte über Kress liest sich dagegen fast wie eine Empfehlung. Wer Huangs Kreditdeals mit dem Schwiegersohn infrage gestellt hat, wirkt im Rückblick nicht wie ein Reh im Scheinwerferlicht, sondern wie die vorsichtigste Person im Raum."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/" },
+            { "name": "TechCrunch (Kress)", "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+            "alt": "Jensen Huang in Lederjacke präsentiert auf einer Bühne ein Hardwaremodul vor Serverkomponenten",
+            "credit": "Sean Gallup / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+          }
+        },
+        {
+          "title": "ChatGPT Wallet: OpenAIs Agenten dürfen jetzt selbst einkaufen",
+          "lead": "OpenAI hat eine Geldbörse in ChatGPT eingeführt. Die Agenten, bei OpenAI „Dots“ genannt, sollen beim Einkauf beraten und die Bestellung gleich selbst abschließen.",
+          "body": [
+            "Zum Start steht die Funktion nur einer begrenzten Zahl von Pro-Abonnenten in den USA offen, die mindestens 18 Jahre alt sind und eine in den USA ausgegebene Visa-, Mastercard- oder American-Express-Karte besitzen. Nutzer hinterlegen ihre Karte einmalig in der ChatGPT Wallet und bitten dann ihren Dot, etwas für sie zu kaufen.",
+            "Vor jedem Kauf zeigt ChatGPT Artikel, Gesamtbetrag und die gewählte Karte an. Freigegeben wird per Face ID oder Fingerabdruck, wodurch ein Nachweis der Transaktion entsteht. Bezahlt wird mit einem Zahlungstoken statt mit den echten Kartendaten, sodass weder der Agent noch der Händler die Kartennummer sieht. Der Händler bekommt vom Dot nur, was er für die Lieferung braucht, etwa Adresse und Kontaktdaten. Bonusprogramme und Käuferschutz der Karte, etwa die Möglichkeit, Abbuchungen anzufechten, sollen erhalten bleiben.",
+            "Später will OpenAI Ausgabenlimits und Regeln nach Kategorien oder Zeiträumen einführen. Dann könnten Nutzer Käufe vorab freigeben, die der Agent eigenständiger erledigt. Für Händler hat OpenAI ein „Commerce Partner Playbook“ veröffentlicht, das erklärt, wie sie Kunden mit Agenten unterstützen können.",
+            "Der Markt ist umkämpft und noch klein. DoorDash und Uber melden laut TechCrunch bislang nur wenige Bestellungen durch KI-Agenten, bei Metas Assistent Muse mit inzwischen mehr als zehn Millionen Nutzern gehört KI-gestütztes Einkaufen dagegen zu den häufigsten Tätigkeiten. Der größte Gegenspieler ist Amazon: Der Konzern sperrt fremde KI-Agenten aus seinem Shop und lenkt Kunden zu seinem eigenen Assistenten Alexa."
+          ],
+          "highlight": "Bezahlt wird mit einem Zahlungstoken statt mit den echten Kartendaten, sodass weder der Agent noch der Händler die Kartennummer sieht.",
+          "assessment": [
+            "Technisch ist das solide gelöst, mit Token, biometrischer Freigabe und erhaltenem Käuferschutz. Die interessante Frage ist eine geschäftliche: Wer einkaufen lässt, gibt die Auswahl aus der Hand, und wer die Auswahl kontrolliert, verdient am Ende an jedem Kauf mit.",
+            "Deshalb ist Amazons Sperre der eigentliche Konflikt. Solange der größte Händler Agenten aussperrt, bleibt ChatGPTs Geldbörse ein Werkzeug für den Rest des Netzes. Dass die Funktion vorerst nur für teure Pro-Konten kommt, zeigt, wie vorsichtig OpenAI selbst noch ist."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/" },
+            { "name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+            "alt": "Die Oberfläche der neuen ChatGPT Wallet",
+            "credit": "OpenAI",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+          }
+        },
+        {
+          "title": "KI-Flut in Brüssel: Das EU-Parlament ertrinkt in maschinell erzeugten Anträgen",
+          "lead": "Chatbots sorgen in den EU-Institutionen für eine Welle von Änderungsanträgen, Anfragen und Beschwerden. Dolmetscher stoßen auf erfundene Gesetze, Beamte und Abgeordnete schlagen Alarm.",
+          "body": [
+            "Die EU sieht sich gern als Vorreiterin bei der Regulierung künstlicher Intelligenz, ihre eigene Verwaltung wird nach einem Bericht des Portals Rapporteur, den heise aufgegriffen hat, aber von KI-erzeugten Inhalten überrollt. Parlaments-Generalsekretär Alessandro Chiocchetti warnte vor einer rasanten Zunahme von Änderungsanträgen, parlamentarischen Anfragen, Petitionen und Anträgen auf Akteneinsicht und führt sie auf den Einsatz generativer KI zurück.",
+            "Parlamentspräsidentin Roberta Metsola rief die Abgeordneten auf, demokratische Verantwortung nicht an Algorithmen abzugeben. Ein mit KI verfasster Änderungsantrag dürfe den Dialog mit Kollegen und den Kontakt zu Wählern nicht ersetzen. Am Donnerstag verabschiedete das Parlament eine Entschließung zu KI in Verwaltung und Demokratie, eigene Leitlinien der Verwaltung sollen folgen.",
+            "Im Alltag zeigt sich das in konkreten Pannen. Dolmetscher, die Texte in 24 Amtssprachen übertragen, finden in Dokumenten von Abgeordneten Halluzinationen und Verweise auf Gesetze, die es nicht gibt. Der juristische Dienst soll mitunter tagelang KI-generierte Behauptungen überprüft haben. Beobachter berichten, manche Parlamentarier nutzten KI, um mit wenig Aufwand Aktivität vorzutäuschen und in internen Ranglisten besser dazustehen.",
+            "Auch andere Stellen sind betroffen. Die Zahl der Beschwerden bei der Europäischen Bürgerbeauftragten ist laut einem hochrangigen Beamten durch KI um 50 Prozent gestiegen. Der estnische KI-Experte und Kommissionsberater Luukas Ilves spricht von einer „Überflutung“ durch autonome Software-Agenten. Unter Beamten wächst der Verdacht, die Kommission beantworte die vielen Anfragen ihrerseits mit KI. Ein Parlamentsassistent warnt vor einer Kommunikation zwischen den Institutionen, die weitgehend ohne Menschen abläuft.",
+            "Einzelne Abgeordnete steuern selbst gegen. Der irische Liberale Barry Andrews hat sich eine Richtlinie gegeben, die KI bei Abstimmungen, Plenarreden, Pressemitteilungen und Anfragen an die Kommission ausschließt. Unter der Richtlinie steht offen der Hinweis, dass sie mit KI-Unterstützung entstanden ist."
+          ],
+          "highlight": "Die Zahl der Beschwerden bei der Europäischen Bürgerbeauftragten ist laut einem hochrangigen Beamten durch KI um 50 Prozent gestiegen.",
+          "assessment": [
+            "Das ist ein Lehrstück dafür, was billige Texterzeugung mit Institutionen macht, die auf Schriftlichkeit beruhen. Jede Anfrage verlangt eine Antwort, jeder Änderungsantrag eine Prüfung. Wenn das Erzeugen fast nichts mehr kostet, das Prüfen aber teuer bleibt, kippt das Verhältnis.",
+            "Das Bild von Maschinen, die Anfragen schreiben, die von Maschinen beantwortet werden, ist mehr als eine Pointe. Es beschreibt eine Demokratie, die zwar viel produziert, in der aber niemand mehr liest. Die Lösung wird wohl weniger in Verboten liegen als in Regeln, die Masse wieder etwas kosten lassen."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/5/7/4/shutterstock_691193746-893c978a5c689c4c.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Ein hoher Stapel Papiere und Mappen in einer Ablage",
+            "credit": "Patthamarat Chaisubin / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Steam im Stau: KI-Schrottspiele verstopfen Valves Prüfung, Indie-Starts verschieben sich",
+          "lead": "Weil Valve mit einer Flut minderwertiger, oft KI-generierter Einreichungen kämpft, dauert die Freigabe neuer Spiele auf Steam deutlich länger. Mehrere Indie-Studios mussten ihre Veröffentlichung verschieben.",
+          "body": [
+            "Anfang November begannen Entwickler, sich über Verzögerungen bei Valves Freigabeprozess zu beschweren. Valve erklärte daraufhin, die Prüfung könne inzwischen bis zu zwölf Tage dauern, weil so viele Einreichungen erneut geprüft werden müssten. Eine Woche später hat sich die Lage laut Eurogamer nicht gebessert.",
+            "Betroffen ist etwa das Tower-Defense-Spiel „Australia Did It: End-of-the-World Railway Defense Business“, das der bekannte Indie-Entwickler Rami Ismail mit Aesthetician Labs gemacht hat. Es sollte am 10. November erscheinen. „Wir sind seit dem 20. Oktober in der Warteschlange, sind am 5. November an einem kleinen Problem mit der Controller-Eingabe gescheitert, das wir am selben Tag behoben haben, und warten seitdem trotz Nachfragen ohne nennenswerte Antwort von Valve“, sagte Ismail.",
+            "Früher sei Steam deutlich schneller gewesen: Zehn bis vierzehn Tage vor dem Start hätten gereicht, um zweimal durchzufallen und trotzdem pünktlich zu erscheinen. Auch das Debüt „Amazing Slot Survivor“ von TwoMenGames musste seinen Termin zurückziehen, die Demo ist wieder online, bis ein neues Datum feststeht. In sozialen Netzwerken melden weitere Studios ähnliche Probleme, darunter die Macher von „Bottled by Bears“ und „Food Devils“.",
+            "Valve hat inzwischen strengere Einreichungsregeln eingeführt, die besonders lieblose Spiele wie komplett per KI zusammengebaute Projekte gar nicht erst in die Warteschlange lassen sollen. Ismail hält das für unzureichend: „Wenn Leute über automatisierte Systeme mehrere Spieleklone am Tag einreichen können, bleibt Valve nur, den Vertrieb einzuschränken, Gebühren zu erhöhen oder den Prozess komplizierter zu machen.“ Eine Neutralität gegenüber KI, die echten Entwicklern nicht schade, gebe es nicht."
+          ],
+          "highlight": "Valve erklärte daraufhin, die Prüfung könne inzwischen bis zu zwölf Tage dauern, weil so viele Einreichungen erneut geprüft werden müssten.",
+          "assessment": [
+            "Hier zeigt sich der Preis des offenen Marktplatzes. Steam war für kleine Studios jahrelang der verlässlichste Weg zum Publikum, gerade weil die Hürden niedrig waren. Wenn generierte Massenware diese Hürden ausnutzt, zahlen ausgerechnet die kleinen Entwickler, die das System groß gemacht haben.",
+            "Ismail hat recht, dass Valve sich entscheiden muss. Höhere Gebühren oder strengere Prüfungen treffen alle, eine klare Haltung zu KI-Massenware träfe nur die Verursacher. Für Indies ist jede Woche Verschiebung bares Geld, besonders kurz vor einem Starttermin wie GTA 6, der den Markt ohnehin leerfegt."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/australia-did-it-keyart-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Titelbild des Spiels „Australia Did It: End-of-the-World Railway Defense Business“",
+            "credit": "Rami Ismail, Aesthetician Labs, Mystic Forge",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/steam-game-submission-review-backlog-ai-slop-approval-delays"
+          }
+        },
+        {
+          "title": "GTA 6 in fünf Tagen: Karte geleakt, Netzbetreiber rüsten sich",
+          "lead": "Kurz vor dem Start am 19. November ist die Leonida-Karte aus der 350-Pfund-Sammleredition aufgetaucht. Großbritanniens größter Breitbandbetreiber rechnet mit einem Download-Rekord.",
+          "body": [
+            "Grand Theft Auto 6 erscheint am Donnerstag, 19. November. Eine Woche vorher ist die Karte des Spiels im Netz aufgetaucht, genauer: ein stilisiertes Poster, das offenbar der Sammleredition für 350 Pfund beiliegt, die selbst kein Exemplar des Spiels enthält. Das Foto soll laut dem Rockstar-Insider Videotech während der GTA-6-Aktion im Londoner Kaufhaus Selfridges entstanden sein.",
+            "Die Karte im Stil zwischen Tourismusplakat der Fünfzigerjahre und Zeichentrickserie zeigt den fiktiven Bundesstaat Leonida unter der Zeile „The Goodtime State“, eine Anspielung auf Floridas Beinamen „Sunshine State“. Sie ist nicht detailliert, bestätigt aber grob die Aufteilung und die wichtigsten Orte. Offiziell ist die Spielwelt doppelt so groß wie die von GTA 5. Ob es ein Gegenstück zu Key West gibt, verrät der Bildausschnitt nicht.",
+            "Ernster nehmen Netzbetreiber den Start. GTA 6 ist das meistvorbestellte Spiel in der Geschichte des PlayStation Store und des Xbox Store, Sony und Microsoft raten dringend, das Spiel vorab herunterzuladen, um Probleme bei der „beispiellosen Nachfrage“ zu vermeiden. „GTA 6 ist schon lange auf unserem Radar“, sagte Trevor Linney, Technikdirektor bei Openreach, dem größten Breitbandnetz Großbritanniens, zu Eurogamer. Man wisse von Fortnite und Call of Duty, wie stark große Veröffentlichungen das Netz belasten, und rechne mit einem neuen Download-Rekord. Die Regulierungsbehörde Ofcom hält die Netze für gut gerüstet.",
+            "Begleitet wird der Start von einem Rechtsstreit. Rockstar wird vorgeworfen, mit der Entlassung von mehr als 30 Beschäftigten gewerkschaftliche Organisierung verhindert zu haben. Das Urteil wurde auf kommende Woche verschoben und könnte damit genau zum Verkaufsstart fallen."
+          ],
+          "highlight": "GTA 6 ist das meistvorbestellte Spiel in der Geschichte des PlayStation Store und des Xbox Store, Sony und Microsoft raten dringend, das Spiel vorab herunterzuladen, um Probleme bei der „beispiellosen Nachfrage“ zu vermeiden.",
+          "assessment": [
+            "Der Kartenleak ist harmlos, ein Poster verrät wenig über das Spiel. Spannender ist, dass Netzbetreiber einen Videospielstart inzwischen wie ein Großereignis im Fernsehen behandeln. Dass Ofcom Spielestarts mit Sportereignissen abstimmt, zeigt, welches Gewicht die Branche hat.",
+            "Wer am 19. spielen will, sollte die Konsole tatsächlich vorher laden lassen. Und das mögliche Urteil zur Gewerkschaftsfrage am Starttag ist ein Schatten, den Rockstar gern vermieden hätte."
+          ],
+          "sources": [
+            { "name": "Eurogamer (Karte)", "url": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition" },
+            { "name": "Eurogamer (Breitband)", "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/GTA-6-Jason-Duval.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Offizielles Artwork von GTA 6 mit der Hauptfigur Jason Duval",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/gta-6-map-leak-online-collectors-edition"
+          }
+        },
+        {
+          "title": "Pearl Abyss baut KI in die gesamte Entwicklung ein, DokeV kommt erst 2028",
+          "lead": "Das Studio hinter Crimson Desert will generative KI in allen Phasen der Spieleentwicklung einsetzen. Sein Monstersammelspiel DokeV ist erneut verschoben.",
+          "body": [
+            "Im aktuellen Quartalsbrief an Investoren schreibt Pearl Abyss, man habe Spielsysteme früher erst nach manueller Umsetzung überprüft. Inzwischen nutze das Studio KI, um verschiedene Designkonzepte schon vor der eigentlichen Umsetzung schnell zu testen. Das ermögliche eine effizientere Verteilung der Ressourcen und beschleunige die Produktion.",
+            "Weiter heißt es, KI werde in verschiedenen Phasen eingesetzt, von der Automatisierung wiederkehrender Aufgaben über Unterstützung bei der Inhaltserstellung bis zur Optimierung von Tests, und man weite den Einsatz „auf unsere gesamte Entwicklungspipeline“ aus. KI sei kein Ersatz für Entwickler, sondern ein Werkzeug für mehr Effizienz und Qualität. Kern des Spielerlebnisses und eigentliche Inhalte blieben in der Hand des Teams.",
+            "Das Studio hat mit dem Thema bereits Ärger erlebt. Kurz nach dem Start von Crimson Desert entdeckten Spieler Bilder im Spiel, die nach KI aussahen. Pearl Abyss räumte ein, dass einige „2D-Requisiten“ mit KI erzeugt worden waren und eigentlich durch handgemachte Grafiken ersetzt werden sollten, und entfernte sie per Patch.",
+            "Außerdem nennt der Brief einen neuen Termin für DokeV: Das Monstersammelspiel zielt nun auf die zweite Hälfte 2028, mehr soll noch in diesem Jahr gezeigt werden. Ursprünglich war DokeV für 2023 angekündigt. Crimson Desert wird zudem für die Switch 2 vorbereitet."
+          ],
+          "highlight": "Das Monstersammelspiel zielt nun auf die zweite Hälfte 2028, mehr soll noch in diesem Jahr gezeigt werden.",
+          "assessment": [
+            "Pearl Abyss formuliert, was viele Studios denken, aber selten so offen an Investoren schreiben. Das Muster ist typisch: Nach außen heißt es Werkzeug, nicht Ersatz, nach innen zählt die Produktionsgeschwindigkeit.",
+            "Dass ausgerechnet DokeV, inzwischen fünf Jahre hinter dem ursprünglichen Plan, als Beleg für mehr Tempo dienen soll, hat eine gewisse Ironie. Nach dem Ärger um die KI-Requisiten in Crimson Desert wird das Studio genau beobachtet werden."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Kliff, der Held aus Crimson Desert, in Rüstung vor einem nebligen Wald",
+            "credit": "Pearl Abyss",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028"
+          }
+        },
+        {
+          "title": "Morrowind, KOTOR und TimeSplitters 2: 21 Spiele der ersten Xbox laufen jetzt auf dem PC",
+          "lead": "Microsoft erweitert die Abwärtskompatibilität auf dem PC um 21 Klassiker der Original-Xbox. Vier davon bringen sogar Erfolge mit.",
+          "body": [
+            "Im Rahmen seiner FanFest-Veranstaltung hat Xbox 21 weitere Spiele der ersten Xbox in den PC-Katalog der Abwärtskompatibilität aufgenommen. Damit sind dort nun 25 Klassiker spielbar. Zu den Neuzugängen gehören The Elder Scrolls 3: Morrowind, Star Wars Battlefront, Star Wars: Knights of the Old Republic und TimeSplitters 2.",
+            "Vier Spiele haben freischaltbare Erfolge: Knights of the Old Republic, Knights of the Old Republic 2, Blinx: The Time Sweeper und Conker: Live and Reloaded. Die Erfolge lassen sich auch beim Spielen auf einer Xbox-Konsole holen.",
+            "Auf derselben Veranstaltung hatte Xbox-Chefin Asha Sharma bestätigt, dass id Software nach Doom: The Dark Ages an einem neuen Spiel arbeitet, kurz zuvor war Wolfenstein 3 angekündigt worden.",
+            "VGC sieht in der Ankündigung auch einen Versuch, nach einem Jahr voller Entlassungen Wohlwollen zurückzugewinnen. Im Zuge des laufenden „Resets“ bei Xbox wurden mehrere Studios ausgegliedert, verkauft oder zusammengelegt, etwa Bethesda und Obsidian, andere haben massiv Personal verloren."
+          ],
+          "highlight": "Damit sind dort nun 25 Klassiker spielbar.",
+          "assessment": [
+            "Für PC-Spieler ist das eine schöne Nachricht, vor allem KOTOR und Morrowind in ihrer Originalfassung legal und ohne Bastelei spielen zu können. Spielerhaltung ist eine der wenigen Disziplinen, in denen Microsoft seit Jahren konsequent liefert.",
+            "Dass das mitten in eine Phase von Entlassungen und Studioverkäufen fällt, ist kein Zufall. Alte Spiele zugänglich zu machen ist günstig und beliebt. Neue Spiele zu finanzieren ist teurer, und genau dort spart Xbox gerade."
+          ],
+          "sources": [
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/" }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/11/Original-Xbox-games-on-PC.jpg",
+            "alt": "Cover von Original-Xbox-Spielen wie KOTOR, Morrowind und TimeSplitters 2 über einem Gaming-PC, Monitor, Laptop und Handheld",
+            "credit": "Xbox",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/21-original-xbox-games-are-now-on-pc-via-backward-compatibility/"
+          }
+        },
+        {
+          "title": "Slay the Spire 2: Erste neue Figur seit dem Start, dazu zwei neue Modi",
+          "lead": "Mega Crit hat das bislang größte Beta-Update für Slay the Spire 2 veröffentlicht. Es bringt den Narren als spielbare Figur und die Modi Blitz und Dread.",
+          "body": [
+            "Slay the Spire 2 erschien im März im Early Access und verkaufte sich laut Eurogamer im ersten Monat mehr als fünf Millionen Mal. Seitdem hat Mega Crit vor allem an Balance, Grafik und Bedienung gearbeitet und unter anderem den Endgegner des dritten Akts, Doormaker, gestrichen, weil der Kampf zu kompliziert war.",
+            "Das Beta-Update 0.113.0 ist nun das bisher größte. Hauptattraktion ist The Fool, beschrieben als „alberner Musiker, der einen Bogen führt“. Die Figur ist noch nicht fertig, Mega Crit kündigt zahlreiche Änderungen an Inhalt und Balance an, bevor sie in die reguläre Version kommt.",
+            "Neu ist außerdem der Modus Blitz, eine verdichtete, chaotische Variante mit Fokus auf den Deckbau. Er wird nach einem beliebigen Ascension-Durchlauf freigeschaltet und hat fünf eigene Ascension-Stufen. Die Karte fehlt, beim Händler wirkt einiges seltsam, und Gold spielt keine Rolle mehr. Der zweite neue Modus, Dread, richtet sich an Spieler, die mit allen Figuren einschließlich des Narren Ascension 10 erreicht haben: Alle Modifikatoren sind aktiv, Bosse sind stärker und verstärken alle Gegner ihres Akts, und Flüche häufen sich beim Aufstieg.",
+            "Rastplätze erscheinen künftig in jedem Akt ein Stockwerk früher. Wer die Neuerungen ausprobieren will, muss in Steam den Beta-Zweig „public-beta“ wählen. Die reguläre Version hat alle Inhalte der vorherigen Beta erhalten."
+          ],
+          "highlight": "Hauptattraktion ist The Fool, beschrieben als „alberner Musiker, der einen Bogen führt“.",
+          "assessment": [
+            "Mega Crit macht es wie beim ersten Teil: lange im Early Access, viel Rückmeldung, öffentliche Betas. Dass das Studio einen ganzen Endgegner streicht, weil er nicht funktioniert, spricht für diese Geduld.",
+            "Eine neue Figur ist in einem Deckbauspiel mehr als neuer Inhalt, sie bringt einen eigenen Kartenpool und damit eine andere Spielweise. Für alle, die das Spiel schon durchgespielt haben, ist das der Grund, wieder einzusteigen."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/slay-the-spire-2-fool-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Offizielles Artwork der neuen Figur The Fool mit Pfeil und Bogen",
+            "credit": "Mega Crit",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/slay-the-spire-2-biggest-update-new-character-the-fool"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Streit um „Heat“: New Regency verklagt Michael Mann wegen der Rechte am Kultfilm",
+          "lead": "Michael Mann will die Rechte am Drehbuch seines Krimiklassikers von 1995 zurückholen. Das Studio New Regency zieht dagegen vor ein Bundesgericht, kurz bevor „Heat 2“ gedreht wird.",
+          "body": [
+            "Mann hat in diesem Jahr mehrfach versucht, über sogenannte Kündigungsmitteilungen nach dem US-Urheberrecht die Rechte am Drehbuch von „Heat“ zurückzubekommen. Das Gesetz erlaubt Autoren, die Übertragung ihrer Rechte nach Jahrzehnten zu widerrufen, allerdings nicht bei Auftragswerken. Genau darauf beruft sich New Regency: Mann habe das Drehbuch als „work for hire“ geschrieben, seine drei Mitteilungen seien deshalb „mangelhaft und ungültig“.",
+            "„Regency hält weiterhin die Rechte am Heat-Drehbuch“, heißt es in der 20-seitigen Klage. Daraus ergäben sich die Film-, Fernseh- und weiteren Rechte am Film. Würden die Kündigungen wirksam, verlöre Regency ab 2028 Rechte, die es seit mehr als drei Jahrzehnten hält, und könnte keine darauf aufbauenden Werke mehr entwickeln, finanzieren oder lizenzieren.",
+            "Manns Seite widerspricht. Es gehe um Manns eigene, persönliche Arbeit an mehreren Drehbüchern in den Achtzigerjahren, aus denen später der Film mit Al Pacino und Robert De Niro wurde, den Mann geschrieben, produziert und inszeniert hat. Er beruft sich auf eine lange vergessene mündliche Vereinbarung von 1988 zwischen ihm und zwei seiner Produktionsfirmen, die ihm als unabhängigem Autor zentrale Rechte zugesprochen habe. „Nach 40 Jahren nimmt Michael Mann das Recht von Autoren wahr, ihr Werk zurückzufordern“, so sein Sprecher.",
+            "Mit der Fortsetzung habe der Streit nichts zu tun, betont Manns Team: „Heat 2“ werde wie geplant ab dem 19. Januar gedreht. Adam Driver hatte erst vor wenigen Tagen bestätigt, darin den Gegenspieler zu spielen."
+          ],
+          "highlight": "Würden die Kündigungen wirksam, verlöre Regency ab 2028 Rechte, die es seit mehr als drei Jahrzehnten hält, und könnte keine darauf aufbauenden Werke mehr entwickeln, finanzieren oder lizenzieren.",
+          "assessment": [
+            "Hinter dem Streit steckt eine Frage, die Hollywood in den nächsten Jahren öfter beschäftigen wird: Wem gehören die großen Stoffe der Achtziger und Neunziger, wenn die Fristen des Urheberrechts greifen? Bei Comicfiguren und Romanen wurde das schon ausgefochten, bei Drehbüchern hängt fast alles an der Frage, ob jemand als Angestellter oder als freier Autor geschrieben hat.",
+            "Für „Heat 2“ ist der Streit zunächst kein Hindernis. Für das, was danach kommt, etwa Serien oder weitere Filme, entscheidet er aber, ob Mann oder das Studio das letzte Wort hat. Dass ausgerechnet ein Film über zwei Männer, die sich nichts schenken, so endet, hat eine gewisse Konsequenz."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/" },
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1857917735.jpg?w=1024",
+            "alt": "Regisseur Michael Mann",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/"
+          }
+        },
+        {
+          "title": "Neu bei DC: Gunn dementiert Eingriffe in „Man of Tomorrow“, Latcham übernimmt ein halb gebautes Universum",
+          "lead": "James Gunn widerspricht Berichten, Skydance habe seinen Superman-Film gesehen und umbauen lassen. Sein Nachfolger Jeremy Latcham startet am 1. Dezember mit einer langen Liste offener Projekte.",
+          "body": [
+            "Nach dem Abgang von Gunn und Peter Safran als Chefs von DC Studios kursieren zahlreiche Gerüchte. Eines besagte, Skydance habe die Superman-Fortsetzung „Man of Tomorrow“ gesehen und weitreichende Änderungen angeordnet. Gunn widersprach auf Threads: „Niemand von Skydance hat den Film überhaupt gesehen“, nur Safran und ein sehr kleiner Kreis von Freunden und Familie. Alle Geschichten in diese Richtung seien falsch.",
+            "„Man of Tomorrow“ ist seit August abgedreht und soll am 9. Juli 2027 starten. David Corenswet spielt wieder Clark Kent, Nicholas Hoult Lex Luthor und Lars Eidinger Brainiac. Dazu kommen unter anderem Rachel Brosnahan, Isabela Merced, Nathan Fillion und Edi Gathegi. Aaron Pierre wechselt als John Stewart aus der HBO-Serie „Lanterns“ ins Kino, Xolo Maridueña kehrt als Blue Beetle zurück.",
+            "Latcham, früher Manager bei Marvel und Produzent von „Dungeons & Dragons: Ehre unter Dieben“, beginnt am 1. Dezember. Laut Deadline hat ihm Skydance-Chef David Ellison keine Vorgaben gemacht, welche Projekte Vorrang haben. Gunns und Safrans Plan „Gods and Monsters“ ist nach Deadlines Rechnung zu etwa 40 Prozent umgesetzt, mit den Filmen „Superman“ und „Supergirl“ sowie den Serien „Lanterns“ und „Creature Commandos“.",
+            "Andere angekündigte Vorhaben kamen nie über die Entwicklung hinaus, etwa die Serien „Paradise Lost“ und „Booster Gold“ oder der Film „The Authority“. Gunn hatte darauf bestanden, nichts zu drehen, dessen Drehbuch nicht fertig war. James Mangold, der einst für „Swamp Thing“ im Gespräch war, konzentriert sich derzeit auf seine Serie „Copland“ für Paramount+."
+          ],
+          "highlight": "Gunn widersprach auf Threads: „Niemand von Skydance hat den Film überhaupt gesehen“, nur Safran und ein sehr kleiner Kreis von Freunden und Familie.",
+          "assessment": [
+            "Gunns Dementi ist auch Selbstschutz. Wenn „Man of Tomorrow“ im Sommer 2027 floppt oder gefeiert wird, soll klar sein, dass es sein Film ist und nicht der eines neuen Eigentümers. Das ist verständlich, denn sein Name hängt an diesem Universum mehr als an jedem anderen.",
+            "Latcham erbt eine merkwürdige Lage: ein Fundament, das funktioniert, aber auf eine Handschrift zugeschnitten ist, die das Haus verlassen hat. Ob er weiterbaut oder neu plant, zeigt sich vermutlich zuerst an den Projekten, die Gunn liegen ließ."
+          ],
+          "sources": [
+            { "name": "Deadline (Gunn)", "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/" },
+            { "name": "Deadline (Latcham)", "url": "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Superman-Jimmy-Olson-LAnters-The-Batman-II.jpg?w=1000",
+            "alt": "Collage mit Szenen aus „Superman“, „Lanterns“ und „The Batman II“",
+            "credit": "Warner Bros. Pictures/DC/Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/"
+          }
+        },
+        {
+          "title": "Trump drängt den Kongress zur Filmförderung: 20 Prozent Steuervorteil für Drehs in den USA",
+          "lead": "Donald Trump wirbt öffentlich für ein parteiübergreifendes Gesetz, das Film- und Fernsehproduktionen in den USA steuerlich fördern soll. In Hollywood wächst die Sorge, dass es vor dem Machtwechsel im Kongress liegen bleibt.",
+          "body": [
+            "Auf Truth Social listete Trump die Abgeordneten auf, die den „Motion Picture, Television, and Entertainment Revitalization Act“ unterstützen, darunter ausdrücklich seinen häufigen Gegner, den demokratischen Senator Adam Schiff. Daneben nannte er Tim Scott, John Cornyn, Raphael Warnock, Alex Padilla, Mark Warner und andere. Das Gesetz sieht eine bundesweite Förderung von 20 Prozent vor.",
+            "Hollywood und viele andere Orte seien durch die Steuervorteile anderer Länder „praktisch ausgeleert“ worden, schrieb Trump. Die Filmindustrie sei „in Amerika gemacht“ worden und müsse „in Amerika bleiben“.",
+            "Seit die Demokraten bei den Zwischenwahlen beide Kammern des Kongresses gewonnen haben, fürchten Befürworter, dass das Gesetz in den verbleibenden Wochen bis zur Vereidigung der neuen Abgeordneten untergeht. Eine Idee ist, es an das Haushaltsgesetz zum Jahresende anzuhängen. Doch dort droht eher eine Verschiebung um einige Monate oder sogar ein neuer Shutdown.",
+            "Offen sind auch die Kosten. Die Schätzung des zuständigen Steuerausschusses des Kongresses steht noch aus, das libertäre Cato Institute rechnet mit 33 bis 49 Milliarden Dollar. Befürworter verweisen auf eigene Studien, nach denen die Förderung deutlich mehr Produktionen und Arbeitsplätze zurückbringen würde."
+          ],
+          "highlight": "Das Gesetz sieht eine bundesweite Förderung von 20 Prozent vor.",
+          "assessment": [
+            "Es ist eine der seltenen Fragen, bei denen Trump und Schiff auf derselben Seite stehen, und das sagt viel über den Druck in der Branche. Viele Produktionen sind in den letzten Jahren ins Ausland abgewandert, wo die Förderung großzügiger ist.",
+            "Ob das Gesetz kommt, ist trotzdem fraglich. Die Lame-Duck-Phase ist voll mit wichtigeren Streitthemen, und eine Förderung im zweistelligen Milliardenbereich ist kein Selbstläufer. Für europäische Drehorte wäre ein Erfolg eine echte Konkurrenz."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/trump-federal-film-incentive-1237223479/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292328576-e1792074477445.jpg?w=1024",
+            "alt": "Donald Trump",
+            "credit": "Andrew Harnik / Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/trump-federal-film-incentive-1237223479/"
+          }
+        },
+        {
+          "title": "Margot Robbie dreht „The Week of Pain“ mit Kristoffer Borgli für A24",
+          "lead": "Nach „The Drama“ und „Dream Scenario“ macht der norwegische Regisseur seinen nächsten Film wieder bei A24, diesmal mit Margot Robbie in der Hauptrolle.",
+          "body": [
+            "Laut Deadline wird Robbie in „The Week of Pain“ spielen, Borgli schreibt das Drehbuch und führt Regie. A24 finanziert und produziert den Film, beteiligt sind außerdem Lars Knudsen und Ari Asters Firma Square Peg, Dilemma Films und Robbies eigene Produktionsfirma LuckyChap. Wie bei Borgli und Square Peg üblich, bleibt die Handlung vorerst geheim.",
+            "Borgli ist bei A24 gut im Geschäft. „The Drama“ mit Zendaya und Robert Pattinson kam im April heraus und spielte weltweit 134 Millionen Dollar ein, davor drehte er „Dream Scenario“ mit Nicolas Cage. Robbie verfolgt seine Arbeit laut Deadline schon länger, hat vor einiger Zeit über eine Zusammenarbeit gesprochen und sich nun festgelegt, den Film 2027 zu drehen.",
+            "Robbie hat ein starkes Jahr hinter sich. Emerald Fennells „Wuthering Heights“ mit Jacob Elordi spielte weltweit 240 Millionen Dollar ein. Derzeit enden die Dreharbeiten zum „Ocean's“-Prequel, in dem sie an der Seite von Bradley Cooper spielt."
+          ],
+          "highlight": "Robbie verfolgt seine Arbeit laut Deadline schon länger, hat vor einiger Zeit über eine Zusammenarbeit gesprochen und sich nun festgelegt, den Film 2027 zu drehen.",
+          "assessment": [
+            "Eine reizvolle Kombination. Borgli macht unbequeme Komödien über Menschen, die an ihrem eigenen Bild zerbrechen, Robbie sucht nach „Barbie“ und großen Studiofilmen offenbar wieder Projekte mit Ecken. Schon der Titel verspricht, dass es nicht gemütlich wird.",
+            "Für A24 ist das auch ein Signal: Das Studio bindet Regisseure, die bei ihm groß geworden sind, und gibt ihnen Stars, ohne sie in den Mainstream zu drängen. Dass die Handlung geheim bleibt, gehört inzwischen fast zur Marke."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997/" },
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Margot-Robbie-and-Kristoffer-Borgli.jpg?w=1024",
+            "alt": "Margot Robbie und Kristoffer Borgli",
+            "credit": "Getty / Bjarne Bare",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/margot-robbie-kristoffer-borgli-the-week-of-pain-a24-1237222997/"
+          }
+        },
+        {
+          "title": "„VisionQuest“: Stärkstes Marvel-Finale seit drei Jahren",
+          "lead": "Das Finale der Disney+-Serie mit Paul Bettany als Vision erreichte am ersten Tag 3,7 Millionen Abrufe. Es schließt die mit „WandaVision“ begonnene Trilogie ab und bereitet „Avengers: Doomsday“ vor.",
+          "body": [
+            "Die letzte Folge lief am Dienstag an und kam nach einem Tag weltweit auf 3,7 Millionen Abrufe bei Disney+. Das ist ein Höchstwert für die Serie und 44 Prozent mehr als bei der vorherigen Folge. Ein Marvel-Finale hatte zuletzt bei der zweiten Staffel von „Loki“ mehr Zuschauer.",
+            "Auch in den Nielsen-Charts hält sich die Serie gut: In der Woche vom 26. Oktober bis 1. November stand sie auf Platz sechs der Streaming-Eigenproduktionen.",
+            "In „VisionQuest“ spielt Paul Bettany Vision, der 2015 in „Avengers: Age of Ultron“ eingeführt wurde, 2018 in „Infinity War“ starb und ohne Gefühle und Erinnerungen wiederbelebt wurde. James Spader kehrt als Ultron zurück, Todd Stashwick spielt den Söldner Paladin, Faran Tahir erneut Raza aus dem ersten „Iron Man“.",
+            "Die Szene im Abspann deutet die Rückkehr von Wanda Maximoff an. Laut Disney stieg nach dem Finale auch der Kartenverkauf für „Avengers: Doomsday“, das im Dezember ins Kino kommt."
+          ],
+          "highlight": "Das ist ein Höchstwert für die Serie und 44 Prozent mehr als bei der vorherigen Folge.",
+          "assessment": [
+            "Marvels Serien hatten zuletzt einen schweren Stand, viele galten als Pflichtprogramm für Fans. „VisionQuest“ zeigt, dass eine Serie trägt, wenn sie eine eigene Geschichte erzählt und nicht nur Brücken baut. Dass sie es dann trotzdem tut, mit dem Wanda-Hinweis, ist geschickt platziert.",
+            "Für Disney ist das die richtige Nachricht zur richtigen Zeit. Einen Monat vor „Doomsday“ ist jeder Funke Begeisterung Gold wert, und dass sich der Effekt im Kartenverkauf zeigt, ist das eigentliche Ziel."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/TM_Trailer2_Still_4.jpeg?w=1024",
+            "alt": "James Spader als Ultron und Paul Bettany als Vision in „VisionQuest“",
+            "credit": "Marvel",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483/"
+          }
+        },
+        {
+          "title": "Aaron Pierre als rachsüchtiger Taxifahrer: „Sisu“-Regisseur dreht Weihnachtsthriller für Netflix",
+          "lead": "Jalmari Helander inszeniert „Fairytale in New York“ mit Aaron Pierre. Netflix sicherte sich den Film nach einer Bieterrunde, Lionsgate produziert.",
+          "body": [
+            "Der Thriller spielt an Heiligabend in New York. Ein unauffälliger Taxifahrer begibt sich auf einen gnadenlosen nächtlichen Rachefeldzug, nachdem das wertvolle Geschenk seines entfremdeten Sohnes gestohlen wurde. Das Drehbuch stammt von Rory Haines und Sohrab Noshirvani und ist ein eigenständiger Stoff, kein Remake.",
+            "Netflix übernimmt den Vertrieb, Lionsgate produziert. Laut Deadline ging dem Verkauf eine umkämpfte Auktion voraus. Für Helander ist es die dritte Zusammenarbeit mit Lionsgate nach den beiden „Sisu“-Filmen. Haines und Noshirvani haben auch Helanders „John Rambo“ geschrieben, der im kommenden Sommer startet. Produzent ist Beau Flynn.",
+            "Lionsgate-Managerin Erin Westerman lobte Helanders Fähigkeit, „eindringliche, einprägsame Action“ zu inszenieren, ohne die Figuren aus dem Blick zu verlieren. Pierre habe „alles, was einen großen Filmstar ausmacht“.",
+            "Pierre ist derzeit stark gefragt. Er spielt John Stewart in der HBO-Serie „Lanterns“ und wird diese Rolle auch im Superman-Film „Man of Tomorrow“ übernehmen."
+          ],
+          "highlight": "Ein unauffälliger Taxifahrer begibt sich auf einen gnadenlosen nächtlichen Rachefeldzug, nachdem das wertvolle Geschenk seines entfremdeten Sohnes gestohlen wurde.",
+          "assessment": [
+            "Helander ist der richtige Mann für so eine Prämisse. „Sisu“ hat gezeigt, dass er aus einer simplen Rachegeschichte mit trockener Wucht etwas Eigenes machen kann. Ein Weihnachtsfilm, der nach „Stirb langsam“ klingt, passt gut in Netflix' Programm.",
+            "Für Pierre ist es der nächste Schritt zum Hauptdarsteller im Actionfach. Wer gleichzeitig bei DC und in einem Netflix-Thriller vorn steht, wird in Hollywood gerade gezielt aufgebaut."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/aaron-pierre-sisu-jalmari-helander-fairytale-in-new-york-1237222859/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2024/07/Aaron-Pierre.jpg?w=1024",
+            "alt": "Porträt von Aaron Pierre",
+            "credit": "David Reiss",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/aaron-pierre-sisu-jalmari-helander-fairytale-in-new-york-1237222859/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Schottland: Vom Reiterstandbild des Antoninus Pius blieb nur ein Bein",
+          "lead": "Ein vergoldetes Bronzebein aus einem schottischen Moor stammt von einem Reiterstandbild Kaiser Antoninus Pius'. Die Römer haben die Statue offenbar sorgfältig abgebaut, als sie sich vor rund 1800 Jahren zurückzogen.",
+          "body": [
+            "Das sogenannte Milsington-Bein, ein vergoldeter bronzener Unterschenkel mit Fuß, wurde bereits 1820 in einem Moor gefunden. Laut einer Mitteilung der National Museums Scotland vom 12. November ist es das einzige Stück einer monumentalen römischen Kaiserstatue, das je in Schottland entdeckt wurde. Es entstand wahrscheinlich um 140 nach Christus.",
+            "Lange nahm man an, die Statue sei aus York geraubt worden, dem römischen Eboracum. Weil Reiterstandbilder aber oft in Kastellen an der Reichsgrenze aufgestellt wurden, gehen die Fachleute nun davon aus, dass das Bein von einem Reiterstandbild des Antoninus Pius stammt, ähnlich der berühmten Statue Mark Aurels in Rom. Sie haben das gesamte Standbild rekonstruiert.",
+            "Antoninus Pius regierte von 138 bis 161 und folgte auf Hadrian, der die Nordgrenze des Reichs mit seinem Wall gesichert hatte. Antoninus ließ den Statthalter Britanniens weiter nach Norden vorrücken, das südliche Schottland erobern und einen zweiten Wall bauen, den Antoninuswall. Nach seinem Tod wurde der Wall aufgegeben, und die Römer zogen sich zurück.",
+            "Die Untersuchung vor einer neuen Ausstellung zeigte, dass die Bronze keine Schnittspuren trägt, sie wurde also sorgfältig abgenommen und nicht „brutal abgehackt“. Das unterscheidet sie von Statuen, die nach Schlachten, bei der Verdammung des Andenkens eines Kaisers oder als Altmetall zerstört wurden. Vermutlich bauten die Römer beim Rückzug wertvolle Statuen ab. „Das stellt unser Verständnis von Roms zweitem Versuch, Schottland zu erobern, auf den Kopf“, sagt Kurator Fraser Hunter. Für den Kaiser sei das ein großes Ereignis gewesen, das gefeiert werden sollte.",
+            "Wo der Rest der Statue geblieben ist, weiß niemand. Das Bein ist ab heute, dem 14. November, in der Ausstellung „Roman Scotland: Life on the Edge of Empire“ im National Museum of Scotland in Edinburgh zu sehen."
+          ],
+          "highlight": "Die Untersuchung vor einer neuen Ausstellung zeigte, dass die Bronze keine Schnittspuren trägt, sie wurde also sorgfältig abgenommen und nicht „brutal abgehackt“.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, wie ein seit 200 Jahren bekanntes Fundstück durch neue Fragen eine neue Geschichte bekommt. Ein vergoldetes Reiterstandbild am Rand der Welt war Propaganda: Der Kaiser, der sonst kaum Kriege führte, ließ seinen einzigen großen Eroberungszug feiern.",
+            "Dass die Römer die Statue beim Abzug mitnahmen, statt sie zurückzulassen, passt dazu. Ein Kaiserbild in den Händen der Feinde wäre eine Demütigung gewesen. Das eine Bein im Moor ist vielleicht einfach beim Verladen verloren gegangen."
+          ],
+          "sources": [
+            { "name": "Live Science", "url": "https://www.livescience.com/archaeology/romans/romans-carefully-dismantled-statue-of-emperor-when-they-withdrew-from-scotland-1-800-years-ago-leaving-only-his-foot-behind" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/JwEvJNw35P3po753Uj8ujP-1200-80.png",
+            "alt": "Ein Mann hält das überlebensgroße bronzene Bein der römischen Statue",
+            "credit": "Duncan McGlynn / National Museums Scotland",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/romans/romans-carefully-dismantled-statue-of-emperor-when-they-withdrew-from-scotland-1-800-years-ago-leaving-only-his-foot-behind"
+          }
+        },
+        {
+          "title": "Jeremy Benthams Kopf im CT: Der Philosoph litt unter schweren Zahn- und Kieferschmerzen",
+          "lead": "Zum 200. Jubiläum des University College London wurde der präservierte Kopf des Philosophen gescannt. Er hatte kaum noch Zähne und eine fortgeschrittene Arthrose im Unterkiefer.",
+          "body": [
+            "Jeremy Bentham, Begründer des Utilitarismus, starb 1832 im Alter von 84 Jahren eines natürlichen Todes. Seine Überreste sind seit den 1850er-Jahren am University College London (UCL) ausgestellt, dessen Gründer sich von seiner Philosophie inspirieren ließen. Zum 200-jährigen Bestehen der Universität wurde sein echter Kopf nun mit einem Computertomografen gescannt und als 3D-Modell rekonstruiert.",
+            "Die Aufnahmen zeigen, dass Bentham viele Zähne fehlten und er an einer fortgeschrittenen Arthrose im Unterkiefer litt. Projektleiterin Tannis Davidson, Kuratorin des Grant Museum of Zoology am UCL, sah beim Scannen, wie dünn der Kieferknochen geworden war. „Er muss unerträgliche Schmerzen gehabt haben“, sagte sie Live Science. Bentham hat in Briefen mehrfach über seine Zahnprobleme geschrieben, ob er von der Arthrose wusste, ist unklar.",
+            "Bentham hatte schon als junger Mann verfügt, seinen Körper der Wissenschaft zu überlassen, damals eine radikale Idee, denn Sezieren war Schwerverbrechern vorbehalten. Nach seinem Tod wurde er seziert und zur sogenannten Auto-Ikone gemacht: Sein Skelett trägt seine mit Stroh ausgestopfte Kleidung und einen Wachskopf. Der echte Kopf war bei einem Konservierungsversuch mit Schwefelsäure stark entstellt worden und bekam Glasaugen. Laut UCL-Legende stahlen ihn 1975 Studenten des rivalisierenden King's College und hielten ihn einige Tage als Geisel, seitdem ist er weggeschlossen.",
+            "Die Scans bestätigen auch, dass das Gehirn vor der Konservierung entfernt wurde, Teile der harten Hirnhaut blieben erhalten. Das folgte Benthams Wunsch, seinen Kopf nach dem Vorbild präparierter Māori-Köpfe zu mumifizieren. Den Begriff Auto-Ikone prägte er selbst, er stellte sich vor, dass Menschen künftig ihre Toten auf diese Weise bei sich behalten. Der Scanvorgang ist im Kurzfilm „Bentham Revealed“ zu sehen.",
+            "Bentham war ein Universalgelehrter, der über Recht, Wirtschaft, Bildung und Tierrechte schrieb. Bekannt ist vor allem das Panoptikum von 1791, ein ringförmiges Gefängnis mit einem einzigen Wärter, heute Sinnbild staatlicher Überwachung. Weil er sich als „Ungläubigen“ bezeichnete, nannten Kritiker ihn „gottlos“. Davidson vermutet, die Auto-Ikone könnte auch ein Weg gewesen sein, einem anglikanischen Begräbnis zu entgehen."
+          ],
+          "highlight": "„Er muss unerträgliche Schmerzen gehabt haben“, sagte sie Live Science.",
+          "assessment": [
+            "Eine kleine, sehr menschliche Erkenntnis über einen Mann, der das Glück der größten Zahl berechnen wollte. Sein eigenes Leiden hätte er in seinem Glückskalkül wohl hoch angesetzt.",
+            "Bentham bleibt einer der seltsamsten Fälle der Ideengeschichte: Ein Philosoph, der sich selbst zum Ausstellungsstück machte, um ein Argument über Tod, Religion und Wissenschaft zu führen. Dass er dieses Argument 200 Jahre später noch führt, hätte ihm vermutlich gefallen."
+          ],
+          "sources": [
+            { "name": "Live Science", "url": "https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/rypFZEvRuCzfRLYfdrCKXH-1214-80.png",
+            "alt": "Ein präservierter menschlicher Kopf im Computertomografen, auf zwei Monitoren ist der Schädel zu sehen",
+            "credit": "Bentham Project / University College London",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/godless-founder-of-utilitarianism-had-severe-dental-problems-and-was-in-excruciating-pain-ct-scans-of-his-severed-head-reveal"
+          }
+        },
+        {
+          "title": "Ungleichheit wuchs langsam: Was 296 Gräber über die ersten Hirten in Böhmen verraten",
+          "lead": "Eine Studie zur Schnurkeramik-Kultur zeigt, dass die Einwanderer aus der Steppe keine fertige Klassengesellschaft mitbrachten. Reichtum und Erbe wurden erst über Jahrhunderte wichtig.",
+          "body": [
+            "Forscher der Universität Kopenhagen und des Max-Planck-Instituts haben 296 Gräber der Schnurkeramik-Kultur aus Böhmen untersucht, datiert auf etwa 2900 bis 2300 vor Christus. Die Kultur ist nach Keramik benannt, die mit gedrehten Schnüren verziert wurde. Ihre Menschen hielten Vieh, betrieben Ackerbau und hatten Vorfahren aus der osteuropäischen Steppe.",
+            "Hauptautor Mikkel Nørtoft bewertete jedes Grab mit seiner Methode QuantWealth nach mehreren Merkmalen: wie selten die Beigaben waren, wie viel Handwerk in ihnen steckt, wie weit die Rohstoffe transportiert wurden, wie tief die Grube war und wie viel Fleisch dem Toten mitgegeben wurde. Mit Adam Rohrlach verglich er diese Werte mit DNA, väterlichen Abstammungslinien, Alter, Geschlecht, Gesundheit und Verletzungen.",
+            "Die ersten Hirten kamen um 2900 bis 2700 vor Christus nach Böhmen, nach einem Vulkanausbruch, der den Himmel verdunkelte und mehrere harte Jahre brachte. Die Gräber dieser Zeit sind arm an Beigaben, stattdessen bauten die Menschen Grabhügel und teilten Rituale, die die Neuankömmlinge zu einem Netzwerk verbanden. Reichtumsunterschiede waren gering und folgten vor allem dem Alter, Macht verteilte sich auf mehrere männliche Linien.",
+            "Zwischen 2700 und 2500 vor Christus tauchte eine neue männliche Linie auf, und Begräbnisse wurden zum Wettbewerb. Gräber enthielten mehr Prestigeobjekte und Fleisch, Männer wurden reicher bestattet als Frauen. Zwischen 2500 und 2300 dominierte diese Linie, und nun bekamen auch einzelne Kinder reiche Gräber, ein Hinweis auf vererbten Wohlstand. Das reichste Grab der Studie gehört einem Mädchen aus Čachovice mit einem seltenen kupfernen Halsring, einem Torques, der später in Bronze- und Eisenzeit zum Symbol der Oberschicht wurde. Nørtoft vermutet, Eltern schmückten Kinder, um ihren Wert für spätere Heiratsverbindungen zu steigern.",
+            "Einen Zusammenhang zwischen Grabreichtum und naher Verwandtschaft, Abstammung, Verletzungen, Krankheiten oder Mangelernährung fanden die Forscher nicht. Status scheint in den ersten 400 Jahren eher von Taten im Leben als von Geburt abgehangen zu haben. Die Autoren mahnen zur Vorsicht, weil sie das Muster bisher nur in einer Region sehen. Die Studie erschien im Journal of Neolithic Archaeology."
+          ],
+          "highlight": "Status scheint in den ersten 400 Jahren eher von Taten im Leben als von Geburt abgehangen zu haben.",
+          "assessment": [
+            "Die Studie widerspricht einem beliebten Bild: dass mit den Steppenmenschen eine fertige Kriegeraristokratie nach Mitteleuropa kam. Zumindest in Böhmen war Ungleichheit nicht der Ausgangspunkt, sondern das Ergebnis einer langen Entwicklung.",
+            "Besonders aufschlussreich ist der Wandel bei den Kindergräbern. Wenn Kinder reich bestattet werden, die selbst nichts geleistet haben können, beginnt Reichtum zu erben. Genau dort liegt die Schwelle zu den Dynastien der Bronzezeit."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeologymag.com/2026/11/central-europes-early-herders-inequality/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/c-europes-herders-inequality-1.jpg",
+            "alt": "Künstlerische Rekonstruktion des Mädchens aus Čachovice mit kupfernem Halsring und roter Ockerbemalung im Gesicht",
+            "credit": "Solveig Chaudesaigues-Clausen",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/central-europes-early-herders-inequality/"
+          }
+        },
+        {
+          "title": "Nazca-Kultur: Säugling mit nur einer Augenhöhle hatte Trisomie 13 und überlebte vielleicht die Geburt",
+          "lead": "In einem 1600 Jahre alten Urnengrab in Peru haben Forscher erstmals bei einem Kind der Nazca eine Trisomie 13 mit Zyklopie genetisch nachgewiesen.",
+          "body": [
+            "Der Fund stammt aus Jauranga im Palpa-Tal im Süden Perus, wo Archäologen 31 Gräber der mittleren Nazca-Zeit gefunden haben, datiert zwischen 325 und 440 nach Christus. In Grab 25 lagen zwei Säuglinge übereinander in einem Keramikgefäß, ohne weitere Beigaben. Urnenbestattungen machten im Palpa-Tal etwa ein Viertel der Nazca-Gräber aus, meist für Kinder unter sechs Jahren. Die Studie von Elsa Tomasto-Cagigao und Lars Fehren-Schmitz erschien am 9. November in PNAS.",
+            "Beide Kinder waren genetisch weiblich und mütterlicherseits nicht verwandt. Eines zeigte keine Auffälligkeiten. Der Schädel des anderen hatte einen Umfang von nur 18 Zentimetern und eine einzige mittige Augenöffnung, Nasenbeine fehlten, der Oberkiefer war ungeteilt. Die Merkmale passen zu einer alobären Holoprosenzephalie, bei der sich das Vorderhirn nicht in zwei Hälften teilt. Zyklopie ist ihre schwerste Form und tritt etwa bei einer von 100.000 Geburten auf.",
+            "Um die Ursache zu finden, sequenzierte das Team DNA aus dem Schienbein und verglich sie mit 250 alten südamerikanischen Genomen. Drei statistische Verfahren zeigten übereinstimmend zu viel Material von Chromosom 13, die geschätzte Kopienzahl lag bei 3,12 bis 3,24 statt 2. Trisomie 13 ist für 17 bis 39 Prozent der schweren Holoprosenzephalie-Fälle verantwortlich.",
+            "Das Alter gibt ein Rätsel auf. Die Zähne entsprechen einem zwei bis vier Monate alten Säugling, die Röhrenknochen einem Neugeborenen oder späten Fötus. Das könnte heißen, dass das Kind die Geburt überlebte. Die Autoren bleiben vorsichtig, weil die Erkrankung selbst das Wachstum von Zähnen und Knochen verändert haben könnte. Bestattet wurde das Kind in einer gewöhnlichen Urne nach üblichem Brauch. Wie die Gemeinschaft das Kind sah, lässt sich daraus nicht ablesen."
+          ],
+          "highlight": "Drei statistische Verfahren zeigten übereinstimmend zu viel Material von Chromosom 13, die geschätzte Kopienzahl lag bei 3,12 bis 3,24 statt 2.",
+          "assessment": [
+            "Methodisch ist das beeindruckend: Eine Chromosomenstörung aus 1600 Jahre alter DNA zu bestimmen, war vor wenigen Jahren kaum denkbar. Die Paläogenetik kann inzwischen nicht nur Wanderungen nachzeichnen, sondern einzelne Krankheitsbilder diagnostizieren.",
+            "Wohltuend ist die Zurückhaltung der Autoren. Das schlichte Grab verrät weder Ausgrenzung noch Verehrung, und sie lesen nichts hinein. Gerade bei so einem Fund wäre die Versuchung groß, eine Geschichte über Mythen oder Opfer zu erzählen."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeologymag.com/2026/11/nazca-infant-with-cyclopia-single-eye-socket/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/nazca-infant-cyclopia-1.jpg",
+            "alt": "Der Schädel des Nazca-Säuglings mit einer einzigen mittigen Augenhöhle",
+            "credit": "E. Tomasto-Cagigao et al., PNAS (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/nazca-infant-with-cyclopia-single-eye-socket/"
+          }
+        },
+        {
+          "title": "Kap Trafalgar: Megalithgräber wurden noch in der Bronzezeit gebaut",
+          "lead": "Zwei Gemeinschaftsgräber am Kap Trafalgar wurden zwischen 1875 und 1625 vor Christus genutzt. Womöglich wurden sie sogar erst kurz zuvor errichtet, viel später als bisher für solche Anlagen angenommen.",
+          "body": [
+            "Während der Bronzezeit gingen die Menschen auf der Iberischen Halbinsel von großen Gemeinschaftsgräbern zu kleineren Einzelgräbern über. Der Wandel verlief aber ungleichmäßig. Eduardo Vijande-Vila von der Universität Cádiz und Kollegen haben nun zwei Megalithgräber am Kap Trafalgar nahe der Straße von Gibraltar untersucht, die 2021 und 2022 ausgegraben wurden. Die Studie erschien am 11. November in PLOS One.",
+            "In beiden Gräbern lagen mehrere Menschen gemeinsam bestattet. Das Team datierte 16 Individuen mit der Radiokarbonmethode und wertete die Ergebnisse mit bayesschen Modellen aus. Beide Gräber wurden zwischen 1875 und 1625 vor Christus genutzt, die Nekropole also im ersten Viertel des zweiten Jahrtausends vor Christus. Damit gehört Südspanien zu den Regionen, in denen Kollektivbestattungen am längsten fortbestanden.",
+            "Wann die Gräber errichtet wurden, ist offen. Meist zeigt sich in dieser Zeit, dass Menschen ältere Monumente aus der Kupferzeit wiederverwendeten. In Trafalgar fanden die Ausgräber aber kein älteres Material, auch die Umgebung zeigt keine Spuren früherer Besiedlung. Die Autoren vermuten deshalb, die Nekropole sei erst kurz vor ihrer Nutzung entstanden. Dann gehörte sie zu den spätesten Megalithbauten der Region.",
+            "Die Toten bekamen Gold, Silber und Elfenbein mit. Die Lage auf dem Kap, einer Landmarke an einer vom Meer bestimmten Küste, deutet auf die Bedeutung des Meeres für Handel und Totenkult hin. Die Gräber wurden per 3D-Scan und Fotogrammetrie dokumentiert. Das ist auch nötig, denn starke Winde und Wanderdünen drohen die Anlage wieder zu verschütten."
+          ],
+          "highlight": "Beide Gräber wurden zwischen 1875 und 1625 vor Christus genutzt, die Nekropole also im ersten Viertel des zweiten Jahrtausends vor Christus.",
+          "assessment": [
+            "Megalithbauten gelten als Sache der Jungsteinzeit und Kupferzeit. Wenn am Kap Trafalgar noch in der Bronzezeit neue gebaut wurden, zeigt das, wie lange Regionen an alten Formen festhalten konnten, besonders wenn Handel und Meer ihnen Reichtum brachten.",
+            "Dass die Fundstelle buchstäblich wieder im Sand verschwinden könnte, macht die digitale Dokumentation zur eigentlichen Rettungstat. Man darf gespannt sein, was unter den Dünen noch liegt."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine", "url": "https://archaeologymag.com/2026/11/megalithic-tombs-bronze-age-southern-spain/" },
+            { "name": "Archaeology", "url": "https://archaeology.org/news/2026/11/13/who-constructed-the-megalithic-tombs-on-spains-cape-trafalgar/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/megalithic-bronzeage-s-spain-1.jpg",
+            "alt": "Luftaufnahme von Grab II der Nekropole am Kap Trafalgar",
+            "credit": "E. Vijande-Vila et al., PLOS One (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/megalithic-tombs-bronze-age-southern-spain/"
+          }
+        }
+      ]
+    }
+  ]
+}

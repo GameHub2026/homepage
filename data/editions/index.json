@@ -1,5 +1,39 @@
 [
   {
+    "nr": 38,
+    "date": "2026-11-14",
+    "updated": "2026-11-14T07:50:35+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Microsofts Großausfall: Fast ein Tag ohne Outlook, Teams und Cloud, Ursache war ein Netzumbau",
+      "USA stoppen den gesamten Flugverkehr: Alte Radartechnik legt die Flugsicherung lahm",
+      "Neu im Fall Nvidia: Chinas beste offene Modelle tragen offenbar Spuren verbotener Blackwell-Chips",
+      "ChatGPT Wallet: OpenAIs Agenten dürfen jetzt selbst einkaufen",
+      "KI-Flut in Brüssel: Das EU-Parlament ertrinkt in maschinell erzeugten Anträgen",
+      "Steam im Stau: KI-Schrottspiele verstopfen Valves Prüfung, Indie-Starts verschieben sich",
+      "GTA 6 in fünf Tagen: Karte geleakt, Netzbetreiber rüsten sich",
+      "Pearl Abyss baut KI in die gesamte Entwicklung ein, DokeV kommt erst 2028",
+      "Morrowind, KOTOR und TimeSplitters 2: 21 Spiele der ersten Xbox laufen jetzt auf dem PC",
+      "Slay the Spire 2: Erste neue Figur seit dem Start, dazu zwei neue Modi",
+      "Streit um „Heat“: New Regency verklagt Michael Mann wegen der Rechte am Kultfilm",
+      "Neu bei DC: Gunn dementiert Eingriffe in „Man of Tomorrow“, Latcham übernimmt ein halb gebautes Universum",
+      "Trump drängt den Kongress zur Filmförderung: 20 Prozent Steuervorteil für Drehs in den USA",
+      "Margot Robbie dreht „The Week of Pain“ mit Kristoffer Borgli für A24",
+      "„VisionQuest“: Stärkstes Marvel-Finale seit drei Jahren",
+      "Aaron Pierre als rachsüchtiger Taxifahrer: „Sisu“-Regisseur dreht Weihnachtsthriller für Netflix",
+      "Schottland: Vom Reiterstandbild des Antoninus Pius blieb nur ein Bein",
+      "Jeremy Benthams Kopf im CT: Der Philosoph litt unter schweren Zahn- und Kieferschmerzen",
+      "Ungleichheit wuchs langsam: Was 296 Gräber über die ersten Hirten in Böhmen verraten",
+      "Nazca-Kultur: Säugling mit nur einer Augenhöhle hatte Trisomie 13 und überlebte vielleicht die Geburt",
+      "Kap Trafalgar: Megalithgräber wurden noch in der Bronzezeit gebaut"
+    ]
+  },
+  {
     "nr": 37,
     "date": "2026-11-13",
     "updated": "2026-11-13T07:51:25+01:00",
