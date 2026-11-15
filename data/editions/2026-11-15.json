@@ -1,0 +1,416 @@
+{
+  "nr": 39,
+  "date": "2026-11-15",
+  "intro": "Ein Samstag mit Nachspiel: Zehntausende fordern per Petition, dass Nvidia Jensen Huang zurückholt, und in Washington stellt sich heraus, dass nicht alte Radartechnik, sondern ein frisch eingebauter Router den US-Flugverkehr lahmgelegt hat. SpaceX fängt zum ersten Mal ein Starship nach einem Flug durch die Erdumlaufbahn mit dem Turm auf. Dazu die bestätigte Musikliste von GTA 6, ein Golden Frog für „Fatherland“, die unzensierte US-Fassung von Danny Boyles „Ink“ und eine 5000 Jahre alte Verbindung über den Rhein.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Petition mit über 115.000 Unterschriften fordert Huangs Rückkehr, auch Musk unterschreibt",
+          "lead": "Zwei Tage nach dem Rücktritt von Jensen Huang formiert sich Widerstand gegen den Verwaltungsrat. Tausende Beschäftigte und prominente Tech-Chefs verlangen, dass der Gründer zurückkommt, bis eine unabhängige Untersuchung abgeschlossen ist.",
+          "body": [
+            "Eine Online-Petition, die Nvidia auffordert, Jensen Huang wieder als Chef einzusetzen, hatte am Samstagnachmittag nach eigenen Angaben mehr als 115.000 Unterschriften. Laut der Website sind darunter 5.965 aktuelle und 1.108 frühere Nvidia-Beschäftigte sowie 63.063 Aktionärinnen und Aktionäre. Zu den bekannten Unterstützern zählen Tesla- und SpaceX-Chef Elon Musk, Replit-Chef Amjad Masad, Epic-Games-Chef Tim Sweeney und Y-Combinator-Chef Garry Tan.",
+            "Die Unterzeichner seien besorgt, dass Huang „ohne ein ordentliches Verfahren“ abgesetzt wurde, heißt es in dem Text. Der Verwaltungsrat solle ihn zurückholen, während eine unabhängige Untersuchung die Fakten klärt, und die Öffentlichkeit besser informieren. Die Petition gipfelt in dem Satz: „Jensen verdient ein ordentliches Verfahren, keine Lynchjustiz.“ Schon zuvor hatte Wired berichtet, dass sich in einem internen Forum mehr als 1000 Beschäftigte für die Rückkehr des Gründers ausgesprochen hätten.",
+            "Huang war am Donnerstag zurückgetreten, vier Tage nachdem er eine Affäre mit einer Managerin eingeräumt hatte, die US-Geheimdienste für eine chinesische Spionin halten. Inzwischen wurden weitere Beziehungen bekannt, laut heise ist von einer dritten Affäre die Rede. Huang hat zugesagt, vor dem Kongress auszusagen. Interimschefin ist Finanzchefin Colette Kress, die das Unternehmen seit mehr als 13 Jahren finanziell steuert. Der neue Verwaltungsratschef Harvey Jones verkündete die Entscheidung per Mail an die rund 42.000 Beschäftigten und ging darin nur am Rande auf Huangs Verdienste ein. Kress erwähnte ihren Vorgänger in ihrer eigenen Mail gar nicht und kündigte für den 18. November eine Betriebsversammlung an.",
+            "Der Aktienkurs ist binnen eines Monats um fast 30 Prozent gefallen. Laut heise kursieren Pläne für Sammelklagen von Aktionären, die dem Verwaltungsrat vorwerfen, nicht eingeschritten zu sein, obwohl die erste Affäre intern seit mehr als einem Jahr bekannt gewesen sein soll. TechCrunch stellt zudem eine unbequeme Frage an die Sicherheitsabteilung: Deren langjähriger Chef David Reber trat im August aus gesundheitlichen Gründen zurück. Nvidias Chefjurist war laut New York Times schon vor mehr als einem Jahr mit den Ermittlungen gegen die Firma Megaspeed befasst, für die Huangs Geliebte arbeitete. Ob die Sicherheitsleute davon wussten, ist offen, Nvidia beantwortete die Fragen nicht."
+          ],
+          "highlight": "Die Petition gipfelt in dem Satz: „Jensen verdient ein ordentliches Verfahren, keine Lynchjustiz.“",
+          "assessment": [
+            "Die Petition sagt mehr über den Personenkult im Silicon Valley als über die Sachlage. Huang ist nicht wegen eines Seitensprungs gegangen, sondern weil eine mutmaßliche Spionin Zugang zum Chef des strategisch wichtigsten Chipkonzerns der Welt hatte, während Nvidia unter Exportkontrollen steht. Das lässt sich nicht mit dem Hinweis auf Verdienste wegwischen.",
+            "Ernst nehmen sollte der Verwaltungsrat die Stimmung trotzdem. Wenn fast 6000 Beschäftigte öffentlich unterschreiben, steht Kress vor einer Belegschaft, die ihr nicht folgt. Die Betriebsversammlung am Mittwoch wird zeigen, ob der Bruch zwischen Führung und Firma zu kitten ist. Eine Rückkehr Huangs halte ich für ausgeschlossen, solange der Kongress ermittelt."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/" },
+            { "name": "heise online", "url": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024", "alt": "Jensen Huang bei einem öffentlichen Auftritt", "credit": "Getty Images", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/" }
+        },
+        {
+          "title": "SpaceX fängt erstmals ein Starship nach einem Orbitalflug mit dem Turm auf",
+          "lead": "Nach 14 Erdumrundungen kehrte die Oberstufe des Starship zum Startplatz in Texas zurück und wurde von den Greifarmen des Turms gepackt. Der Booster dagegen ging verloren.",
+          "body": [
+            "SpaceX hat am Samstagabend zum ersten Mal die Oberstufe einer Rakete nach einem Flug durch die Erdumlaufbahn aufgefangen. Das Starship war am Freitag zu seinem 15. Testflug gestartet, umrundete die Erde 14-mal und war gut 22 Stunden und 32 Minuten unterwegs. Dann trat es kontrolliert in die Atmosphäre ein und flog zurück nach Starbase in Texas, wo zwei Greifarme am Startturm es aus der Luft schnappten. Gleich der erste Fangversuch mit einer Oberstufe glückte.",
+            "Ars Technica beschreibt die letzten Sekunden: Das Schiff fiel waagerecht aus der Wolkendecke, erst im letzten Moment zündeten die Raptor-Triebwerke und drehten es in die Senkrechte. Halt fand die Rakete nur an zwei Zapfen auf beiden Seiten, die jeweils etwa 30 Zentimeter herausragen. Weniger als eine Minute nachdem das Schiff in Sicht kam, hing es im Turm. Vorher hatte SpaceX das Manöver mehrfach über dem Indischen Ozean geübt.",
+            "Ganz rund lief der Flug nicht. Der Fang der unteren Stufe Super Heavy scheiterte, der Booster wurde über dem Golf von Mexiko vom Flugabbruchsystem zerstört. Als vorläufige Ursache nennt SpaceX laut heise einen Alarm wegen zu geringer Treibstoffmasse. Hätte auch das geklappt, wäre erstmals ein komplettes Raketensystem nach einem Orbitalflug heil zurückgekommen. In welchem Zustand das aufgefangene Schiff ist, ist noch unklar.",
+            "Das Starship besteht aus dem rund 72 Meter langen Booster und der rund 52 Meter langen Oberstufe, beide sollen vollständig wiederverwendbar sein. Die NASA will mit dem Schiff Astronautinnen und Astronauten auf den Mond bringen. Laut Ars Technica hat SpaceX fünf weitere Starships in fortgeschrittenem Bauzustand und Teile für ein Dutzend mehr, die Fabrik in Südtexas kann derzeit alle drei Wochen eine Oberstufe fertigen. Der Flug war der vierte Starship-Start in diesem Jahr."
+          ],
+          "highlight": "Gleich der erste Fangversuch mit einer Oberstufe glückte.",
+          "assessment": [
+            "Das ist der technisch wichtigste Moment des Starship-Programms seit dem ersten Boosterfang. Eine Oberstufe, die aus dem Orbit zurückkommt und ohne Ozean, Bergungsschiff und Generalüberholung wieder am Turm hängt, ist genau das, was wirklich schnelle Wiederverwendung erst möglich macht. Die Raumfähre hat das nie geschafft, ihre Kosten pro Kilo blieben astronomisch.",
+            "Man sollte den verlorenen Booster aber nicht kleinreden. Komplett wiederverwendbar ist das System erst, wenn beide Stufen zuverlässig zurückkommen, und zwar nicht einmal, sondern routinemäßig. Und ob das gefangene Schiff nach 22 Stunden im All und dem Wiedereintritt in einem Zustand ist, der einen schnellen nächsten Flug erlaubt, wird SpaceX erst noch zeigen müssen."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html" },
+            { "name": "Ars Technica", "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" }
+          ],
+          "image": { "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg", "alt": "Das Starship sinkt in Starbase, Texas, auf den Fangturm zu", "credit": "Getty Images", "license": "Artikelbild Ars Technica", "source": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/" }
+        },
+        {
+          "title": "Neu zum US-Flugstopp: Nicht die alte Radartechnik, sondern ein neuer Router legte die Flugsicherung lahm",
+          "lead": "Verkehrsminister Sean Duffy hat die Ursache für den landesweiten Stillstand am Freitag genannt: Bei Routinearbeiten wurde eine Kupferleitung durch Glasfaser ersetzt, danach überflutete ein Router das Netz der Flugsicherung.",
+          "body": [
+            "Der Auslöser des landesweiten Flugstopps in den USA war nach Angaben von Verkehrsminister Sean Duffy eine Wartungsarbeit an einer abgelegenen Anlage der Luftfahrtbehörde FAA. Der langjährige Auftragnehmer L3Harris habe dort eine alte Kupferleitung durch ein Glasfaserkabel ersetzt. Die Leitung sei so alt gewesen, dass sie abgeschaltet werden sollte, deshalb sei der Austausch nötig gewesen. Es habe sich um „Routinewartung“ gehandelt, nicht um ein großes Modernisierungsprojekt.",
+            "Nach dem Umbau begann der neu installierte Router, andere Router im Netz der Flugsicherung zu „fluten“. Die kommissarische Technikchefin der FAA, Rebecca Guy, sagte, man habe zwei Stellen entdeckt, die das Netz mit mehr als 1000 Verbindungsversuchen alle vier bis fünf Sekunden beschossen. Das störte Radardaten und die Kommunikation mit Flugzeugen. Beide Stellen seien sofort abgeschaltet worden, danach habe sich das Netz stabilisiert. Die eigentliche Ursache sei noch offen, sagte Duffy: defekte Hardware, ein falsch konfigurierter Router oder schlicht Inkompetenz bei L3Harris.",
+            "Es war erst der dritte landesweite Flugstopp in diesem Jahrhundert. Laut dem Datendienst Cirium fielen am Freitagabend mehr als 8.200 Flüge aus, am Samstag wurden mindestens 3.000 weitere gestrichen. Auf die Frage, warum an einem Freitag um 15 Uhr umgebaut wurde statt nachts, sagte Duffy, an großen Flughäfen werde nachts umgeschaltet, an abgelegenen Standorten tagsüber. „Wir werden neu bewerten, wann wir diese Arbeiten machen.“",
+            "Weil die FAA nur einen Tag vorher ein KI-Werkzeug für Fluglotsen eingeführt hatte, kamen Spekulationen über einen Zusammenhang auf. FAA-Chef Bryan Bedford wies das zurück: Es gebe „null Hinweise auf etwas Böswilliges und null Hinweise auf etwas mit KI“. Duffy nutzte die Pressekonferenz, die selbst technische Probleme hatte, erneut für die Forderung an den Kongress, mehr Geld für die Modernisierung der Flugsicherung bereitzustellen."
+          ],
+          "highlight": "Die kommissarische Technikchefin der FAA, Rebecca Guy, sagte, man habe zwei Stellen entdeckt, die das Netz mit mehr als 1000 Verbindungsversuchen alle vier bis fünf Sekunden beschossen.",
+          "assessment": [
+            "Die Erklärung ist fast noch beunruhigender als die erste Vermutung. Dass alte Technik ausfällt, ist ärgerlich, aber erwartbar. Dass ein einziges neues Gerät an einem abgelegenen Standort das ganze Netz der Flugsicherung in die Knie zwingen kann, heißt: Es gibt offenbar keine ausreichende Trennung der Netzabschnitte und keine Schutzmechanismen gegen einen solchen Verbindungssturm.",
+            "Das ist eine Architekturfrage, keine Geldfrage, auch wenn Duffy sie gern so darstellt. Mit Blick auf den Microsoft-Ausfall vom selben Tag ergibt sich ein Muster: In beiden Fällen löste eine vermeintlich harmlose Netzänderung eine Kettenreaktion aus. Wer kritische Infrastruktur betreibt, sollte Änderungen nicht am Freitagnachmittag ausrollen."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/" },
+            { "name": "The Verge", "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire" }
+          ],
+          "image": { "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200", "alt": "Anzeigetafel und wartende Passagiere am Flughafen Chicago O’Hare während des Flugstopps", "credit": "Anadolu via Getty Images", "license": "Artikelbild The Verge", "source": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire" }
+        },
+        {
+          "title": "Tesla verkauft das Cybercab an Privatleute, aber nur mit Abo für 299 Dollar im Monat",
+          "lead": "Ausgewählte Kundinnen und Kunden können das lenkradlose Robotaxi jetzt für knapp 30.000 Dollar vorbestellen. Fahren darf es nur in den Gebieten, in denen Tesla schon seinen Robotaxi-Dienst betreibt.",
+          "body": [
+            "Tesla hat am Freitagabend „ausgewählten Kunden“ angeboten, das goldfarbene, autonome Cybercab „für den privaten Gebrauch“ vorzubestellen. Der Listenpreis liegt bei 29.990 Dollar. Dazu kommt ein verpflichtendes „Autonomy“-Abo für 299 Dollar im Monat. Die voraussichtliche Auslieferung ist für Dezember 2026 angegeben, die Einladungsmail warnt aber: Die Verfügbarkeit sei anfangs begrenzt.",
+            "Das Kleingedruckte ist entscheidend. Wie der Techniktester Marques Brownlee auf der Bestellseite fand, muss das Auto in einer von wenigen Städten in Texas übernommen werden, und es fährt nur in abgegrenzten Gebieten. Teslas KI-Chef Ashok Elluswamy präzisierte, das Cybercab fahre ohne Aufsicht in denselben Gebieten wie der Robotaxi-Dienst, nur eben für die Bedürfnisse der Besitzer. Kaufen kann es laut The Verge also nur, wer in einer Stadt wohnt, in der Tesla schon Robotaxis betreibt.",
+            "Elon Musk reagierte auf Brownlees Beitrag: Das Cybercab werde landesweit verfügbar, sobald die Behörden zustimmen. Die Monatsgebühr nannte er selbst „zu hoch“, sie solle eher den Kosten für Teslas Fahrassistenz FSD und die Datenverbindung anderer Modelle entsprechen, also etwa 115 Dollar.",
+            "Tesla bietet Fahrten im Cybercab seit September im Robotaxi-Dienst in Austin an. Laut dem von Nutzern gepflegten Robotaxi Tracker sind inzwischen 278 Cybercabs unterwegs, etwa 40 Prozent der Flotte. Nachdem der Cybertruck weit hinter den Verkaufserwartungen blieb, will Tesla dessen Produktion im kommenden Jahr einstellen und die frei werdende Kapazität für weitere Cybercabs nutzen."
+          ],
+          "highlight": "Dazu kommt ein verpflichtendes „Autonomy“-Abo für 299 Dollar im Monat.",
+          "assessment": [
+            "Ein Auto ohne Lenkrad, das nur dort fährt, wo der Hersteller es erlaubt, und das ohne laufendes Abo nutzlos ist: Das ist weniger ein Autokauf als ein langfristiger Mietvertrag mit Anzahlung. Wer unterschreibt, trägt das volle Risiko, dass Behörden oder Tesla selbst die Regeln ändern.",
+            "Dass Musk die eigene Gebühr öffentlich zu hoch findet, wirkt improvisiert. Ich lese das Angebot vor allem als Signal an die Börse, dass das Cybercab nicht nur ein Flottenfahrzeug ist. Ein Massenmarkt wird daraus erst, wenn es auch außerhalb weniger texanischer Stadtgebiete fahren darf."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/" },
+            { "name": "The Verge", "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print" }
+          ],
+          "image": { "url": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834", "alt": "Ein goldfarbenes Tesla Cybercab", "credit": "Getty Images", "license": "Artikelbild TechCrunch", "source": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/" }
+        },
+        {
+          "title": "Ubuntu bekommt einen Inference Manager für lokale KI-Modelle",
+          "lead": "Canonical hat auf dem Ubuntu Summit ein Werkzeug vorgestellt, das lokal installierte KI-Modelle verwaltet und über eine einheitliche Schnittstelle bereitstellt, kompatibel zur API von OpenAI.",
+          "body": [
+            "Der Inference Manager stellt den Kommandozeilenbefehl inference bereit, mit dem sich KI-Modelle auf dem eigenen Rechner installieren und bereitstellen lassen. Programme greifen dann über eine HTTP-Schnittstelle auf die Modelle zu. Laut Canonical ist sie zur API von OpenAI kompatibel, bestehende Programme lassen sich also direkt anbinden. Alle installierten Modelle sind über TCP-Port 8400 erreichbar, egal ob ein Chat-Assistent, ein Coding-Agent im Editor oder ein Diktierprogramm sie nutzt.",
+            "Grundlage sind die sogenannten Inference-Snaps. Snap ist Ubuntus eigenes Paketformat, im Snap Store gibt es inzwischen verschiedene KI-Modelle, die vollständig auf dem Gerät laufen und keine Internetverbindung brauchen. Mit Ubuntu 26.10 „Stonking Stingray“ kam bereits Myna, ein Spracherkennungsprogramm, das auf dem Desktop flüssiges Diktieren in beliebige Textfelder erlaubt.",
+            "Installiert wird der Inference Manager mit sudo snap install inference oder über das App Center, Modelle folgen mit Befehlen wie inference install smollm2. Auf dem Summit führte Canonical das Konzept mit einer Carrera-Bahn vor, auf der KI-Modelle die Autos steuerten und auf Sprachbefehle wie „fahr schneller“ reagierten.",
+            "Während Teile der Open-Source-Gemeinschaft den Einsatz von KI kontrovers sehen, setzt Canonical laut heise ausdrücklich auf lokal laufende Open-Weight-Modelle. Geplant sind etwa kontextbezogene Hilfen bei der Fehlersuche im System."
+          ],
+          "highlight": "Laut Canonical ist sie zur API von OpenAI kompatibel, bestehende Programme lassen sich also direkt anbinden.",
+          "assessment": [
+            "Unspektakulär, aber vernünftig. Lokale Modelle scheitern im Alltag selten an der Rechenleistung, sondern am Gewurstel aus Laufzeitumgebungen, Formaten und Ports. Eine Systemschnittstelle, die jede Anwendung gleich anspricht, ist genau das, was einem Betriebssystem gut zu Gesicht steht.",
+            "Interessant ist die Richtung: Während Microsoft und Apple ihre KI eng an eigene Clouddienste koppeln, positioniert sich Ubuntu als Plattform für Modelle, die auf dem eigenen Rechner bleiben. Das passt zur Linux-Kundschaft, die Datenschutz ernster nimmt als den neuesten Chatbot."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Inference-Manager-neues-Ubuntu-Tool-verwaltet-lokale-KI-Modelle-11525275.html" }
+          ],
+          "image": { "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/6/7/2/carrera-big-3dfd7ef8b5d30110.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200", "alt": "KI-Demo auf dem Ubuntu Summit: Modelle steuern Autos auf einer Carrera-Bahn", "credit": "heise online", "license": "Artikelbild heise online", "source": "https://www.heise.de/news/Inference-Manager-neues-Ubuntu-Tool-verwaltet-lokale-KI-Modelle-11525275.html" }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "GTA 6 vier Tage vor dem Start: Musikliste bestätigt, Rockstar verspricht erstmals Empathie",
+          "lead": "Ein Video der Vinyl-Ausgabe hat die komplette Titelliste des offiziellen Albums verraten, Rolling Stone und Billboard bestätigen sie. Und Rockstar sagt, GTA 6 belohne zum ersten Mal Spielerinnen und Spieler, die Mitgefühl zeigen.",
+          "body": [
+            "Die nächste Panne vor dem Start am 19. November: In sozialen Netzwerken kursiert ein Video aus einem Laden, das Vorab-Exemplare der Doppel-LP „Grand Theft Auto VI: The Album“ von vorn, hinten und am Rücken zeigt. Die Platte soll 50 Dollar kosten und erst am Erscheinungstag in den Handel kommen. Laut PC Gamer haben Quellen von Rolling Stone und Billboard die Titelliste als echt bestätigt.",
+            "Die 32 Stücke wurden eigens für das Spiel aufgenommen. Dabei sind Dua Lipa, Travis Scott, Playboi Carti, Morgan Wallen, Cardi B, Jennie, Burna Boy und Rauw Alejandro. Lana Del Rey steuert „Crazy For You“ bei, Rolling-Stones-Gitarrist Keith Richards „Bright Lights, Big City“. Das französische Duo Justice, das auch die Filmmusik des Spiels schreibt, ist zweimal vertreten, einmal mit Michael McDonald und einmal mit Tame Impala, SZA und King Gizzard & the Lizard Wizard. Die eigentliche Spielmusik von Justice erscheint separat am 11. Dezember, die Radiosender im Spiel werden zusätzlich viele lizenzierte Titel spielen.",
+            "Inhaltlich überrascht Rockstar mit einer Ansage. Rob Nelson, Co-Studiochef von Rockstar North, sagte dem Guardian: „Verbrechen ist ein grundlegender Teil von GTA, zumindest bisher.“ Man wolle niemanden bestrafen, der so spielt wie gewohnt, aber das eigene Handeln habe Einfluss darauf, wie das Spiel verläuft. Auf die Frage, ob dies das erste GTA sei, das Empathie fördere, antwortete er: „Ich würde sagen, ja. Wir haben zum ersten Mal in einem GTA versucht, Mechanismen anzubieten, die das fördern, für alle, die das wollen.“",
+            "Nelson beschreibt die Hauptfiguren Jason und Lucia als junges Paar, das mit dem Rücken zur Wand steht. Für sie sei es nicht schlüssig, so viel Chaos wie möglich anzurichten. Parallel stimmen die britischen Beschäftigten von Rockstar über eine Gewerkschaft ab, die nach Angaben der IWGB rund 1600 Mitglieder haben könnte. GTA 6 erscheint für PS5 und Xbox Series X|S, eine PC-Fassung ist weiter nicht terminiert."
+          ],
+          "highlight": "Wir haben zum ersten Mal in einem GTA versucht, Mechanismen anzubieten, die das fördern, für alle, die das wollen.",
+          "assessment": [
+            "Die Musikliste liest sich wie eine Bestandsaufnahme der Charts von 2026 plus ein paar Liebhaberstücke, genau so, wie man es von Rockstar kennt. Spannender ist die Empathie-Aussage. Seit Red Dead Redemption 2 weiß man, dass Rockstar ein Ehrensystem und moralische Konsequenzen ernsthaft umsetzen kann. In einer modernen Großstadt mit Polizei, sozialen Medien und Passanten ist das ein anderes Kaliber.",
+            "Ich bin vorsichtig optimistisch. „Für alle, die das wollen“ heißt auch: Wer Chaos will, bekommt es weiterhin. Ob die Mechanismen mehr sind als ein paar Zusatzszenen, wissen wir in vier Tagen."
+          ],
+          "sources": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/" },
+            { "name": "IGN", "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy" },
+            { "name": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy" }
+          ],
+          "image": { "url": "https://cdn.mos.cms.futurecdn.net/AkvZgaawSvDoiAwX5qbvvY-2560-80.jpg", "alt": "Szene aus der Gameplay-Vorstellung von GTA 6", "credit": "Rockstar Games", "license": "Artikelbild PC Gamer", "source": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/" }
+        },
+        {
+          "title": "League of Legends: New Dawn soll 2027 fast alles am Spiel umbauen",
+          "lead": "Riot Games hat beim WM-Finale das größte Update in der Geschichte von League of Legends angekündigt. Client, Karte, Grafik und Spielmechanik werden überarbeitet, die volle Vorstellung folgt im Januar.",
+          "body": [
+            "Beim Finale der League-of-Legends-Weltmeisterschaft 2026 hat Riot Games „League of Legends: New Dawn“ enthüllt. Das Update ist für 2027 angesetzt und soll den Client, die Karte Summoner’s Rift, die Optik und das Spielgeschehen verändern. Riot spricht von einer „allumfassenden“ Überarbeitung. „Das ist der Beginn einer neuen Ära für League, einer neuen Reise“, sagt Executive Producer Paul Bellezza im ersten Trailer. Die vollständige Präsentation ist für Januar geplant.",
+            "Der Trailer zeigt laut IGN mehr als eine aufgefrischte Grafik. Die Championauswahl wurde neu gestaltet und erinnert an die moderne Oberfläche des Mobilablegers Wild Rift. Das Runensystem scheint überarbeitet oder neu und soll deutlich mehr Einfluss auf das Spiel haben. Zu sehen sind außerdem neue Vasallen, eine neue Optik für Summoner’s Rift, umgestaltete Drachen und Baron Nashor sowie neue Effekte für viele Fähigkeiten.",
+            "Am wichtigsten dürften die angedeuteten Änderungen am Gelände der Karte sein, die neue strategische Überlegungen eröffnen sollen, nicht nur für die Jungler. Wie weit die Eingriffe ins Gameplay gehen, verrät Riot noch nicht.",
+            "League ist seit 2009 auf dem Markt und wurde mehrfach umgebaut: 2014 kam ein neu gebautes Summoner’s Rift, später ein neuer Client, dann neue Runen und Geländeänderungen. Nichts davon reichte an den angekündigten Umfang von New Dawn heran. 2026 hatte Riot mit dem Modus League Classic eher zurückgeschaut, er endet im Januar 2027."
+          ],
+          "highlight": "Am wichtigsten dürften die angedeuteten Änderungen am Gelände der Karte sein, die neue strategische Überlegungen eröffnen sollen, nicht nur für die Jungler.",
+          "assessment": [
+            "Riot macht damit ziemlich genau das, was Valve mit Counter-Strike 2 versucht hat: ein Nachfolger, der kein neues Spiel sein darf, weil niemand Fortschritt und Skins verlieren will. Das ist klug, denn eine Community dieser Größe zieht man nicht auf ein League 2 um.",
+            "Das Risiko liegt in der Karte. Summoner’s Rift ist für Millionen Menschen auswendig gelerntes Terrain. Wer das Gelände ändert, entwertet Jahre an Erfahrung. Ob das als Frischzellenkur oder als Zumutung ankommt, entscheidet sich im Januar, wenn Riot Details zeigt."
+          ],
+          "sources": [
+            { "name": "IGN", "url": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027" }
+          ],
+          "image": { "url": "https://assets-prd.ignimgs.com/2026/11/14/still003-1794673734402.png?width=1280&format=jpg&auto=webp&quality=80", "alt": "Standbild aus dem Trailer zu League of Legends: New Dawn", "credit": "Riot Games", "license": "Artikelbild IGN", "source": "https://www.ign.com/articles/league-of-legends-new-dawn-unveiled-with-debut-trailer-riot-announces-major-overhaul-coming-in-2027" }
+        },
+        {
+          "title": "„Planeswalker“: Die Magic-Serie kommt 2027 wirklich zu Netflix",
+          "lead": "Nach sieben Jahren Entwicklung und einem kompletten Neustart hat die Animationsserie zu Magic: The Gathering einen Titel und einen ersten Teaser. Im Mittelpunkt steht die Feuermagierin Chandra Nalaar.",
+          "body": [
+            "Netflix hat am 13. November einen ersten Blick auf „Planeswalker“ veröffentlicht, die Animationsserie zum Sammelkartenspiel Magic: The Gathering. Sie soll 2027 starten, den Titel gaben die Macher auf der MagicCon in Atlanta bekannt. „Es passiert wirklich. Versprochen. Diesmal echt“, sagt Roy Graham, Head of Story bei Magic, zu Beginn des Ankündigungsvideos.",
+            "Die Serie folgt laut einer Inhaltsangabe, die IGN vorliegt, Chandra Nalaar, „einer unberechenbaren Pyromantin, gejagt wegen ihrer Gaben und verfolgt von ihrer Vergangenheit“. Gemeinsam mit einigen der legendärsten Planeswalker muss sie gegen eine heimtückische Macht antreten und einen Krieg verhindern, der ihre Existenz bedroht. Weil jede Ebene des Multiversums ein eigenes Taschenuniversum ist, bekommt jede ihren eigenen Stil in Design, Animation und Inszenierung.",
+            "Der Weg dorthin war lang. Netflix kündigte eine Magic-Serie bereits im Juni 2019 an, damals mit den „Avengers: Endgame“-Regisseuren Joe und Anthony Russo, Start sollte Ende 2022 sein. Die ursprünglichen Showrunner gingen wegen kreativer Differenzen, im September 2024 bestätigte Netflix einen Neustart von Grund auf. Seitdem verantwortet Terry Matalas die Serie, bekannt durch „Star Trek: Picard“ und zuletzt Marvels „VisionQuest“, gemeinsam mit Cindy Appel. Die Animation übernimmt das Budapester Studio DIGIC Pictures."
+          ],
+          "highlight": "Weil jede Ebene des Multiversums ein eigenes Taschenuniversum ist, bekommt jede ihren eigenen Stil in Design, Animation und Inszenierung.",
+          "assessment": [
+            "Mit Matalas sitzt jemand am Steuer, der gerade mit „VisionQuest“ bewiesen hat, dass er einen verworrenen Kanon in eine zugängliche Geschichte gießen kann. Und DIGIC kennt man aus vielen der besten Spieltrailer der letzten Jahre. Auf dem Papier ist das ein deutlich stärkeres Team als beim ersten Anlauf.",
+            "Die Idee, jede Ebene anders aussehen zu lassen, ist ehrgeizig und passt zum Kartenspiel, dessen Sets genau davon leben. Netflix hat mit „Arcane“ gezeigt, wie gut Spieladaptionen als Animation funktionieren können. Daran wird sich „Planeswalker“ messen lassen müssen."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027" },
+            { "name": "The Verge", "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series" }
+          ],
+          "image": { "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-14-at-10.33.21.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp", "alt": "Eine junge Frau mit geflochtenem Haar hält eine leuchtende Feuerkugel unter einem Sternenhimmel", "credit": "Netflix", "license": "Artikelbild Eurogamer", "source": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027" }
+        },
+        {
+          "title": "Unbestätigt: Ubisoft arbeitet offenbar an einem neuen Rainbow Six Vegas",
+          "lead": "Laut Insider Gaming entwickelt Ubisoft Montreal unter dem Codenamen „Spades“ eine Rückkehr nach Las Vegas, 18 Jahre nach dem letzten Teil. Ubisoft hat sich nicht geäußert.",
+          "body": [
+            "Ubisoft arbeitet einem Bericht von Insider Gaming zufolge an einem neuen Spiel der Reihe Rainbow Six Vegas. Das Projekt befinde sich bei Ubisoft Montreal in einer frühen Entwicklungsphase und trage den Codenamen „Spades“. Es sei eines von drei neuen Projekten im Studio, ein zweites spiele ebenfalls im Rainbow-Six-Universum. Eurogamer konnte den Bericht nicht unabhängig bestätigen.",
+            "Welche Form das Spiel annimmt, ist unklar. Die Quellen von Insider Gaming sprechen von „wahrscheinlich Vegas 3 statt eines Remakes“. Bis zu einer offiziellen Ankündigung dürften noch mehrere Jahre vergehen.",
+            "Rainbow Six Vegas erschien 2006, Vegas 2 folgte 2008. Seitdem dreht sich die Reihe vor allem um den Mehrspieler-Shooter Rainbow Six Siege von 2015. Im August hatte Ubisoft mit Rainbow Six Tactics einen rundenbasierten Einzelspieler-Ableger von Ubisoft Paris für 2027 angekündigt. Die Marke gehört inzwischen zu Vantage Studios, der Ubisoft-Tochter, die auch Assassin’s Creed und Far Cry verantwortet und an der Tencent 26,32 Prozent hält."
+          ],
+          "highlight": "Die Quellen von Insider Gaming sprechen von „wahrscheinlich Vegas 3 statt eines Remakes“.",
+          "assessment": [
+            "Vegas war für viele die beste Mischung aus Taktik und Action, die Rainbow Six je hatte, vor allem im kooperativen Terroristenjagd-Modus. Seit Siege ist die Marke ein reiner Mehrspieler-Dienst, und dass Ubisoft jetzt gleich mehrere Einzelspieler-Projekte anschiebt, ist eine Rückbesinnung, die Sinn ergibt.",
+            "Man sollte die Erwartungen aber dämpfen. Ein Projekt in früher Phase, mehrere Jahre bis zur Ankündigung und ein Konzern im Umbau: Zwischen diesem Bericht und einem fertigen Spiel kann noch viel passieren."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report" }
+          ],
+          "image": { "url": "https://assetsio.gnwcdn.com/0000003726.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp", "alt": "Soldaten in taktischer Ausrüstung bei einem Feuergefecht vor einem Casino bei Nacht", "credit": "Ubisoft", "license": "Artikelbild Eurogamer", "source": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report" }
+        },
+        {
+          "title": "Halo: Campaign Evolved bekommt den Firefight-Modus als Gratis-Update",
+          "lead": "Xbox kündigt das erste Update für das Halo-Remake seit August an: den kooperativen Wellenmodus Firefight. Details soll es beim Halo Fest im Dezember geben.",
+          "body": [
+            "Xbox hat ein kostenloses Update für Halo: Campaign Evolved angekündigt, die Neuauflage der Kampagne des ersten Halo. Es bringt Firefight ins Spiel, den kooperativen Modus, in dem eine Gruppe möglichst lange gegen immer stärkere Gegnerwellen überleben muss. Es ist das erste Update für das Remake seit August.",
+            "Firefight debütierte in Halo 3: ODST und war seither in jedem Halo enthalten, mit Ausnahme von Halo 4, das stattdessen Spartan Ops bot. Viel mehr verrät Xbox noch nicht. Weitere Details sollen beim Halo Fest folgen, das am Wochenende ab dem 12. Dezember stattfindet.",
+            "PC Gamer ordnet die Ankündigung kritisch ein. Campaign Evolved sei eine hochglänzende, aber wenig ehrgeizige Überarbeitung gewesen, mit drei neuen Levels, die niemand mochte, und ohne den Mehrspielermodus, der die PC-Version Anfang der 2000er so beliebt machte. Ein Firefight-Modus rund ein halbes Jahr nach dem Start und nach monatelanger Funkstille wirke eher wie „Wir brauchen etwas fürs Halo Fest“ als wie der Beginn einer neuen Zukunft.",
+            "Im Zuge des Umbaus bei Xbox, zu dem der Abbau tausender Stellen und die Schließung mehrerer Studios gehörten, hat Xbox laut PC Gamer die Verantwortung für Halo an Activision übergeben. Ob Firefight der erste Schritt eines Plans von Activision für die Marke ist, bleibt offen."
+          ],
+          "highlight": "Es ist das erste Update für das Remake seit August.",
+          "assessment": [
+            "Firefight ist für viele der unterschätzte Kern von Halo, und das Remake hätte ihn zum Start gebraucht. Jetzt wirkt er wie ein Pflaster auf einem Spiel, das kaum jemand mehr spielt.",
+            "Interessanter als der Modus ist die Frage dahinter: Was macht Activision mit Halo? Wenn die Marke nun Richtung Call of Duty geschoben wird, wäre Firefight als kooperativer Dauerbrenner ein naheliegender Testlauf. Halo Fest im Dezember dürfte mehr über die Zukunft der Reihe verraten als dieses Update."
+          ],
+          "sources": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/" }
+          ],
+          "image": { "url": "https://cdn.mos.cms.futurecdn.net/Pcbhgnm7v6JSwpbWkkXMaP-1920-80.jpg", "alt": "Szene aus Halo: Campaign Evolved", "credit": "Halo Studios / Xbox", "license": "Artikelbild PC Gamer", "source": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/" }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Camerimage: Golden Frog für Łukasz Żal und Pawlikowskis „Fatherland“",
+          "lead": "Beim Festival der Kameraleute im polnischen Toruń gewinnt der Film über Thomas Mann und seine Tochter Erika den Hauptpreis. Der Publikumspreis geht an Martin McDonaghs „Wild Horse Nine“.",
+          "body": [
+            "Bei der Abschlussgala des 34. Camerimage-Festivals, das sich in diesem Jahr in ToruńCamerimage umbenannt hat, ging der Golden Frog des Hauptwettbewerbs an Łukasz Żal für „Fatherland“ von Paweł Pawlikowski. Der Film ist Polens Beitrag für den internationalen Oscar und gewinnt laut The Hollywood Reporter damit auch in der Kamerakategorie an Schwung. Er erzählt von einer Reise des Nobelpreisträgers Thomas Mann, gespielt von Hanns Zischler, und seiner Tochter Erika, gespielt von Sandra Hüller, durch das Deutschland des Kalten Krieges.",
+            "Der Silver Frog ging an Jasper J. Spanning für „Woman Unknown“ von May El-Toukhy, der Bronze Frog an Mikhail Krichman für Andrey Zvyagintsevs „Minotaur“. Den Publikumspreis gewann „Wild Horse Nine“ von Martin McDonagh, fotografiert von Ben Davis, eine komödiantische Agentengeschichte mit John Malkovich und Sam Rockwell, die ebenfalls große Oscar-Ambitionen hat.",
+            "In den Debütwettbewerben gewann Eira Wyn Jones für „Effi O Blaenau“ von Tereza Nvotová den Golden Frog der Kameradebüts, Kaifeng Zhong den der Regiedebüts für „Atlantic Rhapsody“. Bei den Dokumentarfilmen siegte Eva Kraljević mit „To Hold a Mountain“ von Petar Glomazić, bei den Serien Maciej Sobieraj für „Silent Night“ von Jan Holoubek.",
+            "„Fatherland“ führt zudem gemeinsam mit „La Bola Negra“ und „Fjord“ die Nominierungen für den Europäischen Filmpreis an."
+          ],
+          "highlight": "Der Film ist Polens Beitrag für den internationalen Oscar und gewinnt laut The Hollywood Reporter damit auch in der Kamerakategorie an Schwung.",
+          "assessment": [
+            "Żal ist bei Camerimage kein Unbekannter, er hat mit Pawlikowski schon „Ida“ und „Cold War“ gedreht, beide in markantem Schwarzweiß. Der Golden Frog ist für die Oscar-Kamerakategorie oft ein brauchbarer Fingerzeig, weil hier die Zunft selbst urteilt.",
+            "Für das deutsche Publikum ist „Fatherland“ ohnehin einer der spannendsten Filme der Saison: Sandra Hüller als Erika Mann, Hanns Zischler als Thomas Mann und ein Blick auf das geteilte Deutschland von außen. Dass der Film jetzt auch handwerklich gefeiert wird, macht ihn zum ernsthaften Kandidaten in mehreren Kategorien."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483/" },
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/festivals/toruncamerimage-golden-frog-winners-2026-1235227760/" }
+          ],
+          "image": { "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/FATHERLAND-200504-H-2026.jpg?w=1296&h=730&crop=1", "alt": "Szene aus „Fatherland“ von Paweł Pawlikowski", "credit": "MUBI", "license": "Artikelbild The Hollywood Reporter", "source": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483/" }
+        },
+        {
+          "title": "„Ink“: In den USA zeigt Danny Boyle die Sun-Schlagzeilen, die in Großbritannien geschwärzt sind",
+          "lead": "Bei der Verleihung des Deadline Legend Award kündigte Boyle an, dass die US-Fassung seines Films über Rupert Murdoch die Schlagzeilen im Epilog ungeschwärzt zeigt, darunter die berüchtigte Hillsborough-Titelseite.",
+          "body": [
+            "Danny Boyle hat am Samstag bestätigt, dass die geschwärzten Schlagzeilen der Boulevardzeitung The Sun im Epilog seines Netflix-Dramas „Ink“ in der US-Kino- und Streamingfassung vollständig zu sehen sein werden. Eine entsprechend bearbeitete Fassung werde gerade fertiggestellt, rechtzeitig zum Start in ausgewählten Kinos am 11. Dezember. In Großbritannien konnten die Schlagzeilen wegen der strengen Gesetze gegen üble Nachrede nicht gezeigt werden.",
+            "„Wir mussten kämpfen, um den Film dahin zu bringen, wo er jetzt ist“, sagte Boyle beim Deadline-Event Contenders Film Los Angeles, wo er den Deadline Legend Award erhielt. „Ich glaube, wir haben gerade das Recht gewonnen, weil wir in Amerika sind, und ihr habt einen besseren Schutz der Meinungsfreiheit als wir in Großbritannien.“",
+            "Besonders wichtig ist ihm eine Schlagzeile: „The Truth“, mit der die Sun nach der Katastrophe von Hillsborough 1989 die Fans des FC Liverpool für den Tod von 97 Menschen verantwortlich machte, gestützt auf falsche Polizeiangaben. „Es ist einer der Tiefpunkte des britischen Journalismus, und wir wollten, dass das immer im Film ist“, sagte Boyle. Die Frage nach der Wahrheit ziehe sich durch James Grahams gesamtes Drehbuch.",
+            "„Ink“ beruht auf Grahams Tony-prämiertem Theaterstück und erzählt, wie Rupert Murdoch, gespielt von Guy Pearce, und Chefredakteur Larry Lamb, gespielt von Jack O’Connell, Ende der Sechziger The Sun übernahmen und eine neue Art des Boulevardjournalismus erfanden. Der Film eröffnete in diesem Jahr das Festival von Venedig. Im Gespräch über sein Werk räumte Boyle ein, dass eine französische Journalistin einst recht hatte, als sie ihm vorhielt, alle seine Filme handelten vom selben: von jemandem, der unüberwindliche Hindernisse überwindet."
+          ],
+          "highlight": "„Ich glaube, wir haben gerade das Recht gewonnen, weil wir in Amerika sind, und ihr habt einen besseren Schutz der Meinungsfreiheit als wir in Großbritannien.“",
+          "assessment": [
+            "Eine bemerkenswerte Pointe: Ein Film über die Erfindung des britischen Boulevards darf in Großbritannien nicht zeigen, was dieser Boulevard angerichtet hat. Ausgerechnet die Hillsborough-Titelseite ist in Liverpool bis heute ein offener Schmerz, die Sun wird dort vielerorts boykottiert.",
+            "Damit wird die US-Fassung zur eigentlichen Fassung des Films, und das britische Publikum bekommt eine entschärfte Version. Das dürfte die Debatte über das britische Presserecht neu anfachen, und es gibt dem Film eine zusätzliche Dringlichkeit in der Preissaison."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/ink-tabloid-headlines-uncensored-in-united-states-1237224129/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/Danny-Boyle-Contenders.jpg?w=1024", "alt": "Danny Boyle bei Deadlines Contenders Film Los Angeles", "credit": "Rich Polk for Deadline", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/ink-tabloid-headlines-uncensored-in-united-states-1237224129/" }
+        },
+        {
+          "title": "Nach Gunns Abschied bei DC: Chris Pratt würde gern „Guardians of the Galaxy 4“ mit ihm drehen",
+          "lead": "Der Star-Lord-Darsteller wünscht sich eine Rückkehr von James Gunn zu Marvel. Gesprochen habe er mit ihm seit dessen Aus bei DC Studios aber noch nicht.",
+          "body": [
+            "Chris Pratt hat sich offen für einen vierten „Guardians of the Galaxy“-Film unter der Regie von James Gunn gezeigt. „Das wäre großartig. Ich arbeite gern mit James“, sagte er dem schwedischen Magazin MovieZine. „Er ist der Mann. Ich hatte noch keine Gelegenheit, mit ihm zu sprechen, seit die Nachricht rauskam.“ Ihm sei bewusst, dass jede solche Aussage sofort zur Schlagzeile werde.",
+            "Pratt betonte, wie selten es sei, dass ein Regisseur eine ganze Trilogie dieser Art inszeniert. „Wenn er zurückkommen und es wiederbeleben wollte, Mann, das fände ich toll.“",
+            "Hintergrund ist der Umbau bei DC. Gunn und Peter Safran sind nach vier Jahren nicht mehr Co-Chefs von DC Studios, nachdem David Ellisons Skydance die Kontrolle übernommen hat. Sie sollen aber weiter einzelne DC-Projekte produzieren. Neuer Präsident und Chief Creative Officer ist Jeremy Latcham, zuvor Produktionschef bei Marvel. Gunn hatte vor seinem Wechsel zu DC 2022 alle drei „Guardians“-Filme und das „Holiday Special“ für Marvel gedreht."
+          ],
+          "highlight": "„Wenn er zurückkommen und es wiederbeleben wollte, Mann, das fände ich toll.“",
+          "assessment": [
+            "Das ist vor allem Höflichkeit unter Kollegen, kein Projekt. Gunn hat „Guardians 3“ bewusst als Abschluss inszeniert, und Marvel hat mit den Avengers-Filmen andere Prioritäten. Trotzdem ist die Vorstellung reizvoll, dass Gunn ausgerechnet dorthin zurückkehrt, wo seine Karriere als Blockbuster-Regisseur begann.",
+            "Realistischer ist, dass Gunn zunächst seine laufenden DC-Projekte als Produzent abwickelt. Pratt hält mit seinem Satz aber eine Tür offen, durch die Disney sehr gern gehen würde, falls Gunn Lust hat."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/GUARDIANS-OF-THE-GALAXY-Chris-Pratt-2014.-Walt-Disney-Studios-Motion-PicturesCourtesy-Everett-1000.jpg?w=1000", "alt": "Chris Pratt als Star-Lord in „Guardians of the Galaxy“", "credit": "Walt Disney Studios Motion Pictures/Courtesy Everett Collection", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/" }
+        },
+        {
+          "title": "Kids’ Choice Awards: „Spider-Man: Brand New Day“ ist Lieblingsfilm, Holland und Zendaya gewinnen",
+          "lead": "Bei der Preisverleihung von Nickelodeon, erstmals parallel bei CBS ausgestrahlt, räumen der neue Spider-Man, BTS und „Zootopia 2“ ab. Chris Pratt bekommt den King of Comedy Award.",
+          "body": [
+            "„Spider-Man: Brand New Day“ ist bei den Kids’ Choice Awards zum Lieblingsfilm gewählt worden. Tom Holland und Zendaya gewannen als Lieblingsdarsteller und Lieblingsdarstellerin. Der Film setzte sich unter anderem gegen „Avatar: Fire and Ash“, „Superman“, „Wicked: For Good“ und die Realverfilmungen von „Lilo & Stitch“ und „Moana“ durch.",
+            "Bei den Animationsfilmen siegte „Zootopia 2“. Die Sprechpreise gingen an Arden Cho und Ahn Hyo-seop für „KPop Demon Hunters“, dessen „Golden“ außerdem als bester Filmsong ausgezeichnet wurde. „Stranger Things“ wurde zur Lieblings-Familienserie gewählt, Jenna Ortega für „Wednesday“ ausgezeichnet. BTS gewann drei der orangefarbenen Luftschiff-Trophäen, darunter für die beste Gruppe und das Album „Arirang“. Chris Pratt erhielt den King of Comedy Award.",
+            "Moderiert wurde die Show von Musiker Alex Warren. Sie lief am 14. November live aus der Television City in Los Angeles und war erstmals gleichzeitig bei CBS und Nickelodeon zu sehen, dazu bei Paramount+. Die Preise werden per Publikumsabstimmung vergeben, in diesem Jahr kamen drei neue Kategorien hinzu."
+          ],
+          "highlight": "Tom Holland und Zendaya gewannen als Lieblingsdarsteller und Lieblingsdarstellerin.",
+          "assessment": [
+            "Die Kids’ Choice Awards sind kein Kritikerpreis, aber ein guter Gradmesser dafür, welche Filme bei der jüngsten Zielgruppe wirklich ankommen. Dass „Spider-Man“ hier vor „Avatar“ und „Superman“ landet, zeigt, wie stark Holland und Zendaya als Paar inzwischen ziehen.",
+            "Die gleichzeitige Ausstrahlung bei CBS ist das eigentliche Signal: Paramount unter Skydance setzt auf Familienunterhaltung im Hauptprogramm, und Nickelodeon wird stärker in die große Marke eingebunden."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-kids-choice-awards-winners-list-1236755415/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/" }
+          ],
+          "image": { "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/MCDSPMA_CO015.jpg?w=1296&h=730&crop=1", "alt": "Tom Holland und Zendaya in „Spider-Man: Brand New Day“", "credit": "Courtesy of Everett Collection", "license": "Artikelbild The Hollywood Reporter", "source": "https://www.hollywoodreporter.com/tv/tv-news/2026-kids-choice-awards-winners-list-1236755415/" }
+        },
+        {
+          "title": "„SNL“ nimmt die Tech-Milliardäre aufs Korn: Bowen Yang spielt Jensen Huang, Amanda Seyfried moderiert im Dezember",
+          "lead": "Der Cold Open mit Gastgeber John Mulaney verarbeitet den Nvidia-Skandal, den Flugstopp und den Microsoft-Ausfall. Nach der Thanksgiving-Pause übernimmt Amanda Seyfried zum ersten Mal die Moderation.",
+          "body": [
+            "Bowen Yang ist für den Cold Open zu „Saturday Night Live“ zurückgekehrt und spielte Jensen Huang. Der Sketch zielte auf die Anfälligkeit von Tech-Milliardären für sogenannte Honigfallen, also das Anwerben durch attraktive Frauen. „Wenn man Jensen einlädt, weiß man, was gleich runtergeht: der S&P 500“, sagte Yangs Huang.",
+            "John Mulaney, der die Sendung zum siebten Mal moderierte, spielte einen CIA-Beamten, der die versammelten Tech-Größen schulen soll, den Unterschied zwischen echtem Interesse und einer Spionin zu erkennen. Auf die Frage nach der Lehre aus dem Fall Huang antworteten Dario Amodei, gespielt von Jane Wickline, Mark Zuckerberg und Peter Thiel mit absurden Schlüssen. Als Thiel fragte, wann die Technik Amerika je im Stich gelassen habe, kam die Antwort prompt: „Gestern, als jedes Flugzeug in Amerika am Boden blieb.“ Und davor, als Microsoft ausfiel.",
+            "Noch in derselben Sendung kündigte NBC die nächste Gastgeberin an. Amanda Seyfried moderiert am 5. Dezember zum ersten Mal, musikalischer Gast ist Don Toliver. Bis dahin pausiert die Show wegen Thanksgiving. Seyfried ist derzeit vor allem wegen ihrer Doppelrolle als sie selbst und als Elizabeth Holmes in der Dokumentation „You Can See Everything“ von Nathan Fielder und Lance Oppenheim im Gespräch, am 20. November startet außerdem der Netflix-Animationsfilm „Steps“ mit ihr."
+          ],
+          "highlight": "Als Thiel fragte, wann die Technik Amerika je im Stich gelassen habe, kam die Antwort prompt: „Gestern, als jedes Flugzeug in Amerika am Boden blieb.“",
+          "assessment": [
+            "„SNL“ hatte in dieser Woche leichtes Spiel, die Realität lieferte die Pointen gleich im Dreierpack. Bemerkenswert ist, wie selbstverständlich die Show inzwischen KI-Chefs als Figuren einsetzt. Dario Amodei als Sketchfigur zeigt, dass die Branche endgültig in der Popkultur angekommen ist, und zwar nicht als Heilsbringer, sondern als Zielscheibe.",
+            "Mit Seyfried hat die Show zum Jahresende eine Gastgeberin, die gerade mit einer der meistdiskutierten Dokumentationen des Jahres unterwegs ist. Das dürfte eine der stärkeren Folgen der Staffel werden."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/saturday-night-live-open-bowen-yang-jensen-huang-1237224372/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/amanda-seyfried-host-saturday-night-live-1237224388/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-at-11.49.18-PM.jpeg?w=1024", "alt": "Szene aus dem Cold Open von „Saturday Night Live“ mit Bowen Yang als Jensen Huang", "credit": "NBC", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/saturday-night-live-open-bowen-yang-jensen-huang-1237224372/" }
+        },
+        {
+          "title": "„VisionQuest“: Paul Bettany erklärt, warum Wanda nur im Abspann auftaucht",
+          "lead": "Eine größere Rolle für Elizabeth Olsen war im Gespräch. Kevin Feige riet ab, die Serie solle für sich stehen. Die Szene nach dem Abspann deutet auf „Avengers: Doomsday“.",
+          "body": [
+            "Elizabeth Olsens Wanda Maximoff hat in „VisionQuest“ nur einen kurzen Auftritt nach dem Abspann. Dabei habe es Überlegungen gegeben, sie stärker einzubinden, sagte Paul Bettany, der Vision spielt und die Serie mitproduziert hat, dem Portal The Playlist. „Es gab Fragen dazu, ob das passieren sollte, ob es zu viel für das MCU öffnet, ob sie es später machen wollen.“",
+            "Entschieden habe ein Gespräch mit Marvel-Chef Kevin Feige. Der habe gesagt: „Du und Terry habt so gute Arbeit geleistet, dass mir Vision wichtig ist. Ich glaube nicht, dass ihr davon ablenken solltet, indem ihr dem Publikum das am Ende gebt. Dann würde sich alles wieder um WandaVision drehen, und diese Serie sollte und kann für sich stehen.“ Bettany: „Und ich glaube, er hatte recht.“",
+            "In der Szene nach dem Abspann scheint Doctor Doom Wanda aus den Trümmern von Wundagore wiederzubeleben, wo sie in „Doctor Strange in the Multiverse of Madness“ verschwand. Das deutet auf einen Auftritt in „Avengers: Doomsday“ hin, der am 18. Dezember in die Kinos kommt. Im Finale war Vision bereits mit seinen Söhnen Tommy und Billy vereint.",
+            "Eine weitere gemeinsame Serie mit Olsen würde Bettany gern drehen. „Im Moment fühlt es sich nicht danach an, aber ich bin in dieser Serie so oft gestorben, man weiß nie.“ Ob Vision überhaupt weitermacht, werde „weiter oben in der Nahrungskette“ entschieden."
+          ],
+          "highlight": "Dann würde sich alles wieder um WandaVision drehen, und diese Serie sollte und kann für sich stehen.",
+          "assessment": [
+            "Feiges Argument ist bemerkenswert selbstkritisch für ein Studio, das jahrelang jede Serie mit Gastauftritten vollgestopft hat. Dass „VisionQuest“ das stärkste Marvel-Finale seit Langem bekam, gibt ihm recht: Die Serie funktionierte, weil sie eine eigene Geschichte erzählte.",
+            "Die Szene im Abspann ist trotzdem Marvel pur, sie verlagert die große Familienzusammenführung einfach ins Kino. Wer Wanda und Vision gemeinsam sehen will, muss im Dezember ein Ticket für „Doomsday“ kaufen."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/paul-bettany-questions-bringing-wanda-back-visionquest-1237224196/" }
+          ],
+          "image": { "url": "https://deadline.com/wp-content/uploads/2026/11/TCDWAND_G5017.jpg?w=1024", "alt": "Elizabeth Olsen und Paul Bettany in „WandaVision“", "credit": "Disney+/Marvel Studios/Courtesy Everett Collection", "license": "Artikelbild Deadline", "source": "https://deadline.com/2026/11/paul-bettany-questions-bringing-wanda-back-visionquest-1237224196/" }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Doppeläxte und grobe Töpfe: Der Rhein trennte die Jungsteinzeit nicht",
+          "lead": "Lange galt der Rhein schon vor 5000 Jahren als Grenze zwischen West- und Mitteleuropa. Ein Kieler Archäologe zeigt, dass Werkzeuge, Keramik und Gräber auf ein weites Netz der Verbindungen hindeuten.",
+          "body": [
+            "Viele Archäologinnen und Archäologen sahen im Rhein eine Trennlinie zwischen West- und Mitteleuropa, und zwar schon im späten vierten und frühen dritten Jahrtausend vor Christus. Die Spuren menschlicher Tätigkeit sehen auf beiden Seiten des Flusses unterschiedlich aus. Eine neue Studie in der Fachzeitschrift Germania stellt das infrage. Sebastian Schultrich vom Exzellenzcluster ROOTS der Universität Kiel hat drei Gruppen von Funden aus der späten Jungsteinzeit verglichen: Doppeläxte, grobe Keramik und Kollektivgräber.",
+            "Die grobe Keramik erklärt, warum diese Verbindungen so lange übersehen wurden. Die Gefäße sind schlicht und grob geformt, verziert höchstens mit kleinen Punktreihen unter dem Rand. Neben den feinen Trichterbechern Norddeutschlands wirkten sie langweilig. Sie tauchen zuerst um die Mitte des vierten Jahrtausends in Nord- und Mittelfrankreich und den Westalpen auf, später ähnlich in West- und Norddeutschland und Dänemark. Schultrich deutet die langsame, ungeplante Angleichung als Zeichen hoher Mobilität in einer Landschaft ohne scharfe Grenzen.",
+            "Die Doppeläxte erzählen eine andere Geschichte. Die Steinäxte mit Schaftloch und zwei Schneiden waren aufwendig herzustellen und galten als Prestigeobjekte. Sie finden sich von Frankreich über Mitteleuropa bis nach Skandinavien und Polen. Die Studie datiert die lange umstrittenen französischen Exemplare nun in dieselbe Zeit wie die mittel- und nordeuropäischen. Anders als die Keramik scheint sich die Doppelaxt gezielt verbreitet zu haben, als gemeinsame Idee beiderseits des Rheins.",
+            "Dazu kommen die großen Kollektivgräber, Ganggräber und Galeriegräber. Ihre Formen unterscheiden sich, ihr Kern ist gleich: Sie nahmen Dutzende bis Hunderte Menschen auf, wurden über viele Generationen genutzt und waren Orte für Rituale und Zusammenkünfte. Schultrich betont, dass es keine einheitliche Kultur war, sondern ein Netzwerk mit gemeinsamen Grundgeschichten und viel Raum für regionale Eigenheiten.",
+            "Statt zweier getrennter Welten zeigt sich damit eine breite Kontaktzone, in der lokale Gruppen ihre eigenen Gewohnheiten behielten. Identität verband weitreichende und lokale Elemente, ganz ähnlich wie heute."
+          ],
+          "highlight": "Statt zweier getrennter Welten zeigt sich damit eine breite Kontaktzone, in der lokale Gruppen ihre eigenen Gewohnheiten behielten.",
+          "assessment": [
+            "Eine schöne Studie, weil sie das Unscheinbare ernst nimmt. Archäologie hat jahrzehntelang Kulturen über verzierte Prachtkeramik definiert und damit Grenzen gezogen, die womöglich vor allem in den Fundkatalogen existierten. Wer die groben Alltagstöpfe mitzählt, sieht plötzlich Verbindungen.",
+            "Die Unterscheidung zwischen ungeplanter Angleichung bei der Keramik und gezielter Verbreitung bei den Prestigeäxten ist der eigentliche Erkenntnisgewinn. Sie beschreibt zwei Arten, wie sich Ideen bewegen: durch Nachbarschaft und durch Bedeutung. Das gilt nicht nur für die Jungsteinzeit."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/the-rhine-didnt-divide-stone-age-europe/" }
+          ],
+          "image": { "url": "https://archaeologymag.com/wp-content/uploads/the-rhine-stone-age-europe-1.jpg", "alt": "Steinerne Doppelaxt nordischen Typs aus einem Ganggrab in Wangels, Ostholstein", "credit": "Sebastian Schultrich", "license": "Artikelbild archaeologymag.com", "source": "https://archaeologymag.com/2026/11/the-rhine-didnt-divide-stone-age-europe/" }
+        },
+        {
+          "title": "Veroli: Neues Nationalmuseum zeigt die Völker Latiums vor der römischen Eroberung",
+          "lead": "Im Palazzo Marchesi Campanari hat das Museo Archeologico Nazionale dei Popoli Italici „Amedeo Maiuri“ eröffnet. Rund 500 Funde, die meisten nie zuvor ausgestellt, erzählen von Latinern, Volskern, Hernikern und Aurunkern.",
+          "body": [
+            "In Veroli in der Provinz Frosinone hat am 14. November das Museo Archeologico Nazionale dei Popoli Italici eröffnet, benannt nach dem in Veroli geborenen Archäologen Amedeo Maiuri, der durch seine Arbeit in Pompeji und am Vesuv bekannt wurde. Das Museum gehört zur regionalen Museumsdirektion Latium des italienischen Kulturministeriums und belegt drei der vier Stockwerke des historischen Palazzo Marchesi Campanari.",
+            "Gezeigt werden rund 500 Funde in 16 Sälen, die meisten waren noch nie öffentlich zu sehen. Sie umfassen die Zeit vom 8. bis zum 3. Jahrhundert vor Christus und erzählen die Geschichte des südlichen Latiums vor der römischen Eroberung, also der Latiner, Volsker, Herniker und Aurunker. Der Rundgang führt von der antiken Landschaft über Sprachen und Schrift, Wohnen, Heiligtümer und Bestattungsbräuche bis zu den Umbrüchen vor der römischen Herrschaft.",
+            "Digitale Rekonstruktionen und Videomapping ergänzen die Objekte. Es gibt eine Rekonstruktion eines archaischen Dorfes bei Frosinone und einen begehbaren Raum zur Transhumanz, der saisonalen Wanderweidewirtschaft. Ein Saal würdigt Maiuri, ein anderer zeigt Stücke, die die Kulturgüterschutzeinheit der Carabinieri im Ausland sichergestellt hat. Leihgaben kommen unter anderem vom Archäologischen Park Pompeji und dem Archäologischen Nationalmuseum Neapel.",
+            "Die Arbeiten begannen im November 2025. Restaurierung, Technik und neue Ausstellung kosteten 850.000 Euro aus dem EU-Programm NextGenerationEU, das Ministerium gab rund 670.000 Euro für Konservierung, Vitrinen, Netzanbindung und Brandschutz dazu. Bei der Planung wirkten Verbände blinder und gehörloser Menschen sowie Familien autistischer Menschen mit. Der Eintritt ist samstags und sonntags von 10 bis 13 und 15 bis 18 Uhr frei."
+          ],
+          "highlight": "Sie umfassen die Zeit vom 8. bis zum 3. Jahrhundert vor Christus und erzählen die Geschichte des südlichen Latiums vor der römischen Eroberung, also der Latiner, Volsker, Herniker und Aurunker.",
+          "assessment": [
+            "Die italische Vorgeschichte Roms steht meist im Schatten der Etrusker und Griechen, obwohl gerade diese Völker die Römer jahrhundertelang beschäftigt haben. Ein eigenes Nationalmuseum für sie ist überfällig, und dass die meisten Stücke erstmals gezeigt werden, macht es auch für Fachleute interessant.",
+            "Schön ist der Ansatz, das Museum mit der Altstadt zu verknüpfen und Barrierefreiheit von Anfang an mitzudenken. Für eine Italienreise abseits der üblichen Ziele ist Veroli jetzt ein guter Grund, im Hinterland von Rom haltzumachen."
+          ],
+          "sources": [
+            { "name": "Finestre sull’Arte", "url": "https://www.finestresullarte.info/musei/veroli-apre-museo-archeologico-nazionale-dei-popoli-italici" }
+          ],
+          "image": { "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/museo-archeologico-popoli-italici-veroli-1.jpeg", "alt": "Ausstellungssaal im Museo Archeologico Nazionale dei Popoli Italici in Veroli", "credit": "Ministero della Cultura", "license": "Artikelbild Finestre sull’Arte", "source": "https://www.finestresullarte.info/musei/veroli-apre-museo-archeologico-nazionale-dei-popoli-italici" }
+        },
+        {
+          "title": "Heilige Katzen, hartes Leben: 131 Schädel aus Beni Hassan zeigen Krankheit und Gewalt",
+          "lead": "Eine Kiste mit Katzenschädeln im Naturhistorischen Museum Wien verrät, wie die alten Ägypter Tiere für die Mumifizierung hielten. Fast zwei Drittel waren krank, manche wurden erschlagen.",
+          "body": [
+            "Ein Team aus Belgien und Italien um den Zooarchäologen Wim Van Neer vom Königlich Belgischen Institut für Naturwissenschaften hat 131 Katzenschädel aus Beni Hassan untersucht, einem Gräberfeld am Nil in Mittelägypten. Die Schädel stammen aus Katzenmumien, die im 19. Jahrhundert ausgewickelt wurden. Das Naturhistorische Museum Wien kaufte sie 1883 für 800 Gulden. Die Autoren sprechen von der größten Museumssammlung ägyptischer Katzenschädel mit dokumentierter Herkunft. Die Studie erschien im Journal of Archaeological Science.",
+            "Sieben Schädel gehören Rohrkatzen, einer größeren Wildkatzenart, die übrigen überwiegend Hauskatzen. 81 Schädel, also 62 Prozent, zeigen mindestens eine krankhafte Veränderung. 26 Tiere hatten Zahnfleischerkrankungen, 24 hatten Zähne verloren. 35 Schädel weisen Narbenmulden auf, die die Forschenden auf Hautinfektionen in beengten Verhältnissen zurückführen. 19 zeigen kleine Löcher im Boden der Augenhöhle, wie sie beim Menschen mit Blutarmut verbunden sind.",
+            "14 Schädel, elf Prozent, tragen Verletzungen. Acht hatten Bisswunden von Kämpfen unter Katzen, bei einer Hauskatze passen die verheilten Löcher zu den Eckzähnen einer Rohrkatze. Andere Wunden stammen von Menschen: Hiebspuren deuten auf ein scharfes Metallwerkzeug, Brüche und Dellen auf einen stumpfen Gegenstand, vielleicht einen dicken Holzstock. Zwei Katzen starben an ihren Wunden, drei oder vier überlebten Schläge auf den Kopf. Die Autoren halten manche Verletzungen für Disziplinierung oder das Trennen kämpfender Tiere, die tödlichen seien gezielt gewesen.",
+            "Radiokarbondaten von neun Schädeln legen acht Tiere in die Zeit zwischen 380 und 40 vor Christus, von der Spätzeit bis in die Ptolemäerzeit. Eine Katze stammt aus der Zeit um 980 bis 820 vor Christus, früher als jede bekannte Erwähnung von Katzenmumien in Beni Hassan. Isotopenanalysen zeigen, dass die Rohrkatzen in der Wildnis gefangen und nicht in Gefangenschaft gezüchtet wurden. Alle Tiere lebten offenbar zusammen unter denselben stressigen, beengten Bedingungen."
+          ],
+          "highlight": "Zwei Katzen starben an ihren Wunden, drei oder vier überlebten Schläge auf den Kopf.",
+          "assessment": [
+            "Die Studie räumt mit einem romantischen Bild auf. Die Katze war in Ägypten heilig, aber die Millionen Tiere, die als Votivgaben für die Göttin Bastet endeten, waren Massenware einer religiösen Industrie. Sie wurden gefangen, zusammengepfercht und schließlich getötet, damit Pilger sie opfern konnten.",
+            "Dass die Schädel überhaupt erhalten sind, ist Glück. Ende des 19. Jahrhunderts wurden Katzenmumien aus Beni Hassan tonnenweise nach Europa verschifft und als Dünger verkauft. Die Wiener Sammlung ist damit auch ein Zeugnis davon, wie achtlos Europa mit diesem Erbe umging."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/egyptian-cats-for-mummification-had-hard-lives/" },
+            { "name": "Archaeology (AIA)", "url": "https://archaeology.org/news/2026/11/13/health-of-mummified-egyptian-cats-evaluated/" }
+          ],
+          "image": { "url": "https://archaeologymag.com/wp-content/uploads/egypt-cats-had-hard-lives-1.jpg", "alt": "Ägyptische Tiermumien im British Museum", "credit": "Mario Sánchez, CC BY-SA 2.0", "license": "Artikelbild archaeologymag.com", "source": "https://archaeologymag.com/2026/11/egyptian-cats-for-mummification-had-hard-lives/" }
+        },
+        {
+          "title": "Çemka Höyük: 11.000 Jahre alte gebrannte Tongefäße zeigen frühe Experimente mit Keramik",
+          "lead": "Am oberen Tigris formten Menschen schon mehr als 2000 Jahre vor der eigentlichen Töpferei Behälter aus Ton und brannten sie gezielt. Die Funde zählen zu den ältesten gebrannten Tongefäßen Südwestasiens.",
+          "body": [
+            "Keramik wurde in Südwestasien erst um 7000 vor Christus alltäglich, mehr als 2000 Jahre nach den ersten Dörfern. Die Zeit davor heißt in der Forschung Akeramisches Neolithikum. Eine neue Studie in der Fachzeitschrift Antiquity zeigt, dass der Name täuscht. Sie untersucht rund 11.000 Jahre alte Tonfragmente aus Çemka Höyük, einer Siedlung in der Provinz Mardin im Südosten der Türkei. Verfasst haben sie Rana Özbal und Maria Daghmehchi von der Koç-Universität, Ergül Kodaş von der Mardin-Artuklu-Universität und Natalia Petrova von der Russischen Akademie der Wissenschaften.",
+            "Die Siedlung war von etwa 10.800 bis 8700 vor Christus bewohnt. Bei Rettungsgrabungen kamen 46 schwach gebrannte Tonfragmente zutage, die vermutlich zu neun Objekten gehörten. Sie stammen aus einer Bauschicht um 9350 vor Christus. Mit zwei Arten von Mikroskopen und Röntgenbeugung fand das Team heraus, dass die Stücke bei etwa 600 bis 700 Grad gebrannt wurden, wahrscheinlich in einem kontrollierten offenen Feuer. Die Hitze war Absicht, kein Zufall, und die Veränderungen im Ton sind dauerhaft. Damit handelt es sich um echte Keramik.",
+            "Die Fragmente zeigen verschiedene Bauweisen. Manche bildeten offenbar Tonüberzüge um ovale Gegenstände aus organischem Material. Ein Stück war womöglich an einem Behälter aus anderem Material befestigt, um ihn zu vergrößern, Löcher darin könnten eine Schnur für einen Deckel gehalten haben. Andere stammen von Gefäßen aus zusammengefügten Tonplatten. Die Tonmischungen enthielten unterschiedlich viel zerkleinertes Pflanzenmaterial, zwei Stücke auch Tierdung.",
+            "Die Bewohner nutzten Ton bereits, um Steinmauern zu verputzen. Diese Fertigkeit war vermutlich der Ausgangspunkt. Eine feste Töpfertradition zeigt die Fundstelle nicht, sondern eine Phase des Ausprobierens mit Formen, Mischungen und Kombinationen. Die Autoren betonen, dass das Wissen um ein neues Material nicht heißt, dass Menschen es sofort im Alltag nutzen. Tongefäße mussten erst zu täglichen Aufgaben, alten Gewohnheiten und dem Geschmack der Gemeinschaft passen."
+          ],
+          "highlight": "Die Hitze war Absicht, kein Zufall, und die Veränderungen im Ton sind dauerhaft.",
+          "assessment": [
+            "Der Befund passt zu einem Bild, das sich in den letzten Jahren verdichtet: Große Neuerungen der Jungsteinzeit kamen nicht als plötzliche Erfindung, sondern nach langen Phasen des Herumprobierens. Die Menschen von Çemka konnten Keramik herstellen, sie taten es nur nicht systematisch.",
+            "Spannend ist die Frage, warum es dann noch zwei Jahrtausende dauerte. Die Antwort der Autoren, dass neue Dinge erst in Alltag und Kultur passen müssen, klingt banal, ist aber eine wichtige Korrektur am Fortschrittsdenken. Technik allein setzt sich nicht durch, sie muss gebraucht werden."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/clay-fragments-turkey-early-pottery-making/" }
+          ],
+          "image": { "url": "https://archaeologymag.com/wp-content/uploads/clay-fragments-turkey-pottery-1.jpg", "alt": "Fragmente eines Tonüberzugs, der einst organische Gegenstände umhüllte, aus Çemka Höyük", "credit": "N. Petrova, aus E. Kodaş et al., Antiquity (2026)", "license": "Artikelbild archaeologymag.com", "source": "https://archaeologymag.com/2026/11/clay-fragments-turkey-early-pottery-making/" }
+        }
+      ]
+    }
+  ]
+}
