@@ -1,0 +1,615 @@
+{
+  "nr": 40,
+  "date": "2026-11-16",
+  "intro": "Der Montag beginnt mit einem Raketenabsturz: Die Vulcan hat 40 Amazon-Satelliten verloren, und Jensen Huang arbeitet laut Financial Times an seiner Rückkehr zu Nvidia, während Washington die Chip-Exporte verschärfen will. Im Kino gab es Ehrenoscars für Glenn Close, Ridley Scott und Floyd Norman, dazu einen verhaltenen Start für Johnny Depps „Ebenezer“. Die Geschichte führt zu Rebellentunneln in Judäa, rätselhaften Fresken in der Lombardei und klugen Münzpolitikern im Northumbria des 9. Jahrhunderts.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Huang arbeitet laut Financial Times selbst an seiner Rückkehr, der Kongress will die Chip-Exporte verschärfen",
+          "lead": "Wenige Tage nach seinem Rücktritt soll Jensen Huang mit Verbündeten aus dem Silicon Valley Druck auf Nvidias Aufsichtsgremium machen. Gleichzeitig wächst in Washington der Widerstand: Finanzminister Bessent will einen Chef von außen, Abgeordnete beider Parteien wollen strengere Exportregeln.",
+          "body": [
+            "Jensen Huang will offenbar zurück an die Spitze von Nvidia. Nach einem Bericht der Financial Times, den heise zusammenfasst, hat sich ein „Krisenraum“ aus einflussreichen Leuten des Silicon Valley gebildet, der das Board des Konzerns zur Wiedereinsetzung des Gründers drängen soll. Die Zeitung beruft sich auf einen anonymen Verbündeten Huangs. Neu ist dabei nicht die Kampagne an sich, sondern dass Huang selbst daran beteiligt sein soll. Schon am Wochenende war eine Petition aufgetaucht, die angeblich von Angestellten und Aktionären unterstützt wird, für die man sich aber nicht verifizieren muss; auch Elon Musk hatte unterschrieben.",
+            "Zur Erinnerung: Huang war am Donnerstag nach mehr als 30 Jahren als CEO und Präsident zurückgetreten und hatte auch das Board verlassen, nachdem eine zweite außereheliche Beziehung bekannt geworden war, diesmal mit Kimberly Powell, die bei Nvidia das Gesundheitsgeschäft leitet und ihm direkt unterstellt war. Zuvor hatte er eine Beziehung zu Alice Huang eingeräumt. Sie soll über ihren Arbeitgeber Megaspeed, einen Nvidia-Kunden, KI-Beschleuniger im Wert von mindestens 7,5 Milliarden Dollar nach China gebracht haben, darunter sanktionierte Modelle. Megaspeed erklärte am Wochenende, Alice Huang arbeite schon seit August 2025 nicht mehr für das Unternehmen, was nach Einschätzung von The Verge mehr Fragen aufwirft als beantwortet.",
+            "Laut Financial Times sucht das Lager um Huang auch Rückendeckung im Weißen Haus, Huang gilt als enger Vertrauter von Präsident Trump. Dort stößt der Plan aber auf Widerstand: Finanzminister Scott Bessent forderte am Wochenende, den derzeit übergangsweise von Finanzchefin Colette Kress besetzten Chefposten mit jemandem von außerhalb zu besetzen. Im Sender Fox News sagte er am Sonntag, er wolle von Nvidia binnen zehn Tagen Antworten darauf, ob unerlaubte Verkäufe nach China toleriert worden seien, um den Umsatz zu steigern. Das sei für ihn die wichtigere Frage als Huangs Affären.",
+            "Auch im Kongress hat der Fall Folgen. Senatsminderheitsführer Chuck Schumer verlangt, dass Huang und die Regierung Rede und Antwort stehen. Tim Scott, Vorsitzender des Bankenausschusses im Senat, hat Huang und Handelsminister Howard Lutnick schriftlich aufgefordert, öffentlich auszusagen. Liegengebliebene Gesetzentwürfe wie der Remote Access Security Act, der im April 2025 im Repräsentantenhaus eingebracht wurde und im Senat feststeckt, bekommen neue Aufmerksamkeit. Der Sprecher des Repräsentantenhauses, Mike Johnson, spricht laut Reuters von einem „wachsenden Konsens“, Chip-Exporte nach China zu begrenzen."
+          ],
+          "highlight": "Neu ist dabei nicht die Kampagne an sich, sondern dass Huang selbst daran beteiligt sein soll.",
+          "assessment": [
+            "Eine Rückkehr Huangs halte ich für unwahrscheinlich, und das liegt weniger an den Affären als an Bessents Zehn-Tage-Frist. Sobald die Frage im Raum steht, ob Nvidia Schmuggel nach China aus Umsatzgründen geduldet hat, kann kein Board der Welt den Mann zurückholen, der in dieser Zeit verantwortlich war, ohne sich selbst angreifbar zu machen.",
+            "Für die Branche ist die zweite Hälfte der Meldung die wichtigere. Wenn Republikaner und Demokraten sich bei Exportkontrollen einig werden, trifft das nicht nur Nvidia, sondern jeden, der KI-Rechenleistung ins Ausland verkauft oder vermietet. Der Skandal könnte so am Ende mehr Regeln hervorbringen als jede Lobbyarbeit der letzten Jahre verhindert hat."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Tage-nach-dem-Ruecktritt-Jensen-Huang-will-angeblich-wieder-Nvidia-CEO-werden-11525691.html"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/8/8/0/shutterstock_2309655121-3a521d4973270939.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Jensen Huang bei einem öffentlichen Auftritt",
+            "credit": "People / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Tage-nach-dem-Ruecktritt-Jensen-Huang-will-angeblich-wieder-Nvidia-CEO-werden-11525691.html"
+          }
+        },
+        {
+          "title": "Vulcan scheitert: 40 Amazon-Satelliten verloren, Starlink-Konkurrenz und US-Militär verlieren eine Rakete",
+          "lead": "Die Vulcan-Rakete der United Launch Alliance hat am Sonntag 40 Satelliten für Amazons Internetdienst Leo nicht in die Umlaufbahn gebracht. Es ist der erste Totalausfall in der 20-jährigen Geschichte des Unternehmens, und er trifft die gesamte US-Raumfahrt.",
+          "body": [
+            "Die Vulcan-Rakete der United Launch Alliance (ULA) hob am Sonntag um 17:40 Uhr UTC von Cape Canaveral in Florida ab, an Bord 40 Breitbandsatelliten für Amazon Leo, den geplanten Konkurrenten zu SpaceX' Starlink. Rakete und Satelliten stürzten Minuten später zurück. ULA erklärte, die Rakete habe „zehn Minuten nach Flugbeginn eine Anomalie“ gehabt und die Nutzlast nicht in den Orbit gebracht. Es ist der erste vollständige Fehlschlag einer Mission in der 20-jährigen Geschichte des Unternehmens.",
+            "Nach Informationen von Ars Technica lag das Problem in der Hauptstufe, nicht in der Centaur-V-Oberstufe und nicht bei den sechs Feststoffboostern, die bei zwei der vier früheren Vulcan-Flüge Ärger gemacht hatten. Die beiden methanbetriebenen BE-4-Triebwerke von Jeff Bezos' Firma Blue Origin brannten mindestens 30 Sekunden länger als vorgesehen, was auf eine Unterleistung hindeuten kann. Die Live-Animation zeigte danach, wie die Rakete ins Trudeln geriet; die Oberstufe versuchte noch gegenzusteuern. Wodurch genau der Fehler ausgelöst wurde, ist offen.",
+            "Für Amazon ist das ein schwerer Rückschlag. Es war der erste von 38 gebuchten Vulcan-Starts, die Konstellation wäre auf 436 Satelliten angewachsen. Die US-Regulierungsbehörde verlangt nach einer Fristverlängerung, dass bis Juli 2028 die Hälfte der 3232 genehmigten Satelliten im All ist. Amazon hat nach eigenen Angaben bereits den tausendsten Satelliten gebaut, mehr als die Hälfte liegt also im Lager. Blue Origins New Glenn, ebenfalls für Amazon gebucht, ist seit einer Explosion im Mai am Boden; die Ursache damals war ein fehlerhaftes Ventil an einem BE-4-Triebwerk. Sollte erneut ein BE-4 schuld sein, verzögert sich auch New Glenn weiter.",
+            "Die Folgen reichen weit über Amazon hinaus. Die Vulcan soll in den nächsten Jahren etwa die Hälfte der nationalen Sicherheitsstarts des US-Militärs übernehmen. Die Space Force dürfte weitere Missionen zu SpaceX verschieben müssen, das seine Falcon-Raketen allerdings zugunsten von Starship auslaufen lässt. Auch die NASA ist betroffen: Sie hat eine Version der Centaur-Oberstufe für künftige Flüge ihrer Mondrakete SLS ab 2028 ausgewählt. NASA-Chef Jared Isaacman sicherte ULA Unterstützung zu: „Artemis, die Mondbasis und die Nation sind auf ULA angewiesen.“"
+          ],
+          "highlight": "Es ist der erste vollständige Fehlschlag einer Mission in der 20-jährigen Geschichte des Unternehmens.",
+          "assessment": [
+            "Am Tag nach dem ersten Starship-Fang durch den Startturm ist diese Panne ein bitterer Kontrast. Die USA haben im Grunde einen Anbieter, der zuverlässig und oft fliegt, und das ist SpaceX. Alle Alternativen hängen am selben Triebwerk von Blue Origin, und genau das könnte nun zum zweiten Mal versagt haben.",
+            "Für Amazon wird Leo damit zum Geduldsspiel mit offenem Ende. Ausgerechnet der größte Konkurrent dürfte für die nächsten Monate der verlässlichste Weg ins All bleiben. Das ist keine Frage von Technik allein, sondern auch eine strategische Schwäche des ganzen Landes."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Amazon-Satelliten-nach-Problem-einer-Vulcan-Traegerrakete-im-All-verloren-11525671.html"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+            "alt": "Eine Vulcan-Rakete hebt von Cape Canaveral ab",
+            "credit": "Manuel Mazzanti/NurPhoto via Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+          }
+        },
+        {
+          "title": "Klage in San Francisco: Verbraucherschützer wollen stärkere KI-Modelle per Gericht stoppen",
+          "lead": "Ein Bündnis aus gemeinnützigen Organisationen verklagt Anthropic, Google, Meta, OpenAI und Musks SpaceXSI. Ziel ist ein Einfrieren der Entwicklung von Modellen, die leistungsfähiger sind als die heutigen.",
+          "body": [
+            "Vor dem Superior Court in San Francisco ist eine ungewöhnlich weitreichende Klage eingegangen. Die Verbraucherschutzorganisation Public Citizen, die Heat Initiative, die Alliance for Secure AI und der Irreplaceable Education Fund verlangen, dass fünf führende KI-Unternehmen keine Modelle mehr entwickeln oder bereitstellen dürfen, die leistungsfähiger sind als die heute verfügbaren. Beklagt sind Anthropic, Google, Meta, OpenAI und SpaceXSI, die KI-Sparte von SpaceX, in der Elon Musks xAI aufgegangen ist.",
+            "Juristisch stützt sich die Klage vor allem auf das kalifornische Recht gegen unlauteren Wettbewerb. Die Kläger argumentieren, die Firmen könnten ihre Systeme nicht vor katastrophalen Folgen bewahren, das gefährde Gesundheit, Eigentum wie Computersysteme und letztlich den Fortbestand der Menschheit. Die Organisationen hätten deshalb erhebliche Mittel von ihren eigentlichen Aufgaben abziehen müssen. In keiner anderen Branche werde es hingenommen, die Entwicklung potenziell zerstörerischer Produkte als unvermeidlich zu behandeln.",
+            "Als Belege führen die Kläger Vorfälle an, bei denen autonome KI-Agenten Sicherheitsvorkehrungen umgingen, etwa den Einbruch bei Hugging Face durch ein OpenAI-Modell. Sie zitieren auch Branchenvertreter selbst: Anthropic-Chef Dario Amodei hatte 2025 die Wahrscheinlichkeit eines katastrophalen Verlaufs auf eins zu vier geschätzt, Musk warnte 2023 vor der Zerstörung der Zivilisation. Zusätzlich wollen die Kläger verbieten lassen, dass KI die Forschung an noch stärkeren Systemen selbst übernimmt, die sogenannte rekursive Selbstverbesserung. Meta lehnte eine Stellungnahme ab, die übrigen Konzerne äußerten sich zunächst nicht.",
+            "Die Klage kommt laut AP in einer politisch heiklen Phase: Nach den Zwischenwahlen haben die Demokraten die Mehrheit im Kongress zurückgewonnen, und der Ruf nach staatlichen Regeln dürfte lauter werden. Auch auf der Straße wächst der Widerstand. Beim weltweiten Aktionstag von PauseAI zog am Samstag unter anderem in Berlin ein „AI Treaty March“ von der Urania über den Wittenbergplatz."
+          ],
+          "highlight": "Zusätzlich wollen die Kläger verbieten lassen, dass KI die Forschung an noch stärkeren Systemen selbst übernimmt, die sogenannte rekursive Selbstverbesserung.",
+          "assessment": [
+            "Dass ein Gericht die Entwicklung der fünf größten KI-Labore einfriert, halte ich für nahezu ausgeschlossen. Das Wettbewerbsrecht ist nicht dafür gemacht, Grundsatzfragen über die Zukunft der Menschheit zu entscheiden, und jeder Richter wird zögern, eine Branche mit Billionenbewertung per einstweiliger Verfügung anzuhalten.",
+            "Wirkungslos ist die Klage trotzdem nicht. Sie zwingt die Firmen, ihre eigenen Warnungen vor Gericht zu erklären, und sie liefert dem neuen Kongress eine fertige Argumentationslinie. Der klügste Punkt ist das Verbot der rekursiven Selbstverbesserung: Das ist konkret, überprüfbar und genau die Stelle, an der selbst Befürworter schneller Entwicklung nervös werden."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/7/8/shutterstock_1430571866-15fecd775f2089a8.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Justiz und Klage",
+            "credit": "shuttersv/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Kalifornien-Klage-fordert-Stopp-der-KI-Entwicklung-wegen-katastrophaler-Risiken-11525487.html"
+          }
+        },
+        {
+          "title": "805 Millionen Euro: Italien bestraft Meta, weil die Facebook-App Fotogalerien ohne Erlaubnis auslas",
+          "lead": "Die italienische Datenschutzbehörde verhängt eine der höchsten Strafen ihrer Geschichte. Die Facebook-App für Android hatte über Jahre Zugriff auf Fotos und Videos von rund 20 Millionen Nutzern, ohne dass diese klar zugestimmt hatten.",
+          "body": [
+            "Die italienische Datenschutzbehörde Garante hat am Samstag eine Geldbuße von 805 Millionen Euro (887 Millionen Dollar) gegen Meta Platforms verhängt. Die Facebook-App hat nach ihren Erkenntnissen auf Fotos und Videos von Android-Nutzern zugegriffen, ohne deren ausdrückliche Einwilligung einzuholen oder sie zu informieren. Betroffen sind etwa 20 Millionen Menschen in Italien.",
+            "Hintergrund ist eine seit 2023 verfügbare Funktion, die Nutzern Inhalte aus ihrer Galerie zum Posten vorschlägt. Die App fragt den Galeriezugriff über eine einzige Berechtigung ab, die für die ganze App und mehrere Funktionen mit unterschiedlichen Zwecken gilt. Ein allgemeiner Hinweis machte nicht klar, dass man damit auch den Vorschlägen zustimmt, und die Funktion war standardmäßig eingeschaltet. Mit voller Berechtigung konnte die App dauerhaft alle Fotos auf dem Handy auslesen, ohne dass Nutzer oder Behörde nachvollziehen konnten, was davon tatsächlich verwendet wird.",
+            "Meta hat nun 60 Tage Zeit, die Funktion standardmäßig abzuschalten und die Zustimmung getrennt einzuholen. Die Strafe entspricht etwa 0,47 Prozent des weltweiten Konzernumsatzes. Die Behörde begründet die Höhe mit der großen Zahl Betroffener, der Dauer des Verstoßes, der bei nicht aktualisierten Apps noch immer andauere, und der begrenzten Kooperation des Konzerns. Die Untersuchung begann im Juli 2025 nach einem Hinweis der Verbraucherzentrale Südtirol in Bozen.",
+            "Ob Meta die Bilder zum Training von KI-Modellen genutzt hat, war nicht Gegenstand der Prüfung; Meta bestreitet das. Eine 2026 eingeführte Funktion, mit der Galerieinhalte in der Cloud verarbeitet werden, will die Behörde gesondert prüfen. Ein Meta-Sprecher kündigte laut Reuters Berufung an und nannte die Entscheidung „unverhältnismäßig“: Nutzer müssten auf ihrem Gerät eine Berechtigung erteilen und könnten diese jederzeit ändern."
+          ],
+          "highlight": "Mit voller Berechtigung konnte die App dauerhaft alle Fotos auf dem Handy auslesen, ohne dass Nutzer oder Behörde nachvollziehen konnten, was davon tatsächlich verwendet wird.",
+          "assessment": [
+            "Metas Verteidigung, die Nutzer hätten doch eine Berechtigung erteilt, ist genau das Muster, das Datenschützer seit Jahren angreifen: eine Sammelerlaubnis für alles, dazu eine Funktion, die standardmäßig an ist. Italien sagt hier sehr deutlich, dass das keine echte Einwilligung ist, und das ist richtig.",
+            "Spannender als die Summe ist der Nachsatz zur Cloud-Funktion von 2026. Wenn Fotos auf Metas Servern verarbeitet werden, ist die Frage nach dem KI-Training nicht mehr weit. Die Strafe ist deshalb eher ein Warnschuss für das nächste Verfahren als dessen Ende."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/8/5/2/shutterstock_2648970427-86b96275c4b90b82.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Meta und Facebook",
+            "credit": "heise online",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html"
+          }
+        },
+        {
+          "title": "Apple startet eine KI-Gesundheitsstudie mit bis zu 200.000 Teilnehmern, die Brille kommt angeblich 2027",
+          "lead": "Apple will mit dem Partner OpenEvidence untersuchen, wie Menschen KI bei Gesundheitsfragen nutzen. Die Antworten der Studien-App sollen sich auf Fachjournale stützen statt auf das offene Netz.",
+          "body": [
+            "Apple hat in den USA eine neue Studien-App gestartet, mit der der Konzern erforschen will, wie Menschen KI für Gesundheitsfragen verwenden. Partner ist OpenEvidence, ein auf Medizin spezialisiertes KI-Unternehmen. Teilnehmen können Nutzer in den USA ab 21 Jahren mit einem iPhone 15 oder neuer, iOS 26 oder neuer und eingeschalteter Apple Intelligence. Die Studie soll mehr als zwölf Monate laufen und bis zu 200.000 Menschen einbeziehen.",
+            "In der App kann man Gesundheitsfragen stellen wie bei ChatGPT oder Claude, die Antworten beruhen aber auf klinischen Quellen wie dem New England Journal of Medicine, dem Journal of the American Medical Association und Nature. Apple will vereinfachte Antworten auf alltägliche medizinische Fragen liefern. Nutzer können die Antworten bewerten und sollen monatlich an Umfragen teilnehmen. Wer möchte, teilt Daten aus HealthKit wie Ruhepuls, Aktivität, Schlaf oder Laborwerte, um gezieltere Hinweise zu bekommen. Die App soll auch auf Arzttermine vorbereiten und bei bedenklichen Fragen an Fachleute verweisen.",
+            "Zum Datenschutz verspricht Apple, dass die Daten anonymisiert an einen Cloud-Anbieter gehen und nicht zum Training von KI-Modellen dienen; OpenEvidence lösche Fragen und Antworten nach 24 Stunden. Ob die Funktion später in die Health-App oder Siri wandert, ist offen. Wie groß der Markt ist, zeigt eine Zahl von OpenAI aus diesem Jahr: Nutzer stellen ChatGPT mehr als 300 Millionen Gesundheitsfragen pro Woche.",
+            "Auch bei der Hardware tut sich etwas. Laut Bloomberg-Reporter Mark Gurman, den The Verge zitiert, soll Apples erste smarte Brille auf der Entwicklerkonferenz WWDC im Juni 2027 vorgestellt werden, zunächst ohne Augmented Reality. Die Prototypen mit dem Codenamen N50 laufen mit einer abgespeckten Version von visionOS, haben WLAN und setzen stark auf die überarbeitete Siri. Ausgeliefert werden soll die Brille noch vor Ende des Jahres."
+          ],
+          "highlight": "Die Studie soll mehr als zwölf Monate laufen und bis zu 200.000 Menschen einbeziehen.",
+          "assessment": [
+            "Apple macht hier, was es gern tut: später kommen, aber mit einem Argument. Während OpenAI und Anthropic Gesundheitsfunktionen direkt ausrollen, sammelt Apple erst Daten in einer kontrollierten Studie. Das wirkt vorsichtig, ist aber auch geschickt, denn Apple wird am Ende mit belastbaren Zahlen werben können, die die Konkurrenz nicht hat.",
+            "Die Brillenpläne passen dazu. Apple braucht für beides dieselbe Grundlage, eine Siri, die wirklich versteht und handelt. Ob die rechtzeitig fertig wird, ist die eigentliche Frage hinter beiden Meldungen."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+            "alt": "Apples Studien-App zur Nutzung von KI bei Gesundheitsfragen",
+            "credit": "Apple",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Chronicles: Medieval gerettet: Coffee Stain kauft das Spiel aus der Insolvenz",
+          "lead": "Das Kopenhagener Studio Raw Power Games war schon pleite, als es Ende Oktober um Hilfe rief. Jetzt übernimmt der Satisfactory-Entwickler Coffee Stain die Rechte und finanziert die Fertigstellung.",
+          "body": [
+            "Ende Oktober hatte Raw Power Games öffentlich gemacht, dass die Finanzierung für sein historisches Strategiespiel Chronicles: Medieval plötzlich weggefallen war und das Studio vor dem Aus stehe. Wie sich jetzt zeigt, war die Lage noch ernster als angekündigt: Das Studio meldete am selben Tag Insolvenz an.",
+            "Das Spiel ist trotzdem gerettet. Coffee Stain, bekannt durch Satisfactory, hat im Verkaufsverfahren nach der Insolvenz das Gebot mit dem Zuschlag abgegeben und zahlt 36,75 Millionen dänische Kronen, rund 5,4 Millionen Dollar, für die Rechte an Chronicles: Medieval. Die Rechte gehen an eine neu gegründete Firma, die zu 75 Prozent Coffee Stain und zu 25 Prozent einer kleinen Gruppe wichtiger Mitglieder des ursprünglichen Teams gehört. Coffee Stain finanziert zusätzlich die weitere Entwicklung.",
+            "Coffee-Stain-Chef Anton Westbergh erinnerte daran, dass das Spiel bei seiner Vorstellung auf dem Summer Game Fest im vergangenen Jahr einen starken Eindruck hinterlassen habe. Kurzfristig gehe es darum, gemeinsam mit der neuen Geschäftsführung zu klären, wie man das Spiel am besten fertigstellt. Chronicles: Medieval gehört zu den 30 meistgewünschten Spielen auf Steam und liegt dort vor Titeln wie Guild Wars 3 und Atomic Heart 2.",
+            "Offen ist, was aus den bisherigen Beschäftigten von Raw Power wird; die Mitteilung von Coffee Stain sagt dazu nichts. Laut Steam-Seite ist der Early-Access-Start weiterhin für 2027 geplant. Ob das hält, will Coffee Stain später über die Kanäle des Spiels mitteilen."
+          ],
+          "highlight": "Chronicles: Medieval gehört zu den 30 meistgewünschten Spielen auf Steam und liegt dort vor Titeln wie Guild Wars 3 und Atomic Heart 2.",
+          "assessment": [
+            "Eine gute Nachricht in einem Jahr voller Studioschließungen, aber man sollte genau hinsehen. Gerettet ist zunächst das Spiel, nicht unbedingt das Team. Dass nur ein Viertel der neuen Firma bei den ursprünglichen Entwicklern liegt, zeigt, wer jetzt das Sagen hat.",
+            "Für Coffee Stain ist der Kauf ein günstiger Griff: Rund fünf Millionen Dollar für ein fast fertiges Spiel mit riesiger Wunschliste sind wenig Geld. Dass ein so gefragtes Projekt überhaupt in die Pleite rutschen konnte, sagt viel darüber, wie dünn die Finanzierung vieler Studios inzwischen ist."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/XKegTpWNWNwSysdkzRKN3o-1770-80.jpg",
+            "alt": "Eine Reihe gepanzerter Ritter zu Pferd formiert sich zum Angriff in Chronicles: Medieval",
+            "credit": "Raw Power Games",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain/"
+          }
+        },
+        {
+          "title": "Dune: Awakening läuft jetzt komplett offline",
+          "lead": "Funcoms Survival-Spiel hat den Wandel vom Massen-Onlinespiel zum Solo-Abenteuer abgeschlossen. Mit dem neuesten Patch braucht der Einzelspielermodus keine Internetverbindung mehr.",
+          "body": [
+            "Dune: Awakening, Funcoms Survival-Spiel nach Frank Herberts Romanvorlage, kann jetzt vollständig offline gespielt werden. Die Funktion kam mit einem ansonsten unauffälligen Patch, der vor allem Fehler behebt. „Es ist jetzt möglich, das Spiel im Einzelspielermodus zu spielen, ohne zu irgendeinem Zeitpunkt eine Internetverbindung zu benötigen, einschließlich des Erstellens und Löschens von Einzelspieler-Charakteren“, schreibt Funcom auf Steam.",
+            "Der Schritt ist der Abschluss einer längeren Entwicklung. Im April machte Funcom den PvP-Teil, etwa die Tiefe Wüste und die Erkundung von Schiffswracks, vollständig optional. Im September folgte ein echter Einzelspielermodus, für den mehrere große Endgame-Systeme umgebaut wurden, darunter das politische Landsraad-System. Bis jetzt brauchte aber auch dieser Modus eine Verbindung zu Funcoms Servern.",
+            "Der Mehrspielerteil bleibt erhalten, dafür gibt es nun einen eigenen „Go Online“-Knopf. Im Dezember soll eine Erweiterung folgen, in der man die gefrorenen Pole von Arrakis erkunden kann, ein deutlich anderes Szenario als im Hauptspiel. Funcom hat sich zuletzt ganz auf die Pflege von Dune: Awakening und Conan Exiles konzentriert und dafür auch Stellen abgebaut.",
+            "PC Gamer sieht in der Entwicklung einen breiteren Trend: Spieler wollen zunehmend in ihren eigenen Welten leben, allein oder mit Freunden, statt sich in großen, kompetitiven Onlinewelten mit Fremden zu messen."
+          ],
+          "highlight": "Der Schritt ist der Abschluss einer längeren Entwicklung.",
+          "assessment": [
+            "Für Käufer ist das eine der besten Nachrichten, die ein Onlinespiel liefern kann: Es läuft auch dann noch, wenn die Server eines Tages abgeschaltet werden. Dass Funcom diesen Weg geht, ist ein Eingeständnis, dass das ursprüngliche MMO-Konzept nicht getragen hat, aber ein ehrliches und kundenfreundliches.",
+            "Andere Studios sollten genau hinsehen. Wer heute ein Survival-Spiel mit Zwangsverbindung veröffentlicht, verschenkt die Spieler, die einfach in Ruhe bauen und erkunden wollen, und das sind offenbar mehr, als viele Verlage glauben."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/BZPSyzyi8PwUy6nwAn4z6Y-1247-80.jpg",
+            "alt": "Ein Plünderer mit leuchtenden Augen in Dune: Awakening",
+            "credit": "Funcom",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives/"
+          }
+        },
+        {
+          "title": "Treyarch entlässt Craig Houston, den Autor hinter dem Zombies-Modus von Call of Duty",
+          "lead": "Nach rund 20 Jahren muss einer der prägenden Köpfe von Call of Duty gehen. Craig Houston schrieb die Kampagnen von Treyarch und war seit 2008 Hauptautor des Zombies-Modus.",
+          "body": [
+            "Craig Houston, langjähriger leitender Autor bei Treyarch, ist entlassen worden. „Nach etwa 20 Jahren war ich leider einer der von den jüngsten Entlassungen Betroffenen“, schrieb er auf X und LinkedIn. Er sei stolz, mit so vielen talentierten Menschen gearbeitet zu haben, von denen viele Freunde fürs Leben blieben, und dankte den Fans für ihre Unterstützung.",
+            "Houston begann bei Treyarch mit Call of Duty 3 als Video-Editor. Bei World at War und Black Ops 1 bis 4 ist er als Autor und Designer genannt, bei Modern Warfare, Black Ops Cold War, Vanguard, Modern Warfare 3 sowie Black Ops 6 und 7 als Teil des Designteams und der kreativen Entwicklung. Beim diesjährigen Modern Warfare 4 taucht er nicht mehr in den Credits auf.",
+            "Vor allem aber war er seit World at War 2008 der Hauptautor des Zombies-Modus. Zusammen mit Jimmy Zielinski, Jason Blundell und Kevin Drew hat er den Modus zu einer eigenen Säule der Reihe gemacht, mit einer verschachtelten Geschichte, die in der Community bis heute akribisch entschlüsselt wird. Entsprechend groß ist die Anteilnahme in Fan-Foren und unter früheren Kollegen.",
+            "Eurogamer vermutet, dass die Entlassung zur großen Umstrukturierung gehört, bei der Xbox in diesem Jahr 3200 Stellen gestrichen hat. Treyarch gehört über Activision Blizzard zu Microsoft."
+          ],
+          "highlight": "Vor allem aber war er seit World at War 2008 der Hauptautor des Zombies-Modus.",
+          "assessment": [
+            "Der Zombies-Modus ist eine der wenigen Ideen in Call of Duty, die wirklich eigen sind, und er lebt von seiner absurden, liebevoll verwobenen Geschichte. Den Mann, der sie fast zwei Jahrzehnte erzählt hat, vor die Tür zu setzen, ist ein Zeichen dafür, wie wenig erzählerische Kontinuität in großen Konzernen noch zählt.",
+            "Fans sollten nicht erwarten, dass der Modus sofort leidet, Teams sind größer als ein Einzelner. Aber solche Abgänge zeigen langfristig Wirkung, weil genau das Wissen verloren geht, das eine Reihe von anderen unterscheidet."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/CoD-WoW_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Titelbild von Call of Duty: World at War vor blauem Hintergrund",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/craig-houston-layoff-treyarch-call-of-duty-layoffs"
+          }
+        },
+        {
+          "title": "Schüsse auf Bürocampus von inXile: Polizei nimmt Verdächtigen fest",
+          "lead": "Auf das Gelände in Kalifornien, auf dem das Xbox-Studio inXile arbeitet, ist aus einem fahrenden Auto geschossen worden. Verletzt wurde niemand, das Motiv ist unklar.",
+          "body": [
+            "Auf einen Bürocampus in Tustin, Kalifornien, auf dem unter anderem das zu Xbox gehörende Studio inXile Entertainment sitzt, ist am 11. November aus einem vorbeifahrenden Auto geschossen worden. Das berichtet das Magazin Aftermath, Eurogamer hat die Meldung aufgegriffen. Die Polizei fand mehrere Patronenhülsen auf dem Gelände namens Flight at Tustin Legacy.",
+            "„Niemand wurde verletzt“, sagte Polizeisergeant Christopher Peterson. Die Beamten hätten den Tatort gesichert, am Freitag kurz vor 11 Uhr sei ein Verdächtiger festgenommen worden. Die Ermittlungen dazu, wohin und warum geschossen wurde, dauerten noch an. Einen Namen nannte die Polizei nicht, ebenso wenig ein Motiv.",
+            "„Wir sind erleichtert, dass in unserem inXile-Büro niemand verletzt wurde“, erklärte ein Sprecher des Studios. Man konzentriere sich darauf, das Team zu unterstützen, und arbeite eng mit der Polizei zusammen. Ob sich die Schüsse gezielt gegen das Studio richteten, ist offen; auf dem Campus sitzen auch andere Firmen.",
+            "InXile ist das Studio hinter der Wasteland-Reihe und arbeitet derzeit am Steampunk-Rollenspiel Clockwork Revolution, das 2027 exklusiv für Xbox-Konsolen erscheinen soll."
+          ],
+          "highlight": "Ob sich die Schüsse gezielt gegen das Studio richteten, ist offen; auf dem Campus sitzen auch andere Firmen.",
+          "assessment": [
+            "Man sollte hier nichts hineinlesen, was die Polizei nicht gesagt hat. Es gibt bisher keinen Hinweis, dass die Tat mit Spielen oder mit inXile zu tun hat. Trotzdem ist die Meldung relevant, weil Studios in den vergangenen Jahren immer wieder Ziel von Drohungen wurden und Beschäftigte so etwas nicht als Zufall abtun.",
+            "Gut ist, dass niemand verletzt wurde und schnell ein Verdächtiger gefasst war. Ob mehr dahintersteckt, wird erst das Motiv zeigen."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Clockwork-Revolution-_-Xbox-Games-Showcase-2025-0-50-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus dem Trailer zu Clockwork Revolution: ein kleiner Roboter fegt eine Kopfsteinpflasterstraße",
+            "credit": "inXile",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested"
+          }
+        },
+        {
+          "title": "Warhammer trauert um Aly Morrison, einen der prägenden Miniaturendesigner",
+          "lead": "Aly Morrison hat über Jahrzehnte das Aussehen von Warhammer mitgeprägt, von den Zwergen-Trollslayern bis zu den ersten Blood-Bowl-Figuren. Er ist überraschend gestorben.",
+          "body": [
+            "Der Miniaturendesigner und Künstler Aly Morrison ist tot. Das teilte Trish Carden mit, seine frühere Frau und Partnerin bei Marauder Miniatures. Morrison sei am Mittwoch unerwartet, aber friedlich gestorben, schrieb sie, ein „sehr geliebter Vater, erfahrener Wargame-Miniaturendesigner und Freund vieler am Spieltisch und in der Welt“.",
+            "Morrison begann 1983 als freier Bildhauer für Citadel und kam 1986 fest ins Studio. 1988 übernahmen er und Carden das Games-Workshop-Label Marauder Miniatures, wo sie große Freiheiten hatten. Dort entstanden eigenwillige Figuren wie die Zwergen-Trollslayer mit Irokesenschnitt oder der Riese mit Walfängerbart und Schnapsfass am Gürtel, die zu festen Bestandteilen von Warhammer wurden.",
+            "Er gestaltete auch die ersten Miniaturen für Blood Bowl und zeichnete die Spielmarken der ersten Ausgabe. Im Lauf seiner Zeit bei Games Workshop profitierte praktisch jede Fraktion von seiner Arbeit, von Dunkelelfen bis zu Space Marines. Als Maler wurde er für eine dunkle, leicht violette Lasur bekannt, die unter dem Spitznamen „Aly's Brown Liquid“ legendär wurde.",
+            "Marauder ging später wieder in Citadel auf, Morrison blieb bis zu seinem Ruhestand Anfang dieses Jahres bei Games Workshop. Das Unternehmen würdigte ihn als bescheidenen, großzügigen Mentor mit unverbesserlichem Witz; neben ihm zu sitzen sei gewesen, „in der Gegenwart eines Meisters“ zu sein."
+          ],
+          "highlight": "Morrison begann 1983 als freier Bildhauer für Citadel und kam 1986 fest ins Studio.",
+          "assessment": [
+            "Viele Warhammer-Spieler kennen den Namen nicht, aber fast alle kennen seine Figuren. Der Trollslayer ist ein gutes Beispiel: ein grimmiger, leicht lächerlicher Zwerg, der das Gefühl der ganzen Welt einfängt. Diese Mischung aus Ernst und Humor ist Morrisons eigentliches Erbe.",
+            "Dass er erst in diesem Jahr in den Ruhestand ging, nach über vier Jahrzehnten, sagt einiges über seine Bindung an das Hobby. Sein Tod nimmt der Szene einen der letzten Gründer der frühen Citadel-Ära."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/DcA9wzwXEiGn796fkbEwok-1920-80.jpg",
+            "alt": "Aly Morrison mit einigen der von ihm entworfenen Warhammer-Miniaturen",
+            "credit": "Games Workshop",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Ehrenoscars für Glenn Close, Ridley Scott und Floyd Norman, Thalberg-Preis für die Killer-Films-Gründerinnen",
+          "lead": "Bei den 17. Governors Awards hat die Oscar-Akademie fünf Größen des Kinos geehrt. Ridley Scott fehlte nach einem medizinischen Eingriff und bedankte sich per Video aus London.",
+          "body": [
+            "Die Academy of Motion Picture Arts and Sciences hat am Sonntagabend in Hollywood ihre 17. Governors Awards verliehen. Ehrenoscars erhielten die Schauspielerin Glenn Close, der Animator Floyd Norman und Regisseur Ridley Scott. Der Irving G. Thalberg Memorial Award für Produzenten ging an Christine Vachon und Pamela Koffler, die Gründerinnen von Killer Films. Im Saal saßen zahlreiche aktuelle Oscar-Anwärter, darunter Christopher Nolan, Zendaya, Tom Holland, Emma Stone, Andrew Garfield und Timothée Chalamet.",
+            "Den Anfang machte Floyd Norman, 91 Jahre alt. Er begann 1956 als erster Schwarzer Animator bei Walt Disney und arbeitete an Klassikern wie „Dornröschen“, „Mary Poppins“, „Das Dschungelbuch“ und „Robin Hood“, später auch an „Mulan“, „Die Monster AG“ und „Toy Story 2“. Er ist erst der vierte Animator mit Ehrenoscar, nach Walter Lantz, Chuck Jones und Hayao Miyazaki. „Manchmal haben auch Filme ein Happy End“, sagte Norman. „Dieser besondere Abend? Das ist mein Happy End.“",
+            "Glenn Close, 79, wurde achtmal für einen Oscar nominiert, viermal als Hauptdarstellerin und viermal als Nebendarstellerin, gewonnen hat sie nie. Nur Meryl Streep, Katharine Hepburn und Bette Davis haben mehr Nominierungen für Schauspielleistungen gesammelt. Laudator John Malkovich, ihr Partner aus „Gefährliche Liebschaften“, nannte sie „eine wahre Meisterin“. Close widmete den Preis ihrer Tochter Annie und sagte, die große Ehre sei für sie immer gewesen, „im Raum zu sein“.",
+            "Ridley Scott, 88, hat ebenfalls nie einen regulären Oscar gewonnen, obwohl seine Filme zusammen 45 Nominierungen und neun Auszeichnungen gesammelt haben, darunter „Gladiator“ als bester Film. Matt Damon übergab den Preis stellvertretend. Scott meldete sich per aufgezeichnetem Video aus London, in dem ein Ausschnitt aus seinem ersten Film „Boy and Bicycle“ mit seinem verstorbenen Bruder Tony zu sehen war. Er nehme den Preis auch für Tony an, sagte Scott: „Seine großartige Arbeit hätte diese Anerkennung sicher verdient.“",
+            "Vachon und Koffler haben alle zehn Spielfilme von Todd Haynes produziert, dazu „Kids“, „Happiness“, „Boys Don't Cry“, „Hedwig and the Angry Inch“ und „Past Lives“. Haynes und Julianne Moore überreichten den Thalberg-Preis. Vachon widmete ihn ihren „hart arbeitenden Produzentenkollegen“."
+          ],
+          "highlight": "Er ist erst der vierte Animator mit Ehrenoscar, nach Walter Lantz, Chuck Jones und Hayao Miyazaki.",
+          "assessment": [
+            "Die Governors Awards sind der Abend, an dem die Akademie ihre eigenen Versäumnisse nachholt, und selten war das so deutlich wie hier. Close und Scott gehören zu den bekanntesten Namen des Kinos, und beide haben bei den regulären Oscars immer verloren. Der Ehrenpreis ist verdient, wirkt aber auch wie eine späte Entschuldigung.",
+            "Die schönste Ehrung ist die für Floyd Norman. Er steht für Generationen von Zeichnern, deren Arbeit jeder kennt und deren Namen niemand nennt. Dass ein Mann, der 1956 als erster Schwarzer Animator bei Disney anfing, jetzt neben Miyazaki steht, erzählt mehr über 70 Jahre Hollywood als jede Laudatio."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-governors-awards-glenn-close-ridley-scott-floyd-norman-1236749503/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2304843089-H-2026.jpg?w=1296&h=730&crop=1",
+            "alt": "Preisträger bei den Governors Awards 2026 in Hollywood",
+            "credit": "Gilbert Flores/Variety via Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/2026-governors-awards-glenn-close-ridley-scott-floyd-norman-1236749503/"
+          }
+        },
+        {
+          "title": "Kinokasse: „Ebenezer“ startet auf Platz eins, aber unter den Erwartungen, im Ausland läuft es besser",
+          "lead": "Johnny Depps Scrooge-Film hat in den USA 19 Millionen Dollar eingespielt, weltweit 42 Millionen. Für einen Weihnachtsfilm mit 38 Millionen Dollar Budget ist das ein solider, aber kein glänzender Start.",
+          "body": [
+            "„Ebenezer“, Ti Wests Verfilmung von Charles Dickens' „Eine Weihnachtsgeschichte“ mit Johnny Depp als Scrooge, ist am Wochenende in Nordamerika auf Platz eins gestartet, mit 19 Millionen Dollar aber unter den rund 20 Millionen, die Prognosen erwartet hatten. Im Ausland kamen in 62 Märkten 23 Millionen Dollar hinzu, weltweit also 42 Millionen. Paramount hat netto 38 Millionen Dollar in die Produktion gesteckt, ohne Marketing.",
+            "Laut Deadline kam die Hälfte des US-Publikums wegen Depp. Das Publikum ist deutlich älter: Die Weiterempfehlungsrate stieg mit jeder Altersgruppe und erreichte bei über 55-Jährigen 78 Prozent. Die Zuschauer gaben die Note A- bei CinemaScore, die Kritiken liegen dagegen nur bei 53 Prozent positiv auf Rotten Tomatoes. Depp bekam eine feste Gage von fünf Millionen Dollar, deutlich weniger als seine früheren rund 20 Millionen, dazu eine Gewinnbeteiligung.",
+            "Im Ausland war Großbritannien mit 5,4 Millionen Dollar der stärkste Markt. Platz eins erreichte der Film unter anderem in Italien, Mexiko, Spanien und Polen; in Deutschland landete er mit 1,5 Millionen Dollar hinter einem heimischen Titel auf Platz zwei. Weihnachtsfilme laufen erfahrungsgemäß lange, und Paramount setzt auf das Thanksgiving-Wochenende. Kommende Woche dürfte allerdings „Die Tribute von Panem: Sunrise on the Reaping“ den Markt dominieren, Deadline traut ihm rund 100 Millionen Dollar zum Start zu.",
+            "Weltweit läuft es für andere besser: Das indische Epos „Ramayana: Rise of a Legend“ steht nach dem zweiten Wochenende bei 147,5 Millionen Dollar und ist schon der siebterfolgreichste indische Film aller Zeiten. „Godzilla Minus Zero“ hat die Marke von 100 Millionen Dollar überschritten, bei Produktionskosten von rund 20 Millionen. Laikas Stop-Motion-Film „Wildwood“ steht bei 70 Millionen Dollar."
+          ],
+          "highlight": "Laut Deadline kam die Hälfte des US-Publikums wegen Depp.",
+          "assessment": [
+            "Für Depp ist das ein Ergebnis, mit dem beide Seiten leben können. Ein Comeback-Triumph ist es nicht, ein Flop auch nicht. Die gute Mundpropaganda bei älteren Zuschauern und die lange Lebensdauer von Weihnachtsfilmen sprechen dafür, dass „Ebenezer“ am Ende Geld verdient, zumal Depp günstig zu haben war.",
+            "Die eigentliche Erkenntnis steht weiter unten: Ein japanischer Godzilla für 20 Millionen und ein indisches Epos spielen weltweit mehr ein als ein Hollywood-Star in einer der bekanntesten Geschichten der Welt. Das Kino ist längst nicht mehr nur amerikanisch, und das ist gut so."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/MCDEBAC_PA031.jpg?w=1024",
+            "alt": "Johnny Depp als Ebenezer Scrooge",
+            "credit": "Paramount Pictures / Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+          }
+        },
+        {
+          "title": "James Grays „Paper Tiger“ hat den besten Kinostart seiner Karriere, „Club Kid“ zieht junges Publikum an",
+          "lead": "Im Arthouse-Kino gab es am Wochenende zwei Erfolge: James Grays Krimi mit Adam Driver und Scarlett Johansson und Jordan Firstmans Regiedebüt bei A24.",
+          "body": [
+            "James Grays neuer Film „Paper Tiger“ ist in New York und Los Angeles auf sechs Leinwänden gestartet und hat 215.000 Dollar eingespielt, im Schnitt 35.800 Dollar pro Leinwand. Das ist der beste Startschnitt in Grays Karriere. Viele Vorstellungen mit Gesprächen mit dem Regisseur waren ausverkauft. Der Krimi des Verleihs Neon mit Adam Driver, Scarlett Johansson und Miles Teller wurde auf 35-mm-Film gedreht und läuft in beiden Städten auch in diesem Format.",
+            "„Club Kid“, das Regiedebüt von Jordan Firstman bei A24, hatte die beste begrenzte Ausweitung des Jahres. In der zweiten Woche spielte der Film auf nur 27 Leinwänden 756.000 Dollar ein, insgesamt steht er bei 1,45 Millionen. 80 Prozent des Publikums waren jünger als 35. Deadline vergleicht das mit „Anora“ in derselben Phase; IndieWire führt den Film inzwischen als Oscar-Hoffnung. A24 hat nach IndieWire-Angaben 17 Millionen Dollar für die Rechte bezahlt; am kommenden Wochenende soll der Film auf 200 Leinwänden in den 50 größten US-Märkten laufen.",
+            "Martin McDonaghs „Wild Horse Nine“ mit John Malkovich und Sam Rockwell hielt sich in der zweiten Woche am besten unter den 15 erfolgreichsten Filmen in den USA und verlor nur 22 Prozent. Peter Farrellys „I Play Rocky“ wird nach guter Mundpropaganda am kommenden Freitag breit gestartet. Pedro Almodóvars „Bitter Christmas“ startete mit 37.000 Dollar auf vier Leinwänden."
+          ],
+          "highlight": "80 Prozent des Publikums waren jünger als 35.",
+          "assessment": [
+            "Diese Zahlen sind klein, aber sie sind wichtig. Ein Film, der auf 35 mm projiziert wird und den Regisseur zum Gespräch in den Saal holt, verkauft Plätze aus. Das zeigt, dass Kino als Ereignis funktioniert, wenn man es auch so behandelt.",
+            "Noch erfreulicher ist „Club Kid“. Ein Publikum, das zu 80 Prozent unter 35 ist, widerspricht der Klage, junge Leute gingen nur noch für Superhelden ins Kino. Sie gehen offenbar für Filme, in denen sie sich wiedererkennen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/box-office/box-office-club-kid-best-limited-expansion-of-2026-jordan-firstman-1235228073/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/MCDCLKI_EC011.jpg?w=1024",
+            "alt": "Reggie Absolom und Jordan Firstman in „Club Kid“",
+            "credit": "A24 / Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/indie-film-box-office-club-kid-expands-paper-tiger-james-gray-1237224498/"
+          }
+        },
+        {
+          "title": "Erster längerer Blick in die Große Halle: HBO zeigt eine Szene aus der „Harry Potter“-Serie",
+          "lead": "HBO hat überraschend einen 90-sekündigen Ausschnitt aus der neuen „Harry Potter“-Serie veröffentlicht. Er zeigt das Festessen zum Schuljahresbeginn mit John Lithgow als Dumbledore.",
+          "body": [
+            "HBO hat einen ersten längeren Ausschnitt aus seiner „Harry Potter“-Serie veröffentlicht. Der etwa 90 Sekunden lange Clip zeigt das Festessen in Hogwarts zum Beginn des Schuljahres, nachdem die neuen Schüler auf die Häuser verteilt worden sind.",
+            "In der Szene fragt Harry (Dominic McLaughlin), ob Albus Dumbledore (John Lithgow) „ein bisschen verrückt“ sei. Ron Weasley (Alastair Stout) antwortet: „Jep, total durchgeknallt.“ Dumbledore schnippt mit den Fingern, und das Festmahl erscheint. Dann fragt er Minerva McGonagall (Janet McTeer), ob sie sich freue, dass Harry in Gryffindor gelandet sei. McGonagall findet, er sei James Potter wie aus dem Gesicht geschnitten. „Der Schein kann trügen, Minerva“, antwortet Dumbledore. „Sein Wesen gehört ganz ihm allein.“",
+            "Die Serie startet am 25. Dezember bei HBO. Zur weiteren Besetzung gehören Arabella Stanton als Hermine Granger, Paapa Essiedu als Severus Snape, Nick Frost als Rubeus Hagrid sowie Bel Powley und Daniel Rigby als Petunia und Vernon Dursley. Hinter der Serie steht das „Succession“-Duo Francesca Gardiner als Autorin und Showrunnerin und Mark Mylod als Regisseur mehrerer Folgen.",
+            "Der Clip ist auf dem offiziellen YouTube-Kanal von Harry Potter erschienen, die Serie adaptiert zunächst den ersten Band, „Harry Potter und der Stein der Weisen“."
+          ],
+          "highlight": "Die Serie startet am 25. Dezember bei HBO.",
+          "assessment": [
+            "Der Ausschnitt ist klug gewählt. Das Festessen ist eine der Szenen, die alle aus den Filmen kennen, und HBO lädt damit bewusst zum Vergleich ein. Lithgows Dumbledore wirkt verschmitzter als die Filmversionen, und der Dialog mit McGonagall nimmt sich Zeit für die Figuren, die eine Serie im Gegensatz zum Film hat.",
+            "Ob die Serie mehr ist als eine teure Wiederholung, wird sich erst zeigen. Der Clip deutet an, dass sie näher am Buch bleiben will, und das wäre der einzige gute Grund, die Geschichte noch einmal zu erzählen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/"
+            },
+            {
+              "name": "Clip: Harry Potter, Start-of-Term Banquet (HBO Max)",
+              "url": "https://www.youtube.com/watch?v=lUNaXbZ1zqQ"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-15-at-10.42.57-e1794739463105.png?w=1024",
+            "alt": "Szene aus der HBO-Serie „Harry Potter“ beim Festessen in der Großen Halle",
+            "credit": "HBO",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/"
+          }
+        },
+        {
+          "title": "„Slow Horses“: Olivia Cooke sagt, die achte Staffel könnte die letzte sein",
+          "lead": "Die Apple-Spionageserie mit Gary Oldman steht womöglich vor ihrem Ende. Darstellerin Olivia Cooke erzählt, am Set herrsche Abschiedsstimmung, offiziell ist aber nichts entschieden.",
+          "body": [
+            "Olivia Cooke, die in „Slow Horses“ die MI5-Agentin Sid Baker spielt, hat angedeutet, dass die achte Staffel der Spionageserie die letzte sein könnte. „Ich drehe die letzte Staffel!“, sagte sie der britischen Zeitung The Times und schob dann ein „sag niemals nie“ hinterher. Apple hat bisher keine Entscheidung über eine Fortsetzung nach Staffel acht verkündet; Deadline hat beim Streamingdienst nachgefragt.",
+            "„Ich glaube, das hat man uns so gesagt, und es fühlt sich definitiv so an, als würden wir enden“, erzählte Cooke weiter. „Wir sind alle melancholisch, abgelenkt. Gestern saß ich in der Maske und habe geweint.“ Ihrem Partner habe sie gesagt, sie brauche zwei Wochen, um darüber hinwegzukommen.",
+            "Cookes Figur schien in der ersten Staffel nach drei Folgen gestorben zu sein, kehrte aber in Staffel sechs zurück. Apple hatte im September, einen Tag vor dem Start der sechsten Staffel, die bereits verlängerte Serie vorzeitig auch um eine achte Staffel verlängert. Diese basiert auf „Clown Town“, dem neunten Roman aus Mick Herrons Slough-House-Reihe.",
+            "Die Serie erzählt von einer Abteilung des MI5, in die Agenten nach karrierebeendenden Fehlern abgeschoben werden. Gary Oldman spielt deren mürrischen, aber brillanten Chef Jackson Lamb."
+          ],
+          "highlight": "Apple hat bisher keine Entscheidung über eine Fortsetzung nach Staffel acht verkündet; Deadline hat beim Streamingdienst nachgefragt.",
+          "assessment": [
+            "„Slow Horses“ ist eine der verlässlichsten Serien der letzten Jahre, und das liegt an Herrons Vorlagen und an Oldman. Mit „Clown Town“ ist die Serie beim aktuellen Stand der Bücher angekommen, ein Ende wäre also folgerichtig und kein Zeichen von Schwäche.",
+            "Mir ist ein Abschied auf hohem Niveau lieber als eine Serie, die sich über Jahre ohne Vorlage weiterschleppt. Wenn Herron weiterschreibt, kann Apple ja immer noch zurückkommen, Cookes „sag niemals nie“ lässt die Tür bewusst offen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/olivia-cooke-slow-horses-season-8-last-1237224533/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Slow_Horses_Photo_060302.jpg?w=1024",
+            "alt": "Szene aus der Apple-Serie „Slow Horses“",
+            "credit": "Apple TV",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/olivia-cooke-slow-horses-season-8-last-1237224533/"
+          }
+        },
+        {
+          "title": "„Behemoth!“: Tony Gilroy und Pedro Pascal stellen ihren Film gegen die KI-Welle",
+          "lead": "Vor dem Start von „Behemoth!“ am 4. Dezember sprechen Regisseur Tony Gilroy und Hauptdarsteller Pedro Pascal über Menschlichkeit im Kino. Gilroy fordert, die KI-Rechenzentren „an der Wahlurne zu sprengen“.",
+          "body": [
+            "Tony Gilroy, Schöpfer der „Star Wars“-Serie „Andor“, bringt am 4. Dezember mit „Behemoth!“ seinen neuen Kinofilm bei Searchlight heraus. Pedro Pascal spielt darin den Cellisten Alex Serian, ein früheres Wunderkind, das nach Los Angeles zurückkehrt, um Filmmusik zu komponieren und sich mit seiner Familie zu versöhnen. Neben Pascal spielen Olivia Wilde, Eva Victor, Will Arnett, Hank Azaria, Margarita Levieva und Matthew Lillard.",
+            "Im Gespräch mit Vanity Fair, das Deadline zusammenfasst, beschrieben beide den Film als Bekenntnis zur Menschlichkeit in Zeiten von KI. „Die Dreharbeiten haben mir enorm viel Hoffnung gegeben“, sagte Pascal. Niemand habe an dem Film Geld verdient, und gerade deshalb habe in jeder Abteilung eine „Reinheit der Liebe zur Arbeit“ geherrscht. Es gebe in diesem Jahr mehrere Filme, die „für die Menschlichkeit und das Erzählen kämpfen“, und eine Gegenbewegung, die künstlerisch und politisch spannend werden könne.",
+            "Gilroy sieht in Film und Musik einen „natürlichen Widerstand gegen die Übernahme durch Roboter“. Ob KI das menschliche Element des Kinos ersetzen könne? „Wahrscheinlich, erschreckend einfach“, sagte er. Irgendwo gebe es vermutlich einen Regler für emotionale Wucht an einem Algorithmus, „aber dieser Film ist organisch“.",
+            "Dann empfahl er, „die KI-Zentren in die Luft zu jagen“, und stellte sofort klar: „Ich meine nicht, sie in die Luft zu jagen. Ich meine, sie an der Wahlurne zu sprengen. Geht wählen.“"
+          ],
+          "highlight": "Ob KI das menschliche Element des Kinos ersetzen könne? „Wahrscheinlich, erschreckend einfach“, sagte er.",
+          "assessment": [
+            "Gilroys Satz wird die Schlagzeilen bestimmen, aber interessanter ist sein Eingeständnis davor. Er behauptet nicht, Kunst sei für Maschinen unerreichbar, sondern hält es für möglich, dass KI das Menschliche erschreckend leicht nachahmt. Genau deshalb setzt er auf Politik statt auf Trost.",
+            "Ob „Behemoth!“ diesem Anspruch gerecht wird, zeigt sich im Dezember. Gilroy hat mit „Andor“ bewiesen, dass er große Themen in kluge Geschichten verpacken kann. Ein Film über einen Musiker, der für Hollywood komponiert, ist für diese Debatte jedenfalls kein Zufall."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/behemoth-humanity-pedro-pascal-hope-amid-ai-boom-1237224503/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/MCDBEHE_H4019.jpg?w=1024",
+            "alt": "Pedro Pascal in „Behemoth!“",
+            "credit": "Searchlight Pictures / Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/behemoth-humanity-pedro-pascal-hope-amid-ai-boom-1237224503/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Horbat Burgin: Versteck-Tunnel jüdischer Rebellen und eine byzantinische Mosaikkirche sind jetzt öffentlich zugänglich",
+          "lead": "In den Judäischen Hügeln hat eine der größten antiken Siedlungen der Region für Besucher geöffnet. Sie reicht von der Zeit des Zweiten Tempels bis in die osmanische Epoche und war jahrelang Ziel von Raubgräbern.",
+          "body": [
+            "Horbat Burgin, eine große antike Siedlung in den Judäischen Hügeln (Schefela) in Israel, ist seit dem Wochenende für Besucher geöffnet. Zu sehen sind unterirdische Versteck-Tunnel, die jüdische Rebellen vor rund 2000 Jahren nutzten, und eine byzantinische Kirche mit farbigen Mosaikböden. Der Komplex liegt in einem Park der Region und wurde nach umfangreichen Grabungen, Restaurierungen und Erschließungsarbeiten zugänglich gemacht.",
+            "Frühere Ausgrabungen haben gezeigt, dass der Ort von der Zeit des Zweiten Tempels bis in die osmanische Zeit bewohnt war. In der Zeit des Zweiten Tempels stand hier ein großes Dorf, das Forscher mit Kefar Bisch gleichsetzen, einem Ort, den der Geschichtsschreiber Flavius Josephus erwähnt. In frührömischer Zeit schlugen die Bewohner ausgedehnte Tunnelsysteme in den Fels, um sich auf den Kampf gegen die Römer vorzubereiten. Der Bar-Kochba-Aufstand von 132 bis 135 nach Christus beschädigte und zerstörte die Siedlung.",
+            "Danach ließ sich eine heidnische Bevölkerung in den Ruinen nieder. Sie baute neue Häuser über der Erde und schlug darunter aufwendige Grabanlagen in den Fels. In byzantinischer Zeit entstand eine prächtige Kirche mit Mosaikboden, daneben ein Klosterkomplex. Archäologen fanden zudem viele Columbarien, also Anlagen zur Taubenzucht, und Weinpressen. Die Bewohner lebten demnach von Tauben, Landwirtschaft und Wein.",
+            "Horbat Burgin ist die größte antike Siedlung der Gegend, sowohl in der Fläche als auch im Umfang der erhaltenen Reste. Über Jahre haben Raubgräber dort Grabhöhlen und Tunnelsysteme aufgebrochen und Gebäude beschädigt. Inspektoren und Partnerorganisationen stoppten das mit Kontrollen, Festnahmen von Banden, Notgrabungen und dem Aufbau eines Höhlenparks. Die Gemeinden der Region hoffen nun auf mehr Tourismus und wollen, dass junge Leute vor Ort mit dem Wissen um ihre Geschichte aufwachsen."
+          ],
+          "highlight": "In frührömischer Zeit schlugen die Bewohner ausgedehnte Tunnelsysteme in den Fels, um sich auf den Kampf gegen die Römer vorzubereiten.",
+          "assessment": [
+            "Versteck-Tunnel gehören zu den eindrucksvollsten Zeugnissen der jüdischen Aufstände gegen Rom, weil sie zeigen, wie sich ganze Dörfer auf einen ungleichen Krieg vorbereiteten. Dass man in Horbat Burgin gleich mehrere Epochen übereinander sehen kann, Rebellen, heidnische Neusiedler und byzantinische Christen, macht den Ort besonders lehrreich.",
+            "Bemerkenswert ist auch die Vorgeschichte. Erst die Plünderungen haben die Behörden zum Handeln gezwungen. Die Öffnung für Besucher ist daher auch eine Schutzmaßnahme: Ein Ort, an dem Menschen unterwegs sind, ist für Raubgräber weniger attraktiv als einer, den niemand beachtet."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/rebel-tunnels-and-church-at-horbat-burgin/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/tunnels-church-horbat-burgin-1.jpg",
+            "alt": "Blick über die Ausgrabungsstätte Horbat Burgin in den Judäischen Hügeln",
+            "credit": "Emil Aladjem, IAA",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/rebel-tunnels-and-church-at-horbat-burgin/"
+          }
+        },
+        {
+          "title": "Castelseprio: Die rätselhaften Fresken von Santa Maria foris portas wurden so gründlich untersucht wie nie",
+          "lead": "Die kleine Kirche bei Varese, Teil des UNESCO-Welterbes, ist nach anderthalb Monaten wieder geöffnet. In der Pause lief die bislang wichtigste naturwissenschaftliche Untersuchung ihrer frühmittelalterlichen Wandmalereien.",
+          "body": [
+            "Die Kirche Santa Maria foris portas in Castelseprio in der Provinz Varese ist nach etwa anderthalb Monaten Schließung wieder geöffnet. In dieser Zeit lief die bisher wichtigste Untersuchungskampagne an den frühmittelalterlichen Fresken der Apsis, das Projekt VISTA (Visual Investigation of Santa Maria foris portas: Techniques & Analysis). Die Ergebnisse will die Direzione regionale Musei nazionali Lombardia, eine Einrichtung des italienischen Kulturministeriums, in den kommenden Wochen vorstellen.",
+            "Die Fresken wurden 1944 unter späteren Malschichten entdeckt und gelten als Sonderfall in der Kunst des westlichen Mittelalters. Ihre Qualität ist unbestritten, doch Herkunft, Datierung und Deutung sind bis heute umstritten. Besonders schwierig ist das Bildprogramm, das sich stark auf apokryphe Evangelien stützt, also auf Texte über das Leben Jesu und Marias, die nicht in die Bibel aufgenommen wurden. Seit 2011 gehört die Kirche als Teil der Stätten der Langobarden in Italien zum UNESCO-Welterbe.",
+            "Zur Wiedereröffnung hat der Archäologiepark von Castelseprio unter Leitung von Luca Polidoro die Ausstellung erneuert. Eine neue, per App steuerbare Beleuchtung soll Details sichtbar machen, die bisher kaum zu erkennen waren. Tafeln und eine Zeitleiste erzählen die Geschichte der Kirche und ihr Verhältnis zur antiken Siedlung Castelseprio, verknüpft mit Biografien von Menschen, die den Ort im Lauf der Jahrhunderte geprägt haben.",
+            "Erstmals öffentlich zu sehen sind zwei Fragmente der Apsisfresken, die einst gestohlen und später wiedergefunden wurden. Ein Teil der neuen Präsentation widmet sich den jüngsten Forschungsergebnissen, die den historischen Zusammenhang der Kirche und ihrer Ausmalung genauer bestimmen sollen."
+          ],
+          "highlight": "Ihre Qualität ist unbestritten, doch Herkunft, Datierung und Deutung sind bis heute umstritten.",
+          "assessment": [
+            "Castelseprio ist einer der großen Kriminalfälle der Kunstgeschichte. Je nach Forscher stammen die Fresken aus dem 7., 8. oder 10. Jahrhundert, von byzantinischen, langobardischen oder karolingischen Malern. Wenn VISTA mit naturwissenschaftlichen Methoden auch nur einen Teil dieser Fragen klären kann, wäre das ein echter Fortschritt.",
+            "Die Ergebnisse sind noch nicht veröffentlicht, deshalb ist Vorsicht angebracht. Dass die Behörden sie aber in den nächsten Wochen vorstellen wollen, lohnt das Wiedervorlegen. Für Besucher lohnt sich der Ort schon jetzt, zumal die gestohlenen Fragmente nun wieder dort sind, wo sie hingehören."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/attualita/chiesa-santa-maria-foris-portas-castelseprio-riapre-dopo-importante-campagna-diagnostica-affreschi"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/santa-maria-foris-portas-nuovo-allestimento-1.jpg",
+            "alt": "Neu gestalteter Innenraum der Kirche Santa Maria foris portas in Castelseprio",
+            "credit": "Finestre sull'Arte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/attualita/chiesa-santa-maria-foris-portas-castelseprio-riapre-dopo-importante-campagna-diagnostica-affreschi"
+          }
+        },
+        {
+          "title": "Northumbria prägte Kupfermünzen nicht aus Not, sondern aus Kalkül",
+          "lead": "Im 9. Jahrhundert ging das angelsächsische Königreich Northumbria als einziges in Westeuropa zu Münzen aus Kupferlegierung über. Eine neue Studie widerlegt die verbreitete Erklärung, die Wikinger hätten das Land ausgeplündert.",
+          "body": [
+            "Im frühen Mittelalter war Silber in ganz Westeuropa das übliche Münzmetall. Northumbria, ein angelsächsisches Königreich, das große Teile Nordenglands und Südschottlands umfasste, scherte im 9. Jahrhundert aus. In der ersten Hälfte des Jahrhunderts sank der Silbergehalt seiner Münzen immer weiter, bis sie gar keines mehr enthielten. Bisher galten die Wikingerüberfälle seit dem späten 8. Jahrhundert als Ursache: Sie hätten das Königreich so ausgeblutet, dass nur noch billige Münzen möglich waren.",
+            "Der Historiker John Luke Carson hat diese These in der Fachzeitschrift Antiquity überprüft, indem er sämtliche bekannten Gold- und Silberfunde aus dem Northumbria des 9. Jahrhunderts auswertete. Es ist die erste vollständige Übersicht darüber, wie viel Edelmetall das Königreich besaß. Frühere Erklärungen hatten sich fast nur auf die Münzen selbst gestützt.",
+            "Das Ergebnis widerspricht der alten Annahme. Silber war reichlich vorhanden, Gold in kleineren, aber nennenswerten Mengen, offenbar sogar mehr als im 8. Jahrhundert. Northumbria war also nicht pleite, seine Herrscher haben die Münzen nach Carsons Befund bewusst abgewertet. Die neuen Münzen wurden in größerer Zahl geprägt als die alten und liefen in mehr Regionen und sozialen Schichten um. Ein Geldstück mit geringem Wert eignet sich für den Alltagshandel, gewöhnliche Leute konnten leichter tauschen, und der König verdiente an der steigenden Prägetätigkeit.",
+            "Die Motive dürften sich mit der Zeit verschoben haben: Zuerst lockte wohl der Gewinn aus der Münzprägung, später wurde die Flexibilität des billigen Geldes selbst zum Grund. Einfach war die Herstellung nicht, die Legierung erforderte große Mengen importierten Zinns und Zinks, was auf eine starke Beteiligung der Krone hindeutet."
+          ],
+          "highlight": "Northumbria war also nicht pleite, seine Herrscher haben die Münzen nach Carsons Befund bewusst abgewertet.",
+          "assessment": [
+            "Die Studie ist ein schönes Beispiel dafür, wie eine bequeme Erklärung jahrzehntelang überlebt, weil niemand die Gegenprobe macht. „Schwache Münzen, schwaches Königreich“ klingt plausibel, und die Wikinger sind als Bösewichte immer zur Hand. Carson hat einfach nachgezählt, und die Rechnung ging nicht auf.",
+            "Spannend finde ich die moderne Parallele. Northumbria hat im Grunde Kleingeld eingeführt, um den Alltagshandel zu erleichtern und die Wirtschaft zu beleben. Das ist eine geldpolitische Entscheidung, die man einem Königreich des 9. Jahrhunderts selten zutraut."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/anglo-saxon-northumbria-switch-to-copper-coins/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/northumbria-copper-coins-1.jpg",
+            "alt": "Münze aus Kupferlegierung von König Æthelred II. von Northumbria",
+            "credit": "York Museums Trust, CC BY 4.0",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/anglo-saxon-northumbria-switch-to-copper-coins/"
+          }
+        },
+        {
+          "title": "Beresan: Ein verziertes Schafsschulterblatt deutet auf einen privaten Achilles-Kult",
+          "lead": "Auf der Insel Beresan im Schwarzen Meer haben Griechen vor rund 2500 Jahren ein Schulterblatt zugeschnitten und mit zwei Vögeln verziert. Russische Forscher vermuten, dass damit zu Hause der Held Achilles um Schutz gebeten wurde.",
+          "body": [
+            "Auf der Insel Beresan vor der Mündung von Dnepr und Südlichem Bug lag mit Borysthenes eine der frühesten griechischen Siedlungen am Nordufer des Schwarzen Meeres. Dort fanden Archäologen der Beresan-Expedition der Eremitage bereits 1989 ein auffälliges Schulterblatt eines Schafs. Sergei Solowjow und Alexei Kasparow vom Institut für die Geschichte der materiellen Kultur der Russischen Akademie der Wissenschaften haben es nun in der Zeitschrift Archeologitscheskije Westi gedeutet.",
+            "Der Knochen lag in einer Schicht aus der ersten Hälfte bis zum dritten Viertel des 6. Jahrhunderts vor Christus, zwischen Keramikscherben und Tierknochen aus dem Alltag. Das Schaf war zwei bis zweieinhalb Jahre alt. Nachdem das Fleisch gekocht war, bearbeitete jemand den Knochen gezielt: Die breite Kante erhielt zahnartige Einschnitte, der vorstehende Grat eine Wellenform. Auf die Außenseite ritzte der Hersteller zwei nach links blickende Vögel mit angedeuteten Flügeln und Federn.",
+            "Welche Vögel gemeint sind, ist schwer zu sagen. Die Lage am Meer und die wellenförmige Kante sprechen für Möwen, die auf Beresan häufig sind, Schnabelform und Zeichnung erinnern eher an Rabenvögel, besonders die Nebelkrähe. Beides passt zu Achilles: In der Region galt der Held als Beschützer von Siedlungen und Menschen, und nach altem Glauben bewachten wundersame Vögel seine Heiligtümer, meist als Möwen gedeutet. Zugleich verbindet die griechische Kultur Achilles auch mit Krähen und Raben.",
+            "Die Forscher vermuten deshalb ein häusliches Ritual, bei dem jemand Achilles um Schutz und Wohlergehen bat. Wie es genau ablief, wissen sie nicht. Solowjow betont, dass der Zusammenhang mit dem Achilles-Kult eine Annahme bleibt, solange sich nicht klären lässt, wie der Gegenstand verwendet wurde."
+          ],
+          "highlight": "Solowjow betont, dass der Zusammenhang mit dem Achilles-Kult eine Annahme bleibt, solange sich nicht klären lässt, wie der Gegenstand verwendet wurde.",
+          "assessment": [
+            "Ich mag an dieser Studie, dass die Autoren ihre Grenzen offen benennen. Ein bearbeiteter Knochen mit zwei Vögeln ist kein Altar, und die Deutung als Achilles-Ritual ist eine Hypothese. Sie ist aber gut begründet, weil der Achilles-Kult am Schwarzen Meer tatsächlich eine herausragende Rolle spielte, bis hin zur Insel Leuke, die als sein Grabheiligtum galt.",
+            "Der eigentliche Wert liegt im Blick auf die private Religion. Wir wissen viel über Tempel und Staatskulte, aber wenig darüber, was Menschen zu Hause taten, um sich zu schützen. Ein Schafsknochen aus der Küche könnte genau diesen Alltagsglauben sichtbar machen."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/carved-sheep-bone-berezan-island-achilles-ritual/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/sheep-bone-berezan-island-1.jpg",
+            "alt": "Schafsschulterblatt mit eingeritzten Vögeln von der Insel Beresan",
+            "credit": "Russische Akademie der Wissenschaften",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/carved-sheep-bone-berezan-island-achilles-ritual/"
+          }
+        }
+      ]
+    }
+  ]
+}

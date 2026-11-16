@@ -1,5 +1,38 @@
 [
   {
+    "nr": 40,
+    "date": "2026-11-16",
+    "updated": "2026-11-16T07:50:46+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Huang arbeitet laut Financial Times selbst an seiner Rückkehr, der Kongress will die Chip-Exporte verschärfen",
+      "Vulcan scheitert: 40 Amazon-Satelliten verloren, Starlink-Konkurrenz und US-Militär verlieren eine Rakete",
+      "Klage in San Francisco: Verbraucherschützer wollen stärkere KI-Modelle per Gericht stoppen",
+      "805 Millionen Euro: Italien bestraft Meta, weil die Facebook-App Fotogalerien ohne Erlaubnis auslas",
+      "Apple startet eine KI-Gesundheitsstudie mit bis zu 200.000 Teilnehmern, die Brille kommt angeblich 2027",
+      "Chronicles: Medieval gerettet: Coffee Stain kauft das Spiel aus der Insolvenz",
+      "Dune: Awakening läuft jetzt komplett offline",
+      "Treyarch entlässt Craig Houston, den Autor hinter dem Zombies-Modus von Call of Duty",
+      "Schüsse auf Bürocampus von inXile: Polizei nimmt Verdächtigen fest",
+      "Warhammer trauert um Aly Morrison, einen der prägenden Miniaturendesigner",
+      "Ehrenoscars für Glenn Close, Ridley Scott und Floyd Norman, Thalberg-Preis für die Killer-Films-Gründerinnen",
+      "Kinokasse: „Ebenezer“ startet auf Platz eins, aber unter den Erwartungen, im Ausland läuft es besser",
+      "James Grays „Paper Tiger“ hat den besten Kinostart seiner Karriere, „Club Kid“ zieht junges Publikum an",
+      "Erster längerer Blick in die Große Halle: HBO zeigt eine Szene aus der „Harry Potter“-Serie",
+      "„Slow Horses“: Olivia Cooke sagt, die achte Staffel könnte die letzte sein",
+      "„Behemoth!“: Tony Gilroy und Pedro Pascal stellen ihren Film gegen die KI-Welle",
+      "Horbat Burgin: Versteck-Tunnel jüdischer Rebellen und eine byzantinische Mosaikkirche sind jetzt öffentlich zugänglich",
+      "Castelseprio: Die rätselhaften Fresken von Santa Maria foris portas wurden so gründlich untersucht wie nie",
+      "Northumbria prägte Kupfermünzen nicht aus Not, sondern aus Kalkül",
+      "Beresan: Ein verziertes Schafsschulterblatt deutet auf einen privaten Achilles-Kult"
+    ]
+  },
+  {
     "nr": 39,
     "date": "2026-11-15",
     "updated": "2026-11-15T07:51:28+01:00",
