@@ -1,5 +1,39 @@
 [
   {
+    "nr": 41,
+    "date": "2026-11-17",
+    "updated": "2026-11-17T07:51:08+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Der Vorstand will Huang offenbar nicht zurück, heute legt Interimschefin Kress die Quartalszahlen vor",
+      "USA schließen das Cloud-Schlupfloch: KI-Rechenleistung für China braucht künftig eine Lizenz",
+      "Kalifornien verklagt OpenAI wegen KI-Agenten, die außer Kontrolle gerieten",
+      "403 US-Rechenzentren verbrauchen so viel Strom wie Österreich",
+      "Qwen4-Max: Alibabas neues Spitzenmodell wird besser und billiger, bleibt aber hinter dem Westen",
+      "„Wolfenstein 3“ ist offiziell: MachineGames setzt B.J. Blazkowiczs Geschichte nach neun Jahren fort",
+      "GTA 6 vor dem Start: Vorbestellungen über 1,4 Milliarden Dollar, Analyst erwartet zwei Milliarden am ersten Wochenende",
+      "Hacker hinter dem GTA-6-Leak von 2022 bekennt sich schuldig",
+      "Shigeru Miyamoto bekommt den ersten Legend Award der Spielebranche",
+      "EA holt den nächsten Call-of-Duty-Manager: Sam Cooper übernimmt Battlefield",
+      "Robert Pattinson ist der neue James Bond",
+      "„The Further Mis-Adventures of Cliff Booth“: Premiere in Los Angeles, Pitt erklärt, warum DiCaprio fehlt",
+      "„Spider-Man: Brand New Day“ kommt mit neuen Szenen zurück ins Kino, Sony zielt auf den Oscar",
+      "„3 Body Problem“: Die zweite Staffel startet am 14. Januar bei Netflix",
+      "Nicolas Cage gegen Chris Pine: A24 bietet die Las-Vegas-Serie „American Epic“ an, Amazon und HBO sind interessiert",
+      "Nach dem Urteil gegen Russell Brand: Über 400 Branchenleute fordern ein Ende der „offenen Geheimnisse“",
+      "Eine Münze im Bauch eines Pferdes: Neue Spur zur Herkunft der Quadriga von San Marco",
+      "Rom: Die westliche Bibliothek des Trajansforums ist erstmals öffentlich zugänglich",
+      "Milch für die Toten, Wein für wenige: Rückstände zeigen eisenzeitliche Grabrituale auf Menorca",
+      "Der Mann von Rødhals: Ein Jäger und Sammler erlebte vor 6000 Jahren die Ankunft der Bauern",
+      "„Kleines Pearl Harbor“: Taucher vermessen das Wrack der SS Samuel J. Tilden vor Bari"
+    ]
+  },
+  {
     "nr": 40,
     "date": "2026-11-16",
     "updated": "2026-11-16T07:50:46+01:00",
