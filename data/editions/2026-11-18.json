@@ -1,0 +1,612 @@
+{
+  "nr": 42,
+  "date": "2026-11-18",
+  "intro": "Nvidia meldet fast 116 Milliarden Dollar Quartalsumsatz und zieht sich aus dem China-Geschäft mit H200-Chips zurück. Jensen Huang will zurück, der Vorstand will ihn nicht. Dazu Java4Shell, eine gefährliche Java-Lücke, acht Game-Awards-Nominierungen für das noch unveröffentlichte GTA 6 und Jeff Bezos, der erzählt, wie Robert Pattinson zu Bond wurde. In der Geschichte geht es um ein neues Datum für den Fall Babylons und um Kinderhände an 15.000 Jahre alten Tonfiguren.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Rekordumsatz von fast 116 Milliarden Dollar, Huang will zurück, der Vorstand sagt Nein",
+          "lead": "Nvidia hat die ersten Quartalszahlen ohne Jensen Huang vorgelegt und die Erwartungen erneut übertroffen. Huang bot über X seine Rückkehr an, Aufsichtsratschef Harvey Jones lehnte in der Telefonkonferenz ab. Dazu kommen eine Untersuchung der Börsenaufsicht und der Rückzug aus dem China-Geschäft mit H200-Chips.",
+          "body": [
+            "Nvidia hat am Dienstagabend die Zahlen für das dritte Geschäftsquartal vorgelegt, zum ersten Mal präsentiert von Interimschefin und Finanzvorständin Colette Kress. Der Umsatz lag laut heise bei 115,8 Milliarden US-Dollar, 20 Prozent über dem Vorquartal und doppelt so hoch wie ein Jahr zuvor. Der Betriebsgewinn stieg auf 77,5 Milliarden, der Nettogewinn auf 65,3 Milliarden Dollar, die Bruttomarge lag bei 74,8 Prozent. Für das laufende Quartal stellt Kress 130 Milliarden Dollar Umsatz in Aussicht, der Produktionsanlauf der Vera-Rubin-Systeme sei der schnellste der Firmengeschichte gewesen. Die Aktie, die seit Huangs Abgang mehr als zehn Prozent verloren hatte, stieg nachbörslich zeitweise um rund fünf Prozent.",
+            "Kurz vor den Zahlen hatte sich Huang selbst zu Wort gemeldet. Auf X schrieb er, er habe seit seinem Abschied viele Aufrufe von Beschäftigten, Investoren, Partnern und Kunden erhalten. Wenn der Verwaltungsrat entscheide, dass seine Rückkehr im Interesse der Aktionäre, der Belegschaft, des Unternehmens und Amerikas sei, wäre er „geehrt“, als Chef zurückzukommen. Zugleich räumte er ein, im Privatleben „schwerwiegende Fehler“ begangen und die Standards nicht erfüllt zu haben, die Nvidia von allen erwarte. Auf den Verdacht, dass über seine Beziehung zu Alice Huang von Megaspeed US-Sanktionen unterlaufen worden sein könnten, ging er nicht ein.",
+            "Aufsichtsratschef Harvey C. Jones erteilte dem Angebot in der Telefonkonferenz eine klare Absage. Der Verwaltungsrat habe Huangs Rücktritt einstimmig angenommen und beabsichtige nicht, ihn wieder als Chef einzusetzen, sagte er laut TechCrunch. Für die Nachfolge prüfe man interne und externe Kandidaten. Ganz geschlossen ist das Gremium offenbar nicht: Laut einem von heise zitierten Bericht von Semafor versucht eine Fraktion im Verwaltungsrat weiterhin, Huang zurückzuholen. Neu eingerichtet wurde ein Ausschuss, der Nvidias Regeln zur nationalen Sicherheit, die Einhaltung von Exportkontrollen und die Handelsrisiken überwachen soll.",
+            "Die wohl folgenreichste Nachricht des Abends betraf China. Nvidia werde keine H200-Chips mehr in China verkaufen, sagte Kress laut TechCrunch. Der Deal war von Huang und Präsident Trump ausgehandelt worden: Die Chips mussten über die USA geliefert werden, die Regierung kassierte 25 Prozent Zoll. China hatte die Lieferungen ohnehin weitgehend abgelehnt, um die eigene Chipindustrie zu stärken. Die neuen US-Regeln vom Montag, die US-Chips für ausländische Rechenzentren mit chinesischen Kunden sperren, könnten Nvidia laut der Investmentbank Jefferies im kommenden Jahr 44 bis 62 Milliarden Dollar Rechenzentrumsumsatz kosten. Kress sagte, wegen des Auftragsstaus bei Vera Rubin werde das den Umsatz nicht treffen.",
+            "Zusätzlich hat die Börsenaufsicht SEC nach einem Bericht des Wall Street Journal eine zivilrechtliche Untersuchung eingeleitet. Sie soll klären, ob Nvidias Angaben gegenüber Investoren irreführend waren. Das Handelsministerium ermittelt bereits seit Ende 2024 gegen Megaspeed wegen des Verdachts, Nvidia-Chips nach China umgeleitet zu haben."
+          ],
+          "highlight": "Nvidia werde keine H200-Chips mehr in China verkaufen, sagte Kress laut TechCrunch.",
+          "assessment": [
+            "Die Zahlen zeigen, wie wenig der Skandal bisher am Geschäft ändert: Die Nachfrage nach KI-Rechenzentren ist so groß, dass selbst ein Führungschaos und neue Exportregeln den Umsatz nicht bremsen. Für Nvidia ist das kurzfristig beruhigend, für die Debatte um Huang aber ein Problem, denn beide Lager werden die Zahlen für sich nutzen: Die einen sagen, die Firma braucht ihn nicht, die anderen, er hat diese Maschine gebaut.",
+            "Wichtiger als die Personalie ist der China-Rückzug. Huang stand wie kein anderer für die These, die USA müssten in China mitverkaufen. Dass Nvidia diese Linie wenige Tage nach seinem Abgang aufgibt, zeigt, wie sehr seine Person die Strategie bestimmte. Die SEC-Untersuchung macht eine schnelle Rückkehr zusätzlich unwahrscheinlich, solange nicht geklärt ist, was der Vorstand über Megaspeed wusste."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nvidia-Fast-116-Milliarden-US-Dollar-Umsatz-Jensen-Huang-will-zurueckkommen-11528649.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+            "alt": "Jensen Huang in seiner typischen Lederjacke bei einem Auftritt",
+            "credit": "Heather Diehl / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+          }
+        },
+        {
+          "title": "Java4Shell: Eine Zeichenkette aus 64 A öffnet Jira, Confluence und Jenkins für Angreifer",
+          "lead": "Oracle hat elf Sicherheitslücken in Java geschlossen, die das Ausführen fremden Codes erlauben. Die gefährlichste, Java4Shell, steckt im Base64-Decoder und betrifft Server mit neueren Intel- und AMD-Prozessoren.",
+          "body": [
+            "Oracle hat am Dienstagabend Sicherheitsupdates für Java veröffentlicht, die laut heise zehn Lücken in OpenJDK und eine in OpenJFX schließen. Alle erlauben Remote Code Execution, also das Ausführen von Befehlen auf fremden Rechnern. Betroffen sind die Versionen 25 und 27, bei manchen Lücken reicht es bis Java 8 zurück. Die gefährlichste trägt die Kennung CVE-2026-114938 und wurde von ihrem Entdecker, der kalifornischen Sicherheitsfirma Calif, Java4Shell getauft. Sie erreicht nach CVSS 4.0 einen Schweregrad von 9,2 und betrifft Java 17, 21, 25 und 27.",
+            "Nach Erscheinen der Patches hat Calif die Details veröffentlicht. Der Fehler steckt im Decoder für Base64-Zeichenketten, den die OpenJDK-Entwickler offenbar aus Leistungsgründen in Assembler geschrieben haben, um die Befehlssatzerweiterung AVX-512 zu nutzen. Diese Implementierung verarbeitet das Gleichheitszeichen am Ende eines Base64-Strings falsch. Um den Fehler auszulösen, reicht eine 65 Zeichen lange Zeichenkette aus 64 Mal dem Buchstaben A und einem Gleichheitszeichen. Der Decoder berechnet dann eine negative Länge, und die Ausgabe landet an einer falschen Stelle im Speicher. Bei OpenJDK 17 braucht es doppelt so viele A.",
+            "Die Lücke betrifft nur bestimmte Prozessoren: Intel Xeon der Reihen Ice Lake, Sapphire Rapids, Emerald Rapids und Granite Rapids sowie AMD-Epyc- und Ryzen-Chips ab Zen 4. Das sind allerdings genau die Prozessoren, die in modernen Rechenzentren verbreitet sind. Calif gibt an, über den Fehler ohne Anmeldung fremden Code in verbreiteter Software ausgeführt zu haben, darunter das Single-Sign-on-Werkzeug Keycloak, Jira und Confluence von Atlassian, JFrog Artifactory und Jenkins. Mit Nutzerkonto gelang das auch bei Elasticsearch.",
+            "Ein Selbstläufer ist der Angriff nicht. Es genügt nicht, die Zeichenkette an irgendeinen Server zu schicken, der Base64 verarbeitet. Angreifer müssen für jede Anwendung einen eigenen Exploit entwickeln. Calif hat keinen Beispielcode für Jira oder Keycloak veröffentlicht, Angriffe in freier Wildbahn sind noch nicht bekannt. Zusätzlich verweist die Firma auf einen Exploit für Java-Clients: Ein bösartiger Server kann demnach Java-Programme kompromittieren, die sich per TLS mit ihm verbinden, ebenfalls nur auf den genannten Prozessoren.",
+            "heise rät, die Updates sofort einzuspielen, auch auf Systemen mit nicht betroffenen CPUs, weil die übrigen zehn Lücken unabhängig vom Prozessor gefährlich sind. Aus dem Internet erreichbare Systeme sollten zuerst drankommen."
+          ],
+          "highlight": "Um den Fehler auszulösen, reicht eine 65 Zeichen lange Zeichenkette aus 64 Mal dem Buchstaben A und einem Gleichheitszeichen.",
+          "assessment": [
+            "Der Name erinnert nicht zufällig an Log4Shell, die Java-Lücke von 2021, die Administratoren monatelang beschäftigte. Ganz so schlimm dürfte es diesmal nicht werden, weil Angreifer für jede Software eigens einen Exploit bauen müssen. Aber die Liste der betroffenen Programme liest sich wie das Inventar eines typischen Firmennetzes, und Jira, Confluence und Keycloak hängen oft direkt im Internet.",
+            "Lehrreich ist die Ursache: Java gilt als speichersicher, doch ausgerechnet ein von Hand in Assembler optimierter Baustein reißt das Versprechen ein. Wer Geschwindigkeit mit unsicherem Code erkauft, schafft genau die Fehlerklasse, die die Sprache eigentlich ausschließen soll."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/3/3/4/shutterstock_2649976727-ec63aafde4546be0.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zur Sicherheitslücke in Java",
+            "credit": "VADZIM SHUBICH / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html"
+          }
+        },
+        {
+          "title": "Microsoft Ignite: Word, Excel und PowerPoint wandern in Copilot, Nadella nennt es „das neue Betriebssystem für die Arbeit“",
+          "lead": "Auf seiner Entwicklerkonferenz Ignite hat Microsoft die Office-Programme allgemein in Copilot verfügbar gemacht und eine Plattform vorgestellt, die KI-Agenten Einblick in Mails, Termine und Chats eines Unternehmens gibt. Satya Nadella sagte dabei offen, man könne der Technik nicht vertrauen.",
+          "body": [
+            "Microsoft-Chef Satya Nadella hat am Dienstag auf der Konferenz Ignite die allgemeine Verfügbarkeit von Word, Excel und PowerPoint innerhalb von Copilot angekündigt. Er beschrieb Copilot als „das neue Betriebssystem für die Arbeit“. Nutzer können Dokumente, Tabellen und Präsentationen direkt im Assistenten erzeugen, die Dateien bleiben in den klassischen Office-Programmen bearbeitbar. Laut Ars Technica sieht Microsoft die Anwendungen künftig als Bausteine, die KI-Agenten bei ihrer Arbeit nutzen, statt umgekehrt.",
+            "Ebenfalls allgemein verfügbar ist Microsoft IQ, eine Plattform, zu der Work IQ gehört. Diese Kontextschicht soll Agenten helfen, die Kommunikation, Beziehungen und laufenden Projekte eines Unternehmens zu verstehen. Nadella nannte Work IQ womöglich die wertvollste Datenbank einer Firma, weil sie Menschen, ihre Beziehungen, E-Mails, Besprechungen, Chats und Projekte abbilde. Ob Unternehmen autonomen Agenten diesen Zugriff geben wollen, müssen ihre IT-Abteilungen entscheiden.",
+            "Bemerkenswert offen sprach Nadella über Vertrauen. „Alignment ist schwer zu fassen, ein mechanistisches Verständnis dieser Modelle ist schwer zu fassen. Die Frage ist: Wie kann man dieser mächtigen Technik überhaupt vertrauen? Die Wahrheit ist: per Definition gar nicht“, sagte er. Microsofts Antwort ist Kontrolle statt Vertrauen. Agent 365, die bestehende Verwaltungszentrale für KI-Agenten, soll deren Verhalten überwachen und begrenzen, nach Microsofts Worten „autonom in der Ausführung, aber begrenzt und beaufsichtigt“. Dazu kommt eine Initiative für KI-Transparenz mit mehr als 40 Firmen, darunter Adobe und Mastercard, die offene Standards für KI-Governance entwickeln soll.",
+            "Neu ist auch Agent 365 Business Analytics, das Nadella als „ERP-System der KI-Nutzung“ beschrieb. Es soll zeigen, was KI-Tokens kosten und welchen Nutzen sie bringen. Microsoft räumte ein, dass die eingesparten Arbeitsstunden von einem Modell geschätzt und nicht gemessen werden. Judson Althoff, Chef des kommerziellen Geschäfts, behauptete dennoch, alles, was man mit Claude oder ChatGPT tun könne, gehe mit Copilot besser und billiger.",
+            "Den Großausfall der vergangenen Woche, der Exchange Online und Teams weltweit lahmlegte, sprach Nadella selbst an. Er sei eine Erinnerung daran, wie wichtig digitale Infrastruktur als „Freizeichen der Welt“ sei. „Ich weiß, dass wir Arbeit vor uns haben“, sagte er."
+          ],
+          "highlight": "Microsofts Antwort ist Kontrolle statt Vertrauen.",
+          "assessment": [
+            "Das ist die wichtigste Verschiebung bei Microsoft seit Jahren: Office ist nicht mehr das Produkt, sondern Zubehör für einen Agenten. Wer die Kontrolle über Copilot hat, kontrolliert künftig den Arbeitsplatz. Dass Microsoft dafür den Zugriff auf alle Mails, Chats und Termine einer Firma braucht, ist der eigentliche Kern des Geschäftsmodells.",
+            "Nadellas Satz, man könne der Technik per Definition nicht vertrauen, ist ungewöhnlich ehrlich. Er verschiebt das Problem aber nur: Statt den Modellen sollen Kunden nun Microsofts Kontrollwerkzeugen vertrauen, eine Woche nachdem ein Netzumbau fast einen Tag lang Outlook und Teams lahmgelegt hat. Und die Zahlen zum Nutzen der KI stammen ausgerechnet von einem Modell."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+            "alt": "Satya Nadella auf der Bühne der Ignite vor einer Leinwand mit der Aufschrift „Perception“",
+            "credit": "Microsoft",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+          }
+        },
+        {
+          "title": "Waymo darf nicht mehr auf die Autobahn und stoppt die Fahrten landesweit",
+          "lead": "Die kalifornische Verkehrsbehörde DMV hat Waymo die Fahrt auf Autobahnen untersagt, weil Robotaxis wiederholt in aktive Baustellen fuhren. Waymo hat daraufhin die Autobahnfahrten in allen 15 US-Städten ausgesetzt.",
+          "body": [
+            "Waymos Robotaxis dürfen in Kalifornien vorerst keine Autobahnen mehr befahren. Die Verkehrsbehörde DMV, die in dem Bundesstaat autonome Fahrzeuge zulässt, hat die Einschränkung laut TechCrunch bereits am 11. November erlassen, öffentlich wurde sie erst am Dienstag durch einen Bericht des San Francisco Business Times. Anlass waren drei Waymo-Fahrzeuge, die auf dem U.S. Highway 101 bei Burlingame in eine abgesperrte Baustelle fuhren, sowie ein weiterer Vorfall mit Fahrzeugen der Highway Patrol auf dem Highway 280 in San Francisco.",
+            "Die Behörde wählte deutliche Worte. Waymos fahrerlose Autobahnfahrten stellten „eine unmittelbare Gefahr für die öffentliche Sicherheit“ dar, weil die Fahrzeuge immer wieder in aktive Baustellen eindrangen, in denen Arbeiter, Fahrzeuge und Geräte unterwegs sind. Und das, obwohl es nach ähnlichen Vorfällen am 18. Mai bereits Auflagen und Korrekturen gegeben habe. Die Einschränkung gilt, bis Waymo wirksame Gegenmaßnahmen nachweisen kann.",
+            "Waymo hat nicht nur in Kalifornien reagiert, sondern die Autobahnfahrten in allen Märkten ausgesetzt, auch außerhalb des Bundesstaats. Das Unternehmen bietet kommerzielle Fahrten in 15 US-Städten an. Eine Sprecherin betonte, bei den Vorfällen auf dem Highway 101 sei niemand verletzt worden und es habe keine Kollisionen gegeben. Auf normalen Straßen fahre der Dienst weiter und komme auf mehr als eine halbe Million Fahrten pro Woche.",
+            "Für Waymo ist das ein empfindlicher Rückschlag. Autobahnfahrten bietet das Unternehmen erst seit Ende 2025 an, sie sind wichtig für Fahrten zu Flughäfen und vor allem in der Bay Area, wo das Gebiet von San Francisco bis ins Silicon Valley reicht. Strecken über die Halbinsel, die früher 45 Minuten oder mehr als eine Stunde dauerten, wurden dadurch deutlich kürzer. Schon im Mai hatte Waymo die Autobahnfahrten abrupt eingestellt, nachdem in sozialen Medien Videos von Robotaxis kursierten, die durch Pylonen fuhren. Im Juli kehrten sie nach einem Software-Update zurück."
+          ],
+          "highlight": "Waymos fahrerlose Autobahnfahrten stellten „eine unmittelbare Gefahr für die öffentliche Sicherheit“ dar, weil die Fahrzeuge immer wieder in aktive Baustellen eindrangen, in denen Arbeiter, Fahrzeuge und Geräte unterwegs sind.",
+          "assessment": [
+            "Baustellen sind seit jeher die Schwachstelle autonomer Autos: Sie sind unordentlich, ändern sich täglich und folgen keinen festen Regeln. Dass Waymo das Problem im Mai angeblich behoben hatte und nun wieder daran scheitert, ist peinlich und zeigt, wie schwer der letzte Rest an Sonderfällen zu knacken ist.",
+            "Bemerkenswert ist, dass Waymo freiwillig landesweit stoppt. Das ist kluge Schadensbegrenzung, denn ein Unfall mit Bauarbeitern in Texas oder Arizona wäre für die ganze Branche verheerend. Die Behörden haben hier ihre Arbeit getan, und ausgerechnet das tröstet ein wenig: Die Aufsicht funktioniert."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
+            "alt": "Ein Waymo-Robotaxi auf einer Autobahn in San Francisco",
+            "credit": "Waymo",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+          }
+        },
+        {
+          "title": "Anthropic vor dem Börsengang: Amazon und Google besitzen zusammen fast 30 Prozent",
+          "lead": "Neue Unterlagen zum Börsengang von Anthropic zeigen, wie groß die Anteile der beiden Cloud-Konzerne sind. Amazon könnte sogar fast ein Viertel der Firma halten, wenn es alle Wandelanleihen umtauscht.",
+          "body": [
+            "Anthropic hat am Dienstag weitere Einzelheiten zu seinen wichtigsten Investoren offengelegt. Nach dem Börsengang wird Amazon laut TechCrunch 14,7 Prozent des Unternehmens besitzen, Google 13,7 Prozent. Zusammen sind das knapp 30 Prozent. Beide Konzerne halten stimmrechtslose Aktien, die Dividenden erhalten und beim Verkauf in normale Stammaktien mit Stimmrecht umgewandelt werden.",
+            "Amazon hätte noch mehr haben können. Bei seinen Milliardeninvestitionen 2023 und 2024, lange bevor Claude Code im Unternehmensgeschäft durchstartete, erhielt der Konzern Schuldscheine, die sich in Aktien umwandeln lassen. Die Umtauschpreise liegen je nach Jahr bei etwa 2,09 oder 5,05 Dollar pro Aktie. Einen Teil hat Amazon nun umgetauscht, einen anderen behält es vorerst. Würde es alle sofort umwandeln, gehörten ihm 23,8 Prozent von Anthropic.",
+            "Googles Anteil stammt aus umgewandelten Schuldscheinen und einer Privatplatzierung im Rahmen des Börsengangs. Eine Gruppe großer Technologiefirmen, nämlich AMD, Broadcom, Google, Micron, Microsoft, Nvidia und TSMC Partners, hat zugesagt, stimmrechtslose Aktien für 26 Milliarden Dollar zu kaufen. Google und Nvidia übernehmen davon jeweils 10 Milliarden.",
+            "Amazon profitiert doppelt: Neben dem Wertzuwachs der Beteiligung hat Anthropic zugesagt, in den nächsten zehn Jahren mehr als 100 Milliarden Dollar für die Cloud-Dienste von AWS auszugeben."
+          ],
+          "highlight": "Würde es alle sofort umwandeln, gehörten ihm 23,8 Prozent von Anthropic.",
+          "assessment": [
+            "Der Börsengang zeigt, wie eng die großen KI-Labore mit den Cloud-Konzernen verflochten sind. Das Geld fließt im Kreis: Amazon investiert, Anthropic kauft dafür Rechenleistung bei Amazon, und Amazon verdient an beidem. Dass nun auch Nvidia, Microsoft und die Chiphersteller zeichnen, passt in dieses Muster.",
+            "Die stimmrechtslosen Aktien sind dabei kein Detail. Sie erlauben den Konzernen, enorm am Erfolg teilzuhaben, ohne formell mitzubestimmen, was auch Kartellwächter beruhigen soll. Wie unabhängig ein Unternehmen bleibt, dessen zwei größte Anteilseigner zugleich seine wichtigsten Lieferanten sind, wird man erst in der ersten echten Krise sehen. Zur Einordnung: Dieses Heft wird mit einem Modell von Anthropic geschrieben."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+            "alt": "Amazon-Chef Andy Jassy bei einer Premiere",
+            "credit": "Kevin Winter / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Game Awards 2026: GTA 6 führt mit acht Nominierungen, zwei Tage vor dem Start",
+          "lead": "Rockstars Spiel ist in acht Kategorien nominiert, darunter Spiel des Jahres, obwohl es erst am Donnerstag erscheint. Nebenbei wurde so bekannt, wer Lucia spielt. Sony geht beim Hauptpreis erstmals seit elf Jahren leer aus.",
+          "body": [
+            "Die Nominierungen für die Game Awards 2026 stehen fest, und an der Spitze steht ein Spiel, das noch niemand kaufen kann. Grand Theft Auto 6 ist laut Eurogamer achtmal nominiert: als Spiel des Jahres, für Regie, Erzählung, Art Direction, Musik, Audio-Design, als bestes Action-Adventure und für die beste schauspielerische Leistung. Möglich ist das, weil die Jury aus mehr als 160 Medien und Creatorn besteht, die teils vorab Zugang zu Spielen bekommen.",
+            "Um den Hauptpreis konkurriert GTA 6 mit 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem und dem Remake von The Legend of Zelda: Ocarina of Time. Nintendo ist mit zwölf Nominierungen der erfolgreichste Publisher, vor Capcom mit elf sowie Annapurna Interactive und PlayStation mit je neun. Xbox kommt auf acht.",
+            "Die Nominierung für die beste Leistung brachte nebenbei eine lange gehütete Information ans Licht: Lucia Caminos, eine der beiden Hauptfiguren, wird von Manni L. Perez gespielt. Gerüchte darüber gab es seit Monaten, Perez war Fragen dazu in ihren Livestreams stets ausgewichen. Sie hatte bisher Gastrollen in Serien wie Law & Order: Special Victims Unit, Chicago P.D. und The Blacklist und hat bereits für GTA Online gesprochen. Wer ihren Partner Jason Duval spielt, bleibt offen. GTA 6 erscheint am 19. November für PS5 und Xbox Series X/S und kann bereits vorgeladen werden.",
+            "Für Sony endet eine Serie: Zum ersten Mal seit den Game Awards 2015 ist kein von Sony veröffentlichtes Spiel als Spiel des Jahres nominiert, berichtet VGC. Marvel's Wolverine bekam überwiegend gute Kritiken, aber weniger Lob als frühere Insomniac-Spiele. Es ist nun für die beste Leistung (Liam McIntyre als Wolverine) und für Barrierefreiheit nominiert. Saros tritt als bestes Actionspiel an, Marathon im Mehrspieler-Bereich, God of War Laufey als meisterwartetes Spiel.",
+            "Die Gewinner werden am Donnerstag, 10. Dezember, im Peacock Theater in Los Angeles bekanntgegeben. Fans können bis zum 9. Dezember auf der Website abstimmen. Die Show wird kostenlos auf mehr als 40 Plattformen übertragen, im vergangenen Jahr kam sie auf geschätzt 171 Millionen Livestreams."
+          ],
+          "highlight": "Zum ersten Mal seit den Game Awards 2015 ist kein von Sony veröffentlichtes Spiel als Spiel des Jahres nominiert, berichtet VGC.",
+          "assessment": [
+            "Dass ein Spiel vor seiner Veröffentlichung als Spiel des Jahres nominiert wird, wirkt absurd, ist aber folgerichtig: Die Jury hat es offenbar gespielt, und niemand rechnet ernsthaft damit, dass GTA 6 enttäuscht. Trotzdem bleibt ein schaler Beigeschmack, weil das Publikum schon abstimmen darf, bevor es selbst eine Minute gespielt hat.",
+            "Spannender ist das Signal für Sony. Die PlayStation-Studios galten jahrelang als Abonnement auf Preise. Dass ausgerechnet Wolverine nur Nebenkategorien erreicht und Nintendo mit einem Remake im Rennen ist, passt zu dem Eindruck, dass Sonys teure Prestigeproduktionen gerade an Strahlkraft verlieren."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/for-the-first-time-in-11-years-sony-doesnt-have-a-goty-nomination-at-the-game-awards/"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-17-at-18.56.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Die Trophäe der Game Awards neben einem Motiv aus GTA 6 mit einem Paar am Strand bei Sonnenuntergang",
+            "credit": "The Game Awards / Rockstar Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6"
+          }
+        },
+        {
+          "title": "Firaxis entlässt ein Drittel der Belegschaft, das neue XCOM steckt in Schwierigkeiten",
+          "lead": "Take-Two hat beim Civilization-Studio Firaxis rund 60 Stellen gestrichen, Studiochefin Heather Hazen geht. Laut Bloomberg hat das unangekündigte XCOM einen wichtigen Meilenstein verfehlt.",
+          "body": [
+            "Firaxis Games, das Studio hinter Civilization und XCOM, hat rund 60 Beschäftigte entlassen, etwa ein Drittel der Belegschaft. Das berichtet Bloomberg unter Berufung auf informierte Personen, Take-Two bestätigte die Kürzungen. Auch Studiochefin Heather Hazen verlässt das Unternehmen, wie ein Sprecher von 2K, dem Label von Take-Two, dem Firaxis gehört, bestätigte.",
+            "Nach Angaben der Quellen hatte ein noch nicht angekündigtes XCOM-Spiel mit Problemen zu kämpfen und im Sommer einen wichtigen Meilenstein verpasst. Das Projekt werde fortgesetzt, könnte durch die Kürzungen aber umgebaut werden. Es wäre das erste XCOM seit Chimera Squad aus dem Jahr 2020.",
+            "2K erklärte, Firaxis richte sich neu auf seine Kernstärke aus, Strategiespiele, die seit 30 Jahren den Standard des Genres setzten. Das Studio werde verkleinert, um sich auf Design, Technik und Spielerlebnis zu konzentrieren. „Diese Entscheidungen sind nie leicht, aber sie sind notwendig, um das nächste Kapitel von Firaxis aufzuschlagen.“",
+            "Die letzte Veröffentlichung, Civilization 7, kam bei der Kritik gut an, bei Spielern aber gemischt, und verkaufte sich laut Take-Two zunächst schleppend. Take-Two-Chef Strauss Zelnick räumte im Mai ein, man habe es mit Civ 7 „falsch gemacht“, man sei aus Sicht der Kunden einen Schritt zu weit gegangen. Im September kündigte Firaxis ein Update zum Atomzeitalter und die erste kostenpflichtige Erweiterung Earthrise für das kommende Jahr an. Es ist nicht die erste Kürzungsrunde: Schon 2023 fielen rund 30 Stellen weg, im September 2025 weitere.",
+            "Der Zeitpunkt fällt auf: Die Entlassungen kommen zwei Tage vor dem Start von GTA 6, das bei Take-Two über das Label Rockstar erscheint und schon jetzt als meistvorbestelltes Spiel aller Zeiten auf PlayStation und Xbox gilt."
+          ],
+          "highlight": "Nach Angaben der Quellen hatte ein noch nicht angekündigtes XCOM-Spiel mit Problemen zu kämpfen und im Sommer einen wichtigen Meilenstein verpasst.",
+          "assessment": [
+            "Das Bild ist bitter: Take-Two steht vor dem wohl größten Verkaufsstart der Spielegeschichte und streicht zugleich einem seiner traditionsreichsten Studios ein Drittel der Leute. Konzernlogik trennt die Bereiche sauber, aber es zeigt, dass Erfolg bei Rockstar niemandem bei 2K Schutz bietet.",
+            "Für Strategiefans ist die Nachricht doppelt schlecht. Civ 7 hat das Vertrauen der Stammkundschaft beschädigt, und ein XCOM, das schon vor den Kürzungen Meilensteine verfehlte, wird nach dem Verlust von 60 Leuten und der Studiochefin nicht schneller fertig."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/firaxis-layoffs-civilization-xcom-heather-hazen"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/11/Civilization-7.jpg",
+            "alt": "Szene aus Civilization 7",
+            "credit": "2K / Firaxis",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/take-two-lays-off-third-of-firaxis-staff/"
+          }
+        },
+        {
+          "title": "Ocarina of Time verkauft in den USA über eine Million Exemplare im Laden, in einer Woche",
+          "lead": "Das Remake für die Switch 2 ist das erste Spiel seit Tears of the Kingdom, das in den USA in der ersten Woche mehr als eine Million physische Exemplare verkauft. Lange halten wird der Rekord wohl nicht.",
+          "body": [
+            "Das Remake von The Legend of Zelda: Ocarina of Time hat den nächsten Rekord aufgestellt. Nach Angaben des Circana-Analysten Mat Piscatella verkaufte es in den USA in seiner Startwoche, die am 7. November endete, mehr als eine Million physische Exemplare. Damit ist es laut Eurogamer das meistverkaufte physische Spiel des Jahres in den USA und das erste seit Tears of the Kingdom von 2023, das diese Marke in der ersten Woche übertrifft. Drei Jahre lang hat das kein anderes Spiel eines Herstellers geschafft.",
+            "Schon zuvor war bekannt geworden, dass das Remake in vier Tagen 5,2 Millionen Mal verkauft wurde und damit das am schnellsten verkaufte Spiel der Switch 2 ist. Bei den Game Awards ist es zudem als Spiel des Jahres nominiert.",
+            "Die Zahl ist auch deshalb bemerkenswert, weil der Handel mit Datenträgern in den USA schrumpft. Im Juli hatte Piscatella berichtet, dass bis dahin nur sieben PlayStation-Spiele 2026 mehr als 100.000 physische Exemplare verkauft hatten. Sony hat angekündigt, die Herstellung von Spieldiscs bis Januar 2028 einzustellen. Nintendo-Spiele verkaufen sich traditionell besser im Laden als die anderer Hersteller.",
+            "Den Spitzenplatz wird Ocarina of Time vermutlich bald abgeben. Circana zählt auch Versionen ohne Disc, bei denen nur ein Download-Code in der Hülle steckt, als physische Exemplare. Damit dürfte GTA 6 das Remake rasch überholen."
+          ],
+          "highlight": "Drei Jahre lang hat das kein anderes Spiel eines Herstellers geschafft.",
+          "assessment": [
+            "Ein 28 Jahre altes Spiel als Neuauflage an die Spitze der Verkaufscharts zu bringen, kann nur Nintendo. Der Erfolg zeigt, wie viel Wert die Firma aus ihrem Katalog schöpfen kann, wenn sie ein Remake sorgfältig macht, statt es nur aufzuhübschen.",
+            "Interessant ist der Kontrast zu Sony: Während PlayStation die Disc abschafft, verkauft Nintendo Millionen Module im Laden. Dass Circana reine Code-Hüllen als physisch zählt, verwässert die Statistik allerdings, und der Abschied vom Datenträger geht leiser weiter, als die Zahl vermuten lässt."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/ocarina-of-time-link-collecting-bomb-bag.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Link findet im Remake von Ocarina of Time eine Bombentasche",
+            "credit": "Eurogamer / Nintendo",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million"
+          }
+        },
+        {
+          "title": "Roblox portiert fremde Spiele kostenlos auf seine Plattform, mit KI-Werkzeugen",
+          "lead": "Entwickler können sich bei Roblox bewerben, um ihre Unity- oder Unreal-Spiele umwandeln zu lassen. Die Firma verspricht, den Code nicht zum KI-Training zu nutzen.",
+          "body": [
+            "Roblox hat ein Programm gestartet, mit dem Entwickler bestehende Spiele kostenlos auf die Plattform bringen lassen können. Wie GamesIndustry.biz berichtet, hat Roblox nach Worten von Jim Greer, Senior Director für Game Solutions, „agentische Umwandlungswerkzeuge“ entwickelt, die Spiele auf Roblox übertragen. Das Programm stehe nun allen offen.",
+            "Bewerben können sich Entwickler mit Spielen aus jeder Engine, auch Unity und Unreal. Zunächst nimmt Roblox eine begrenzte Zahl von Entwicklern und Spielen für Mobilgeräte, PC und Konsole auf. Angenommene Studios müssen Quellcode und Assets bereitstellen. Roblox übernimmt die Umwandlung kostenlos, die Entwickler behalten die Rechte an Spiel, Marke und der Roblox-Fassung. Veröffentlicht wird nur, wenn sie das wollen.",
+            "Zum Datenschutz erklärte Roblox, man setze bei der Arbeit mit dem Code womöglich KI-gestützte Werkzeuge ein, die bereitgestellten Inhalte würden aber nicht zum Training oder Feintuning von KI-Modellen verwendet.",
+            "Das Programm ergänzt die im September vorgestellte Initiative Everywhere, mit der Roblox-Spiele als eigenständige Apps auf mehreren Plattformen erscheinen können. Außerdem sollen Entwickler bald einen Offline-Einzelspielermodus anbieten können, zunächst im Vorabzugang, vollständig ab Mitte 2027."
+          ],
+          "highlight": "Roblox übernimmt die Umwandlung kostenlos, die Entwickler behalten die Rechte an Spiel, Marke und der Roblox-Fassung.",
+          "assessment": [
+            "Roblox will vom Spielplatz für selbstgebaute Minispiele zur Plattform für alle werden, und das Programm ist ein cleverer Hebel dafür. Gerade kleine Studios mit fertigen Spielen bekommen Zugang zu einem riesigen jungen Publikum, ohne selbst in Lua und Roblox-Eigenheiten einzusteigen.",
+            "Der Preis ist der Quellcode. Das Versprechen, ihn nicht für KI-Training zu nutzen, ist wichtig, aber wer einmal komplette Projekte einer Plattform überlässt, macht sich abhängig. Wie gut die automatischen Umwandlungen tatsächlich sind, muss sich erst zeigen."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Roblox-Figuren machen ein Gruppenselfie im Garten einer Villa mit Pool",
+            "credit": "Roblox",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Neu zu Bond: Jeff Bezos war „stark beteiligt“, fünf Finalisten mussten zu klassischen Probeaufnahmen",
+          "lead": "Der Amazon-Gründer hat erzählt, wie Robert Pattinson zum neuen James Bond wurde. Anfangs habe man ihn sogar für zu berühmt gehalten. Kollegen wie Florence Pugh und Brad Pitt gratulieren, Ralph Fiennes trauert noch Daniel Craig nach.",
+          "body": [
+            "Einen Tag nach der Bekanntgabe, dass Robert Pattinson der neue James Bond wird, hat Jeff Bezos öffentlich über die Auswahl gesprochen. „Ich war stark beteiligt“, sagte der Amazon-Gründer laut Deadline auf der Semafor-Konferenz Silicon Valley & The World. Man habe einen sehr straffen Prozess geführt und die endgültige Entscheidung am Freitag getroffen.",
+            "Aus einer großen Gruppe sei man auf fünf Finalisten gekommen, die dann „ganz altmodische“ Probeaufnahmen absolvierten: in vollem Kostüm, an echten Sets, mit anderen Schauspielern und jeweils drei Szenen. Am Freitag habe man sich einige Stunden die Aufnahmen angesehen. „Es war etwas Besonderes an Rob Pattinson und seinen Darstellungen, das war sofort unumstritten“, sagte Bezos. Auch Regisseur Denis Villeneuve habe sich zu ihm hingezogen gefühlt. „Anfangs waren wir übrigens ein wenig gegen ihn eingenommen, weil er schon so berühmt ist. Wir dachten, vielleicht sollten wir jemanden nehmen, der unbekannter ist. Aber bei den Probeaufnahmen war es so offensichtlich: Er ist James Bond.“",
+            "Villeneuve selbst erklärte, er sei überglücklich, Pattinson als neuen Bond zu begrüßen: Er habe „die zeitlose Seele von 007“ und bringe einen völlig neuen Geist mit. Aus Hollywood kamen viele Glückwünsche, wie der Hollywood Reporter zusammenträgt. Florence Pugh, die mit Pattinson in „Dune: Part Three“ spielt, sagte, er sei in ihrem Haushalt „schon lange die Nummer eins“ gewesen. Brad Pitt reagierte bei der Premiere von „The Further Mis-Adventures of Cliff Booth“ überrascht: „Ich liebe diese Idee. Er ist echt. Gute Wahl.“ Rami Malek, mit Pattinson befreundet, sei „unglaublich stolz“.",
+            "Nicht alle jubeln ohne Vorbehalt. Ralph Fiennes, der in drei Bond-Filmen M spielte, erfuhr von der Besetzung live in einer Radiosendung bei Andy Cohen. „Tut mir leid, ich bin immer noch in Daniel Craig verliebt. Das tut weh im Herzen“, sagte er, fügte aber hinzu, Pattinson sei ein großartiger Schauspieler und werde sicher großartig sein. Auch die Erben Ian Flemings begrüßten Pattinson in der „Bond-Familie“."
+          ],
+          "highlight": "„Anfangs waren wir übrigens ein wenig gegen ihn eingenommen, weil er schon so berühmt ist.",
+          "assessment": [
+            "Dass der Gründer von Amazon selbst bei Probeaufnahmen mitentscheidet, sagt viel darüber, wie Bond heute funktioniert: nicht mehr als Familienunternehmen der Broccolis, sondern als Chefsache eines Konzerns. Bezos' Schilderung klingt sympathisch altmodisch, kostümierte Probeaufnahmen statt Algorithmen, aber sie zeigt auch, wer künftig das letzte Wort hat.",
+            "Die Sorge, Pattinson sei zu berühmt, ist nachvollziehbar, aber unbegründet. Er hat nach Twilight eine der klügsten Karrieren seiner Generation gemacht, mit Regisseuren wie Claire Denis, den Safdies und Christopher Nolan, und er verschwindet in Rollen. Zusammen mit Villeneuve ist das eine Kombination, die mehr Kunst als Marke verspricht."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/hollywood-celebs-react-robert-pattinson-james-bond-casting-1236757856/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg?w=1000",
+            "alt": "Jeff Bezos bei der Oscar-Party von Vanity Fair",
+            "credit": "Amy Sussman / Getty Images for Vanity Fair",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/"
+          }
+        },
+        {
+          "title": "Villeneuve über „Dune: Part Three“: „Ich habe etwas noch Besseres geschafft“",
+          "lead": "Einen Monat vor dem Kinostart sagt Denis Villeneuve, der dritte Dune-Film sei sein bester. Der Film nach „Dune Messiah“ startet am 18. Dezember.",
+          "body": [
+            "Denis Villeneuve hält den Abschluss seiner Dune-Trilogie für seinen bisher besten Teil. Im Podcast „One More Question“ von GQ sagte er laut Deadline, der zweite Film sei deutlich besser gewesen als der erste, weil er dazugelernt habe und das Erzählen besser gewesen sei. Der erste sei kontemplativer gewesen, absichtlich, doch er habe in etwas „Muskulöseres“ übergehen wollen. „Und ich habe das Gefühl, dass mir mit dem dritten etwas noch Besseres gelungen ist.“",
+            "„Als Künstler habe ich das Gefühl, dass ich etwas erreichen konnte, was mir in den ersten beiden nicht gelungen ist“, sagte Villeneuve weiter. „Da ist Spannung. Da ist eine emotionale Reise, die stark ist, und darüber bin ich sehr glücklich.“ Wie das Publikum den Film aufnehme, wisse er nicht, aber als Filmemacher sei er zufrieden, dass es eine Entwicklung gebe.",
+            "„Dune: Part Three“ kommt am 18. Dezember in die Kinos. Villeneuve schrieb das Drehbuch zusammen mit Brian K. Vaughan, Vorlage ist Frank Herberts Roman „Dune Messiah“. Zur Besetzung gehören Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Charlotte Rampling, Anya Taylor-Joy, Javier Bardem und Robert Pattinson, neu dabei sind Nakoa-Wolf Momoa und Ida Brooke. Beim BFI IMAX in London stellte der Film laut Deadline bereits einen Rekord auf: 33.000 Karten in den ersten 24 Stunden des Vorverkaufs.",
+            "Für Villeneuve ist es ein Jahr der Superlative. Einen Tag zuvor war bekannt geworden, dass er bei Amazon den nächsten Bond-Film inszeniert, mit Robert Pattinson in der Hauptrolle, der auch in „Dune: Part Three“ zu sehen ist."
+          ],
+          "highlight": "„Und ich habe das Gefühl, dass mir mit dem dritten etwas noch Besseres gelungen ist.“",
+          "assessment": [
+            "Regisseure loben ihre neuen Filme immer, das gehört zum Geschäft. Bei Villeneuve ist es trotzdem interessant, weil er sonst eher zurückhaltend und selbstkritisch spricht und den Satz mit einem ehrlichen Zweifel verbindet, wie das Publikum reagiert.",
+            "„Dune Messiah“ ist das schwierigste Buch für eine Verfilmung: Es dekonstruiert den Helden, den die ersten Filme aufgebaut haben, und hat kaum große Schlachten. Wenn Villeneuve von Spannung und emotionaler Reise spricht statt von Spektakel, ist das ein gutes Zeichen. Es deutet darauf hin, dass er den Mut hat, Paul Atreides als das zu zeigen, was Herbert in ihm sah: eine Warnung."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/denis-villeneuve-dune-part-three.jpg?w=1024",
+            "alt": "Regisseur Denis Villeneuve bei einem Auftritt",
+            "credit": "Matt Winkelmeyer / Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/"
+          }
+        },
+        {
+          "title": "„Die Tribute von Panem: Sunrise on the Reaping“: Drei Generationen bei der Premiere, die Kritik ist skeptisch",
+          "lead": "Bei der Weltpremiere in New York versammelte Francis Lawrence Darsteller aus allen Panem-Filmen, darunter Jennifer Lawrence und Josh Hutcherson. IndieWire hält den neuen Film über den jungen Haymitch für zu lang und zu düster.",
+          "body": [
+            "Die Weltpremiere von „The Hunger Games: Sunrise on the Reaping“ am Montagabend in der Alice Tully Hall des Lincoln Center in New York wurde zum großen Wiedersehen. Regisseur Francis Lawrence sprach laut Deadline von einem „historischen“ Abend: „Drei Generationen von Schauspielern aus den Tributen von Panem sind hier. Alle sind gekommen.“ Neben dem neuen Ensemble mit Joseph Zada, Whitney Peak, Ralph Fiennes, Glenn Close, Jesse Plemons, Elle Fanning, Kieran Culkin und Maya Hawke waren Tom Blyth und Rachel Zegler aus dem Vorgängerfilm da, außerdem Elizabeth Banks, Jena Malone, Amandla Stenberg, Woody Harrelson, Josh Hutcherson und Jennifer Lawrence.",
+            "Der Film basiert auf Suzanne Collins' Roman von 2025 und ist der sechste der Reihe. Er spielt 24 Jahre vor Katniss' Geschichte, am Tag der Ernte für die 50. Hungerspiele, das zweite Jubel-Jubiläum, bei dem doppelt so viele Tribute ausgelost werden, 48 Kinder. Unter ihnen ist der 16-jährige Haymitch Abernathy aus Distrikt 12, später der trinkende Mentor, den Woody Harrelson spielte. Francis Lawrence hat alle Filme der Reihe seit „Catching Fire“ inszeniert, „14 Jahre meines Lebens“, wie er sagte.",
+            "Die erste große Kritik fällt verhalten aus. IndieWire nennt den Film düsterer und grauer als die Vorgänger, mit 158 Minuten zu lang, visuell matschig und erzählerisch trübsinnig. Fans der Reihe könnten gefesselt sein, alle anderen blieben außen vor. Actionsequenzen gingen oft in einem CGI-Strudel unter, der an Marvel-Schlachten erinnere, und viele Nebenfiguren seien überzogen gespielt, besonders Glenn Close und Kieran Culkin als Bewohner des Kapitols. Ralph Fiennes bekomme als Präsident Snow kaum Material. Lob gibt es für Elle Fanning als junge Effie Trinket und für Jesse Plemons als Kameramann der Spiele.",
+            "Interessant findet die Kritik, dass der Film am Rand die Frage aufwirft, wie Bilder manipuliert und sogar gefälscht werden können: Haymitchs Spiele werden für die Übertragung so geschnitten und mit Deepfakes bearbeitet, dass sie wie Propaganda für das Kapitol wirken. Am Erfolg zweifelt IndieWire dennoch nicht: Der Film werde eine „hysterische Summe“ einspielen und könnte Joseph Zada zum Star machen."
+          ],
+          "highlight": "Haymitchs Spiele werden für die Übertragung so geschnitten und mit Deepfakes bearbeitet, dass sie wie Propaganda für das Kapitol wirken.",
+          "assessment": [
+            "Die Premiere zeigt, wie Lionsgate die Reihe inzwischen versteht: als Familiensaga über Generationen, mit Nostalgie als Verkaufsargument. Dass Jennifer Lawrence und Josh Hutcherson kommen, sagt mehr über die Marketingstrategie als über den Film.",
+            "Die Kritik klingt nach einem bekannten Muster bei späten Franchise-Filmen: handwerklich solide, aber aufgebläht. Schade wäre es um das Deepfake-Motiv, das 2026 aktueller kaum sein könnte. Wenn der Film daraus mehr macht als eine Randnotiz, könnte er relevanter sein, als die erste Rezension vermuten lässt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDHUGA_LG062.jpg?w=650",
+            "alt": "Szene aus „The Hunger Games: Sunrise on the Reaping“",
+            "credit": "Lions Gate / Courtesy Everett Collection",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/"
+          }
+        },
+        {
+          "title": "Skydance baut die Filmspitze von Paramount und Warner Bros. um",
+          "lead": "Don Granger und die Netflix-Managerin Kira Goldberg leiten künftig Paramounts Filmsparte, Jesse Ehrman wird Präsident von Warner Bros. Pictures. Beide Studios sollen deutlich mehr Filme produzieren.",
+          "body": [
+            "Nach der Übernahme von Warner Bros. hat Skydance die Führung seiner beiden Filmstudios neu geordnet. Laut IndieWire werden Don Granger, ein langjähriger Skydance-Manager, und Kira Goldberg, bisher in der Filmsparte von Netflix, Präsidenten der Paramount Motion Picture Group. Bei Netflix betreute Goldberg unter anderem „Don't Look Up“ und die kommenden Filme „Bad Day“ mit Cameron Diaz und „The Take“ mit Denzel Washington und Robert Pattinson, zuvor arbeitete sie bei Fox an „The Greatest Showman“ und „Bohemian Rhapsody“.",
+            "Bei Warner Bros. wird Jesse Ehrman zum Präsidenten von Warner Bros. Pictures befördert, Mikey Ireland bleibt Produktionschef. Ehrman war an Erfolgen wie „A Minecraft Movie“ und „Sinners“ beteiligt. Ihre Aufgabe ist es laut IndieWire, die Filmproduktion zu stabilisieren und Reihen wie „Der Herr der Ringe“ und „The Conjuring“ wiederzubeleben oder fortzusetzen. Bei Skydance sei man über die Verluste entsetzt, die die im Oktober abgesetzten Studiochefs Pam Abdy und Michael De Luca angehäuft hätten, Quellen schätzen sie auf Hunderte Millionen Dollar. Zu den Flops zählt IndieWire „Digger“ und „The Bride!“.",
+            "Weitere Personalien: Der langjährige Verleihchef Jeff Goldstein geht in den Ruhestand, Animationschef Bill Damaschke verlässt Warner Bros. Pictures Animation. Übergangsweise leiten Jennifer Dodge und Traci Balthazor die Animation beider Studios. Richard Brener bleibt Chef von New Line, wo zuletzt „Weapons“ entstand. Erst vergangene Woche hatte Skydance den Abgang von James Gunn und Peter Safran bei DC Studios bekanntgegeben, Nachfolger ist der frühere Marvel-Manager Jeremy Latcham.",
+            "Granger und Goldberg berichten an Dana Goldberg und Josh Greenstein, die Chefs der Skydance-Filmgruppe. Der Auftrag lautet, mehr Filme in Produktion zu bringen: Um die Fusion durchzusetzen, hatte David Ellison zugesagt, jährlich mehr als 30 Filme herauszubringen, weit mehr als jedes klassische Studio."
+          ],
+          "highlight": "Um die Fusion durchzusetzen, hatte David Ellison zugesagt, jährlich mehr als 30 Filme herauszubringen, weit mehr als jedes klassische Studio.",
+          "assessment": [
+            "Innerhalb weniger Wochen hat Skydance fast die gesamte kreative Spitze von Warner Bros. ausgetauscht: erst Abdy und De Luca, dann Gunn und Safran, jetzt Verleih und Animation. Das ist mehr als eine Personalrunde, es ist ein Kulturwechsel weg von Studiochefs, die Filmemachern vertrauten, hin zu Managern, die Ergebnisse liefern sollen.",
+            "Die Zusage von mehr als 30 Filmen pro Jahr klingt gut für Kinos, aber in Verbindung mit dem Spardruck und der Fixierung auf Franchises wie Herr der Ringe und Conjuring droht ein Studio, das viel produziert und wenig riskiert. Ausgerechnet Abdy und De Luca hatten mit „Sinners“ und „Weapons“ gezeigt, dass originelle Stoffe sich lohnen können."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
+            "alt": "Die Studiogelände von Paramount und Warner Bros.",
+            "credit": "Getty Images",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/"
+          }
+        },
+        {
+          "title": "„Der Grinch 2“ mit Jim Carrey: Ron Howard bremst, noch gibt es kein Drehbuch",
+          "lead": "Universal entwickelt eine Fortsetzung des Weihnachtsfilms von 2000. Regisseur Ron Howard sagt, er und Carrey machen nur weiter, wenn das Drehbuch großartig wird.",
+          "body": [
+            "Ron Howard hat die Erwartungen an eine Fortsetzung von „Der Grinch“ gedämpft. Der Hollywood Reporter hatte Anfang des Jahres exklusiv berichtet, dass Universal und Imagine Entertainment einen zweiten Teil mit Jim Carrey entwickeln. Nun sagte Howard dem Magazin People laut THR, er und Carrey würden nicht weitermachen, wenn sie nicht glaubten, ein großartiges Drehbuch zu haben, „und wir haben im Moment noch nicht einmal ein Drehbuch“.",
+            "Howard ist dennoch zuversichtlich. Man habe sehr gute Autoren und eine Idee, die gut zum Geist von Dr. Seuss mit seiner Mischung aus Komik und Fantasie passe. Laut THR schreiben Alec Berg, Jeff Schaffer und David Mandel am Drehbuch. „Aber ich will keine Versprechungen machen, denn Jim und ich sind uns in einem Punkt einig: Wir machen nur weiter, wenn es die Chance hat, großartig zu werden.“",
+            "Der Grund für die Vorsicht ist der Ruf des Originals. Howards Film von 2000 nach Dr. Seuss' Kinderbuch von 1957, mit Carrey als Grinch und Taylor Momsen als Cindy Lou Who, ist für viele Familien zum festen Weihnachtsritual geworden. „Wir sind so stolz auf den ersten Film“, sagte Howard. Es brauche Glück, damit ein Film zum Dauerbrenner werde.",
+            "Falls die Fortsetzung kommt, soll sie wieder eine Realverfilmung mit körperlicher Komik sein. Howard will Carrey die Arbeit diesmal aber erleichtern. Die Kontaktlinsen und Teile der Maske hätten Carrey „buchstäblich klaustrophobisch“ gemacht, zwischen den Aufnahmen habe er wegen Panikattacken in eine Papiertüte geatmet."
+          ],
+          "highlight": "„Aber ich will keine Versprechungen machen, denn Jim und ich sind uns in einem Punkt einig: Wir machen nur weiter, wenn es die Chance hat, großartig zu werden.“",
+          "assessment": [
+            "Das ist die richtige Haltung, und sie ist in Hollywood selten geworden. Die meisten Fortsetzungen von Kultfilmen entstehen, weil ein Studio die Marke nutzen will, nicht weil jemand eine Geschichte hat. Dass Howard und Carrey öffentlich die Notbremse ziehen, schützt beide.",
+            "Die Anekdote über Carreys Panikattacken unter der Maske ist dabei ein wichtiger Hinweis. Ein zweiter Grinch hängt nicht nur am Drehbuch, sondern daran, ob Carrey sich diese Tortur mit über 60 noch einmal antun will. Ehrlich gesagt: Man würde es ihm nicht übelnehmen, wenn nicht."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/MSDDRSE_UV005.jpg?w=1296&h=730&crop=1",
+            "alt": "Taylor Momsen als Cindy Lou Who und Jim Carrey als Grinch im Film von 2000",
+            "credit": "Courtesy of Everett Collection",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Baumringe und ein Vulkan in Alaska: Babylon fiel um 1587 vor Christus",
+          "lead": "Ein Forschungsteam hat die umstrittene Chronologie Mesopotamiens mit Jahrringen, Eisbohrkernen und babylonischen Venusbeobachtungen eingegrenzt. Nebenbei fand es eine Dürre, die zum Untergang der Hethiter beigetragen haben könnte.",
+          "body": [
+            "Über das alte Mesopotamien weiß die Forschung viel: Herrscher und ihre Reihenfolge sind gut dokumentiert, es gibt Königslisten, Verwaltungstexte, Inschriften und astronomische Beobachtungen. Nur die genauen Kalenderjahre sind seit Jahrzehnten umstritten. Je nachdem, welche astronomische Beobachtung man als Anker nimmt, ergeben sich unterschiedliche Zeitleisten, die Fachleute als hohe, mittlere, niedrige und ultraniedrige Chronologie bezeichnen. Das betrifft nicht nur Mesopotamien, denn über diese Daten sind auch der Nahe Osten und der östliche Mittelmeerraum im zweiten Jahrtausend vor Christus verbunden.",
+            "Ein Team um Charlotte Pearson von der University of Arizona hat die Auswahl nun laut Archaeology News deutlich eingegrenzt, die Studie erschien in den Proceedings of the National Academy of Sciences. Ausgangspunkt waren erhaltene Hölzer aus Fundorten in Anatolien, die über das altassyrische Handelsnetz mit Mesopotamien verbunden waren. Die Forschenden maßen Radiokarbon in einzelnen Jahrringen, Jahr für Jahr, und verglichen die Muster mit Bäumen bekannten Alters. So entstand eine anatolische Chronologie von 2072 bis 744 vor Christus.",
+            "Einige der Hölzer stammen aus Palästen, in denen auch Texte gefunden wurden, die sich bestimmten Jahren des assyrischen Kalenders zuordnen lassen. Der äußerste Jahrring zeigt, wann ein Baum gefällt wurde, und damit, wann ein Palast gebaut wurde. Zwei Paläste in der Türkei entstanden demnach um 1837 bis 1836 und um 1778 vor Christus.",
+            "Den zweiten Baustein lieferten babylonische Aufzeichnungen über die Venus. Zu bestimmten Zeiten war der Planet ungewöhnlich schlecht zu sehen, möglicherweise wegen vulkanischen Dunstes. Das Team verglich diese Lücken mit Spuren von Ausbrüchen in polaren Eisbohrkernen. Die beste Übereinstimmung ergab ein gewaltiger Ausbruch des Aniakchak in Alaska um 1628 bis 1627 vor Christus. Aus allen Daten zusammen ergibt sich eine klare Unterstützung für die sogenannte mittel-niedrige Chronologie. Danach fiel Babylon um 1587 vor Christus.",
+            "Die Jahrringe verrieten noch mehr. Von 1228 bis 1188 vor Christus war es ungewöhnlich trocken, mit einer schweren Dürre von 1194 bis 1192. Zwei Jahre danach wurde die hethitische Hauptstadt Hattuscha geplündert und niedergebrannt. Die Trockenheit könnte zum Zusammenbruch des Reiches beigetragen haben."
+          ],
+          "highlight": "Danach fiel Babylon um 1587 vor Christus.",
+          "assessment": [
+            "Das klingt nach einer Fußnote für Spezialisten, ist aber ein großer Schritt. Wer die Chronologie Mesopotamiens verschiebt, verschiebt auch die Daten von Ägypten, den Hethitern und der Ägäis, die über Briefe, Verträge und Handel daran hängen. Jahrzehntelang konnte man sich darüber nur mit Argumenten streiten, jetzt gibt es naturwissenschaftliche Belege aus drei unabhängigen Quellen.",
+            "Besonders reizvoll ist die Methode: Ein Vulkan in Alaska trübt den Himmel über Babylon, babylonische Astronomen notieren, dass die Venus schwer zu sehen ist, und dreieinhalb Jahrtausende später verbinden Forschende diese Notiz mit einer Ascheschicht im Eis. Geschichte wird hier zur Detektivarbeit über Kontinente hinweg."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/tree-rings-and-volcano-babylon-fell/"
+            },
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/17/mesopotamian-chronology-refined-with-tree-rings-and-ice-cores/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/tree-rings-babylon-fell-1.jpg",
+            "alt": "Die Rekonstruktion des blau gekachelten Ischtar-Tors im Pergamonmuseum Berlin",
+            "credit": "Wikimedia, CC BY-SA 4.0",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/tree-rings-and-volcano-babylon-fell/"
+          }
+        },
+        {
+          "title": "18.457 Skelette zeigen: Mit dem technischen Fortschritt wurden die Menschen kleiner",
+          "lead": "Forschende aus Tübingen und Jena haben die Körpergröße von Menschen über sieben Jahrtausende in Europa und Asien rekonstruiert. In den meisten Regionen schrumpften die Menschen über Jahrhunderte, obwohl die Technik besser wurde.",
+          "body": [
+            "Ein Team der Universität Tübingen und des Max-Planck-Instituts für Geoanthropologie in Jena hat Knochen von 18.457 Menschen aus 783 Fundorten in 45 Ländern Europas und Asiens ausgewertet. Aus der Länge der Oberschenkelknochen schätzten die Forschenden die Körpergröße, die Studie erschien laut Archaeology News in den Proceedings of the National Academy of Sciences. Die meisten Überreste stammen aus Gräbern gewöhnlicher Menschen, Männern und Frauen aus Städten und ländlichen Gegenden.",
+            "Die Methode schließt eine Lücke, denn schriftliche Quellen zu Lebensverhältnissen setzen in vielen Weltregionen spät ein. Die Körpergröße gilt als guter Maßstab für den Lebensstandard: Kinder, die genug gute Nahrung bekommen, wachsen im Rahmen ihrer genetischen Anlagen größer, erklärt die Tübinger Wirtschaftshistorikerin Manon Stephan.",
+            "Die Entwicklung verlief regional unterschiedlich. Männer in Südostasien waren vor 7000 Jahren im Schnitt etwa 1,78 Meter groß. Ihre Größe sank allmählich und lag im 19. Jahrhundert bei gut 1,60 Metern. Frauen in China maßen anfangs im Schnitt 1,57 Meter und schrumpften bis ins 19. Jahrhundert auf 1,48 Meter. In Nordeuropa verlief es zunächst umgekehrt: Vor 5000 Jahren waren Männer dort nur 1,62 Meter groß. Viehzüchter aus den Steppen Osteuropas und Westsibiriens brachten eine bessere Milchwirtschaft und die vererbte Laktosetoleranz mit, mehr Milchprodukte machten die Menschen größer. Ab dem frühen Mittelalter, etwa 500 bis 1000 nach Christus, sank die Körpergröße aber auch hier wieder, und der Rückgang hielt in Europa und den meisten anderen Regionen bis Ende des 19. Jahrhunderts an.",
+            "Ein Hauptergebnis: Bessere Technik machte die Menschen vor der Moderne nicht größer. Ein höheres technisches Niveau ging mit dichterer Besiedlung einher, nicht mit größerem Wuchs. Das gilt auch, wenn man Faktoren wie Breitengrad und Verkehrsanbindung herausrechnet, und bestätigt eine Vorhersage der Ökonomen Quamrul Ashraf und Oded Galor von 2011. Der Tübinger Wirtschaftshistoriker Jörg Baten nennt China als Beispiel: Neue ertragreiche Reissorten im 11. Jahrhundert stärkten das Reich, die Bevölkerung hatte nichts davon. Familien bekamen mehr Kinder, auch als Altersvorsorge, die Bevölkerungsdichte stieg, und jeder Einzelne hatte weniger und schlechtere Nahrung, auch weniger hochwertiges Eiweiß.",
+            "Nicht jede Veränderung lässt sich mit sozialen Bedingungen oder Landwirtschaft erklären, sagt der Archäologe Mark Hudson vom Max-Planck-Institut. Das müsse weiter erforscht werden, doch die Statistik zeige Trends und Hinweise, wann sich etwas veränderte."
+          ],
+          "highlight": "Ein höheres technisches Niveau ging mit dichterer Besiedlung einher, nicht mit größerem Wuchs.",
+          "assessment": [
+            "Die Studie liefert harte Zahlen für eine der unbequemsten Thesen der Wirtschaftsgeschichte: Fortschritt kam über Jahrtausende nicht bei den Menschen an, sondern wurde von mehr Menschen aufgezehrt. Erst die Industrialisierung durchbrach diese sogenannte malthusianische Falle. Dass man das nun an Oberschenkelknochen aus 45 Ländern ablesen kann, ist eindrucksvoll.",
+            "Lohnend ist der Blick auf die Ausnahme Nordeuropa, wo Milch und Laktosetoleranz die Menschen zunächst größer machten. Er zeigt, dass Ernährung und Kultur stärker wirkten als Werkzeuge und Maschinen. Ein guter Gedanke für eine Zeit, in der technischer Fortschritt gern automatisch mit besserem Leben gleichgesetzt wird."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/bones-show-height-fell-as-technology-advanced/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/height-fell-as-technology-1.jpg",
+            "alt": "Menschliche Knochen aus einer archäologischen Ausgrabung",
+            "credit": "Ann Hannes",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/bones-show-height-fell-as-technology-advanced/"
+          }
+        },
+        {
+          "title": "Alt-Dongola: Archäologen erreichen den Boden der größten Kirche des mittelalterlichen Nubien",
+          "lead": "Ein sudanesisch-polnisches Team hat in Sudan eine monumentale Treppe der Großen Jesuskirche freigelegt und erstmals den ursprünglichen Fußboden erreicht. Die Kirche war größer als das Weiße Haus.",
+          "body": [
+            "In Alt-Dongola im Norden Sudans hat ein sudanesisch-polnisches Team neue Teile der Großen Jesuskirche freigelegt, der größten und reichsten Kirche des mittelalterlichen Nubien. Laut Archaeology News legte die Grabung im vergangenen Winter eine monumentale Treppe ins Innere frei und erreichte zum ersten Mal den ursprünglichen Fußboden. Alt-Dongola war die Hauptstadt des christlichen Königreichs Makuria. Die Grabung leiten das Polnische Zentrum für Mittelmeerarchäologie der Universität Warschau und Sudans Antikenbehörde unter Professor Artur Obłuski.",
+            "Entdeckt wurde der Bau bereits 2021, ausgegraben ist erst ein kleiner Teil. Die Treppe ist die einzige Stelle, an der das Team den Boden erreicht hat. Die Mauern daneben stehen noch rund elf Meter hoch, weshalb weit tiefer gegraben werden muss als üblich. Bekannt ist bisher eine Breite von 47 Metern und eine Länge von etwa 57 Metern, die Höhe schätzt das Team auf rund 21 Meter. Die Kirche sei größer gewesen als das Weiße Haus in Washington, sagt Obłuski. In der nächsten Saison wollen die Forschenden die Gesamtgröße klären und den ganzen Bau freilegen.",
+            "Obłuski vergleicht die Kirche mit der Hagia Sophia in Konstantinopel, deren Bauweise spätere Architektur prägte. Die Große Jesuskirche könnte für Nubien und vielleicht andere Teile Afrikas eine ähnliche Vorbildrolle gespielt haben. Bisher galt eine Kirche außerhalb der Stadtmauern als Kathedrale von Dongola, deren Rolle muss nun neu bewertet werden.",
+            "Eine zweite Überraschung kam aus einer kleineren Kirche im Obergeschoss eines Anbaus. Ihre Mauern sind nur etwa einen Meter hoch erhalten, aber im Schutt lagen so viele bemalte Putzfragmente, dass sie inzwischen sechs große Regale füllen. Darunter sind Stücke mit griechischen Inschriften, die die Epigraphikerin Agata Deptuła als Teile biblischer Oden identifizierte, liturgische Gesänge, die dem Psalter angehängt sind. Ein Text stammt aus dem Gebet der Hanna, der Mutter des Propheten Samuel. Für Alt-Dongola sind diese Oden neu.",
+            "Die Grabung findet unter schwierigen Bedingungen statt. Im Herbst 2024 traf das schwerste Hochwasser seit 1988 den Ort und beschädigte Schutzdächer. Das Team stellte zudem eine Solaranlage fertig, die Pumpen für Nilwasser antreibt und rund 10.000 Menschen mit Wasser für Haushalte und Felder versorgt, acht Druckstationen bringen es zu höher gelegenen Gebieten, deren Bewohner durch den Krieg in Sudan den Zugang verloren hatten."
+          ],
+          "highlight": "Die Kirche sei größer gewesen als das Weiße Haus in Washington, sagt Obłuski.",
+          "assessment": [
+            "Das christliche Nubien ist eine der großen vergessenen Kulturen des Mittelalters. Makuria hielt sich jahrhundertelang als christliches Königreich am Nil, und eine Kathedrale dieser Größe zeigt, wie reich und selbstbewusst es war. Der Vergleich mit der Hagia Sophia ist kühn, aber er lenkt den Blick dahin, wo er hingehört: Afrika war Teil der christlichen Welt des Mittelalters, nicht ihr Rand.",
+            "Bemerkenswert ist, dass diese Forschung mitten im sudanesischen Bürgerkrieg weitergeht und dabei ganz praktisch hilft, mit Wasser für 10.000 Menschen. Archäologie, die mit der Bevölkerung arbeitet statt über ihre Köpfe hinweg, hat bessere Chancen, dass die Funde auch in Zukunft geschützt werden."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/original-floor-of-nubias-largest-cathedral-in-sudan/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/nubias-largest-cathedral-sudan-1.jpg",
+            "alt": "Luftaufnahme der Grabung in Alt-Dongola mit den Umrissen der Kathedrale",
+            "credit": "Adrian Chlebowski / Polnisches Zentrum für Mittelmeerarchäologie, Universität Warschau",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/original-floor-of-nubias-largest-cathedral-in-sudan/"
+          }
+        },
+        {
+          "title": "Kinderhände an 15.000 Jahre alten Tonfiguren: Die Natufier formten Ton lange vor dem Ackerbau",
+          "lead": "Eine Studie zu Tonfiguren aus drei Fundorten in Israel verlegt den Beginn dieser Kunst um bis zu 3000 Jahre zurück. Fingerabdrücke zeigen, dass Kinder unter zehn Jahren mitarbeiteten.",
+          "body": [
+            "Die Natufier, Jäger und Sammler, die vor etwa 15.000 bis 11.650 Jahren in der Levante lebten, formten kleine Vögel, Tiere und Menschen aus Ton, lange bevor jemand Ackerbau betrieb oder Keramik herstellte. Eine am 11. November in PLOS One veröffentlichte Studie verfolgt diese Tradition laut Archaeology News 15.000 Jahre zurück, bis zu 3000 Jahre früher als bisher angenommen. Die Natufier waren die ersten in Südwestasien, die in dauerhaften oder halbdauerhaften Dörfern lebten.",
+            "Das Team um Laurent Davin von der Hebräischen Universität Jerusalem untersuchte 154 Tonstücke aus Eynan-Mallaha im oberen Jordantal, von der Hayonim-Terrasse in Galiläa und der el-Wad-Terrasse am Berg Karmel. Bisher galt, dass natufische Figuren meist aus Knochen oder Stein geschnitzt wurden und Ton erst mit der Landwirtschaft vor rund 11.500 Jahren üblich wurde. Fünfzehn Stücke sind eindeutige Figuren, 139 zylindrische Fragmente gelten als Teile größerer Figuren.",
+            "Elf der fünfzehn Figuren stellen Vögel dar, die übrigen ein Säugetier, eine Gazelle und zwei Menschen. Manche Vögel sind schlichte Formen, andere haben sorgfältig gearbeitete Flügel, Schwänze und Federn. Einige sehen aus wie Enten und Gänse, andere wie Greifvögel. Bei einigen ist der Kopf nach unten und links geneigt, eine Haltung, die das Team mit dem Balzverhalten von Enten verbindet. Manche Stücke tragen rote oder orange Farbspuren, ein Fragment scheint das Gesichtsmuster einer Berggazelle zu zeigen. Eine 15.000 Jahre alte Figur trägt Engobe, eine dünne Schicht farbigen Tons, laut der Studie die früheste bekannte Anwendung dieser Technik.",
+            "Am aufschlussreichsten sind die Fingerabdrücke. Unter dem Mikroskop fand das Team Abdrücke von Erwachsenen und Kindern, manche wohl jünger als zehn Jahre. Eine Menschenfigur trägt zwei überlagerte Abdrücke, einen von einer jungen oder erwachsenen Frau und einen von einem Kind vor der Pubertät. Die Figur ging offenbar während der Arbeit zwischen beiden hin und her. Wo die Kinderabdrücke sitzen, zeigt, dass Kinder beim Formen und Bemalen halfen. Das Herstellen von Figuren war demnach auch eine Weitergabe von Fertigkeiten zwischen den Generationen.",
+            "„Diese Entdeckungen verändern, wie wir die Anfänge des künstlerischen Ausdrucks in den ersten Dörfern der Menschheit verstehen“, sagte Davin. Lange vor Landwirtschaft und Töpferei hätten Menschen Ton benutzt, um Figuren als Teil ihres Glaubens und ihres Wissens über die Natur zu schaffen."
+          ],
+          "highlight": "Eine Menschenfigur trägt zwei überlagerte Abdrücke, einen von einer jungen oder erwachsenen Frau und einen von einem Kind vor der Pubertät.",
+          "assessment": [
+            "Die Studie rüttelt an einer bequemen Erzählung, nach der erst die Landwirtschaft die großen Schritte in Kunst und Symbolik ermöglichte. Die Natufier zeigen, dass sesshafte Jäger und Sammler schon Jahrtausende vorher mit Ton experimentierten, bemalten und Techniken entwickelten, die man der Jungsteinzeit zuschrieb.",
+            "Berührend sind die Fingerabdrücke. Selten kommt man Menschen aus dieser Zeit so nahe wie bei einer Figur, die eine Frau und ein Kind gemeinsam geformt haben. Das ist kein Beweis für eine bestimmte Deutung, aber ein starkes Bild dafür, dass Lernen immer auch Spielen war."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News",
+              "url": "https://archaeologymag.com/2026/11/children-helped-adults-shape-natufian-figurines/"
+            },
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/16/natufian-clay-figurines-dated-to-15000-years-ago/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/children-natufian-figurines-1.jpg",
+            "alt": "Natufische Tonfiguren von Wasservögeln, einem Greifvogel und einer Szene aus Frau und Gans",
+            "credit": "Laurent Davin, CC BY 4.0",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/children-helped-adults-shape-natufian-figurines/"
+          }
+        },
+        {
+          "title": "Vergiftete Speerspitzen vor 125.000 Jahren? Neue Funde aus dem „grünen Arabien“",
+          "lead": "Am Ufer eines verschwundenen Sees in Saudi-Arabien haben Archäologen mehr als 5000 Artefakte und Tierknochen gefunden. Rückstände an Steinspitzen deuten auf Klebstoffe, Pflanzenfasern und womöglich Pflanzengift.",
+          "body": [
+            "An der Fundstelle Uruq Aljelibah in Saudi-Arabien lebten vor rund 125.000 Jahren Menschen, die ihre Steinspitzen womöglich vergifteten. Das berichtet das Magazin Archaeology unter Berufung auf Gizmodo. Die Grabung unter Leitung von Chris Clarkson von der Griffith University in Australien, zusammen mit der King Abdullah University of Science and Technology und der saudischen Heritage Commission, förderte mehr als 5000 Artefakte zutage.",
+            "Dazu kamen Fossilien von Flusspferden, Büffeln, Kamelen, Gazellen und Oryxantilopen. Sie lagen am Ufer eines einstigen großen Süßwassersees, des heutigen Mundafan-Seebetts, in einer Gegend, die heute zu den trockensten der Erde gehört.",
+            "An den hochentwickelten Waffen mit Steinspitzen haben sich organische Rückstände erhalten. Sie zeigen laut Clarkson, dass die Menschen Klebstoffe, Techniken mit Pflanzenfasern und vielleicht auch Pflanzengifte einsetzten, um die Jagd wirkungsvoller zu machen. „Es gibt uns ein ungewöhnlich detailliertes Bild des frühen menschlichen Lebens in einer der heute trockensten Regionen der Erde“, sagte er.",
+            "Die Studie legt außerdem nahe, dass manche der frühen Menschen, die Afrika verließen, im damals grünen Arabien blieben, während andere weiter nach Asien zogen."
+          ],
+          "highlight": "Sie zeigen laut Clarkson, dass die Menschen Klebstoffe, Techniken mit Pflanzenfasern und vielleicht auch Pflanzengifte einsetzten, um die Jagd wirkungsvoller zu machen.",
+          "assessment": [
+            "Wenn sich das Gift bestätigt, wäre es einer der frühesten Belege für eine Technik, die man lange für deutlich jünger hielt. Das „vielleicht“ ist allerdings wichtig: Rückstände von Pflanzen auf Steinspitzen lassen sich nicht immer eindeutig als Gift deuten, und die Quellenlage über ein Magazin aus zweiter Hand ist dünn.",
+            "Unabhängig davon zeigt der Fund, wie wichtig Arabien für die Frühgeschichte des Menschen ist. Die Wüste war einmal eine Landschaft mit Seen und Flusspferden, und sie war offenbar nicht nur Durchgangsstation, sondern für manche Gruppen ein Zuhause."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261116-Saudi-Arabia-Uruq-Aljelibah-Excavation.jpg",
+            "alt": "Fossilfragment auf dem einstigen Seebett von Mundafan bei Uruq Aljelibah in Saudi-Arabien",
+            "credit": "Archaeology",
+            "license": "Artikelbild Archaeology",
+            "source": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,37 @@
 [
   {
+    "nr": 42,
+    "date": "2026-11-18",
+    "updated": "2026-11-18T07:50:41+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 4,
+      "film": 5,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Rekordumsatz von fast 116 Milliarden Dollar, Huang will zurück, der Vorstand sagt Nein",
+      "Java4Shell: Eine Zeichenkette aus 64 A öffnet Jira, Confluence und Jenkins für Angreifer",
+      "Microsoft Ignite: Word, Excel und PowerPoint wandern in Copilot, Nadella nennt es „das neue Betriebssystem für die Arbeit“",
+      "Waymo darf nicht mehr auf die Autobahn und stoppt die Fahrten landesweit",
+      "Anthropic vor dem Börsengang: Amazon und Google besitzen zusammen fast 30 Prozent",
+      "Game Awards 2026: GTA 6 führt mit acht Nominierungen, zwei Tage vor dem Start",
+      "Firaxis entlässt ein Drittel der Belegschaft, das neue XCOM steckt in Schwierigkeiten",
+      "Ocarina of Time verkauft in den USA über eine Million Exemplare im Laden, in einer Woche",
+      "Roblox portiert fremde Spiele kostenlos auf seine Plattform, mit KI-Werkzeugen",
+      "Neu zu Bond: Jeff Bezos war „stark beteiligt“, fünf Finalisten mussten zu klassischen Probeaufnahmen",
+      "Villeneuve über „Dune: Part Three“: „Ich habe etwas noch Besseres geschafft“",
+      "„Die Tribute von Panem: Sunrise on the Reaping“: Drei Generationen bei der Premiere, die Kritik ist skeptisch",
+      "Skydance baut die Filmspitze von Paramount und Warner Bros. um",
+      "„Der Grinch 2“ mit Jim Carrey: Ron Howard bremst, noch gibt es kein Drehbuch",
+      "Baumringe und ein Vulkan in Alaska: Babylon fiel um 1587 vor Christus",
+      "18.457 Skelette zeigen: Mit dem technischen Fortschritt wurden die Menschen kleiner",
+      "Alt-Dongola: Archäologen erreichen den Boden der größten Kirche des mittelalterlichen Nubien",
+      "Kinderhände an 15.000 Jahre alten Tonfiguren: Die Natufier formten Ton lange vor dem Ackerbau",
+      "Vergiftete Speerspitzen vor 125.000 Jahren? Neue Funde aus dem „grünen Arabien“"
+    ]
+  },
+  {
     "nr": 41,
     "date": "2026-11-17",
     "updated": "2026-11-17T07:51:08+01:00",
