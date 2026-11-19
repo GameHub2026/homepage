@@ -1,5 +1,39 @@
 [
   {
+    "nr": 43,
+    "date": "2026-11-19",
+    "updated": "2026-11-19T07:51:16+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu zu Anthropic: Ausgabepreis 83 Dollar, rund 80 Milliarden Erlös, heute beginnt der Handel",
+      "Neu im Fall Nvidia: Der Quartalsbericht an die Börsenaufsicht verzögert sich, Musk und Altman stellen sich hinter Huang",
+      "Experiment mit Drohnenbildern: KI-Modelle markieren Zivilisten als militärische Ziele",
+      "Nadella erklärt das Abfindungsangebot an 60.000 Beschäftigte: Jeder soll Manager von KI-Agenten werden",
+      "Bundesgerichtshof warnt Anwälte: Ungeprüfte KI-Schriftsätze können eine Revision unzulässig machen",
+      "GTA 6 ist da: Metacritic 99 und 6,4 Millionen Zuschauer gleichzeitig, noch bevor Europa spielen kann",
+      "Konsolenverkäufe brechen um 36,5 Prozent ein: Zu teuer, sagen die Analysten",
+      "MindsEye-Studio Build a Rocket Boy: 61,7 Millionen Pfund Schulden, die Rettung sollen Klagen gegen „Saboteure“ sein",
+      "Will Wright kündigt „MyMems“ an: Eine Simulation aus den eigenen Erinnerungen, gebaut mit KI",
+      "Slay the Spire 2: Fast acht Millionen verkaufte Exemplare, nur auf Steam und noch im Early Access",
+      "Trailer zu „Artificial“: Andrew Garfield spielt Sam Altman in Luca Guadagninos Film über OpenAI",
+      "SkyShowtime wird abgewickelt: Comcast und Skydance stellen ihren europäischen Streamingdienst ein",
+      "Neu zum Skydance-Umbau: Warner Bros. Television und Paramount Television werden ein Studio",
+      "Fünf Jahre Haft für Jafar Panahi: Mehr als 200 Filmschaffende protestieren",
+      "Horror spielt 2026 fast 2,5 Milliarden Dollar ein, die Hälfte davon stammt von Blumhouse Atomic",
+      "„Clandestine“: Brit Marling und Tilda Swinton spielen in der neuen Serie der „The OA“-Macher",
+      "Hunderte Sarkophage und goldene Zungen: Nekropole aus der Ptolemäerzeit im Nildelta entdeckt",
+      "Homo erectus lebte länger als gedacht, im Regenwald Südchinas, vielleicht neben Denisovanern",
+      "Größtes Xiongnu-Grab der Mongolei: Römisches Glas und Jade nach Han-Vorbild bei einem Nomadenfürsten",
+      "Zuwanderer aus dem Mittelmeerraum im römischen Colchester: Neue Methode liest Herkunft aus verbrannten Knochen",
+      "Erbe der Neandertaler: Eine Genvariante verkleinert einen Hirnbereich und senkt das Schizophrenie-Risiko"
+    ]
+  },
+  {
     "nr": 42,
     "date": "2026-11-18",
     "updated": "2026-11-18T07:50:41+01:00",
