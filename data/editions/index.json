@@ -1,5 +1,39 @@
 [
   {
+    "nr": 44,
+    "date": "2026-11-20",
+    "updated": "2026-11-20T07:50:07+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Neu zu Anthropic: Erster Börsentag mit 17 Prozent Plus, die Gründer kassieren fast zwei Milliarden",
+      "Gericht zwingt London zum Eingeständnis: Die Regierung hat Apple eine Hintertür in die iCloud befohlen",
+      "Neu zu Artex: Das KI-Hackerwerkzeug legte offenbar Systeme der EU-Kommission tagelang lahm",
+      "Metas KI-Agent Muse: Eigene Mitarbeiter warnten vor fremden Kontoständen und vertauschten Chats",
+      "KI-Agenten auf dem Mac: Google liefert, Apple sucht noch Leute und baut Hürden für die Konkurrenz",
+      "Neu zu GTA 6: Mehr als 2,36 Milliarden Dollar in weniger als 24 Stunden",
+      "Neu zu CyberLeek: Die Gruppe veröffentlicht angeblich einen fast fertigen GTA-6-Build, nur die Startdatei fehlt",
+      "Ubisoft streicht 166 Stellen in Kanada und gründet ein eigenes Studio für generative KI",
+      "Neu im Rockstar-Verfahren: Schlussplädoyers vor dem Arbeitsgericht, Entwickler fürchten Entlassungen nach GTA 6",
+      "US-Spielemarkt im Oktober: Modern Warfare 4 vorn, die Ausgaben fallen um 12 Prozent",
+      "„Sunrise on the Reaping“ startet: Die Tribute von Panem könnten an ihre besten Zeiten anknüpfen",
+      "„The Gilded Age“ bekommt eine fünfte Staffel, nachdem die Quoten um fast 20 Prozent gestiegen sind",
+      "Bill Haders erster Kinofilm: Black Bear sichert sich den Horrorfilm „They Know“ mit Linda Cardellini",
+      "IDFA 2026: „The Year of the Ghost“ gewinnt den Hauptpreis in Amsterdam",
+      "Der Netflix-Effekt: Die MGM+-Serie „From“ kommt in drei Wochen auf fünf Milliarden Streamingminuten",
+      "Neu zu Patrick Stewart: Laut Sterbeurkunde starb er an Alzheimer und Lewy-Körper-Demenz",
+      "Lötschenpass: Das schmelzende Eis gibt einen 4000 Jahre alten Bronzering frei",
+      "Pfauen im Säulengang: Archäologie-Schüler legen römische Wandmalereien in Mérida frei",
+      "Hirse in Polen schon um 1590 vor Christus: Isotope verschieben den Anbau um ein Jahrhundert",
+      "Stundenbuch des Ferrante d'Aragona: Ein anonymer Spender schenkt Italien eine Renaissance-Handschrift für eine Million Euro",
+      "Die älteste datierte Abschrift der Göttlichen Komödie verlässt den Tresor: Piacenza zeigt den Codice Landiano von 1336"
+    ]
+  },
+  {
     "nr": 43,
     "date": "2026-11-19",
     "updated": "2026-11-19T07:51:16+01:00",

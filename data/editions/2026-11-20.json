@@ -1,0 +1,559 @@
+{
+  "nr": 44,
+  "date": "2026-11-20",
+  "intro": "Der Tag nach zwei Rekordstarts: Anthropic schließt seinen ersten Börsentag mit 17 Prozent Plus, GTA 6 nimmt in weniger als 24 Stunden mehr als 2,3 Milliarden Dollar ein und wird prompt von Leakern angegriffen. Dazu ein britisches Gericht, das die Regierung zu einem Geständnis zwingt, ein KI-Angriff auf die EU-Kommission, Ubisofts nächste Kündigungswelle und ein Bronzering, den das schmelzende Eis am Lötschenpass freigegeben hat.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu zu Anthropic: Erster Börsentag mit 17 Prozent Plus, die Gründer kassieren fast zwei Milliarden",
+          "lead": "Anthropic ist seit Donnerstag an der Nasdaq gelistet. Die Aktie sprang zum Start um 30 Prozent, fiel dann zurück und schloss bei 97,17 Dollar, deutlich über dem Ausgabepreis von 83 Dollar.",
+          "body": [
+            "Der Handel unter dem Kürzel ANT begann kurz vor Mittag New Yorker Zeit. Die Aktie eröffnete bei rund 111 Dollar, also gut 30 Prozent über dem Ausgabepreis, was den Börsenwert kurzzeitig auf etwa zwei Billionen Dollar hob. Im Tageshoch stand sie bei 115 Dollar, danach ging es in einer unruhigen Sitzung hin und her. Zum Handelsschluss lag der Kurs laut Deadline bei 97,17 Dollar, 17 Prozent über dem Ausgabepreis, aber weit unter den Höchstständen des Tages. Der Gesamtmarkt fiel: Die Nasdaq verlor 2,25 Prozent, der Dow Jones 886 Punkte.",
+            "Der Börsengang ist der größte der Geschichte. Deadline beziffert den Erlös auf mehr als 107 Milliarden Dollar, TechCrunch auf 104,8 Milliarden Dollar für die Firmenkasse, je nach Zählweise der Mehrzuteilungsoption. Zum Vergleich: SpaceX hatte im Juni 86 Milliarden Dollar eingesammelt, Facebook 2012 bei seinem damaligen Rekord-IPO 16 Milliarden. Neben den regulären Aktien der Klasse A verkaufte Anthropic stimmrechtslose Aktien der Klasse N für 26 Milliarden Dollar an große Technologiekonzerne. Nvidia und Google kauften davon je 10 Milliarden Dollar, den Rest teilten sich AMD, Broadcom, Micron, Microsoft und TSMC.",
+            "Die sieben Gründer verkauften laut TechCrunch je etwa 3,4 Millionen Aktien. Beim Ausgabepreis von 83 Dollar bringt das jedem rund 280 Millionen Dollar vor Gebühren und Steuern, zusammen 1,95 Milliarden Dollar. Im Börsenprospekt steht, dass jeder Gründer 80 Prozent seiner Anteile für wohltätige Zwecke zugesagt hat, allerdings ausdrücklich als freiwillige und widerrufliche Absichtserklärung ohne rechtliche Bindung. Nach einem Bericht des Wall Street Journal dürfte die Mehrheit der mehr als 5000 Beschäftigten zu Millionären werden.",
+            "Amazon und Google besitzen nach dem Börsengang zusammen 28 Prozent von Anthropic: Google 13,4 Prozent, Amazon 14,6 Prozent. Amazon hat bislang nur einen kleinen Teil seiner Wandelanleihen in Aktien getauscht; hätte der Konzern alle umgewandelt, läge sein Anteil bei fast 24 Prozent.",
+            "Trotz der Rekordsumme bleibt der Kapitalbedarf gewaltig. Anthropic braucht nach eigenen Angaben allein in den nächsten zwölf Monaten rund 70,7 Milliarden Dollar für Rechenleistung und Infrastruktur, bis Ende 2030 sind es 451,6 Milliarden. Insgesamt nennt das Unternehmen Infrastrukturverpflichtungen von 1,05 bis 1,08 Billionen Dollar, ein Teil davon bedingt oder noch nicht beziffert. Vor der Nasdaq am Times Square demonstrierte eine kleine Gruppe unter dem Motto #StopTechOligarchs; auf ihren Schildern stand, der Börsengang gefährde Pensionsfonds und die Weltwirtschaft."
+          ],
+          "highlight": "Insgesamt nennt das Unternehmen Infrastrukturverpflichtungen von 1,05 bis 1,08 Billionen Dollar, ein Teil davon bedingt oder noch nicht beziffert.",
+          "assessment": [
+            "Ein Plus von 17 Prozent am ersten Tag ist ordentlich, aber kein Rausch. Dass die Aktie vom 30-Prozent-Sprung so deutlich zurückfiel, an einem Tag, an dem die Nasdaq über zwei Prozent verlor, zeigt, wie nervös der Markt nach dem Nvidia-Drama und den Ausfällen der letzten Wochen ist. Anthropic war der Test, ob Anleger noch an reine KI-Firmen glauben. Die Antwort lautet: ja, aber mit angezogener Handbremse.",
+            "Die eigentlich wichtige Zahl ist nicht der Erlös, sondern die Billion an Verpflichtungen. Selbst der größte Börsengang aller Zeiten deckt nur einen Bruchteil davon. Anthropic wird in den kommenden Jahren immer wieder Geld brauchen, und dass ausgerechnet Nvidia, Google und Microsoft die Spezialaktien kaufen, also die Lieferanten und Konkurrenten, macht das Geflecht aus Kunden, Investoren und Partnern noch enger."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/anthropic-ai-volatile-ipo-shares-trading-nasdaq-market-1237229045/" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+            "alt": "Anthropic-Führung beim Börsenstart an der Nasdaq in New York",
+            "credit": "Charly Triballeau/AFP via Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+          }
+        },
+        {
+          "title": "Gericht zwingt London zum Eingeständnis: Die Regierung hat Apple eine Hintertür in die iCloud befohlen",
+          "lead": "Das britische Investigatory Powers Tribunal hat entschieden, dass das Innenministerium die Existenz seiner geheimen Anordnung an Apple bestätigen muss. Es ist das erste bekannte Mal, dass die Regierung so etwas zugeben muss.",
+          "body": [
+            "Das britische Innenministerium hatte Apple 2025 eine sogenannte Technical Capability Notice geschickt: Der Konzern sollte eine Hintertür in die Verschlüsselung der iCloud einbauen, damit britische Behörden Nutzerdaten unverschlüsselt einsehen können, ursprünglich weltweit. Solche Anordnungen unterliegen strikter Geheimhaltung, Apple durfte nicht einmal sagen, dass es sie gibt. Bestätigt hat sie das Ministerium bis heute nicht, obwohl die Times, die Financial Times und hochrangige Vertreter der US-Regierung längst darüber berichtet haben.",
+            "Am Donnerstag entschied das Investigatory Powers Tribunal, das für Überwachungsfragen zuständige Gericht, dass sich die Regierung nicht länger auf die Formel zurückziehen darf, die Sache weder zu bestätigen noch zu dementieren. Das Ministerium hatte argumentiert, eine Bestätigung gefährde die nationale Sicherheit. Das Gericht wies das zurück, vor allem mit dem Hinweis, dass die Existenz der Anordnung ohnehin kein Geheimnis mehr ist. Geklagt hatten die Menschenrechtsorganisationen Privacy International und Liberty im Namen von Privatpersonen sowie Apple selbst. Liberty spricht vom ersten bekannten Fall, in dem die Regierung eine geheime technische Anordnung bestätigen muss.",
+            "Was genau in dem Befehl steht, bleibt vorerst geheim. Im kommenden Jahr soll verhandelt werden, welche Details öffentlich werden. 2027 will das Tribunal dann klären, ob die Anordnung überhaupt rechtmäßig ist. Apple ficht sie mit fünf Argumenten an: Großbritannien dürfe keine Überwachung außerhalb seines Staatsgebiets anordnen, das Gesetz erlaube keine Vorgaben für die Sicherheitsfunktionen eines Produkts, die Konsultation sei unzureichend gewesen, die Hintertür verletze die Europäische Menschenrechtskonvention, und Apple werde anders behandelt als andere Unternehmen.",
+            "Apple hatte sich der Anordnung verweigert und stattdessen seine erweiterte Verschlüsselung Advanced Data Protection für britische Nutzer abgeschaltet. Nach heftiger Kritik aus Washington wurde die Anordnung später auf Daten britischer Staatsbürger eingeschränkt; auch dagegen geht Apple vor. Der Konzern begrüßte die Entscheidung und wiederholte, er habe nie eine Hintertür oder einen Generalschlüssel gebaut und werde es nie tun. Das Innenministerium äußerte sich nicht."
+          ],
+          "highlight": "Liberty spricht vom ersten bekannten Fall, in dem die Regierung eine geheime technische Anordnung bestätigen muss.",
+          "assessment": [
+            "Ein kleiner Sieg, aber ein symbolisch wichtiger. Das System der geheimen Anordnungen lebt davon, dass niemand darüber reden darf. Wenn ein Gericht nun sagt, Geheimhaltung um ihrer selbst willen reicht nicht, wenn ohnehin alle Bescheid wissen, bekommt dieses System einen Riss.",
+            "Entschieden ist in der Sache aber noch nichts. Die spannenden Fragen, ob London überhaupt Verschlüsselung weltweit aushebeln darf, kommen erst 2027 und zum Teil hinter verschlossenen Türen. Bis dahin bleibt Großbritannien das Land, in dem Apple seine stärkste Datensicherung lieber abschaltet, als sie zu schwächen."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/0/0/0/shutterstock_2022970481-9f19ed251de5a180.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild: Schlüsselloch und digitale Sicherheit",
+            "credit": "Lightspring/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html"
+          }
+        },
+        {
+          "title": "Neu zu Artex: Das KI-Hackerwerkzeug legte offenbar Systeme der EU-Kommission tagelang lahm",
+          "lead": "Die EU-Kommission bestätigt eine KI-gestützte Cyberkampagne gegen ihre Verwaltungssysteme. Dahinter steckt offenbar das Werkzeug Artex, vor dem die eigene Sicherheitsbehörde CERT-EU gewarnt hatte.",
+          "body": [
+            "Ein Kommissionssprecher bestätigte den Vorfall am Donnerstag im Mittagsbriefing als KI-generierte Cyberkampagne, nachdem Politico in seinem Newsletter Playbook darüber berichtet hatte. Entdeckt wurde der Angriff demnach am 22. Oktober, bestätigt am 26. Oktober. Die Kommission geht davon aus, den Großteil eingedämmt zu haben, das genaue Ausmaß ist aber weiter unklar. Ein anonymer Beamter hatte gegenüber Politico befürchtet, dass umfangreiche personenbezogene Daten abgeflossen sein könnten; der Sprecher sagt dagegen, nach derzeitigem Stand seien keine persönlichen Informationen betroffen.",
+            "Für die Beschäftigten waren die Folgen spürbar. Vorsorglich wurden mehrere Anwendungen vom Netz genommen, vor allem die Personalplattform Sysper, über die Gehaltsabrechnungen, Urlaubsanträge und Arbeitszeiten laufen, und das System MyPMO zur Erstattung von Arztkosten. Beide sind seit Anfang der Woche wieder in Betrieb, Sysper stürzte am Mittwoch aber erneut kurz ab, am Dienstag fielen zudem interne Übersetzungsdienste aus. Gehälter wurden regulär gezahlt, viele konnten aber weder Arbeitszeiten eintragen noch Urlaub beantragen. Intern sprach der IT-Support offenbar nur von einem allgemeinen technischen Problem, während die Führung das oberste Krisengremium, das Corporate Management Board, zu einer Sondersitzung einberief. Tech-Kommissarin Henna Virkkunen unterrichtete ihre Kollegen am Mittwoch.",
+            "Artex ist eine autonome Plattform für Penetrationstests auf Basis großer Sprachmodelle, ursprünglich als Open-Source-Projekt veröffentlicht und in Go geschrieben. Nach einer Warnung des FBI missbrauchen Angreifer sie seit mindestens August, um mehrere Phasen eines Angriffs zu automatisieren, von der Aufklärung über das Ausnutzen von Fehlkonfigurationen bis zur Datenexfiltration. In einzelnen Fällen habe Artex weniger als drei Stunden gebraucht, um von der ersten Zielerfassung bis zu privilegierten Zugriffen zu kommen.",
+            "Das Werkzeug übersetzt Ziele in natürlicher Sprache in Befehle für spezialisierte KI-Agenten und nutzt dafür externe Modelle wie Claude, GPT oder DeepSeek. Laut FBI greifen Angreifer am häufigsten auf chinesische Modelle zurück, weil sie billig sind und keine erkennbaren Schutzmechanismen haben. Der ursprüngliche Entwickler nahm das Projekt im Oktober nach Missbrauchsberichten von GitHub, doch Kopien und eine kommerzielle Variante kursieren weiter. Anfang November zählten Forscher mehr als 1600 öffentlich erreichbare Artex-Instanzen."
+          ],
+          "highlight": "In einzelnen Fällen habe Artex weniger als drei Stunden gebraucht, um von der ersten Zielerfassung bis zu privilegierten Zugriffen zu kommen.",
+          "assessment": [
+            "Das ist der Moment, vor dem Sicherheitsleute seit zwei Jahren warnen: KI senkt nicht nur die Kosten für Verteidiger, sondern vor allem die Einstiegshürde für Angreifer. Wenn ein frei kursierendes Werkzeug eine der am besten geschützten Verwaltungen Europas wochenlang beschäftigt, ist das keine Laborübung mehr.",
+            "Bemerkenswert ist auch die Kommunikation. Die Kommission wusste seit Ende Oktober Bescheid, die eigenen Leute bekamen ein vages „technisches Problem“ zu hören, und öffentlich wurde es erst durch Politico. Eine Behörde, die von Unternehmen strenge Meldepflichten verlangt, sollte bei sich selbst denselben Maßstab anlegen."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/8/7/5/shutterstock_2579989909-af583872b6682bea.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Gebäude der EU-Kommission in Brüssel",
+            "credit": "Skorzewiak/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html"
+          }
+        },
+        {
+          "title": "Metas KI-Agent Muse: Eigene Mitarbeiter warnten vor fremden Kontoständen und vertauschten Chats",
+          "lead": "Interne Chats, die Reuters ausgewertet hat, zeigen: Meta-Beschäftigte stießen beim Testen von Muse auf genau die Probleme, über die sich frühe Nutzer seit dem Herbst beklagen.",
+          "body": [
+            "Muse ist Metas KI-Agent, der in Metas Apps Aufgaben für die Nutzer übernimmt. Schon kurz nach dem Start beschwerten sich frühe Nutzer, der Agent schnüffle in privaten Nachrichten und verhalte sich unberechenbar. Nach den Unterlagen, die Reuters einsehen konnte, hatten Meta-Mitarbeiter intern dieselben Bedenken geäußert: Muse greife offenbar auf verschlüsselte Nachrichten zu, die Nutzer nicht prüfen lassen wollten, bringe Gespräche verschiedener Nutzer durcheinander und gebe möglicherweise sensible Informationen preis.",
+            "Die Beispiele sind konkret. Einem Mitarbeiter bot Muse ungefragt an, einem Verkäufer wegen eines Couchtischs zu schreiben, und räumte dann ein, es habe „Kontext über eine Couchtisch-Abholung“ gezogen, der offenbar nicht zu ihm gehöre. Der Mitarbeiter meldete ein mögliches kontoübergreifendes Datenleck. Ein anderer unterhielt sich mit Muse übers Angeln und bekam zusätzlich die Kontostände zweier ihm unbekannter Bankkonten genannt, 2722,58 Dollar bei Capital One und 5899,57 Dollar bei Charles Schwab. Ein Dritter berichtete, Muse habe ihn versehentlich in eine Premium-Tierversicherung für 888 statt 200 Dollar im Monat eingeschrieben; das Geld sei nicht zurückzuholen gewesen.",
+            "Meta-Sprecher Daniel Roberts nannte das gegenüber Reuters „Einzelfälle“. Intern hieß es, der Agent habe Nachrichten halluziniert, ausgelöst durch eingebaute Anweisungen, Nutzer zwischen den Sitzungen anzusprechen. Ein Mitglied des KI-Teams schrieb, die Halluzinationen tendierten „leider“ zu den unangenehmsten Themen wie Finanzen und Sicherheit; mitunter habe Muse statt Bankdaten Bitcoin-Guthaben erfunden. Viele der als Kontoverwechslung gemeldeten Fälle seien Halluzinationen gewesen und inzwischen behoben.",
+            "Gegenüber Ars Technica betonte Meta, Tests durch Mitarbeiter seien genau dafür da, Probleme zu finden. Beschäftigte nutzten zudem andere Versionen von Muse als die Öffentlichkeit und sähen deshalb Funktionen, die anderswo nicht verfügbar seien."
+          ],
+          "highlight": "Ein anderer unterhielt sich mit Muse übers Angeln und bekam zusätzlich die Kontostände zweier ihm unbekannter Bankkonten genannt, 2722,58 Dollar bei Capital One und 5899,57 Dollar bei Charles Schwab.",
+          "assessment": [
+            "Metas Verteidigung ist erstaunlich: Die fremden Kontostände seien nicht echt, sondern erfunden. Das soll beruhigen, tut es aber nicht. Ein Agent, der ungefragt plausible Bankdaten, Bitcoin-Guthaben und fremde Kaufgespräche erzeugt, ist entweder ein Datenleck oder ein Lügengenerator, und beides hat in einem Messenger nichts verloren.",
+            "Das größere Problem ist das Muster. Muse soll proaktiv sein, Nutzer zwischen den Sitzungen ansprechen, Dinge erledigen. Genau diese Proaktivität erzeugt laut Metas eigenem Team die Ausfälle. Und wenn ein Agent schon eine Versicherung abschließen kann, reicht „Einzelfall“ als Antwort nicht."
+          ],
+          "sources": [
+            { "name": "Ars Technica", "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/" }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+            "alt": "Symbolbild zu Metas KI-Agent Muse",
+            "credit": "Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+          }
+        },
+        {
+          "title": "KI-Agenten auf dem Mac: Google liefert, Apple sucht noch Leute und baut Hürden für die Konkurrenz",
+          "lead": "Gemini kann ab sofort einen Mac bedienen. Apple wiederum arbeitet laut einer Stellenanzeige an einem eigenen Agenten, der den Computer steuert, und erschwert gleichzeitig Fremdanbietern den Vollzugriff.",
+          "body": [
+            "Google hat am Donnerstag die Funktion Computer Use für die Gemini-App auf macOS freigeschaltet. Der Agent kann damit native Mac-Apps bedienen, im Hintergrund Websites aufrufen und mehrstufige Aufgaben über lokale Dateien, Programme und das Web hinweg erledigen. Nutzer sehen die Arbeit in einer Live-Vorschau im Chat, während Bildschirm und Mauszeiger frei bleiben. Aktionen lassen sich pausieren, stoppen und vorab bestätigen. Als Beispiele nennt Google Formulare ausfüllen, dieselbe Aufgabe für viele Dateien wiederholen, Dateien nach Kriterien sortieren oder Präsentationen aus Dashboards bauen.",
+            "Die Funktion gibt es zunächst nur auf Englisch in den USA und nur mit einem Abo von Google AI Plus, Pro oder Ultra. Google kommt damit spät: OpenAI, Anthropic und Meta bieten vergleichbare Agenten in ihren Desktop-Apps schon länger an.",
+            "Apple will offenbar nachziehen. Bloomberg entdeckte eine Stellenanzeige für einen leitenden Engineering-Manager, der einen „KI-Agenten, der einen Computer benutzen kann“ aufbauen soll. Der Agent solle im Web surfen, zwischen Apps wechseln, Befehle ausführen, Code schreiben und debuggen, und das alles „privat und mit dem Schliff, den man von Apple erwartet“. Laut Bloomberg hat Apple einen Start frühestens Ende nächsten Jahres im Blick, die Arbeit stehe aber noch am Anfang.",
+            "Gleichzeitig macht Apple es fremden Agenten schwerer. Die kommende Version macOS 27.3 soll Warnungen anzeigen, die Nutzer davon abhalten, Drittanbieter-Agenten Vollzugriff zu geben. Schon im Oktober hatte Apple Entwicklern angekündigt, wer einer App diesen „außergewöhnlichen“ Zugriff gewähren wolle, müsse das künftig sehr ausdrücklich tun."
+          ],
+          "highlight": "Die kommende Version macOS 27.3 soll Warnungen anzeigen, die Nutzer davon abhalten, Drittanbieter-Agenten Vollzugriff zu geben.",
+          "assessment": [
+            "Die Gleichzeitigkeit ist kein Zufall. Apple hat bei KI-Agenten nichts Eigenes vorzuweisen, besitzt aber das Betriebssystem, auf dem die Agenten der anderen laufen. Warnhinweise sind sicherheitstechnisch vertretbar, gerade nach der Muse-Geschichte. Sie sind aber auch ein bequemes Werkzeug, um Zeit zu gewinnen, bis der eigene Agent fertig ist.",
+            "Für Mac-Nutzer heißt das: In den nächsten Monaten werden die Agenten von Google, OpenAI und Anthropic immer mehr können und gleichzeitig immer mehr Warnfenster auslösen. Ob Apple das am Ende als Schutz oder als Bevorzugung des eigenen Produkts auslegt, wird man erst sehen, wenn es da ist."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+            "alt": "Gemini bedient eine Mac-App, Pressebild von Google",
+            "credit": "Google",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Neu zu GTA 6: Mehr als 2,36 Milliarden Dollar in weniger als 24 Stunden",
+          "lead": "Grand Theft Auto VI ist laut Sensor Tower der erfolgreichste Start, den die Unterhaltungsbranche je gesehen hat. Fast 25 Millionen Exemplare sind verkauft.",
+          "body": [
+            "Weniger als 24 Stunden nach dem Start um Mitternacht hatte GTA VI laut dem Marktforscher Sensor Tower mehr als 2,36 Milliarden Dollar eingespielt. Noch am frühen Mittwoch lagen die Vorbestellungen bei 1,65 Milliarden Dollar, in den letzten Stunden vor dem Start kamen also noch einmal 710 Millionen hinzu. Sensor-Tower-Manager Karl Kontus sagte Deadline, GTA VI sei allein durch Vorbestellungen das meistverkaufte Spiel des Jahres 2026 geworden.",
+            "Verkauft sind bislang 24,59 Millionen Exemplare, 75 Prozent davon für PlayStation, der Rest für Xbox. Das Spiel gibt es nur als Download, es ist 212 Gigabyte groß. Den bisherigen Rekord am Starttag hielt GTA V mit 800 Millionen Dollar im Jahr 2013. Nach Einschätzung von Deadline ist GTA VI auf dem Weg zu drei Milliarden Dollar innerhalb weniger Wochen, und noch fehlt GTA Online, wo das Spiel in den kommenden Monaten ankommen soll.",
+            "Wie groß das Spiel in der Popkultur ist, zeigt ein Vergleich, den der Hollywood Reporter zieht: Schon bei 1,84 Milliarden Dollar hatte GTA VI mehr eingenommen als Christopher Nolans „Die Odyssee“, der in diesem Sommer zum erfolgreichsten Film in der Geschichte von Universal wurde. Die Miami Heat spielten am Mittwochabend in einem komplett auf GTA VI gestalteten Primetime-Spiel, auf dem Times Square in New York lief das Spiel auf den großen Bildschirmen."
+          ],
+          "highlight": "Den bisherigen Rekord am Starttag hielt GTA V mit 800 Millionen Dollar im Jahr 2013.",
+          "assessment": [
+            "Die Zahlen sprengen jeden Rahmen. Ein einzelnes Spiel nimmt an einem Tag mehr ein als die meisten Kinofilme in ihrer gesamten Laufzeit, und das ohne PC-Version und ohne Onlinemodus. Wer noch Zweifel hatte, ob Spiele die größte Unterhaltungsform der Gegenwart sind, kann sie jetzt ablegen.",
+            "Für die Branche ist das allerdings eine zweischneidige Nachricht. GTA VI zeigt, was mit einem Jahrzehnt Arbeit und mehr als einer Milliarde Budget möglich ist. Es zeigt aber auch, dass sich das Geld auf immer weniger Titel konzentriert, während überall sonst entlassen wird."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/" },
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/GTA-6-Times-Square.jpg?w=1024",
+            "alt": "Werbung für Grand Theft Auto VI auf den Bildschirmen am Times Square in New York",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/"
+          }
+        },
+        {
+          "title": "Neu zu CyberLeek: Die Gruppe veröffentlicht angeblich einen fast fertigen GTA-6-Build, nur die Startdatei fehlt",
+          "lead": "Einen Tag nach dem Start von GTA 6 macht die Leaker-Gruppe CyberLeek ihre Drohung wahr: Sie bietet nach eigenen Angaben einen kompletten Entwicklungsbuild vom November 2026 per Torrent an.",
+          "body": [
+            "CyberLeek, die Gruppe hinter mehreren Leaks von GTA-6-Spielszenen vor dem Start, hat am Donnerstag auf ihrer Website einen Entwicklungsbuild der finalen Version veröffentlicht, so jedenfalls die eigene Darstellung. Im Oktober hatte sie angekündigt, eine vollständige, spielbare Fassung ins Netz zu stellen. Eurogamer konnte die Seite einsehen und bestätigen, dass dort ein Download von 209 Gigabyte angeboten wird; ob die Dateien echt sind, ließ sich nicht prüfen. Der Build soll aus dem November 2026 stammen und damit der Verkaufsversion sehr nahe oder mit ihr identisch sein.",
+            "Eine Datei fehlt allerdings: die ausführbare Hauptdatei. „Jede Datei außer einer“, schreibt CyberLeek, die Startdatei liege „auf einem Countdown“. Sie solle früher erscheinen, wenn der Krypto-Token der Gruppe einen bestimmten Wert erreicht. Viele der bisherigen Leaks hingen mit diesem Krypto-Geschäft zusammen; Schätzungen zufolge hat die Gruppe damit mindestens 200.000 Pfund gemacht. Es handle sich um den Xbox-Build; falls der nicht lauffähig sei, wolle man einen PS5-Build nachliefern.",
+            "Die Gruppe kündigt an, die Community werde das Spiel „innerhalb einer Woche emulieren, weit jenseits von 30 Bildern pro Sekunde“. Damit käme eine spielbare PC-Fassung womöglich Monate vor der noch nicht angekündigten offiziellen PC-Version. Begründet wird das Ganze mit „Gamers' Rights“ und dem Protest gegen das Ende der Spieldiscs.",
+            "Rockstar hatte frühere Leaks als „herzzerreißend“ bezeichnet. Take-Two versuchte per Gerichtsbeschluss, von Discord Informationen über die Identität der Leaker zu bekommen."
+          ],
+          "highlight": "Sie solle früher erscheinen, wenn der Krypto-Token der Gruppe einen bestimmten Wert erreicht.",
+          "assessment": [
+            "Die Verbraucherschutz-Rhetorik ist eine Fassade. Wer die entscheidende Datei an den Kurs seines eigenen Kryptotokens koppelt, kämpft nicht für Spielerrechte, sondern betreibt ein Erpressungs- und Pumpgeschäft mit fremder Arbeit.",
+            "Wirtschaftlich dürfte der Schaden für Rockstar begrenzt sein, 25 Millionen Käufer am ersten Tag lassen sich von einem Torrent nicht beeindrucken. Spürbar wäre es eher bei der PC-Version, wenn bis dahin eine emulierte Fassung kursiert. Und für alle, die neugierig sind: Ein 209-Gigabyte-Download von Leakern mit Kryptointeressen ist ziemlich genau das, was man nicht auf seinen Rechner holen sollte."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/gta-6-jason-against-fence-with-cops.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus GTA 6: Jason wird von Polizisten an einem Zaun festgehalten",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/cyberleek-gta-6-dev-build"
+          }
+        },
+        {
+          "title": "Ubisoft streicht 166 Stellen in Kanada und gründet ein eigenes Studio für generative KI",
+          "lead": "Am selben Tag, an dem Ubisoft den Erfolg von Assassin's Creed Black Flag Resynced feiert, verlieren in Montreal und Québec 166 Menschen ihre Stelle. Dazu kommt ein Halbjahresverlust von 254,5 Millionen Euro.",
+          "body": [
+            "Ubisoft baut in seinen großen Studios in Montreal und Québec City 166 Stellen ab, um die Ressourcen an „aktuelle Produktionsprioritäten und Geschäftsanforderungen“ anzupassen. Nach Informationen von GamesIndustry.biz betrifft das vor allem Produktions- und Supportstellen, weniger als vier Prozent der Belegschaft dort, und vor allem Teams, deren Projekte kürzlich eingestellt oder stark verändert wurden. Betroffen sind auch Mitarbeitende von Vantage Studios, dem Gemeinschaftsunternehmen mit Tencent, das Assassin's Creed, Far Cry und Rainbow Six verantwortet. Ubisoft hat in diesem Jahr bereits hunderte Stellen gestrichen und Studios wie Winnipeg, RedLynx, Belgrad und Halifax geschlossen.",
+            "Wenige Stunden später legte Ubisoft seine Halbjahreszahlen vor: ein Nettoverlust von 254,5 Millionen Euro, die Nettobuchungen sanken um 16,5 Prozent auf 644,7 Millionen Euro. Zugleich lobt der Konzern den Erfolg von Assassin's Creed Black Flag Resynced, das laut PC Gamer die Erwartungen übertroffen hat, und neuen Schwung bei Rainbow Six Siege.",
+            "Neu ist Motherbrain: Das Team hinter Ubisofts KI-Experiment Teammates, in dem Spieler mit KI-gesteuerten Figuren sprechen, ist jetzt eine eigene Tochterfirma. Sie soll laut Ubisoft an „smarten NPCs mit Gedächtnis und KI-Spielleitern, die große systemische Welten steuern“ arbeiten. Firmenchef Yves Guillemot spricht von eigenen Technologien, die den Kreativen „neue Möglichkeiten“ eröffnen sollen. Ob Motherbrain eigene Produkte veröffentlicht oder nur anderen Ubisoft-Spielen zuarbeitet, ist offen.",
+            "Auch der Umbau in sogenannte Creative Houses ist laut Ubisoft abgeschlossen. Creative House 3 und 5 werden unter Julien Bares zusammengelegt, für Creative House 4 kommt im Januar 2027 eine externe Leitung. Das mobile Assassin's Creed Jade ist laut Finanzchef Frédérick Duguet weiterhin in Entwicklung, die Priorität liege aber klar auf Konsole und PC, „vor allem PC“."
+          ],
+          "highlight": "Neu ist Motherbrain: Das Team hinter Ubisofts KI-Experiment Teammates, in dem Spieler mit KI-gesteuerten Figuren sprechen, ist jetzt eine eigene Tochterfirma.",
+          "assessment": [
+            "Die Reihenfolge des Tages sagt viel über Ubisoft im Jahr 2026: erst Kündigungen, dann ein Verlust von einer Viertelmilliarde, dann eine eigene Firma für generative KI. Man muss nicht behaupten, Motherbrain ersetze die 166 Menschen, um zu sehen, wohin das Geld fließt und wohin nicht.",
+            "Ubisoft setzt erkennbar auf wenige große Marken und auf Technik, die Produktion billiger machen soll. Ob „smarte NPCs mit Gedächtnis“ Spieler begeistern oder ob das die nächste teure Wette wird, die in zwei Jahren still beerdigt wird, ist die eigentliche Frage. Die Bilanz der letzten Jahre spricht eher für Letzteres."
+          ],
+          "sources": [
+            { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge" },
+            { "name": "VGC", "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games/" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/DLteRYHW5NJSTNhEkVHtk3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Spielfigur aus Assassin's Creed Jade blickt über eine Landschaft im alten China",
+            "credit": "Tencent",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge"
+          }
+        },
+        {
+          "title": "Neu im Rockstar-Verfahren: Schlussplädoyers vor dem Arbeitsgericht, Entwickler fürchten Entlassungen nach GTA 6",
+          "lead": "Das Verfahren um 34 entlassene Rockstar-Beschäftigte ist abgeschlossen, ein Urteil steht aus. Gleichzeitig schreibt ein Rockstar-Programmierer im Guardian, auch das Team des „größten Spiels aller Zeiten“ habe Angst um seine Jobs.",
+          "body": [
+            "Vor einem britischen Arbeitsgericht ging es um die Entlassung von 34 Beschäftigten im vergangenen Jahr. Rockstar wirft ihnen vor, vertrauliche Informationen in einem öffentlichen Forum verbreitet und diskutiert zu haben. Die Kläger, darunter 23 der Betroffenen, sagen, sie seien wegen ihrer Gewerkschaftsarbeit bei der IWGB entlassen worden. Ihr Anwalt Richard O'Keeffe argumentierte, das Management habe den Discord-Server drei Jahre lang gekannt und nichts unternommen, bis ein verdeckter Informant am 7. Oktober 2025 meldete, die Gewerkschaft nähere sich zehn Prozent Mitgliedschaft in der Belegschaft.",
+            "O'Keeffe verwies auf Aussagen von HR-Manager Charlie Kinloch: Wenn Herabsetzungen und das Teilen von HR-Mitteilungen auf einem Server mit 350 Leuten und zehn Ex-Beschäftigten schweres Fehlverhalten seien, hätte das auch schon bei 250 Leuten und drei Ex-Beschäftigten gelten müssen. Rockstars Anwalt Thomas Cordrey hielt dagegen, die Moderatoren hätten Herabsetzungen und vertrauliche Informationen bewusst „fließen lassen“, darunter Startzeitpunkte für GTA 6 und unveröffentlichte Funktionen. Rockstar zeigte sich „zuversichtlich“. Richterin Lucy Wiseman nannte keinen Termin, versprach aber ein Urteil „so schnell wie möglich“.",
+            "Parallel stimmen die britischen Rockstar-Studios über die Anerkennung einer offiziellen Gewerkschaft ab. Der Animationsprogrammierer Nestor Uriarte von Rockstar North warb im Guardian dafür. Es gebe keine Hinweise auf Entlassungen, „aber es ist schwer, sich keine Sorgen zu machen“. Es sage viel über die Branche, dass selbst die Leute, die am größten Spiel aller Zeiten arbeiten, Angst vor Kündigungen hätten.",
+            "Die Belegschaft von Rockstar ist während der Entwicklung von GTA 6 auf 4711 Menschen in zwölf Studios gewachsen, doppelt so viele wie zum Start von Red Dead Redemption 2. Nach großen Projekten hat Rockstar in der Vergangenheit schon Stellen abgebaut. Laut dem ASGC Games Industry Layoffs Tracker haben in diesem Jahr mehr als 12.000 Entwickler ihre Stelle verloren, im Vorjahr waren es mehr als 9000."
+          ],
+          "highlight": "Ihr Anwalt Richard O'Keeffe argumentierte, das Management habe den Discord-Server drei Jahre lang gekannt und nichts unternommen, bis ein verdeckter Informant am 7. Oktober 2025 meldete, die Gewerkschaft nähere sich zehn Prozent Mitgliedschaft in der Belegschaft.",
+          "assessment": [
+            "Das Argument der Kläger ist stark, weil es mit Rockstars eigener Zeitlinie arbeitet. Drei Jahre Duldung und dann plötzlich Härte, genau als die Gewerkschaft relevant wird: Das muss das Gericht erst einmal anders erklären können.",
+            "Dass ausgerechnet in der Woche des 2-Milliarden-Starts Rockstar-Entwickler öffentlich um ihre Jobs fürchten, ist das deutlichste Bild für den Zustand der Branche. Erfolg schützt nicht mehr. Insofern ist die Gewerkschaftsabstimmung bei Rockstar wichtiger als das Urteil über die 34 Entlassenen, weil sie zeigt, ob sich selbst im erfolgreichsten Studio der Welt Mitbestimmung durchsetzen lässt."
+          ],
+          "sources": [
+            { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/YaUq2tUybUPd6bHhaoTV97.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Pressebild von Rockstar Games zur Meldung über das Arbeitsgerichtsverfahren",
+            "credit": "Rockstar/Take-Two Interactive",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal"
+          }
+        },
+        {
+          "title": "US-Spielemarkt im Oktober: Modern Warfare 4 vorn, die Ausgaben fallen um 12 Prozent",
+          "lead": "Call of Duty: Modern Warfare 4 war laut Circana das meistverkaufte Spiel im Oktober in den USA. Der Markt insgesamt schrumpfte aber deutlich, und Konsolen verkaufen sich vor allem teurer.",
+          "body": [
+            "Modern Warfare 4 führte die US-Verkaufscharts im Oktober an. Damit war zum 19. Mal in Folge ein Call of Duty das meistverkaufte Spiel in seinem Startmonat. Dahinter folgten zwei weitere Neuerscheinungen, Gears of War: E-Day auf Platz zwei und Star Wars: Galactic Racer auf Platz drei. Insgesamt schafften es sechs neue Spiele in die Top 10, darunter Final Fantasy Resonance, die Kingdom Hearts Collection 2–3 und Nintendo Switch Sports Resort. Control Resonant stieg nach der Disc-Veröffentlichung am 15. Oktober von Platz elf auf acht; es ist Remedys bislang am schnellsten verkauftes Spiel.",
+            "Die Gesamtausgaben für Videospiele in den USA sanken im Oktober um 12 Prozent auf 4,2 Milliarden Dollar. Die Ausgaben für Spielinhalte fielen um 14 Prozent auf 3,7 Milliarden, vor allem wegen eines Rückgangs von 16 Prozent bei Mobilspielen. Bei Konsolenspielen ging es um 18 Prozent zurück, was Circana mit den starken Vergleichszahlen des Vorjahres erklärt, als Battlefield 6 und Pokémon Legends: Z-A erschienen.",
+            "Bei der Hardware stiegen die Ausgaben um 2 Prozent auf 357 Millionen Dollar, mit 42 Prozent Plus bei Xbox Series und 20 Prozent bei der PS5, während die Switch 2 um 11 Prozent nachgab. Der Zuwachs kommt vor allem von höheren Preisen: Die PS5 verkaufte 5 Prozent mehr Geräte bei 13 Prozent höherem Durchschnittspreis, die Xbox Series 10 Prozent mehr bei 29 Prozent höherem Preis. Die Switch 2 bleibt im Oktober und im bisherigen Jahr Marktführer nach Stückzahl und Umsatz."
+          ],
+          "highlight": "Der Zuwachs kommt vor allem von höheren Preisen: Die PS5 verkaufte 5 Prozent mehr Geräte bei 13 Prozent höherem Durchschnittspreis, die Xbox Series 10 Prozent mehr bei 29 Prozent höherem Preis.",
+          "assessment": [
+            "Der Oktober war der Monat vor dem Sturm, viele haben ihr Geld offensichtlich für GTA 6 zurückgelegt. Die schwachen Zahlen sind deshalb weniger dramatisch, als sie aussehen; der November wird sie mit Wucht korrigieren.",
+            "Bedenklicher ist die Hardware. Wenn Wachstum fast nur aus höheren Preisen entsteht, verkauft die Branche dieselbe Anzahl Geräte an dieselben Leute für mehr Geld. Das passt zu den 36,5 Prozent weniger Auslieferungen, die Analysten diese Woche für das dritte Quartal gemeldet haben. Neue Spieler gewinnt man so nicht."
+          ],
+          "sources": [
+            { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/cod-mw4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Call of Duty: Modern Warfare 4",
+            "credit": "Infinity Ward/Activision",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "„Sunrise on the Reaping“ startet: Die Tribute von Panem könnten an ihre besten Zeiten anknüpfen",
+          "lead": "Am Wochenende kommt der sechste Panem-Film ins Kino, mit Joseph Zada als jungem Haymitch. Der Hollywood Reporter erwartet einen Start in der Größenordnung der ersten Filme mit Jennifer Lawrence.",
+          "body": [
+            "„Die Tribute von Panem: Sunrise on the Reaping“ spielt am Morgen der Ernte für die 50. Hungerspiele, 24 Jahre vor der Handlung des ersten Romans von 2008. Joseph Zada spielt Haymitch Abernathy, den in den ersten vier Filmen Woody Harrelson als älteren Mann verkörperte. Zum großen Ensemble gehören Mckenna Grace, Whitney Peak, Jesse Plemons, Ralph Fiennes, Glenn Close, Elle Fanning, Kieran Culkin, Kelvin Harrison Jr., Billy Porter, Ben Wang, Maya Hawke und Iris Apatow.",
+            "Die fünf bisherigen Filme haben weltweit mehr als 3,3 Milliarden Dollar eingespielt. Der erste Teil startete 2012 mit 152,5 Millionen Dollar in Nordamerika, „Catching Fire“ 2013 mit 158 Millionen. Danach ging es abwärts: „Mockingjay – Teil 1“ kam 2014 auf 121,8 Millionen, Teil 2 auf 102,6 Millionen. Laut dem Hollywood Reporter dürfte „Sunrise on the Reaping“ wieder deutlich näher an die Lawrence-Filme heranreichen.",
+            "Die Kritiken sind gemischt. Bei Rotten Tomatoes liegt der Film bei 67 Prozent positiven Besprechungen, hinter den ersten vier Filmen, aber knapp vor „Das Lied von Vogel und Schlange“ mit 64 Prozent. THR-Chefkritiker David Rooney schrieb, der Film liefere „Emotion und brutales Spektakel“.",
+            "Konkurrenz kommt diesmal nicht nur aus dem Kino. Der Start fällt auf das Wochenende nach der Veröffentlichung von GTA VI; der Hollywood Reporter erwartet dennoch, dass beide nebeneinander bestehen. Außerdem läuft Peter Farrellys „I Play Rocky“ nach zwei Wochen in ausgewählten Kinos landesweit an, mit Anthony Ippolito als jungem Sylvester Stallone."
+          ],
+          "highlight": "Laut dem Hollywood Reporter dürfte „Sunrise on the Reaping“ wieder deutlich näher an die Lawrence-Filme heranreichen.",
+          "assessment": [
+            "Bemerkenswert ist, dass eine Reihe, die mit „Mockingjay“ schon müde wirkte, mit einem Prequel ohne ihren Star wieder in Rekordnähe kommen könnte. Das liegt an Suzanne Collins' Buch, das schon ein Bestseller war, und an einer Besetzung, die mehr nach Prestigefilm als nach Jugendreihe aussieht.",
+            "Die 67 Prozent bei den Kritikern sind solide, aber kein Freifahrtschein. Für den Startrekord spielt das kaum eine Rolle, für die Frage, ob Lionsgate die Reihe dauerhaft wiederbeleben kann, sehr wohl. Am Montag wissen wir mehr."
+          ],
+          "sources": [
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/" }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDHUGA_LG103.jpg?w=1296&h=730&crop=1",
+            "alt": "Joseph Zada und Elle Fanning in „Die Tribute von Panem: Sunrise on the Reaping“",
+            "credit": "Courtesy of Everett Collection",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/"
+          }
+        },
+        {
+          "title": "„The Gilded Age“ bekommt eine fünfte Staffel, nachdem die Quoten um fast 20 Prozent gestiegen sind",
+          "lead": "HBO verlängert Julian Fellowes' Historiendrama. Die laufende vierte Staffel ist die erfolgreichste der Serie.",
+          "body": [
+            "HBO hat „The Gilded Age“ um eine fünfte Staffel verlängert. Die vierte Staffel läuft derzeit sonntags auf HBO und bei HBO Max. Ihre Reichweite wächst von Woche zu Woche: Folge drei, Peggys Hochzeit, erreichte mit 4,3 Millionen Zuschauern in den USA plattformübergreifend einen Staffelhöchstwert. Im Schnitt kommen die Folgen auf 5,9 Millionen Zuschauer, fast 20 Prozent mehr als in der dritten Staffel.",
+            "Die Wende ist bemerkenswert, denn die Serie galt in den ersten beiden Staffeln lange als Wackelkandidat. Das New Yorker High-Society-Leben des 19. Jahrhunderts aufwendig nachzubauen, ist teuer, und trotz Julian Fellowes, dem Erfinder von „Downton Abbey“, wurde „The Gilded Age“ zunächst kein Quotenhit. Nach Angaben von IndieWire gaben die Darsteller in Interviews zu, oft mit einer Absetzung gerechnet zu haben. Der Aufschwung begann mit der dramatischen dritten Staffel, in der die Ehe von Bertha (Carrie Coon) und George Russell (Morgan Spector) in die Krise geriet.",
+            "Fellowes hatte IndieWire kürzlich gesagt: „Wir haben noch eine fünfte Staffel in uns, wenn man uns lässt.“ Man müsse aber jede Staffel so schreiben, dass sie das Ende sein könne, „weil sie es eines Tages sein wird“. HBO-Dramachefin Francesca Orsi kündigte an, man werde die Welt der Russells, van Rhijns und Kirklands ausweiten und die „opernhaften Einsätze“ erhöhen.",
+            "In drei Staffeln hat die Serie 15 Emmy-Nominierungen gesammelt, darunter für die beste Dramaserie. Zum Ensemble gehören unter anderem Christine Baranski, Cynthia Nixon, Louisa Jacobson, Taissa Farmiga, Audra McDonald und Denée Benton. Die Serie ist eine Koproduktion von HBO und Universal Television."
+          ],
+          "highlight": "Im Schnitt kommen die Folgen auf 5,9 Millionen Zuschauer, fast 20 Prozent mehr als in der dritten Staffel.",
+          "assessment": [
+            "Eine seltene Geschichte im heutigen Seriengeschäft: Eine teure Serie, die in den ersten Jahren nicht zündet, bekommt trotzdem Zeit und wird dann ein Erfolg. Die meisten Streamer hätten nach Staffel eins oder zwei den Stecker gezogen.",
+            "Dass „The Gilded Age“ in der vierten Staffel noch wächst, zeigt auch, dass es ein Publikum für ruhige, kostümierte Erwachsenenunterhaltung gibt, die nicht auf Wendungen im Minutentakt setzt. Fellowes' Satz, jede Staffel müsse als Ende taugen, klingt allerdings so, als rechne er auch mit Staffel fünf als möglichem Abschluss."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/" },
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/audra-and-denee.jpg?w=1024",
+            "alt": "Audra McDonald und Denée Benton in der vierten Staffel von „The Gilded Age“",
+            "credit": "HBO",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/"
+          }
+        },
+        {
+          "title": "Bill Haders erster Kinofilm: Black Bear sichert sich den Horrorfilm „They Know“ mit Linda Cardellini",
+          "lead": "Der „Barry“-Schöpfer hat seinen ersten Spielfilm als Regisseur gedreht. Der Verleih Black Bear hat sich nach einem Bieterwettbewerb die nordamerikanischen Rechte gesichert.",
+          "body": [
+            "„They Know“ ist ein psychologischer Horrorfilm, den Bill Hader geschrieben und inszeniert hat und in dem er auch selbst spielt. An seiner Seite steht Linda Cardellini, die kürzlich einen Emmy als beste Nebendarstellerin für die HBO-Miniserie „DTF St. Louis“ gewonnen hat. Der Film ist in der Postproduktion.",
+            "Die Geschichte stammt von Hader und seinem „Barry“-Mitstreiter Duffy Boudreau. Ein geschiedener Vater wird zunehmend misstrauisch und paranoid, weil er glaubt, dass der geheimnisvolle neue Partner seiner Ex-Frau einen seltsamen, beunruhigenden Einfluss auf die gemeinsamen Kinder ausübt. Weitere Details zur Handlung hält die Produktion zurück. Finanziert hat den Film vollständig MRC.",
+            "Black Bear hat laut Deadline gerade mit „Wicker“ einen Achtungserfolg, der weltweit auf knapp 40 Millionen Dollar zusteuert. Produktionschef Michael Heimler nennt Hader ein „einzigartiges Talent vor und hinter der Kamera“ und „They Know“ einen Film, „wie wir ihn noch nie gesehen haben“.",
+            "Hader hat drei Emmys für „South Park“ und „Barry“ gewonnen. Bei „Barry“, das er mit Alec Berg erfunden hat, führte er ab der zweiten Staffel Regie und inszenierte die vierte Staffel komplett. Er hat nie verheimlicht, dass er nach dem Ende der Serie ins Kino wechseln wollte."
+          ],
+          "highlight": "Ein geschiedener Vater wird zunehmend misstrauisch und paranoid, weil er glaubt, dass der geheimnisvolle neue Partner seiner Ex-Frau einen seltsamen, beunruhigenden Einfluss auf die gemeinsamen Kinder ausübt.",
+          "assessment": [
+            "Wer die letzte Staffel von „Barry“ gesehen hat, weiß, dass Hader ein ernstzunehmender Regisseur ist, mit einem Sinn für Unbehagen, der eher an Horror als an Komödie erinnert. Ein Paranoia-Thriller über Familie und Kontrolle ist deshalb die logische Wahl für den ersten Film.",
+            "Black Bear ist ein interessanter Partner: klein genug, um dem Film Aufmerksamkeit zu geben, und gerade mit eigenem Erfolg unterwegs. Für Fans von „Barry“ gehört „They Know“ ab sofort auf die Liste für 2027."
+          ],
+          "sources": [
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/" },
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/bill-hader-linda-cardellini-they-know-1237229655/" }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
+            "alt": "Bill Hader spricht bei einem IndieWire-Panel ins Mikrofon",
+            "credit": "IndieWire",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/"
+          }
+        },
+        {
+          "title": "IDFA 2026: „The Year of the Ghost“ gewinnt den Hauptpreis in Amsterdam",
+          "lead": "Beim 39. Internationalen Dokumentarfilmfestival Amsterdam hat der Film des in China geborenen Regisseurs Louis HotHotHot gleich drei Preise geholt.",
+          "body": [
+            "„The Year of the Ghost“ von Louis HotHotHot, auch bekannt als Louis Liu, wurde am Donnerstag als bester Film im internationalen Wettbewerb ausgezeichnet. Dazu gewann er den Preis für den besten Schnitt, den er sich mit seinem Ko-Editor Chris van Oers teilt, und den Preis für den besten niederländischen Film, dotiert mit 5000 Euro.",
+            "Die Jury, zu der Oscar-Preisträgerin Laura Poitras gehörte, zeigte sich „erstaunt“ über eine Arbeit von „einzigartiger künstlerischer Vision“. Der Film untersuche tiefe Familienbeziehungen vor dem Hintergrund gesellschaftlicher Kräfte und über Generationen vererbter Geschlechterzwänge, erzählt „mit kühner Ehrlichkeit, seltener Liebe zum Detail, filmischer Neugier und Liebe“. Eine lobende Erwähnung ging an „Hazara Town“ von Khadim Dai, der Regiepreis an Joël Richmond Mathieu Akafou für „Lonan Tché“.",
+            "Im experimentelleren Envision-Wettbewerb gewann „Memories of Lightning“. Der Film begleitet die 30-jährige Radiojournalistin Sibilla in ein Dorf in den italienischen Marken, wo sie eine Audiodokumentation über ein schockierendes Ereignis von 1982 machen will. Erdbeben und ein Stausee haben den Ort fast zur Geisterstadt gemacht. Die Hauptfigur Sibilla Scinti Roger erhielt zusätzlich einen Preis für herausragenden künstlerischen Beitrag.",
+            "Bester Kurzdokumentarfilm wurde „all that appears solid is built on blood“ von Izdihar Afyouni und Gelare Khoshgozaran, der Gewaltbilder durch Abstraktion und Bearbeitung des Filmmaterials verfremdet. Den DocLab-Preis für immersives Erzählen bekam Michał Stankiewicz für das VR-Werk „Being in You“."
+          ],
+          "highlight": "Der Film untersuche tiefe Familienbeziehungen vor dem Hintergrund gesellschaftlicher Kräfte und über Generationen vererbter Geschlechterzwänge, erzählt „mit kühner Ehrlichkeit, seltener Liebe zum Detail, filmischer Neugier und Liebe“.",
+          "assessment": [
+            "IDFA ist das wichtigste Dokumentarfilmfestival der Welt, und die Gewinner landen erfahrungsgemäß in den Festivalprogrammen und Oscar-Debatten des nächsten Jahres. Ein Dreifachsieg wie der von „The Year of the Ghost“ ist ein starkes Signal.",
+            "Auffällig ist die Richtung der Jury: persönliche, formal eigenwillige Filme statt großer Themen-Dokus. Dass ein Film über die Erinnerung an ein verlassenes italienisches Dorf und ein Kurzfilm, der Gewaltbilder bewusst unkenntlich macht, die Nebenwettbewerbe gewinnen, passt dazu. Wer anspruchsvolle Dokumentarfilme mag, sollte sich die Titel merken."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/IDFA-winners-2026-split-image-1000.jpg?w=1000",
+            "alt": "Szenen aus den IDFA-Gewinnerfilmen „The Year of the Ghost“ und „Memories of Lightning“",
+            "credit": "IDFA",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526/"
+          }
+        },
+        {
+          "title": "Der Netflix-Effekt: Die MGM+-Serie „From“ kommt in drei Wochen auf fünf Milliarden Streamingminuten",
+          "lead": "Seit die ersten drei Staffeln der Horrorserie „From“ bei Netflix laufen, steht sie an der Spitze der Nielsen-Charts. Die Serie stammt eigentlich vom kleinen Dienst MGM+.",
+          "body": [
+            "In der Woche vom 2. bis 8. November kam „From“ laut Nielsen auf 1,69 Milliarden gestreamte Minuten und lag damit klar auf Platz eins der Streamingcharts. Seit die ersten drei Staffeln am 19. Oktober bei Netflix erschienen sind, summiert sich das auf 5 Milliarden Minuten.",
+            "Die Science-Fiction-Horrorserie von John Griffin erzählt von einer albtraumhaften Stadt, die jeden festhält, der sie betritt. Als ausführende Produzenten sind Showrunner Jeff Pinkner, bekannt durch „Lost“, „Alias“ und „Fringe“, und Regisseur Jack Bender („Lost“, „Game of Thrones“) dabei.",
+            "Das Timing ist günstig. Die vierte Staffel lief im April bei MGM+, eine fünfte und letzte Staffel ist bereits bestellt. Lizenziert wurde die Serie an Netflix von Skydance Global Content Sales. „From“ ist damit das nächste Beispiel für eine Serie, die bei einem kleineren Anbieter entsteht und erst bei Netflix ein Massenpublikum findet."
+          ],
+          "highlight": "Seit die ersten drei Staffeln am 19. Oktober bei Netflix erschienen sind, summiert sich das auf 5 Milliarden Minuten.",
+          "assessment": [
+            "Das Muster ist inzwischen bekannt, etwa bei „Suits“: Netflix ist weniger ein Studio als eine Reichweitenmaschine, die fremde Serien groß macht. Für Rechteinhaber wie Skydance, die gerade Paramount und Warner Bros. umbauen und ihr europäisches SkyShowtime einstellen, ist das Lizenzgeschäft offenbar attraktiver als der eigene Kleinstreamer.",
+            "Für MGM+ ist es bitter. Die eigene Serie wird erst bei der Konkurrenz zum Hit, und die vierte Staffel fehlt dort noch. Klug wäre, die Aufmerksamkeit für die letzte Staffel zu nutzen, sonst bleibt der Ruhm bei Netflix."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-1-1.jpg?w=1000",
+            "alt": "Szenen aus der Serie „From“",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/"
+          }
+        },
+        {
+          "title": "Neu zu Patrick Stewart: Laut Sterbeurkunde starb er an Alzheimer und Lewy-Körper-Demenz",
+          "lead": "Mehr als drei Wochen nach dem Tod von Patrick Stewart ist die Todesursache bekannt. Der Schauspieler starb am 28. Oktober.",
+          "body": [
+            "Patrick Stewart ist laut seiner Sterbeurkunde, die TMZ vorliegt, an der Alzheimer-Krankheit und an Lewy-Körper-Demenz gestorben. Deadline griff den Bericht auf. Stewart starb am 28. Oktober.",
+            "Seine Karriere umfasste fast sechs Jahrzehnte. Auf der Bühne gewann er drei Olivier Awards und war für einen Tony nominiert, vor allem für Shakespeare-Rollen. 1995 bekam er einen Grammy, dazu kamen mehrere Nominierungen für Emmy, Golden Globe und SAG Award.",
+            "Weltberühmt wurde er 1987 als Captain Jean-Luc Picard in „Star Trek: The Next Generation“. Die Rolle spielte er sieben Staffeln lang bis 1994 und in mehreren Kinofilmen, beginnend mit „Star Trek: Treffen der Generationen“. Später kehrte er in der Paramount+-Serie „Star Trek: Picard“ zurück, deren dritte und letzte Staffel im April 2023 endete. Einer neuen Generation war er außerdem als Professor X in der „X-Men“-Reihe bekannt."
+          ],
+          "highlight": "Patrick Stewart ist laut seiner Sterbeurkunde, die TMZ vorliegt, an der Alzheimer-Krankheit und an Lewy-Körper-Demenz gestorben.",
+          "assessment": [
+            "Die Nachricht ist traurig und erklärt im Rückblick, warum Stewart in seinen letzten Jahren kaum noch öffentlich auftrat. Lewy-Körper-Demenz ist eine der weniger bekannten, aber häufigen Demenzformen, die oft mit Alzheimer zusammen auftritt.",
+            "Dass die Todesursache über eine Sterbeurkunde bei TMZ bekannt wird und nicht über die Familie, ist in den USA üblich, aber unschön. Wichtiger als die Diagnose bleibt ohnehin, was er hinterlassen hat: einen Captain, der mit Worten statt mit Phasern führte, und eine Bühnenkarriere, die ihn auch ohne Star Trek zu einem der großen britischen Schauspieler gemacht hätte."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp?w=681",
+            "alt": "Porträt von Patrick Stewart",
+            "credit": "CBS",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Lötschenpass: Das schmelzende Eis gibt einen 4000 Jahre alten Bronzering frei",
+          "lead": "Auf mehr als 2600 Metern Höhe zwischen Berner Oberland und Wallis haben Archäologen einen Halsring aus der frühen Bronzezeit gefunden. Es ist das größte prähistorische Metallobjekt, das je auf dem Pass entdeckt wurde.",
+          "body": [
+            "Mitarbeitende des Archäologischen Dienstes des Kantons Bern stießen Mitte Oktober 2026 bei einer Routinekontrolle auf den Ring. Das Team begeht die hochgelegenen Fundstellen regelmäßig, weil das schmelzende Eis immer wieder Gegenstände freilegt. Der Lötschenpass liegt auf über 2600 Metern an der Grenze zwischen Berner Oberland und Wallis.",
+            "Der Ring stammt aus der frühen Bronzezeit, zwischen 2000 und 1700 vor Christus. Er misst etwa 13 Zentimeter im Durchmesser und endet in zwei kleinen Ösen. Das Metall ist dünn, trotzdem hat der Ring Jahrtausende im Freien gut überstanden. Er wurde dokumentiert, vorsichtig geborgen und wird jetzt in den Labors in Bern konserviert.",
+            "Der Pass hat eine lange Fundgeschichte. Früher kamen römische Münzen und mittelalterliche Pfeile zum Vorschein, seit 2011 auch bronzezeitliche Gegenstände aus dem Eis, darunter ein Bogen, Pfeile, Lederstücke und eine Schachtel aus Holzspan. Der neue Ring lag abseits dieser Stellen. Er ist das erste Bronzeobjekt und das erste Schmuckstück der frühen Bronzezeit vom Lötschenpass.",
+            "Ähnliche Halsringe kennt man aus Gräbern von Männern und Frauen derselben Zeit in Gwatt, Einigen und Hilterfingen am Thunersee, auch im Wallis südlich der Berner Alpen gibt es Fundstellen aus der Epoche. Zusammen zeigen sie, dass die Menschen damals weite Strecken zurücklegten und die Alpenpässe über Jahrtausende überquerten.",
+            "Warum lässt jemand einen Ring auf einem kalten, windigen Pass zurück? Die Forschenden halten eine absichtliche Niederlegung für wahrscheinlich, etwa als Opfergabe an eine Gottheit, als Bitte um eine sichere Reise oder als Dank für eine gut überstandene."
+          ],
+          "highlight": "Er ist das erste Bronzeobjekt und das erste Schmuckstück der frühen Bronzezeit vom Lötschenpass.",
+          "assessment": [
+            "Die Gletscherarchäologie ist eine der wenigen Disziplinen, die vom Klimawandel profitiert, und gleichzeitig eine, die gegen die Uhr arbeitet. Was das Eis freigibt, muss schnell geborgen werden, bevor Wetter und Wanderer es zerstören. Der Lötschenpass ist dafür eines der besten Beispiele.",
+            "Der Ring selbst erzählt eine schöne Geschichte: Jemand trug vor 4000 Jahren seinen Schmuck über die Alpen und ließ ihn oben zurück. Ob als Opfer oder aus Dankbarkeit, man ahnt, wie gefährlich diese Wege damals waren."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/bronze-age-neck-ring-on-swiss-alpine-pass/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/bronze-neck-ring-swiss-alpine-1.jpg",
+            "alt": "Bronzezeitlicher Halsring am Fundort auf dem Lötschenpass",
+            "credit": "Archäologischer Dienst des Kantons Bern, Regula Gubler",
+            "license": "Artikelbild archaeologymag.com",
+            "source": "https://archaeologymag.com/2026/11/bronze-age-neck-ring-on-swiss-alpine-pass/"
+          }
+        },
+        {
+          "title": "Pfauen im Säulengang: Archäologie-Schüler legen römische Wandmalereien in Mérida frei",
+          "lead": "In der römischen Domus von Huerta de Otero, bekannt durch ein Medusa-Mosaik, sind gut erhaltene Wandmalereien mit Vögeln und mythologischen Motiven aufgetaucht. Gegraben haben Auszubildende einer städtischen Schule.",
+          "body": [
+            "In Mérida, der Hauptstadt der spanischen Region Extremadura und einst die römische Stadt Emerita Augusta, kamen an den Wänden des Peristyls einer römischen Stadtvilla Pfauen zum Vorschein. Sie gehören zu einem Zyklus von Wandmalereien, der die Außen- und Innenwände des Säulengangs schmückt. Die Motive verbinden Natur, viele Vögel und mythologische Themen; die Malereien sind nach Angaben der Ausgräber gut erhalten. In derselben Domus war in den Vorjahren ein Mosaik mit dem Kopf der Medusa entdeckt worden.",
+            "Die Malereien tauchten an einer Stelle auf, die eine alte Grabungsmethode übrig gelassen hatte. Huerta de Otero wurde 1976 erstmals untersucht, damals blieb ein Erdstreifen stehen. Genau auf diesen Streifen konzentrierte sich die diesjährige Kampagne, weil die Verbindung zwischen dem Raum mit dem Medusa-Mosaik und dem bereits ausgegrabenen Teil des Peristyls unklar war. „Am Ende hat uns die Grabung mit Wandmalereien überrascht“, sagt der Archäologe José Vargas.",
+            "Die Pfauen sagen auch etwas über die Bewohner. Sie seien „sehr repräsentative Bilder für die Macht“, die die Eigentümer dieses Hauses angehäuft haben müssen, sagte Pilar Amor, die städtische Beauftragte für Berufsausbildung, bei einem Besuch am 17. November.",
+            "Gegraben wird nicht von Profis, sondern von Auszubildenden der Escuela Profesional Barraeca, einer städtischen Berufsschule, die seit 2019 Grabungsarbeiter ausbildet. Seitdem laufen die Arbeiten in Huerta de Otero wieder. Das Gelände ist größer als 5000 Quadratmeter, bisher sind etwa 15 Prozent ausgegraben. Für eine Führung am 22. November waren die Plätze binnen 24 Stunden vergeben, die Teilnehmer wurden ausgelost."
+          ],
+          "highlight": "Das Gelände ist größer als 5000 Quadratmeter, bisher sind etwa 15 Prozent ausgegraben.",
+          "assessment": [
+            "Eine schöne Doppelgeschichte: ein bedeutender Fund und ein Ausbildungsprojekt, das funktioniert. Dass ausgerechnet der Streifen, den die Archäologen von 1976 stehen ließen, die Malereien geschützt hat, ist eine kleine Ironie der Forschungsgeschichte.",
+            "Mérida ist ohnehin eine der reichsten römischen Fundstätten außerhalb Italiens. Bei 85 Prozent noch unausgegrabener Fläche dürfte Huerta de Otero in den nächsten Jahren weitere Überraschungen liefern, und die ausverkaufte Führung zeigt, dass das Interesse da ist."
+          ],
+          "sources": [
+            { "name": "Finestre sull'Arte", "url": "https://www.finestresullarte.info/archeologia/spagna-allievi-scuola-archeologia-trovano-pitture-murali-domus-romana-huerta-de-otero" }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/dipinti-murali-huerta-de-otero-merida-1-1.jpg",
+            "alt": "Freigelegte römische Wandmalereien im Peristyl der Domus von Huerta de Otero in Mérida",
+            "credit": "Stadt Mérida",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/archeologia/spagna-allievi-scuola-archeologia-trovano-pitture-murali-domus-romana-huerta-de-otero"
+          }
+        },
+        {
+          "title": "Hirse in Polen schon um 1590 vor Christus: Isotope verschieben den Anbau um ein Jahrhundert",
+          "lead": "Eine Analyse von Zähnen und Knochen aus mehr als 190 Gräbern zeigt, dass Hirse in Polen rund 100 Jahre früher gegessen wurde als bisher angenommen. Eine Revolution war das aber nicht.",
+          "body": [
+            "Ein Team um Przemysław Makarowicz von der Adam-Mickiewicz-Universität in Posen hat die Isotope in Zähnen und Knochen von mehr als 190 Menschen untersucht, deren Überreste an Fundstellen in Polen geborgen wurden und aus der Zeit zwischen 2200 und 1000 vor Christus stammen. Das Ergebnis, veröffentlicht in Science Advances: Hirse wurde in Polen bereits um 1590 vor Christus angebaut und gegessen, etwa 100 Jahre früher als gedacht. Der früheste bekannte Hirseesser Mitteleuropas wurde in einem bronzezeitlichen Grab in Pielgrzymowice gefunden.",
+            "Hirse ist trockenresistent und wächst schnell. Laut der Studie kam sie nach und nach auf den Speiseplan und wurde mit der Zeit wichtiger. „Die Einführung der neuen Pflanze brachte keine Revolution, bei der Weizen oder Gerste vollständig ersetzt wurden“, sagt Makarowicz.",
+            "Interessant ist auch, wer die Hirse aß. Menschen, die Hirse aßen, und solche, die es nicht taten, hatten ähnliche archäologische und genetische Profile. Strontium-Isotope zeigen, dass die frühesten Hirseesser aus dem Südosten Polens stammten. Mit der Ankunft neuer Einwanderergruppen lässt sich die Ausbreitung der Pflanze nach Makarowicz aber nicht erklären."
+          ],
+          "highlight": "Menschen, die Hirse aßen, und solche, die es nicht taten, hatten ähnliche archäologische und genetische Profile.",
+          "assessment": [
+            "Die Studie passt zu einem Trend in der Archäologie: Neuerungen verbreiten sich oft nicht mit Menschen, sondern zwischen Menschen. Eine Pflanze, die Dürre verträgt, wird übernommen, weil sie nützlich ist, nicht weil ein neues Volk sie mitbringt.",
+            "Hundert Jahre klingen nach wenig, aber für die Frage, wann und wie die Hirse aus Asien nach Europa kam, sind solche Verschiebungen wichtig. Und die Methode, Ernährung direkt aus Knochen zu lesen statt aus verkohlten Körnern, liefert ein deutlich genaueres Bild davon, was die Menschen tatsächlich gegessen haben."
+          ],
+          "sources": [
+            { "name": "Archaeology (AIA)", "url": "https://archaeology.org/news/2026/11/19/study-pushes-back-cultivation-of-millet-in-bronze-age-poland/" }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261119-Poland-Bronze-Age-Burials.jpg",
+            "alt": "Bronzezeitliche Bestattung in Pielgrzymowice, links der früheste bekannte Hirseesser Mitteleuropas",
+            "credit": "Archaeology Magazine",
+            "license": "Artikelbild Archaeology",
+            "source": "https://archaeology.org/news/2026/11/19/study-pushes-back-cultivation-of-millet-in-bronze-age-poland/"
+          }
+        },
+        {
+          "title": "Stundenbuch des Ferrante d'Aragona: Ein anonymer Spender schenkt Italien eine Renaissance-Handschrift für eine Million Euro",
+          "lead": "Ein prachtvoll illuminiertes Stundenbuch vom aragonesischen Hof in Neapel geht in Staatsbesitz über. Es soll im Palazzo Reale von Neapel aufbewahrt werden.",
+          "body": [
+            "Die Schenkung wurde am Mittwoch in Mailand besiegelt, die Spenderin bleibt anonym. Das Stundenbuch entstand in den ersten Jahren des 16. Jahrhunderts und gilt als eines der feinsten Beispiele der Buchmalerei der italienischen Renaissance. Sein Wert wird auf etwa eine Million Euro geschätzt.",
+            "Die Handschrift enthält zahlreiche ganzseitige Miniaturen, aufwendige Zierrahmen, vier Blätter aus purpurgefärbtem Pergament und Zwischenseiten aus Seide. Gebunden ist sie in roten Samt mit vergoldetem Silber. Kunsthistorische Untersuchungen verorten sie am aragonesischen Hof in Neapel, die Miniaturen zeigen Bezüge zur römischen Schule nach dem Vorbild von Michelangelo und Raffael.",
+            "Mehrere Details verweisen auf Neapel: Im liturgischen Kalender stehen die Heiligen Athanasius, Januarius und Severus, einige Gebete sind auf Spanisch geschrieben. Datierung und Bildprogramm lassen einen Auftrag von Ferrante d'Aragona vermuten. Möglicherweise stammt das Buch aus der heute zerstreuten Bibliothek des Hauses Aragon.",
+            "Kulturminister Alessandro Giuli sprach von „einem der bedeutendsten Akte des Mäzenatentums der italienischen Republik“. Die Handschrift wird in der Nationalbibliothek im Palazzo Reale in Neapel aufbewahrt. Die Spenderin ließ ausrichten: „Meine Familie hatte das Privileg, es zu hüten, jetzt ist es richtig, dass es der Allgemeinheit zurückgegeben wird.“"
+          ],
+          "highlight": "Möglicherweise stammt das Buch aus der heute zerstreuten Bibliothek des Hauses Aragon.",
+          "assessment": [
+            "Solche Schenkungen sind selten, gerade wenn der Marktwert bei einer Million liegt und die Auktionshäuser bereitstünden. Dass das Buch nach Neapel zurückkehrt, in die Stadt, an deren Hof es vermutlich entstand, gibt der Geschichte einen schönen Abschluss.",
+            "Wissenschaftlich interessant wird es, wenn Fachleute die Handschrift jetzt genauer untersuchen können. Gelingt der Nachweis, dass sie aus der aragonesischen Bibliothek stammt, wäre das ein weiterer Baustein, um eine der großen verlorenen Fürstenbibliotheken der Renaissance zu rekonstruieren."
+          ],
+          "sources": [
+            { "name": "Finestre sull'Arte", "url": "https://www.finestresullarte.info/attualita/donato-allo-stato-il-prezioso-libro-d-ore-di-ferrante-d-aragona" }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/riproduzione-libro-d-ore-ferrante-d-aragona-dettaglio.jpg",
+            "alt": "Detail aus einer Reproduktion des Stundenbuchs des Ferrante d'Aragona von 1960",
+            "credit": "Finarte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/attualita/donato-allo-stato-il-prezioso-libro-d-ore-di-ferrante-d-aragona"
+          }
+        },
+        {
+          "title": "Die älteste datierte Abschrift der Göttlichen Komödie verlässt den Tresor: Piacenza zeigt den Codice Landiano von 1336",
+          "lead": "Vom 18. Dezember an stellt Piacenza die älteste datierte Handschrift von Dantes Commedia aus, umgeben von mehr als 40 Kunstwerken aus sieben Jahrhunderten.",
+          "body": [
+            "Der Codice Landiano liegt normalerweise in einem Tresor der Biblioteca Comunale Passerini-Landi in Piacenza. Vom 18. Dezember 2026 bis 18. April 2027 wird er im Kulturzentrum XNL Piacenza ausgestellt, als Mittelpunkt der Schau „1336. Dalla selva alla luce. Dante, la Commedia e il Codice Landiano“. Die Handschrift ist die älteste datierte Abschrift der Göttlichen Komödie.",
+            "Kurator Antonio Iommelli, Direktor der städtischen Museen von Piacenza, hat mehr als 40 Werke zusammengetragen, Gemälde, Skulpturen, Grafiken und Installationen. Zu den wichtigsten Leihgaben gehören Franz von Stucks „Lucifer“ aus der Nationalgalerie in Sofia, „Die Wollüstigen“ von Victor Prouvé aus Nancy, Guido Renis Entwurf „Anima beata“ aus den Kapitolinischen Museen in Rom und „Stregonerie“ von Salvator Rosa aus der Galleria Corsini in Florenz. Die Gegenwart vertreten unter anderem Anne und Patrick Poirier mit dem Zyklus „Grand Hôtel Dante“.",
+            "Die Ausstellung folgt den drei Teilen der Commedia. Im Erdgeschoss führt der Codice Landiano ins Inferno, vom dunklen Wald über den Acheron und Paolo und Francesca bis zur Stadt Dis und zu Luzifer. Die große Treppe wird zum Aufstieg ins Purgatorium, ganz oben empfängt ein lichtdurchfluteter Raum die Besucher als Empyreum.",
+            "Die Schau ist Teil der Bewerbung Piacenzas als Kulturhauptstadt Europas 2033. Begleitet wird sie von Theater, Musik und einem Programm für Schulen."
+          ],
+          "highlight": "Die Handschrift ist die älteste datierte Abschrift der Göttlichen Komödie.",
+          "assessment": [
+            "Dante hat die Commedia nicht als Autograf hinterlassen, es gibt keine Handschrift von ihm selbst. Umso wichtiger sind die frühen Abschriften, und der Codice Landiano, nur 15 Jahre nach Dantes Tod entstanden, ist ein Schlüsselzeugnis dafür, wie der Text überliefert wurde.",
+            "Die Inszenierung mit Treppen, Licht und Multimedia klingt nach Erlebnisausstellung, und man darf skeptisch sein, ob das der Handschrift gerecht wird. Aber wer den Codex sehen will, hat jetzt vier Monate Zeit, danach verschwindet er wieder im Tresor."
+          ],
+          "sources": [
+            { "name": "Finestre sull'Arte", "url": "https://www.finestresullarte.info/mostre/xnl-piacenza-in-mostra-la-piu-antica-copia-datata-divina-commedia-dante" }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/franz-von-stuck-lucifer-dettaglio.jpg",
+            "alt": "Detail aus Franz von Stucks Gemälde „Lucifer“, eine der Leihgaben der Ausstellung",
+            "credit": "Nationalgalerie Sofia",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/mostre/xnl-piacenza-in-mostra-la-piu-antica-copia-datata-divina-commedia-dante"
+          }
+        }
+      ]
+    }
+  ]
+}
