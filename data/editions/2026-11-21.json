@@ -1,0 +1,619 @@
+{
+  "nr": 45,
+  "date": "2026-11-21",
+  "intro": "Ein Anthropic-Mathematiker meldet mit Claude einen Beweis der Riemannschen Vermutung, und der Fall Nvidia weitet sich mit einer Vorladung aus Kalifornien und schweren Vorwürfen gegen Jensen Huang aus. GTA 6 macht offiziell 3,79 Milliarden Dollar an einem Tag, im Kino startet die Panem-Vorgeschichte stark, und in Sutton Hoo taucht ein Toter aus Sand auf.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Riemannsche Vermutung bewiesen? Ein Anthropic-Mathematiker meldet den Durchbruch mit Claude",
+          "lead": "Levent Alpöge, Mathematiker bei Anthropic, hat einen Beweis für eines der berühmtesten offenen Probleme der Mathematik veröffentlicht, erarbeitet gemeinsam mit Claude und formalisiert in Lean. Fast zeitgleich legte ein Stanford-Postdoc einen rein menschlichen Beweis vor.",
+          "body": [
+            "Levent Alpöge, der als Mathematiker bei Anthropic arbeitet, erklärt auf seiner Website, er habe „gemeinsam mit Claude“ einen Beweis der Riemannschen Vermutung gefunden. Die Methode reiche sogar weiter und löse auch die verallgemeinerte Riemannsche Vermutung; die erweiterte Fassung erwartet er „mit mehr Zeit“ ebenfalls. Die Vermutung stammt von 1859, betrifft die Verteilung der Primzahlen und die Nullstellen der Zeta-Funktion und gehört zu den sieben Millennium-Problemen des Clay Mathematics Institute, auf die jeweils eine Million Dollar ausgesetzt ist.",
+            "Das Besondere ist die Form: Alpöge hat den Beweis nicht als klassischen Aufsatz veröffentlicht, sondern in Lean, einer Programmiersprache, in der mathematische Beweise maschinell geprüft werden können. Laut TechCrunch haben mehrere Fachleute, darunter der MIT-Mathematiker Andrew Sutherland, bestätigt, dass sich der Beweis erfolgreich kompilieren lässt. Im Online-Forum Zulip arbeiten sich Zahlentheoretiker gerade durch die Argumentation, die nach ihren ersten Notizen tief in die Theorie automorpher Darstellungen greift.",
+            "Alpöge schreibt, er habe Anthropic-Chef Dario Amodei am späten Sonntagabend über den Fund informiert und die Veröffentlichung offenbar bis nach dem Börsengang am Donnerstag zurückgehalten. „Das Timing ist furchtbar“, schreibt er selbst. Anthropic hat sich nicht geäußert. Im August hatte das Unternehmen noch erklärt, man erwarte nicht, dass die von Claude genutzten Techniken zu einem Beweis der Vermutung führen würden.",
+            "Alpöge räumt ein, dass es noch keine für Menschen verständliche Erklärung des Beweises gibt, und verspricht, eine nachzuliefern. Er habe sich seit seiner Kindheit mit dem Problem beschäftigt und hätte „nicht leben können“, wenn er gewartet hätte. Fast zeitgleich veröffentlichte Ravi Vakil, Präsident der American Mathematical Society, den Entwurf eines Beweises der verallgemeinerten Vermutung von Stanford-Postdoc Alessandro Masullo, ausdrücklich „ganz menschlich, ohne KI“, nach zwölf Jahren Arbeit. Dieser Beweis liegt allerdings nicht in Lean vor und ist noch ungeprüft.",
+            "Offiziell ist noch nichts entschieden. Nach den Regeln des Clay Institute muss eine Lösung veröffentlicht sein und mindestens zwei Jahre Prüfung überstehen, bevor sie für den Preis in Frage kommt. Bisher wurde nur ein Millennium-Problem offiziell gelöst, die Poincaré-Vermutung. OpenAI hatte im September erklärt, das Navier-Stokes-Problem geknackt zu haben, was von Vorwürfen fragwürdiger Forschungspraktiken begleitet wurde."
+          ],
+          "highlight": "Laut TechCrunch haben mehrere Fachleute, darunter der MIT-Mathematiker Andrew Sutherland, bestätigt, dass sich der Beweis erfolgreich kompilieren lässt.",
+          "assessment": [
+            "Wenn das hält, ist es die größte mathematische Nachricht seit Jahrzehnten, und sie kommt in einer Form, die das Fach selbst erschüttert: ein maschinell geprüfter Beweis, den noch kein Mensch wirklich erklären kann. Das Lean-Kompilat ist ein starkes Indiz, aber kein Freispruch; entscheidend ist, ob die formalisierten Aussagen tatsächlich genau das ausdrücken, was die Vermutung behauptet. Genau das prüfen die Zahlentheoretiker gerade.",
+            "Bemerkenswert ist das Nebeneinander: Am selben Tag erscheint ein menschlicher Beweis mit dem trotzigen Satz „wir sind noch da“. Das zeigt, wie sehr sich die Mathematik gerade fragt, was Expertise noch bedeutet. Und dass ein Anthropic-Angestellter den Fund in der Woche des Börsengangs veröffentlicht, wird dem Unternehmen mehr Aufmerksamkeit bringen als jede Werbekampagne, ob es will oder nicht."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "alt": "Anthropic bei seinem Börsendebüt an der Nasdaq",
+            "credit": "Getty Images",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+          }
+        },
+        {
+          "title": "Neu im Fall Nvidia: Kalifornien schickt eine Vorladung, die New York Times beschreibt Huangs Führung durch Angst",
+          "lead": "Kaliforniens Generalstaatsanwalt will wissen, ob durch Jensen Huangs Affäre Chips oder Geheimnisse nach China gelangt sind. Gleichzeitig zeichnet ein Bericht der New York Times das Bild eines Chefs, der Mitarbeiter jahrzehntelang gedemütigt haben soll.",
+          "body": [
+            "Rob Bonta, Generalstaatsanwalt von Kalifornien, hat Nvidia eine Ermittlungsvorladung zugestellt. Er will klären, ob durch das Verhalten des Konzerns oder seines früheren Chefs Jensen Huang leistungsstarke Chips oder vertrauliche Informationen nach China gelangt sind, und ob Nvidia Anleger und Öffentlichkeit über dieses Risiko getäuscht hat. „Das Verhalten von Nvidia und seinem früheren CEO wirft hellrote Warnsignale auf“, erklärte Bonta.",
+            "Hintergrund ist Huangs Rücktritt in der vergangenen Woche nach mehreren außerehelichen Affären. Eine davon betraf Alice Huang (nicht verwandt), eine Managerin des früheren Nvidia-Kunden Megaspeed, die US-Sicherheitsbehörden für eine vom chinesischen Geheimdienst angeworbene Person halten. Auch Megaspeed selbst steht im Verdacht, an Chip-Lieferungen nach China unter Umgehung der US-Exportverbote beteiligt gewesen zu sein. Die Börsenaufsicht SEC soll eine zivilrechtliche Untersuchung eingeleitet haben, Huang hat zugesagt, im Dezember vor dem Kongress auszusagen.",
+            "Parallel hat die New York Times mit mehr als einem Dutzend aktueller und früherer Beschäftigter gesprochen. Sie beschreiben einen Chef, der durch Lob und Angst geführt habe. Huang soll gesagt haben, bei Nvidias Reichtum lasse sich niemand mehr mit Geld motivieren, Demütigung sei der einzige verbleibende Hebel. Einem Untergebenen soll er gedroht haben, ihm beide Arme auszureißen und ihn damit totzuschlagen; öffentliche Bloßstellung habe er als „Initiationsritus“ bezeichnet.",
+            "Die Zeitung fand eine lange Spur: Schon 2005 drohte ein früherer Personalchef mit einer Klage und nannte Huangs Verhalten das missbräuchlichste, das er je erlebt habe; Nvidia zahlte ihm mehr als eine Million Dollar. Huangs Sprecher nennt die Vorwürfe Erfindungen, die sich im Einzelnen nicht mehr widerlegen ließen, und verweist auf die Tausenden Beschäftigten, die sich in einem Brief für Huangs Rückkehr einsetzen. Der neue Aufsichtsratschef Harvey Jones hat eine Rückkehr bereits ausgeschlossen."
+          ],
+          "highlight": "Er will klären, ob durch das Verhalten des Konzerns oder seines früheren Chefs Jensen Huang leistungsstarke Chips oder vertrauliche Informationen nach China gelangt sind, und ob Nvidia Anleger und Öffentlichkeit über dieses Risiko getäuscht hat.",
+          "assessment": [
+            "Der Fall hat sich endgültig von einer Affäre zu einer Systemfrage entwickelt. Die Vorladung aus Kalifornien ist juristisch der gefährlichere Teil, denn Anlegertäuschung ist ein greifbarer Vorwurf, anders als moralische Empörung. Der Times-Bericht wiederum entzieht der Kampagne für Huangs Rückkehr den Boden: Wer jetzt noch „Michael Jordan“ ruft, verteidigt auch diesen Führungsstil.",
+            "Für Nvidia ist das Schlimmste, dass die Geschichte nicht endet. Kongress, SEC, Kalifornien und interne Ermittler arbeiten parallel, und jede Stelle kann neue Details liefern. Der Konzern verdient weiter prächtig, aber das Vertrauen, auf dem seine Rolle als Rückgrat der KI-Industrie beruht, wird gerade Woche für Woche angekratzt."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Kalifornien-will-von-Nvidia-Aufklaerung-zu-China-Lieferungen-11532235.html"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/jensen-huang-nvidia-investigation-harassment"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
+            "alt": "Jensen Huang bei einem Auftritt",
+            "credit": "Josh Edelson / AFP / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+          }
+        },
+        {
+          "title": "Zwei Millionen Köder: Ein Experiment zeigt, wie Geheimnisse aus KI-Prompts gestohlen werden",
+          "lead": "Der Sicherheitsforscher HD Moore hat fast zwei Millionen Prompts mit präparierten Zugangsdaten durch die Kette der KI-Vermittler geschickt. Ergebnis: gehackte Anbieter, Wiederverkäufer, die mitlesen, und ein chinesisches Labor, das geheime Links abruft.",
+          "body": [
+            "Viele KI-Apps schicken ihre Anfragen nicht direkt an Anthropic oder OpenAI, sondern über sogenannte KI-Router wie OpenRouter oder Vercel. Diese lesen den Prompt im Klartext, wählen ein passendes oder billiges Modell aus und leiten die Anfrage an einen von vielen Hosting-Anbietern weiter. Verschlüsselt ist der Text nur auf dem Transportweg; an jeder Station liegt er offen und wird womöglich gespeichert.",
+            "HD Moore, Forschungschef der Sicherheitsfirma Dragos, wollte wissen, was dabei mit sensiblen Daten passiert. Er baute eine Sammlung echter, aber leerer AWS-Zugangsschlüssel, SSH-Passwörter, geheimer URLs und Verweise auf private Git-Repositories. Jedes dieser „Kanarienvögel“ steckte er in genau einen Prompt an genau einen Anbieter. Tauchte ein Schlüssel später irgendwo auf, wusste er, wo das Leck war.",
+            "Das schwerwiegendste Ergebnis: Drei Hosting-Anbieter waren gehackt. Bei einem wurden alle Anfragen aus bestimmten Zeitfenstern Ende Oktober abgegriffen, sogar solche, die der Anbieter abgelehnt hatte, bevor überhaupt ein Modell lief. Die Angreifer testeten die Schlüssel teils binnen Stunden, durchsuchten Speicher nach weiteren Zugangsdaten und legten eigene Nutzerkonten an; insgesamt wurden die Köder zehntausende Male gegen die AWS-Schnittstellen eingesetzt. Bei zwei der gehackten Anbieter waren auch Anfragen betroffen, die als „Zero Data Retention“ markiert waren.",
+            "Daneben fand Moore Wiederverkäufer, die mit niedrigen Preisen Anfragen anlockten, die Protokollierung einschalteten und die Daten selbst missbrauchten. Am auffälligsten war ein chinesisches KI-Labor: Dessen Systeme riefen zwischen Juli und Oktober die geheimen URLs aus mehr als der Hälfte der Prompts ab, darunter rund zwei Drittel der Anfragen mit dem Vermerk „keine Datensammlung“. Das galt auch für Prompts, die über US-Anbieter liefen, die das Modell dieses Labors weiterverkaufen.",
+            "Moores Rat: Am sichersten sind selbst betriebene Modelle. Wer sich das nicht leisten kann, sollte direkt bei einem großen Anbieter mit einem Vertrag und einer Datenschutzerklärung buchen und keine voreingestellten Anbieter-Pools akzeptieren."
+          ],
+          "highlight": "Am auffälligsten war ein chinesisches KI-Labor: Dessen Systeme riefen zwischen Juli und Oktober die geheimen URLs aus mehr als der Hälfte der Prompts ab, darunter rund zwei Drittel der Anfragen mit dem Vermerk „keine Datensammlung“.",
+          "assessment": [
+            "Das ist eine der wichtigsten Sicherheitsstudien des Jahres, weil sie eine bequeme Annahme zerstört: dass ein Häkchen bei „keine Speicherung“ irgendetwas garantiert. In der Praxis wandert ein Prompt durch eine Kette von Firmen, die niemand kennt, und jede einzelne kann gehackt sein oder selbst mitlesen.",
+            "Für alle, die Code, Logs oder Kundendaten in KI-Werkzeuge kippen, ist die Lehre einfach: Geheimnisse gehören nicht in Prompts, und billige Vermittler sind billig, weil irgendjemand anders bezahlt. Die Branche wird um verbindliche Prüfungen der Lieferkette nicht herumkommen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+            "alt": "Illustration zu Datenlecks in KI-Diensten",
+            "credit": "Ars Technica",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+          }
+        },
+        {
+          "title": "Meta rückt vom Klimaziel 2030 ab: Die Emissionen steigen durch KI-Rechenzentren um fast 40 Prozent",
+          "lead": "Meta überprüft sein Ziel, bis 2030 netto keine Treibhausgase mehr auszustoßen. Als erster der großen US-Konzerne räumt es damit öffentlich ein, dass der KI-Ausbau die Klimapläne sprengt.",
+          "body": [
+            "In seinem Nachhaltigkeitsbericht 2026 schreibt Meta, man überprüfe „Zeitpläne, Reihenfolge und Zwischenziele, einschließlich des Zeitrahmens 2030 für unser Netto-Null-Ziel“. Die langfristigen Ambitionen hätten sich nicht geändert, wohl aber das Umfeld, schreiben Rachel Peterson, Vizepräsidentin für Rechenzentren, und Blair Swedeen, Leiter Nachhaltigkeit. Die Nachfrage nach KI-Infrastruktur sei schneller gewachsen, als fast irgendjemand erwartet habe.",
+            "Die Zahlen sind deutlich. Metas Gesamtemissionen stiegen von 15,6 Millionen Tonnen CO2-Äquivalent im Jahr 2024 auf mehr als 21,7 Millionen Tonnen 2025, ein Plus von fast 40 Prozent. Das entspricht laut Ars Technica ungefähr dem Ausstoß des US-Bundesstaats Idaho. Den größten Teil des Anstiegs führt Meta auf Investitionsgüter wie Server zurück. Auch nach Abzug von Ökostromprojekten und CO2-Entnahme stiegen die Nettoemissionen um 45 Prozent auf mehr als 11,8 Millionen Tonnen.",
+            "Zum Vergleich: Microsoft meldete für denselben Zeitraum ein Plus von 25 Prozent, Google 18 Prozent und Amazon 16 Prozent. Alle drei halten bisher offiziell an ihren Zielen fest, obwohl auch sie neue Rechenzentren bauen, die teils mit Erdgas betrieben werden. In absoluten Zahlen hat Meta allerdings einen der kleineren Fußabdrücke unter den großen Konzernen.",
+            "Beim Wasser ist das Bild gemischt. Der direkte Verbrauch der Anlagen sank leicht von 825 auf 790 Millionen Gallonen, in Regionen mit Wasserknappheit stieg er aber von 198 auf 246 Millionen Gallonen. Den indirekten Verbrauch über die Stromerzeugung beziffert Meta auf mehr als 26 Milliarden Gallonen nach 19 Milliarden im Vorjahr. Immerhin ist Meta der einzige große Rechenzentrumsbetreiber, der diesen indirekten Verbrauch überhaupt ausweist."
+          ],
+          "highlight": "Metas Gesamtemissionen stiegen von 15,6 Millionen Tonnen CO2-Äquivalent im Jahr 2024 auf mehr als 21,7 Millionen Tonnen 2025, ein Plus von fast 40 Prozent.",
+          "assessment": [
+            "Meta sagt nur offen, was bei allen großen Konzernen längst sichtbar ist: Der KI-Wettlauf und die Klimaziele von 2020 passen nicht zusammen. Dass Meta als Erster einknickt, ist ehrlicher als das Festhalten der anderen an Zielen, die sie mit jedem neuen Gaskraftwerk unglaubwürdiger machen.",
+            "Politisch kommt das zur Unzeit. Der Widerstand gegen Rechenzentren ist in den USA zum Wahlkampfthema geworden, und ein Konzern, der seine Klimaziele aufweicht, liefert den Gegnern ein Argument. Ich erwarte, dass weitere folgen, vermutlich leiser formuliert."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-2560x1440.jpg",
+            "alt": "Metas Rechenzentrum in El Paso",
+            "credit": "Brandon Bell / Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+          }
+        },
+        {
+          "title": "Google räumt auf: Assistant verschwindet von den Lautsprechern, die Suchseite verliert ihren Suchknopf",
+          "lead": "Google ersetzt den Assistant auf smarten Lautsprechern und Displays im August 2027 durch Gemini und stellt schon im Januar die Nest-App ein. Gleichzeitig wird die Startseite der Suche zur KI-Oberfläche.",
+          "body": [
+            "Am 25. Januar 2027 schaltet Google die Nest-App ab. Thermostate, Kameras und Rauchmelder der Marke Nest müssen dann über die Google-Home-App verwaltet werden; Geräte und Kameraverläufe zieht Google an diesem Tag automatisch um, wenn die Home-App eingerichtet ist. Abos von Nest Aware der ersten Generation werden in Google Home Premium überführt. Ab dem 25. März 2027 löscht Google die Daten der Nest-Konten.",
+            "Am 2. August 2027 folgt der größere Schritt: Auf smarten Lautsprechern und Displays ersetzt dann der Sprachassistent Gemini for Home den Google Assistant. Google begründet das damit, dass man mit Gemini natürlicher sprechen und komplexere Fragen stellen könne, ohne feste Befehle zu lernen. Auf Smartphones hat Google den Assistant bereits Anfang dieses Jahres abgeschaltet.",
+            "Parallel hat Google die neu gestaltete Startseite der Suche für Desktop-Rechner offiziell eingeführt. Unter dem Suchfeld stehen nun Knöpfe für Bildgenerierung, Dateianalyse und Brainstorming mit Gemini. „Auf gut Glück“ bleibt, der klassische Knopf „Google Suche“ daneben ist verschwunden. Angemeldete Nutzer sehen links eine ausklappbare Seitenleiste mit ihren letzten Unterhaltungen im KI-Modus, die auch auf der Ergebnisseite erscheint.",
+            "Suchchef Robby Stein schrieb auf X, die Seitenleiste habe in Tests einen „großen Unterschied“ gemacht, weil Nutzer dort weitermachen könnten, wo sie aufgehört haben. Ars Technica weist darauf hin, dass der Funktionsverlust gering ist, weil die meisten Menschen ohnehin die Eingabetaste drücken."
+          ],
+          "highlight": "Am 2. August 2027 folgt der größere Schritt: Auf smarten Lautsprechern und Displays ersetzt dann der Sprachassistent Gemini for Home den Google Assistant.",
+          "assessment": [
+            "Beide Meldungen erzählen dieselbe Geschichte: Google baut seine Produkte konsequent um Gemini herum, und das Alte verschwindet nicht mit einem Knall, sondern Stück für Stück. Der fehlende Suchknopf ist dabei symbolisch wichtiger als praktisch. Die klassische Suche ist auf Googles eigener Startseite nicht mehr die Hauptsache.",
+            "Für Besitzer älterer Nest-Geräte ist das Datum im Januar das relevantere. Wer die Umstellung verschläft, riskiert ab März den Verlust seiner Daten. Ob Gemini auf alten Lautsprechern so zuverlässig Lichter schaltet wie der Assistant, muss sich erst zeigen; da hatten viele Nutzer bisher wenig Geduld mit Experimenten."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21935903/dseifert-nest-audio-4225-1.0.jpeg?quality=90&strip=all&crop=0%2C17.255102056085%2C100%2C78.526549844458&w=1200",
+            "alt": "Ein blauer Google-Nest-Audio-Lautsprecher in einem Wohnzimmer",
+            "credit": "Dan Seifert / The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Neu zu GTA 6: Rockstar meldet 3,79 Milliarden Dollar am ersten Tag, der größte Start der Unterhaltungsgeschichte",
+          "lead": "Die offiziellen Zahlen übertreffen alle Schätzungen deutlich: 32,5 Millionen vorab verkaufte Exemplare und 3,79 Milliarden Dollar Umsatz bis Ende des ersten Verkaufstags.",
+          "body": [
+            "Rockstar Games hat die ersten offiziellen Verkaufszahlen zu Grand Theft Auto VI genannt. Bis zum Ende des ersten Verkaufstags habe das Spiel 3,79 Milliarden Dollar im Handel umgesetzt und damit „einen neuen Rekord für Unterhaltung in jedem Medium“ aufgestellt. Vor dem Start am 19. November wurden laut Rockstar 32,5 Millionen Exemplare für PS5 und Xbox Series X/S verkauft, ebenfalls ein Rekord.",
+            "Die Zahlen liegen weit über den Schätzungen. Sensor Tower hatte wenige Stunden zuvor noch 2,36 Milliarden Dollar aus 24,5 Millionen Exemplaren errechnet, der Analyst Joost van Dreunen hatte für das gesamte erste Wochenende „über zwei Milliarden“ vorhergesagt. GTA 5 hatte vor mehr als einem Jahrzehnt in den ersten 24 Stunden rund 800 Millionen Dollar eingespielt. Der Umsatz des ersten Tages übersteigt auch das in Berichten genannte Entwicklungsbudget von etwa zwei Milliarden Dollar; Rockstar und Take-Two haben die Kosten nie bestätigt.",
+            "„Mit großer Dankbarkeit beginnen wir mit der Veröffentlichung von Grand Theft Auto VI ein neues Kapitel von Rockstar Games“, erklärte Firmengründer Sam Houser. Enders Analysis hatte für das erste Jahr 30 bis 35 Millionen verkaufte Exemplare erwartet, in einem Ausnahmeszenario 50 bis 60 Millionen. Laut GamesIndustry.biz wirkt dieses Szenario nun plausibler, auch wenn die hohen Konsolenpreise und die noch unbestätigte PC-Fassung das Wachstum bremsen.",
+            "Wie stark die Vorfreude war, zeigt auch eine Auswertung von Ampere Analysis: Mehr als zwei Millionen Xbox-Spieler in Großbritannien und den USA stellten ihre Konsole auf Neuseeland um, wo das Spiel zuerst freigeschaltet wurde, und spielten so schon am 18. November. Auf der PS5 war der Trick schwieriger, weil sich die Region eines Kontos nicht ändern lässt; dort nutzten ihn nur etwa 125.000 Spieler."
+          ],
+          "highlight": "Bis zum Ende des ersten Verkaufstags habe das Spiel 3,79 Milliarden Dollar im Handel umgesetzt und damit „einen neuen Rekord für Unterhaltung in jedem Medium“ aufgestellt.",
+          "assessment": [
+            "Man muss die Zahl zweimal lesen: An einem Tag mehr Umsatz als die meisten Kinofilme in ihrer gesamten Laufzeit, und fast das Fünffache von GTA 5. Die Analysten lagen nicht ein bisschen daneben, sondern um mehr als die Hälfte. Das sagt viel darüber, wie schwer sich ein solches Ereignis modellieren lässt.",
+            "Für die Branche ist der Rekord zwiespältig. Er beweist, dass es für das größte Spiel praktisch keine Obergrenze gibt, und gleichzeitig wird jeder Verlag versucht sein, diesen Erfolg mit noch größeren Budgets zu jagen. Die eigentliche Langzeitfrage ist der Online-Modus: GTA 5 kam durch GTA Online auf 230 Millionen Exemplare, und dazu hat Rockstar beim Nachfolger noch nichts Konkretes gesagt."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch"
+            },
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Raul_Bautista_02_RUnoiiq.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus GTA 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history"
+          }
+        },
+        {
+          "title": "Ubisoft-Halbjahr: Black Flag Resynced rettet das Quartal, unterm Strich stehen 254 Millionen Euro Verlust",
+          "lead": "Das Remake von Assassin's Creed Black Flag hat Ubisoft im zweiten Quartal über die eigene Prognose gehoben. Das Halbjahr bleibt trotzdem schwach, der Umbau geht weiter.",
+          "body": [
+            "Ubisoft hat im zweiten Geschäftsquartal Nettobuchungen von 389 Millionen Euro erzielt und damit die eigene Prognose von 370 Millionen übertroffen. Den Ausschlag gab Assassin's Creed Black Flag Resynced. Die neue Führung der Reihe habe „in der Schlussphase der Entwicklung klare, entschlossene Entscheidungen getroffen“, schreibt der Konzern, das Remake gehöre damit zu den erfolgreichsten Action-Adventure-Neuauflagen der Branche.",
+            "Für das gesamte Halbjahr bis Ende September sanken die Nettobuchungen dagegen um 16,5 Prozent auf 644,7 Millionen Euro, der Nettoverlust lag bei 254,5 Millionen Euro. Die Einnahmen aus älteren Spielen brachen im zweiten Quartal um 55 Prozent auf 218 Millionen Euro ein, weil das Vorjahr durch Assassin's Creed Shadows und Partnerschaften stark war. Die Zahl der Beschäftigten sank im Halbjahr um fast 1100; erst kurz vor den Zahlen hatte Ubisoft 166 Stellen in Montreal und Québec gestrichen.",
+            "Auch die Struktur ändert sich weiter. Die Creative Houses 3 (Live-Service) und 5 (Casual) werden unter Julien Bares zusammengelegt. Das Team hinter dem KI-Experiment Teammates ist als Tochter Motherbrain ausgegliedert und arbeitet an „smarten NPCs mit Gedächtnis und KI-Spielleitern“. Eine eigene Einheit soll Marken verwerten, die keinem Creative House zugeordnet sind.",
+            "Finanzchef Frédérick Duguet stellte klar, dass Konsole und PC der Schwerpunkt bleiben, „insbesondere der PC, der dynamischer ist als je zuvor“. Rainbow Six Mobile wurde im Oktober eingestellt. Das in China angesiedelte Mobilspiel Assassin's Creed Jade sei aber weiter in Entwicklung und bleibe „mittel- bis langfristig eine Chance“."
+          ],
+          "highlight": "Für das gesamte Halbjahr bis Ende September sanken die Nettobuchungen dagegen um 16,5 Prozent auf 644,7 Millionen Euro, der Nettoverlust lag bei 254,5 Millionen Euro.",
+          "assessment": [
+            "Ubisoft lebt im Moment von dem, was es schon einmal gemacht hat. Ein gutes Remake eines 13 Jahre alten Spiels hebt das Quartal, während der Rest des Geschäfts schrumpft und fast 1100 Menschen gehen mussten. Das ist keine Wende, sondern eine Atempause.",
+            "Interessant ist die Aussage zum PC: Ubisoft war lange einer der Verlage, die den eigenen Launcher und Konsolen-Exklusivdeals pflegten. Wenn der Finanzchef jetzt den PC als dynamischste Plattform nennt, ist das auch ein Eingeständnis, dass man dort Wachstum verschenkt hat."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/ubisoft-assassins-creed-jade-still-in-development-creative-houses-merge"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/black-flag-resynced.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Zwei Segelschiffe liefern sich auf stürmischer See eine Seeschlacht",
+            "credit": "Ubisoft",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m"
+          }
+        },
+        {
+          "title": "Valve warnt: Die Steam Machine könnte wegen Speicherpreisen noch teurer werden",
+          "lead": "Valve hat die letzten Vorbestellungen der Steam Machine abgearbeitet, weiß aber nach eigenen Angaben nicht, wie viele Geräte es künftig bauen kann und zu welchem Preis.",
+          "body": [
+            "„Wir bauen weiter Steam Machines, aber die Kosten für Arbeitsspeicher und Datenträger steigen in beispiellosem Ausmaß“, schreibt Valve in einem Blogeintrag. „Deshalb wissen wir noch nicht, wie viele Geräte wir herstellen können und zu welchem Preis wir sie anbieten können.“ Besonders knapp werde das Modell mit zwei Terabyte.",
+            "Schon zum Verkaufsstart im Juni hatte Valve weniger Geräte zu einem höheren Preis als geplant ausgeliefert, weil sich RAM und Speicherchips nicht zu vernünftigen Kosten beschaffen ließen. Nun sind die letzten Reservierungen bedient: Für das 512-GB-Modell gibt es laut Valve keine Warteliste mehr, die verbliebenen Inhaber von 2-TB-Reservierungen aus dem April haben Kaufeinladungen erhalten. Das kleinere Modell war kurzzeitig sogar wieder im Steam-Shop verfügbar.",
+            "Analysten hatten schon früher darauf hingewiesen, dass Valve bei Zulieferern nicht dieselbe Priorität genießt wie Nintendo, Sony oder Microsoft. Die Steam Machine sei ein Nischenprodukt, das beim Einkauf nicht in gleicher Weise profitieren könne, sagte Daniel Ahmad von Niko Partners. Schätzungen auf Basis der Steam-Verkaufscharts lagen im Juli bei 12.000 bis 15.000 verkauften Geräten pro Woche; die PS5 kommt im Schnitt auf mehr als 300.000.",
+            "Mit einer Preiserhöhung wäre Valve nicht allein: Alle drei großen Konsolenhersteller haben 2025 und erneut in diesem Jahr ihre Preise angehoben, was in der Geschichte der Branche ungewöhnlich ist. Weitere Informationen zur Verfügbarkeit kündigt Valve für Januar an."
+          ],
+          "highlight": "„Deshalb wissen wir noch nicht, wie viele Geräte wir herstellen können und zu welchem Preis wir sie anbieten können.“",
+          "assessment": [
+            "Die KI-Rechenzentren fressen inzwischen auch den Spielemarkt: Speicherchips, die früher in Konsolen und PCs landeten, gehen an Server, und die Kleinen zahlen den Aufpreis zuerst. Valve ist dabei in der ungünstigsten Lage, weil es keine Mengen garantieren kann wie Sony.",
+            "Dass ein Hersteller offen sagt, er wisse den eigenen künftigen Preis nicht, ist ungewöhnlich ehrlich, aber für Käufer ein klares Signal: Wer eine Steam Machine will und jetzt eine Einladung hat, sollte nicht auf günstigere Zeiten hoffen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
+            "alt": "Valves Steam Machine",
+            "credit": "Valve",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+          }
+        },
+        {
+          "title": "Der Macher von „E.T.“ warnt: KI-Spiele bringen eine Schwemme wie vor dem Crash von 1983",
+          "lead": "Howard Scott Warshaw, dessen Atari-Spiel „E.T.“ als Symbol des Videospiel-Crashs gilt, vergleicht die Flut von KI-Spielen mit dem Ramsch, der damals den Markt zerstörte.",
+          "body": [
+            "Auf der Entwicklerkonferenz DevGAMM in Lissabon hielt Howard Scott Warshaw einen Vortrag mit dem Titel „From Atari to AI“. Warshaw entwickelte für das Atari 2600 den Klassiker Yars' Revenge, aber auch „E.T. the Extra-Terrestrial“, dessen schlechte Qualität als ein Faktor des US-Videospiel-Crashs gilt. Damals fielen die Umsätze der US-Branche von über drei Milliarden Dollar 1983 auf etwa 100 Millionen 1985; unverkaufte E.T.-Module wurden in der Wüste von New Mexico vergraben.",
+            "Warshaw, der später Psychotherapeut wurde, sieht eine Parallele. Vor dem Crash habe es eine „Schwemme von Mist auf dem Markt“ gegeben, weil plötzlich jeder Spiele herausbringen konnte. „KI wird denselben Effekt in größerem Maßstab haben“, sagte er. Wer früher Wochen, Monate oder Jahre programmieren musste, schaffe das mit KI-Unterstützung nun in Tagen.",
+            "Einen neuen Crash erwartet Warshaw allerdings nicht. Die Herausforderung sei vielmehr, „den Mist auszusieben“. Spieleideen seien wie Romanideen: Jeder glaube, sein Leben gebe eine gute Geschichte her, aber die meisten könnten es nicht gut umsetzen, „weil die meisten Spiele schlecht sind“. KI mache es eben auch denen möglich, die es nicht können.",
+            "Zugleich betonte er die Kehrseite: Durch die Masse werde es auch mehr wirklich gute Spiele und interessante Ideen geben. Die Frage sei nur, wie man sie in der Flut noch findet."
+          ],
+          "highlight": "„KI wird denselben Effekt in größerem Maßstab haben“, sagte er.",
+          "assessment": [
+            "Warshaw ist für diesen Vergleich der richtige Mann, gerade weil er selbst zur Symbolfigur des Absturzes wurde. Seine Diagnose trifft: Das Problem von KI-Spielen ist weniger ihre Existenz als die Sichtbarkeit. Auf Steam erscheinen schon jetzt mehr Spiele, als irgendwer sichten kann.",
+            "Einen Crash wie 1983 wird es nicht geben, weil heute nicht Händlerregale verstopfen, sondern Algorithmen sortieren. Damit verlagert sich die Macht noch stärker zu den Plattformen, die entscheiden, was gesehen wird. Für kleine Studios ohne Marketingbudget ist das die eigentliche Gefahr."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Howard Scott Warshaw bei seinem Vortrag „From Atari to AI“ auf der DevGAMM Lisbon 2026",
+            "credit": "GamesIndustry.biz",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983"
+          }
+        },
+        {
+          "title": "Atlus verspricht: Nach Persona 6 soll das Warten kürzer werden",
+          "lead": "Seit Persona 5 Royal sind sieben Jahre vergangen, von Persona 6 gibt es nur einen vagen Teaser. Produzent Kazuhisa Wada sagt, künftige Teile sollen schneller kommen.",
+          "body": [
+            "„Persona 6 ist nicht das Ende“, sagte Kazuhisa Wada, Generalproduzent des P-Studios bei Atlus, in einem Interview mit dem Sega-Magazin Samania, das GamesRadar übersetzt hat. „Wir arbeiten daran, dass die Leute auf das nächste Spiel nicht mehr so lange warten müssen wie bisher.“ Um die Marke wachsen zu lassen, überlege man jeden Tag, wie man den Erwartungen bei Kreativität und Entwicklung gerecht werde.",
+            "Zwischen Persona 4 Golden (2012) und dem ursprünglichen Persona 5 lagen vier Jahre, seit Persona 5 Royal sind es bereits sieben. Dazwischen erschienen zahlreiche Ableger und Kooperationen. Große Rollenspiele wie Persona bräuchten fünf Jahre oder mehr Entwicklungszeit, erklärte Wada, deshalb liege zwischen nummerierten Teilen oft viel Zeit. Wie genau Atlus das beschleunigen will, sagte er nicht.",
+            "Zu Persona 6 selbst könne er „nicht viel sagen“. Man erschaffe aber „etwas Besseres als alles, was wir bisher gemacht haben“. Offiziell bestätigt ist bisher nur, dass das Spiel für Xbox Series X/S, PS5 und PC erscheint. Ein großes Leak von Achievement-Listen hatte Anfang des Jahres Details zu Persona 6 und anderen unveröffentlichten Spielen wie Kingdom Hearts 4 offengelegt."
+          ],
+          "highlight": "„Wir arbeiten daran, dass die Leute auf das nächste Spiel nicht mehr so lange warten müssen wie bisher.“",
+          "assessment": [
+            "Das ist eher eine Absichtserklärung als eine Nachricht, aber eine aufschlussreiche. Eurogamer vermutet zu Recht, dass Atlus die Gewohnheit aufgeben könnte, jedes Spiel ein paar Jahre später als erweiterte Fassung neu zu verkaufen. Das würde Zeit frei machen und wäre für Fans ein Gewinn.",
+            "Die eigentliche Frage bleibt das Datum von Persona 6. Solange es nur Teaser und Leaks gibt, klingen Versprechen über kürzere Abstände danach, dass das Warten auf diesen Teil noch eine Weile dauert."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Persona-5-Royal---Take-Over-Trailer---Nintendo-Switch-0-45-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Persona 5 Royal: Igor sitzt an seinem Schreibtisch",
+            "credit": "Atlus",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/persona-6-games-come-quicker-atlus"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Neu zu Panem: „Sunrise on the Reaping“ steuert auf 110 Millionen Dollar in den USA zu",
+          "lead": "Der sechste Film der „Tribute von Panem“ startet weit stärker als sein Vorgänger und könnte weltweit rund 200 Millionen Dollar am ersten Wochenende einspielen.",
+          "body": [
+            "„Die Tribute von Panem: Sunrise on the Reaping“ von Lionsgate steuert laut Deadline auf einen Start von 110 Millionen Dollar in Nordamerika zu, in 4108 Kinos. Am Freitag kamen 51 Millionen zusammen, darin enthalten 21 Millionen aus den Vorpremieren am Donnerstag, das zweitbeste Vorpremieren-Ergebnis des Jahres. Damit wäre es der viertbeste Start der Reihe, bei stabilem Verlauf sogar der drittbeste.",
+            "Der Sprung ist enorm: „The Ballad of Songbirds & Snakes“ hatte 2023 mit 44,6 Millionen Dollar den schwächsten Start der Reihe hingelegt. Das Plus von 147 Prozent zwischen zwei Teilen einer Reihe nennt Deadline beispiellos für einen sechsten Film. Die Rekorde halten weiter „Catching Fire“ (158 Millionen) und der erste Teil (152,5 Millionen).",
+            "International lief der Film in 66 von 67 Märkten auf Platz eins an, weitere 17 starten an diesem Wochenende. Bis Donnerstag kamen außerhalb der USA 24,6 Millionen Dollar zusammen, in Deutschland waren es am ersten Tag eine Million Dollar, 83 Prozent mehr als beim Vorgänger. Die Branche erwartet im Ausland rund 97 Millionen, insgesamt also etwa 200 Millionen Dollar weltweit.",
+            "Regie führte wie bei vier der fünf früheren Filme Francis Lawrence, zur Besetzung gehören Joseph Zada als junger Haymitch, McKenna Grace, Elle Fanning, Jesse Plemons, Glenn Close, Kieran Culkin und Ralph Fiennes als Präsident Snow. Die Nettoproduktionskosten liegen laut Deadline bei 150 Millionen Dollar, das US-Marketing bei 60 Millionen. Die bisherigen fünf Filme haben weltweit 3,3 Milliarden Dollar eingespielt."
+          ],
+          "highlight": "Das Plus von 147 Prozent zwischen zwei Teilen einer Reihe nennt Deadline beispiellos für einen sechsten Film.",
+          "assessment": [
+            "Das ist eine bemerkenswerte Wiederbelebung. Noch vor drei Jahren sah die Reihe ausgelaugt aus, jetzt zieht sie fast so viele Leute ins Kino wie zu ihren besten Zeiten. Der Grund ist wohl simpel: Haymitch ist eine Figur, die das Publikum kennt und mag, und das Buch war ein Bestseller mit treuer Leserschaft.",
+            "Die skeptischen Kritiken der Premiere haben offenbar kaum geschadet. Für Lionsgate, das stark auf diese Marke angewiesen ist, ist es genau der Erfolg, den das Studio brauchte. Ich rechne damit, dass die Ankündigung weiterer Panem-Vorgeschichten nicht lange auf sich warten lässt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-On-The-Reaping-3.jpg?w=1024",
+            "alt": "Joseph Zada in „Die Tribute von Panem: Sunrise on the Reaping“",
+            "credit": "Lionsgate / Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          }
+        },
+        {
+          "title": "„Kevin – Allein zu Haus“ bekommt eine Fortsetzung mit Macaulay Culkin, geschrieben von Seth Rogen und Evan Goldberg",
+          "lead": "Disneys 20th Century Studios entwickelt eine Fortsetzung des Weihnachtsklassikers von 1990, in der Culkin wieder Kevin spielen soll. Das Projekt steht noch ganz am Anfang.",
+          "body": [
+            "Wie IndieWire erfahren hat, arbeitet Disneys 20th Century Studios an einer Fortsetzung von „Kevin – Allein zu Haus“, in der Macaulay Culkin seine Rolle wieder aufnimmt. Seth Rogen und Evan Goldberg sollen mit ihrer Firma Point Grey das Drehbuch schreiben und den Film produzieren; die Idee stammt von Culkin selbst. Disney wollte sich nicht äußern, zuerst hatte das Branchenportal Puck berichtet.",
+            "Das Projekt ist in einem sehr frühen Stadium. Zur Handlung gibt es keine Details, ein Regisseur ist nicht verpflichtet. Chris Columbus inszenierte das Original und „Kevin – Allein in New York“, beide nach Drehbüchern des verstorbenen John Hughes. Die beiden Filme spielten weltweit 477 und 358 Millionen Dollar ein, das Original läuft bis heute jedes Jahr im Fernsehen und taucht regelmäßig in den Streaming-Charts auf.",
+            "Insgesamt gibt es bereits sechs „Allein zu Haus“-Filme, die meisten davon Fernsehfilme, zuletzt 2021 „Home Sweet Home Alone“ für Disney+. Eine Fortsetzung mit dem ursprünglichen Kevin hatte es bisher nicht gegeben. Joe Pesci und Daniel Stern, die beiden Einbrecher, leben noch; Pesci hat sich weitgehend zurückgezogen. Catherine O'Hara, die Kevins Mutter spielte, ist vor Kurzem gestorben.",
+            "Culkin selbst hatte zuletzt einen Gastauftritt in der jüngsten Staffel von „Fallout“ und sprach eine Rolle in Disneys „Zoomania 2“."
+          ],
+          "highlight": "Seth Rogen und Evan Goldberg sollen mit ihrer Firma Point Grey das Drehbuch schreiben und den Film produzieren; die Idee stammt von Culkin selbst.",
+          "assessment": [
+            "Ein „Legacyquel“, also eine späte Fortsetzung mit dem gealterten Original, ist in Hollywood längst Routine. Hier könnte es tatsächlich funktionieren, weil der Stoff eine naheliegende Wendung bietet: Kevin als Vater, der nun selbst etwas zu verlieren hat. Rogen und Goldberg haben mit „The Studio“ gezeigt, dass sie Nostalgie und Selbstironie verbinden können.",
+            "Die Gefahr liegt im Gegenteil: ein Film, der nur Zitate aneinanderreiht. Dass die Idee von Culkin kommt, der mit seinem Kinderruhm lange gehadert hat, spricht dafür, dass es um mehr gehen soll als um Fallen und Farbdosen."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/home-alone-sequel-macaulay-culkin-seth-rogen-evan-goldberg-1235229735/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2024/12/MSDHOAL_FE023.jpg?w=1200",
+            "alt": "Macaulay Culkin in „Kevin – Allein zu Haus“ (1990)",
+            "credit": "20th Century Fox / Everett Collection",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/home-alone-sequel-macaulay-culkin-seth-rogen-evan-goldberg-1235229735/"
+          }
+        },
+        {
+          "title": "David Fincher verteidigt KI im Film: „Sie existiert. Sollen wir sie nicht benutzen?“",
+          "lead": "Nach Kritik an offenbar KI-erzeugten Bildern in „The Further Mis-Adventures of Cliff Booth“ hat Regisseur David Fincher den Einsatz der Technik verteidigt.",
+          "body": [
+            "„Ich bin kein Maschinenstürmer, also fürchte ich mich nicht vor dem Unbekannten“, sagte Fincher der Los Angeles Times. „Sind alle zufrieden damit, dass wir diese Kunstform so weit verstanden haben, dass wir eigentlich zurück zum Zelluloid müssen?“ Menschen malten seit 40.000 Jahren, das Kino sei hundert Jahre alt, und trotzdem riefen alle: „Stopp. Stifte weg. Kein Weiterentwickeln mehr.“",
+            "Anlass ist die Kritik an „The Further Mis-Adventures of Cliff Booth“, der Fortsetzung von Quentin Tarantinos „Once Upon a Time in Hollywood“ nach einem Drehbuch von Tarantino und unter Finchers Regie. In sozialen Netzwerken werfen Zuschauer dem Film einen Einsatz generativer KI vor, der „in absurdem Ausmaß erstaunlich“ sei; einer schrieb, er habe das Kino „völlig niedergeschlagen“ verlassen.",
+            "Der Film spielt 1977, acht Jahre nach dem ersten Teil. Brad Pitt spielt erneut den Stuntman Cliff Booth, der nun als Filmvorführer arbeitet, nebenbei Probleme für Hollywood löst und in eine Verschwörung um eine philippinische Gang und einen gestohlenen Oscar gerät. Er läuft ab Thanksgiving in Imax-Kinos und erscheint am 23. Dezember bei Netflix."
+          ],
+          "highlight": "„Sind alle zufrieden damit, dass wir diese Kunstform so weit verstanden haben, dass wir eigentlich zurück zum Zelluloid müssen?“",
+          "assessment": [
+            "Fincher war immer der Regisseur, der digital nachbearbeitet, was andere am Set einfangen: Hintergründe, Atemwolken, Blutspritzer. Dass ausgerechnet er KI verteidigt, überrascht also nicht. Pikant ist, dass es bei einem Film passiert, der wie kaum ein anderer von Nostalgie für das alte Hollywood lebt und dessen Autor Tarantino als glühender Verfechter von echtem Film gilt.",
+            "Sein Argument hat einen wahren Kern, ersetzt aber nicht die eigentliche Frage: Wer macht die Arbeit, und wird es offengelegt? Solange Studios nicht sagen, wo KI eingesetzt wurde, bleibt das Misstrauen des Publikums berechtigt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg?w=1000",
+            "alt": "David Fincher und eine Szene aus „The Further Mis-Adventures of Cliff Booth“",
+            "credit": "Netflix / Everett Collection / Michael Buckner / PMC",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+          }
+        },
+        {
+          "title": "Neuer „Longlegs“-Film: Sterling K. Brown soll an der Seite von Nicolas Cage spielen",
+          "lead": "Paramount verhandelt mit Sterling K. Brown über die Hauptrolle im neuen Film aus dem „Longlegs“-Universum. Osgood Perkins führt wieder Regie, Start ist im Januar 2028.",
+          "body": [
+            "Nach Informationen von Deadline ist Sterling K. Brown in Verhandlungen für den neuen „Longlegs“-Film von Paramount Pictures. Nicolas Cage kehrt in seiner Rolle als titelgebender Serienmörder zurück. Osgood Perkins schreibt, inszeniert und produziert den Film erneut. Der Kinostart ist für den 14. Januar 2028 angesetzt.",
+            "Es handelt sich nicht um eine direkte Fortsetzung, und Maika Monroe, die im Original von 2024 die FBI-Agentin spielte, wird nicht erwartet. Welche Rolle Brown übernimmt, ist nicht bekannt. Bemerkenswert ist der Studiowechsel: Das Original hatte der Indie-Verleih Neon herausgebracht, für den es mit 128 Millionen Dollar weltweit einer der größten Erfolge wurde.",
+            "Brown, dreifacher Emmy-Preisträger und Oscar-nominiert, hat viel zu tun. Die dritte Staffel seiner Hulu-Serie „Paradise“ startet im kommenden Jahr. Er dreht gerade Sonys „The Comebacker“ mit Tom Hanks, spielt in „The Gallerist“ neben Natalie Portman und ist im Frühjahr 2027 in Amazon MGMs „Voltron“ mit Henry Cavill zu sehen."
+          ],
+          "highlight": "Es handelt sich nicht um eine direkte Fortsetzung, und Maika Monroe, die im Original von 2024 die FBI-Agentin spielte, wird nicht erwartet.",
+          "assessment": [
+            "Brown ist eine kluge Wahl, weil er Wärme und Autorität ausstrahlt, genau das Gegengewicht, das Cages verstörende Figur braucht. Dass Perkins wieder alles in der Hand hat, ist das wichtigste Signal: „Longlegs“ lebte von seiner eigenwilligen Handschrift.",
+            "Der Wechsel von Neon zu Paramount zeigt allerdings auch, wie Erfolge aus dem Indie-Bereich inzwischen von den großen Studios eingesammelt werden. Ob der Film mit größerem Budget seine Unheimlichkeit behält, ist die offene Frage."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-8.jpg?w=1024",
+            "alt": "Sterling K. Brown",
+            "credit": "Irvin Rivera",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/"
+          }
+        },
+        {
+          "title": "Bassam Tariq über das gescheiterte „Blade“: „Das Leben ist zu kurz für Scheißfilme“",
+          "lead": "Der Regisseur, der einst Marvels „Blade“ mit Mahershala Ali drehen sollte, erzählt, warum er ohne fertiges Drehbuch seine Glaubwürdigkeit verlor.",
+          "body": [
+            "In einem Interview mit The New Arab hat Bassam Tariq erstmals ausführlich über seine Zeit bei Marvels „Blade“ gesprochen. Es sei „seltsam“ gewesen, mit dem Casting zu beginnen, ohne ein richtiges Drehbuch zu haben. „Du sitzt da und erklärst den Schauspielern, was ihre Rolle sein wird, und sie müssen dir einfach glauben“, sagte er. Wenn der Text dann nicht zu dem passe, was man versprochen habe, sei die Glaubwürdigkeit „komplett zerstört“.",
+            "„Wenn du der Überbringer schlechter Nachrichten an deine Schauspieler bist, aber nicht derjenige, der die Entscheidungen trifft, sondern ein Konzern, dann ist das keine gute Art, Regie zu führen“, so Tariq. Seine große Lehre sei, dass er die volle Kontrolle über seine Drehbücher haben wolle: „Das Leben ist zu kurz für Scheißfilme.“ Es sei traurig, weil man so große Hoffnungen gehabt habe.",
+            "Mahershala Ali war schon 2019 auf der Comic-Con als neuer Blade vorgestellt worden, Tariq wurde 2021 als Regisseur verpflichtet und stieg im September 2022 aus. Ali bestätigte im Juli gegenüber GQ, dass er die Rolle nicht spielen wird. Kevin Feige habe das Projekt als größten Misserfolg seiner Karriere bezeichnet, sagte Ali, „und ich stimme zu“. Warum der Film nicht zustande kam, wisse er bis heute nicht."
+          ],
+          "highlight": "Seine große Lehre sei, dass er die volle Kontrolle über seine Drehbücher haben wolle: „Das Leben ist zu kurz für Scheißfilme.“",
+          "assessment": [
+            "Tariqs Schilderung bestätigt, was man über Marvels schwierige Jahre ahnte: Projekte wurden besetzt und angekündigt, bevor klar war, welchen Film man eigentlich machen wollte. Für einen Regisseur mit Arthouse-Hintergrund war das eine Falle.",
+            "„Blade“ ist damit endgültig zur Fallstudie geworden, wie man einen zweifachen Oscar-Preisträger und eine beliebte Figur verschwendet. Ehrlicher als Tariqs Satz kann man es kaum formulieren."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2271636255-e1795218750877.jpg?w=1440&h=810&crop=1",
+            "alt": "Mahershala Ali und Bassam Tariq auf der Bühne der CinemaCon 2026",
+            "credit": "Greg Doherty / Getty Images for Amazon MGM Studios",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/"
+          }
+        },
+        {
+          "title": "Tallinn Black Nights: Der peruanische Internatsthriller „On Top of the Cliff“ gewinnt den Grand Prix",
+          "lead": "Beim 30. Filmfestival in Tallinn hat Enrica Pérez' Film über eine katholische Mädchenschule den Hauptpreis und den Darstellerinnenpreis gewonnen.",
+          "body": [
+            "Die peruanische Filmemacherin Enrica Pérez hat mit „On Top of the Cliff“ den Grand Prix im Hauptwettbewerb des 30. Tallinn Black Nights Film Festival (PÖFF) gewonnen. Bianca Bucelli wurde für ihre Rolle als beste Darstellerin ausgezeichnet. In dem atmosphärischen Spannungsdrama fordert eine weltgewandte Jugendliche die „heilige“ Musterschülerin eines strengen Internats heraus.",
+            "Die Jury unter dem zweifachen Oscar-Preisträger Christopher Hampton („Gefährliche Liebschaften“, „Abbitte“) lobte die hohe Qualität „jeder Abteilung dieses Films, Regie, Drehbuch, Schauspiel, Kamera, Ausstattung und Musik“, die zusammen ein „hermetisches Universum“ schafften. Den Regiepreis erhielt der Schweizer Fred Baillif für „A Job Well Done“ über Sozialarbeiter, die mit Migranten arbeiten. Bester Darsteller wurde Mathisse De Sutter in Patrice Toyes „The Assignment“, den Drehbuchpreis bekam die Deutsche Alison Kuhn für „The Matriarch“.",
+            "Im Erstlingswettbewerb siegte Chabname Zariabs „When She Hears the Bells“ mit Golshifteh Farahani als Witwe in Kabul, kurz bevor die Taliban die Stadt erreichen. Der litauische Oscar-Beitrag „How to Divorce During the War“ von Andrius Blaževičius gewann den baltischen Wettbewerb; Blaževičius ist der erste, der diesen Preis zweimal erhält.",
+            "Der neue Free World Award, den PÖFF gemeinsam mit dem Filmfestival Odessa vergibt und der aus eingeschmolzenem Waffenmetall gefertigt ist, ging an Halkawt Mustafas „No Paradise If You Are Killed by a Woman“. Den Publikumspreis gewann „The Incomer“ von Louis Paxton."
+          ],
+          "highlight": "Der neue Free World Award, den PÖFF gemeinsam mit dem Filmfestival Odessa vergibt und der aus eingeschmolzenem Waffenmetall gefertigt ist, ging an Halkawt Mustafas „No Paradise If You Are Killed by a Woman“.",
+          "assessment": [
+            "Tallinn ist das wichtigste Festival im Nordosten Europas und oft ein Sprungbrett für Filme, die im Frühjahr auf den großen Festivals oder in Arthouse-Kinos auftauchen. „On Top of the Cliff“ klingt nach einem Titel, den man sich für das kommende Jahr merken sollte.",
+            "Die politische Note ist in diesem Jahr unübersehbar, vom Preis aus Waffenmetall bis zum Film über Kabul. Das passt zu einem Festival, das wenige Kilometer von der russischen Grenze entfernt stattfindet."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-black-nights-film-festival-2026-awards-winners-poff-1236759928/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/On-Top-of-the-Cliff-film-still-1-POFF-H-2026.jpg?w=1440&h=810&crop=1",
+            "alt": "Szene aus „On Top of the Cliff“",
+            "credit": "PÖFF",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-black-nights-film-festival-2026-awards-winners-poff-1236759928/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Sutton Hoo: Ein „Sandkörper“ und darunter womöglich ein zweiter Toter",
+          "lead": "Im angelsächsischen Gräberfeld von Sutton Hoo haben Archäologen ein Grab gefunden, in dem nur noch die Form des Toten im Sand erhalten ist. Darunter gibt es Hinweise auf eine zweite Bestattung.",
+          "body": [
+            "Sutton Hoo in der englischen Grafschaft Suffolk ist berühmt für das Schiffsgrab aus dem 7. Jahrhundert, in dem vermutlich König Rædwald von East Anglia bestattet wurde, der um 627 starb. Bei einer Grabung im Jahr 2025 auf einem Gräberfeld namens Garden Field haben Archäologen nun einen weiteren sogenannten Sandkörper freigelegt. Die Funde sind Teil einer vierteiligen Dokumentation der Fernsehreihe „Time Team“ mit dem National Trust und FAS Heritage, die seit dem 14. November auf YouTube läuft.",
+            "Sandkörper sind Bestattungen, in denen sich Körper und Knochen im sauren Boden aufgelöst haben und durch harten Sand ersetzt wurden, „der die Form des Menschen hält, nicht unähnlich manchen Körpern in Pompeji“, erklärte Angus Wainwright, Archäologe beim National Trust. Solche Gräber wurden in Sutton Hoo und an anderen angelsächsischen Orten in Suffolk schon früher gefunden. Dem Toten waren Perlen, eine Pinzette, ein Messer und eine Fibel beigegeben.",
+            "Direkt unter dem Sandkörper stieß das Team auf Hinweise, dass eine zweite Person im selben Grab bestattet worden sein könnte. Die Fachleute vermuten, dass die Sandkörper und Brandbestattungen auf dem Gräberfeld älter sind als das berühmte Schiffsgrab.",
+            "Ziel der Grabung war es, mehr über die gewöhnlichen Menschen von East Anglia zu erfahren. „Bisher haben sich Archäologen auf die königlichen Grabhügel konzentriert“, sagte Wainwright. Die Ergebnisse zeigen laut der Dokumentation, dass die im Garden Field Bestatteten zunehmend Reichtum und Ansehen gewannen; mindestens eine Person wurde mit einem Goldbarren beigesetzt. Außerdem untersuchte das Team mögliche Reste eines Docks am Fluss Deben, an dem Schiffe gebaut und zu Wasser gelassen wurden."
+          ],
+          "highlight": "Sandkörper sind Bestattungen, in denen sich Körper und Knochen im sauren Boden aufgelöst haben und durch harten Sand ersetzt wurden, „der die Form des Menschen hält, nicht unähnlich manchen Körpern in Pompeji“, erklärte Angus Wainwright, Archäologe beim National Trust.",
+          "assessment": [
+            "Der Fund ist weniger spektakulär als das Schiffsgrab, aber für das Verständnis von Sutton Hoo womöglich wichtiger. Wer wissen will, wie aus einer Bauerngemeinschaft ein Königssitz wurde, muss die Gräber der Vorfahren untersuchen, nicht nur das des Königs.",
+            "Sandkörper sind zudem ein archäologisches Kunststück: Es gibt keine Knochen, nur eine Verfärbung, die man mit größter Vorsicht freilegen muss. Dass darunter womöglich ein zweiter Mensch liegt, macht die Auswertung spannend, auch wenn die Datierung noch aussteht."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/9zveBhiML7gewe85rRDy2X-2560-80.png",
+            "alt": "Ein Archäologe legt in Sutton Hoo einen „Sandkörper“ frei",
+            "credit": "Harvey Mills / National Trust Images",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo"
+          }
+        },
+        {
+          "title": "Eine Schänke vor 3800 Jahren? Bei Bagdad liegt ein Vertrag über geliehene Gerste und Bier",
+          "lead": "In Tell Muhammad am Tigris graben italienische Archäologen ein 3800 Jahre altes Gebäude mit Theke zur Straße aus. Eine Keilschrifttafel hält ein Darlehen über Gerste und Bier fest.",
+          "body": [
+            "Ein Team unter Leitung von Nicola Laneri von der Universität Catania gräbt in Tell Muhammad, einem Siedlungshügel am Tigris bei Bagdad, ein rund 3800 Jahre altes Gebäude aus. Das berichtet das Magazin Archaeology unter Berufung auf La Brújula Verde. In einem der Räume fanden die Forscher eine Keilschrifttafel mit einem Vertrag über das Ausleihen von Gerste und Bier, geschlossen vor zwei Zeugen.",
+            "Der Raum, in dem die Tafel lag, hat eine halbrunde Theke aus Lehmziegeln, die zur Straße hin ausgerichtet ist, und ein Becken aus Lehmziegeln, das zum Brauen oder Brotbacken gedient haben könnte. Das spricht dafür, dass hier eine Art Schänke oder Verkaufsstelle lag.",
+            "Am Rand des Raums legten die Archäologen einen Abschnitt der äußeren Stadtmauer frei, die etwa fünf Meter dick ist. Insgesamt sind inzwischen mehr als 90 Meter der Mauer und ein kleines Nebentor ausgegraben. Außerdem fanden sie Leitungen aus Schilfmatten und Ton, die Wasser in eine große Zisterne innerhalb der Mauer führten."
+          ],
+          "highlight": "In einem der Räume fanden die Forscher eine Keilschrifttafel mit einem Vertrag über das Ausleihen von Gerste und Bier, geschlossen vor zwei Zeugen.",
+          "assessment": [
+            "Bier war in Mesopotamien Grundnahrungsmittel und Zahlungsmittel zugleich, deshalb ist ein Darlehensvertrag darüber weniger kurios, als es klingt. Spannend ist die Kombination aus Schrift und Architektur: Ein Vertrag, eine Theke zur Straße und ein Becken ergeben ein Bild vom Alltag an der Stadtmauer, das man sonst nur aus Texten kennt.",
+            "Ob es wirklich eine Taverne war, bleibt eine Deutung. Aber dass im Irak wieder systematisch gegraben wird, auch nahe Bagdad, ist für die Altorientalistik eine gute Nachricht."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/20/possible-ancient-tavern-investigated-near-baghdad/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261120-Iraq-Tell-Muhammad-Fortification.jpg",
+            "alt": "Abschnitt der Stadtmauer von Tell Muhammad im Irak",
+            "credit": "Archaeology",
+            "license": "Artikelbild Archaeology",
+            "source": "https://archaeology.org/news/2026/11/20/possible-ancient-tavern-investigated-near-baghdad/"
+          }
+        },
+        {
+          "title": "Arsameia: Eine Treppe 158 Meter in den Fels, gebaut als Wasserquelle und als Weg ins Dunkel",
+          "lead": "Eine neue Studie aus Leiden deutet den rätselhaften Treppentunnel im Heiligtum von Arsameia am Nymphaios neu: nicht als Entweder-oder von Wasser und Kult, sondern als beides.",
+          "body": [
+            "In Arsameia am Nymphaios in der heutigen Türkei führt eine in den Fels gehauene Treppe 158,1 Meter in die Tiefe und endet dann. Worum es sich handelt, ist seit Jahrzehnten umstritten. Lennart Wouter Kruijer von der Universität Leiden stellt in einer am 19. November im Journal of Roman Archaeology veröffentlichten Studie eine andere Frage: nicht, was die Erbauer wollten, sondern was der Tunnel mit den Menschen machte, die ihn hinabstiegen.",
+            "Das Heiligtum lag im Königreich Kommagene. Antiochos I., der von 69 bis 36 vor Christus regierte, machte den Hügel zum Zentrum eines Königskults. Inschriften berichten, dass er mehrere Feste pro Monat anordnete und Besucher von weit her anlocken wollte. Der Eingang des Tunnels ist hufeisenförmig, zwei Meter hoch und anderthalb Meter breit, und wird von einem langen griechischen Text eingerahmt, der Großen Kultinschrift.",
+            "Die Forschung war bisher gespalten. Die einen sehen in solchen Treppentunneln Wasserquellen; fast die Hälfte von 30 untersuchten Tunneln in der Pontusregion endet am Grundwasser. Die anderen verweisen auf Kultfunde wie eine Marmorstatue der Kybele an einem anderen Tunnel. Kruijer hält Arsameia für einen Wassertunnel, der zugleich eine rituelle Rolle hatte.",
+            "Er beschreibt vier Wirkungen in der Reihenfolge, in der ein Pilger sie erlebte: den Sog des dunklen Eingangs, die Dunkelheit, in der Licht und Festlärm verschwinden, die mühsame Bewegung auf steilen, unregelmäßigen Stufen und schließlich das Wasser, das nach Regen stieg und im Sommer fast verschwand. Der Tunnel folgte im Ritualweg direkt auf das Königsgrab, und eine Stele über dem Eingang zeigt Antiochos im Handschlag mit Herakles, der zweimal die Unterwelt besuchte. Der Abstieg habe sich daher wohl wie ein Gang zu den Toten angefühlt. Die Inschrift nennt das Wasser göttlich, Trinkbecher durften das Heiligtum nicht verlassen."
+          ],
+          "highlight": "Kruijer hält Arsameia für einen Wassertunnel, der zugleich eine rituelle Rolle hatte.",
+          "assessment": [
+            "Die Studie ist ein schönes Beispiel dafür, wie die Archäologie alte Streitfragen auflöst, indem sie die Frage ändert. Statt Funktion gegen Bedeutung auszuspielen, fragt Kruijer nach der Erfahrung des Besuchers, und plötzlich passt beides zusammen.",
+            "Das ist natürlich auch Interpretation, gemessen werden kann ein Gefühl im Dunkeln nicht. Aber wer je eine lange, enge Treppe in einen Felsen hinabgestiegen ist, wird verstehen, warum man so etwas mit der Unterwelt verbinden konnte."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/arsameia-tunnel-drew-pilgrims-into-the-dark/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/arsameia-staircase-tunnel-1.jpg",
+            "alt": "Eingang des Treppentunnels von Arsameia, eingerahmt von der Großen Kultinschrift",
+            "credit": "L. W. Kruijer, Journal of Roman Archaeology (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/arsameia-tunnel-drew-pilgrims-into-the-dark/"
+          }
+        },
+        {
+          "title": "Goldkette und Jupiter-Gemme: Studierende finden römische Elitestücke an der Grenze in Nordengland",
+          "lead": "Bei einer Lehrgrabung der Universität Newcastle in Redesdale an der römischen Grenze in Nordengland kamen Funde zutage, die auf Offiziere und wohlhabende Römer hinweisen.",
+          "body": [
+            "Bei einer Studierendengrabung an der römischen Grenze in Redesdale im Nordosten Englands haben Teilnehmende mehrere Gegenstände gefunden, die mit römischen Eliten und dem Militärdienst in Verbindung stehen. Das teilte die Universität Newcastle mit, das Magazin Archaeology berichtet.",
+            "Darunter ist ein fast acht Zentimeter langes Stück einer Goldkette aus einzelnen Ringen, die zu Achten gekniffen, gefaltet und ineinander verflochten wurden. Ein kleines Bleiblech mit lateinischer Inschrift könnte eine persönliche Nachricht, eine Fluchtafel oder ein Handelssiegel gewesen sein. Ein vergoldeter, halbmondförmiger Bronzebeschlag gehörte wohl zu einem Militärgürtel, einem Pferdegeschirr oder einer Schwertscheide.",
+            "Eine geschnittene Gemme aus Karneol zeigt Jupiter mit Zepter, eine Victoria und einen Adler; es ist bereits die vierte Gemme von diesem Fundplatz. Außerdem fanden die Studierenden Münzen, Speerspitzen, Kleidungszubehör und eine Schale mit dem unvollständigen Namen „Martin“, vermutlich für Martinus."
+          ],
+          "highlight": "Eine geschnittene Gemme aus Karneol zeigt Jupiter mit Zepter, eine Victoria und einen Adler; es ist bereits die vierte Gemme von diesem Fundplatz.",
+          "assessment": [
+            "Einzeln sind das kleine Funde, zusammen zeichnen sie ein klares Bild: An diesem Grenzposten lebten nicht nur einfache Soldaten, sondern Menschen mit Geld und Status. Gold und geschnittene Gemmen trug kein Rekrut.",
+            "Dass solche Stücke von Studierenden gefunden werden, ist auch ein Argument für Lehrgrabungen, die an britischen Universitäten immer wieder unter Spardruck stehen. Hier entstehen nicht nur Archäologen, sondern auch Ergebnisse."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/20/students-recover-roman-military-artifacts-in-northern-england/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261120-England-Roman-Peltate.jpg",
+            "alt": "Römischer Anhänger eines Reitergeschirrs aus Redesdale",
+            "credit": "Archaeology",
+            "license": "Artikelbild Archaeology",
+            "source": "https://archaeology.org/news/2026/11/20/students-recover-roman-military-artifacts-in-northern-england/"
+          }
+        }
+      ]
+    }
+  ]
+}

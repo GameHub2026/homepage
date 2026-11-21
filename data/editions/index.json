@@ -1,5 +1,38 @@
 [
   {
+    "nr": 45,
+    "date": "2026-11-21",
+    "updated": "2026-11-21T07:49:01+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Riemannsche Vermutung bewiesen? Ein Anthropic-Mathematiker meldet den Durchbruch mit Claude",
+      "Neu im Fall Nvidia: Kalifornien schickt eine Vorladung, die New York Times beschreibt Huangs Führung durch Angst",
+      "Zwei Millionen Köder: Ein Experiment zeigt, wie Geheimnisse aus KI-Prompts gestohlen werden",
+      "Meta rückt vom Klimaziel 2030 ab: Die Emissionen steigen durch KI-Rechenzentren um fast 40 Prozent",
+      "Google räumt auf: Assistant verschwindet von den Lautsprechern, die Suchseite verliert ihren Suchknopf",
+      "Neu zu GTA 6: Rockstar meldet 3,79 Milliarden Dollar am ersten Tag, der größte Start der Unterhaltungsgeschichte",
+      "Ubisoft-Halbjahr: Black Flag Resynced rettet das Quartal, unterm Strich stehen 254 Millionen Euro Verlust",
+      "Valve warnt: Die Steam Machine könnte wegen Speicherpreisen noch teurer werden",
+      "Der Macher von „E.T.“ warnt: KI-Spiele bringen eine Schwemme wie vor dem Crash von 1983",
+      "Atlus verspricht: Nach Persona 6 soll das Warten kürzer werden",
+      "Neu zu Panem: „Sunrise on the Reaping“ steuert auf 110 Millionen Dollar in den USA zu",
+      "„Kevin – Allein zu Haus“ bekommt eine Fortsetzung mit Macaulay Culkin, geschrieben von Seth Rogen und Evan Goldberg",
+      "David Fincher verteidigt KI im Film: „Sie existiert. Sollen wir sie nicht benutzen?“",
+      "Neuer „Longlegs“-Film: Sterling K. Brown soll an der Seite von Nicolas Cage spielen",
+      "Bassam Tariq über das gescheiterte „Blade“: „Das Leben ist zu kurz für Scheißfilme“",
+      "Tallinn Black Nights: Der peruanische Internatsthriller „On Top of the Cliff“ gewinnt den Grand Prix",
+      "Sutton Hoo: Ein „Sandkörper“ und darunter womöglich ein zweiter Toter",
+      "Eine Schänke vor 3800 Jahren? Bei Bagdad liegt ein Vertrag über geliehene Gerste und Bier",
+      "Arsameia: Eine Treppe 158 Meter in den Fels, gebaut als Wasserquelle und als Weg ins Dunkel",
+      "Goldkette und Jupiter-Gemme: Studierende finden römische Elitestücke an der Grenze in Nordengland"
+    ]
+  },
+  {
     "nr": 44,
     "date": "2026-11-20",
     "updated": "2026-11-20T07:50:07+01:00",
