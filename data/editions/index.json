@@ -1,5 +1,38 @@
 [
   {
+    "nr": 46,
+    "date": "2026-11-22",
+    "updated": "2026-11-22T07:50:59+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Killer-Roboter: Die UN-Konferenz in Genf endet wieder ohne Verbot, nur mit einem Auftrag zum Weiterreden",
+      "Signal sperrt Screenshots auf iPhone und Android: Die KI-Agenten der Betriebssysteme seien eine „existenzielle Bedrohung“",
+      "Nach dem Fall Huang: Experten warnen, dass fast jeder in der KI-Branche Ziel einer Honigfalle werden kann",
+      "Angriff auf das Herz der US-Polizei: Hacker sollen in die FBI-Datenbank NCIC eingedrungen sein",
+      "Deutschland, Frankreich, Italien, Polen und Schweden gründen ein Zentrum für KI in der Verteidigung",
+      "Neu zu GTA 6: Kritiker geben 99, Spieler 5,6, und bei Comcast frisst der Download fast ein Viertel des Netzes",
+      "Geld aus dem Anthropic-Vergleich: Wizards of the Coast gibt seinen Anteil komplett an die D&D-Autoren weiter",
+      "World of Warcraft: Forever hat so viele Spieler pro Woche wie WoW seit 15 Jahren nicht mehr",
+      "Deltarune: Kapitel 6 ist von Anfang bis Ende spielbar, an Kapitel 7 wird schon gearbeitet",
+      "Digital Fairness Act: Warum der EU-Entwurf gegen Lootboxen und Pay-to-Win vor allem europäische Indies treffen könnte",
+      "„American Psycho“ von Luca Guadagnino ist geplatzt: „Es findet nicht statt“",
+      "Neu zu Panem: „Sunrise on the Reaping“ startet mit mehr als 120 Millionen Dollar und bekommt ein A- von den Zuschauern",
+      "„Die Klapperschlange“-Neuauflage: John Carpenter bringt Robert Rodriguez als Alternative zu Zack Snyder ins Spiel",
+      "Bundessteuergutschrift für Filme: Trump sagt „Es wird passieren“, der Kongress will vor Jahresende abstimmen",
+      "„Yellowjackets“ endet nach vier statt fünf Staffeln: Die Macher erklären, warum sie die Geschichte verdichtet haben",
+      "CAA-Chef Bryan Lourd fordert den Kongress auf, den No Fakes Act gegen KI-Doppelgänger zu verabschieden",
+      "Wo lagerte die Zehnte Legion? Alte Grabungsakten verorten das römische Lager in Jerusalem",
+      "Sieben Jagden in 3000 Jahren: An einer Klippe in Texas trieben Menschen immer wieder Bisons in den Tod",
+      "Nationalschatz im Museum: Die Bullington-Brosche, eines von nur zehn bekannten Streitwagen-Beschlägen aus England",
+      "Mais im Tehuacán-Tal: Knochen von Hirschen und Kaninchen zeigen, dass die ersten Felder in einer feuchten Phase entstanden"
+    ]
+  },
+  {
     "nr": 45,
     "date": "2026-11-21",
     "updated": "2026-11-21T07:49:01+01:00",

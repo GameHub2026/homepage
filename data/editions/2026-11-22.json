@@ -1,0 +1,548 @@
+{
+  "nr": 46,
+  "date": "2026-11-22",
+  "intro": "Ein Sonntagsheft mit viel Politik rund um die KI: In Genf scheitert erneut ein Verbot autonomer Waffen, Signal sperrt Screenshots gegen die KI-Agenten von Apple und Google, und fünf EU-Staaten gründen ein eigenes Zentrum für militärische KI. Bei den Spielen zeigt sich die Kehrseite des GTA-6-Rekords, in Hollywood platzt Guadagninos „American Psycho“, während Panem am Startwochenende über 120 Millionen Dollar einspielt. In der Geschichte geht es um das Lager der Zehnten Legion in Jerusalem und um eine Klippe in Texas, über die 3000 Jahre lang Bisons getrieben wurden.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Killer-Roboter: Die UN-Konferenz in Genf endet wieder ohne Verbot, nur mit einem Auftrag zum Weiterreden",
+          "lead": "Nach einer Woche Verhandlungen haben sich die 128 Vertragsstaaten der UN-Waffenkonvention nur auf ein schwaches Mandat geeinigt. Russland, die USA und Israel bremsten ein verbindliches Abkommen über autonome Waffen aus.",
+          "body": [
+            "Die siebte Überprüfungskonferenz der UN-Konvention über bestimmte konventionelle Waffen (CCW) ist in der Nacht zum Samstag in Genf mit einem Minimalkonsens zu Ende gegangen. Statt den Weg für ein rechtsverbindliches Verbot vollautonomer Waffensysteme freizumachen, einigten sich die 128 Vertragsstaaten in den frühen Morgenstunden nur auf ein verwässertes Mandat. Die Gespräche sollen weitergehen und innerhalb von zwei Jahren neue Vorschriften hervorbringen. Laut The Verge blieb dabei ausdrücklich Raum dafür, dass Teile dieser Regeln „optional“ bleiben.",
+            "Der Druck vor der Konferenz war groß. 98 Staaten und zahlreiche Nichtregierungsorganisationen hatten sich für rasche und verbindliche Schranken ausgesprochen, kurz zuvor hatten 163 Länder eine Resolution für verbindliche Rechtsregeln beim Einsatz autonomer Systeme unterstützt. Das Internationale Komitee vom Roten Kreuz, Hüter der Genfer Konventionen, hatte gefordert, binnen eines Jahres rechtsverbindliche Regeln zu entwerfen. Der UN-Generalsekretär und Papst Leo schlossen sich dem an.",
+            "Weil in der CCW alle Entscheidungen im Konsens fallen müssen, reichte der Widerstand weniger Staaten. Nach einem Bericht des US-Senders NPR, den The Verge zitiert, verzögerte Russland schon am ersten Tag die Beratungen mit Einwänden gegen die Tagesordnung. Die USA schlugen dann ein Zeitfenster von fünf Jahren vor, um über unverbindliche, freiwillige Leitlinien zu sprechen. Auch Großbritannien, Israel und Belarus äußerten laut heise Vorbehalte gegen einen bindenden Vertrag. Die Bundesregierung hatte sich zwar für ein Verbot vollautonomer Waffen starkgemacht, signalisierte in den Beratungen aber Kompromissbereitschaft, um den Konsens nicht zu gefährden.",
+            "Die Kritik nach insgesamt 13 Jahren Debatte fällt scharf aus. Thomas Küchenmeister, Sprecher des Bündnisses Stop Killer Robots in Deutschland, nannte das Ergebnis ein „wachsweiches Mandat“. Wenn Soldaten im Ernstfall nur wenige Sekunden blieben, um KI-gestützte Zielvorschläge auf ihre Vereinbarkeit mit dem Völkerrecht zu prüfen, sei echte menschliche Kontrolle kaum noch gewährleistet. Nicole van Rooijen, Geschäftsführerin von Stop Killer Robots, wies darauf hin, dass autonome Technik einschließlich KI bei der Zielerfassung längst auf Gefechtsfeldern eingesetzt werde.",
+            "Magnus Lovold von der Organisation Lex International plädierte dafür, das Thema aus dem blockierten Konsensverfahren der CCW herauszulösen. Die Welt stehe vor einem „Oppenheimer-Moment“, vergleichbar mit dem Beginn des Atomzeitalters. Kritisiert wurde auch, dass ein Großteil der Beratungen hinter verschlossenen Türen und ohne Zivilgesellschaft stattfand."
+          ],
+          "highlight": "Weil in der CCW alle Entscheidungen im Konsens fallen müssen, reichte der Widerstand weniger Staaten.",
+          "assessment": [
+            "Das Ergebnis ist keine Überraschung, und genau das ist das Problem. Ein Gremium, in dem jedes Land ein Veto hat, wird nie die Staaten binden, die am meisten in autonome Waffen investieren. Die USA haben mit ihrem Vorschlag von fünf Jahren freiwilliger Leitlinien offen gezeigt, dass sie Zeit gewinnen wollen, nicht Regeln.",
+            "Die Woche passt zur Meldung aus Heft 43, in der KI-Modelle bei einem Experiment Zivilisten als Ziele markierten. Die Technik ist im Einsatz, die Regeln kommen frühestens in zwei Jahren und dann womöglich als Empfehlung. Wer ein echtes Verbot will, wird wie bei Landminen und Streumunition einen Weg außerhalb der CCW gehen müssen, mit weniger Staaten, aber verbindlich."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html" },
+            { "name": "The Verge", "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/8/3/Drohnen-c08cbad6a5701d7b-1488fb4d46c624b2.jpeg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Militärische Drohnen im Einsatz, Symbolbild für autonome Waffensysteme",
+            "credit": "sibsky2016 / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html"
+          }
+        },
+        {
+          "title": "Signal sperrt Screenshots auf iPhone und Android: Die KI-Agenten der Betriebssysteme seien eine „existenzielle Bedrohung“",
+          "lead": "Der verschlüsselte Messenger blockiert künftig Bildschirmaufnahmen auf iOS 27 und auf Android, wenn ein KI-Assistent mitlesen will. Signal-Präsidentin Meredith Whittaker wirft Apple, Google und Microsoft vor, die Privatsphäre auszuhebeln.",
+          "body": [
+            "Signal hat am Freitag angekündigt, Screenshots in seiner App auf Mobilgeräten einzuschränken. In einem Blogeintrag schreibt das Unternehmen, es werde KI-Agenten, die in mobile Betriebssysteme eingebaut sind, daran hindern, Signal-Inhalte zu erfassen und zu speichern. Konkret werden Screenshots unter iOS 27 blockiert und auf Android-Versionen, bei denen Signal erkennen kann, dass ein KI-Assistent den Bildschirm auslesen will.",
+            "Signal hat so etwas schon einmal getan. Im vergangenen Jahr blockierte der Messenger unter Windows 11 standardmäßig Screenshots, damit Microsofts Recall-Funktion keine Nachrichten abfotografiert und speichert. Jetzt geht es um Funktionen wie Gemini bei Google und die Bildschirmerkennung von Siri bei Apple, die tief in die Betriebssysteme integriert werden. Um Fragen zu beantworten und Aufträge zu erledigen, „scannen“ diese Agenten, was auf dem Bildschirm steht.",
+            "Whittaker beschreibt die Folgen drastisch. „Im Dienste agentischer KI-Funktionen werden Ihre sensiblen Daten erfasst, gespeichert und jeder lokalen Datenbank oder jedem entfernten Server zugänglich gemacht, den ein KI-Agent des Betriebssystems gerade nutzt“, heißt es im Blog. Sobald die Daten erfasst seien, liege alles außerhalb von Signals Kontrolle und gefährde die Privatsphäre aller Beteiligten eines Gesprächs. Die drei großen Betriebssysteme seien „die Ozeane, in denen Signal schwimmen muss“, und sie würden gerade feindlich gegenüber der Privatsphäre.",
+            "Signal räumt ein, dass die Lösung unvollständig ist. Nutzer können den Schutz in den Einstellungen abschalten, was nach Signals Worten aber die Datenschutzgarantien bricht. Andere Wege, auf denen Agenten an Daten kommen könnten, etwa über das Dateisystem, deckt die Sperre nicht ab. Für macOS gibt es den Schutz vorerst nicht. Zudem fehle es an Dokumentation: Signal habe in den vergangenen Monaten viel Entwicklerzeit in forensische Untersuchungen gesteckt, um überhaupt zu verstehen, wie die Agenten auf App-Daten zugreifen.",
+            "Das Unternehmen fordert Apple, Google und Microsoft auf, Entwicklern einfache Werkzeuge zu geben, mit denen sie KI-Agenten den Zugriff auf sensible Daten verwehren können. Auch Agenten von Drittanbietern wie Metas Muse, die sich über Bedienungshilfen weitreichende Rechte holen, nennt Signal ausdrücklich. Mit Google und Apple sei man im Gespräch und „vorsichtig optimistisch“."
+          ],
+          "highlight": "Konkret werden Screenshots unter iOS 27 blockiert und auf Android-Versionen, bei denen Signal erkennen kann, dass ein KI-Assistent den Bildschirm auslesen will.",
+          "assessment": [
+            "Das ist der bislang deutlichste Konflikt zwischen einer Datenschutz-App und den Plattformen, auf denen sie läuft. Signal kann Nachrichten auf dem Weg perfekt verschlüsseln, aber wenn das Betriebssystem den entschlüsselten Bildschirm mitliest, ist die Verschlüsselung Makulatur. Whittakers Bild vom Ozean trifft es: Eine App kann nicht sicherer sein als das System, in dem sie läuft.",
+            "Die Screenshot-Sperre ist eine Notlösung, und Signal sagt das selbst. Interessant ist der Hinweis auf Metas Muse: Erst vor zwei Tagen berichteten wir, dass Meta-Mitarbeiter bei diesem Agenten vor fremden Kontoständen warnten. Wenn sich Agenten über Bedienungshilfen Zugriff auf alles verschaffen, braucht es eine Regel auf Systemebene, die Apps ausnehmen kann. Ohne die werden andere Apps mit sensiblen Daten, etwa Banken oder Gesundheitsdienste, bald ähnliche Sperren einbauen."
+          ],
+          "sources": [
+            { "name": "Signal Blog", "url": "https://signal.org/blog/protecting-your-privacy/" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+            "alt": "Smartphone mit der Signal-App auf dem Bildschirm",
+            "credit": "Matthias Balk / picture alliance / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+          }
+        },
+        {
+          "title": "Nach dem Fall Huang: Experten warnen, dass fast jeder in der KI-Branche Ziel einer Honigfalle werden kann",
+          "lead": "Ein früherer CIA-Offizier und ein Kriminologe erklären, warum Spione heute in Chipfirmen und KI-Laboren ansetzen. Die Anbahnung läuft selten über Liebe, meist über Freundschaft, Investoren oder Berater, und KI macht sie billiger.",
+          "body": [
+            "Während der Skandal um Nvidia-Gründer Jensen Huang noch nachwirkt, beschreibt TechCrunch ein Risiko, mit dem sich das Silicon Valley bislang kaum befasst hat. Huang wird vorgeworfen, in eine Honigfalle geraten zu sein, durch eine Affäre mit Alice Huang, einer früheren Managerin eines Cloud-Anbieters aus Singapur. Sie wird beschuldigt, für China spioniert und beschränkte Nvidia-Chips im Wert von Milliarden Dollar nach China geschmuggelt zu haben.",
+            "„Niemand weist Gründer in Spionageabwehr ein“, sagt Aaron Brown, ein ehemaliger hochrangiger CIA-Offizier, der heute die Softwarefirma Lumbra führt. Honigfallen seien historisch mit Politikern, Militär und Geheimdiensten verbunden gewesen, also mit Menschen hinter Sicherheitsfreigaben, die auf Anwerbeversuche geschult sind. Heute lägen viele der wertvollsten Geheimnisse in Firmen, die Chips, Modelle und Infrastruktur bauen. Ein Spion wolle, „worauf der CEO Zugriff hat: die Roadmap, die Exportentscheidungen, die Kundenliste“.",
+            "Gefährdet sind laut den Experten nicht nur Vorstandschefs. Das Wall Street Journal berichtete, OpenAI habe begonnen, seine Mitarbeiter vor Außenstehenden zu warnen, die sich ihnen nähern, um an Firmengeheimnisse zu kommen. Jeder mit Zugang zu sensiblen Informationen komme infrage, vom Aufsichtsrat bis zur Assistenz der Geschäftsführung. Meist sind die Angreifer keine Liebhaber. Freundschaft sei die älteste Form der Honigfalle, sagt Brown. Die Täter treten als Investoren, Kunden, Personalvermittler oder Berater auf. „Sie brauchen dich nicht verliebt, sondern gesprächig.“",
+            "Ausgerechnet KI erleichtert die Masche. Früher habe die Vorbereitung Monate oder Jahre gedauert, heute ließen sich Ziele mit KI recherchieren, falsche Profile, Lebensläufe und sogar Anrufe mit gefälschter Stimme erzeugen. „KI kann eine komplette erfundene Vorgeschichte aufrechterhalten“, sagt Perry Carpenter, Kriminologe beim Sicherheitsunternehmen KnowBe4. Die Täuschung selbst spiele sich aber in menschlichen Beziehungen ab.",
+            "Browns Fazit: Die KI-Branche sei schneller zu einer Branche der nationalen Sicherheit geworden, als ihre Kultur nachkommen konnte. Wer betroffen sei, merke es oft nicht. „Es fühlt sich nicht nach Manipulation an. Es fühlt sich echt an, sogar wie Glück.“"
+          ],
+          "highlight": "Die KI-Branche sei schneller zu einer Branche der nationalen Sicherheit geworden, als ihre Kultur nachkommen konnte.",
+          "assessment": [
+            "Der Text ist weniger Enthüllung als Bestandsaufnahme, aber er trifft einen wunden Punkt. KI-Firmen behandeln ihre Modellgewichte und Chip-Kontingente längst wie Staatsgeheimnisse, ihre Unternehmenskultur ist aber noch die eines Start-ups: offen, vernetzt, auf Partys und Konferenzen zu Hause. Genau diese Offenheit nutzen Anwerber.",
+            "Bemerkenswert ist die Ironie, dass dieselbe Technik, die diese Firmen verkaufen, die Täuschung billiger macht. Ich rechne damit, dass große Labore bald Sicherheitsüberprüfungen und Schulungen einführen, wie man sie aus der Rüstungsindustrie kennt. Das wird die Branche verändern, weniger offen und deutlich näher am Staat."
+          ],
+          "sources": [
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+            "alt": "Illustration zum Thema Täuschung und Spionage",
+            "credit": "Moor Studio / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+          }
+        },
+        {
+          "title": "Angriff auf das Herz der US-Polizei: Hacker sollen in die FBI-Datenbank NCIC eingedrungen sein",
+          "lead": "Das FBI untersucht laut CNN und AP einen Einbruch in das National Crime Information Center, das Polizeibehörden täglich für Haftbefehle und Überprüfungen nutzen. Präsident Trump nennt den Vorfall „nicht gut“.",
+          "body": [
+            "Beim FBI hat es Medienberichten zufolge einen Cyberangriff auf die zentrale Datenbank NCIC gegeben, das National Crime Information Center. Sie enthält wichtige Daten über US-Bürger, etwa Haftbefehle, und dient Bundes- und Landesbehörden zur Überprüfung von Personen. CNN berichtet unter Berufung auf zwei mit den Ermittlungen vertraute Personen, auch die Nachrichtenagentur AP meldete den Vorfall. Wie groß der Schaden ist, war zunächst unklar, das FBI äußerte sich nicht.",
+            "Intern soll der Vorfall am Donnerstag bekannt geworden sein, ausgerechnet kurz bevor FBI-Direktor Kash Patel bei Fox News für die Kampagne „Operation Winter Shield“ warb. Sie sollte Firmen dazu bringen, ihre IT-Sicherheit zu verbessern. Laut CNN ist die Kampagne allerdings seit Monaten abgeschlossen, Patel sprach davon, als liefe sie noch.",
+            "Ein ehemaliger FBI-Beamter, der Ermittlungen gegen Cybergangs geleitet hat, sagte CNN, seine Sorge gelte nicht nur der Frage, ob Hacker an sensible Informationen gekommen seien. Schlimmer wäre, wenn sie die Richtigkeit der Daten verändern könnten, auf die sich Polizisten verlassen. Jeden Tag nutzten Beamte im ganzen Land das NCIC, um gesuchte Flüchtige zu identifizieren und ausstehende Haftbefehle zu prüfen.",
+            "Präsident Donald Trump sagte am Samstag in einem Interview mit Fox News: „Wir haben gerade davon gehört, und ich sage, das ist nicht gut.“ Zugleich meinte er, man lerne durch den Einbruch vielleicht Dinge, die man sonst nie erfahren hätte, und spielte auf die von ihm so genannte „Russland-Lüge“ an.",
+            "Es ist bereits der zweite bekannte Sicherheitsvorfall beim FBI in diesem Jahr. Im September hatte die Gruppe ShinyHunters behauptet, über das Jobportal fbijobs.gov Daten von nahezu allen FBI-Agenten erbeutet zu haben. Reuters stufte eine Stichprobe als plausibel ein, im Zusammenhang mit dem Angriff wurden ein kanadischer IT-Sicherheitsexperte und ein niederländisches Mitglied der Gruppe festgenommen."
+          ],
+          "highlight": "Schlimmer wäre, wenn sie die Richtigkeit der Daten verändern könnten, auf die sich Polizisten verlassen.",
+          "assessment": [
+            "Der Punkt des Ex-Beamten ist der entscheidende. Gestohlene Daten sind schlimm, manipulierte Daten in einer Polizeidatenbank wären gefährlich: ein erfundener Haftbefehl, ein gelöschter Eintrag, und bei einer Verkehrskontrolle entscheidet das über Gewalt. Solange das FBI schweigt, weiß niemand, ob man den Einträgen noch trauen kann.",
+            "Politisch ist der Vorfall peinlich, weil die Behörde gerade anderen Sicherheitsratschläge erteilt und schon im September Agentendaten verloren hat. Trumps Reaktion, im Einbruch auch eine Chance zu sehen, zeigt, wie schnell solche Vorfälle in den innenpolitischen Kampf gezogen werden. Das macht eine nüchterne Aufklärung nicht leichter."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html" },
+            { "name": "TechCrunch", "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/" }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+            "alt": "Das J.-Edgar-Hoover-Gebäude, Sitz des FBI in Washington",
+            "credit": "Kevin Carter / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+          }
+        },
+        {
+          "title": "Deutschland, Frankreich, Italien, Polen und Schweden gründen ein Zentrum für KI in der Verteidigung",
+          "lead": "Das International Centre for Artificial Intelligence in Defence soll im Sommer 2027 in Rennes seine Arbeit aufnehmen. Es soll keine Waffen entwickeln, sondern gemeinsame Standards für verlässliche militärische KI setzen.",
+          "body": [
+            "Deutschland, Frankreich, Italien, Polen und Schweden wollen gemeinsam ein internationales Zentrum für künstliche Intelligenz in der Verteidigung gründen. Die fünf Länder erklärten ihre Beitrittsabsicht bei einer Gründungskonferenz im westfranzösischen Rennes, teilte das französische Verteidigungsministerium am Freitagabend mit. Die Initiative soll weiteren gleichgesinnten Staaten offenstehen. Ursprünglich war das Projekt als NATO-Exzellenzzentrum geplant, nun treibt Frankreich es selbst voran, eine NATO-Akkreditierung soll später folgen.",
+            "Das International Centre for Artificial Intelligence in Defence (ICAID) mit Sitz in Rennes soll im Sommer 2027 starten. Ziel ist, den Einsatz von KI zur Unterstützung militärischer Operationen zu beschleunigen. An der Konferenz am Donnerstag und Freitag nahmen Vertreter von 22 Ländern teil, es ging vor allem um Arbeitsweise und Leitungsstruktur. Bei einem zweiten Treffen im März 2027 sollen die Länder ihre Zusagen formalisieren.",
+            "Zunächst sollen mindestens 34 zivile und militärische Stellen entstehen, 17 davon für Franzosen. Das Zentrum soll keine KI-Dienste selbst entwickeln, sondern gemeinsame Rahmenbedingungen schaffen, besonders bei der Zuverlässigkeit von Algorithmen und vertrauenswürdiger KI. Es gehe darum, Gewissheit zu schaffen, dass die Informationen, auf deren Grundlage Entscheidungen getroffen werden, zuverlässig sind, sagte General Vincent Sébastien, stellvertretender Direktor der KI-Agentur des französischen Verteidigungsministeriums (AMIAD).",
+            "Eine der ersten Initiativen war ein Wettbewerb vom 12. bis 14. November in Rennes, bei dem es um die Nutzung militärischer Karten zur Verbesserung der Logistik an der Front ging. Fünf französische und drei ausländische Teams nahmen teil."
+          ],
+          "highlight": "Das Zentrum soll keine KI-Dienste selbst entwickeln, sondern gemeinsame Rahmenbedingungen schaffen, besonders bei der Zuverlässigkeit von Algorithmen und vertrauenswürdiger KI.",
+          "assessment": [
+            "Die Gleichzeitigkeit ist bemerkenswert: Am selben Freitag, an dem in Genf ein Verbot autonomer Waffen scheitert, gründen fünf EU-Staaten ein Zentrum, das militärische KI schneller einsatzbereit machen soll. Das ist kein Widerspruch zur deutschen Position für ein Verbot vollautonomer Systeme, zeigt aber, wohin die Reise geht.",
+            "34 Stellen sind wenig, das Zentrum ist eher ein Normen- und Abstimmungsbüro als ein Forschungslabor. Gerade das kann aber wichtig sein: Wer festlegt, wann ein militärisches KI-System als zuverlässig gilt, prägt die Beschaffung in ganz Europa. Dass Frankreich nicht auf die NATO wartet, passt zu seinem Wunsch nach europäischer Eigenständigkeit."
+          ],
+          "sources": [
+            { "name": "heise online", "url": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html" }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/3/4/shutterstock_1926849941-44e6051ee12584eb.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Digitale Karte Europas, Symbolbild für europäische Zusammenarbeit bei KI",
+            "credit": "StudioProX / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Fuenf-EU-Staaten-wollen-Zentrum-fuer-KI-in-der-Verteidigung-gruenden-11533498.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Neu zu GTA 6: Kritiker geben 99, Spieler 5,6, und bei Comcast frisst der Download fast ein Viertel des Netzes",
+          "lead": "Auf Metacritic stürzt die Nutzerwertung von GTA 6 ab, obwohl die Kritiker jubeln. Gleichzeitig zeigen neue Zahlen, wie gewaltig der Start technisch war und wie viele Xbox-Spieler über Neuseeland früher spielten.",
+          "body": [
+            "Grand Theft Auto 6 gehört zu den am besten bewerteten Spielen aller Zeiten, doch die Spieler sehen das offenbar anders. Während die Kritiker auf Metacritic einen Metascore von 99 vergeben, ist die Nutzerwertung laut Eurogamer auf 5,6 von 10 gefallen. Von mehr als 54.000 Bewertungen sind 44 Prozent negativ. Zwischenzeitlich lag der Wert sogar im roten Bereich und hat sich seitdem leicht erholt.",
+            "Manche Kritik ist sachlich, etwa an der Begrenzung auf 30 Bilder pro Sekunde auf den Konsolen. Andere stören sich daran, dass die Geschichte sich stark um die Beziehung von Jason und Lucia dreht statt um die gewohnten Gewaltorgien. „Die Erwartungen haben dieses Spiel vielleicht umgebracht“, schreibt ein Nutzer mit 0 von 10 Punkten. Der Hyperrealismus mache es langsam und banal, es fühle sich an wie eine Lebenssimulation. Andere beklagen Fehler, zu viel sexuellen Inhalt und eine schwache Handlung.",
+            "Technisch war der Start beispiellos. Der US-Netzbetreiber Comcast teilte mit, der Launch am 19. November habe den größten Datenverkehrstag in der Geschichte seines Netzes ausgelöst, 31 Prozent über einem normalen Tag. „Zur Spitzenzeit machte GTA 6 fast ein Viertel des gesamten Netzverkehrs aus.“ PC Gamer weist darauf hin, dass sich das auf Comcasts Netz bezieht, nicht auf das ganze Internet.",
+            "Ampere Analysis hat zudem ausgewertet, wie viele Spieler den Start vorzogen. Mehr als zwei Millionen Xbox-Spieler in den USA und Großbritannien stellten ihre Konsole auf Neuseeland um, wo das Spiel zuerst um Mitternacht Ortszeit freigeschaltet wurde, und spielten so schon am 18. November. Es waren 1,5 Millionen in den USA und 600.000 in Großbritannien. Auf der PS5 war der Trick schwerer, weil die Region eines Kontos fest ist, dort nutzten ihn nur 100.000 US-Spieler und 25.000 in Großbritannien.",
+            "Rockstar hatte am Freitag gemeldet, GTA 6 habe am ersten Tag 3,79 Milliarden Dollar eingespielt. Newzoo gibt zu bedenken, dass der reine Konsolenstart die globale Reichweite begrenzt, weil Konsolen 2026 nur 22 Prozent des weltweiten Spieleumsatzes ausmachen."
+          ],
+          "highlight": "Während die Kritiker auf Metacritic einen Metascore von 99 vergeben, ist die Nutzerwertung laut Eurogamer auf 5,6 von 10 gefallen.",
+          "assessment": [
+            "Die Kluft zwischen 99 und 5,6 sagt mehr über Metacritic als über das Spiel. Ein Teil der Nutzerwertungen ist echter Ärger über 30 Bilder pro Sekunde und Fehler, ein großer Teil ist das übliche Review-Bombing bei jedem riesigen Titel. Spannend ist der wiederkehrende Vorwurf, GTA 6 sei zu langsam und zu ernst. Rockstar hat offenbar ein Spiel gemacht, das eher an Red Dead Redemption 2 erinnert als an das Chaos von GTA Online, und nicht jeder wollte das.",
+            "Die Neuseeland-Zahlen sind ein kleines Lehrstück über Konsolenplattformen. Microsoft lässt Regionswechsel zu, Sony nicht, und schon spielen 15-mal so viele Xbox-Nutzer früher. Für künftige Großstarts dürfte das ein Argument für eine weltweit gleichzeitige Freischaltung sein."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/gta-6-review-bombed-metacritic-user-score" },
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/" },
+            { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/love-magazine-jason-and-lucia-motorcycle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Jason und Lucia auf einem Motorrad in GTA 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand"
+          }
+        },
+        {
+          "title": "Geld aus dem Anthropic-Vergleich: Wizards of the Coast gibt seinen Anteil komplett an die D&D-Autoren weiter",
+          "lead": "Der Verlag hinter Dungeons & Dragons und Magic war Kläger im Urheberrechtsverfahren gegen Anthropic über 1,5 Milliarden Dollar. Statt die Hälfte der Zahlungen zu behalten, reicht er sie an die freien Autoren weiter.",
+          "body": [
+            "Wizards of the Coast, Verlag von Dungeons & Dragons und Magic: The Gathering, war einer der Anspruchsberechtigten im Urheberrechtsvergleich über 1,5 Milliarden Dollar mit dem KI-Entwickler Anthropic. Die Standardzahlung lag bei 3000 Dollar pro betroffenem Werk, aufgeteilt je zur Hälfte zwischen Autor und Verlag. Wie zuerst Wargamer berichtete und PC Gamer aufgreift, wird Wizards auch seine Hälfte an die Autorinnen und Autoren auszahlen.",
+            "Profitieren dürften vor allem oder ausschließlich freie Autoren, die auf Vertragsbasis für den Verlag schreiben, bis hin zu bekannten Namen wie R. A. Salvatore, dem Erfinder des Dunkelelfen Drizzt. Der Autor und Herausgeber James Lowder, der an D&D-Büchern mitgearbeitet hat, schrieb auf LinkedIn, es gehe um „Hunderttausende Dollar“, die Wizards hätte einstreichen können. Und das zu einer Zeit, in der große Verlage versuchten, sich so viel Vergleichsgeld wie möglich von den Autoren zu sichern.",
+            "Die Gespräche bei Wizards liefen laut Lowder seit Monaten. Angestoßen hätten sie Autoren, die ihren Einfluss nutzten, vor allem Salvatore. Er dankte ausdrücklich Dan Ayoub bei Wizards, der offen für die Gespräche gewesen sei und „das Großzügige und Richtige“ getan habe.",
+            "PC Gamer ordnet den Schritt auch skeptisch ein. Der Ruf von Wizards hat in den vergangenen Jahren gelitten: durch den gescheiterten Umbau der Open Gaming License, durch KI-Bilder in Werbematerial und in einem Quellenbuch und durch die Entlassung von 1100 Beschäftigten im Jahr 2023. Zuletzt weigerte sich das Unternehmen zweimal in einem Jahr, eine Gewerkschaft freiwillig anzuerkennen, und erzwang damit eine Abstimmung, deren Ergebnis noch nicht öffentlich ist.",
+            "Für einen Milliardenkonzern seien ein paar Hunderttausend Dollar Kleingeld, schreibt PC Gamer. Der eigentliche Wert des Verfahrens für Verlage liege im Zugeständnis und im Präzedenzfall zum Training von KI-Modellen mit urheberrechtlich geschützten Werken."
+          ],
+          "highlight": "Wie zuerst Wargamer berichtete und PC Gamer aufgreift, wird Wizards auch seine Hälfte an die Autorinnen und Autoren auszahlen.",
+          "assessment": [
+            "Es ist richtig, und es ist billig zu haben, beides stimmt. Für die einzelnen Autoren sind die zusätzlichen 1500 Dollar pro Werk spürbares Geld, für Hasbro sind sie eine Rundungsdifferenz. Dass der Anstoß von den Autoren selbst kam und nicht vom Konzern, sagt viel.",
+            "Interessanter als die Geste ist die Frage, die sie aufwirft: Wem steht Geld für das KI-Training mit Büchern eigentlich zu? Der Anthropic-Vergleich teilt es zwischen Autor und Verlag auf. Wenn weitere Verlage dem Beispiel folgen, entsteht Druck auf alle anderen, ihre Hälfte zu rechtfertigen. Ich erwarte das nicht flächendeckend, aber Wizards hat einen Maßstab gesetzt, an dem andere gemessen werden."
+          ],
+          "sources": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/iVnpcXYQRt6vWcgUKCQZg7-1280-80.jpg",
+            "alt": "Dunkelelf mit erhobenem Schwert, dazu das Cover von „Lolth's Warrior“ von R. A. Salvatore",
+            "credit": "Wizards of the Coast",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/rpg/wizards-of-the-coast-to-pass-full-ai-copyright-payout-to-d-and-d-writers/"
+          }
+        },
+        {
+          "title": "World of Warcraft: Forever hat so viele Spieler pro Woche wie WoW seit 15 Jahren nicht mehr",
+          "lead": "Gut zwei Wochen nach dem Start meldet Blizzard Rekordwerte für die neue Ausgabe seines Online-Rollenspiels. Mehr als 15 Millionen Figuren wurden bereits erstellt.",
+          "body": [
+            "World of Warcraft: Forever wird derzeit Woche für Woche von mehr Menschen gespielt, als World of Warcraft in den vergangenen 15 Jahren erreicht hat. Das teilte Holly Longdale mit, ausführende Produzentin und Vizepräsidentin für World of Warcraft bei Blizzard. „Danke, dass ihr mit uns in Azeroth seid“, schrieb sie.",
+            "Der offizielle WoW-Account veröffentlichte dazu eine Reihe von Zahlen. Seit dem Start am 4. November haben Spieler 15.160.147 Figuren und 140.764 Gilden erstellt, 1.480.343.357 Quests abgeschlossen und 9.786.925.806 Gegner besiegt. Es bildeten sich 71.309.889 Gruppen, und es gab 28.938.569 Siege im Spieler-gegen-Spieler-Kampf.",
+            "Gestorben wird ebenfalls viel: Insgesamt 196.851.761 Mal kamen Spielfiguren ums Leben, am tödlichsten ist offenbar Erzmagier Arugal, der Endgegner der Burg Schattenfang.",
+            "Schon Anfang November hatte Blizzard erklärt, Forever sei gemessen an den gleichzeitig aktiven Spielern der größte Start in der Geschichte von World of Warcraft und habe so viele Rückkehrer angezogen wie nie zuvor. Seitdem gab es eine erste Kontroverse um einen inzwischen behobenen Goldfehler. Spieler entschlüsselten zudem eine versteckte Questreihe, die zu zwei besonderen Schwertern führt, von denen erst eines gefunden wurde."
+          ],
+          "highlight": "World of Warcraft: Forever wird derzeit Woche für Woche von mehr Menschen gespielt, als World of Warcraft in den vergangenen 15 Jahren erreicht hat.",
+          "assessment": [
+            "Fünfzehn Jahre zurück, das ist die Zeit um die Erweiterung Cataclysm, als WoW seinen Höhepunkt hinter sich ließ. Dass Blizzard diesen Vergleich so offen zieht, zeigt, wie viel Nostalgie und ein frischer Neuanfang ausmachen. Viele Spieler wollen offenbar nicht noch eine Erweiterung, sondern noch einmal das Gefühl vom Anfang.",
+            "Bemerkenswert ist, dass die Zahl mitten im GTA-6-Start fällt und das Spiel trotzdem wächst. Die große Frage ist, ob Forever eine Welle bleibt wie seinerzeit WoW Classic oder ob Blizzard daraus ein dauerhaftes zweites Standbein macht. Absolute Spielerzahlen nennt Blizzard übrigens weiterhin nicht, die Rekordmeldung bleibt also ein relativer Vergleich."
+          ],
+          "sources": [
+            { "name": "Eurogamer", "url": "https://www.eurogamer.net/wow-forever-weekly-players-15-years" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/WoW_Forever_Cinematic_Still_12.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Standbild aus dem Filmtrailer zu World of Warcraft: Forever",
+            "credit": "Blizzard",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/wow-forever-weekly-players-15-years"
+          }
+        },
+        {
+          "title": "Deltarune: Kapitel 6 ist von Anfang bis Ende spielbar, an Kapitel 7 wird schon gearbeitet",
+          "lead": "Toby Fox meldet in seinem Newsletter große Fortschritte bei der Fortsetzung von Undertale. Einen Termin gibt es nicht, aber das Ende der siebenteiligen Geschichte rückt näher.",
+          "body": [
+            "Acht Jahre nach dem ersten Kapitel nähert sich Deltarune offenbar dem Abschluss. Fünf Kapitel von Toby Fox' Fortsetzung des Rollenspiels Undertale sind erschienen, zwei weitere sollen folgen. In seinem jüngsten Newsletter schreibt Fox, Kapitel 6 komme gut voran und sei nun „ein strukturell vollständiger Entwurf, der von Anfang bis Ende gespielt werden kann“. Alle Karten, Ereignisse und Kämpfe existierten, bis auf ein optionales Ereignis.",
+            "Das Team beginnt deshalb mit der Lokalisierung und ersten Tests. Die vollständigen Tests sollen noch warten, weil einige wichtige Szenen in ihrer Präsentation noch „unausgegoren“ seien. Eine baldige Veröffentlichung sollte man nicht erwarten. „Auch wenn Kapitel 6 ein eher kurzes Kapitel ist, möchte ich es so gut wie möglich machen. Ich kann das nicht überstürzen“, schreibt Fox.",
+            "Die Arbeit an Kapitel 7 hat „gerade erst begonnen“. Designer, die mit Kapitel 6 fertig sind, sind bereits umgezogen. Fox hat dem Team Dialoge und Ereignisse gezeigt, aber nicht alles: „Gerade als die Geschichte einen kritischen Moment erreichte, hörte ich auf zu lesen. Ich sagte meinem Team, sie müssten mehr vom Spiel fertigstellen, bevor ich ihnen erzähle, was passiert.“ Alle fänden das so lustiger.",
+            "Das Tempo ist beachtlich, Kapitel 5 erschien erst im Juni. Seit 2025, als Fox die Kapitel 3 und 4 im selben Jahr veröffentlichte, hat sich die Entwicklung deutlich beschleunigt. Zum Start von Kapitel 5 spielten laut PC Gamer 300.000 Menschen gleichzeitig auf Steam."
+          ],
+          "highlight": "Kapitel 6 komme gut voran und sei nun „ein strukturell vollständiger Entwurf, der von Anfang bis Ende gespielt werden kann“.",
+          "assessment": [
+            "Toby Fox ist einer der wenigen Entwickler, deren Newsletter echte Nachrichten sind. Dass Kapitel 6 nur ein halbes Jahr nach Kapitel 5 spielbar ist, zeigt, wie sehr das kleine Team inzwischen eingespielt ist. Ein Termin für 2027 erscheint realistisch, auch wenn Fox sich nicht festlegt.",
+            "Schön ist die Anekdote mit dem Team, dem er das Ende vorenthält. Sie erklärt ein Stück weit, warum Deltarune so viel Zuneigung bekommt: Hier arbeitet jemand ohne Verlag im Nacken und mit sichtbarer Freude am eigenen Werk. In einer Woche, in der alles über Milliardenumsätze redet, ist das ein guter Gegenpol."
+          ],
+          "sources": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/" }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/9mtBLYoPocDpbS5srRdg5-1920-80.png",
+            "alt": "Eine Katze mit einem Knopf als Auge bietet in Deltarune ihre Waren an",
+            "credit": "Toby Fox",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox/"
+          }
+        },
+        {
+          "title": "Digital Fairness Act: Warum der EU-Entwurf gegen Lootboxen und Pay-to-Win vor allem europäische Indies treffen könnte",
+          "lead": "Die EU-Kommission hat ihren Entwurf für den Digital Fairness Act vorgelegt, die Spielebranche ist in Aufruhr. Ein Medienanwalt erklärt bei GamesIndustry.biz, welche Regeln das Spieldesign verändern würden.",
+          "body": [
+            "Vergangene Woche hat die Europäische Kommission den Entwurf des Digital Fairness Act (DFA) veröffentlicht, und in der Spielebranche gab es prompt Proteste. In einem Gastbeitrag für GamesIndustry.biz analysiert Andreas Lober, Partner der Kanzlei ADVANT Beiten, die Folgen. Seine These: Die Wirkung reiche weit über unbeliebte Free-to-Play-Mechaniken hinaus und treffe europäische Entwickler besonders hart.",
+            "Ein Kernpunkt sind kostenpflichtige virtuelle Währungen (Artikel 14). Darunter fallen nicht nur direkt gekaufte Währungen, sondern auch Zweitwährungen im Spiel, die man indirekt damit erwirbt. Wer Gegenstände gegen solche Währungen anbietet, soll ihren Wert in echtem Geld anzeigen, und zwar auch beim Ausgeben, nicht nur beim Kauf. Lober fragt, wie man das bei Währungen berechnen soll, die man auch erspielen kann, und spottet über ein Fantasy-Rollenspiel, in dem der Händler den Preis eines Schwerts in Euro nennen muss.",
+            "Heikler sei die Folge: Wenn virtuelle Währung einen echten Wert hat, könnte das Konsequenzen haben, wenn ein Spieler gesperrt oder ein Spiel abgeschaltet wird, und Geschenke zwischen Spielern könnten zu steuerpflichtigen Vorgängen werden. Das stehe nicht ausdrücklich im Entwurf, sei aber eine mögliche Konsequenz.",
+            "Für Kinder verbietet der Entwurf „Pay-to-Win“ ausdrücklich. Die Definition sei aber eng, weil sie nur Käufe erfasst, die für den Erfolg „notwendig“ sind oder so dargestellt werden. Eine starke Rüstung gegen Geld falle nicht darunter, wenn man auch durch wochenlanges Spielen ans Ziel kommt. Der neue Begriff „Pay-to-Progress“ könne dagegen fast alles umfassen, von der Vollversion nach einer Testphase bis zu kostenpflichtigen Erweiterungen.",
+            "Grundsätzlich kritisiert Lober den Entwurf als „überkonstruiert und kaum praktikabel“. Er überschneide sich mit sechs anderen EU-Rechtsakten, die im Konfliktfall Vorrang hätten. Große Verlage mit Rechtsabteilungen könnten das durchschauen, kleine Indie-Studios nicht."
+          ],
+          "highlight": "Wer Gegenstände gegen solche Währungen anbietet, soll ihren Wert in echtem Geld anzeigen, und zwar auch beim Ausgeben, nicht nur beim Kauf.",
+          "assessment": [
+            "Man muss bedenken, wer hier schreibt: ein Anwalt, der Spielefirmen berät. Trotzdem sind seine Einwände nicht von der Hand zu weisen. Die Idee hinter dem DFA ist gut, wer Kindern Kristalle für echtes Geld verkauft, soll die Preise transparent machen. Aber eine Regel, die jedes Indie-Spiel mit einer Spielwährung erfasst, trifft die Falschen.",
+            "Spannend ist der Hinweis zu „Pay-to-Progress“. Wenn darunter wirklich auch Demos und DLCs fallen könnten, würde das Geschäftsmodelle treffen, die niemand für problematisch hält. Das ist ein Entwurf, und solche Unschärfen werden im Gesetzgebungsverfahren oft repariert. Die Branche sollte das Verfahren aber genau begleiten, denn am Ende gilt der Text, nicht die Absicht."
+          ],
+          "sources": [
+            { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard" }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/pexels-marco-288924445-13153479.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Fahnen der Europäischen Union vor einem Gebäude",
+            "credit": "Marco / Unsplash",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "„American Psycho“ von Luca Guadagnino ist geplatzt: „Es findet nicht statt“",
+          "lead": "Der Regisseur von „Challengers“ und „Queer“ hat bestätigt, dass seine Neuverfilmung von Bret Easton Ellis' Roman nicht zustande kommt. Zwei Jahre lang wurde über die Besetzung von Patrick Bateman spekuliert.",
+          "body": [
+            "Luca Guadagnino wird „American Psycho“ nicht verfilmen. Im Podcast „Crew Call“ von Deadline sagte der Oscar-nominierte Regisseur, er sei nicht mehr an dem Projekt beteiligt. „Scott Z. Burns hat ein fantastisches Drehbuch geschrieben“, sagte Guadagnino. „Leider findet es, Stand heute, für mich nicht statt.“ Auch The Hollywood Reporter bestätigte, dass der Film nicht weiterverfolgt wird.",
+            "Deadline hatte im Oktober 2024 exklusiv gemeldet, dass Guadagnino in abschließenden Gesprächen mit Lionsgate sei, um die Adaption von Bret Easton Ellis' Roman aus dem Jahr 1991 zu inszenieren. Burns schrieb das Drehbuch, Frenesy Films sollte produzieren, ausführender Produzent sollte Sam Pressman werden, Sohn von Edward R. Pressman, der schon die Verfilmung von 2000 produziert hatte.",
+            "Um die Rolle des Patrick Bateman gab es reichlich Spekulationen, eine Art Atempause in der jahrelangen Suche nach dem nächsten James Bond. Patrick Schwarzenegger warb offen für die Rolle, Guadagninos „Queer“-Darsteller Drew Starkey sagte, er habe das „großartige“ Drehbuch gelesen. Im Februar behauptete Ellis dann, mehrere bekannte Schauspieler hätten abgesagt, Burns habe daraufhin eine neue Fassung geschrieben.",
+            "Ellis hatte versprochen, der Film werde „völlig anders“ als Mary Harrons Verfilmung von 2000, in der Christian Bale den mordenden Investmentbanker spielte, eine satirische Figur über Männlichkeit. Harrons Film war mit Justin Theroux, Josh Lucas, Chloë Sevigny, Reese Witherspoon, Jared Leto und Willem Dafoe besetzt.",
+            "Guadagnino sprach im selben Podcast auch über seinen neuen Film „Artificial“, in dem Andrew Garfield OpenAI-Chef Sam Altman spielt."
+          ],
+          "highlight": "„Leider findet es, Stand heute, für mich nicht statt.“",
+          "assessment": [
+            "Das Aus kommt nicht überraschend. Wenn der Romanautor selbst öffentlich erzählt, dass Schauspieler reihenweise absagen, ist ein Projekt in Schwierigkeiten. Die Rolle ist ein Fluch: Christian Bales Bateman ist so ikonisch, dass jeder Nachfolger daran gemessen würde, und die Figur ist für ein Studio-Marketing im Jahr 2026 ein schwieriges Produkt.",
+            "Auffällig ist Guadagninos Formulierung „für mich“. Das Drehbuch von Burns existiert, und Lionsgate hält die Rechte. Ich würde nicht ausschließen, dass „American Psycho“ mit einem anderen Regisseur zurückkommt. Für Guadagnino selbst ist es vermutlich kein Verlust, er hat mit „Artificial“ gerade einen Film, über den alle reden."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/" },
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/American-Psycho-Luca-Guadagnino-2-shot.jpg?w=1000",
+            "alt": "Zweiteiliges Bild: Luca Guadagnino und eine Szene aus „American Psycho“",
+            "credit": "Getty Images for FLC / Lionsgate / Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/"
+          }
+        },
+        {
+          "title": "Neu zu Panem: „Sunrise on the Reaping“ startet mit mehr als 120 Millionen Dollar und bekommt ein A- von den Zuschauern",
+          "lead": "Der sechste Film der „Tribute von Panem“ bringt die Reihe zurück in die Region der 100-Millionen-Starts. Das Publikum bewertet ihn besser als den Vorgänger.",
+          "body": [
+            "Lionsgate hat „Die Tribute von Panem“ wieder dorthin gebracht, wo die Reihe hingehört. Der sechste Film, „The Hunger Games: Sunrise on the Reaping“, steuert laut Deadline auf einen Start von 120 Millionen Dollar in Nordamerika zu, nach 56 Millionen am Freitag einschließlich der Vorpremieren. The Hollywood Reporter meldet ebenfalls mehr als 120 Millionen. In Heft 45 lagen die Prognosen noch bei 110 Millionen.",
+            "Auch das Publikum ist zufriedener. Die CinemaScore-Note stieg von B+ beim Vorgänger „The Ballad of Songbirds & Snakes“ auf A-. In den Umfragen von PostTrak sagen 80 Prozent, sie würden den Film auf jeden Fall weiterempfehlen, 93 Prozent bewerten ihn positiv. Premium-Säle und Imax machen 47 Prozent des Wochenendes aus.",
+            "Das Publikum ist zu 68 Prozent weiblich, 74 Prozent sind zwischen 18 und 34 Jahre alt. 64 Prozent kamen, weil sie die Reihe lieben, 33 Prozent wegen der Besetzung. 54 bis 64 Prozent der Zuschauer hatten ihre Karten im Voraus gekauft.",
+            "In der Reihe liegt der Film derzeit auf Platz vier und dürfte bis Sonntag „Mockingjay Teil 1“ (121,8 Millionen Dollar) überholen. Vorn bleiben „Catching Fire“ von 2013 mit 158 Millionen und der erste Film von 2012 mit 152,5 Millionen. Regie führte erneut Francis Lawrence.",
+            "Weniger gut läuft Amazon MGMs „I Play Rocky“ über die Entstehung des ersten Rocky-Films von 1976. Er kommt auf etwa 9,3 Millionen Dollar, obwohl er als erster Rocky-Film überhaupt ein A+ bei CinemaScore erhielt. Das ältere Publikum, 52 Prozent sind über 45, dürfte laut Deadline erst im Laufe der Woche kommen."
+          ],
+          "highlight": "Die CinemaScore-Note stieg von B+ beim Vorgänger „The Ballad of Songbirds & Snakes“ auf A-.",
+          "assessment": [
+            "Lionsgate kann aufatmen. Der schwächere Start des Vorgängers von 2023 war ein Warnsignal, nun zeigt sich, dass die Marke nicht ausgebrannt war, sondern nur die falsche Geschichte erzählt hatte. Haymitch, eine Figur, die das Publikum kennt und mag, zieht mehr als der junge Snow.",
+            "Die Kritik war bei der Premiere skeptisch, die Zuschauer sind es nicht, und das A- ist ein Zeichen für stabile Folgewochen über Thanksgiving. Für Lionsgate ist das ein wichtiger Erfolg. Ein weiteres Prequel dürfte damit beschlossene Sache sein, sobald Suzanne Collins ein Buch liefert."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/" },
+            { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-On-The-Reaping-3.jpg?w=1024",
+            "alt": "Szene aus „Die Tribute von Panem: Sunrise on the Reaping“",
+            "credit": "Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          }
+        },
+        {
+          "title": "„Die Klapperschlange“-Neuauflage: John Carpenter bringt Robert Rodriguez als Alternative zu Zack Snyder ins Spiel",
+          "lead": "Carpenter hatte Zack Snyder für eine Neuinterpretation von „Escape from New York“ ausgewählt. Nun sagt er öffentlich, Robert Rodriguez stehe als Reserve bereit, und die Musik komponiere er selbst.",
+          "body": [
+            "45 Jahre nach „Die Klapperschlange“ sucht John Carpenter weiter nach dem richtigen Regisseur für eine Neuauflage. Er hatte zuletzt Zack Snyder ausgewählt, um eine Neuinterpretation von „Escape from New York“ zu schreiben und zu inszenieren. Im Podcast „Dropping Names“ hielt ihm jemand entgegen, Snyder sei gerade sehr gefragt. Carpenter antwortete: „Ist er nicht mehr, aber er versucht, zurückzukommen. Wir werden sehen. Er ist ein netter Mann. Ich mochte ihn.“",
+            "Dann folgte der eigentliche Satz: „Wir haben eine Reserve: Robert Rodriguez will es machen. Er hat eine neue Geschichte, die er erzählen will. Also, wir werden sehen.“ Rodriguez war schon 2017 für ein Remake vorgesehen. Über die Jahre waren mehrere Kandidaten im Gespräch, darunter das Regieduo Radio Silence.",
+            "Snyders Lage ist schwieriger geworden. Sein Film „The Last Photograph“ wurde im September beim Filmfestival in Toronto schlecht aufgenommen, vor allem wegen exzessiver Gewalt und anstößiger Inhalte. Auch seine „Rebel Moon“-Filme für Netflix wurden von der Kritik verrissen.",
+            "Carpenter, der das Original geschrieben und inszeniert hat, wird erneut die Musik komponieren. „Ich habe verlangt, der Komponist zu sein ... wir werden die Musik neu machen“, sagte er. Im Original von 1981 hat der Elitesoldat und Gefangene Snake Plissken (Kurt Russell) 24 Stunden Zeit, den US-Präsidenten aus Manhattan zu befreien, das zum einzigen Hochsicherheitsgefängnis des Landes geworden ist. 1996 folgte „Flucht aus L.A.“."
+          ],
+          "highlight": "„Wir haben eine Reserve: Robert Rodriguez will es machen.",
+          "assessment": [
+            "Wenn ein Rechteinhaber im Podcast über den Marktwert seines Regisseurs spricht und gleich den Ersatz nennt, ist das ein klares Signal. Snyder ist nach zwei Flops und einem verrissenen Festivalfilm angezählt, und Carpenter macht kein Geheimnis daraus.",
+            "Rodriguez wäre die stimmigere Wahl. Er hat mit „Planet Terror“ und „Machete“ gezeigt, dass er das Genrekino der Achtziger liebt, ohne es zu ironisieren. Dass Carpenter die Musik selbst schreibt, ist für Fans die beste Nachricht: Der Synthesizer-Score ist mindestens die Hälfte des Originals. Ob der Film überhaupt kommt, ist nach so vielen gescheiterten Anläufen allerdings weiter offen."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Escape-New-York-Robert-Rodriguez-2-shot.jpg?w=1000",
+            "alt": "Zweiteiliges Bild: Kurt Russell als Snake Plissken und Robert Rodriguez",
+            "credit": "Courtesy Everett Collection / Gilbert Flores / PMC",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/"
+          }
+        },
+        {
+          "title": "Bundessteuergutschrift für Filme: Trump sagt „Es wird passieren“, der Kongress will vor Jahresende abstimmen",
+          "lead": "Ein parteiübergreifender Gesetzentwurf soll US-Produktionen 20 bis 30 Prozent ihrer Lohnkosten erstatten. Diese Woche kamen mehr als 60 neue Unterstützer im Repräsentantenhaus hinzu.",
+          "body": [
+            "Präsident Donald Trump hat seine Unterstützung für eine bundesweite Steuergutschrift für Film- und Fernsehproduktionen bekräftigt. Auf die Frage, ob er mit Demokraten zusammenarbeiten könne, nannte er den Motion Picture, Television, and Entertainment Revitalization Act „sehr parteiübergreifend“ und sagte: „Ich kann Ihnen jetzt schon sagen, das wird passieren.“ Seine Regierung verhandle aktiv über das Gesetz. Er berief sich sogar auf Senator Adam Schiff, Demokrat aus Kalifornien, der den Entwurf im September mit dem Republikaner Tim Scott eingebracht hatte.",
+            "Am Donnerstag hatten die Initiatoren mehr als 60 neue Mitunterstützer im Repräsentantenhaus und vier im Senat gemeldet, aus beiden Parteien. Im Senat kamen die Republikaner Katie Britt und Thom Tillis sowie die Demokraten Chris Coons und Dick Durbin hinzu. Der Gewerkschaftsbund AFL-CIO und der Hotelverband haben sich der Koalition angeschlossen, zu der bereits IATSE, SAG-AFTRA, die Regiegilde DGA und der Studioverband MPA gehören.",
+            "Das Gesetz würde qualifizierten Film- und Fernsehproduktionen eine Gutschrift von 20 Prozent auf die Lohnkosten für amerikanische Beschäftigte gewähren, mit Boni bis zu 30 Prozent. Für Crews, die seit Jahren zusehen, wie Projekte den Steuervorteilen nach Kanada oder Großbritannien folgen, wäre das ein klarer Anreiz, im Land zu drehen.",
+            "Die Abgeordnete Linda Sánchez fordert eine Verabschiedung vor 2027, damit Produktionen ab dem 1. Januar profitieren können. Eine Abstimmung ist noch nicht angesetzt, mehrere Quellen sagten IndieWire, das Gesetz käme schneller voran, wenn es an ein Übergangsgesetz zur Haushaltsfinanzierung angehängt würde. Trump sagte, man verhandle auch darüber, ob Kinos profitieren sollen. Er hatte erstmals im August nach einem Treffen mit Jon Voight eine bundesweite Förderung gefordert."
+          ],
+          "highlight": "Das Gesetz würde qualifizierten Film- und Fernsehproduktionen eine Gutschrift von 20 Prozent auf die Lohnkosten für amerikanische Beschäftigte gewähren, mit Boni bis zu 30 Prozent.",
+          "assessment": [
+            "Für Hollywood wäre das die wichtigste politische Nachricht seit Jahren. Die USA hatten bisher keine bundesweite Förderung, nur einzelne Bundesstaaten, und haben dadurch Produktionen an Atlanta, Vancouver, London und Budapest verloren. Wenn Trump, Schiff und die Gewerkschaften an einem Strang ziehen, ist das ungewöhnlich genug, um ernst genommen zu werden.",
+            "Für Europa ist das keine gute Nachricht. Britische und osteuropäische Studios leben zu einem guten Teil von US-Produktionen, die wegen der Förderung kommen. Ein Rabatt von bis zu 30 Prozent in den USA selbst würde diese Rechnung für viele Projekte kippen. Noch ist allerdings nichts beschlossen, und der Weg über ein Haushaltsgesetz ist in Washington immer unberechenbar."
+          ],
+          "sources": [
+            { "name": "IndieWire", "url": "https://www.indiewire.com/news/breaking-news/trump-says-federal-film-tax-credit-will-pass-congress-1235229851/" }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2306106159.jpg?w=650",
+            "alt": "Präsident Trump bei einem Pressetermin am 20. November in Washington",
+            "credit": "Getty Images",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/trump-says-federal-film-tax-credit-will-pass-congress-1235229851/"
+          }
+        },
+        {
+          "title": "„Yellowjackets“ endet nach vier statt fünf Staffeln: Die Macher erklären, warum sie die Geschichte verdichtet haben",
+          "lead": "Ashley Lyle und Bart Nickerson hatten eine Serie über fünf Staffeln geplant. Beim Schreiben merkten sie, dass die Geschichte schneller auf ihr Ende zulief.",
+          "body": [
+            "Viele Fans tun sich schwer mit dem Ende von „Yellowjackets“, für die Erfinder war es der richtige Zeitpunkt. Im Gespräch mit Deadline erklärten Ashley Lyle und Bart Nickerson, sie wollten nicht riskieren, „zu lange zu bleiben“, nachdem die Geschichte schneller auf ihren Schluss zusteuerte als gedacht.",
+            "„Wir hatten immer gesagt, dass wir einen Plan über fünf Staffeln gepitcht hatten, aber auch immer den Vorbehalt gemacht, dass die Serie uns sagen würde, wann sie enden will“, sagte Nickerson. Beim Entwickeln der Geschichte habe es sich angefühlt, als bewege man sich schneller aufs Ende zu. „Also stand die Entscheidung an: Packen wir viel in Staffel 4, oder riskieren wir, mit einer fünften Staffel zu lange zu bleiben? Wir haben uns entschieden, es hineinzupacken.“",
+            "Es sei ein „unglaubliches Geschenk“ gewesen, zu wissen, dass nach Staffel 4 Schluss ist, sagte Nickerson. Lyle erzählte, das Team sei „wiederbelebt“ worden von der Aussicht, die Figuren endlich in die Zivilisation zurückkehren zu lassen. Das sei immer der Plan für die letzte Staffel gewesen. „Wenn man eine Serie pitcht, fühlt sich alles wie ein Hirngespinst an. Man glaubt nicht, dass man das wirklich machen darf.“",
+            "In „Yellowjackets“ stürzt 1996 das Flugzeug einer Mädchenfußballmannschaft aus New Jersey in der kanadischen Wildnis ab. 19 Monate kämpfen die Spielerinnen ums Überleben, während eine dunkle, übernatürliche Kraft im Wald zu lauern scheint, und als Erwachsene müssen sie mit den Erinnerungen leben. In der vierten und letzten Staffel werden die Jugendlichen gerettet und müssen sich zu Hause zurechtfinden und ihre Geheimnisse bewahren. Neue Folgen erscheinen freitags bei Paramount+."
+          ],
+          "highlight": "Packen wir viel in Staffel 4, oder riskieren wir, mit einer fünften Staffel zu lange zu bleiben?",
+          "assessment": [
+            "Selten hört man von Serienmachern so offen, dass weniger mehr ist. Viele Mystery-Serien sind daran gescheitert, dass sie ihre Geheimnisse über zu viele Staffeln strecken mussten, „Lost“ ist das ewige Beispiel. Wenn „Yellowjackets“ nun verdichtet statt verlängert, ist das für die Qualität vermutlich gut.",
+            "Ob die vielen offenen Fäden in einer Staffel zusammenpassen, wird sich zeigen. Die Rückkehr in die Zivilisation ist dramaturgisch jedenfalls der Teil, auf den die ganze Serie gewartet hat."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets_403_DS_0327_0808_RT.jpg?w=1024",
+            "alt": "Szene aus der vierten Staffel von „Yellowjackets“ mit Sophie Nélisse, Sophie Thatcher und weiteren Darstellerinnen",
+            "credit": "Deadline",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
+          }
+        },
+        {
+          "title": "CAA-Chef Bryan Lourd fordert den Kongress auf, den No Fakes Act gegen KI-Doppelgänger zu verabschieden",
+          "lead": "In einem Gastbeitrag in der New York Times wirbt der Chef der mächtigsten Hollywood-Agentur für ein Bundesverbot nicht genehmigter digitaler Kopien von Stimme und Gesicht, für Stars und für alle anderen.",
+          "body": [
+            "Bryan Lourd, Chef und Co-Vorsitzender der Agentur Creative Artists Agency (CAA), drängt den Kongress, den No Fakes Act zu verabschieden und Präsident Trump zur Unterschrift vorzulegen. „Senat und Repräsentantenhaus sollten schnell handeln“, schreibt er in einem Gastbeitrag in der New York Times. „Das würde sicherstellen, dass Amerikaner im KI-Zeitalter die Kontrolle über ihr Bild und ihre Stimme behalten.“",
+            "Der Justizausschuss des Senats hatte das Gesetz im Juni einstimmig gebilligt. Lourd schreibt, es gebe Schwung, es noch vor Jahresende durch beide Kammern zu bringen, und nennt es „eines der wenigen KI-Gesetze mit echter parteiübergreifender Unterstützung“.",
+            "Hollywood habe keine Angst vor neuer Technik, betont Lourd. Viele Künstler nutzten KI bereits zu eigenen Bedingungen und schlössen Verträge mit Firmen, die mit ihrer Zustimmung KI-Abbilder erstellen. Der Einwand richte sich gegen eine Welt, in der jeder ihr Gesicht oder ihre Stimme ohne Erlaubnis nutzen kann. Es gehe nicht nur um Prominente: Eine Content-Creatorin habe in den Flitterwochen erfahren, dass eine YouTube-Anzeige eine KI-Version von ihr nutzte, um Potenzmittel zu verkaufen. „Ist das alles legal? Im Moment ist das eine offene Frage. Das sollte es nicht sein.“",
+            "Der No Fakes Act würde ein bundesweites Verbot nicht genehmigter digitaler Nachbildungen der Stimme oder des Aussehens jeder Person schaffen, „berühmt oder nicht“. Lourd beschreibt die Formel mit drei Worten: Kontrolle, Zustimmung und Vergütung. Ein einheitlicher Bundesstandard solle veraltete Gesetze der Bundesstaaten ersetzen. Zu den Unterstützern zählt unter anderem die Schauspielgewerkschaft SAG-AFTRA."
+          ],
+          "highlight": "Der No Fakes Act würde ein bundesweites Verbot nicht genehmigter digitaler Nachbildungen der Stimme oder des Aussehens jeder Person schaffen, „berühmt oder nicht“.",
+          "assessment": [
+            "Lourd ist klug genug, das Thema nicht als Problem reicher Stars zu verkaufen. Das Beispiel der Influencerin in der Potenzmittelwerbung trifft jeden, der Fotos von sich im Netz hat. Dass ausgerechnet der Chef der Agentur, die Stars wie kaum eine andere vertritt, so argumentiert, ist auch Lobbyarbeit: Ein Bundesgesetz würde das Geschäft mit lizenzierten KI-Abbildern ordnen, an dem Agenturen mitverdienen wollen.",
+            "Wie das in der Praxis aussieht, zeigt eine TechCrunch-Geschichte vom selben Wochenende über ein Start-up, das Schauspielern ihr Gesicht für KI-Seifenopern abkauft. Zustimmung allein reicht nicht, wenn die Bezahlung im Dunkeln bleibt. Das Gesetz wäre ein Anfang, die Verhandlung über faire Preise beginnt danach."
+          ],
+          "sources": [
+            { "name": "Deadline", "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/" }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2023/10/GettyImages-1245588690.jpg?w=1024",
+            "alt": "Bryan Lourd, Chef der Agentur CAA",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Wo lagerte die Zehnte Legion? Alte Grabungsakten verorten das römische Lager in Jerusalem",
+          "lead": "Seit mehr als hundert Jahren streiten Forscher darüber, wo Rom nach der Zerstörung Jerusalems im Jahr 70 seine Truppen stationierte. Shimon Gibson findet die Antwort in unveröffentlichten Funden aus den 1970er-Jahren.",
+          "body": [
+            "Nach der Zerstörung Jerusalems im Jahr 70 nach Christus blieb die Legio X Fretensis in der Stadt. Wo genau ihr Lager lag, ist seit mehr als einem Jahrhundert umstritten. Shimon Gibson von der University of North Carolina in Charlotte legt nun eine Antwort vor. Er hat unveröffentlichte Funde aus Grabungen ausgewertet, die Magen Broshi zwischen 1975 und 1978 an der westlichen Mauer der Altstadt südlich der heutigen Zitadelle leitete. Die Studie erschien am 20. November im Journal of Roman Archaeology.",
+            "Der antike Autor Flavius Josephus berichtet, Titus habe drei hohe Türme und ein Stück der Westmauer stehen lassen, damit die zurückbleibenden Truppen einen geschützten Stützpunkt hätten. Bisher wurde das Lager vorsichtig auf dem Westhügel vermutet, andere sahen es im christlichen Viertel oder auf dem Tempelberg. Eindeutige Reste fehlten, ein Forscher meinte sogar, es sei nichts mehr zu finden.",
+            "Broshis Team hatte aufschlussreiche Reste dokumentiert, die Keramik aber nur grob als frührömisch eingeordnet. Etwa 14 Meter vor einer älteren Mauer lag eine 37,7 Meter lange, ansteigende Straße, gesäumt von Bordsteinen aus Quadern der von Rom geschleiften Stadtmauer. Rund 35 Meter weiter südlich stießen die Ausgräber auf zwei im rechten Winkel aufeinandertreffende Mauern, 9,5 und 7,6 Meter lang und bis zu 1,5 Meter dick, gegründet auf den Resten eines abgerissenen Turms. Keramik in der Verfüllung stammt aus der Zeit vor 130 nach Christus, als Rom mit dem Bau der Kolonie Aelia Capitolina begann.",
+            "Gibson deutet die Mauern als Südwestecke des Lagers. Die Nordwestecke ist bekannt, weil einer der drei Türme des Herodes in der Zitadelle noch steht. Daraus ergibt sich eine Westmauer von 285 Metern. Bei quadratischem Grundriss hätte das Lager etwa 8,1 Hektar umfasst, halb so viel wie ein römisches Lager bei Megiddo. Gibson schätzt die ständige Besatzung auf 1800 bis 2200 Soldaten, der Rest der Legion war in Judäa verteilt.",
+            "Das Hauptquartier vermutet Gibson nahe dem früheren Palast des Herodes, den die römischen Statthalter nutzten. Wasser kam über das obere Aquädukt, auf dem Berg Zion entstand vermutlich eine Zivilsiedlung für die Soldaten. Ende des dritten Jahrhunderts zog die Legion nach Aila am Roten Meer. Ein Pilger aus Bordeaux, der 333 durch die Mauern des verlassenen Lagers ging, gilt Gibson als Augenzeuge für den Grundriss. Die Westmauer sei nun durch Funde belegt, der innere Aufbau bleibe Theorie."
+          ],
+          "highlight": "Gibson deutet die Mauern als Südwestecke des Lagers.",
+          "assessment": [
+            "Die Studie ist ein schönes Beispiel dafür, wie viel Wissen in Grabungsarchiven schlummert. Die entscheidenden Mauern wurden vor fast 50 Jahren freigelegt, man hat sie nur nicht richtig datiert und nie veröffentlicht. Erst die neue Auswertung macht daraus einen Befund.",
+            "Ganz sicher ist das Ergebnis nicht, Gibson sagt es selbst: Eine Ecke und eine Straße machen noch kein Lager, und die quadratische Form ist eine Annahme. Aber die Lage passt zu Josephus und zu den Herodes-Türmen, und das ist mehr, als die Konkurrenzthesen vorweisen können. Für das Verständnis Jerusalems zwischen Zerstörung und Neugründung ist das ein wichtiges Stück."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/romes-tenth-legion-camped-in-jerusalem/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/tenth-legion-camp-jerusalem-1.jpg",
+            "alt": "Schwarz-Weiß-Foto der Grabung von 1975 bis 1978: Eckmauer vor der Altstadtmauer Jerusalems",
+            "credit": "Broshi Mt. Zion Expedition",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/romes-tenth-legion-camped-in-jerusalem/"
+          }
+        },
+        {
+          "title": "Sieben Jagden in 3000 Jahren: An einer Klippe in Texas trieben Menschen immer wieder Bisons in den Tod",
+          "lead": "Bisonsprünge kennt man vor allem aus den nördlichen Great Plains. Die Nighthawk-Fundstelle in Texas zeigt, dass es sie auch im Süden gab, und dass die Erosion viele Belege zerstört hat.",
+          "body": [
+            "Jäger im texanischen Panhandle trieben über einen Zeitraum von rund 3000 Jahren mindestens siebenmal Bisonherden über eine Klippe. Ein Team um August Costa von der Rice University berichtet in der Fachzeitschrift American Antiquity über die Nighthawk-Fundstelle im Caprock Canyons State Park. Auch Live Science hat die Studie aufgegriffen.",
+            "Im Norden der Great Plains sind Hunderte solcher Bisonsprünge bekannt, an Klippen von 10 bis 30 Metern Höhe. Aus den südlichen Plains gab es nur eine Handvoll Kandidaten, manche Forscher vermuteten, es fehle an geeigneten Klippen. Das Nighthawk-Team widerspricht: Die Klippen gibt es, aber die Erosion löscht die Spuren aus.",
+            "Entdeckt wurde die Stelle im November 2021, als Rick Day, ehrenamtlicher Betreuer der Denkmalbehörde von Texas, und seine Partnerin Susan Day Bisonknochen aus einem Hang unter einer Klippe ragen sahen. Nach Testgrabungen 2022 und 2023 folgte 2024 die Hauptkampagne. 27 Radiokarbondaten ordnen die Funde sieben Jagdereignissen zwischen etwa 3500 und 400 Jahren vor heute zu. Die größte Jagd vor rund 1700 Jahren hinterließ 1436 von 2143 Knochenstücken und mindestens 17 Tiere, insgesamt sind es mindestens 27 Bisons.",
+            "Dass es ein Sprung war und keine Falle in einer Schlucht, zeigt die Lage: Die Knochenschicht liegt 20 Meter unter der Klippe, die Tiere konnten nur durch einen Sturz dorthin gelangen. Die Knochen sind fächerförmig den Hang hinab verteilt, und es gibt auffällig wenige Projektilspitzen. Zahnabnutzung verweist auf Spätherbst oder Frühwinter, gejagt wurden vor allem Kühe mit Kälbern. Schnittspuren zeigen, dass Rippen und Wirbel abtransportiert wurden, ein Kiefer trägt Spuren vom Herausschneiden der Zunge.",
+            "Ungewöhnlich ist die Form: kein langer Steilhang wie im Norden, sondern ein schmaler Felssporn wie eine Halbinsel. Als die Erosion den Sporn vor etwa 2900 Jahren vom Plateau trennte, verlagerte sich der Absprungpunkt um mehr als 100 Meter nach Westen, die Jäger kamen trotzdem wieder. Der Steilhang weicht pro 1000 Jahre um 60 bis 190 Meter zurück. Im Umkreis von 15 Quadratkilometern zählt das Team inzwischen acht Sprungstellen. Doch rund 10 im Süden stehen Hunderten im Norden gegenüber, und die schlechte Erhaltung erkläre den Unterschied nicht vollständig."
+          ],
+          "highlight": "Jäger im texanischen Panhandle trieben über einen Zeitraum von rund 3000 Jahren mindestens siebenmal Bisonherden über eine Klippe.",
+          "assessment": [
+            "Die Studie widerlegt eine bequeme Annahme: dass es im Süden keine Bisonsprünge gab, weil die Landschaft nicht passte. Tatsächlich hat man sie übersehen, manche Stellen wurden in den 1970ern als bloße Steinstreuung verzeichnet, während die Knochen darüber lagen. Das ist eine Mahnung, wie stark unser Bild der Vergangenheit davon abhängt, was zufällig erhalten bleibt.",
+            "Beeindruckend ist die Beharrlichkeit: Über 3000 Jahre kehrten Menschen an denselben Sporn zurück, auch als er sich durch Erosion veränderte. Das spricht für ein über Generationen weitergegebenes Wissen über Gelände und Tierverhalten. Dass am Ende trotzdem ein Rest an Unterschied zum Norden bleibt, macht die Sache ehrlich und spannend."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/3000-years-of-bison-hunting-at-texas-cliff-site/" },
+            { "name": "Live Science", "url": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/bison-hunting-at-texas-cliff-site-1.jpg",
+            "alt": "Gemälde von Karl Bodmer aus dem Jahr 1839: Reiter jagen mit Pfeil und Bogen eine Bisonherde",
+            "credit": "Karl Bodmer (1839), gemeinfrei",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/3000-years-of-bison-hunting-at-texas-cliff-site/"
+          }
+        },
+        {
+          "title": "Nationalschatz im Museum: Die Bullington-Brosche, eines von nur zehn bekannten Streitwagen-Beschlägen aus England",
+          "lead": "Die über 2000 Jahre alte Bronzebrosche aus Hampshire gehörte nicht an ein Gewand, sondern an ein Pferdegeschirr. Jetzt ist sie im Museum of the Iron Age in Andover zu sehen.",
+          "body": [
+            "Eine seltene Brosche aus der späten Eisenzeit ist jetzt im Museum of the Iron Age im südenglischen Andover ausgestellt. Gefunden wurde das Stück aus einer Kupferlegierung bei Bullington in Hampshire, etwa 16 Kilometer vom Museum entfernt. Es stammt aus der Zeit zwischen dem späten ersten Jahrhundert vor und dem späten ersten Jahrhundert nach Christus.",
+            "Solche Geschirrbroschen sind selten. Aus England und Wales sind nur zehn bekannt, und das Exemplar aus Bullington gehört zu den am besten erhaltenen. Getragen wurde es nicht. Die Brosche befestigte einen Riemen an einer Stoffdecke, die über den Rücken eines Ponys gelegt war, weitere Geschirrriemen liefen durch den Beschlag. Die feine Arbeit zeigt, welchen Stellenwert Streitwagen in der Gesellschaft der Eisenzeit hatten, und verweist auf einen Besitzer von hohem Rang.",
+            "Die Oberfläche ist mit einem Korbflechtmuster verziert, das Metallhandwerker der Zeit sonst eher für persönliche Gegenstände wie Spiegel und Halsringe nutzten.",
+            "Der Weg ins Museum führte über den Kunsthandel. Die Londoner Galerie ArtAncient ersteigerte die Brosche, danach wurde sie als Nationalschatz eingestuft, weil sie alle drei sogenannten Waverley-Kriterien für nationale Bedeutung erfüllte. Die Galeristen Costas Paraskevaides und Jethro Sverdloff schenkten sie dem Hampshire Cultural Trust. Das Stück ziert zudem den Jahresbericht des britischen Prüfausschusses für die Ausfuhr von Kunstwerken.",
+            "Paul Sapwell, Chef des Trusts, nannte die Brosche eine seltene und schöne Ergänzung der Sammlung. Er kündigte zugleich an, dass zwei Kommunen das Museum in den nächsten drei Jahren finanziell unterstützen werden."
+          ],
+          "highlight": "Aus England und Wales sind nur zehn bekannt, und das Exemplar aus Bullington gehört zu den am besten erhaltenen.",
+          "assessment": [
+            "Keine neue Forschung, aber ein schönes Objekt mit einer lehrreichen Geschichte. Dass ein Nationalschatz erst über eine Auktion und eine Galerie in ein öffentliches Museum kommt, zeigt die Eigenheit des britischen Fundrechts: Viele Stücke landen zunächst auf dem Markt, und es hängt am guten Willen von Händlern, ob sie in der Region bleiben.",
+            "Inhaltlich ist die Brosche ein kleines Fenster in eine Welt, in der Streitwagen und ihr Zaumzeug Statussymbole waren. Wer in Südengland ist, hat einen guten Grund für einen Abstecher nach Andover."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/iron-age-chariot-brooch-now-on-show-in-andover/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/iron-age-brooch-andover-1.jpg",
+            "alt": "Die bronzene Bullington-Geschirrbrosche mit Korbflechtmuster",
+            "credit": "Hampshire Cultural Trust",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/iron-age-chariot-brooch-now-on-show-in-andover/"
+          }
+        },
+        {
+          "title": "Mais im Tehuacán-Tal: Knochen von Hirschen und Kaninchen zeigen, dass die ersten Felder in einer feuchten Phase entstanden",
+          "lead": "Eine Isotopenstudie liest das Klima im mexikanischen Hochland über 13.000 Jahre aus Tierknochen ab. Sie liefert neue Argumente in der alten Frage, ob Dürre oder gutes Wetter die Menschen zum Ackerbau brachte.",
+          "body": [
+            "Die Bauern im Tehuacán-Tal in Mexiko pflanzten ihren ersten Mais in einer feuchten Klimaphase. Das ergibt eine Studie unter Leitung von Andrew Somerville von der Iowa State University, die bereits im März in Science Advances erschien und über die archaeologymag.com jetzt ausführlich berichtet. Das Tal im Bundesstaat Puebla ist eine der Schlüsselregionen für die Geschichte des Maisanbaus.",
+            "Das Team untersuchte 180 Knochen von 10 Fundstellen, 79 von Weißwedelhirschen und 101 von Kaninchen. Tiere nehmen Kohlenstoff, Sauerstoff und Stickstoff aus Pflanzen und Wasser auf, und diese chemischen Signaturen bleiben im Knochen erhalten. Jede Probe wurde so zu einem Archiv der Landschaft, in der das Tier lebte. Mit 94 veröffentlichten Radiokarbondaten ordneten die Forscher die Knochen neun Kulturphasen zu.",
+            "Am Ende der Eiszeit war das Tal trocken und von offenem Grasland bedeckt, Knochen von Pferden und Gabelböcken bestätigen das. Am trockensten war die El-Riego-Phase vor 9900 bis 7900 Jahren, passend zu einem weltweiten Trockenereignis vor etwa 8200 Jahren. Danach wurde es feuchter, mit mehr Bäumen und Sträuchern. Die ältesten datierten Maiskolben des Tals aus der Höhle San Marcos sind etwa 5400 Jahre alt und fallen genau in diese feuchte Abejas-Phase.",
+            "Der Ackerbau setzte sich dennoch nicht sofort durch. Mais blieb über Jahrhunderte ein kleiner Teil der Nahrung. In der Purrón-Phase, die sich mit einer Dürre vor etwa 4200 bis 3800 Jahren überschneidet, gab es wenige Menschen und Siedlungen. Erst in der sehr feuchten Santa-María-Phase vor 2800 bis 2250 Jahren wuchsen Bevölkerung, Siedlungen und Großbauten rasch. Die größte Bevölkerung erreichte das Tal in der letzten Phase vor der spanischen Eroberung.",
+            "Die Autoren warnen davor, alles dem Klima zuzuschreiben. Es biete nur eine teilweise Erklärung, künftige Forschung müsse die sozialen, kulturellen und wirtschaftlichen Gründe untersuchen, warum Dörfer sesshaft wurden und sich dem intensiven Maisanbau verschrieben."
+          ],
+          "highlight": "Die ältesten datierten Maiskolben des Tals aus der Höhle San Marcos sind etwa 5400 Jahre alt und fallen genau in diese feuchte Abejas-Phase.",
+          "assessment": [
+            "Die Studie ist nicht taufrisch, der Bericht schon, und sie ist gut gemacht. Statt Pollen oder Seesedimente nutzt sie Tierknochen aus denselben Fundstellen wie die Maisfunde. Das bringt Klima und Kultur zeitlich eng zusammen, was in solchen Debatten selten gelingt.",
+            "Das Ergebnis ist angenehm unspektakulär: Gutes Wetter half dem jungen Mais auf die Beine, aber den Ausschlag gaben Menschen und ihre Entscheidungen. Wer gern einfache Klimaerklärungen für große Umbrüche hört, bekommt hier eine nützliche Bremse."
+          ],
+          "sources": [
+            { "name": "Archaeology Magazine (archaeologymag.com)", "url": "https://archaeologymag.com/2026/11/wet-climate-helped-maize-spread-in-tehuacan-valley/" }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/climate-maize-tehuacan-valley-1.jpg",
+            "alt": "Bunte Maiskolben in einem geflochtenen Korb",
+            "credit": "Gus Espinosa",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/wet-climate-helped-maize-spread-in-tehuacan-valley/"
+          }
+        }
+      ]
+    }
+  ]
+}
