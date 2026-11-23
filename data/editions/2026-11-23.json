@@ -1,0 +1,611 @@
+{
+  "nr": 47,
+  "date": "2026-11-23",
+  "intro": "Die US-Börsenaufsicht nimmt Nvidias Bilanzen ins Visier, die Tech-Werte rutschen in den Bärenmarkt, und OpenAI schlägt ein Tempolimit für KI vor. Bei den Spielen streicht Epic die Blueprints aus Unreal Engine 6, im Kino knackt die Holmes-Doku „You Can See Everything“ die 100 Millionen. Dazu ein keltischer Silberschatz unter einem Umspannwerk und 40 Jahre Poly-Play, der Spielautomat aus der Stasi-Werkstatt.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Die Börsenaufsicht prüft die Bilanzen, US-Tech-Aktien rutschen in den Bärenmarkt",
+          "lead": "Nach einer Woche mit zweistelligen Verlusten ermittelt die SEC laut Reuters wegen Nvidias Bilanzierungspraktiken. Die Krise um den früheren Chef Jensen Huang zieht inzwischen den ganzen Technologiesektor nach unten.",
+          "body": [
+            "Hinter dem US-Technologiesektor liegt eine der schlechtesten Börsenwochen seit Langem. Der Nasdaq 100 verlor im Wochenverlauf 10,4 Prozent, der breitere S&P 500 8,6 Prozent. Allein am Freitag, dem 20. November, schloss der Nasdaq 100 mit einem Minus von 5,61 Prozent, der S&P 500 mit 3,70 Prozent. Damit sind die US-Tech-Werte nach der gängigen Definition im Bärenmarkt angekommen, also mehr als 20 Prozent unter ihrem Höchststand.",
+            "Den jüngsten Kursrutsch löste eine Meldung der Nachrichtenagentur Reuters aus: Die US-Börsenaufsicht SEC ermittelt bei Nvidia, im Mittelpunkt sollen die Bilanzierungspraktiken des Konzerns stehen. Die Nvidia-Aktie schloss am Freitag mit 14 Prozent im Minus und hat im November insgesamt 39 Prozent verloren. Was genau untersucht wird, ist nicht bekannt, Nvidia wollte sich nicht äußern.",
+            "Beobachter richten den Blick auf eine Änderung in Nvidias Berichterstattung aus dem vergangenen Jahr. Seitdem ordnet der Konzern seine Umsätze nach dem Hauptsitz der Kunden zu und nicht mehr nach der Rechnungsadresse. Dadurch tauchte Singapur nicht mehr in der Bilanz auf, obwohl laut Financial Times zuletzt fast die Hälfte der Umsätze von dort kam. Brisant ist das, weil die Singapurer Firma Megaspeed, deren frühere Managerin Alice Huang eine Affäre mit Jensen Huang hatte, leistungsstarke KI-Beschleuniger verbotenerweise nach China geliefert haben soll.",
+            "Dazu kommen die Berichte über Huangs Führungsstil: Die New York Times zitiert mehr als ein Dutzend aktuelle und frühere Beschäftigte, die von Demütigungen, Beleidigungen und Drohungen als Routine berichten, Bloomberg schreibt Ähnliches. Heise nennt als zweiten Belastungsfaktor die US-Kongresswahlen, nach denen der Bau neuer KI-Rechenzentren auf mehr politischen Widerstand stoßen dürfte.",
+            "Auch der Börsengang von Anthropic konnte die Stimmung nicht drehen: Die Aktie bewegt sich seit dem Start um den Ausgabepreis. In Taiwan, dem Zentrum der KI-Chipfertigung, verlor der Leitindex Taiex in der Woche sogar 17,5 Prozent."
+          ],
+          "highlight": "Damit sind die US-Tech-Werte nach der gängigen Definition im Bärenmarkt angekommen, also mehr als 20 Prozent unter ihrem Höchststand.",
+          "assessment": [
+            "Bisher war der Fall Huang eine Geschichte über Moral und Führung. Mit der SEC-Untersuchung wird er zu einer Geschichte über Zahlen, und das ist für Anleger die gefährlichere Sorte. Wenn sich herausstellen sollte, dass die geänderte Länderaufschlüsselung Exporte nach China verschleiern sollte, geht es nicht mehr um einen Chef, sondern um die Glaubwürdigkeit des wichtigsten Unternehmens der KI-Wirtschaft.",
+            "Man sollte trotzdem vorsichtig bleiben: Eine Ermittlung ist kein Befund. Aber der Markt hat gezeigt, wie viel vom KI-Boom an einer einzigen Firma hängt. Ein Bärenmarkt im Tech-Sektor heißt nicht, dass KI vorbei ist, wohl aber, dass die Zeit der bedingungslosen Zuversicht erst einmal vorbei ist."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/8/9/shutterstock_421955908-7a8e8d63ffd67f4d.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zum Aktienhandel",
+            "credit": "Vintage Tone/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Nvidia-geraet-weiter-unter-Druck-und-US-Tech-Aktien-in-den-Baerenmarkt-11533802.html"
+          }
+        },
+        {
+          "title": "Ein Tempolimit für KI: OpenAIs Chefwissenschaftler schlägt die Perplexität als gemeinsamen Maßstab vor",
+          "lead": "Jakub Pachocki will den Fortschritt von Sprachmodellen an einer einzigen Kennzahl messen, damit sich die Labore auf Grenzen einigen können. Sam Altman nennt den Text das Wichtigste, was OpenAI seit Langem veröffentlicht hat.",
+          "body": [
+            "OpenAIs Chefwissenschaftler Jakub Pachocki hat in einem Blogbeitrag dargelegt, wie man die Entwicklung von KI begrenzen könnte. Im Mittelpunkt steht eine Messgröße namens Perplexität. Sie misst, wie gut ein Modell im Durchschnitt das nächste Token vorhersagt; je niedriger der Wert, desto besser die Vorhersage. Mit der gleichnamigen Suchfirma hat das nichts zu tun.",
+            "Der Hintergrund ist eine Debatte, die in den vergangenen Wochen Fahrt aufgenommen hat. Ein früherer Forscher von OpenAI und Anthropic warf den Firmen vor, sie würden „mit unserem Leben spielen“, und selbst Anthropics Börsenprospekt warnt vor „katastrophalen oder existenziellen Risiken“. Anthropic-Chef Dario Amodei veröffentlichte daraufhin einen Plan, um „die Front zu takten“, und forderte gemeinsame Sicherheitsstandards sowie Grenzen für das Tempo des ungeprüften KI-Fortschritts. Sam Altman und Elon Musk haben sich laut TechCrunch offenbar dahinter gestellt.",
+            "Wer eine Geschwindigkeitsbegrenzung will, muss sich aber auf ein Tachometer einigen. Pachocki argumentiert, dass klassische Benchmarks für einzelne Fähigkeiten schnell veralten, weil die Modelle sie überholen. Die Perplexität sei dagegen über Jahre aussagekräftig geblieben. Sein Beitrag zeigt, wie der Wert bei OpenAIs Modellen seit GPT-3.5 gefallen ist.",
+            "„GPT-4 war bei etwa 0,91 in der Lage, Gedankenketten produktiv zu nutzen, was die gezielte Förderung dieser Fähigkeit und die heutigen Reasoning-Modelle ausgelöst hat“, schreibt Pachocki. „Jetzt, da wir Werte unter 0,8 erreicht haben, sehen wir transformative Fähigkeiten in Bereichen wie Cybersicherheit und Mathematik.“",
+            "Sein Vorschlag: Die Perplexität könnte zur Grundlage eines gemeinsamen Maßstabs für allgemeine Intelligenz werden. Die KI-Firmen würden sich dann verpflichten, eine bestimmte Schwelle nicht zu unterschreiten, bis die Fähigkeit, das Verhalten von KI zu verstehen und zu überwachen, einen konkreten Meilenstein erreicht hat. Altman nannte den Beitrag „das Wichtigste, was OpenAI seit Langem veröffentlicht hat“."
+          ],
+          "highlight": "Die KI-Firmen würden sich dann verpflichten, eine bestimmte Schwelle nicht zu unterschreiten, bis die Fähigkeit, das Verhalten von KI zu verstehen und zu überwachen, einen konkreten Meilenstein erreicht hat.",
+          "assessment": [
+            "Das ist der bisher konkreteste Vorschlag, wie eine Selbstbeschränkung der Labore technisch aussehen könnte. Eine einzige, leicht messbare Zahl hat Charme: Sie lässt sich überprüfen und schwer schönrechnen. Dass ausgerechnet OpenAI, lange der Taktgeber des Wettrennens, so etwas vorschlägt, zeigt, wie sehr sich die Stimmung in der Branche verschoben hat.",
+            "Die Schwächen liegen allerdings auf der Hand. Perplexität hängt vom Testkorpus ab, und eine Firma könnte Fähigkeiten auch auf anderen Wegen steigern als über bessere Vorhersage. Und eine Selbstverpflichtung ist nur so stark wie der schwächste Teilnehmer. Ohne staatliche Prüfer und ohne chinesische Labore bleibt das ein Gentlemen's Agreement unter Konkurrenten."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stop_ai_protest_sf_2025-09-26_016.jpg/1280px-Stop_ai_protest_sf_2025-09-26_016.jpg",
+            "alt": "Demonstration der Gruppe Stop AI in San Francisco im September 2025",
+            "credit": "Anderseidesvik",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/w/index.php?curid=195868206"
+          }
+        },
+        {
+          "title": "Mehr Ausfälle in Sicht: Die US-Regierung erklärt die Pannenserie mit hastigen Patches für KI-gefundene Lücken",
+          "lead": "Nach Störungen bei Microsoft, der Flugsicherung und großen Banken stimmen Geheimdienstkoordinator Jay Clayton und Microsoft-Präsident Brad Smith die Amerikaner auf weitere Ausfälle ein.",
+          "body": [
+            "In den USA hat sich in anderthalb Wochen eine bemerkenswerte Reihe von IT-Störungen angesammelt. Den Anfang machte ein mehrtägiger Ausfall von Microsoft Outlook, der ganze Unternehmen lahmlegte. Es folgte eine Störung der Flugsicherung FAA mit einem landesweiten Flugstopp, dann Probleme bei großen Banken wie JPMorgan Chase und ein Ausfall des internen Kommunikationsnetzes des Geheimdienstes NSA.",
+            "Jay Clayton, Director of National Intelligence, sagte bei CNN, die Bevölkerung solle sich auf „erhebliche Investitionen in die Modernisierung unserer Systeme“ und in die Cybersicherheit einstellen. Bei jedem Technologiesprung, „sowohl bei Rechenleistung als auch bei Anwendungen“, gebe es „Unebenheiten auf dem Weg“.",
+            "Die Regierung erklärt die Pannen mit einer Welle von Notfall-Updates: Mit KI-Hilfe würden derzeit massenhaft Sicherheitslücken gefunden, und um Angreifern zuvorzukommen, würden die Patches so schnell wie möglich eingespielt. In einigen Fällen sollen überhastete Patches die Ausfälle verursacht haben. Hinweise auf einen Zusammenhang zwischen den Störungen oder auf Cyberangriffe gibt es bislang nicht.",
+            "Microsoft-Präsident Brad Smith schlug in der CBS-Sendung „Face the Nation“ einen noch ernsteren Ton an: „Wir müssen uns ehrlich gesagt auf die kommenden Monate einstellen, denn das ist nichts, was in ein paar Wochen erledigt ist. Die gesamte Informationsinfrastruktur der Welt wird gerade praktisch erneuert.“ KI mache es leichter, Fehler zu finden, und dieses Wissen könne man nutzen, um Code zu flicken, oder als Angreifer, um einzudringen.",
+            "Finanzminister Scott Bessent verglich die Lage bei CBS mit einer Impfung: Der Arm tue vielleicht weh, man fühle sich am nächsten Tag unwohl, aber langfristig stärke es die Widerstandskraft. Die Warnungen kommen wenige Tage vor Thanksgiving, dem reisestärksten Wochenende des Jahres."
+          ],
+          "highlight": "Mit KI-Hilfe würden derzeit massenhaft Sicherheitslücken gefunden, und um Angreifern zuvorzukommen, würden die Patches so schnell wie möglich eingespielt.",
+          "assessment": [
+            "Hier zeigt sich eine Nebenwirkung der KI, über die bisher wenig gesprochen wurde: Wenn Maschinen Lücken schneller finden, als Menschen sie sauber schließen können, wird die Wartung selbst zum Risiko. Die Erklärung der Regierung klingt plausibel, sie ist aber auch bequem, weil sie jede Panne zum Zeichen von Fortschritt umdeutet.",
+            "Bessents Impf-Vergleich hinkt: Bei einer Impfung weiß man, was man bekommt. Dass der Chef der Geheimdienste und der Präsident von Microsoft gleichzeitig von Monaten der Instabilität sprechen, sollte man ernst nehmen, auch hierzulande. Dieselben Werkzeuge stehen europäischen Angreifern und Verteidigern genauso zur Verfügung."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Bevoelkerung-soll-sich-darauf-einstellen-US-Regierung-erwartet-mehr-IT-Ausfaelle-11533940.html"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "alt": "Mehrere Mauszeiger zeigen auf ein trauriges Gesicht auf einem Laptop-Bildschirm",
+            "credit": "Amelia Holowaty Krales / The Verge",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/tech/1039851/major-tech-outages"
+          }
+        },
+        {
+          "title": "Bundesrat will Deepfakes härter bestrafen und Smart Glasses strenger regeln",
+          "lead": "Die Länderkammer hält den Regierungsentwurf gegen digitale Gewalt für zu lasch. Sie fordert bis zu fünf Jahre Haft für das Verbreiten sexualisierter Deepfakes und Regeln für Brillen, die unbemerkt filmen.",
+          "body": [
+            "Der Bundesrat hat in seiner Sitzung am Freitag eine Stellungnahme zum Gesetzentwurf der Bundesregierung zum Schutz vor digitaler Gewalt beschlossen. Grundsätzlich begrüßen die Länder, dass sexualisierte Deepfakes, Identitätsmissbrauch und digitale Überwachung über mehrere Rechtsgebiete hinweg angegangen werden sollen. In zentralen Punkten halten sie den Entwurf aber für zu eng oder zu mild.",
+            "Für das Verbreiten sexualbezogener Aufnahmen oder künstlich erzeugter intimer Darstellungen sieht der Entwurf bis zu zwei Jahre Haft vor. Angesichts der Breitenwirkung im Netz reiche das nicht, so der Bundesrat, der einen Strafrahmen von bis zu fünf Jahren vorschlägt. Außerdem fragen die Länder, ob die Formulierung „den Anschein erweckt“ auch dann greift, wenn ein Bild deutlich als KI-generiert gekennzeichnet ist. Sie schlagen eine Fassung vor, die auf eine wirklichkeitsnahe Darstellung abstellt.",
+            "Beim geplanten Paragrafen zu täuschenden Inhalten und vorgetäuschter Identität stört die Länder die Beschränkung auf eine erhebliche Ansehensschädigung. Manipulierte Aufnahmen in leichter Kleidung, gefälschte Werbeclips, politische Desinformation oder Identitätsmissbrauch mit finanziellen Folgen würden so nicht ausreichend erfasst.",
+            "Ausführlich befasst sich der Bundesrat mit Smart Glasses, die freihändig und aus Augenhöhe filmen, oft ohne erkennbare Geste. Das Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz soll auf solche Geräte ausgeweitet werden. Die Länder verweisen auf Risiken durch heimliches Filmen und die Weiterverarbeitung auf Herstellerservern, etwa für KI-Auswertung, Gesichtserkennung oder Live-Streaming. Die Bundesnetzagentur sieht bei den Ray-Ban-Brillen von Meta bislang keinen Anlass für ein Marktverbot. Die Nutzung als Hilfsmittel für sehbehinderte Menschen soll ausdrücklich erlaubt bleiben.",
+            "Der Digitalverband Bitkom warnte vorab vor einem Generalverdacht gegen Brillenträger. Eine gut sichtbare Aufnahme-LED biete hohen Schutz, nützliche Funktionen wie Simultanübersetzung dürften nicht ausgebremst werden. Bei Tracking per Bluetooth- oder GPS-Tracker will der Bundesrat zudem die Einschränkung auf „wiederholt oder ständig“ streichen, weil schon der gezielte Einsatz ein tiefer Eingriff sei."
+          ],
+          "highlight": "Angesichts der Breitenwirkung im Netz reiche das nicht, so der Bundesrat, der einen Strafrahmen von bis zu fünf Jahren vorschlägt.",
+          "assessment": [
+            "Die Länder haben die richtige Schwachstelle gefunden: Ein Gesetz, das bei einem gekennzeichneten KI-Bild womöglich nicht greift, wäre ein Geschenk für jeden, der Nacktbilder von Kolleginnen erzeugt und ein kleines „KI“ in die Ecke schreibt. Der Schaden entsteht durch die Verbreitung, nicht durch die Frage, ob das Bild echt aussieht.",
+            "Bei den Smart Glasses ist die Lage schwieriger. Eine LED ist ein schwacher Schutz, wenn kaum jemand weiß, was sie bedeutet. Trotzdem sollte man die Brillen nicht pauschal verteufeln. Entscheidend ist, was mit den Aufnahmen auf den Servern passiert, und genau da setzt der Bundesrat zu Recht an."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/9/3/shutterstock_2397215569-1d86dbbfb56eb2ef.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Smart Glasses und digitaler Überwachung",
+            "credit": "Tada Images/Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Bundesrat-fordert-strengere-Regeln-fuer-Smart-Glasses-und-Deepfakes-11533616.html"
+          }
+        },
+        {
+          "title": "„Physisch, materiell“: Paris Marx erklärt, warum Rechenzentren zum Ziel der Wut auf Big Tech geworden sind",
+          "lead": "In seinem neuen Buch „Hyperscale“ untersucht der Journalist die Folgen des Rechenzentrums-Booms. Im Gespräch mit TechCrunch nennt er den Ausbau „grundsätzlich nicht nachhaltig“.",
+          "body": [
+            "Der Technikkritiker Paris Marx hat mit „Hyperscale“ ein Buch über Rechenzentren und generative KI vorgelegt. Er beschreibt darin, wie eine jahrzehntealte, eher langweilige Infrastruktur zu einem politischen Minenfeld geworden ist. Das Timing ist bemerkenswert: Laut TechCrunch war der Widerstand gegen Rechenzentren einer der Gründe für die deutliche Welle zugunsten der Demokraten bei den jüngsten Kongresswahlen.",
+            "Marx nennt den Ausbau „grundsätzlich nicht nachhaltig“ und „völlig unvereinbar mit einem lebenswerten Planeten“. Rechenzentren seien ein naheliegendes Ziel für die allgemeine Wut auf die Tech-Branche, weil sie greifbar sind: Wenn eines in der eigenen Gemeinde gebaut werde, sei das „sehr physisch, sehr materiell“.",
+            "„Es spielt keine Rolle, auf welcher Seite des politischen Spektrums man steht“, sagt Marx. Man spüre die Folgen in der Lebensqualität, auf der Stromrechnung, möglicherweise beim Zugang zu Wasser und beim Lärm der Klimaanlagen auf den Dächern. Er sieht den Protest als sichtbarsten Teil einer breiteren Bewegung gegen die physischen Erscheinungsformen der Branche, von Flock-Überwachungskameras über Metas Smart Glasses bis zu den Robotaxis von Waymo.",
+            "Für das Buch versuchte Marx, in ein Hyperscale-Rechenzentrum zu kommen, was ihm in Virginia und Irland nicht gelang. Erst in Neuseeland durfte er hinein, nachdem er vorab seinen Pass geschickt hatte. Jede Tür war nur mit Schlüsselkarte zu öffnen. Der Serverraum selbst sei nüchtern gewesen: ein warmer, sehr lauter Raum mit Lüftern, in dem man auf Dauer Ohrstöpsel bräuchte.",
+            "Auf das Thema kam Marx nach eigenen Worten durch Berichte über Wasserknappheit rund um Santiago de Chile, wo Google und Microsoft Rechenzentren bauten und Anwohner sich organisierten, sowie durch den enormen Stromverbrauch der Anlagen in Irland."
+          ],
+          "highlight": "Rechenzentren seien ein naheliegendes Ziel für die allgemeine Wut auf die Tech-Branche, weil sie greifbar sind: Wenn eines in der eigenen Gemeinde gebaut werde, sei das „sehr physisch, sehr materiell“.",
+          "assessment": [
+            "Marx ist kein neutraler Beobachter, er ist einer der schärfsten Kritiker der Branche. Sein Kernargument ist aber kaum zu bestreiten: Software ist abstrakt, ein Betonklotz mit Dieselgeneratoren neben dem eigenen Wohngebiet nicht. Wer gegen KI nichts ausrichten kann, kann immer noch gegen eine Baugenehmigung stimmen.",
+            "Zusammen mit dem Börsenabsturz der Woche ergibt das ein unbequemes Bild für die KI-Konzerne. Ihr Geschäftsmodell braucht Strom, Wasser und Fläche in Mengen, für die sie lokale Zustimmung brauchen. Diese Zustimmung schwindet, und das politische Klima in den USA hat sich gerade entsprechend gedreht."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+            "alt": "Ein Rechenzentrum",
+            "credit": "Ethan Cairns/Bloomberg / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Unreal Engine 6 startet ohne Blueprints: Epic setzt auf Verse und KI-gestützte Umstellung",
+          "lead": "Das visuelle Skriptsystem, mit dem Designer und Künstler seit Jahren Spielmechaniken bauen, fehlt in UE6 schon ab dem Early Access. Epic begründet den Schritt ausdrücklich mit den Fortschritten der KI.",
+          "body": [
+            "Epic Games hat angekündigt, dass Unreal Engine 6 ohne Blueprints erscheint, auch nicht in der Early-Access-Fassung. Mit Blueprints lassen sich Spielmechaniken über verbundene Knoten zusammenstecken, ohne klassischen Code zu schreiben. Das System gehört seit Jahren zu den meistgenutzten Funktionen der Engine. Die Ankündigung stammt aus einem Beitrag von Marcus Wassmer, Executive Vice President of Development bei Epic, auf der Unreal-Website.",
+            "„UE6, einschließlich UE6 Early Access, wird weder Blueprints noch das Actor Gameplay Framework enthalten. Gameplay wird in Verse und auf dem neuen Scene-Graph-Framework gebaut“, schreibt Wassmer. Im Juni hatte Epic noch erklärt, dass Blueprints und Actors in UE6 Early Access und 6.0 parallel existieren würden, damit UE5-Projekte schrittweise umziehen können.",
+            "Diesen Plan hat Epic nun verworfen. „Mit den jüngsten Fortschritten der KI erwarten wir, dass KI enorm bei der Umstellung von UE5-Projekten auf UE6 helfen oder diesen Prozess sogar vollständig automatisieren wird“, so Wassmer. Dadurch könne UE6 pünktlich oder sogar früher erscheinen. Als Beleg verweist Epic auf die laufende, KI-gestützte Übertragung der Blueprint-Bibliothek von Fortnite in die Programmiersprache Verse. In Unreal Engine 5 bleiben Blueprints erhalten.",
+            "Kritik kommt unter anderem vom früheren Valve-Entwickler Chet Faliszek. Blueprints seien eine Zwischenstufe zwischen künstlerischer und technischer Arbeit, mit der weniger technisch versierte Entwickler mächtige Dinge bauen konnten, in einem sicheren Rahmen, den die Programmierer festlegen. Ohne sie bleibe nur, Verse zu lernen oder der KI Anweisungen zu geben. „Diesen Determinismus aus dem Spieldesign zu verlieren und stattdessen KI zu prompten … heißt, die Werkzeuge zu verlieren, die all diese Designer und Künstler so mächtig gemacht haben.“"
+          ],
+          "highlight": "Diesen Plan hat Epic nun verworfen.",
+          "assessment": [
+            "Das ist eine der folgenreichsten Engine-Entscheidungen der letzten Jahre. Blueprints haben eine ganze Generation von Designern dazu gebracht, selbst Spielmechaniken zu bauen, statt auf Programmierer zu warten. Epic ersetzt diese Mittelschicht nun durch eine Wette: dass KI zuverlässig Code schreibt und Projekte umzieht.",
+            "Für große Studios mit eigenen Programmierteams mag das aufgehen. Für kleine Teams und Einsteiger ist es ein Rückschritt, denn ein Prompt ist nicht nachvollziehbar wie ein Knotendiagramm. Dass Epic seine eigene Ankündigung vom Juni nach fünf Monaten kassiert, zeigt außerdem, wie sehr der KI-Optimismus inzwischen Produktpläne diktiert."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/ZoNnbwEE9xr6vSMNfPbQVN-1920-80.jpg",
+            "alt": "Szene aus einer Unreal-Engine-Präsentation",
+            "credit": "Epic Games",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/gaming-industry/unreal-engine-6-to-jettison-key-scripting-feature-earlier-than-planned-in-favor-of-ai-coding/"
+          }
+        },
+        {
+          "title": "KI-Musik im Binding-of-Isaac-Update: Spieler entlarven Suno-Tracks, Nicalis entfernt sie nach Bewertungssturm",
+          "lead": "Ein GTA-6-Spaßmodus für Repentance+ enthielt Musik aus dem KI-Generator Suno, ohne Hinweis auf Steam. Die Bewertungen stürzten auf „Äußerst negativ“, Schöpfer Edmund McMillen wusste nach eigener Aussage von nichts.",
+          "body": [
+            "Am Erscheinungstag von GTA 6, dem 19. November, veröffentlichte Publisher Nicalis ein Update für die kostenlose Online-Erweiterung Repentance+ von The Binding of Isaac: Rebirth. Es enthielt eine Tagesherausforderung namens Crime Mode mit Anspielungen auf GTA: Fahndungsstufe, Waffen, Polizei und fahrbare Loren.",
+            "Einen Tag später wies der Reddit-Nutzer ShweetStuff nach, dass die Musik des Modus „zu 100 Prozent von Suno generiert“ war. Ihm war ein typisch blecherner Klang aufgefallen; in den Metadaten der Dateien fand er Verweise auf das KI-Musikwerkzeug. Auf der Steam-Seite der Erweiterung gab es keinen Hinweis auf KI-Inhalte.",
+            "Die Reaktion war heftig. Die jüngsten Steam-Bewertungen von Repentance+ fielen auf „Äußerst negativ“, nur noch 8 Prozent waren positiv. Viele Spieler gaben Nicalis die Schuld, das die Reihe von ihrem Schöpfer Edmund McMillen lizenziert. „Edmund, bitte hol dir die Kontrolle über das Spiel zurück“, schrieb einer.",
+            "McMillen selbst schrieb auf X, er sei „in einem Scheißhaufen aufgewacht“: „Ich hatte offensichtlich keine Ahnung, dass der Tageslauf generierte Musik enthält. Ich schaue mir an, wie das passiert ist, und lasse sie entfernen.“ Nicalis bestätigte kurz darauf einen neuen Build, der unter anderem die generierten Musikdateien entfernt. Der Patch ist auf dem PC bereits verfügbar und bei Microsoft, Nintendo und Sony eingereicht."
+          ],
+          "highlight": "Die jüngsten Steam-Bewertungen von Repentance+ fielen auf „Äußerst negativ“, nur noch 8 Prozent waren positiv.",
+          "assessment": [
+            "Der Fall zeigt, wie schnell Spieler KI-Inhalte inzwischen aufspüren und wie hart sie reagieren, wenn sie verschwiegen werden. Nicht die KI-Musik an sich war das Problem, sondern die fehlende Kennzeichnung in einem Spiel, dessen Ruf auf der Handschrift eines einzelnen Künstlers beruht.",
+            "Er wirft auch ein Licht auf das schwierige Verhältnis zwischen McMillen und Nicalis. Wenn der Schöpfer eines Spiels aus dem Netz erfährt, was in seinem Spiel steckt, läuft bei der Zusammenarbeit etwas grundsätzlich schief. Für andere Publisher ist das eine Lehre: Ein paar gesparte Stunden Komposition können ein über Jahre aufgebautes Vertrauen kosten."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/roguelike/binding-of-isaac-dlc-adds-ai-music-in-gta-6-parodying-update-despite-not-having-an-ai-disclosure-steam-reviews-drop-to-overwhelmingly-negative-music-gets-pulled/"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/sc8p6p.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus The Binding of Isaac: Repentance",
+            "credit": "Nicalis / Edmund McMillen",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/binding-of-isaac-repentance-plus-ai-music-removed"
+          }
+        },
+        {
+          "title": "Neu zu GTA 6: Am Starttag spielte mehr als die Hälfte aller aktiven PS5-Spieler in den USA Rockstars Spiel, im Schnitt über acht Stunden",
+          "lead": "Daten von Circana zeigen, wie vollständig GTA 6 den Starttag beherrscht hat. Fortnite kam als Zweites auf 10 Prozent.",
+          "body": [
+            "Der Marktforscher Circana hat Nutzungsdaten zum Start von Grand Theft Auto 6 am 19. November veröffentlicht. Laut Analyst Mat Piscatella haben 61 Prozent der an diesem Tag aktiven PS5-Spieler in den USA und 56 Prozent der weltweit aktiven Xbox-Spieler GTA 6 gespielt.",
+            "Auch die Spielzeit ist außergewöhnlich: PS5-Spieler verbrachten im Durchschnitt 513 Minuten mit dem Spiel, also mehr als achteinhalb Stunden, Xbox-Spieler 494 Minuten. „Sowohl die Quote der täglich aktiven Nutzer als auch die Spielminuten sind absolut irre“, schrieb Piscatella auf Bluesky. Zum Vergleich: Fortnite hatte am selben Tag die zweithöchste Quote, mit 10 Prozent der aktiven Spieler auf beiden Plattformen.",
+            "Piscatella nannte auch die Spiele, die GTA-6-Käufer in den zwei Wochen vor dem Start am häufigsten gespielt hatten: Fortnite, Call of Duty, GTA 5 in der Remastered-Fassung, Roblox und NBA 2K27.",
+            "Die Zahlen ergänzen die bereits bekannten Rekorde: Rockstar meldete 32,5 Millionen vorab verkaufte Exemplare und 3,79 Milliarden Dollar Umsatz bis Ende des ersten Tages. Auf Metacritic steht das Spiel bei den Kritikern bei 99, während Nutzer es wegen der begrenzten Bildrate und eines angeblichen „woken“ Inhalts mit schlechten Bewertungen überziehen."
+          ],
+          "highlight": "Laut Analyst Mat Piscatella haben 61 Prozent der an diesem Tag aktiven PS5-Spieler in den USA und 56 Prozent der weltweit aktiven Xbox-Spieler GTA 6 gespielt.",
+          "assessment": [
+            "Umsatzrekorde sagen, wie viele gekauft haben. Diese Zahlen sagen, wie viele tatsächlich gespielt haben, und sie sind fast noch beeindruckender. Ein Spiel, das an einem Werktag mehr als die Hälfte aller aktiven Konsolenspieler für über acht Stunden bindet, ist eher ein gesellschaftliches Ereignis als eine Veröffentlichung.",
+            "Für den Rest der Branche ist das die Bestätigung, dass man diesen Herbst besser ausweicht. Interessant wird, wie lange die Bindung hält und was sie für Fortnite und Call of Duty bedeutet, die von genau diesen Spielern leben."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Grand Theft Auto 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana"
+          }
+        },
+        {
+          "title": "Dota 2 Patch 7.42: Valve will die Partien verkürzen und lässt Superkreaturen auf allen Bahnen los",
+          "lead": "Mehr Lebenspunkte zu Beginn, Erfahrung auch im Tod und ein neues Horn, das auf einen Schlag alle Bahnen unter Druck setzt: Das große Update zielt auf kürzere Spiele.",
+          "body": [
+            "Valve hat für Dota 2 den Patch 7.42 veröffentlicht, und viele Änderungen haben ein gemeinsames Ziel: Partien sollen schneller enden. Lange Spiele von mehr als 70 Minuten sind in dem MOBA keine Seltenheit und für viele Spieler eher zermürbend als unterhaltsam.",
+            "Die auffälligste Neuerung ist das Greater Horn of Battle. Es fällt garantiert beim neutralen Monster Tormentor und ruft auf allen Bahnen des eigenen Teams eine Welle von Superkreaturen herbei. Laut Patchnotes sollen es sogar die noch stärkeren Megakreaturen sein, Spieler haben aber bemerkt, dass die Werte nicht dazu passen. Richtig getimt, zwingt das Horn den Gegner, alle Bahnen gleichzeitig zu verteidigen. Ähnliche Ziele gibt es mit dem Rift Herald in League of Legends oder den Unstable Rifts in Valves Deadlock.",
+            "Weitere Änderungen: Die Grundlebenspunkte aller Helden steigen von 120 auf 200, dafür gibt Stärke pro Punkt weniger Leben. Helden sind damit früh robuster und später etwas verwundbarer. Die Glyph of Fortification, die Gebäude des ganzen Teams kurzzeitig unverwundbar macht, setzt ihre Abklingzeit nicht mehr zurück, wenn bestimmte Gebäude fallen. Und Helden sammeln nun auch passiv Erfahrung, selbst wenn sie tot sind.",
+            "Ob die Änderungen die Spieldauer tatsächlich spürbar senken, wird sich erst in einigen Wochen zeigen."
+          ],
+          "highlight": "Die auffälligste Neuerung ist das Greater Horn of Battle.",
+          "assessment": [
+            "Dota 2 ist seit Jahren ein Spiel für Leute mit sehr viel Zeit. Dass Valve gezielt an der Spieldauer schraubt, ist ein Eingeständnis, dass das zum Problem geworden ist, gerade gegenüber schnelleren Konkurrenten und dem eigenen Deadlock.",
+            "Das Horn ist eine elegante Idee, weil es ein festgefahrenes Spiel aufbrechen kann, ohne die Grundregeln zu ändern. Die passive Erfahrung im Tod ist dagegen ein deutlicher Eingriff in die Balance: Sie mildert Rückstände, nimmt aber auch einen Teil der Strafe für Fehler weg."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/rPdj5KUrcUw2ZvWuDYHyZP-2398-80.png",
+            "alt": "Szene aus Dota 2",
+            "credit": "Valve",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/moba/new-dota-2-patch-tries-to-help-games-end-faster-adds-an-item-that-summons-super-creeps-in-every-lane-at-once/"
+          }
+        },
+        {
+          "title": "Nvidia-Treiber beschreibt SSDs mit bis zu 30 GB pro Stunde, und der Hotfix behebt das nicht",
+          "lead": "Ein Fehler in aktuellen GeForce-Treibern überschreibt ständig eine Logdatei. Der Hotfix 621.35 bremst das Problem nur, Nutzer sollten vorerst auf Version 621.01 zurückgehen.",
+          "body": [
+            "Seit etwa zwei Wochen berichten Besitzer von Nvidia-Grafikkarten, dass ihre SSDs ungewöhnlich stark beansprucht werden. Die Ursache ist eine Logdatei des Treibers, die ständig neu geschrieben wird, teils mit bis zu 30 GB pro Stunde. Für die Lebensdauer einer SSD, deren Speicherzellen nur eine begrenzte Zahl von Schreibvorgängen vertragen, ist das schlecht.",
+            "Das Problem trat mit den jüngsten Treiberversionen auf. Nvidia hat inzwischen den Hotfix 621.35 veröffentlicht, der noch nicht in der GeForce-App angeboten wird, sondern nur direkt auf Nvidias Website.",
+            "Laut Berichten im Nvidia-Subreddit besteht das Problem jedoch weiter. Der Hotfix senkt die maximale Schreibrate und verhindert sie für kurze Zeit nach einem Neustart, danach kehrt sie zurück. Ein Nutzer berichtete, dass die Logdatei über Nacht weiterhin mit rund 4,5 GB pro Stunde überschrieben wurde.",
+            "PC Gamer rät deshalb, zur Treiberversion 621.01 zurückzukehren und mit Updates zu warten, bis ein Treiber als sicher bestätigt ist. Ein ähnlicher Fehler war Anfang des Monats bereits bei AMDs Grafiktreibern aufgetreten."
+          ],
+          "highlight": "Der Hotfix senkt die maximale Schreibrate und verhindert sie für kurze Zeit nach einem Neustart, danach kehrt sie zurück.",
+          "assessment": [
+            "Kein großes Drama, aber ein ärgerlicher Fehler, der leise Schaden anrichtet: Wer nicht in den Task-Manager schaut, merkt ihn nicht. Wer eine Nvidia-Karte hat, sollte prüfen, welche Treiberversion läuft.",
+            "Dass dasselbe Muster innerhalb eines Monats bei beiden großen GPU-Herstellern auftaucht, wirkt nicht wie Zufall. Die Qualitätskontrolle bei Treibern scheint mit dem Tempo der Veröffentlichungen nicht mehr Schritt zu halten."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/8N9tGF8SW8x4iuVV9hNLRR-2560-80.jpg",
+            "alt": "Eine Nvidia-Grafikkarte",
+            "credit": "Nvidia",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "„Avengers: Doomsday“: Hailee Steinfeld ist als Kate Bishop dabei, ein neuer Trailer wird für Montag erwartet",
+          "lead": "Marvel bestätigt Steinfeld mit einem Regiestuhl, Hayley Atwell verplappert sich bei Fans. Vier Wochen vor dem Kinostart dreht Disney die Werbung hoch.",
+          "body": [
+            "Marvel hat eine weitere Besetzung für „Avengers: Doomsday“ bestätigt: Hailee Steinfeld kehrt als Kate Bishop zurück. Die Enthüllung kam in einem Video, das Marvel und Walt Disney Animation gemeinsam veröffentlichten. Steinfeld ist gerade in Europa unterwegs, um Disneys Animationsfilm „Hexed“ zu bewerben, der am kommenden Freitag startet. Im Clip sagt sie: „Ich bin hier mit meinem Film ‚Hexed‘, aber anscheinend hat man einen Stuhl von einem anderen Film geliefert.“ Die Kamera schwenkt auf einen Regiestuhl mit ihrem Namen und einer grünen Schleife, der Farbe der Doomsday-Kampagne.",
+            "Die Stühle sind eine bewusste Anspielung: Im vergangenen Jahr hatte Marvel die ersten Darsteller des Films mit beschrifteten Regiestühlen vorgestellt. Steinfeld spielte Kate Bishop, die den Bogen von Jeremy Renners Clint Barton übernimmt, in der Serie „Hawkeye“ und in „The Marvels“. Disney bringt „Avengers: Doomsday“ am 18. Dezember in die Kinos.",
+            "Gleichzeitig wächst die Erwartung an einen neuen Trailer. Hayley Atwell, die wieder Peggy Carter spielt, sagte am Freitagabend in New York beim Autogrammeschreiben: „Am Montag kommt ein neuer Trailer … darf ich das überhaupt sagen?“ Für den 30. November hat Disney außerdem einen ersten Einblick in einer ABC-Weihnachtssendung angekündigt, der aber etwas anderes sein soll.",
+            "Ko-Regisseur Joe Russo sprach bei den Doha Industry Days in Katar über die ungewöhnliche Strategie des Films. Die vier Teaser, die seit Dezember 2025 im Abstand von Wochen erschienen, hätten die Geschichte schon ein Jahr vor dem Start beginnen lassen: Steve Rogers mit Baby, Thor im Gebet an Odin, die X-Men, Wakanda und die Fantastic Four. „Ich muss mit den Fans interagieren, um zu verstehen, was sie bewegt“, sagte Russo. Die Reaktionen hätten in die Endfassung des Films eingegriffen: Wenn Zuschauer einen Hinweis falsch verstünden, müsse er nachsteuern."
+          ],
+          "highlight": "Disney bringt „Avengers: Doomsday“ am 18. Dezember in die Kinos.",
+          "assessment": [
+            "Steinfelds Rückkehr ist keine Überraschung, aber ein Signal: Marvel bündelt in Doomsday auch die jüngere Generation, die nach Endgame aufgebaut wurde. Die Verbindung mit der Werbung für „Hexed“ ist typisch für den Konzern, der jeden Auftritt doppelt nutzt.",
+            "Russos Aussage, die Reaktionen auf Teaser hätten den fertigen Film verändert, ist interessanter, als sie klingt. Sie beschreibt Blockbuster-Kino als laufenden Test mit dem Publikum. Das kann einen Film verbessern, aber auch glattschleifen. Ob es funktioniert hat, zeigt sich am 18. Dezember."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/"
+            },
+            {
+              "name": "Deadline (Joe Russo)",
+              "url": "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/TCDHAWK_G5018.jpg?w=1024",
+            "alt": "Hailee Steinfeld als Kate Bishop in der Serie „Hawkeye“",
+            "credit": "Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/"
+          }
+        },
+        {
+          "title": "„You Can See Everything“ knackt 100 Millionen Dollar und ist die erste Doku mit einer Million Letterboxd-Sichtungen",
+          "lead": "Nathan Fielders und Lance Oppenheims dreistündiger Film über Elizabeth Holmes ist ein Phänomen: Kassenerfolg, Kritikerliebling und Oscar-Kandidat.",
+          "body": [
+            "Der A24-Dokumentarfilm „You Can See Everything“ hat am Wochenende weltweit die Marke von 100 Millionen Dollar überschritten. Der Film begleitet die verurteilte Theranos-Gründerin Elizabeth Holmes in der Zeit vor ihrem Haftantritt. Regie führten Nathan Fielder und Lance Oppenheim. Seit dem Start am 16. Oktober hat der dreistündige Film in Nordamerika 93,4 Millionen Dollar eingespielt und läuft nun international an, unter anderem in Australien, Großbritannien und Skandinavien, teils mit ausverkauften Vorstellungen. In einigen Märkten übernimmt Sony den Verleih.",
+            "Am selben Wochenende wurde er zum ersten Dokumentarfilm, den eine Million Mitglieder der Plattform Letterboxd gesehen haben. Er ist der 19. Film aus dem Jahr 2026 im „One Million Watched Club“. Mit einer Durchschnittswertung von 4,61 ist er dort der am zweitbesten bewertete Film, der diese Marke erreicht hat, nur „Die zwölf Geschworenen“ liegt mit 4,63 knapp vorn. Unter allen Dokumentarfilmen liegt nur „Stop Making Sense“ höher.",
+            "Schon der Start war außergewöhnlich: 15,6 Millionen Dollar am ersten Wochenende bedeuteten den zweitbesten US-Start eines Dokumentarfilms, der kein Musikfilm ist, nach „Fahrenheit 9/11“ von 2004. Kein Film, der in weniger als 1000 Kinos startete, hatte seit „Borat“ 2006 ein besseres Eröffnungswochenende. In seinem dritten Wochenende stand er als erste Doku überhaupt auf Platz eins der US-Charts.",
+            "In der Liste der erfolgreichsten Nicht-Musik-Dokus in den USA fehlt nur noch „Fahrenheit 9/11“ mit 119,1 Millionen Dollar. Der Film gilt als ernsthafter Oscar-Kandidat und steht bei Rotten Tomatoes bei 97 Prozent. Kameramann David Bolen erzählte beim Festival Camerimage, die Dreharbeiten seien teils angespannt gewesen; er habe mit Holmes und ihrem Partner Billy Evans kaum mehr als Höflichkeiten ausgetauscht."
+          ],
+          "highlight": "Am selben Wochenende wurde er zum ersten Dokumentarfilm, den eine Million Mitglieder der Plattform Letterboxd gesehen haben.",
+          "assessment": [
+            "Dass ein dreistündiger Dokumentarfilm über eine Betrügerin 100 Millionen Dollar einspielt, hätte vor einem Jahr niemand vorhergesagt. Der Erfolg hat viel mit Nathan Fielder zu tun, dessen Mischung aus Unbehagen und Komik inzwischen ein eigenes Publikum hat, das auch ins Kino geht.",
+            "Für die Branche ist das eine wichtige Botschaft: Dokumentarfilme gelten im Streaming-Zeitalter als Ware für die Mediathek. Dieser Film zeigt, dass ein Ereignis-Charakter auch ohne Superhelden funktioniert. Die Chancen, dass er „Fahrenheit 9/11“ noch einholt, stehen mit dem internationalen Start gut."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDYOCA_EC124.jpg?w=1296&h=730&crop=1",
+            "alt": "Szene aus „You Can See Everything“",
+            "credit": "Courtesy of Everett Collection",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421/"
+          }
+        },
+        {
+          "title": "Neu zu Panem: Weltweit 225 Millionen Dollar zum Start, der beste Kinostart für Lionsgate seit Langem",
+          "lead": "Die endgültigen Zahlen bestätigen den Erfolg von „Sunrise on the Reaping“. In Großbritannien ist es der beste Start der Reihe und der beste in der Geschichte von Lionsgate.",
+          "body": [
+            "Nach den endgültigen Wochenendzahlen hat „Die Tribute von Panem: Sunrise on the Reaping“ weltweit 225 Millionen Dollar eingespielt, davon 105 Millionen aus 84 internationalen Märkten mit 40.000 Leinwänden. In 81 dieser 84 Märkte stand der Film auf Platz eins. Das ist mehr als Lionsgates bisher größter Start des Jahres, „Michael“ mit 218,8 Millionen, und mehr als „Wicked: For Good“ im vergangenen November mit 223 Millionen.",
+            "Die 120 Millionen Dollar in den USA sind der fünftbeste US-Start des Jahres über alle Studios hinweg und der fünftbeste in der Geschichte von Lionsgate. Laut Deadline ist es der zweitbeste Start für ein Prequel nach „Rogue One“. Innerhalb der Panem-Reihe liegt der Film weltweit auf Platz vier hinter „Catching Fire“ (304 Millionen), „Mockingjay Teil 1“ (276,2 Millionen) und „Mockingjay Teil 2“ (241 Millionen), aber vor dem ersten Film (214,2 Millionen). Der Vorgänger „Das Lied von Vogel und Schlange“ war 2023 mit 100,8 Millionen gestartet.",
+            "Großbritannien brachte 17,4 Millionen Dollar, den besten Start der Reihe und den besten in der Geschichte von Lionsgate. Es folgen Australien mit 9,1 Millionen, Deutschland mit 8,4 Millionen, Frankreich mit 7,1 Millionen (750.000 Besucher), Mexiko mit 7 Millionen und China mit 5,9 Millionen.",
+            "Imax meldete weltweit 26,4 Millionen Dollar, den größten Start für die Reihe, den größten für einen Lionsgate-Film und den zweitbesten November-Start des Formats überhaupt. In Nordamerika war es mit 16,3 Millionen der beste Imax-Start, den es je im November gab."
+          ],
+          "highlight": "Großbritannien brachte 17,4 Millionen Dollar, den besten Start der Reihe und den besten in der Geschichte von Lionsgate.",
+          "assessment": [
+            "Über den Start haben wir am Wochenende schon berichtet, die endgültigen Zahlen machen das Bild aber rund: Das ist kein Achtungserfolg, sondern die Rückkehr einer Marke in die erste Reihe. Der Abstand zum Vorgänger, der weltweit nicht einmal halb so viel einspielte, ist enorm.",
+            "Bemerkenswert ist die internationale Stärke, gerade in Europa. Deutschland mit 8,4 Millionen Dollar zeigt, dass Panem hierzulande ein treues Publikum hat. Für Lionsgate ist es der wichtigste Erfolg seit Jahren, und er kommt rechtzeitig vor dem Weihnachtsgeschäft."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG068.jpg?w=1024",
+            "alt": "Szene aus „Die Tribute von Panem: Sunrise on the Reaping“",
+            "credit": "Courtesy Everett Collection",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+          }
+        },
+        {
+          "title": "Robert Eggers braucht eine Pause vom Horror: Nach „Werwulf“ kommt „Romeo und Julia“",
+          "lead": "Der Regisseur von „The Witch“, „The Lighthouse“ und „Nosferatu“ will nicht weiter „Robert Eggers’ House of Horror“ betreiben. Sein Werwolf-Film startet an Weihnachten.",
+          "body": [
+            "Robert Eggers hat bei einer Fragerunde in Mexiko angekündigt, dass er nach mehr als fünf Jahren mit Filmmonstern Abstand vom Horrorgenre sucht. „Ich bin begierig darauf, nicht absichtlich weiter Robert Eggers’ House of Horror zu betreiben“, sagte er. „Ich muss nicht ‚Die Mumie‘ oder ‚Das Phantom der Oper‘ machen. Nicht, dass ich es nicht tun werde, aber ich glaube, ich brauche eine Pause.“",
+            "Zuvor kommt noch „Werwulf“ an Weihnachten ins Kino. Der Film mit Aaron Taylor-Johnson, Lily-Rose Depp und Willem Dafoe spielt im England des 14. Jahrhunderts und erzählt von einem Ort, den eine Bestie heimsucht, die einen Mann und seine Familie bedroht. Eggers hat sich zuvor Hexen („The Witch“, 2015), Meereswesen („The Lighthouse“, 2019) und Vampiren („Nosferatu“, 2024) gewidmet.",
+            "Als Nächstes adaptiert er für Focus Features Shakespeares „Romeo und Julia“. Schon im September hatte er bei Beyond Fest erzählt, wie es dazu kam: Nach „Werwulf“ habe er an einem weiteren Horrorfilm geschrieben, „und der wurde wieder so düster, dass ich dachte: Ich brauche eine Pause. Also mache ich etwas über zwei Teenager, die sich umbringen.“",
+            "Auch zum Begriff „Elevated Horror“ äußerte sich Eggers. Es habe immer Horrorfilme gegeben, die das Dunkle im Menschen ausloten. Das heutige Phänomen sieht er mit „It Follows“ (2014) beginnen: Talentierte Filmemacher mit eigener Handschrift hätten gemerkt, dass sie persönliche Filme finanziert bekommen, wenn sie sie als Genrefilm erzählen. „Gibt es Elevated Horror? Ja. Weil die Leute es sagen.“"
+          ],
+          "highlight": "„Ich muss nicht ‚Die Mumie‘ oder ‚Das Phantom der Oper‘ machen. Nicht, dass ich es nicht tun werde, aber ich glaube, ich brauche eine Pause.“",
+          "assessment": [
+            "Eggers ist der wichtigste Erneuerer des historischen Horrorfilms der letzten zehn Jahre, und es spricht für ihn, dass er nicht zur Marke erstarren will. Seine Pointe zu „Romeo und Julia“ ist allerdings verräterisch: Auch die Pause bleibt düster.",
+            "Seine Analyse des „Elevated Horror“ ist nüchterner und klüger als der Begriff selbst. Sie beschreibt vor allem ein Finanzierungsmodell. Dass einer der Profiteure dieses Modells das so offen sagt, ist erfrischend."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2189693668-H-2025.jpg?w=1296&h=730&crop=1",
+            "alt": "Regisseur Robert Eggers",
+            "credit": "Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/"
+          }
+        },
+        {
+          "title": "Mahershala Ali: Zwei Oscars, aber „für die große Mehrheit der Projekte gibt es keine Rollen für mich“",
+          "lead": "Der zweifache Oscar-Preisträger spricht offen darüber, warum Auszeichnungen keine Rollen garantieren, und über die Folgen des Rückbaus von Diversitätsprogrammen in Hollywood.",
+          "body": [
+            "Mahershala Ali, Oscar-Preisträger für „Moonlight“ (2016) und „Green Book“ (2018), hat im Podcast „7PM in Brooklyn“ von Carmelo Anthony und Kazeem Famuyide erklärt, warum ihm die Preise wenig nützen. „Es gibt viele großartige Schauspieler ohne Oscar, die auch nach gutem Material suchen“, sagte er. „Es gibt mehr gute Schauspieler als gutes Material.“",
+            "„Die große Mehrheit der Projekte, die grünes Licht bekommen, hat keine Rollen für mich. So muss man das sehen“, so Ali. „Es ist egal, ob ich 17 Oscars habe. Wenn niemand etwas für dich schreibt oder etwas mit dir im Kopf genehmigt, bist du wie alle anderen: Du wartest, schaust und suchst.“",
+            "Mit Blick auf das politische Klima sagte er, der Abbau von Diversitätsprogrammen beeinflusse „auf einer gewissen Ebene, was genehmigt wird“. Wenn Firmen keinen Druck mehr spürten, die Welt abzubilden, „werden sie einfach die in den Mittelpunkt stellen, die sie in ihren Büros sehen, und da sitzen nicht viele von uns“.",
+            "Die einzige Alternative sei, selbst zu produzieren, doch das sei „eine Reise von fünf Jahren“. Die Vorstellung, schwarze Schauspieler seien erst mit einem Oscar „bestätigt“, nannte er „nur Gerede“: „Man will nicht in die Lage kommen, dass es heißt: Das ist das Diversity-Projekt. Man will einfach großartiges Material machen, als schwarzer Mensch.“ Ali ist derzeit in „Your Mother Your Mother Your Mother“ zu sehen."
+          ],
+          "highlight": "„Es ist egal, ob ich 17 Oscars habe.",
+          "assessment": [
+            "Alis Aussagen sind ein seltener ehrlicher Blick hinter den Glanz der Preisverleihungen. Der Oscar ist kein Schlüssel zu Rollen, wenn die Drehbücher, die geschrieben werden, eine bestimmte Welt zeigen. Das ist strukturelle Kritik, ganz ohne Larmoyanz vorgetragen.",
+            "Wenn selbst einer der angesehensten Schauspieler seiner Generation so spricht, sagt das viel über den Zustand eines Hollywood, das gerade spart, fusioniert und Diversitätsziele stillschweigend aufgibt. Man darf gespannt sein, ob seine Worte etwas auslösen oder nur kurz zitiert werden."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Mahershala-Ali-getty-H-2026.png?w=1296&h=730&crop=1",
+            "alt": "Schauspieler Mahershala Ali",
+            "credit": "Getty Images",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/"
+          }
+        },
+        {
+          "title": "Rian Johnson schließt eine Rückkehr zu Star Wars nicht aus: „Eine Welt, die ich zutiefst liebe“",
+          "lead": "Der Regisseur von „Die letzten Jedi“ schreibt gerade an etwas ganz anderem, liebt die Saga aber nach eigenen Worten „mehr denn je“. Seine angekündigte Trilogie gibt es bis heute nicht.",
+          "body": [
+            "Rian Johnson hat beim 23. Filmfestival von Marrakesch auf eine Frage von IndieWire klargestellt, dass sein nächstes Projekt nichts mit Star Wars zu tun hat: „Ich schreibe schon an dem nächsten Film, und es ist kein Star-Wars-Projekt und auch nicht in diesem Genre.“",
+            "Ausschließen wollte er eine Rückkehr aber nicht. „Ich genieße es sehr, meine eigenen Sachen zu machen, aber wenn sich die Gelegenheit ergäbe …“, sagte er. „Es ist eine Welt, die ich zutiefst liebe. Und es ist auch eine Gruppe von Menschen, die ich liebe.“ Er liebe Star Wars „mehr denn je“, und es begeistere ihn, dass jetzt viele unterschiedliche Stimmen sich daran versuchen.",
+            "Die Äußerung fällt in eine Zeit, in der Lucasfilm unter dem neuen Chef Dave Filoni offenbar wieder auf die Zeit nach „Der Aufstieg Skywalkers“ blickt. Laut einem Bericht von Polygon werden „Star Wars: New Jedi Order“ und ein Film von Filoni weiter als in Entwicklung geführt, trotz monatelanger Stille und des schwachen Einspielergebnisses von „The Mandalorian & Grogu“. „New Jedi Order“ würde Daisy Ridley als Rey etwa 15 Jahre nach „Der Aufstieg Skywalkers“ zurückbringen. Regie soll Sharmeen Obaid-Chinoy führen, das Drehbuch schreibt inzwischen George Nolfi.",
+            "Der einzige Star-Wars-Kinofilm mit festem Termin ist derzeit „Star Wars: Starfighter“ von Shawn Levy mit Ryan Gosling, der fünf Jahre nach „Der Aufstieg Skywalkers“ spielt und am 28. Mai 2027 starten soll. 2017, im Jahr von „Die letzten Jedi“, hatte Lucasfilm angekündigt, dass Johnson eine eigene neue Trilogie entwickeln werde. Diese Filme sind nie entstanden."
+          ],
+          "highlight": "Er liebe Star Wars „mehr denn je“, und es begeistere ihn, dass jetzt viele unterschiedliche Stimmen sich daran versuchen.",
+          "assessment": [
+            "„Die letzten Jedi“ ist bis heute der umstrittenste Star-Wars-Film, aber auch der mutigste der Sequel-Trilogie. Johnson hat mit den „Knives Out“-Filmen längst seine eigene, sehr erfolgreiche Reihe. Er braucht Star Wars nicht, und gerade deshalb klingt seine Zuneigung glaubwürdig.",
+            "Ein Comeback ist trotzdem unwahrscheinlich. Unter Filoni dürfte Lucasfilm eher auf Kontinuität mit den Serien setzen als auf einen Regisseur, der die Erwartungen der Fans bewusst unterläuft. Die nie gedrehte Johnson-Trilogie bleibt eines der großen Was-wäre-wenn der Filmgeschichte."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDSTWA_EC194_a74a29.jpg?w=1200",
+            "alt": "Joonas Suotamo als Chewbacca und Regisseur Rian Johnson bei den Dreharbeiten zu „Die letzten Jedi“",
+            "credit": "Courtesy Everett Collection",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Keltischer Silberschatz unter einem Umspannwerk: Mehr als 200 Münzen in Westungarn",
+          "lead": "Beim Bau eines Umspannwerks in Szombathely stießen Archäologen auf fast 400 Fundstellen aus sieben Jahrtausenden. Der wichtigste Fund lag nur 30 bis 40 Zentimeter unter dem Acker.",
+          "body": [
+            "Eigentlich sollte im westungarischen Szombathely nur ein neues Umspannwerk des Energiekonzerns E.ON entstehen. Weil das Gelände als archäologische Fundstätte bekannt war, untersuchten Fachleute des Nationalen Archäologischen Instituts, das zum Ungarischen Nationalmuseum gehört, den Boden von 2023 bis 2025 vor und parallel zu den Bauarbeiten. Sie dokumentierten fast 400 Fundstellen und mehrere Tausend Funde vom fünften Jahrtausend vor Christus bis in die frühe Neuzeit.",
+            "Der bedeutendste Fund ist ein keltischer Silberschatz mit mehr als 200 Münzen und einem Gewicht von über zwei Kilogramm. Kelten vergruben ihn am Ende des zweiten oder zu Beginn des ersten Jahrhunderts vor Christus in einer Grube, ein Teil der Münzen lag in einem kleinen Gefäß. Obwohl das Feld seit Jahrhunderten gepflügt wurde, lagen die Münzen nur 30 bis 40 Zentimeter tief. Das Team entdeckte zunächst einzelne Stücke nahe der Oberfläche und verfolgte den Schatz dann mit Metalldetektoren bis zu seinem Zentrum.",
+            "Es handelt sich um Tetradrachmen vom Typ Velem, die vermutlich rund 15 Kilometer entfernt im Gebiet von Velem-Szentvid geprägt wurden. Warum sie vergraben wurden, ist offen: Manche Forscher sehen darin eine Opfergabe, andere Ersparnisse, die in einer Krise versteckt wurden. Weil der Schatz ungestört geborgen wurde, ist die Lage jeder einzelnen Münze dokumentiert.",
+            "Auch Alltagsgegenstände kamen zutage: ein fast 7000 Jahre alter polierter Steinmeißel, eine Glasperle mit Pfauenaugenmuster aus dem siebten oder sechsten Jahrhundert vor Christus, Gräber mit Gefäßen für Speisen und Getränke, zwei intakte Mühlsteine aus einem keltischen Grubenhaus. Aus römischer Zeit stammen die Reste eines Gutshofs mit einem rund 300 Quadratmeter großen Hauptgebäude. In den Trümmern fand sich ein Ziegelbruchstück mit dem Pfotenabdruck eines Hundes, das vermutlich die Fußbodenheizung abdeckte.",
+            "E.ON investierte 7,5 Milliarden Forint in das Umspannwerk und die Netzerweiterung. Das Savaria-Museum in Szombathely plant eine Sonderausstellung mit den Funden."
+          ],
+          "highlight": "Der bedeutendste Fund ist ein keltischer Silberschatz mit mehr als 200 Münzen und einem Gewicht von über zwei Kilogramm.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, wie Bauarchäologie funktionieren sollte: Die Grabung lief neben den Baggern her, das Umspannwerk wurde trotzdem fertig, und die Wissenschaft bekam ein Fenster in sieben Jahrtausende. Dass ein Silberschatz jahrhundertelang knapp unter der Pflugschicht überdauerte, grenzt an ein Wunder.",
+            "Der eigentliche Wert liegt im Kontext. Ein Schatz, der von Sondengängern geborgen wird, ist ein Haufen Münzen. Ein Schatz, bei dem jede Münze in ihrer Lage dokumentiert ist, kann vielleicht die Frage beantworten, ob hier ein Gott beschenkt oder ein Vermögen versteckt wurde."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/celtic-silver-hoard-found-at-hungarian-substation-site/"
+            },
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/celtic-silver-hoard-substation-1.jpg",
+            "alt": "Die keltischen Silbermünzen aus dem Schatz von Szombathely",
+            "credit": "E.ON Hungária Csoport",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/celtic-silver-hoard-found-at-hungarian-substation-site/"
+          }
+        },
+        {
+          "title": "Gestillt bis fast vier Jahre: Wie Kinder in der griechischen Kolonie Himera ernährt wurden",
+          "lead": "Knochenanalysen zeigen, dass Säuglinge auf Sizilien schon mit drei bis vier Monaten Beikost bekamen, aber im Schnitt bis zum Alter von 3,8 Jahren gestillt wurden. Länger, als antike Ärzte empfahlen.",
+          "body": [
+            "Himera an der Nordküste Siziliens war vom siebten bis zum fünften Jahrhundert vor Christus eine große Stadt, geprägt von griechischen, phönizischen und einheimischen Einflüssen. Mehr als 13.000 Gräber haben Archäologen dort untersucht, über die Kinder ist aber wenig bekannt. Ein Team um Laurie Reitsema von der University of Georgia hat nun im European Journal of Archaeology untersucht, wie Familien ihre Jüngsten ernährten.",
+            "Die Forscher maßen Stickstoff- und Kohlenstoffisotope im Knochenkollagen von 58 Kindern und Jugendlichen sowie 27 erwachsenen Frauen. Gestillte Säuglinge haben mehr schweren Stickstoff als ihre Mütter, in Himera etwa 1,7 Promille. Wenn feste Nahrung die Milch ersetzt, sinkt der Wert. Ein Rechenmodell übersetzte die Messwerte in Altersangaben.",
+            "Alle Babys unter sechs Monaten zeigten das Stillsignal. Das ausschließliche Stillen endete früh, nach etwa drei bis vier Monaten. Ganz abgestillt wurden die Kinder aber erst mit rund 3,8 Jahren, die Spanne reichte von 3,0 bis 4,7 Jahren. Die antiken Ärzte Soranos und Galen empfahlen im zweiten Jahrhundert nach Christus sechs Monate reine Milch und insgesamt anderthalb bis drei Jahre Stillzeit. Die Mütter in Himera gaben also früher Beikost und stillten länger.",
+            "Die Beikost enthielt etwas weniger Stickstoff als die Nahrung Erwachsener, was auf mehr pflanzliche Kost hindeutet, etwa Brot, Honig, Ziegenmilch, Eier und Getreidebrei, wie Soranos sie empfahl. Erst um das zehnte Lebensjahr glich sich die Ernährung der Kinder der von Erwachsenen an. Die Autoren erklären die kurze Phase reiner Milchernährung mit der Arbeit der Frauen außer Haus, auf Feldern, Märkten und in Wollwerkstätten. Versklavte Frauen stillten oft fremde Kinder.",
+            "In der griechischen Schwarzmeerkolonie Apollonia Pontica ergab sich ein ähnliches Bild mit etwa 4,3 Jahren Stillzeit, im römischen Isola Sacra bei Rom dagegen endete das Stillen schon mit etwa 1,2 Jahren. Eine frühere Studie hatte in Himera eine im europäischen Vergleich niedrige Kindersterblichkeit festgestellt. Die Autoren halten das lange Stillen für einen möglichen Grund und wollen das an Zähnen von Erwachsenen prüfen."
+          ],
+          "highlight": "Ganz abgestillt wurden die Kinder aber erst mit rund 3,8 Jahren, die Spanne reichte von 3,0 bis 4,7 Jahren.",
+          "assessment": [
+            "Solche Studien holen eine Gruppe in die Geschichte zurück, die in den Quellen fast nicht vorkommt: Mütter und Kleinkinder. Die Texte antiker Ärzte beschreiben ein Ideal, die Knochen zeigen den Alltag, und der sah anders aus.",
+            "Besonders aufschlussreich ist der Vergleich mit Rom. Zwischen griechischen Kolonien und römischen Siedlungen liegen bei der Stillzeit fast drei Jahre. Das ist ein Hinweis darauf, wie stark Kultur und Arbeitsalltag selbst etwas so Grundlegendes wie die Ernährung eines Kindes geprägt haben."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/babies-at-himera-nursed-for-nearly-4-years/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/babies-at-himera-nursed-4-year-1.jpg",
+            "alt": "Grab eines kleinen Kindes in Himera",
+            "credit": "L. Reitsema et al., European Journal of Archaeology (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/babies-at-himera-nursed-for-nearly-4-years/"
+          }
+        },
+        {
+          "title": "40 Jahre Poly-Play: Der einzige Spielautomat der DDR entstand in einer geheimen Stasi-Werkstatt",
+          "lead": "Im November 1986 stellte die DDR auf der Messe der Meister von Morgen ihren Videospielautomaten vor. Entwickelt wurde er mit einem per Kleinanzeige beschafften Sinclair ZX81.",
+          "body": [
+            "In den 1980er Jahren stand die DDR Computerspielen offen gegenüber. Sie galten als kreative Unterhaltung und als Einstieg in die Mikroelektronik. Neben einer Spielkonsole, Schachcomputern und Spielen für die Kleincomputer entstand auch ein Videospielautomat: Poly-Play. Die Initiative kam wie beim Pong-Klon „Bildschirmspiel 01“ von oben, von Wirtschaftschef Günter Mittag, der Jugendlichen zeitgemäße Unterhaltung bieten wollte.",
+            "Die entscheidende Rolle spielte ausgerechnet die Stasi. Sie hatte 1983 in Karl-Marx-Stadt, dem heutigen Chemnitz, eine geheime Forschungswerkstatt namens Kartell eingerichtet, in der ohne finanzielle Zwänge und Bürokratie Prototypen entstehen sollten. Vier Mitarbeiter des Robotron-Buchungsmaschinenwerks entwickelten dort binnen weniger Monate den Automaten. Als Vorlage diente ein Sinclair ZX81, den die Stasi über eine Kleinanzeige beschafft hatte, außerdem ein Atari 2600. Herzstück war der U 880, die DDR-Version des Z80-Prozessors. Die Bildschirme waren abgespeckte Fernseher aus Staßfurt, das Gehäuse baute der VEB Raumkunst Mosel in Zwickau.",
+            "Auf dem Poly-Play liefen mehrere Spiele zur Auswahl, insgesamt entstanden 16: Abfahrtslauf, Autorennen, „Der Lindwurm“ oder „Im Irrgarten“ mit angedeuteter 3D-Grafik. Am beliebtesten war „Hase und Wolf“ nach einer sowjetischen Zeichentrickserie, das „Pac-Man“ der DDR. Das Weltraum-Ballerspiel „Ufo“ wurde nach dem Einwand eines Lehrers in das harmlosere „Hagelnde Wolken“ umgebaut. Beim ersten Test im Berliner Bowlingzentrum und im Jugendclub am Alexanderplatz spielten zwei Geräte an einem Wochenende 2000 Mark ein.",
+            "Ausgeliefert wurde der Automat schon im Juni 1986 an das Sport- und Erholungszentrum in Berlin, offiziell vorgestellt im November 1986 auf der Zentralen Messe der Meister von Morgen in Leipzig. Ein Spiel kostete 50 Pfennig, ein Gerät 21.950 Mark, jedes Spiel zusätzlich 400 bis 750 Mark. Für den Betrieb war eine Zulassung durch den Staatszirkus der DDR, Fachgebiet Spielwesen, nötig. Bis zur Wende entstanden rund 2000 Exemplare, die in Kulturhäusern, Ferienheimen und Hotels standen.",
+            "Heute ist der Poly-Play ein begehrtes Sammlerstück. Erhaltene Exemplare stehen etwa im Flippermuseum Schwerin, im Computerspielemuseum Berlin und im Rechenwerk Halle. Ein seltenes tschechisches Modell betreut das Deutsche Flipper- und Arcademuseum in Seligenstadt. Wer selbst spielen will, kann den Automaten im Emulator MAME starten."
+          ],
+          "highlight": "Die entscheidende Rolle spielte ausgerechnet die Stasi.",
+          "assessment": [
+            "Die Geschichte des Poly-Play ist ein Lehrstück über die Widersprüche der DDR: ein Staat, der Westtechnik per Kleinanzeige beschafft, nachbaut und dann mit Genehmigung des Staatszirkus in Ferienheime stellt. Während westdeutsche Jugendschützer Spielautomaten aus dem öffentlichen Raum verbannten, brachte die DDR sie gezielt dorthin.",
+            "Dass ausgerechnet ein Lehrer aus einem Ballerspiel „Hagelnde Wolken“ machte, ist eine Pointe, die man nicht erfinden könnte. Ein guter Anlass, sich in einem der Museen selbst an „Hase und Wolf“ zu versuchen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/3/0/8/Poly-Play_vom_Deutschen_Flipper_und_Arcade-Museum_auf_der_Gamescom_ausschnitt_overlay_missing-link-2e9409fe0018a339.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Ein Poly-Play-Automat des Deutschen Flipper- und Arcade-Museums auf der Gamescom",
+            "credit": "René Meyer",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/hintergrund/Missing-Link-Der-Arcade-Automat-aus-der-DDR-40-Jahre-Poly-Play-11532459.html"
+          }
+        },
+        {
+          "title": "Römische Sonnenuhr kehrt nach Velletri zurück: Die fehlende Löwenpranke kam aus dem 3D-Drucker",
+          "lead": "Eine marmorne Sonnenuhr, eigens für die Breite von Velletri berechnet, ist restauriert wieder im Museo Nardini zu sehen. Ihre lange Geschichte ist mit einer Legende um die Familie Borgia verknüpft.",
+          "body": [
+            "Im Städtischen Archäologischen Museum Oreste Nardini in Velletri südlich von Rom ist eine römische Sonnenuhr wieder ausgestellt. Das Stück aus weißem Marmor, getragen von Löwenpranken, wurde am 14. November im Rathaus offiziell vorgestellt, in Anwesenheit der Museumsdirektorin Raffaella Silvestri. Finanziert wurde die Restaurierung vom Verein LoveItaly mit Spendengeldern, gemeinsam mit der Stadt und dem Museumsnetzwerk Museum Grand Tour.",
+            "Es handelt sich um ein Hemicyclium, eine Sonnenuhr mit hohler Schale. Sie war eigens für die geografische Breite von Velletri konstruiert und zeigte nicht nur die Stunden an, sondern auch den Lauf des Jahres. Die verlorene Löwenpranke wurde per 3D-Druck rekonstruiert. Die Ergänzung ist reversibel und lässt sich jederzeit entfernen, ohne das Original zu beschädigen.",
+            "Die Restauratorinnen Rebecca Picca Orlandi und Cecilia Balsi zeichneten die Geschichte des Stücks nach. Eine der ersten Erwähnungen stammt von 1790 aus einem Ornamentbuch von Carlo Antonini, das drei Sonnenuhren aus Velletri abbildet. Die Uhr im Museum stand demnach auf der Piazza di Corte, dem heutigen Platz Cesare Ottaviano Augusto. Die örtliche Überlieferung, Kardinal Stefano Borgia habe sie einer Bruderschaft geschenkt, ließ sich bisher nicht belegen. Womöglich wurden über die Zeit Erinnerungen an andere Sonnenuhren aus Borgia-Besitz und an Reliquienschenkungen des Kardinals vermischt.",
+            "Ab spätestens 1829 hing die Uhr über dem Portal des Tempietto di Santa Maria del Sangue, mit einer Inschrift, die sie als „Horologium Berosianum“ bezeichnete. In den 1930er Jahren wurde der Bau zu einem Denkmal für die Gefallenen des Ersten Weltkriegs umgebaut, die Uhr musste zwei Marmor-Fasces und einer Inschrift weichen. Die Bombenangriffe von 1944 beschädigten das Gebäude schwer. Die amerikanische Archäologin Sharon Gibbs vermaß die Uhr 1971 und nahm sie 1976 in ihren Katalog griechischer und römischer Sonnenuhren auf. Auf ihren Zeichnungen sind noch beide Pranken zu sehen, auf Fotos von 1972 fehlt bereits eine."
+          ],
+          "highlight": "Sie war eigens für die geografische Breite von Velletri konstruiert und zeigte nicht nur die Stunden an, sondern auch den Lauf des Jahres.",
+          "assessment": [
+            "Keine Sensation, aber eine schöne Geschichte über das zweite Leben antiker Objekte. Die Sonnenuhr war Stadtschmuck, Kirchenzierde, wurde für faschistische Symbole abgehängt, überstand den Krieg und verlor dabei Stück für Stück ihre Füße.",
+            "Die reversible 3D-Ergänzung ist ein kluger Weg zwischen zwei Extremen: Man muss ein Fragment nicht als Ruine ausstellen und muss es auch nicht mit dauerhaftem neuem Marmor verfälschen. Dass die Borgia-Legende bei der Gelegenheit sauber als unbelegt benannt wird, spricht für die Arbeit der Restauratorinnen."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull'Arte",
+              "url": "https://www.finestresullarte.info/en/archaeology/velletri-welcomes-back-its-roman-sundial-restored-using-3d-printing-it-returns-to-the-nardini-museum"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/orologio-solare-romano-velletri-1.jpg",
+            "alt": "Die römische Sonnenuhr von Velletri vor und nach der Restaurierung",
+            "credit": "Finestre sull'Arte",
+            "license": "Artikelbild Finestre sull'Arte",
+            "source": "https://www.finestresullarte.info/en/archaeology/velletri-welcomes-back-its-roman-sundial-restored-using-3d-printing-it-returns-to-the-nardini-museum"
+          }
+        }
+      ]
+    }
+  ]
+}

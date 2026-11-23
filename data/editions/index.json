@@ -1,5 +1,38 @@
 [
   {
+    "nr": 47,
+    "date": "2026-11-23",
+    "updated": "2026-11-23T07:49:43+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Die Börsenaufsicht prüft die Bilanzen, US-Tech-Aktien rutschen in den Bärenmarkt",
+      "Ein Tempolimit für KI: OpenAIs Chefwissenschaftler schlägt die Perplexität als gemeinsamen Maßstab vor",
+      "Mehr Ausfälle in Sicht: Die US-Regierung erklärt die Pannenserie mit hastigen Patches für KI-gefundene Lücken",
+      "Bundesrat will Deepfakes härter bestrafen und Smart Glasses strenger regeln",
+      "„Physisch, materiell“: Paris Marx erklärt, warum Rechenzentren zum Ziel der Wut auf Big Tech geworden sind",
+      "Unreal Engine 6 startet ohne Blueprints: Epic setzt auf Verse und KI-gestützte Umstellung",
+      "KI-Musik im Binding-of-Isaac-Update: Spieler entlarven Suno-Tracks, Nicalis entfernt sie nach Bewertungssturm",
+      "Neu zu GTA 6: Am Starttag spielte mehr als die Hälfte aller aktiven PS5-Spieler in den USA Rockstars Spiel, im Schnitt über acht Stunden",
+      "Dota 2 Patch 7.42: Valve will die Partien verkürzen und lässt Superkreaturen auf allen Bahnen los",
+      "Nvidia-Treiber beschreibt SSDs mit bis zu 30 GB pro Stunde, und der Hotfix behebt das nicht",
+      "„Avengers: Doomsday“: Hailee Steinfeld ist als Kate Bishop dabei, ein neuer Trailer wird für Montag erwartet",
+      "„You Can See Everything“ knackt 100 Millionen Dollar und ist die erste Doku mit einer Million Letterboxd-Sichtungen",
+      "Neu zu Panem: Weltweit 225 Millionen Dollar zum Start, der beste Kinostart für Lionsgate seit Langem",
+      "Robert Eggers braucht eine Pause vom Horror: Nach „Werwulf“ kommt „Romeo und Julia“",
+      "Mahershala Ali: Zwei Oscars, aber „für die große Mehrheit der Projekte gibt es keine Rollen für mich“",
+      "Rian Johnson schließt eine Rückkehr zu Star Wars nicht aus: „Eine Welt, die ich zutiefst liebe“",
+      "Keltischer Silberschatz unter einem Umspannwerk: Mehr als 200 Münzen in Westungarn",
+      "Gestillt bis fast vier Jahre: Wie Kinder in der griechischen Kolonie Himera ernährt wurden",
+      "40 Jahre Poly-Play: Der einzige Spielautomat der DDR entstand in einer geheimen Stasi-Werkstatt",
+      "Römische Sonnenuhr kehrt nach Velletri zurück: Die fehlende Löwenpranke kam aus dem 3D-Drucker"
+    ]
+  },
+  {
     "nr": 46,
     "date": "2026-11-22",
     "updated": "2026-11-22T07:50:59+01:00",
