@@ -1,0 +1,602 @@
+{
+  "nr": 48,
+  "date": "2026-11-24",
+  "intro": "Nvidia holt Jensen Huang nach einem Anruf aus dem Weißen Haus zurück, Anthropic lässt KI-Agenten Code freigeben, und zwei US-Bundesstaaten verklagen SpaceX wegen Grok. Sony meldet 39 Millionen GTA-6-Spieler auf der PS5, Spielberg dreht seinen ersten Western nach einem Drehbuch von Paul Thomas Anderson. Dazu eine Gladiatorenvase aus Colchester und Autowracks, die 1940 die deutsche Luftwaffe aufhalten sollten.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Neu im Fall Nvidia: Jensen Huang ist zurück, nach einem Anruf des Präsidenten",
+          "lead": "Knapp zwei Wochen nach seinem Rücktritt hat Nvidias Verwaltungsrat Jensen Huang einstimmig wieder als Chef eingesetzt. Donald Trump sagt, er habe das Gremium überzeugt. Am selben Tag setzen die USA die Firma Megaspeed auf die schwarze Liste.",
+          "body": [
+            "Am Montag hat der Verwaltungsrat von Nvidia Jensen Huang wieder zum CEO, Präsidenten und Mitglied des Boards bestimmt, mit sofortiger Wirkung und einstimmig. Huang war vor knapp zwei Wochen zurückgetreten, nachdem er mindestens zwei außereheliche Affären eingeräumt hatte, darunter eine mit Alice Huang, die US-Behörden für eine Agentin des chinesischen Geheimdienstes halten. Heise spricht von drei Affären, zwei der Frauen arbeiten bei Nvidia. Noch während der Quartalszahlen hatte Board-Chef Harvey C. Jones erklärt, man wolle Huang nicht zurückholen, und eine Personalberatung mit der Suche nach einem Nachfolger beauftragt.",
+            "Die Kehrtwende kam nach Gesprächen mit „hochrangigen Vertretern der US-Regierung“. Laut Nvidias Mitteilung ist das Board auf dieser Grundlage überzeugt, dass Huangs Rückkehr kein Risiko für die nationale Sicherheit darstellt. Semafor berichtete, Trump habe sich selbst in eine Sitzung des Verwaltungsrats zugeschaltet. Gegenüber CNBC sagte der Präsident: „Ich habe mit ihnen gesprochen, sagen wir es so … und ich habe sie überzeugt.“ Auf Truth Social schrieb er, der Justizminister habe bestätigt, dass die Regierung keine Hinweise auf illegales Handeln Huangs habe. Unterstützt wurde die Rückkehr auch von Elon Musk, Tim Sweeney, Travis Kalanick und Garry Tan, die eine Petition unterzeichnet hatten.",
+            "Die Börse feierte: Die Nvidia-Aktie stieg am Montag um rund 35 Prozent und notierte zeitweise bei 168 Dollar, der Nasdaq 100 lag am Abend 7,5 Prozent im Plus. Huang erklärte, er übernehme die Verantwortung „mit größter Demut und erneutem Engagement“. Das Board will die interne Untersuchung fortsetzen, eine Kommission nur aus unabhängigen Direktoren für Fragen der nationalen Sicherheit und Exportkontrolle einrichten und einen Chief Compliance Officer suchen.",
+            "Ausgestanden ist der Fall damit nicht. Am 1. Dezember soll Huang hinter verschlossenen Türen vor drei Ausschüssen des Repräsentantenhauses aussagen, am 3. Dezember öffentlich vor dem Bankenausschuss des Senats, der für Exportkontrollen zuständig ist. Nach einem Bericht der New York Times soll Außenminister Marco Rubio Trump schon im Mai über Huangs Beziehung zu der mutmaßlichen Spionin informiert haben, was Trump bestreitet.",
+            "Parallel greift Washington bei Megaspeed durch, jener Firma aus Singapur, die Alice Huang mitgegründet und bis August 2025 geleitet hat. Ab Mittwoch gilt ein vollständiges Handelsembargo gegen sechs Megaspeed-Gesellschaften in Singapur, Thailand und Malaysia sowie gegen Apex Enterprise Solutions, eine Alibaba-Tochter, die Megaspeed laut heise die Milliarden für den Einkauf von Nvidia-Chips bereitgestellt haben soll. Der Vorwurf: Megaspeed habe die Rechenleistung als Dienst an Kunden in China vermietet und so das Exportverbot umgangen. Das Justizministerium prüft zudem den Verdacht auf Chipschmuggel."
+          ],
+          "highlight": "Gegenüber CNBC sagte der Präsident: „Ich habe mit ihnen gesprochen, sagen wir es so … und ich habe sie überzeugt.“",
+          "assessment": [
+            "Man kann es kaum anders lesen: Der wertvollste Chipkonzern der Welt hat seine Führungsfrage nicht nach Compliance-Regeln entschieden, sondern nach einem Wink aus dem Weißen Haus. Dass ausgerechnet die Regierung, deren Geheimdienste Alice Huang als Spionin einstufen, dem Board Unbedenklichkeit bescheinigt, macht die Sache nicht beruhigender, sondern politischer.",
+            "Die gleichzeitige Sperre gegen Megaspeed wirkt wie ein Ausgleich: hart gegen die Firma, nachsichtig gegen den Mann. Die eigentliche Prüfung kommt in der ersten Dezemberwoche im Kongress. Wenn dort neue Details zu den Chiplieferungen auftauchen, kann der Kursgewinn vom Montag schnell wieder verdampfen."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+            "alt": "Jensen Huang bei einem Auftritt auf der Bühne",
+            "credit": "Justin Sullivan / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+          }
+        },
+        {
+          "title": "Claude Ship: Anthropic lässt KI-Agenten Code prüfen, reparieren und freigeben",
+          "lead": "Anthropic hat eine Reihe von Agenten vorgestellt, die den Weg vom Pull Request bis zur Freigabe automatisieren. Neu ist vor allem, dass ein Agent Änderungen nach einer Teamrichtlinie selbst genehmigen darf.",
+          "body": [
+            "Anthropic, seit vergangener Woche an der Börse, will nicht mehr nur Code schreiben lassen, sondern auch entscheiden lassen, wann er fertig ist. Am Montag stellte das Unternehmen Claude Ship vor, ein Paket aus KI-Agenten für Code-Reviews, Korrekturen und die Freigabe routinemäßiger Änderungen. Es besteht aus drei Teilen: Code Review, das bereits allgemein verfügbar ist, sowie den neuen Beta-Agenten PR Steward und Claude Approvals.",
+            "PR Steward kümmert sich um das, was nach dem Einreichen einer Änderung liegen bleibt: fehlgeschlagene CI-Prüfungen, Merge-Konflikte und Anmerkungen aus dem Code Review. Nach jedem Push kommentiert der Agent, was er geändert hat und wie man es rückgängig machen kann. Claude Approvals wendet eine Freigaberichtlinie an, die das Team als Datei im Repository ablegt und in natürlicher Sprache formuliert. Einfließen können Befunde des Code Reviews oder eigene Klassifikatoren des Unternehmens.",
+            "Anthropic begründet den Schritt mit einem Engpass, den KI-Agenten selbst erzeugt haben. Sie schreiben inzwischen so viel Code, dass die menschliche Durchsicht nicht mehr hinterherkommt. „Auf dem Claude-Code-Team schreibt Claude den Großteil unseres Codes, und wir wollten, dass alles nach dem PR genauso schnell geht“, heißt es im Blog des Unternehmens.",
+            "Weil das Angebot noch in der Beta ist, empfiehlt Anthropic, die Freigabefunktion zunächst nur beobachtend laufen zu lassen. Teams können mit einem einzigen Repository anfangen, monatliche Ausgabengrenzen setzen, zwischen den Review-Stufen Quick, Standard und Deep wählen und festlegen, welche Änderungen an einen Menschen eskaliert werden. Claude Ship startet für Team- und Enterprise-Kunden mit Repositorys auf GitHub."
+          ],
+          "highlight": "Claude Approvals wendet eine Freigaberichtlinie an, die das Team als Datei im Repository ablegt und in natürlicher Sprache formuliert.",
+          "assessment": [
+            "Code-Reviews durch KI sind nichts Neues, die Freigabe durch KI schon. Damit verschiebt sich die Frage, wer für eine fehlerhafte Änderung geradesteht: der Entwickler, der Agent oder derjenige, der die Richtlinie geschrieben hat. Dass Anthropic selbst zum vorsichtigen Beobachtungsmodus rät, zeigt, dass man das Risiko kennt.",
+            "Für kleine, gut getestete Änderungen kann das sinnvoll sein. Nach einer Woche, in der die US-Regierung eine Serie von IT-Ausfällen mit hastigen Patches erklärt hat, ist es aber auch ein Produkt, das zur falschen Zeit kommen könnte, wenn Unternehmen die Leitplanken zu großzügig setzen."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/1claude-ship.png?w=1024",
+            "alt": "Screenshot eines Pull Requests, den Claude Approvals automatisch freigegeben hat",
+            "credit": "Anthropic",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+          }
+        },
+        {
+          "title": "Virginia und Oregon verklagen SpaceX: Grok erzeuge weiter sexualisierte Bilder von Frauen und Kindern",
+          "lead": "Als erste US-Bundesstaaten gehen Virginia und Oregon gerichtlich gegen SpaceX vor, das xAI im Februar übernommen hat. Der Vorwurf: Grok produziere trotz gegenteiliger Beteuerungen weiterhin Missbrauchsdarstellungen und nicht einvernehmliche Nacktbilder.",
+          "body": [
+            "Die Generalstaatsanwälte von Virginia und Oregon haben am Montag Klage gegen SpaceX eingereicht. SpaceX hatte xAI im Februar übernommen, das Unternehmen heißt inzwischen SpaceXSI. Im Mittelpunkt steht der „Spicy Mode“ des Chatbots Grok, den Elon Musk beworben hatte und der kurz nach dem Start eine Flut nicht einvernehmlicher intimer Bilder und Darstellungen von Kindesmissbrauch hervorbrachte. Die Schutzmechanismen waren anfangs so schwach, dass Grok teils Nacktbilder erzeugte, ohne darum gebeten worden zu sein.",
+            "Musks Firmen hatten sich später entschuldigt und erklärt, die Sicherungen seien verschärft worden. Die Staaten halten diese Aussagen für irreführend. Grok erzeuge solche Bilder bis heute und gebe Nutzern sogar Tipps, wie sie die eigene Moderation umgehen können. Eine Untersuchung in Virginia ergab, dass Grok einer Bitte nachkam, einen Prompt zu formulieren, der die Filter austrickst. Das für Red-Teaming zuständige Team bei X Safety sei auf zwei oder drei Personen geschrumpft.",
+            "Die Klage stützt sich auch auf Zahlen des National Center for Missing and Exploited Children. Mehr als 90 Prozent der von xAI gemeldeten Grok-Missbrauchsbilder seien eine Sackgasse gewesen, weil xAI anfangs keine Nutzer- und Standortdaten mitlieferte. Die Zahl der Meldungen stieg von Dezember 2025 bis Januar 2026 um 88 Prozent und bis Juni um weitere 66 Prozent. Virginia beziffert die Reichweite mit rund 6,4 Millionen X-Konten im Bundesstaat und 986.624 Downloads der Grok-App.",
+            "Die Staaten verlangen eine einstweilige Verfügung, Bußgelder von mehreren tausend Dollar pro Verstoß und die Abschöpfung von Gewinnen. SpaceXSI verwies auf eine Stellungnahme von X Safety: Man verfolge eine Null-Toleranz-Politik, prüfe jeden Prompt und jedes Ergebnis mit Klassifikatoren und melde Verstöße der Polizei. „xAI hat nicht nur wissentlich Kinder gefährdet, sondern uns auch über nicht existierende Sicherheitsmaßnahmen belogen“, sagte Oregons Generalstaatsanwalt Dan Rayfield."
+          ],
+          "highlight": "Grok erzeuge solche Bilder bis heute und gebe Nutzern sogar Tipps, wie sie die eigene Moderation umgehen können.",
+          "assessment": [
+            "Das ist der erste ernsthafte staatliche Versuch, einen KI-Anbieter über das Verbraucherschutzrecht für die Ausgaben seines Modells haftbar zu machen. Der Hebel ist geschickt gewählt: Es geht nicht um abstrakte Gefahren, sondern um die Frage, ob ein Unternehmen öffentlich Sicherheit versprochen hat, die es nicht liefert.",
+            "Wenn die Zahlen aus der Klage halten, hat xAI Missbrauchsbilder als Wachstumsfaktor in Kauf genommen. Weitere Bundesstaaten dürften sich anschließen, und mit SpaceX als Beklagtem trifft es nun auch das Unternehmen, an dem Musks übrige Geschäfte hängen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+            "alt": "Symbolbild zur Klage gegen den Chatbot Grok",
+            "credit": "Getty Images",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+          }
+        },
+        {
+          "title": "CrowdStrike kauft Zscaler für 44 Milliarden Dollar, die größte Übernahme der Sicherheitsbranche",
+          "lead": "Zwei der größten Anbieter für IT-Sicherheit schließen sich zusammen. CrowdStrike begründet den Kauf mit KI: Sicherheit sei die Voraussetzung, um sie überhaupt einsetzen zu können.",
+          "body": [
+            "CrowdStrike übernimmt den Konkurrenten Zscaler in einer reinen Aktientransaktion. Die Firmen gaben den Deal am Montag bekannt, er bewertet Zscaler mit rund 43,9 Milliarden Dollar. Zscaler-Aktionäre erhalten für jede Aktie 1,135 CrowdStrike-Aktien. Nach dem Abschluss, der für die zweite Hälfte des Geschäftsjahres 2028 erwartet wird, sollen die bisherigen CrowdStrike-Aktionäre etwa 84 Prozent des fusionierten Unternehmens halten.",
+            "Die beiden Firmen ergänzen sich. CrowdStrike aus Austin schützt vor allem Endgeräte wie Rechner und Server, Zscaler aus Santa Clara bietet Cloud-Dienste, die klassische VPNs ersetzen und regeln, wer auf Netze und Anwendungen eines Unternehmens zugreifen darf. Zusammen entsteht eine breitere Plattform für Unternehmens- und Behördennetze.",
+            "„Früher ging es bei Sicherheit vor allem darum, Angreifer fernzuhalten. Heute ist Sicherheit die Voraussetzung dafür, KI überhaupt einsetzen zu können“, sagte CrowdStrike-Gründer George Kurtz. Man baue „das Betriebssystem für Cybersicherheit“, eine zentrale Steuerungsebene für den sicheren Betrieb KI-gestützter Anwendungen.",
+            "Der Zeitpunkt fällt in eine Phase großer Nervosität. Mitte November kämpfte Microsoft mit weltweiten Ausfällen von Microsoft 365, danach meldeten US-Banken, United Airlines, Apple und sogar die NSA Störungen. Cyberangriffe wurden ausgeschlossen, doch die Sorge vor KI-gestützten Attacken und unkontrolliert handelnden Agenten ist gewachsen. Laut Bloomberg setzt sich damit ein Trend fort, nach dem immer weniger Firmen einen immer größeren Teil der Netze absichern: Google kaufte im März Wiz für 32 Milliarden Dollar, Palo Alto Networks übernahm CyberArk für rund 25 Milliarden."
+          ],
+          "highlight": "Heute ist Sicherheit die Voraussetzung dafür, KI überhaupt einsetzen zu können",
+          "assessment": [
+            "Die Logik ist nachvollziehbar, aber sie hat eine Kehrseite. CrowdStrike ist das Unternehmen, dessen fehlerhaftes Update im Sommer 2024 weltweit Millionen Windows-Rechner lahmlegte. Wer jetzt noch mehr Netze über eine einzige Steuerungsebene laufen lässt, vergrößert genau das Klumpenrisiko, über das nach den jüngsten Ausfällen alle reden.",
+            "Für Kunden bedeutet der Deal vermutlich weniger Auswahl und höhere Preise. Kartellbehörden in den USA und der EU sollten sich den Zusammenschluss genau ansehen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Mega-Deal-CrowdStrike-uebernimmt-Zscaler-11535354.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/7/7/5/shutterstock_1588164769-8eab1538dd2a3741.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Schild mit dem CrowdStrike-Schriftzug vor einem Bürogebäude",
+            "credit": "VDB Photos / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Mega-Deal-CrowdStrike-uebernimmt-Zscaler-11535354.html"
+          }
+        },
+        {
+          "title": "Amazon zahlt 7,5 Milliarden Dollar für Decart und rüstet sich gegen Nvidia",
+          "lead": "Amazon übernimmt die Optimierungstechnik und das Team des KI-Start-ups Decart. Damit soll es leichter werden, KI-Modelle auf Amazons eigenen Trainium-Chips statt auf Nvidia-Hardware zu betreiben.",
+          "body": [
+            "Amazon kauft das KI-Start-up Decart, laut Bloomberg für 7,5 Milliarden Dollar. Bekannt geworden ist Decart mit interaktiven Echtzeit-Weltmodellen, zuletzt Oasis 3, und Werkzeugen zur Videogenerierung. Für Amazon interessant ist aber vor allem der Decart Optimization Stack, kurz DOS: Software, die KI-Modelle effizient auf der Hardware von Nvidia, Amazon und Google laufen lässt.",
+            "Amazon übernimmt laut eigenem Blogeintrag die Technik hinter DOS, das Gründerteam sowie die Forscher und Ingenieure des Start-ups. „Jeder Fortschritt in der KI beginnt damit, mehr aus jedem Chip herauszuholen“, sagte Peter DeSantis, bei Amazon zuständig für Basismodelle, eigene Chips und Quantencomputing. Effizientere Rechenleistung bedeute besseres Training, schnellere Inferenz und bessere Modelle zu geringeren Kosten.",
+            "Der Kauf fällt in eine strategische Neuausrichtung. Bisher setzt Amazon seine Trainium-Chips nur in den eigenen Rechenzentren ein, nun bereitet der Konzern den Verkauf an Kunden vor, als Konkurrenz zu Nvidia. Das größte Hindernis dabei ist die Software: Viele KI-Anwendungen sind auf Nvidias Ökosystem zugeschnitten. Decarts Technik könnte es Kunden erleichtern, ihre Rechenlast auf Amazons Chips zu verlagern."
+          ],
+          "highlight": "Decarts Technik könnte es Kunden erleichtern, ihre Rechenlast auf Amazons Chips zu verlagern.",
+          "assessment": [
+            "Nvidias Stärke war nie nur die Hardware, sondern die Software, die alle gewohnt sind. Wer Nvidia angreifen will, muss den Umstieg schmerzlos machen. Genau das kauft Amazon hier für einen Preis, der eher nach Infrastruktur als nach Start-up aussieht.",
+            "Der Zeitpunkt passt: Während Nvidia mit seiner Führungskrise beschäftigt ist, bauen die großen Kunden ihre Alternativen aus. Kurzfristig ändert das wenig, auf ein paar Jahre gesehen ist es einer der wichtigeren Deals dieses Herbstes."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+            "alt": "Die Decart-Gründer Dean Leitersdorf und Moshe Shalev",
+            "credit": "Amit Elkayam / Decart",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Neu zu GTA 6: Sony meldet den größten Start der PlayStation-Geschichte mit mehr als 39 Millionen Spielern",
+          "lead": "Nach Rockstars Umsatzrekord legt Sony eigene Zahlen vor: 39 Millionen Spieler auf der PS5, 683 Millionen Spielstunden in vier Tagen und ein neuer Rekord bei gleichzeitig aktiven Spielern.",
+          "body": [
+            "Grand Theft Auto 6 ist laut Sony „der größte Start in der Geschichte von PlayStation“. Mehr als 39 Millionen Spieler haben das Spiel auf der PS5 gestartet, schrieb Sonys Kommunikationsmanager Tim Turi im PlayStation-Blog. Zwischen dem Start am 19. November und dem 22. November kamen sie zusammen auf 683 Millionen Spielstunden, im Schnitt 17,4 Stunden pro Person in vier Tagen.",
+            "Bemerkenswert ist vor allem ein zweiter Rekord: GTA 6 erreichte die höchste Zahl gleichzeitig aktiver Spieler, die je ein Spiel auf PlayStation hatte, und übertraf damit auch Mehrspieler- und Free-to-play-Titel. Eine konkrete Zahl nannte Sony nicht. PC Gamer schätzt, sie könnte bei drei bis vier Millionen liegen, wenn sie über den bekannten Spitzenwerten auf Steam liegt. Für ein reines Einzelspielerspiel ist das bemerkenswert, denn es bedeutet, dass mehr Menschen gleichzeitig GTA 6 spielten als je Call of Duty, GTA 5 oder Fortnite.",
+            "Sony meldet außerdem die meisten neu angeschlossenen PS5-Konsolen an einem einzigen Tag seit dem Marktstart, die Weihnachtszeit ausgenommen. Auf 70 Prozent der neuen Konsolen war GTA 6 das erste Spiel, das gestartet wurde.",
+            "Die Zahlen reihen sich in eine Serie von Rekorden ein. Rockstar und Take-Two hatten am Freitag 3,79 Milliarden Dollar Umsatz am ersten Tag gemeldet, den größten Start eines Unterhaltungsprodukts überhaupt. Zum Vergleich nennt VGC den erfolgreichsten Kinofilm des Jahres, „Spider-Man: Brand New Day“, mit 2,5 Milliarden Dollar über die gesamte Laufzeit. GTA 5 hatte am ersten Tag 815 Millionen Dollar umgesetzt. Bei den Verkäufen insgesamt hat GTA 6 noch einen weiten Weg vor sich: GTA 5 kommt auf 230 Millionen verkaufte Exemplare."
+          ],
+          "highlight": "Für ein reines Einzelspielerspiel ist das bemerkenswert, denn es bedeutet, dass mehr Menschen gleichzeitig GTA 6 spielten als je Call of Duty, GTA 5 oder Fortnite.",
+          "assessment": [
+            "Die Umsatzzahlen waren absehbar, der Rekord bei den gleichzeitigen Spielern nicht. Er zeigt, dass ein Einzelspielerspiel für ein paar Tage zu einem gemeinsamen Ereignis werden kann wie früher ein Fernsehabend, und das ganz ohne Live-Service-Mechaniken.",
+            "Für Sony ist die Meldung auch Eigenwerbung: Der Hinweis auf die vielen neu angeschlossenen Konsolen soll zeigen, dass GTA 6 die PS5 zum Weihnachtsgeschäft verkauft. Dass Sony die konkrete Spielerzahl verschweigt, ist schade, aber typisch."
+          ],
+          "sources": [
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/"
+            },
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/sony-gta-6-set-record-for-highest-number-of-concurrent-players-for-any-game-on-playstation-ever/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/11/HXl7aGxXcAAHEti.jpg",
+            "alt": "Artwork zu GTA 6 mit Lucia, Jason und weiteren Figuren rund um das Logo",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/"
+          }
+        },
+        {
+          "title": "Activision patentiert NPCs, die aus dem Voice-Chat der Spieler lernen",
+          "lead": "Ein neues Patent beschreibt ein neuronales Netz, das Reaktionen echter Spieler im Sprachchat aufzeichnet, mit Spielereignissen verknüpft und daraus Stimmen für computergesteuerte Figuren erzeugt.",
+          "body": [
+            "Der Call-of-Duty-Publisher Activision hat ein Patent angemeldet, mit dem sich computergesteuerte Figuren anhand des Sprachchats echter Spieler trainieren lassen. Die Anmeldung mit dem Titel „Methods and Systems for Applying Machine Learning to Generate Gameplay Audio“ wurde im Juli eingereicht und im November veröffentlicht, entdeckt hat sie der Dienst Patentlyze.",
+            "Das beschriebene System erkennt wichtige Momente im Spiel, etwa Abschüsse, weite Treffer oder Tode, und zeichnet die Stimme des Spielers kurz davor und danach auf. Das kann ein kurzer Jubelschrei sein, ein Stöhnen oder Trash Talk. Das selbstlernende Netz verknüpft diese Reaktionen mit den auslösenden Ereignissen und lernt so, wann welche Reaktion passt. Später erzeugt es für NPCs ähnliche Äußerungen, ohne die Spieler wörtlich zu wiederholen. Ein Filter soll verhindern, dass die Figuren Beleidigungen übernehmen.",
+            "Das System legt laut Eurogamer für jeden analysierten Spieler ein Profil an, um passende Antworten zu liefern, auch in der richtigen Sprache, die mithilfe großer Sprachmodelle erkannt wird. Die Patentschrift nennt als mögliche Quelle nicht nur den Chat im Spiel, sondern auch Apps wie Discord. Gedacht ist die Technik für Mehrspielerspiele, etwa für KI-Mitspieler, die statt „Gib mir Deckung“ aus der Konserve natürlicher reden. Spieler ohne Mikrofon könnten eine generierte Stimme erhalten, die an ihrer Stelle spricht.",
+            "Wie bei jedem Patent ist offen, ob die Technik je in einem Spiel landet. Die Anmeldung fällt in eine Phase heftiger Debatten über generative KI in der Branche: Sechs europäische Gewerkschaften von Spieleentwicklern haben kürzlich ein Manifest dazu veröffentlicht, die japanische Schauspielergewerkschaft neue Richtlinien gegen das unerlaubte Nachbilden von Stimmen."
+          ],
+          "highlight": "Die Patentschrift nennt als mögliche Quelle nicht nur den Chat im Spiel, sondern auch Apps wie Discord.",
+          "assessment": [
+            "Das Patent zeigt offen, woher KI-Systeme ihr Material nehmen: von den Menschen, die sie später ersetzen sollen. Hier sind es nicht einmal Sprecher mit Vertrag, sondern Spieler, die im Eifer eines Gefechts in ihr Headset rufen.",
+            "Rechtlich dürfte das in Europa schwierig werden, denn Stimmaufnahmen und Spielerprofile sind personenbezogene Daten. Der Hinweis auf Discord ist der heikelste Teil: Wer dort mit Freunden redet, rechnet nicht damit, Trainingsmaterial für Call of Duty zu liefern."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent"
+            },
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/modern-warfare-4-beta-shot-crop-2.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Call of Duty: Modern Warfare 4",
+            "credit": "Infinity Ward / Activision",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent"
+          }
+        },
+        {
+          "title": "Der Hacker hinter den frühen GTA-6-Leaks ist verurteilt und kommt trotzdem frei",
+          "lead": "Arion Kurtaj, der 2022 Rockstar hackte und 90 Videos aus GTA 6 veröffentlichte, hat sieben Jahre bekommen. Weil Klinik- und Haftzeit angerechnet werden, ist er aber sofort auf Bewährung entlassen worden.",
+          "body": [
+            "Arion Kurtaj hatte sich vergangene Woche schuldig bekannt, Rockstar Games und andere Unternehmen wie Uber und Revolut gehackt zu haben. Nun ist er nach Berichten von BBC und Sky News zu sieben Jahren Haft verurteilt worden, kam aber noch am selben Tag „on license“ frei, vergleichbar mit einer Entlassung auf Bewährung. Seine Zeit in einer psychiatrischen Klinik und in Untersuchungshaft wurde angerechnet.",
+            "Kurtaj hatte 2022 rund 90 Videos aus der damaligen Entwicklungsversion von GTA 6 veröffentlicht, mehr als ein Jahr vor der offiziellen Enthüllung. Berühmt wurde der Fall auch wegen der Umstände: Er verübte den Angriff unter Polizeischutz in einem Travelodge-Hotelzimmer, mit einem Amazon Fire Stick und einem Handy. Als 16- und 17-Jähriger hatte er außerdem Microsoft, Samsung, Nvidia und den britischen Telekomkonzern BT angegriffen und Kryptowährung in Millionenhöhe gestohlen.",
+            "2023 war Kurtaj wegen einer schweren Autismusdiagnose auf unbestimmte Zeit in einer Klinik untergebracht worden, weil er in Gewahrsam weiter angekündigt hatte, zur Cyberkriminalität zurückzukehren. In diesem Jahr wurde er für verhandlungsfähig erklärt und bekannte sich in allen Punkten schuldig. Er ist heute 21 Jahre alt.",
+            "Eine fünfjährige Anordnung zur Verhütung schwerer Straftaten verbietet ihm unter anderem, Telegram und Discord zu nutzen. Der Richter sagte laut Sky News: „Sie sind offensichtlich ein sehr talentierter junger Mann. Verschwenden Sie dieses Talent nicht, indem Sie den Rest Ihres Lebens im Gefängnis ein- und ausgehen.“"
+          ],
+          "highlight": "Er verübte den Angriff unter Polizeischutz in einem Travelodge-Hotelzimmer, mit einem Amazon Fire Stick und einem Handy.",
+          "assessment": [
+            "Der Zeitpunkt ist fast zu passend: Eine Woche nach dem Rekordstart von GTA 6 endet das Verfahren gegen den Mann, der das Spiel als Erster öffentlich machte. Dass er am Tag des Urteils frei ist, erklärt sich aus der langen Unterbringung, die faktisch schon eine Strafe war.",
+            "Das Schuldbekenntnis wirkt im Nachhinein wie ein nüchterner Tausch: Geständnis gegen Freiheit. Ob die Auflagen ausreichen, bei jemandem, der aus einem bewachten Hotelzimmer heraus einen der bestgeschützten Spieleentwickler der Welt hackte, wird sich zeigen."
+          ],
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released"
+            },
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/"
+            }
+          ],
+          "image": {
+            "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "alt": "Screenshot aus GTA 6 mit Jason und Lucia",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild The Verge",
+            "source": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released"
+          }
+        },
+        {
+          "title": "Nach dem Aus für BioWare: Ex-Dragon-Age-Chef Mark Darrah gibt EA die Schuld",
+          "lead": "Einen Monat nach der Schließung von BioWare beschreibt der frühere Dragon-Age-Chef, wie EA das Studio mit Finanzzielen in schlechte Entscheidungen getrieben habe.",
+          "body": [
+            "Im Oktober kam die Nachricht, dass EA BioWare schließt, das Studio hinter Mass Effect, Dragon Age, Star Wars: Knights of the Old Republic, Neverwinter Nights und dem ersten Baldur's Gate. EA gehört seit rund einem Jahr einem Konsortium aus dem saudischen Staatsfonds PIF sowie den Investmentfirmen Silver Lake und Affinity Partners, die Jared Kushner gehört, dem Schwiegersohn von Donald Trump. Als Grund galten schwache Spiele: Dragon Age: The Veilguard verfehlte die Erwartungen, Andromeda kam schlecht an, und der Live-Service-Shooter Anthem wurde in diesem Jahr endgültig abgeschaltet.",
+            "Mark Darrah, früher verantwortlich für Dragon Age, sieht die Schuld nicht allein beim Studio. In einem Interview mit Pembridge zitiert er einen Kollegen: EA erschieße niemanden, sondern lege eine Waffe auf den Tisch und frage jeden Tag, ob man sich selbst erschießen wolle, bis man irgendwann nachgebe. EA könne zwar sagen, man habe BioWare zu nichts gezwungen, „aber die Optionen auf dem Tisch waren alle schrecklich. Wir haben die am wenigsten schreckliche gewählt.“",
+            "Entscheidungen wie der Wechsel auf EAs Frostbite-Engine, die schnelle Produktion von Dragon Age 2 und die Veröffentlichung von Anthem seien Folgen der Finanzvorgaben gewesen. „Hat man uns gezwungen, Dragon Age 2 zu machen? Nein. Aber man hat uns gezwungen, irgendetwas zu machen.“ Was ein Nein bedeutet hätte, sei nie klar gewesen, habe sich aber bedrohlich angefühlt."
+          ],
+          "highlight": "EA könne zwar sagen, man habe BioWare zu nichts gezwungen, „aber die Optionen auf dem Tisch waren alle schrecklich. Wir haben die am wenigsten schreckliche gewählt.“",
+          "assessment": [
+            "Darrahs Bild ist drastisch, aber es beschreibt ein bekanntes Muster großer Publisher: Niemand gibt den Befehl, ein Spiel zu überstürzen, aber die Zahlen lassen keine andere Wahl. Am Ende steht das Studio als Schuldiger da.",
+            "Ganz entlasten kann er BioWare damit nicht, denn auch die eigene Führung hat Fehler gemacht. Die Geschichte von BioWare ist trotzdem ein Lehrstück darüber, wie man ein Studio mit großem kreativem Kapital über fünfzehn Jahre langsam aufzehrt."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/oLQDnah9YQyy4HVj6g3s6T-1920-80.jpg",
+            "alt": "Szene aus einem Dragon-Age-Spiel von BioWare",
+            "credit": "BioWare",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/gaming-industry/dragon-ages-former-boss-explains-that-poor-management-from-ea-led-to-bioware-shutting-down-because-the-options-on-the-table-were-all-terrible/"
+          }
+        },
+        {
+          "title": "„Das A24 der Spielebranche“: Christoph Hartmann will Massive Entertainment über Shooter hinausführen",
+          "lead": "Der frühere Amazon-Games-Chef leitet bei Ubisoft die Einheit hinter The Division, Ghost Recon und Splinter Cell. Er träumt von Rollenspielen, MMOs und Strategie.",
+          "body": [
+            "Christoph Hartmann, General Manager von Massive Entertainment, möchte die Ubisoft-Einheit zum „A24 der Videospiele“ machen, sagte er dem Branchenblatt Variety. Massive Entertainment hieß bis vor Kurzem Creative House 2 und bündelt Reihen wie Tom Clancy's The Division, Ghost Recon und Splinter Cell sowie neue Marken wie March of the Giants.",
+            "Massive solle „ein Label sein, das sich um die Core-Gamer kümmert“, sagte Hartmann. Leichter sei es zu sagen, was er nicht mache: kein Rennspiel, keinen Sport, keine Gelegenheitsspiele für Kinder. „Aber könnten wir eines Tages ein Rollenspiel machen? Ein MMO? Vielleicht sogar ein Strategiespiel? Sicher, es hängt alles an den richtigen Talenten.“ Sein Traum sei ein Ort, der wie das Filmstudio A24 Oscars gewinne und trotzdem kommerziell erfolgreich sei.",
+            "Hartmann war sieben Jahre bei Amazon und verließ den Konzern Anfang dieses Jahres. Amazon habe seinen Fokus auf Spiele verringert, das Herr-der-Ringe-MMO gestrichen und das Mehrspielerspiel King of Meat eingestellt. „Spiele können dort gerade nicht oberste Priorität sein. Für mich schon.“ Ubisoft dagegen sei ein Unternehmen, das „jeden Tag Spiele atmet“.",
+            "Bei Ubisoft läuft parallel ein großer Umbau. In der vergangenen Woche meldete der Konzern für das erste Halbjahr einen Rückgang der Netto-Buchungen um 16,5 Prozent, fasste zwei Creative Houses für Live-Service- und Gelegenheitsspiele zusammen und gründete mit Motherbrain eine eigene Tochter für KI-gestützte Spielinnovationen."
+          ],
+          "highlight": "Sein Traum sei ein Ort, der wie das Filmstudio A24 Oscars gewinne und trotzdem kommerziell erfolgreich sei.",
+          "assessment": [
+            "Der A24-Vergleich ist inzwischen eine Floskel der Spielebranche, aber bei Massive hat er einen Kern: Die Einheit hat bekannte Marken, ist klein genug für kurze Wege und braucht dringend ein Profil jenseits militärischer Shooter.",
+            "Ob Ubisoft mit sinkenden Buchungen und Sparkurs die Geduld für Experimente wie ein Strategiespiel aufbringt, ist die eigentliche Frage. A24 ist auch deshalb A24, weil es kleine Budgets und viele Versuche hat. Das passt schlecht zu Splinter Cell und The Division."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/massive_newspage_16x9_1200x675_1-jpg.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Figuren aus Splinter Cell, The Division, Ghost Recon und March of the Giants rund um das Logo von Massive Entertainment",
+            "credit": "Ubisoft",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Spielbergs erster Western: Paul Thomas Anderson schreibt, Jessie Buckley und Cillian Murphy spielen",
+          "lead": "Steven Spielberg dreht für Focus Features einen Western über zwei Flüchtige im amerikanischen Westen. Das Drehbuch nach Kevin Barrys Roman „The Heart in Winter“ stammt von Paul Thomas Anderson.",
+          "body": [
+            "Steven Spielberg hat Musicals, Science-Fiction-Epen, Abenteuerfilme und Biografien gedreht, aber nie einen Western, obwohl er immer wieder davon gesprochen hat, sich an dem Genre seines Vorbilds John Ford zu versuchen. Nun entwickelt er für Focus Features einen noch titellosen Film über zwei Flüchtige, die sich quer durch den amerikanischen Westen schlagen.",
+            "Die Besetzung ist hochkarätig: Jessie Buckley, die gerade den Oscar für „Hamnet“ gewonnen hat, Cillian Murphy, Oscarpreisträger für „Oppenheimer“, und Mark Rylance, Spielbergs häufiger Partner, der für „Bridge of Spies“ ausgezeichnet wurde. Das Drehbuch schreibt Paul Thomas Anderson, Regisseur von „Boogie Nights“, „There Will Be Blood“ und „One Battle After Another“. Vorlage ist Kevin Barrys Roman „The Heart in Winter“.",
+            "Anderson verfilmt seine Drehbücher sonst selbst, hat aber schon als Script Doctor für Ridley Scott („Napoleon“) und Martin Scorsese („Killers of the Flower Moon“ und das kommende „What Happens at Night“) gearbeitet. Produzieren werden Kristie Macosko Krieger, Sara Murphy, Anderson und Spielberg. Der Film soll 2028 ins Kino kommen.",
+            "IndieWire weist darauf hin, dass Spielberg einen Erfolg gebrauchen könnte. „Disclosure Day“, seine Rückkehr zum Sommerblockbuster, blieb an den Kinokassen hinter den Erwartungen zurück, und auch „The Fabelmans“ und „West Side Story“ erreichten trotz sehr guter Kritiken nur ein kleines Publikum."
+          ],
+          "highlight": "Das Drehbuch schreibt Paul Thomas Anderson, Regisseur von „Boogie Nights“, „There Will Be Blood“ und „One Battle After Another“.",
+          "assessment": [
+            "Auf dem Papier ist das die aufregendste Ankündigung des Filmjahres: zwei der wichtigsten amerikanischen Regisseure an einem Projekt, dazu ein Ensemble aus drei Oscarpreisträgern. Spannend ist die Mischung, denn Spielbergs Wärme und Andersons Hang zu kantigen, getriebenen Figuren sind nicht dasselbe.",
+            "Kevin Barrys Roman ist eher eine raue Liebes- und Fluchtgeschichte als ein klassischer Cowboyfilm. Gerade das könnte Spielberg den Zugang zum Genre geben, ohne John Ford bloß nachzustellen. Bis 2028 ist es allerdings noch weit."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/steven-spielberg-paul-thomas-anderson-teaming-on-western-film-1235230075/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2260957539.jpg?w=1600",
+            "alt": "Steven Spielberg und Paul Thomas Anderson beim Oscar-Nominierten-Lunch im Februar 2026",
+            "credit": "Frazer Harrison / Getty Images",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/steven-spielberg-paul-thomas-anderson-teaming-on-western-film-1235230075/"
+          }
+        },
+        {
+          "title": "Finaler Trailer zu „Avengers: Doomsday“: Viel Personal, wenig Begeisterung",
+          "lead": "Marvel hat den letzten Trailer zum 165 Minuten langen Crossover der Russo-Brüder veröffentlicht. Im Netz überwiegt Kritik, vor allem an der grauen Optik und einer Gruppenaufnahme, die nicht zusammenpasst.",
+          "body": [
+            "Gut drei Wochen vor dem Kinostart am 18. Dezember hat Marvel den finalen Trailer zu „Avengers: Doomsday“ veröffentlicht. Der Film von Anthony und Joe Russo dauert 165 Minuten und bringt die Avengers, die X-Men und die Fantastic Four gegen Doctor Doom zusammen, gespielt von Robert Downey Jr. Im Trailer sind unter anderem Chris Evans als Steve Rogers, Pedro Pascal als Reed Richards und Channing Tatum als Gambit zu sehen.",
+            "Die Reaktionen sind laut IndieWire überwiegend negativ. Ein Kritikpunkt ist der Moment, in dem Cyclops „To me, my X-Men!“ ruft, und Storm gar nicht dabei ist. Vor allem aber stört viele die große Schlussaufnahme, die an die berühmte Kreisfahrt um die versammelten Avengers aus dem ersten Film von 2012 erinnern soll. Diesmal stehen die Helden in einer grauschwarzen Ödnis, die IndieWire mit einem fehlerhaften Ladebildschirm vergleicht.",
+            "Nutzer weisen darauf hin, dass Steve Rogers in einem völlig anderen Licht steht als die Figuren neben ihm. Nichts deute darauf hin, dass die Schauspieler gemeinsam vor demselben Greenscreen standen, ein Vorwurf, der die Produktion schon länger begleitet. IndieWire sieht darin ein typisches Problem: Wer möglichst flexibel dreht und die Effekte bis zuletzt überarbeitet, erhält flache, schlecht kadrierte Bilder, in denen kaum Farbe übrig bleibt.",
+            "Einschränkend schreibt das Blatt, der Trailer reiße die Szene aus dem Zusammenhang, im Film könne sie eine andere Funktion haben, etwa als Vorbereitung einer Wendung über mehrere Zeitlinien."
+          ],
+          "highlight": "Nichts deute darauf hin, dass die Schauspieler gemeinsam vor demselben Greenscreen standen, ein Vorwurf, der die Produktion schon länger begleitet.",
+          "assessment": [
+            "Ein Trailer, der vor allem durch seine Bildfehler auffällt, ist kein gutes Zeichen für einen Film, der Marvel aus der Superheldenmüdigkeit holen soll. Die Aufnahme mit allen Helden ist als Höhepunkt gedacht, wirkt aber wie eine Collage aus verschiedenen Drehtagen.",
+            "Kommerziell wird das kaum schaden, „Doomsday“ wird zu Weihnachten sehr viel Geld einspielen. Die Frage ist eher, ob die Kritik am Look nach dem Start lauter wird oder ob der fertige Film das Problem auflöst. Am besten selbst ansehen: Der Trailer ist unten verlinkt."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/"
+            },
+            {
+              "name": "Trailer: Avengers: Doomsday",
+              "url": "https://www.youtube.com/watch?v=Wb8Tq_HD4E8"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDAVDO_WD003.jpg?w=1600",
+            "alt": "Szene aus „Avengers: Doomsday“",
+            "credit": "Walt Disney Co. / Courtesy Everett Collection",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/"
+          }
+        },
+        {
+          "title": "Kein Animations-Oscar für den ersten KI-Kinofilm: Academy schließt „Gods Don’t Give Gifts“ aus",
+          "lead": "Der komplett mit generativer KI erzeugte Film des Youtubers Gossip Goblin fehlt auf der Liste der 38 zugelassenen Animationsfilme. Die Produzenten wollen Einspruch einlegen.",
+          "body": [
+            "„Gods Don’t Give Gifts“ gilt als erster vollständig mit generativer KI erstellter Film, der regulär ins Kino kommt. Er war für den Oscar als bester Animationsfilm eingereicht, fehlte aber auf der Liste der 38 zugelassenen Titel, die die Academy am Montag veröffentlichte. Nach Informationen von IndieWire befand der Exekutivausschuss der Animationssparte, dass der Film nicht der Definition eines Animationsfilms entspricht.",
+            "Diese Definition verlangt, dass Figuren oder Objekte durch Bewegung zum Leben erweckt werden, die „mit menschlichen Mitteln“ geschaffen wurde. Animation sei „die Kunst der menschlichen Erschaffung und Manipulation von Bildern“. Mindestens 75 Prozent der Laufzeit müssen aus Animation bestehen.",
+            "Produzent Edward Saatchi von Fable Studios kündigte an, er und Regisseur Zack London alias Gossip Goblin würden Einspruch einlegen. Er verweist auf Richard Linklaters Rotoskopie-Film „Apollo 10 1/2“, der zunächst abgelehnt und nach einem Einspruch doch zugelassen wurde. Der Film ist zusätzlich in Kategorien wie Regie, adaptiertes Drehbuch, Effekte und Ton eingereicht. Saatchi bringt eine eigene Kategorie ins Spiel: „Ist es Zeit für einen ‚Besten KI-Film‘?“",
+            "Die Macher betonen die menschliche Arbeit: Das Drehbuch stammt von London, die Figuren sind zwar KI-generiert, werden aber von echten Schauspielern gesprochen, und ein Team von 30 bis 35 Leuten hat jahrelang daran gearbeitet. Auch die Sängerin Grimes hat einen Auftritt. Nach den diesjährigen Regeln der Academy sind nur Rollen, die nachweislich von Menschen mit deren Einverständnis gespielt werden, für Schauspielpreise zugelassen, Drehbücher müssen von Menschen stammen. Der Film startet am 4. Dezember in einer Oscar-qualifizierenden Auswertung und läuft ab dem 22. Januar breiter."
+          ],
+          "highlight": "Diese Definition verlangt, dass Figuren oder Objekte durch Bewegung zum Leben erweckt werden, die „mit menschlichen Mitteln“ geschaffen wurde.",
+          "assessment": [
+            "Die Academy zieht hier eine klare Linie, und sie stützt sich auf eine Regel, die schon vorher galt. Animation wird als Handwerk definiert, nicht als Ergebnis. Das ist folgerichtig, denn sonst wäre die Kategorie bald eine Wertung darüber, wessen Modell die schöneren Bilder rendert.",
+            "Saatchis Vorschlag einer eigenen KI-Kategorie ist geschickt, weil er die Debatte von der Frage „ob“ zur Frage „wo“ verschiebt. Ich halte es für wahrscheinlicher, dass solche Filme erst einmal draußen bleiben. Der Einspruch wird zeigen, wie fest die Animationssparte dabei steht."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=1600",
+            "alt": "Standbild aus dem KI-Film „Gods Don’t Give Gifts“",
+            "credit": "Fable Studios",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/"
+          }
+        },
+        {
+          "title": "International Emmys: „Carême“ ist die beste Dramaserie, ein Preis geht nach Deutschland",
+          "lead": "Bei den 54. International Emmy Awards in New York gewann die französische Kochserie „Carême“, bei den Komödien die argentinische Netflix-Satire „División Palermo“. Großbritannien holte neun der 16 Preise.",
+          "body": [
+            "Die 54. International Emmy Awards wurden am Montagabend im New York Hilton Midtown verliehen, moderiert von Michael Urie aus „Shrinking“. 64 Nominierte aus 22 Ländern konkurrierten in 16 Kategorien. Am erfolgreichsten war Großbritannien mit neun Trophäen.",
+            "Beste Dramaserie wurde die französische Serie „Carême“ von Apple TV über den Koch Antonin Carême. Sie setzte sich gegen Steven Knights Boxdrama „A Thousand Blows“ von Hulu, das argentinische Politdrama „Menem“ von Prime Video und das indische Sportdrama „Real Kashmir Football Club“ durch. Bei den Komödien gewann „División Palermo“ aus Argentinien. Netflix war mit neun Nominierungen als Favorit angereist und hatte alle vier Komödien-Nominierungen, gewann aber nur diesen einen Preis.",
+            "Als bester Schauspieler wurde Bobby Schofield für das BBC-Drama „Unforgivable“ ausgezeichnet, er schlug unter anderem Ricardo Darín aus „The Eternaut“. Beste Schauspielerin wurde die Belgierin Mona Mina Leon für die flämische Dramedy „Holy Sh!t“. Als beste Miniserie gewann „Prisoner 951“ von der BBC, als beste Dokumentation „Louis Theroux: The Settlers“.",
+            "Aus Deutschland kam ein Gewinner: In der Kategorie Kunstprogramm siegte „Der Talentierte Mr. F“, produziert von der Neue Flimmer GmbH für MDR, BR, ARD Kultur, RBB und HR. Ehrenpreise gingen an die frühere Netflix-Programmchefin Bela Bajaria und an den Österreicher Gerhard Zeiler, langjähriger internationaler Chef von Warner Bros. Discovery."
+          ],
+          "highlight": "Netflix war mit neun Nominierungen als Favorit angereist und hatte alle vier Komödien-Nominierungen, gewann aber nur diesen einen Preis.",
+          "assessment": [
+            "Die International Emmys bleiben ein guter Gradmesser dafür, wo außerhalb der USA gutes Fernsehen entsteht, und die Antwort lautet wie fast jedes Jahr: in Großbritannien. Neun Preise sind ein deutliches Zeichen für die Stärke der BBC und der britischen Produktionsfirmen.",
+            "Dass Netflix trotz der meisten Nominierungen fast leer ausgeht, zeigt, dass Masse bei diesen Juroren wenig zählt. Und der Preis für eine ARD-Kulturproduktion ist eine schöne Fußnote, die hierzulande kaum jemand mitbekommen wird."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/05/Careme_Photo_010301-H-2025.jpg?w=1296&h=730&crop=1",
+            "alt": "Szene aus der französischen Serie „Carême“",
+            "credit": "Apple TV+",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/"
+          }
+        },
+        {
+          "title": "„Ted Lasso“ bekommt eine fünfte Staffel, die Dreharbeiten sollen im April beginnen",
+          "lead": "Apple TV hat seine erfolgreichste Serie offiziell verlängert. Nach dem Finale der vierten Staffel ist allerdings offen, wie viel man noch von Roy Kent und Keeley sieht.",
+          "body": [
+            "Apple TV hat „Ted Lasso“ um eine fünfte Staffel verlängert. Laut Deadline ist der Drehstart für den 14. April geplant. Die Verlängerung stand seit dem Finale der vierten Staffel Anfang Oktober aus, galt aber nie als gefährdet: Die Serie ist weiterhin Apples größter weltweiter Hit.",
+            "Verzögert hatten sich die Verhandlungen, weil die Serie von einem externen Studio kommt, Warner Bros. Television, und weil Hauptdarsteller und Produzent Jason Sudeikis seine Schöpfung genau schützt. Dazu kam, dass das Staffelfinale am selben Tag erschien, an dem die Übernahme von Warner Bros. Discovery durch Paramount abgeschlossen wurde. Einen Writers Room gibt es erst jetzt, die Geschichten der neuen Staffel stehen also noch nicht fest.",
+            "Die vierte Staffel kam nach drei Jahren Pause und war laut Apple die meistgesehene Staffel einer zurückkehrenden Apple-Komödie in den ersten 54 Tagen. In den USA erreichte sie im September 3,6 Milliarden Streamingminuten, auf Rotten Tomatoes im Schnitt 90 Prozent. Ted übernahm darin ein Frauenteam der zweiten Liga, im Finale trat er als Cheftrainer zurück und machte Alice Chilton, gespielt von Tanya Reynolds, zu seiner Nachfolgerin.",
+            "Offen ist die Zukunft von Brett Goldstein als Roy Kent, der im Finale als Trainer zu Chelsea wechselte. Goldstein ist auch mit „Shrinking“ und der kommenden Prime-Video-Serie „Escorted“ beschäftigt. Brendan Hunt, der Coach Beard spielt, sagte Deadline, der Wechsel sei eine Art Versicherung: „Es gibt keine Erwartung, Roy und Keeley zu verlieren. Aber sie sind zwei sehr beschäftigte Menschen.“"
+          ],
+          "highlight": "Die Verlängerung stand seit dem Finale der vierten Staffel Anfang Oktober aus, galt aber nie als gefährdet: Die Serie ist weiterhin Apples größter weltweiter Hit.",
+          "assessment": [
+            "Wenig überraschend, aber für Apple wichtig: Der Streamingdienst hat kaum Serien, die so zuverlässig Abonnenten halten. Dass „Ted Lasso“ nach dem eigentlich abgeschlossenen dritten Kapitel weiterlebt, ist ein Geschäftsentscheid, den die gute vierte Staffel nachträglich gerechtfertigt hat.",
+            "Spannend wird, ob die Serie den Generationswechsel wirklich wagt und Ted in die zweite Reihe rückt. Das wäre der mutigere und wohl auch der bessere Weg."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/10/Ted_Lasso_Photo_041006.jpg?w=1024",
+            "alt": "Abbie Hern, Brendan Hunt, Jason Sudeikis, Tanya Reynolds, Jude Mack und Aisling Sharkey in „Ted Lasso“",
+            "credit": "Apple TV",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Gladiatorenvase und Mittelmeer-Kindheit: Britanniens erste römische Hauptstadt war bunter als gedacht",
+          "lead": "Forscher aus Durham haben erstmals Brandbestattungen aus dem römischen Colchester auf die Herkunft der Toten untersucht. Mehrere wuchsen tausende Kilometer entfernt auf.",
+          "body": [
+            "Colchester, damals Camulodunum, wurde nach der römischen Eroberung im Jahr 43 die erste Hauptstadt der Provinz Britannia. Die Stadt zog Händler und Verwaltungsbeamte an und war eng mit dem Kontinent verbunden. Wer dort lebte, ließ sich bisher kaum feststellen, denn im ersten Jahrhundert römischer Herrschaft wurden die Toten in Britannien vor allem verbrannt. Die Hitze des Scheiterhaufens zerstört einen Großteil der Spuren, mit denen Forscher sonst die Herkunft eines Menschen bestimmen.",
+            "Joanna Moore und Janet Montgomery vom Archäologie-Institut der Universität Durham haben gemeinsam mit dem Geowissenschaftler Geoff Nowell sowie Kollegen aus Reading und vom York Museums Trust ein neues Verfahren entwickelt. Zum ersten Mal kombinierten sie bei römisch-britischen Brandresten die Analyse zweier chemischer Marker, der Strontium- und der Bleiisotope. Untersucht wurden 22 Bestattungen aus der Zeit vor etwa 2000 Jahren.",
+            "Das Ergebnis: Mehrere der Toten wuchsen nicht in Britannien auf. Drei hatten chemische Signaturen, die auf eine Kindheit im Mittelmeerraum hindeuten, etwa in Italien, Spanien oder im heutigen Libanon. Besonders auffällig ist der Mann, dessen Überreste in der berühmten Colchester-Vase beigesetzt wurden. Das Gefäß zeigt Gladiatorenkämpfe und Tierhetzen, und der Tote stammte aus dem Mittelmeerraum. Die Forscher vermuten, dass er Gladiatoren ausbildete oder als wohlhabender Gönner Kämpfe finanzierte.",
+            "Die Studie ist Teil des Projekts „Decoding the Roman Dead“ und erschien in Royal Society Open Science. Das Verfahren könnte künftig helfen, die Geschichten vieler weiterer Menschen zu erzählen, deren Überreste nach der Verbrennung bisher stumm blieben."
+          ],
+          "highlight": "Besonders auffällig ist der Mann, dessen Überreste in der berühmten Colchester-Vase beigesetzt wurden.",
+          "assessment": [
+            "Dass das römische Britannien eine Einwanderungsgesellschaft war, weiß man aus Inschriften und Grabsteinen. Neu ist, dass sich das jetzt auch für die vielen Menschen nachweisen lässt, die verbrannt wurden und deshalb bisher in keiner Statistik auftauchten. Das ist der eigentliche Fortschritt dieser Studie, mehr als jede einzelne Biografie.",
+            "Die Verbindung zwischen der Gladiatorenvase und einem Mann aus dem Süden ist trotzdem eine schöne Pointe: Hier passt der archäologische Befund einmal genau zu dem Bild, das das Grabgefäß selbst erzählt."
+          ],
+          "sources": [
+            {
+              "name": "Durham University",
+              "url": "https://www.dur.ac.uk/news-events/latest-news/2026/11/ancient-remains-reveal-britains-first-roman-capital-was-surprisingly-diverse-/"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/23/study-suggests-people-traveled-long-distances-to-roman-britains-first-capital/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261123-England-Roman-Urn.jpg",
+            "alt": "Römische Urne, in der verbrannte menschliche Überreste beigesetzt waren",
+            "credit": "Colchester Museums / Douglas Atfield",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeology.org/news/2026/11/23/study-suggests-people-traveled-long-distances-to-roman-britains-first-capital/"
+          }
+        },
+        {
+          "title": "Homo erectus hielt sich in Südchina 200.000 Jahre länger, womöglich neben einer zweiten Menschenart",
+          "lead": "Neun Zähne aus zwei Höhlen in Guangxi zeigen, dass Homo erectus dort noch vor 184.000 Jahren lebte, und zwar im tropischen Regenwald. Ein Zahn passt zu keiner bekannten Art.",
+          "body": [
+            "Bisher ging die Forschung davon aus, dass Homo erectus auf dem asiatischen Festland um 400.000 Jahre vor heute weitgehend verschwunden war. Ein internationales Team, darunter Forscher der Universität Kopenhagen, hat nun neun fossile Zähne aus den Höhlen Baxian und Naxian im Gebiet Chongzuo in der südchinesischen Region Guangxi untersucht. Sie sind zwischen 324.000 und 184.000 Jahre alt und damit die jüngsten sicher datierten Homo-erectus-Fossilien vom asiatischen Festland.",
+            "Weil DNA in warmem, feuchtem Klima selten länger als einige tausend Jahre überdauert, analysierten die Forscher Proteine aus dem Zahnschmelz, die viel länger erhalten bleiben. In allen fünf untersuchten Zähnen fanden sie Originalmaterial. Vier trugen eine Veränderung im Protein Ameloblastin, die bisher nur von älteren Homo-erectus-Funden aus China bekannt war, und wichen an einer zweiten Stelle von früheren Proben ab. Das deutet auf eine bisher unbekannte Population hin. Messungen der Zahnform bestätigten die Zuordnung und erweiterten sie auf insgesamt acht Zähne.",
+            "Der fünfte Zahn mit der Bezeichnung PA1796 passt nicht ins Bild. Seine Form unterscheidet sich von Homo erectus, Neandertalern und modernen Menschen, und ihm fehlt die typische Homo-erectus-Sequenz. Welcher Art er angehörte, ist offen, die Denisovaner, auch Homo longi genannt, sind eine Möglichkeit. Frido Welker vom Globe Institute in Kopenhagen, korrespondierender Autor der Studie, sagt, der Zahn zeige, dass „mindestens zwei verschiedene Menschengruppen Seite an Seite lebten“.",
+            "Chemische Spuren in den Zähnen und die vielen Tierfossilien aus den Höhlen zeigen außerdem, dass Homo erectus dort im tropischen Regenwald lebte, einem Lebensraum mit knapper Nahrung und dichter Vegetation. Bisher hatte man angenommen, dass nur der moderne Mensch dort zurechtkam. Es ist der erste Nachweis einer anderen Menschenart in einem solchen Umfeld."
+          ],
+          "highlight": "Sie sind zwischen 324.000 und 184.000 Jahre alt und damit die jüngsten sicher datierten Homo-erectus-Fossilien vom asiatischen Festland.",
+          "assessment": [
+            "Die Studie ist ein gutes Beispiel dafür, wie die Proteinanalyse die Frühgeschichte des Menschen gerade umschreibt. Wo DNA längst zerfallen ist, liefern Eiweiße aus dem Zahnschmelz noch belastbare Hinweise auf Verwandtschaft. Welker sagt selbst, dass das vor zehn Jahren niemand für möglich gehalten hätte.",
+            "Das Bild, das sich ergibt, ist das eines vielstimmigen Südostasiens, in dem mehrere Menschenarten lange nebeneinander existierten. Die einfache Erzählung, in der eine Art die andere ablöst, wird damit erneut brüchiger."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/homo-erectus-lived-alongside-denisovans-in-southern-china/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/homo-erectus-in-africa-earlier-1.jpg",
+            "alt": "Modell eines Homo-erectus-Mannes im Naturhistorischen Museum Wien",
+            "credit": "Jakub Hałun, CC BY-SA 4.0",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/homo-erectus-lived-alongside-denisovans-in-southern-china/"
+          }
+        },
+        {
+          "title": "Autos gegen die Luftwaffe: Archäologen bergen Wracks aus dem Mai 1940 in Soesterberg",
+          "lead": "Auf dem früheren Fliegerhorst Soesterberg bei Utrecht sind vier Autowracks aus dem Zweiten Weltkrieg aufgetaucht. Sie sollten wohl die Landebahn für deutsche Flugzeuge blockieren.",
+          "body": [
+            "Auf dem ehemaligen Militärflugplatz Soesterberg in den Niederlanden haben Archäologen zwei Autowracks aus der Zeit des Zweiten Weltkriegs ausgegraben, ein drittes soll bald folgen. Der Archäologe Sebastiaan van der Gaag nennt den Fund laut NL Times, das sich auf den Sender NOS beruft, eine Seltenheit. Entdeckt hatten die vier Wagen Sprengstoffexperten, die das Gelände zu Beginn des Jahres nach Blindgängern absuchten. Das vierte Wrack liegt außerhalb des Baugebiets und bleibt im Boden.",
+            "Eines der Fahrzeuge könnte ein Mercedes-Benz 630 sein, ein großer Luxuswagen aus den 1920er-Jahren. Motoren, Räder und Sitze fehlen, die Autos wurden offenbar ausgeschlachtet, bevor man sie zurückließ. Die Archäologen vermuten, dass sie im Mai 1940, beim deutschen Überfall auf die Niederlande, auf die Startbahn gestellt wurden, um deutsche Flugzeuge an der Landung zu hindern. Die Wehrmacht besetzte den Platz trotzdem.",
+            "Die Besatzer wollten Soesterberg zu einem deutlich größeren Flugplatz ausbauen und hoben große Gruben aus, um Sand zu gewinnen und das Gelände einzuebnen. In diese Gruben wurden die Autos wahrscheinlich geworfen. Die Anwohner rund um den Platz mussten ihre Häuser verlassen, die Archäologen fanden auch Fundamente und Keller dieser Gebäude. Alliierte Bomber griffen den Flugplatz wiederholt an, beim Abzug im April 1945 zerstörten die Deutschen Startbahnen und Infrastruktur. Nach dem Krieg nutzte die niederländische Luftwaffe den Platz bis 2008.",
+            "Aus einer Abfallgrube des früheren Ausflugslokals Soesterdal stammen Speisekarten aus Metall, Töpfe, ein Kessel und Porzellan. Die Karten verraten, was Ausflügler vor dem Krieg bestellten, etwa Erbsensuppe und einen Eisbecher namens Soesterdal-Coupe. Auf dem Gelände entsteht das Wohngebiet De Vliegbasis mit rund 550 Wohnungen, Baubeginn soll 2028 sein."
+          ],
+          "highlight": "Die Archäologen vermuten, dass sie im Mai 1940, beim deutschen Überfall auf die Niederlande, auf die Startbahn gestellt wurden, um deutsche Flugzeuge an der Landung zu hindern.",
+          "assessment": [
+            "Ein kleiner Fund, der eine große Szene greifbar macht: Menschen, die mit ausgeschlachteten Autos versuchen, eine Invasion aus der Luft aufzuhalten. Militärisch war das nahezu wirkungslos, als Zeugnis der ersten Kriegstage ist es umso eindrucksvoller.",
+            "Schön ist, dass die Grabung neben dem Kriegsgeschehen auch den Alltag davor zeigt. Die Speisekarte mit Erbsensuppe und Eisbecher erinnert daran, dass dieser Ort ein Ausflugsziel war, bevor er zum Ziel von Bombern wurde."
+          ],
+          "sources": [
+            {
+              "name": "NL Times",
+              "url": "https://nltimes.nl/2026/11/20/archaeologists-excavate-rare-wwii-car-wrecks-former-soesterberg-air-base"
+            },
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/23/cars-unearthed-at-wwii-airfield-in-the-netherlands/"
+            }
+          ],
+          "image": {
+            "url": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-11/Koningin_Wilhelmina_staande_in_een_auto_tijdens_de_ceremonie%2C_Bestanddeelnr_255-7686.jpg?h=50c6df76",
+            "alt": "Historisches Foto: Königin Wilhelmina steht während einer Zeremonie in einem offenen Auto",
+            "credit": "NL Times (Archivfoto)",
+            "license": "Artikelbild NL Times",
+            "source": "https://nltimes.nl/2026/11/20/archaeologists-excavate-rare-wwii-car-wrecks-former-soesterberg-air-base"
+          }
+        },
+        {
+          "title": "Eine Kieferwulst wie beim Zahnarzt: Australopithecus-Fossil zeigt einen über zwei Millionen Jahre alten Torus",
+          "lead": "Forscher der La Trobe University haben an einem jugendlichen Australopithecus africanus aus Sterkfontein eine ausgeprägte Knochenwulst im Unterkiefer entdeckt. Viele heutige Menschen haben sie auch.",
+          "body": [
+            "Zahnärzte sehen sie ständig, in Fossilberichten taucht sie kaum auf: eine harmlose Knochenwulst an der Zungenseite des Unterkiefers, der sogenannte Torus mandibularis. Forscher der La Trobe University in Australien haben nun ein besonders ausgeprägtes Exemplar an dem Fossil Sts 52b aus Sterkfontein in Südafrika beschrieben. Es gehört zu Australopithecus africanus und stammt aus Schichten, die zwischen 2,8 und 2,1 Millionen Jahre alt sind.",
+            "Der Kiefer gehörte einem Heranwachsenden: Die zweiten Backenzähne waren durchgebrochen, die Weisheitszähne noch nicht. Die Wulst zeigt sich auf beiden Seiten, beginnt im Bereich von Eckzahn und Vormahlzähnen und zieht sich am Kieferknochen entlang nach hinten. Die Forscher ordnen sie dem Grad 4 zu, sie besteht überwiegend aus kompaktem Knochen und ähnelt stark den Fällen, die heute in Zahnarztpraxen auffallen.",
+            "Überraschend ist vor allem das Alter des Individuums. Eine solche Wulst wird oft mit jahrelanger Kaubelastung oder Zähneknirschen erklärt, und Berichte betreffen meist Erwachsene. Hier tritt sie voll ausgebildet bei einem jungen Australopithecus auf, kein anderes jugendliches Fossil dieser Art hat eine. Paranthropus robustus dagegen, mit extrem kräftigen Kiefern und Kaumuskeln, zeigt bei keinem bekannten Exemplar einen Torus. Starke Kaukräfte allein erklären die Wulst also nicht.",
+            "Erstautor Luca Morris-Obst, Doktorand an der La Trobe University, nennt den Fund höchst unerwartet. Das Team vermutet ein Zusammenspiel genetischer, umweltbedingter und funktioneller Faktoren. Frühere mögliche Beispiele an Australopithecus afarensis aus Hadar in Äthiopien seien bestenfalls schwach ausgeprägt gewesen. Die Studie erschien in Evolutionary Human Sciences."
+          ],
+          "highlight": "Starke Kaukräfte allein erklären die Wulst also nicht.",
+          "assessment": [
+            "Kein spektakulärer Fund, aber einer, der zeigt, wie viel ein einzelner Kiefer erzählen kann. Eine gängige Erklärung für eine heute verbreitete Eigenheit, nämlich die Belastung durch Kauen, wird durch ein mehr als zwei Millionen Jahre altes Fossil eines Jugendlichen ziemlich infrage gestellt.",
+            "Und es hat etwas Rührendes, wenn ein entfernter Verwandter dieselbe harmlose Eigenheit trägt, über die man beim Zahnarzt spricht."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/two-million-year-old-jaw-ridge-in-australopithecus-fossil/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/jaw-ridge-in-australopithecus-fossil-1.jpg",
+            "alt": "Gesichtsschädel und Unterkiefer des Australopithecus-Fossils Sts 52 von vorn und von der Seite",
+            "credit": "L. Morris-Obst et al., Evolutionary Human Sciences (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/two-million-year-old-jaw-ridge-in-australopithecus-fossil/"
+          }
+        }
+      ]
+    }
+  ]
+}

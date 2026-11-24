@@ -1,5 +1,37 @@
 [
   {
+    "nr": 48,
+    "date": "2026-11-24",
+    "updated": "2026-11-24T07:49:00+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 5,
+      "geschichte": 4
+    },
+    "titles": [
+      "Neu im Fall Nvidia: Jensen Huang ist zurück, nach einem Anruf des Präsidenten",
+      "Claude Ship: Anthropic lässt KI-Agenten Code prüfen, reparieren und freigeben",
+      "Virginia und Oregon verklagen SpaceX: Grok erzeuge weiter sexualisierte Bilder von Frauen und Kindern",
+      "CrowdStrike kauft Zscaler für 44 Milliarden Dollar, die größte Übernahme der Sicherheitsbranche",
+      "Amazon zahlt 7,5 Milliarden Dollar für Decart und rüstet sich gegen Nvidia",
+      "Neu zu GTA 6: Sony meldet den größten Start der PlayStation-Geschichte mit mehr als 39 Millionen Spielern",
+      "Activision patentiert NPCs, die aus dem Voice-Chat der Spieler lernen",
+      "Der Hacker hinter den frühen GTA-6-Leaks ist verurteilt und kommt trotzdem frei",
+      "Nach dem Aus für BioWare: Ex-Dragon-Age-Chef Mark Darrah gibt EA die Schuld",
+      "„Das A24 der Spielebranche“: Christoph Hartmann will Massive Entertainment über Shooter hinausführen",
+      "Spielbergs erster Western: Paul Thomas Anderson schreibt, Jessie Buckley und Cillian Murphy spielen",
+      "Finaler Trailer zu „Avengers: Doomsday“: Viel Personal, wenig Begeisterung",
+      "Kein Animations-Oscar für den ersten KI-Kinofilm: Academy schließt „Gods Don’t Give Gifts“ aus",
+      "International Emmys: „Carême“ ist die beste Dramaserie, ein Preis geht nach Deutschland",
+      "„Ted Lasso“ bekommt eine fünfte Staffel, die Dreharbeiten sollen im April beginnen",
+      "Gladiatorenvase und Mittelmeer-Kindheit: Britanniens erste römische Hauptstadt war bunter als gedacht",
+      "Homo erectus hielt sich in Südchina 200.000 Jahre länger, womöglich neben einer zweiten Menschenart",
+      "Autos gegen die Luftwaffe: Archäologen bergen Wracks aus dem Mai 1940 in Soesterberg",
+      "Eine Kieferwulst wie beim Zahnarzt: Australopithecus-Fossil zeigt einen über zwei Millionen Jahre alten Torus"
+    ]
+  },
+  {
     "nr": 47,
     "date": "2026-11-23",
     "updated": "2026-11-23T07:49:43+01:00",
