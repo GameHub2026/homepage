@@ -1,0 +1,671 @@
+{
+  "nr": 49,
+  "date": "2026-11-26",
+  "intro": "Die US-Behörde FCC gibt SpaceX grünes Licht für eine Million Rechenzentrums-Satelliten, 42 Bundesstaaten wehren sich gegen den Verkauf privater Chats von Character.ai, und bei Nvidia schaut nun auch die Ratingagentur S&P genau hin. Im Gaming lässt EA einen toten Kommentator per KI sprechen, während Ubisoft-Teams begründen müssen, warum sie keine KI nutzen. Dazu Thanksgiving an der Kinokasse, der Tod von Veruschka und ein 3400 Jahre alter Fluch gegen die Chaosschlange aus Theben.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Eine Million Rechenzentren im All: Die FCC genehmigt SpaceX das Starmind-Netz",
+          "lead": "Die US-Telekommunikationsbehörde FCC hat SpaceX unter Auflagen erlaubt, bis zu eine Million Satelliten als Rechenzentren für KI in den Orbit zu bringen. Einwände von Amazon, Viasat und Astronomen wies sie größtenteils zurück.",
+          "body": [
+            "Die Federal Communications Commission hat SpaceX am Mittwoch eine bedingte Genehmigung für eine Konstellation von bis zu einer Million Satelliten erteilt. Das System heißt Starmind und soll Rechenzentren für künstliche Intelligenz in die Erdumlaufbahn verlagern. Ars Technica rechnet vor, dass sich die Zahl der Satelliten im Orbit damit ungefähr verfünfzigfachen würde, sollte die Konstellation vollständig gebaut werden.",
+            "FCC-Chef Brendan Carr sprach von einer „kühnen neuen Grenze“ für die Recheninfrastruktur, die Amerikas Führungsrolle sichern solle. Elon Musk bedankte sich auf X: Das werde „ein großer Gewinn für Amerika und die Welt“. Die Entscheidung fiel einen Tag vor Thanksgiving und gilt als großer regulatorischer Sieg für Musk, der sich eng an die Trump-Regierung gebunden hat.",
+            "Widerstand gab es reichlich. Amazon, das mit Kuiper einen Konkurrenten zu Starlink aufbaut, nannte den Antrag eher „hochfliegende Ambition als echten Plan“, dem grundlegende Details fehlten. Auch Viasat, die American Astronomical Society und die Secure World Foundation warnten vor Kollisionsrisiken, Weltraumschrott, Funkstörungen, Luftverschmutzung durch verglühende Satelliten und Beeinträchtigungen der Astronomie. Rund 1.500 öffentliche Kommentare gingen ein. Die FCC erklärte mehrere dieser Bedenken für außerhalb ihrer Zuständigkeit, etwa die Umweltfolgen der vielen nötigen Raketenstarts.",
+            "Ganz ohne Auflagen kommt SpaceX nicht davon. Die Satelliten sollen in sechs Bahnhöhen zwischen etwa 500 und 1.000 Kilometern kreisen. Für Satelliten oberhalb von 600 Kilometern wollte SpaceX eine Ausnahme von der Regel, dass ausgediente Satelliten binnen fünf Jahren in der Atmosphäre verglühen müssen, und sie stattdessen in andere Erdumlaufbahnen oder sogar in eine Bahn um die Sonne schieben. Diese Ausnahme verweigerte die FCC vorerst, weil SpaceX zu wenige Informationen geliefert habe.",
+            "Der Zeitrahmen ist großzügig. SpaceX hat sieben Jahre Zeit für den ersten funktionierenden Starmind-Satelliten, bis November 2035 für 100.000 Satelliten und bis November 2040 für die gesamte Konstellation. Ob Rechenzentren im All technisch und wirtschaftlich überhaupt funktionieren, ist damit nicht beantwortet: Herstellung und Starts müssten drastisch billiger werden, die Kühlung von Prozessoren im Vakuum ist ungelöst, und auch die Finanzierung von Chips für den Orbit steht noch aus."
+          ],
+          "highlight": "Ars Technica rechnet vor, dass sich die Zahl der Satelliten im Orbit damit ungefähr verfünfzigfachen würde, sollte die Konstellation vollständig gebaut werden.",
+          "assessment": [
+            "Meiner Ansicht nach ist das weniger eine technische als eine politische Entscheidung. Die FCC hat einen Antrag durchgewunken, dessen Kern, nämlich ob Rechenzentren im Orbit überhaupt sinnvoll sind, niemand belegen kann, und die gewichtigsten Einwände einfach für nicht zuständig erklärt. Das passt zu einer Regierung, die Musk wohlgesonnen ist.",
+            "Gefährlich ist vor allem der Präzedenzfall: Wer sich die Bahnen und Frequenzen für eine Million Satelliten sichert, blockiert sie auch für andere, selbst wenn am Ende nur ein Bruchteil fliegt. Der Himmel ist eine gemeinsame Ressource, und hier wird er sehr großzügig an ein einzelnes Unternehmen vergeben."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+            "alt": "Künstlerische Darstellung eines Starmind-Satelliten von SpaceX im Erdorbit",
+            "credit": "SpaceX",
+            "license": "Artikelbild Ars Technica",
+            "source": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+          }
+        },
+        {
+          "title": "Private Chats von 21 Millionen Konten unterm Hammer: 42 Generalstaatsanwälte stellen sich gegen Character.ai",
+          "lead": "Der insolvente Chatbot-Anbieter Character.ai will im Insolvenzverfahren die Chatverläufe seiner Nutzer versteigern. Eine Koalition aus 42 US-Bundesstaaten will das verhindern.",
+          "body": [
+            "Was passiert mit privaten Gesprächen, wenn eine KI-Firma pleitegeht? Bei Character.ai lautet die Antwort offenbar: Sie werden an den Meistbietenden verkauft. Dagegen sind nun 42 Generalstaatsanwältinnen und Generalstaatsanwälte von US-Bundesstaaten in das Insolvenzverfahren eingeschritten.",
+            "Nach ihren Angaben umfasst der Datenbestand Chatverläufe von mehr als 21 Millionen US-Konten, davon gehören mehr als 2,1 Millionen Minderjährigen. Dazu kämen weitere persönliche Daten wie IP-Adressen. Character.ai hatte im Oktober Insolvenz nach Chapter 11 angemeldet und seinen Nutzern zuvor zugesichert, ihre persönlichen Daten würden nicht verkauft. In einem Blogbeitrag versichert das Unternehmen, die Daten blieben durch seine Datenschutzrichtlinie geschützt.",
+            "Bisher ist nur ein Bieter bekannt: die Smirks and Pangs Acquisition LLC, die erst am 13. November 2026 in Delaware gegründet wurde. Schon am Tag darauf wählte Character.ai sie als Ausgangsgebot für die Auktion, die am 1. Dezember stattfinden soll. Was der Käufer mit den Chats vorhat, ist unklar.",
+            "Die Staaten argumentieren, dass es keinerlei Schutz für die Nutzer gebe. Ein Käufer könne die Daten nach Belieben verwenden und weiterverkaufen, ohne an die Datenschutzrichtlinie gebunden zu sein. Zudem treten in Kalifornien, Colorado, New York und Connecticut am 1. Januar 2027 Gesetze zur Chatbot-Sicherheit in Kraft, gegen die ein Verkauf zusätzlich verstoßen könnte. Kaliforniens Generalstaatsanwalt Rob Bonta erklärte, eine Insolvenz dürfe nicht dazu dienen, den Verbraucherschutz zu umgehen.",
+            "Connecticuts Generalstaatsanwalt William Tong wurde deutlicher: Die Chatbots hätten verletzliche Jugendliche in emotional aufgeladene und sexuell unangemessene Gespräche gezogen, das kaputte Geschäftsmodell habe die Firma ruiniert, und nun wolle sie die privaten Chats an einen „zwielichtigen Käufer“ versteigern. Eine ähnliche Koalition hatte sich bereits gegen einen geplanten Lizenzdeal über 20 Millionen Dollar gestellt, der Disney Zugriff auf geistiges Eigentum von Character.ai verschafft hätte."
+          ],
+          "highlight": "Nach ihren Angaben umfasst der Datenbestand Chatverläufe von mehr als 21 Millionen US-Konten, davon gehören mehr als 2,1 Millionen Minderjährigen.",
+          "assessment": [
+            "Für mich ist das der bisher deutlichste Beleg, warum man einem Chatbot nichts anvertrauen sollte, was man nicht auch in der Zeitung lesen möchte. Menschen haben Character.ai intimste Dinge erzählt, viele davon Kinder, und am Ende ist all das schlicht ein Posten in der Insolvenzmasse.",
+            "Ein Bieter, der einen Tag vor seiner Auswahl gegründet wurde, ist kein gutes Zeichen. Wenn das Gericht diesen Verkauf zulässt, ist jedes Datenschutzversprechen eines KI-Start-ups nur so viel wert wie seine Zahlungsfähigkeit."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+            "alt": "Werbebild von Character.ai mit Chatbot-Figuren",
+            "credit": "Character.ai",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+          }
+        },
+        {
+          "title": "Neu im Fall Nvidia: S&P droht mit einer schlechteren Kreditnote, wegen Huang",
+          "lead": "Die Ratingagentur S&P prüft eine Herabstufung von Nvidia. Grund ist nicht das Geschäft, sondern die Unternehmensführung nach Absetzung und Rückkehr von Jensen Huang.",
+          "body": [
+            "S&P Global Ratings, eine der drei großen Ratingagenturen, erwägt, die Kreditwürdigkeit von Nvidia herabzustufen. Trotz der starken Geschäftszahlen sieht S&P nach der Absetzung und Wiedereinsetzung von Konzernchef Jensen Huang „schwache Kontrolle der Unternehmensführung und fehlende Nachfolgeplanung“ sowie ein „Schlüsselpersonenrisiko“, also eine starke Abhängigkeit des Konzerns von Huang allein.",
+            "Die Prüfung soll binnen 90 Tagen abgeschlossen sein. Im Raum steht eine Herabstufung von AA auf AA-, die vierthöchste Stufe der Skala. Nvidia bliebe damit sicher im Bereich der soliden Bonitätsnoten, könnte aber höhere Zinsen für Kredite zahlen müssen.",
+            "Das hätte Folgen über Nvidia hinaus. Der Konzern bürgt für sogenannte Neoclouds und andere Infrastrukturfirmen, die allein keine gute Kreditwürdigkeit haben. Eine schlechtere Note für Nvidia würde deren Schulden verteuern oder sie zwingen, mehr Sicherheiten zu hinterlegen.",
+            "Im August hatte Nvidia angekündigt, gemeinsam mit sechs Finanzinstituten, darunter Goldman Sachs, Apollo und Blackstone, 500 Milliarden Dollar an Finanzierung für KI-Infrastruktur zu arrangieren. Ursprünglich sollte Nvidia für 25 Prozent der Kredite garantieren. Laut Bloomberg verlangten die Geldgeber schon vor der Affäre um Huang höhere Garantien. Eine Herabstufung dürfte diese Forderungen weiter verschärfen.",
+            "Huang ist seit Montag wieder Chef und Präsident von Nvidia. Mit der Prüfung durch S&P zeigt sich nun, dass die Affäre auch bei Gläubigern und Kreditgebern Spuren hinterlässt, nicht nur an der Börse."
+          ],
+          "highlight": "Eine schlechtere Note für Nvidia würde deren Schulden verteuern oder sie zwingen, mehr Sicherheiten zu hinterlegen.",
+          "assessment": [
+            "Ich halte diese Meldung für wichtiger als die meisten Schlagzeilen der vergangenen Tage. Ratingagenturen sind nüchtern, und wenn S&P ausdrücklich die Führungsstruktur bemängelt, ist das ein Urteil über das Ein-Mann-Modell, das Huang so lange gepflegt hat.",
+            "Die eigentliche Pointe liegt im Kleingedruckten: Nvidia ist längst nicht nur Chiphersteller, sondern Bürge für einen guten Teil des KI-Ausbaus. Wackelt Nvidias Bonität, wackelt die Finanzierung der ganzen Branche ein Stück mit."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+            "alt": "Nvidia-Gründer und -Chef Jensen Huang",
+            "credit": "Fabrice Coffrini / AFP / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+          }
+        },
+        {
+          "title": "Angriff über GitHub: Hacker erbeuten Kundendaten bei 1Password",
+          "lead": "Beim Passwortmanager 1Password sind Namen, E-Mail-Adressen und weitere Kontodaten in fremde Hände gelangt. Die Passworttresore selbst seien nicht betroffen.",
+          "body": [
+            "Der kanadische Hersteller des Passwortmanagers 1Password hat einen Einbruch in seine internen Systeme bestätigt. Entdeckt wurde er nach Angaben des Unternehmens am 19. November. Der Angreifer verschaffte sich Zugang zum GitHub-Konto eines Mitarbeiters, über das 1Password Quellcode verwaltet, und schleuste darüber Schadcode in interne Server ein.",
+            "Auf diesem Weg erbeutete er Kundendaten. Laut TechCrunch gehören dazu Namen, die Login-E-Mail-Adressen sowie Angaben dazu, wann ein Konto angelegt und wann sich ein Nutzer zuletzt angemeldet hat. heise nennt nach der Mitteilung der Herstellerfirma Agilebits zusätzlich Kundenkontonummern, öffentliche Schlüssel, Passwortparameter, „interne Metadaten“ und in einigen Fällen Identifizierungstoken. Diese Token stecken in per E-Mail verschickten Einladungslinks für bestimmte Verwaltungsaufgaben und sollen allein keinen Zugriff auf ein Konto erlauben.",
+            "Die Passworttresore der Kunden seien „zu keinem Zeitpunkt“ zugänglich gewesen, erklärt 1Password. Das Unternehmen habe ohnehin keinen Zugriff auf die Kontopasswörter und die geheimen Schlüssel, mit denen die Tresore verschlüsselt werden. Auch Apps und Browsererweiterungen seien nicht betroffen. Kunden müssen deshalb keine Sicherheitsupdates einspielen.",
+            "Wie viele Kunden betroffen sind, sagt 1Password nicht. Direkt benachrichtigt werden nur die wenigen, deren Identifizierungstoken abgeflossen sind. Wie der Angreifer an das Mitarbeiterkonto kam, ist offen. 1Password hat nach eigenen Angaben Millionen Kunden und mehr als 200.000 Unternehmen als Nutzer.",
+            "Die naheliegende Gefahr ist Phishing. Mit echten Namen, E-Mail-Adressen und Kontodetails können sich Betrüger sehr glaubwürdig als 1Password-Mitarbeiter ausgeben. Das Unternehmen rät seinen Kunden deshalb zu besonderer Vorsicht bei Nachrichten, die angeblich von 1Password stammen."
+          ],
+          "highlight": "Die naheliegende Gefahr ist Phishing.",
+          "assessment": [
+            "Das Grundversprechen von 1Password hat gehalten: Die Tresore sind so verschlüsselt, dass selbst ein Einbruch beim Hersteller sie nicht öffnet. Das ist genau der Grund, warum man einem solchen Dienst überhaupt vertrauen kann.",
+            "Peinlich bleibt es trotzdem. Ein Sicherheitsunternehmen, bei dem ein einzelnes kompromittiertes GitHub-Konto reicht, um Schadcode auf interne Server zu bringen, hat bei den eigenen Abläufen geschlampt. Wer 1Password nutzt, sollte in den nächsten Wochen jede Mail mit dem Logo darauf misstrauisch lesen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/3/4/4/shutterstock_2839481119-eb3763d22c93a997.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Hände auf einer Laptoptastatur, darüber ein eingeblendetes Schloss-Symbol",
+            "credit": "wasanstock / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html"
+          }
+        },
+        {
+          "title": "Tidal wirft alle KI-Musik raus: 27 Millionen Titel werden am 9. Dezember gelöscht",
+          "lead": "Der Musikstreamingdienst Tidal verbannt vollständig KI-generierte Songs. Bislang hatte er sie nur gekennzeichnet und nicht mehr vergütet.",
+          "body": [
+            "Tidal geht einen härteren Weg als die Konkurrenz. Statt KI-Musik nur zu kennzeichnen, wie es die meisten Anbieter tun, wird der Dienst sie vollständig verbannen. Begründet wird das mit dem Schaden für menschliche Künstlerinnen und Künstler.",
+            "Die Zahlen sind drastisch. In den vergangenen 90 Tagen waren laut Tidal 43 Prozent aller neuen Uploads vollständig von KI erzeugt, am 6. November sogar 60 Prozent. Insgesamt sind 27 Millionen Titel als KI-Musik markiert, das entspricht 6,3 Prozent des gesamten Katalogs. Am 9. Dezember sollen sie alle gelöscht werden. Spürbar dürfte das kaum sein: 96 Prozent dieser Titel wurden in den vergangenen 90 Tagen kein einziges Mal abgespielt.",
+            "Tidal hatte im Juli 2026 eine erste KI-Richtlinie eingeführt, nach der vollständig KI-generierte Songs gekennzeichnet und nicht mehr vergütet wurden. Das reichte offenbar nicht, um die Flut zu bremsen. Wegen Identitätsbetrugs, bei dem KI-Titel echten Musikern untergeschoben wurden, hatte der Dienst bereits rund 66.000 Stücke entfernt. Erlaubt bleibt Musik, bei der Künstler KI als Werkzeug nutzen, solange das Ergebnis menschliche Anteile enthält.",
+            "Wie Tidal KI-Musik erkennen will, sagt der Dienst nicht. Wahrscheinlich helfen Wasserzeichen: 94 Prozent der KI-Titel bei Tidal stammen von Suno, das in diesem Jahr Wasserzeichen eingeführt hat. Googles Lyria bettet SynthID-Markierungen in die Wellenform ein. Lokal laufende Modelle oder Anbieter ohne Wasserzeichen dürften aber durchrutschen.",
+            "Spotify, YouTube Music, Deezer und Apple Music lassen KI-Musik weiterhin zu. Wer Songs am Fließband generiert, wird also schlicht dorthin ausweichen."
+          ],
+          "highlight": "96 Prozent dieser Titel wurden in den vergangenen 90 Tagen kein einziges Mal abgespielt.",
+          "assessment": [
+            "Ich finde die Entscheidung richtig, und die Zahlen sprechen für sich: Millionen Titel, die niemand hört, existieren nur, um mit Masse Tantiemen abzugreifen und Empfehlungsalgorithmen zu verstopfen. Mit Musik hat das wenig zu tun.",
+            "Tidal ist klein genug, um diesen Schritt zu wagen, und genau deshalb wird es spannend, ob einer der großen Dienste folgt. Durchsetzen lässt sich das Verbot nur halb, aber schon die halbe Lösung ist besser als ein Etikett, das kaum jemand liest."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+            }
+          ],
+          "image": {
+            "url": "https://live.staticflickr.com/5092/5416060966_97f288699c_b.jpg",
+            "alt": "Notenblatt mit Musiknoten in Nahaufnahme",
+            "credit": "mikecogh",
+            "license": "CC BY-SA 2.0",
+            "source": "https://www.flickr.com/photos/89165847@N00/5416060966"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "EA lässt John Motson per KI wieder kommentieren, drei Jahre nach seinem Tod",
+          "lead": "In EA Sports FC 27 ist ab heute die Stimme des 2023 verstorbenen BBC-Kommentators John Motson zu hören, nachgebaut aus Archivaufnahmen und generativer KI. Die Familie hat zugestimmt, Kritiker halten das trotzdem für falsch.",
+          "body": [
+            "Electronic Arts holt die Stimme von John Motson zurück. Der legendäre englische Fußballkommentator starb im Februar 2023 mit 77 Jahren. Für EA Sports FC 27 hat EA seine Stimme aus Archivaufnahmen und generativer KI neu erzeugt. Laut BBC wird die Kommentarspur am 26. November ins Spiel eingefügt. Es ist das erste Mal, dass die Reihe einen verstorbenen Kommentator einsetzt.",
+            "Motson war der erste echte Kommentator der Serie. Er war von FIFA 96 bis FIFA 2005 zu hören und kehrte für FIFA 19 kurz zurück. Seine Witwe und sein Sohn haben der Verwendung zugestimmt, die Familie wurde für Stimme und Persönlichkeitsrechte bezahlt. Wie viel, sagt EA nicht.",
+            "„Wir wären in keiner Weise weitergegangen, wenn sie nicht vollständig einverstanden gewesen wären“, sagte Mat Prior, Senior Game Design Director bei EA Sports FC. Motson sei „die allererste Stimme unseres Spiels“ gewesen. KI sei der einzige Weg gewesen, weil Motson nie Sätze über heutige Stars wie Bradley Barcola oder Chloe Kelly aufgenommen habe. Sein Sohn Fred sagte, es bedeute ihm „sehr viel“, die Stimme seines Vaters wieder im Spiel zu hören. Sein Vater sei der am wenigsten technikaffine Mensch der Welt gewesen, aber stets offen für solche Projekte.",
+            "Peter Caulfield von der Kampagne Save Our Voices Now, die gegen KI-Stimmklone kämpft, widerspricht. Motson selbst habe nie zugestimmt. „Im Leben wie im Tod sollte KI-Klonen ohne ausdrückliche Zustimmung nicht erlaubt sein“, sagte er. Ein Familienmitglied zu sein, dürfe nicht automatisch dieses Recht verleihen. Eine japanische Schauspielergewerkschaft hat erst vor Kurzem Richtlinien gegen das Nachbilden verstorbener Stimmen ohne deren Einwilligung vorgeschlagen.",
+            "EA betont, die Technik solle keine Kommentatoren ersetzen, entsprechende Pläne gebe es nicht. Derek Rae, seit Jahren eine der Stimmen der Reihe, hält KI für Routinesätze für denkbar, die kreativen Momente brauchten aber eine menschliche Stimme mit Persönlichkeit. EA gehört inzwischen einem Konsortium um Saudi-Arabiens Staatsfonds PIF, die Übernahme wurde im August abgeschlossen."
+          ],
+          "highlight": "Es ist das erste Mal, dass die Reihe einen verstorbenen Kommentator einsetzt.",
+          "assessment": [
+            "Ich verstehe den Reiz, und die Zustimmung der Familie macht es nicht pietätlos. Trotzdem ist das ein Dammbruch: Motson kommentiert jetzt Spieler, die er nie gesehen hat, mit Sätzen, die er nie gesagt hat. Das ist keine Hommage mehr, sondern eine Puppe mit seiner Stimme.",
+            "Die Beteuerung, niemand solle ersetzt werden, glaube ich EA nur halb. Wenn sich eine tote Stimme beliebig erweitern lässt, ist der Schritt zur lebenden, die man nur noch einmal bezahlt, nicht weit."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/ea-sports-fc27-dead-commentator-ai"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-25-at-20.38.28.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Spielszene aus EA Sports FC 27: Spieler in hellblauen und roten Trikots kämpfen um den Ball",
+            "credit": "EA",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson"
+          }
+        },
+        {
+          "title": "„Albtraum aus KI-Psychose“: Ubisoft-Teams müssen begründen, warum sie keine KI nutzen",
+          "lead": "Wer bei Ubisoft ein neues Spiel vorschlägt, muss laut einem Bericht darlegen, wie generative KI die Entwicklung beschleunigt. Wer darauf verzichten will, braucht eine ausführliche Begründung.",
+          "body": [
+            "Bei Ubisoft müssen Teams, die neue Projekte vorschlagen, offenbar erklären, wie generative KI ihnen helfen würde, schneller zu entwickeln. Wer die Technik nicht einsetzen will, muss das detailliert begründen. Das berichtet der Journalist Chris Kerr in seinem Newsletter Vertical Slice unter Berufung auf mehrere aktuelle Beschäftigte. Pitches ohne diese Angaben würden nicht genehmigt.",
+            "Formal sei KI keine Pflicht, sagt eine Quelle, die Führung setze aber voll darauf. „Wir fühlen uns ständig von generativer KI in die Ecke gedrängt.“ Begründet werde das mit dem Wunsch vieler Beschäftigter nach kleineren Projekten mit kleineren Teams statt riesiger Triple-A-Spiele. Mit KI könnten „kleine, schlanke, agile Teams“ schneller Prototypen bauen, Projekte schneller verwerfen und so die guten Ideen herausfiltern. Ubisoft halte generative KI für „unvermeidlich“ und glaube, die meisten Spieler störe sie nicht.",
+            "Der Bericht folgt auf die Gründung von Motherbrain in der vergangenen Woche, einer eigenen Tochterfirma für generative KI. Sie besteht aus dem Team hinter Teammates, Ubisofts erstem spielbaren Experiment mit generativer KI. Konzernchef Yves Guillemot sprach von eigenen Technologien, die Kreativen neue Möglichkeiten eröffnen sollen.",
+            "Gleichzeitig spart Ubisoft massiv. Die Zahl der Beschäftigten sank laut dem jüngsten Geschäftsbericht in vier Jahren um 5.200, von 20.700 im September 2022 auf 15.500 im September 2026. Die Stimmung sei „miserabel“, sagen Beschäftigte, auch wegen der Pflicht, fünf Tage pro Woche im Büro zu sein. Abgänge würden kaum ersetzt, alle paar Wochen gebe es Abschiedsfeiern.",
+            "Ein Beschäftigter fasst es drastisch zusammen: Ubisoft befinde sich in einem „von oben verordneten Albtraum aus KI-Psychose“. Guillemot habe sein Schicksal an die Technik geknüpft und verlange, dass der Rest der Firma folgt. Ubisoft hat sich zu dem Bericht bisher nicht geäußert."
+          ],
+          "highlight": "Wer die Technik nicht einsetzen will, muss das detailliert begründen.",
+          "assessment": [
+            "Für mich klingt das nach einem Konzern, der eine Strategie sucht und eine Technik gefunden hat. Wer die Beweislast umdreht, sodass der Verzicht auf KI begründet werden muss, sagt damit: Die Antwort steht fest, bevor die Frage gestellt ist.",
+            "Der Wunsch nach kleineren, mutigeren Projekten ist berechtigt, und KI-Prototypen können dabei helfen. Aber ein Haus, das seit Jahren Leute verliert und kaum nachbesetzt, wird die Technik eher als Ersatz für fehlende Köpfe benutzen als für bessere Spiele."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/"
+            }
+          ],
+          "image": {
+            "url": "https://www.videogameschronicle.com/files/2026/01/Untitled-1_Gl6tynN.jpg",
+            "alt": "Bronzestatue eines Assassinen vor dem Ubisoft-Gebäude",
+            "credit": "VGC",
+            "license": "Artikelbild VGC",
+            "source": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/"
+          }
+        },
+        {
+          "title": "The Witcher 4 wird mit Sony vermarktet, bleibt aber auf allen Plattformen",
+          "lead": "CD Projekt Red hat einen Marketingvertrag mit Sony für The Witcher 4 geschlossen. Xbox-Spieler sollen das Spiel trotzdem am selben Tag bekommen.",
+          "body": [
+            "CD Projekt Red hat bei der Vorlage seiner Quartalszahlen neue Partnerschaftsverträge mit Sony Interactive Entertainment bekannt gegeben. Sie betreffen die Präsenz der CDPR-Spiele im PlayStation Store und in PlayStation Plus sowie eine Zusammenarbeit bei der kommenden Marketingkampagne für The Witcher 4. Finanzchef Piotr Nielubowicz sagte, die Kooperation werde das Geschäft „in diesem und den kommenden Jahren“ stützen.",
+            "Was das konkret bedeutet, ließ CDPR offen. Eurogamer verweist auf ähnliche Verträge, etwa die Kampagne „spielt sich am besten auf PlayStation“ für GTA 6. Denkbar seien Auftritte in Sonys State-of-Play-Shows, Spielszenen, die ausdrücklich auf PlayStation aufgenommen wurden, oder Zubehör im Witcher-Design.",
+            "Weil solche Verträge oft mit Exklusivität verbunden sind, beruhigte Co-Chef Michał Nowakowski auf X die Xbox-Spieler: The Witcher 4 und die übrigen kommenden Spiele blieben plattformübergreifend. Auf die Nachfrage nach einer zeitlich begrenzten Exklusivität antwortete er: „Alle Plattformen erscheinen gleichzeitig: PS5, Xbox und PC. Niemand wird zurückgelassen.“ Die Switch 2 erwähnte er nicht.",
+            "Der Schritt ist bemerkenswert, weil CDPR lange eng mit Microsoft verbunden war. The Witcher 3 und Keanu Reeves als Johnny Silverhand in Cyberpunk 2077 wurden jeweils auf Microsofts E3-Bühne enthüllt, The Witcher 2 erschien auf Konsolen nur für die Xbox 360. Zudem hatte Sony Cyberpunk 2077 im Jahr 2020 wegen der schlechten Leistung auf der PS4 aus dem Store genommen, erst sechs Monate später kehrte es zurück.",
+            "The Witcher 4 hat noch keinen Termin, CDPR peilt 2028 an. Nowakowski kündigte beim selben Anlass an, der Sprung von The Witcher 3 zu The Witcher 4 werde ähnlich groß sein wie der von GTA 5 zu GTA 6."
+          ],
+          "highlight": "Auf die Nachfrage nach einer zeitlich begrenzten Exklusivität antwortete er: „Alle Plattformen erscheinen gleichzeitig: PS5, Xbox und PC. Niemand wird zurückgelassen.“",
+          "assessment": [
+            "Ich lese das als Zeichen, wohin sich die Branche nach GTA 6 orientiert. Sony hat mit Rockstar vorgemacht, wie man ein Multiplattformspiel gefühlt zur PlayStation-Marke macht, und CDPR kauft sich jetzt dieselbe Bühne.",
+            "Für Xbox ist das bitter, auch ohne Exklusivität. Wenn selbst das Studio, das jahrelang auf Microsofts Bühne stand, lieber mit Sony wirbt, sagt das viel darüber, wo die Spieler gerade sind."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation"
+            },
+            {
+              "name": "VGC",
+              "url": "https://www.videogameschronicle.com/news/no-one-gets-left-behind-cdpr-says-the-witcher-4-will-launch-on-xbox-day-one-despite-sony-agreement/"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ciri in einer Szene aus The Witcher 4",
+            "credit": "CD Projekt Red",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation"
+          }
+        },
+        {
+          "title": "Keine billigeren Konsolen vor 2028: Der KI-Boom hält die Speicherpreise oben",
+          "lead": "Analysten von S&P Global erwarten frühestens 2028 sinkende Konsolenpreise. Erst dann gehen neue Fabriken für Arbeitsspeicher in Betrieb, und selbst die könnten von Rechenzentren aufgesogen werden.",
+          "body": [
+            "Wer auf günstigere Konsolen hofft, braucht Geduld. Eine neue Analyse von S&P Global Market Intelligence Kagan kommt zu dem Schluss, dass die Hersteller ihre Preise frühestens 2028 senken dürften. Grund ist der Arbeitsspeicher DRAM, ein zentrales Bauteil von Spielehardware, dessen Preis wegen der Nachfrage der KI-Branche stark gestiegen ist.",
+            "S&P rechnet mit zusätzlichen DRAM-Kapazitäten von 184.000 Wafern (umgerechnet auf 300 Millimeter) bis Ende dieses Jahres und 434.000 bis Ende 2027. 2028 soll sich der Zuwachs auf 819.000 fast verdoppeln. Bis Ende 2030 soll die weltweite Kapazität um 82 Prozent auf 3,64 Millionen Wafer pro Monat wachsen, rund 80 Prozent davon bei Samsung, SK hynix und Micron.",
+            "Analyst Neil Barbour nennt 2028 „den frühesten Zeitpunkt, an dem es klug erscheint, neue Konsolen zu erschwinglichen Preisen auf den Markt zu bringen“. Garantiert sei das nicht. Die Speicherfabriken würden nicht für Verbraucher ausgebaut, sondern für den Rechenzentrumsboom, mit dem die Hersteller Rekordumsätze und -margen erzielen. „Wenn die Nachfrage der Rechenzentren wächst, könnte sie das zusätzliche Angebot schnell auffressen.“ Nur wenn der Ausbau stagniere, etwa aus regulatorischen Gründen, werde mehr Kapazität für normalen Speicher frei.",
+            "Bis dahin erwartet Barbour mindestens gleichbleibende Preise bis Ende 2027. Weitere Erhöhungen seien nicht sicher, Preissenkungen in naher Zukunft aber nicht zu erwarten.",
+            "2028 gilt auch als möglicher Starttermin von Project Helix, der nächsten Xbox, für die Berichte einen Preis zwischen 1.200 und 1.800 Dollar nennen. Barbour hält mehr Speicherkapazität für eine Voraussetzung für diesen Start: Wenn Microsoft schon bei den aktuellen Konsolen über Lieferengpässe klage, müsse es auf bessere Versorgung warten, bevor es eine neue Konsole groß herausbringt."
+          ],
+          "highlight": "Analyst Neil Barbour nennt 2028 „den frühesten Zeitpunkt, an dem es klug erscheint, neue Konsolen zu erschwinglichen Preisen auf den Markt zu bringen“.",
+          "assessment": [
+            "Meiner Meinung nach ist das die nüchternste Erklärung dafür, warum sich Spielen gerade so teuer anfühlt. Konsolen konkurrieren mit KI-Rechenzentren um dieselben Chips, und die Rechenzentren zahlen mehr.",
+            "Bemerkenswert ist der Zusammenhang mit dem Nvidia-Thema und den fallenden KI-Aktien: Sollte der Ausbau der Rechenzentren tatsächlich ins Stocken geraten, wäre das ausgerechnet für Spieler eine gute Nachricht."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/ps5-kerde-severin-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ein weiß-schwarzer Controller liegt auf einer PlayStation 5",
+            "credit": "Kerde Severin",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028"
+          }
+        },
+        {
+          "title": "Capcom schaltet Exoprimal im September 2027 ab",
+          "lead": "Capcoms Online-Shooter mit Dinosauriern wird nach rund vier Jahren eingestellt. Danach ist das Spiel nicht mehr spielbar.",
+          "body": [
+            "Capcom beendet den Betrieb von Exoprimal. Am 29. September 2027 um 20 Uhr pazifischer Zeit werden die Server abgeschaltet, das hat der Publisher auf der offiziellen Website des Spiels angekündigt. Einen Grund nannte Capcom nicht, bedankte sich aber bei den Spielern und entschuldigte sich für die „Tragweite dieser Ankündigung“.",
+            "Der Ausstieg läuft in Etappen. Die Premiumstufen des Survival Pass für die Saisons eins bis vier wurden bereits am 24. November aus den Stores genommen. Am 30. März 2027 verschwinden das Spiel selbst, seine Zusatzinhalte und alle weiteren Exoprimal-Produkte aus dem Verkauf. Wer das Spiel besitzt, kann es danach noch herunterladen, aber nur bis zum Ende des Betriebs. Ab dem 29. September ist es nicht mehr spielbar.",
+            "Exoprimal ist ein Team-Shooter, in dem Spieler in Exoanzügen gegen Dinosaurierhorden und gegeneinander antreten. Das Spiel war ein für Capcom ungewöhnlicher Ausflug ins Geschäft mit Onlinespielen, die über Jahre mit Inhalten versorgt werden.",
+            "Capcom selbst geht es glänzend. Im Halbjahr bis Ende September 2026 stieg der ordentliche Gewinn um 67,5 Prozent auf 61,2 Milliarden Yen (rund 387 Millionen Dollar). Der Umsatz der Spielesparte wuchs um 70,8 Prozent auf 85,1 Milliarden Yen, der operative Gewinn um 66,7 Prozent auf 52,3 Milliarden Yen."
+          ],
+          "highlight": "Ab dem 29. September ist es nicht mehr spielbar.",
+          "assessment": [
+            "Ich finde Exoprimal ein Lehrstück darüber, wie zerbrechlich gekaufte Onlinespiele sind. Wer das Spiel heute besitzt, besitzt ab Herbst 2027 nichts mehr, ganz gleich, wie viel er dafür bezahlt hat.",
+            "Dass Capcom das in einem Rekordhalbjahr tut, zeigt die Rechnung: Ein Nischenspiel, das Serverkosten verursacht, hat neben Monster Hunter und Resident Evil keinen Platz. Ein Offline-Modus zum Abschied wäre das Mindeste gewesen."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/AA2ibh2S-821792418.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Drei Exoanzüge stehen in den Ruinen einer futuristischen Stadt, darüber schwebt eine dunkle Kugel",
+            "credit": "Capcom",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Thanksgiving an der Kinokasse: Panem räumt ab, Disneys „Hexed“ startet verhalten",
+          "lead": "Am langen Thanksgiving-Wochenende in den USA dominiert „Die Tribute von Panem: Sunrise on the Reaping“. Die beiden großen Neustarts, Disneys Animationsfilm „Hexed“ und die Komödie „Focker-in-Law“, kämpfen um Platz zwei.",
+          "body": [
+            "Für das fünftägige Thanksgiving-Wochenende von Mittwoch bis Sonntag rechnet Deadline bei „The Hunger Games: Sunrise on the Reaping“ mit mehr als 85 Millionen Dollar, sofern schweres Wetter im Nordosten der USA die Kinos nicht schließt. Das wäre das zweitbeste Thanksgiving-Ergebnis der Reihe nach „Catching Fire“, das vor 13 Jahren 109,9 Millionen Dollar einspielte. Schon am Dienstag hatte der Film mit fast 16 Millionen Dollar den besten Dienstag in der Geschichte von Lionsgate erzielt.",
+            "Bis Sonntag dürfte der Film von Francis Lawrence in Nordamerika bei rund 233 Millionen Dollar stehen, 40 Prozent mehr als „The Ballad of Songbirds & Snakes“ von 2023 insgesamt eingespielt hat. Weltweit war er am vergangenen Wochenende mit 226,1 Millionen Dollar gestartet.",
+            "Spannender ist der Kampf dahinter. Disneys „Hexed“, ein originaler Animationsfilm mit einem Budget von 200 Millionen Dollar, kam auf 2,1 Millionen Dollar aus Vorpremieren und für den Mittwoch auf rund 7,8 Millionen. Für fünf Tage erwartet Deadline 35 bis 40 Millionen Dollar, weniger als die ursprüngliche Prognose von 40 bis 45 Millionen. Die Kritiken liegen bei mäßigen 67 Prozent auf Rotten Tomatoes. Deadline urteilt, es sei klar, dass „Hexed“ kein „Coco“ oder „Frozen“ ist.",
+            "„Focker-in-Law“ von Universal und Paramount, die Fortsetzung der „Meine Braut, ihr Vater und ich“-Reihe mit Ariana Grande, liegt mit 5,2 Millionen Dollar am Mittwoch und erwarteten 36,1 Millionen über fünf Tage gleichauf. Bei den Kritikern kommt der Film nur auf 26 Prozent. Auf den Plätzen folgen Johnny Depps Weihnachtsfilm „Ebenezer“ im dritten und „I Play Rocky“ im vierten Wochenende.",
+            "Knapp außerhalb der Top fünf läuft Netflix’ „The Further Mis-Adventures of Cliff Booth“, die Fortsetzung von „Once Upon a Time in Hollywood“, in nur 251 Kinos. Deadline erwartet etwa fünf Millionen Dollar über fünf Tage."
+          ],
+          "highlight": "Deadline urteilt, es sei klar, dass „Hexed“ kein „Coco“ oder „Frozen“ ist.",
+          "assessment": [
+            "Ich finde die Zahlen von „Hexed“ aufschlussreicher als den nächsten Panem-Rekord. Ein originaler Disney-Animationsfilm für 200 Millionen Dollar, der zu Thanksgiving nur knapp vor einer Komödienfortsetzung mit miserablen Kritiken liegt, zeigt, wie schwer es neue Stoffe im Kino haben.",
+            "Lionsgate dagegen erlebt gerade sein bestes Jahr seit Langem, mit „Michael“ und Panem zwei weltweite Hits in Folge. Und dass Netflix „Cliff Booth“ überhaupt in Kinos bringt, ist bemerkenswert, auch wenn es nur ein Feigenblatt für die Preissaison ist."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-On-The-Reaping-2.jpg?w=1024",
+            "alt": "Szene aus „The Hunger Games: Sunrise on the Reaping“",
+            "credit": "Lionsgate",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+          }
+        },
+        {
+          "title": "Veruschka ist tot: Das erste deutsche Supermodel und die Frau aus „Blow-Up“ wurde 87",
+          "lead": "Vera Gräfin von Lehndorff, weltberühmt als Veruschka, ist in Berlin gestorben. Ihr kurzer Auftritt in Antonionis „Blow-Up“ machte sie zur Ikone der Sechzigerjahre.",
+          "body": [
+            "Veruschka, das deutsche Supermodel der 1960er- und 1970er-Jahre, ist tot. Sie wurde 87 Jahre alt. Die Bild-Zeitung meldete ihren Tod, sie sei im Kreis von Freunden und Familie in ihrer Wohnung in Berlin gestorben. Mehrere Berichte nennen den 24. November als Todestag, eine Ursache wurde nicht genannt.",
+            "Geboren wurde sie am 14. Mai 1939 in Königsberg in Ostpreußen als Vera Gottliebe Anna Gräfin von Lehndorff-Steinort. Sie war fünf Jahre alt, als ihr Vater Heinrich Graf von Lehndorff-Steinort nach dem gescheiterten Attentat auf Hitler vom 20. Juli 1944 hingerichtet wurde.",
+            "Mit etwa 20 Jahren zog sie nach Florenz, wo sie über den Fotografen Ugo Mulas zum Modeln kam. Bald nannte sie sich Veruschka, ein russisch klingender Name, der zu ihrer hochgewachsenen Gestalt und ihrer strengen Schönheit passte. Mitte der Sechziger ging sie nach New York, arbeitete für die Agentur Ford und wurde zum ersten deutschen Supermodel. Richard Avedon nannte sie „die schönste Frau der Welt“, auch David Bailey und Irving Penn fotografierten sie.",
+            "Ihr kurzer Auftritt in Michelangelo Antonionis „Blow-Up“ von 1966, dem Film über das Swinging London, festigte ihren Ruhm in einer Modewelt, die damals von britischen Models wie Twiggy und Jean Shrimpton bestimmt wurde. Es folgten Titelbilder für Vogue, Life und andere große Magazine.",
+            "Mitte der Siebziger zog sie sich weitgehend zurück, auch wegen eines Führungswechsels bei der Vogue. Die neue Chefredakteurin Grace Mirabella habe sie „bürgerlich“ haben wollen, sagte sie 2009, das habe sie nicht gewollt. Später modelte sie nur noch gelegentlich. 2006 hatte sie einen Gastauftritt in „Casino Royale“ als Pokerspielerin am Tisch von Daniel Craigs James Bond."
+          ],
+          "highlight": "Sie war fünf Jahre alt, als ihr Vater Heinrich Graf von Lehndorff-Steinort nach dem gescheiterten Attentat auf Hitler vom 20. Juli 1944 hingerichtet wurde.",
+          "assessment": [
+            "Ich finde, Veruschkas Biografie erzählt mehr deutsche Geschichte als die meisten Filme: vom ostpreußischen Adel über den Widerstand gegen Hitler bis zur Popkultur der Sechziger. Dass das Kind eines hingerichteten Widerstandskämpfers zum Gesicht des Swinging London wurde, ist fast zu groß für ein einzelnes Leben.",
+            "Filmisch bleibt sie mit wenigen Minuten in „Blow-Up“ unvergessen. Die Szene mit David Hemmings und der Kamera gehört zu den meistzitierten Bildern des Kinos jener Jahre."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/veruschka-dead-1237233496/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-3438392.jpg?w=1024",
+            "alt": "Veruschka im September 1970",
+            "credit": "Keystone Features / Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/veruschka-dead-1237233496/"
+          }
+        },
+        {
+          "title": "Netflix setzt Will Ferrells Golfserie „The Hawk“ nach einer Staffel ab",
+          "lead": "„The Hawk“ war Will Ferrells erste Hauptrolle in einer Serie. Sie war teuer, bei Kritikern unbeliebt und nicht erfolgreich genug.",
+          "body": [
+            "Netflix verlängert „The Hawk“ nicht. Die Golfkomödie, die Will Ferrell mitentwickelt, produziert und in der Hauptrolle gespielt hat, startete am 16. Juli. Es war Ferrells erste Hauptrolle in einer Serie. Deadline meldete die Absetzung zuerst, IndieWire und The Hollywood Reporter griffen sie auf.",
+            "Die Entscheidung folgt der üblichen Netflix-Rechnung aus Kosten und Abrufen. „The Hawk“ galt als eine der teuersten Comedyserien des Dienstes, Ferrell soll pro Folge eine siebenstellige Gage erhalten haben. Die Serie hielt sich drei Wochen in den weltweiten Top 10 für englischsprachige Serien und erreichte in ihrer ersten vollen Woche mit 6,2 Millionen Abrufen Platz zwei. Respektabel, aber nicht herausragend, urteilt Deadline. Bei den Kritikern kam sie auf Rotten Tomatoes nur auf 33 Prozent, beim Publikum auf 65.",
+            "Ferrell spielt Lonnie Hawkins, 2004 die Nummer eins der Golfwelt, der am Ende seiner Karriere noch einmal angreifen will. Ihm fehlt nur noch ein Major-Turnier zum Grand Slam, während sein Sohn Lance längst der neue Star des Sports ist. Ferrells frühere SNL-Kollegin Molly Shannon spielt seine Ex-Frau, außerdem sind Jimmy Tatro, Fortune Feimster, Luke Wilson und Chris Parnell dabei. Zu den ausführenden Produzenten gehören Rian Johnson und David Gordon Green.",
+            "Das Aus hatte sich angedeutet. Mitentwicklerin Harper Steele sprach vor zwei Wochen bei Seth Meyers beiläufig von „einer kurzlebigen, aber wahrscheinlich der besten Serie aller Zeiten“. Ferrell bleibt Netflix über seine Firma Gloria Sanchez Productions verbunden, die unter anderem die erste fiktionale Serie von Nikki Glaser produziert."
+          ],
+          "highlight": "„The Hawk“ galt als eine der teuersten Comedyserien des Dienstes, Ferrell soll pro Folge eine siebenstellige Gage erhalten haben.",
+          "assessment": [
+            "Für mich ist das ein typischer Fall von Starbonus, der nicht trägt. Will Ferrell zieht Neugier an, aber eine Serie mit einem Golfer in der Midlife-Crisis braucht mehr als einen Namen, und bei diesen Kosten reicht ein zweiter Platz in einer einzigen Woche nicht.",
+            "Netflix rechnet bei Comedy inzwischen gnadenlos. Wer nicht über Wochen oben bleibt, ist nach einer Staffel weg, egal wie prominent die Besetzung ist."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/"
+            },
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/will-ferrell-golf-comedy-the-hawk-canceled-netflix-1235231256/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/05/THEHAWK_101_250912_CH_00182_R2.jpg?w=1024",
+            "alt": "Jimmy Tatro und Will Ferrell in einer Szene aus „The Hawk“",
+            "credit": "Colleen E. Hayes / Netflix",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/"
+          }
+        },
+        {
+          "title": "„The Pitt“ kehrt am 7. Januar zurück, Robby ist in Therapie",
+          "lead": "HBO Max hat den Starttermin der dritten Staffel seines gefeierten Krankenhausdramas bekannt gegeben. Noah Wyle verrät, worum es gehen wird.",
+          "body": [
+            "Die dritte Staffel von „The Pitt“ startet am 7. Januar 2027 bei HBO Max. Den Termin verkündete die Serie auf Instagram mit einem kleinen Clip: Taylor Dearden, Isa Briones und Gerran Howell als Mel, Santos und Whitaker finden im Umkleideraum pinke Klebezettel mit der Nachricht, dass „The Pitt“ zurückkehrt, und dem Datum.",
+            "Die Serie erzählt in Echtzeit, Stunde für Stunde, von einer Schicht in der Notaufnahme des fiktiven Pittsburgh Trauma Medical Center. Im Mittelpunkt stehen die medizinischen Fälle und persönlichen Krisen von Ärztinnen, Ärzten und Pflegekräften, die zu viele Patienten und zu wenig Mittel haben.",
+            "Noah Wyle spielt wieder Michael „Robby“ Robinavitch, dazu kehren unter anderem Patrick Ball, Katherine LaNasa, Fiona Dourif, Shabana Azeez, Sepideh Moafi und Shawn Hatosy zurück. Neu in wiederkehrenden Rollen sind Stephen Chang, Barry Clifton, Chris Diamantopoulos, Lawrence Kao, Brent Sexton, JB Tadena und Hannah Ware.",
+            "Zur Handlung sagte Wyle Deadline: „In Staffel 3 geht es darum, dass Ärzte davon profitieren, Patienten zu sein.“ Robby habe den therapeutischen Weg eingeschlagen, und das wirke positiv. „Es ist zerbrechlich und nicht ohne Risiko und Verletzlichkeit, aber es gibt Fortschritt.“"
+          ],
+          "highlight": "Zur Handlung sagte Wyle Deadline: „In Staffel 3 geht es darum, dass Ärzte davon profitieren, Patienten zu sein.“",
+          "assessment": [
+            "Ich halte „The Pitt“ für eine der besten Serien der letzten Jahre, gerade weil sie das Krankenhausdrama ohne Schnickschnack erzählt. Dass die dritte Staffel Robbys psychische Gesundheit in den Mittelpunkt rückt, ist folgerichtig nach allem, was die Figur durchgemacht hat.",
+            "Bis zum 7. Januar ist es nicht mehr lang, und die neuen Gesichter in der Besetzung versprechen frischen Wind in der Notaufnahme."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/08/the-pitt-season-3-photos-hbo-max.jpg?w=1024",
+            "alt": "Szenenbild aus der dritten Staffel von „The Pitt“",
+            "credit": "HBO Max",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493/"
+          }
+        },
+        {
+          "title": "„The Trip“ geht weiter: Coogan und Brydon reisen zum Polarlicht",
+          "lead": "Steve Coogan, Rob Brydon und Regisseur Michael Winterbottom machen einen fünften Teil ihrer Reise-Komödie. Diesmal geht es durch Skandinavien bis in die Arktis.",
+          "body": [
+            "Die Reihe „The Trip“ bekommt einen fünften Teil. „The Trip to the Northern Lights“ vereint erneut Steve Coogan und Rob Brydon mit Regisseur Michael Winterbottom. IFC und Sapan Studio haben die US-Rechte gekauft und bringen den Film am 9. April 2027 in die amerikanischen Kinos. IFC hat auch die vier früheren Filme in den USA herausgebracht.",
+            "Seit dem letzten Teil sind dann fast sieben Jahre vergangen. Brydon ist inzwischen 60, Coogan 59. Wie immer spielen beide Versionen ihrer selbst, essen gut, reden viel und überbieten sich mit Imitationen berühmter Schauspieler.",
+            "Diesmal führt die Reise nicht in den sonnigen Süden, sondern in die Kälte. „The Trip to the Northern Lights führt Steve und Rob von Malmö im Süden Schwedens durch Norwegens spektakuläre Fjorde bis zu den Lofoten im norwegischen Polarkreis“, sagte Winterbottom. Ein erstes Bild zeigt die beiden in riesigen Parkas im Schnee, gezogen von Huskys.",
+            "Die Reihe begann 2011 und führte bisher durch England, Italien, Spanien und Griechenland. Alle Teile entstanden zunächst als Miniserien und wurden dann zu Kinofilmen zusammengeschnitten."
+          ],
+          "highlight": "Seit dem letzten Teil sind dann fast sieben Jahre vergangen.",
+          "assessment": [
+            "Ich freue mich darauf. „The Trip“ ist eine der wenigen Reihen, die mit dem Alter ihrer Hauptdarsteller besser wird, weil unter den Witzen und Imitationen immer mehr Melancholie über Älterwerden und Eitelkeit liegt.",
+            "Der Wechsel vom Mittelmeer in die Arktis ist ein schöner Bruch. Ob Michael Caine bei minus zehn Grad genauso klingt, wird man sehen."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/the-trip-returns-fifth-installment-steve-coogan-rob-brydon-1235231120/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/11/THE-TRIP-TO-THE-NORTHERN-LIGHTS-Still-1.jpg?w=650",
+            "alt": "Steve Coogan und Rob Brydon in dicken Parkas im verschneiten Norwegen",
+            "credit": "Jose Sarmento Matos",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/the-trip-returns-fifth-installment-steve-coogan-rob-brydon-1235231120/"
+          }
+        },
+        {
+          "title": "Takashi Miikes „Bad Lieutenant: Tokyo“ kommt im März in die US-Kinos",
+          "lead": "Neon bringt die japanische Neuauflage des Polizeithrillers am 5. März 2027 nach Nordamerika. In den Hauptrollen spielen Shun Oguri, Lily James und Wrestlerin Liv Morgan.",
+          "body": [
+            "„Bad Lieutenant: Tokyo“ startet am 5. März 2027 in Nordamerika. Verleiher ist Neon, das Studio hinter den Oscar-Gewinnern „Anora“ und „Parasite“. Regie führte Takashi Miike, bekannt für „Audition“ und „13 Assassins“.",
+            "Shun Oguri spielt den Polizisten Yabuki, der mit Drogensucht, Spielschulden und Schuldgefühlen wegen früherer Vergehen kämpft. Er jagt in Tokio einen Mörder mit Verbindungen zur organisierten Kriminalität. Sein Fall kreuzt sich mit dem einer FBI-Agentin, gespielt von Lily James, die nach einer vermissten Touristin sucht. Diese spielt der WWE-Star Liv Morgan.",
+            "Der Film hatte seine Weltpremiere beim Filmfestival in Toronto 2026 und bekam gemischte Kritiken, einige fanden ihn überladen. Neon ist im Herbst mit Preisanwärtern wie „All of a Sudden“, „Fjord“, „Paper Tiger“ und „Artificial“ ausgelastet, der Frühjahrstermin ergibt deshalb Sinn.",
+            "„Bad Lieutenant“ geht auf Abel Ferraras Film von 1992 zurück, in dem Harvey Keitel einen völlig entgleisten Polizisten spielt. Der Film war so grenzüberschreitend, dass er in den USA die Altersfreigabe NC-17 bekam. 2009 verlegte Werner Herzog den Stoff mit Nicolas Cage nach New Orleans. Die neue Version ist eine amerikanisch-japanische Koproduktion, unter anderem produziert vom inzwischen verstorbenen Jeremy Thomas."
+          ],
+          "highlight": "Regie führte Takashi Miike, bekannt für „Audition“ und „13 Assassins“.",
+          "assessment": [
+            "Ich finde die Idee eigentlich großartig: Nach Ferrara und Herzog nun Miike, ein Regisseur, der Exzess so ernst nimmt wie kaum ein anderer. „Bad Lieutenant“ ist längst weniger eine Reihe als eine Einladung an Autorenfilmer, sich am Absturz eines Polizisten abzuarbeiten.",
+            "Die gemischten Kritiken aus Toronto dämpfen die Erwartungen etwas. Eine Wrestlerin in einer Nebenrolle und ein Hollywoodstar als FBI-Agentin klingen eher nach internationalem Kompromiss als nach Miikes kompromisslosesten Arbeiten."
+          ],
+          "sources": [
+            {
+              "name": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/bad-lieutenant-tokyo-march-2027-release-date-neon-1235231121/"
+            }
+          ],
+          "image": {
+            "url": "https://www.indiewire.com/wp-content/uploads/2026/07/03_BAD-LIEUTENANT-TOKYO_courtesyNEON.jpg?w=650",
+            "alt": "Szenenbild aus „Bad Lieutenant: Tokyo“",
+            "credit": "Neon",
+            "license": "Artikelbild IndieWire",
+            "source": "https://www.indiewire.com/news/breaking-news/bad-lieutenant-tokyo-march-2027-release-date-neon-1235231121/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Ein Fluch gegen die Chaosschlange: Verkohlte Papyri aus Theben sind 1000 Jahre älter als jede bekannte Abschrift",
+          "lead": "In einem Abfallhaufen am Totentempel Thutmosis’ III. haben Archäologen 40 verbrannte Papyrusfetzen eines Rituals gegen die Schlange Apophis gefunden. Sie sind rund 3400 Jahre alt und zeigen, dass der Fluch fast Alltag war.",
+          "body": [
+            "Bei Ausgrabungen am Totentempel von Thutmosis III. in Theben sind 40 verkohlte Papyrusfragmente aufgetaucht, die zu einem Fluchritual gegen Apophis gehören, die Schlange des Chaos in der ägyptischen Mythologie. Die Stücke stammen aus einem Abfallhaufen und sind etwa 3400 Jahre alt. Sie sind der früheste direkte, greifbare Beleg für das Ritual.",
+            "Bisher kannte die Ägyptologie nur eine einzige Abschrift des Rituals, erhalten in einem Handbuch aus dem späten vierten Jahrhundert vor Christus. Wie oft, von wem und wo es ausgeführt wurde, ließ sich daraus kaum ablesen. Die neuen Funde verschieben die Datierung um rund 1000 Jahre zurück ins Neue Reich.",
+            "Nach ägyptischem Glauben versuchte Apophis jede Nacht, den Sonnengott Re auf seiner Fahrt durch die Unterwelt aufzuhalten. Das Ritual „Niederwerfen des Apophis“ sollte Re helfen. Die Schlange wurde auf Papyrus gezeichnet, ihr Name mit roter Tinte geschrieben, oder als Wachsfigur geformt. Dann wurde das Bild zertreten, bespuckt, mit dem Messer durchstochen und verbrannt, während Sprüche aufgesagt wurden. Mit der Zeit richtete man das Ritual auch gegen Feinde des Pharaos, gegen beliebige Personen, gegen Gift und schlechtes Wetter, und man nutzte es gegen Krankheiten.",
+            "Fredrik Hagen, Professor für Ägyptologie an der Universität Kopenhagen, und sein Team stellten fest, dass die Fragmente in Serie hergestellte Kopien sind, gemacht, um verbrannt zu werden. Keines ist größer als eine halbe Briefmarke, viele zeigen Einstiche und Brandspuren, die genau zu den Anweisungen des Rituals passen. Dass überhaupt etwas erkennbar überlebt hat, nennt Hagen einen Glücksfall. Die Massenproduktion spricht für regelmäßige Nachfrage: Das Ritual gehörte zum Tempelalltag und wurde auch außerhalb der Tempel genutzt, etwa von Schreibern und Heilern, die Magie zum Schutz oder zum Schaden anderer anboten.",
+            "Hagen sieht darin auch eine Lehre für das Fach. Die Ägyptologie habe sich lange auf Tempel, Reliefs und Statuen konzentriert. Wer dagegen die unscheinbaren Abfallhalden außerhalb der Tempel untersucht, erfahre, wie ein Tempel tatsächlich funktionierte und wie Priester lebten. Vermutlich habe man solche Reste bisher schlicht übersehen, weil sich kaum jemand für Müll interessierte."
+          ],
+          "highlight": "Die neuen Funde verschieben die Datierung um rund 1000 Jahre zurück ins Neue Reich.",
+          "assessment": [
+            "Ich mag diese Art Fund besonders: kein Goldschatz, sondern Wegwerfware, die mehr über den Alltag verrät als jede Prunkinschrift. Verfluchen war im alten Ägypten offenbar ein Gebrauchsgegenstand, in Serie hergestellt wie heute ein Formular.",
+            "Hagens Hinweis auf die Abfallhaufen ist der eigentliche Kern. Die Wissenschaft findet meist, wonach sie sucht, und wer nur Tempel ausgräbt, findet Tempel."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/charred-papyrus-the-apophis-curse-ritual/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/charred-papyrus-apophis-curse-1.jpg",
+            "alt": "Verkohlte Papyrusfragmente des Apophis-Rituals mit Brand- und Stichspuren",
+            "credit": "Fredrik Hagen, Universität Kopenhagen",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/charred-papyrus-the-apophis-curse-ritual/"
+          }
+        },
+        {
+          "title": "Ein Königsgrab der Ptolemäer? Mächtige Fundamente im alten Palastviertel von Alexandria",
+          "lead": "Griechische Archäologen haben in Alexandria die Fundamente eines großen, quadratischen Steinbaus mit Tunnel freigelegt. Eine Kommission hält es für möglich, dass hier ein in antiken Quellen erwähntes Königsgrab stand.",
+          "body": [
+            "Ein griechisches Grabungsteam hat im antiken Königsviertel von Alexandria die Fundamente eines großen Steinbaus entdeckt. Zu den Resten gehören Kalksteinfundamente, umgebende Mauern und ein Tunnel, der unter dem Gebäude nach Norden verläuft. Gegraben wird in den Shallalat-Gärten, wo eine Mission des Hellenic Research Institute of Alexandrian Civilization seit etwa 20 Jahren arbeitet. Die Leitung hat Kalliopi Limnios-Papacosta.",
+            "Die Fundamente bilden einen großen, annähernd quadratischen Grundriss. Größe und Form lassen auf ein mächtiges, hohes Gebäude schließen. Nach dem Bericht der Mission ließ Ägyptens Minister für Tourismus und Altertümer, Sherif Fathy, eine Fachkommission die Reste begutachten. Sie stand unter Leitung von Ayman Ashmawy vom Obersten Rat der Altertümer und bestätigte, dass der Ort im antiken Königsviertel liegt.",
+            "Form und Bauweise lassen an eine Grabanlage denken. Sollte sich das bestätigen, könnte der Bau mit einem Königsgrab zusammenhängen, das in antiken Quellen erwähnt wird. Ptolemaios IV. Philopator, der von 221 bis 204 vor Christus regierte, soll eine königliche Grabstätte angelegt haben, und der griechische Geograf Strabon beschreibt das Grab in seinem Bericht über Alexandria.",
+            "Die Kommission betont, dass es sich um eine frühe Hypothese handelt, nicht um eine gesicherte Zuordnung. Ashmawy zufolge sind weitere Grabungen und Untersuchungen nötig, um Zweck und Identität des Gebäudes zu klären. Auch sein Verhältnis zu benachbarten Bauten soll erforscht werden.",
+            "Unabhängig davon helfen die Fundamente, das Gelände des antiken Alexandria zu kartieren und nachzuvollziehen, wie sich große Bauten in diesem Teil der Stadt verteilten. Das ptolemäische Königsviertel liegt heute zum großen Teil unter der modernen Stadt."
+          ],
+          "highlight": "Sollte sich das bestätigen, könnte der Bau mit einem Königsgrab zusammenhängen, das in antiken Quellen erwähnt wird.",
+          "assessment": [
+            "Ich wäre vorsichtig mit der Begeisterung. Alexandria ist berühmt für große Hoffnungen auf Königsgräber, Alexanders Grab wird seit Jahrhunderten gesucht, und die Kommission sagt selbst, dass es nur eine Hypothese ist.",
+            "Trotzdem ist der Fund wichtig. Vom ptolemäischen Alexandria, einer der größten Städte der Antike, ist an Land erstaunlich wenig bekannt. Jeder gesicherte Grundriss im Palastviertel ist ein Stück Stadtplan, das bisher fehlte."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/large-foundations-in-alexandria-ptolemaic-tomb/"
+            },
+            {
+              "name": "Archaeology (AIA)",
+              "url": "https://archaeology.org/news/2026/11/25/ptolemaic-foundation-unearthed-in-alexandria/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/foundations-alexandria-ptolemaic-1.jpg",
+            "alt": "Kalksteinfundamente eines großen Gebäudes im antiken Königsviertel von Alexandria",
+            "credit": "Ägyptisches Ministerium für Tourismus und Altertümer",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/large-foundations-in-alexandria-ptolemaic-tomb/"
+          }
+        },
+        {
+          "title": "Kettenhemd vom Meeresgrund: Neue Funde aus König Hans’ „schwimmender Burg“ Gribshunden",
+          "lead": "Im Wrack des dänischen Kriegsschiffs Gribshunden, das 1495 vor Südschweden sank, haben Taucher ein hochwertiges Kettenhemd und eine besondere Munitionskiste entdeckt. Sie gehörten womöglich deutschen Landsknechten.",
+          "body": [
+            "Archäologen haben im Wrack der Gribshunden, auch Griffin genannt, ein Kettenhemd geborgen. Das königliche Kriegsschiff diente König Hans von Dänemark und Norwegen als „schwimmende Burg“. Es explodierte und sank 1495. Erst jetzt haben die Forscher begonnen, den Bereich unter dem Vorderkastell zu untersuchen, einer erhöhten Kampfplattform am Bug. Dort fanden sie das Kettenhemd und eine einzigartige Munitionskiste.",
+            "Das Kettenhemd lag „überraschenderweise völlig frei“, sagte Projektleiter Rolf Warming von der Universität Stockholm. „Wir sind nur durch Zufall darauf gestoßen, und das zeigt, wie viel noch an der Fundstelle liegt.“ Es besteht aus einer Kupferlegierung und ist von außergewöhnlich hoher Qualität, muss aber nicht einem Ritter gehört haben. Solche Rüstungen wurden lange getragen, repariert und weiterverwendet.",
+            "Historische Quellen berichten, dass deutsche Landsknechte an Bord waren, als das Schiff sank, erklärte Co-Projektleiter Rodrigo Pacheco-Ruiz von der Universität Southampton. Hans war 1495 auf dem Weg nach Kalmar, um Schweden in die Union mit Dänemark und Norwegen zurückzuzwingen, und hatte etwa 150 deutsche Söldner dabei. Es sei wichtig gewesen, militärische Stärke zu zeigen, sagt Warming, und deutsche und Schweizer Söldner seien damals die besten gewesen.",
+            "Bei einem Halt im Hafen von Ronneby fing das Schiff Feuer, vielleicht nach einem Blitzschlag, und sank. Viele Männer kamen ums Leben, der König selbst war an Land. Das Wrack wurde in den 1970er-Jahren entdeckt und 2013 als Gribshunden identifiziert. Das salzarme Wasser der Ostsee, in dem keine Schiffsbohrwürmer leben, hat es außergewöhnlich gut erhalten.",
+            "Neben dem Kettenhemd fand das Team eine Munitionskiste, auf Deutsch „Zeuglade“ genannt. Proben sollen klären, was darin war, womöglich finden sich Spuren von Schießpulver. Warming vermutet unter dem Vorderkastell einen Stauraum für Ausrüstung. Die spannende Frage sei, ob die Söldner ihre Munition und Werkzeuge selbst mitbrachten oder ob die königliche Flotte sie stellte."
+          ],
+          "highlight": "Das salzarme Wasser der Ostsee, in dem keine Schiffsbohrwürmer leben, hat es außergewöhnlich gut erhalten.",
+          "assessment": [
+            "Für mich ist Gribshunden eines der spannendsten Wracks Europas, weil es einen Moment einfriert, in dem sich Mittelalter und frühe Neuzeit überlappen: Kettenhemd und Schießpulver an Bord desselben Schiffes, Söldner statt Lehnsheer.",
+            "Die Frage nach der Herkunft der Munition klingt trocken, ist aber zentral. Sie erzählt, wie ein spätmittelalterlicher König Krieg organisierte und wer dafür eigentlich bezahlte."
+          ],
+          "sources": [
+            {
+              "name": "Live Science",
+              "url": "https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/bARFsGsbLEwKXyDDGseoq8-2560-80.png",
+            "alt": "Ineinandergreifende Kupferringe eines Kettenhemds, teils bläulich verfärbt, auf dem Grund der Ostsee",
+            "credit": "Florian Huber",
+            "license": "Artikelbild Live Science",
+            "source": "https://www.livescience.com/archaeology/medieval-chain-mail-discovered-during-underwater-excavation-of-15th-century-floating-castle-that-sank-off-sweden"
+          }
+        },
+        {
+          "title": "Keine Massenware: 3D-Scans zeigen, dass Wikinger-Fibeln Einzelstücke waren",
+          "lead": "Ovale Schalenfibeln galten als eines der ersten Massenprodukte Europas. Eine Studie mit 3D-Scans von über hundert Fibeln und Hunderten Gussformen widerlegt das.",
+          "body": [
+            "Ovale Schalenfibeln gehören zu den häufigsten Fundstücken der Wikingerzeit, die etwa von 750 bis 1050 nach Christus reichte. Frauen trugen sie paarweise, um ein Obergewand zu schließen, und die Forschung sieht in ihnen ein Zeichen skandinavischer Identität. Tausende wurden in der ganzen Wikingerwelt gefunden, dazu Zehntausende Bruchstücke von Gussformen in den frühen Städten. Daraus schloss man lange, die Fibeln seien eines der ersten Massenprodukte gewesen, billig in Standardformen gegossen.",
+            "Derek Parrott von der Universität Aarhus wollte das überprüfen. Gussformreste sind schwierige Belege: Die meisten sind abgenutzt, zerbrochen und vom Guss verbrannt, sodass sich ein Formstück kaum mit bloßem Auge einer fertigen Fibel zuordnen lässt. Parrott erstellte deshalb detaillierte 3D-Modelle von 105 Fibeln des Typs Berdal aus ganz Nordeuropa und verglich sie mit 244 Formbruchstücken aus Ribe in Dänemark, einem der wichtigsten Herstellungsorte. Die Ergebnisse erschienen in der Fachzeitschrift Antiquity.",
+            "Die Trefferquote war gering. Nur fünf Fibeln, gefunden in Dänemark und Norwegen, passten zu Gussformen aus Ribe, und zwar zu 58 Formstücken. Eine fließbandartige Produktion in Ribe hätte viel mehr Treffer ergeben müssen. Die Fibeln waren also weniger einheitlich als gedacht und wurden an vielen Orten hergestellt, nicht nur in den großen Handelsplätzen.",
+            "Selbst die fünf passenden Fibeln unterscheiden sich voneinander, jede hat eigene Details in der Verzierung. Die Handwerker nutzten viele Techniken und schufen Einzelstücke innerhalb komplexer Werkstattgemeinschaften. Die Treffer stützen zudem die Annahme einer Schiffsroute entlang der skandinavischen Westküste von Norden nach Süden.",
+            "Parrott fasst es in einem Satz zusammen: Die Skandinavier der Wikingerzeit hielten nichts von Fast Fashion. Ihr Schmuck veränderte sich von Stück zu Stück, auch innerhalb fester Grundformen."
+          ],
+          "highlight": "Nur fünf Fibeln, gefunden in Dänemark und Norwegen, passten zu Gussformen aus Ribe, und zwar zu 58 Formstücken.",
+          "assessment": [
+            "Ich finde die Studie ein schönes Beispiel dafür, wie neue Technik alte Gewissheiten kippt. Die Annahme der Massenproduktion beruhte darauf, dass die Fibeln für das bloße Auge gleich aussehen, und genau das war offenbar die Täuschung.",
+            "Dahinter steht ein größeres Bild: Die Wikingerzeit war handwerklich vielfältiger und dezentraler, als die Vorstellung von wenigen Handelsstädten mit Werkstätten am Fließband nahelegt."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/viking-oval-brooches-werent-mass-produced/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/viking-oval-brooches-werent-1.jpg",
+            "alt": "Ein Paar ovaler Schalenfibeln aus der Wikingerzeit in der Draufsicht",
+            "credit": "Universitätsmuseum Bergen",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/viking-oval-brooches-werent-mass-produced/"
+          }
+        },
+        {
+          "title": "Blumen als Botschaft: Cellinis „Narziss“ huldigt Cosimo de’ Medici",
+          "lead": "Eine Kunsthistorikerin liest die Pflanzen an Benvenuto Cellinis Marmorstatue Narziss neu. Sie sollen den Herzog als Förderer der Botanik feiern und die Bildhauerei über die Malerei stellen.",
+          "body": [
+            "Die Marmorstatue des Narziss von Benvenuto Cellini im Florentiner Bargello trägt eine botanische Botschaft. Das schreibt die Kunsthistorikerin Alexandra Dvorkin im Sculpture Journal. Cellini habe die Figur mit Pflanzen versehen, um seinen Mäzen, Herzog Cosimo I. de’ Medici, zu ehren und zugleich einen Streit darüber zu gewinnen, welche Kunst die höchste sei.",
+            "Cellini arbeitete an der Figur von 1548 bis 1565, aus einem Block griechischen Marmors, der dem Herzog gehörte. Für welchen Ort sie gedacht war und ob sie überhaupt bestellt wurde, ist unbekannt. Bis zu seinem Tod 1571 blieb sie in Cellinis Werkstatt. Cosimos Sohn Francesco erbte sie, später stand sie in den Gärten von Pratolino und Boboli, bevor sie ins Bargello kam.",
+            "Cosimo kam mit 17 Jahren aus einer Nebenlinie der Familie an die Macht und musste sich als fähiger Herrscher beweisen. Gärten halfen dabei. Er pflanzte in Italien neue Arten, eröffnete 1543 die Universität Pisa wieder und gründete dort einen botanischen Garten, nach Padua den zweiten in Europa. Narzissenzwiebeln aus dem östlichen Mittelmeer waren damals selten und teuer, eine gemeißelte Narzisse passte also gut zum Bild des Herzogs.",
+            "Als Vorlage für die Pflanzen sieht Dvorkin ein Kräuterbuch von Pietro Andrea Mattioli, das Cosimo eifrig las und mit Randnotizen versah. Jede Pflanze an der Statue findet sich in der illustrierten Ausgabe von 1549: Efeu, Äpfel, Trauben, eine Rose und Narzissen. Vier Blüten im Strauß entsprechen den vier Narzissen auf einer Seite des Buchs, und in den Efeuranken versteckt sich eine Schlange, passend zu einer Bemerkung des römischen Autors Plinius.",
+            "Die Pflanzen dienten auch dem Paragone, dem Renaissance-Streit, ob Bildhauerei oder Malerei die edlere Kunst sei. Maler beriefen sich auf die Farbe und darauf, dass illustrierte Kräuterbücher der Botanik dienten. Cellini antwortete mit Früchten, die Farbe, Geschmack und Duft im Kopf des Betrachters wecken, und zeigte, dass Skulptur die Botanik sogar dreidimensional abbilden kann. Diesen Punkt habe die Forschung bisher übersehen, schreibt Dvorkin."
+          ],
+          "highlight": "Jede Pflanze an der Statue findet sich in der illustrierten Ausgabe von 1549: Efeu, Äpfel, Trauben, eine Rose und Narzissen.",
+          "assessment": [
+            "Das ist eher Kunstgeschichte als Archäologie, aber eine schöne Detektivarbeit. Wer vor dem Narziss im Bargello steht, sieht meist nur einen eleganten Jüngling, und die Pflanzen sind Beiwerk. Dvorkin macht daraus ein politisches und intellektuelles Programm.",
+            "Ich finde die These überzeugend, weil sie so gut zu Cellini passt: Er war eitel, streitlustig und wollte immer beweisen, dass er der Größte ist. Eine Statue, die nebenbei einen Gelehrtenstreit entscheidet, ist ganz in seinem Sinn."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/flowers-carved-into-renaissance-narcissus-statue-florences/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/renaissance-narcissus-statue-florences-1.jpg",
+            "alt": "Kopf der Marmorstatue Narziss von Benvenuto Cellini im Bargello in Florenz",
+            "credit": "Yair Haklai",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/flowers-carved-into-renaissance-narcissus-statue-florences/"
+          }
+        }
+      ]
+    }
+  ]
+}

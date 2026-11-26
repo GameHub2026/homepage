@@ -1,5 +1,39 @@
 [
   {
+    "nr": 49,
+    "date": "2026-11-26",
+    "updated": "2026-11-26T07:50:59+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Eine Million Rechenzentren im All: Die FCC genehmigt SpaceX das Starmind-Netz",
+      "Private Chats von 21 Millionen Konten unterm Hammer: 42 Generalstaatsanwälte stellen sich gegen Character.ai",
+      "Neu im Fall Nvidia: S&P droht mit einer schlechteren Kreditnote, wegen Huang",
+      "Angriff über GitHub: Hacker erbeuten Kundendaten bei 1Password",
+      "Tidal wirft alle KI-Musik raus: 27 Millionen Titel werden am 9. Dezember gelöscht",
+      "EA lässt John Motson per KI wieder kommentieren, drei Jahre nach seinem Tod",
+      "„Albtraum aus KI-Psychose“: Ubisoft-Teams müssen begründen, warum sie keine KI nutzen",
+      "The Witcher 4 wird mit Sony vermarktet, bleibt aber auf allen Plattformen",
+      "Keine billigeren Konsolen vor 2028: Der KI-Boom hält die Speicherpreise oben",
+      "Capcom schaltet Exoprimal im September 2027 ab",
+      "Thanksgiving an der Kinokasse: Panem räumt ab, Disneys „Hexed“ startet verhalten",
+      "Veruschka ist tot: Das erste deutsche Supermodel und die Frau aus „Blow-Up“ wurde 87",
+      "Netflix setzt Will Ferrells Golfserie „The Hawk“ nach einer Staffel ab",
+      "„The Pitt“ kehrt am 7. Januar zurück, Robby ist in Therapie",
+      "„The Trip“ geht weiter: Coogan und Brydon reisen zum Polarlicht",
+      "Takashi Miikes „Bad Lieutenant: Tokyo“ kommt im März in die US-Kinos",
+      "Ein Fluch gegen die Chaosschlange: Verkohlte Papyri aus Theben sind 1000 Jahre älter als jede bekannte Abschrift",
+      "Ein Königsgrab der Ptolemäer? Mächtige Fundamente im alten Palastviertel von Alexandria",
+      "Kettenhemd vom Meeresgrund: Neue Funde aus König Hans’ „schwimmender Burg“ Gribshunden",
+      "Keine Massenware: 3D-Scans zeigen, dass Wikinger-Fibeln Einzelstücke waren",
+      "Blumen als Botschaft: Cellinis „Narziss“ huldigt Cosimo de’ Medici"
+    ]
+  },
+  {
     "nr": 48,
     "date": "2026-11-24",
     "updated": "2026-11-24T07:49:00+01:00",
