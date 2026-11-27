@@ -1,0 +1,647 @@
+{
+  "nr": 50,
+  "date": "2026-11-27",
+  "intro": "Heft 50 steht im Zeichen der Kehrseiten der KI: Nvidia schließt das südostasiatische Schlupfloch für Chinas Labore, SAP plant 10.000 Stellen weniger, und das BSI warnt vor autonom angreifenden KI-Agenten, während der Riemann-Beweis auf ein Hundertstel schrumpft. Im Gaming lehnt die Rockstar-Belegschaft die Gewerkschaft ab, und Team Cherry zeigt heute Nachmittag die Silksong-Erweiterung. Dazu Abschiede von Gerald R. Molen und Mark Tildesley, der erste Teaser der „Dark“-Macher zu „Sonnental“ und eine Steinzeit voller Riesenhirsche, Elchgravuren und saurer Milch.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Nvidia stoppt Serverlieferungen nach Südostasien: Das Schlupfloch für Chinas KI-Labore soll zugehen",
+          "lead": "Nvidia hat Dell und Supermicro laut Wall Street Journal und Financial Times angewiesen, vorerst keine KI-Server mehr nach Malaysia, Singapur, Thailand und Indonesien zu liefern. Hintergrund sind verschärfte US-Exportregeln gegen die Nutzung amerikanischer Chips durch chinesische Firmen über Rechenzentren im Ausland.",
+          "body": [
+            "Nach Berichten des Wall Street Journal und der Financial Times hat Nvidia seine Fertigungspartner, darunter Dell und Supermicro, angewiesen, Serverlieferungen nach Malaysia, Singapur, Thailand und Indonesien auf unbestimmte Zeit auszusetzen. Nvidia will in dieser Zeit prüfen, ob seine Partner in der Region die US-Exportvorschriften einhalten. Das Unternehmen wollte die Berichte nicht kommentieren, Dell und Supermicro reagierten laut heise nicht auf Anfragen.",
+            "Die Auswahl der Länder ist kein Zufall. Chinesische Unternehmen haben Nvidias modernste Chips, die seit Jahren nicht nach China exportiert werden dürfen, über Rechenzentren in Südostasien gemietet, statt sie selbst zu importieren. Seit dem 19. November brauchen Betreiber ausländischer Rechenzentren eine US-Genehmigung, wenn sie chinesischen Kunden größere Mengen KI-Rechenleistung auf US-Chips bereitstellen. Die Denkfabrik Institute for Progress schätzt, dass solche Rechenzentren im Ausland rund 24 Prozent der chinesischen KI-Rechenleistung liefern.",
+            "Für Nvidia ist der Schritt teuer. Die Tochter in Singapur kam 2025 auf 104 Milliarden US-Dollar Umsatz, 72 Prozent mehr als im Vorjahr; über sie laufen auch Geschäfte mit Taiwan und China. Welche Chips genau betroffen sind und wie lange der Stopp gilt, ist offen. In der Region sorgt die neue Regel ohnehin für Unruhe: Cloud-Anbieter haben 90 Tage Zeit, eine Lizenz zu beantragen, wissen aber nach Aussage eines Managers nicht, wie. „Das sorgt in der Region für pures Chaos“, zitiert heise.",
+            "Die Folgen für Chinas KI-Labore zeichnen sich bereits ab. Laut Reuters verzögert sich das neue Spitzenmodell GLM-5.5 von Z.ai, das eigentlich im November erscheinen sollte, womöglich bis ins erste Quartal 2027. Forschende bei DeepSeek schätzten laut The Information, dass der Rückstand chinesischer Modelle auf die US-Spitze von drei bis sechs auf neun Monate wachsen könnte, wenn auch die Destillation amerikanischer Modelle vollständig unterbunden wird. Moonshot sucht inzwischen nach Rechenkapazität in Europa.",
+            "Der Zeitpunkt fällt in Nvidias schwierigste Wochen: Nach dem Rücktritt und der schnellen Wiedereinsetzung von Jensen Huang will der Konzern offenbar zeigen, dass er sich an die Regeln hält. Huang hatte zuvor noch dafür geworben, auch an chinesische Unternehmen zu liefern."
+          ],
+          "highlight": "Die Denkfabrik Institute for Progress schätzt, dass solche Rechenzentren im Ausland rund 24 Prozent der chinesischen KI-Rechenleistung liefern.",
+          "assessment": [
+            "Das ist der Moment, in dem die Exportkontrolle ernst wird. Jahrelang war der Chipbann gegen China löchrig, weil Rechenleistung sich mieten lässt, und Südostasien hat davon mit einem Rechenzentrumsboom profitiert. Dass Nvidia nun selbst den Riegel vorschiebt, hat weniger mit Überzeugung zu tun als mit Lage: Ein Konzern, dessen Chef gerade wegen einer Affäre mit einer mutmaßlichen Spionin in den Schlagzeilen war, kann sich keinen Exportskandal leisten.",
+            "Für die Region ist das bitter, denn Milliardeninvestitionen in Malaysia und Indonesien hängen plötzlich in der Luft. Und für China heißt es: mehr eigene Chips, mehr Umwege über Europa, langsamere Modelle. Ob das den Abstand dauerhaft vergrößert, ist offen; dass es ihn kurzfristig vergrößert, ist ziemlich wahrscheinlich."
+          ],
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html"
+            },
+            {
+              "name": "heise online (China-Labore)",
+              "url": "https://www.heise.de/news/Chinas-KI-Labore-unter-Druck-US-Massnahmen-bremsen-Modellentwicklung-11539653.html"
+            }
+          ],
+          "image": {
+            "url": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+            "alt": "Ein Mann mit Smartphone vor einer Wandkarte mit Börsenkursen an der Taiwaner Börse",
+            "credit": "I-Hwa Cheng / AFP / Getty Images",
+            "license": "Artikelbild TechCrunch",
+            "source": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+          }
+        },
+        {
+          "title": "„KI zuerst“: SAP plant laut Bloomberg den Abbau von mindestens 10.000 Stellen",
+          "lead": "Europas wertvollster Softwarekonzern lässt alle Abteilungen melden, welche Stellen wegfallen können. Künstliche Intelligenz soll vor allem Arbeit in Programmierung, Produktbetreuung und Vertrieb überflüssig machen.",
+          "body": [
+            "SAP arbeitet nach einem Bericht von Bloomberg an Plänen, mindestens 10.000 Stellen abzubauen. Die Agentur beruft sich auf Eingeweihte. SAP hat den Bericht nicht dementiert und spricht von „kontinuierlichen Prüfungen der Organisation“. Die Pläne sind Teil der Strategie „KI zuerst“, mit der das Management grundlegend ändern will, wie SAP Software entwickelt und verkauft.",
+            "Alle Abteilungen sollen laut Bericht ausweisen, wo sie Stellen streichen können. Besonders betroffen wären Programmierung, Produktbetreuung und Vertrieb. 10.000 Stellen entsprächen fast einem Zehntel der weltweit 110.730 Beschäftigten, die SAP Ende September zählte.",
+            "Es wäre nicht die erste Welle. Bereits 2024 baute SAP 10.000 Arbeitsplätze ab, überwiegend über freiwillige Abgänge, und stellte seitdem wieder rund 15.000 Leute ein. Diesmal ist die Ausgangslage für die Beschäftigten in Deutschland schlechter: Eine Betriebsvereinbarung zur Beschäftigungssicherung läuft zum Jahresende aus.",
+            "Im September hatte Konzernchef Christian Klein mit dem Betriebsrat der deutschen Dachgesellschaft eine neue Vereinbarung geschlossen, die in Medien fälschlich als Beschäftigungssicherung bis Ende 2028 beschrieben wurde. Die IG Metall kritisierte sie scharf: Ein ausdrücklicher Ausschluss betriebsbedingter Kündigungen fehle, die Vereinbarung regle vor allem die Höhe von Abfindungen und sei „ein Preisschild für Entlassungen und kein Schutz“."
+          ],
+          "highlight": "10.000 Stellen entsprächen fast einem Zehntel der weltweit 110.730 Beschäftigten, die SAP Ende September zählte.",
+          "assessment": [
+            "Bisher war „Jobs durch KI ersetzt“ meist eine Prognose oder ein Etikett, das man Sparrunden nachträglich aufklebte. Bei SAP wird es zur offen ausgesprochenen Konzernstrategie, und das ausgerechnet bei Programmierern, also bei den Leuten, die Software herstellen. Das ist ein Signal weit über Walldorf hinaus.",
+            "Bemerkenswert ist auch das Timing: Die alte Schutzvereinbarung läuft aus, die neue regelt vor allem Abfindungen. Wer da an Zufall glaubt, ist optimistisch. Die eigentliche Frage ist, ob SAP mit weniger Leuten tatsächlich schneller und besser wird, oder ob in zwei Jahren wieder eingestellt wird wie nach 2024."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/0/1/1/shutterstock_2103114116-8544d16fdaba394a.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu SAP und Stellenabbau",
+            "credit": "Andrey_Popov / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html"
+          }
+        },
+        {
+          "title": "Neu zur Riemannschen Vermutung: Claude kürzt den KI-Beweis um mehr als 99 Prozent",
+          "lead": "Eine Woche nach dem Aufsehen erregenden Beweis haben Anthropic-Mitarbeiter ihn mit Claude von 17,4 Millionen auf rund 113.000 Zeilen Lean-Code verdichtet. Unabhängige Mathematiker haben die Kurzfassungen bereits maschinell geprüft.",
+          "body": [
+            "Am vergangenen Freitag hatte der Anthropic-Mathematiker Levent Alpöge einen mit Claude entwickelten Beweis der Riemannschen Vermutung veröffentlicht, eines der berühmtesten offenen Probleme der Mathematik aus der Mitte des 19. Jahrhunderts. Der Beweis umfasste rund 17,4 Millionen Zeilen in Lean, einer formalen Sprache, mit der sich Beweise maschinell überprüfen lassen. Schon einen Tag später bestätigten Vertreter der Lean-Gemeinschaft die formale Korrektheit.",
+            "Alpöge räumte anschließend ein, dass der Code viel Überflüssiges enthalte. Wie viel, zeigte sich am Mittwoch: Anthropic-Mitarbeiter Luke Sernau veröffentlichte auf GitHub zwei kürzere Fassungen, die er mit Kollegen und Claude in wenigen Tagen erarbeitet hatte. Die kompakte Version umfasst laut einer unabhängigen Auswertung rund 113.000 Zeilen, über 99 Prozent weniger als das Original, eine auf Lesbarkeit optimierte Fassung etwa 477.000 Zeilen.",
+            "Dabei ging es nicht nur ums Aufräumen. Claude schrieb laut Sernaus Dokumentation sowohl den Lean-Code als auch die Erläuterungen und fand für zahlreiche Zwischenergebnisse einfachere Beweise; viele Argumente sind damit neu. Der MIT-Mathematiker Andrew Sutherland hat beide Fassungen unabhängig maschinell geprüft, Michael Rubinstein von der University of Waterloo die kompakte. Beide bestätigen, dass sie dieselben Aussagen beweisen wie das Original.",
+            "Verstanden ist der Beweis damit noch nicht. Auf dem Blog von Terence Tao kündigten drei Mathematiker ein Gemeinschaftsprojekt an, das einen für Menschen verständlichen Beweis erarbeiten soll. Rubinstein hat mit Claude, Codex und Gemini eine 265-seitige, noch unvollständige Ausarbeitung in herkömmlicher Fachsprache erstellt, der polnische Mathematiker Bartosz Naskrecki einen KI-gestützten Entwurf, der die gesamte kompakte Fassung aufbereitet. Eine menschliche Begutachtung steht aus.",
+            "Ars Technica beschreibt die Stimmung in der Fachwelt als aufgewühlt. Mathematiker hätten ihre Sorgen in einem offenen Brief formuliert: Ein Beweis sei für das Fach oft weniger wichtig als der Weg dorthin, weil dabei neue Werkzeuge und Querverbindungen entstehen. Naskrecki bringt es auf X so auf den Punkt: „Der Engpass liegt nicht mehr beim formalen Beweis, sondern darin, dass Menschen ihn lesen müssen.“"
+          ],
+          "highlight": "Die kompakte Version umfasst laut einer unabhängigen Auswertung rund 113.000 Zeilen, über 99 Prozent weniger als das Original, eine auf Lesbarkeit optimierte Fassung etwa 477.000 Zeilen.",
+          "assessment": [
+            "Die Kürzung ist fast spannender als der Beweis selbst. 17 Millionen Zeilen waren ein Beweis durch Erschöpfung, ein Monolith, den niemand lesen kann. 113.000 Zeilen mit neuen, einfacheren Zwischenschritten sind etwas anderes: Das ist der Beginn von Mathematik, die Menschen tatsächlich nachvollziehen können.",
+            "Naskreckis Satz trifft den Kern. Die Maschinen liefern Gewissheit, Lean prüft sie, aber das Verständnis bleibt Menschenarbeit, und die dauert Jahre. Wahrscheinlich sieht so die Mathematik der nächsten Zeit aus: KI findet und verkürzt, Menschen lesen, deuten und bauen weiter. Die Ängste im offenen Brief sind berechtigt, aber diese Woche spricht eher dafür, dass der Weg nicht verloren geht, sondern nur später kommt."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Riemannsche-Vermutung-Claude-kuerzt-KI-Beweis-um-mehr-als-99-Prozent-11539145.html"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/6/9/1/shutterstock_2572584511-bece0da6af9d02c6.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild mit mathematischen Formeln",
+            "credit": "vectorfusionart / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Riemannsche-Vermutung-Claude-kuerzt-KI-Beweis-um-mehr-als-99-Prozent-11539145.html"
+          }
+        },
+        {
+          "title": "BSI warnt vor KI-Agenten als Angreifer: „Eine neue Ära hat begonnen“",
+          "lead": "Das Bundesamt für Sicherheit in der Informationstechnik sieht eine verschärfte Bedrohungslage durch Agentic Offensive Frameworks, also nahezu autonome KI-Angriffswerkzeuge. Fachleute raten zu radikaler Verkleinerung der Angriffsfläche, notfalls zum Abschalten über die Feiertage.",
+          "body": [
+            "Das BSI warnt vor zunehmenden Angriffen mit sogenannten Agentic Offensive Frameworks (AOF) wie Artex, die inzwischen einen hohen Reifegrad erreicht hätten. Gleichzeitig diskutierten rund 180 Sicherheitsverantwortliche bei einer Veranstaltung von heise security PRO, wie man sich schützen kann. Dass Kriminelle Sprachmodelle für Phishing oder Schadskripte nutzen, ist bekannt. Neu ist, dass komplexe Angriffe fast vollständig von KI ausgeführt werden.",
+            "Laut Florian Roth, Forschungschef bei Nextron Systems, nahmen solche Angriffe im August und September Fahrt auf. Beispiele sind Attacken auf Hunderte Onlineshops mit dem Framework „Cairn“, aufgedeckt von Gambit Security, und die erfolgreiche Stilllegung zentraler interner Verwaltungsplattformen der EU-Kommission mit „Artex“, vor dem CERT-EU und FBI bereits gewarnt hatten.",
+            "Das Prinzip: Ein menschlicher Operator gibt ein Ziel vor, etwa alle internen Informationen zu einem bestimmten Produkt einer Firma zu sammeln. Schwärme von KI-Agenten planen, handeln, werten aus und passen sich an, in einer Dauerschleife, bis das Ziel erreicht ist oder der Mensch abbricht. Anders als menschliche Angreifer kennen sie keinen Zeitmangel. Sie klopfen die Infrastruktur auf alle Schwachstellen ab, durchforsten nach dem Einbruch jeden Winkel und haben laut Roth oft einen besseren Überblick als die zuständigen Admins. Grenzen setzt nur die Rechenleistung.",
+            "Auch die Zuordnung ist schwierig, weil die Agenten laufend neue Strategien entwickeln, frischen Exploit-Code schreiben und IP-Adressen über VPN oder Tor wechseln. heise-security-Chef Jürgen Schmidt regte an, potenziell verwundbare Systeme über die Feiertage möglichst vom Netz zu nehmen. Roth plädiert langfristig für „defensiven Minimalismus“: Wer ein Feature aktivieren will, solle erklären können, warum es sich lohnt, es über die gesamte Lebensdauer zu verteidigen.",
+            "Konkret heißt das: technische Schulden abarbeiten, Multi-Faktor-Authentifizierung flächendeckend einführen, Netzbereiche sauber trennen. Auch das BSI mahnt vor allem die Grundlagen an und empfiehlt als schnelle Maßnahmen, die Reaktionsfähigkeit bei Vorfällen zu stärken und die einfachsten Angriffswege abzusichern."
+          ],
+          "highlight": "Schwärme von KI-Agenten planen, handeln, werten aus und passen sich an, in einer Dauerschleife, bis das Ziel erreicht ist oder der Mensch abbricht.",
+          "assessment": [
+            "Hier wird die Kehrseite der Agenten-Euphorie sichtbar. Dieselbe Technik, die Code prüft und Beweise kürzt, durchforstet auch Netzwerke, unermüdlich und billig. Das Gefährliche ist weniger die Raffinesse als die Gründlichkeit: Jedes vergessene Testsystem, jedes Konto ohne zweiten Faktor wird gefunden.",
+            "Dass die Antwort der Fachleute so unspektakulär klingt, nämlich Grundlagen, Grundlagen, Grundlagen, ist die eigentliche Pointe. Die Angreifer haben ein neues Werkzeug, die Verteidiger vor allem alte Hausaufgaben. Der Rat, über Weihnachten Systeme abzuschalten, zeigt, wie ernst die Lage genommen wird."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/8/9/2/shutterstock_2276252513-44ac847f78306dac.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu Cyberangriffen mit KI",
+            "credit": "photoschmidt / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html"
+          }
+        },
+        {
+          "title": "Abrechnungsfehler bei GPT-6.2: ChatGPT-Abonnenten erreichen ihre Limits deutlich früher",
+          "lead": "OpenAI hat die Nutzung seiner neuen Modelle Astra und Sol seit dem Start zu niedrig angerechnet. Nach der Korrektur sind die Kontingente bis zu 40 Prozent schneller aufgebraucht, und im Dezember kommen gemeinsame Limits für Chat und Work.",
+          "body": [
+            "Seit der Einführung am 17. November hat ChatGPT die Nutzung von GPT-6.2 Astra und Sol bei den meisten Anwendern zu niedrig berechnet. Das hat OpenAI-Produktchef Thibault Sottiaux auf X mitgeteilt: Ein Abrechnungsfehler habe die Nutzung „für die meisten Nutzer fälschlich rabattiert“. Andere Modelle seien nicht betroffen gewesen.",
+            "Für zahlende Kunden heißt die Korrektur: Mit Astra erreichen sie ihre Limits nun 40 Prozent schneller als in der Vorwoche, mit Sol 25 Prozent. Beide Modelle sollen dennoch mehr Arbeit innerhalb der Limits erlauben als ihre Vorgänger GPT-6 Astra und GPT-6.1 Sol. Zum Start hatte OpenAI die Modelle unter anderem damit beworben, dass Nutzer mit ihnen innerhalb ihrer Limits mehr erledigen könnten. Ein Teil dieses Vorteils ging offenbar auf die falsche Anrechnung zurück.",
+            "Parallel führt OpenAI Chat und Work in ChatGPT zusammen. Laut TechCrunch teilen sich beide künftig ein gemeinsames Nutzungsbudget; Gespräche mit dem Instant-Modell bleiben unbegrenzt und zählen nicht mit. Ein Sprecher sagte, die meisten Nutzer würden nicht häufiger an Grenzen stoßen, ein kleiner Teil der intensivsten Nutzer aber womöglich schon. Breiter eingeführt werden sollen die gemeinsamen Limits im Dezember.",
+            "Unter Abonnenten sorgt das für Unmut: Sie fürchten, bei gleichem Preis weniger Zugriff auf die starken Reasoning-Modelle zu bekommen. Anthropic hatte Claude und Cowork bereits im September unter einer Oberfläche zusammengeführt. Hintergrund sind die steigenden Infrastrukturkosten der Anbieter."
+          ],
+          "highlight": "Mit Astra erreichen sie ihre Limits nun 40 Prozent schneller als in der Vorwoche, mit Sol 25 Prozent.",
+          "assessment": [
+            "Ein „Abrechnungsfehler“, der zehn Tage lang zugunsten der Kunden lief und genau in die Startphase fiel, in der Tests und Eindrücke entstehen, ist zumindest ungeschickt. Die Werbebotschaft „mehr innerhalb der Limits“ hat damit einen Kratzer.",
+            "Grundsätzlich zeigt die Meldung, wohin die Reise geht: KI-Abos werden zu Rechenbudgets. Die Zeit großzügiger Pauschalen endet, weil Rechenleistung knapp und teuer ist. Wer viel arbeitet, wird künftig genauer hinschauen müssen, was er für sein Geld bekommt."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/OpenAI-korrigiert-Abrechnungsfehler-GPT-6-2-Limits-sind-schneller-erreicht-11539469.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/8/5/3/shutterstock_2305366297-bfd7d1da39557d18.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "ChatGPT auf einem Bildschirm",
+            "credit": "Tada Images / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/OpenAI-korrigiert-Abrechnungsfehler-GPT-6-2-Limits-sind-schneller-erreicht-11539469.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Neu bei Rockstar: Die Belegschaft stimmt mit drei Vierteln gegen die Gewerkschaft",
+          "lead": "Bei sehr hoher Beteiligung haben die britischen Rockstar-Beschäftigten die Anerkennung der Gewerkschaft IWGB abgelehnt. Die Gewerkschaft will trotzdem weitermachen, und das Verfahren um die 34 Entlassungen läuft noch.",
+          "body": [
+            "1.544 Beschäftigte an den Rockstar-Standorten Edinburgh, Leeds, Lincoln, Dundee und London haben abgestimmt, eine Beteiligung von 93,2 Prozent. 75,3 Prozent stimmten gegen die Anerkennung der Independent Workers of Great Britain (IWGB) als Tarifpartner, 24,7 Prozent dafür. Die Abstimmung fiel mitten in den Start von GTA 6.",
+            "Rockstars Publishing-Chefin Jennifer Kolbe erklärte: „Wir sind außerordentlich stolz auf unser Team, die Kultur, die wir gemeinsam aufgebaut haben, und den Start von Grand Theft Auto 6.“ Das Ergebnis zeige die Unterstützung für direkte Beziehungen, Zusammenarbeit und offenen Dialog im Studio.",
+            "Die Rockstar Game Workers Union gibt sich kämpferisch. Hunderte Kollegen hätten dafür gestimmt, man habe aber noch Arbeit vor sich, um Vertrauen zu gewinnen. Eine Anerkennung wäre nur ein Weg von vielen gewesen. Weiter kämpfen will man für Gehaltstransparenz, vertraglich geregelte Überstundenbezahlung und Schutz vor KI und Entlassungen. Erstmals hätten Leute, die mit Gewerkschaften nichts zu tun hatten, über Arbeitsbedingungen und Verträge diskutiert.",
+            "Auslöser der Gewerkschaftsbewegung war die Entlassung von 34 Beschäftigten, die in einem gewerkschaftlichen Discord-Server aktiv waren. Die IWGB spricht von Union Busting, Mutterkonzern Take-Two sagt, die Betroffenen hätten vertrauliche Informationen verbreitet. Das Verfahren vor dem Arbeitsgericht läuft: Die Schlussplädoyers wurden am 19. November gehalten, Richterin Lucy Wiseman nannte keinen Termin für das Urteil, will es aber so schnell wie möglich vorlegen."
+          ],
+          "highlight": "75,3 Prozent stimmten gegen die Anerkennung der Independent Workers of Great Britain (IWGB) als Tarifpartner, 24,7 Prozent dafür.",
+          "assessment": [
+            "Das Ergebnis ist deutlich, und man sollte es nicht kleinreden: Bei über 93 Prozent Beteiligung kann niemand von einer schweigenden Mehrheit sprechen. Dass die Abstimmung mitten im größten Erfolg der Firmengeschichte stattfand, half Rockstar sicher. Wer gerade Rekorde feiert, sieht weniger Anlass für Tarifkämpfe.",
+            "Erledigt ist das Thema damit nicht. Das Arbeitsgerichtsurteil zu den 34 Entlassungen steht aus, und sollte es gegen Rockstar ausfallen, bekäme die Gewerkschaft neuen Rückenwind. Ein Viertel der Belegschaft ist zudem keine Randgruppe."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal"
+            },
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Grand Theft Auto 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal"
+          }
+        },
+        {
+          "title": "Heute um 16 Uhr: Team Cherry zeigt die Silksong-Erweiterung „Sea of Sorrow“",
+          "lead": "Die Macher von Hollow Knight: Silksong halten am 27. November eine „Cherry Time Special Presentation“ ab. Im Mittelpunkt steht die erste große, kostenlose Erweiterung.",
+          "body": [
+            "Team Cherry hat für heute, den 27. November, eine „Cherry Time Special Presentation“ angekündigt. Sie beginnt um 16 Uhr deutscher Zeit (7 Uhr an der US-Westküste, 15 Uhr in Großbritannien). Es soll vor allem um die erste große Erweiterung für Hollow Knight: Silksong gehen.",
+            "Bekannt ist bisher wenig. Die kostenlose Erweiterung trägt den Namen Sea of Sorrow und ist nautisch geprägt, mit neuen Bossen und Gebieten. Die physischen Editionen von Silksong sprechen von einer „riesigen Erweiterung“ und erwähnen außerdem mehrere „kostenlose Inhaltspakete“. Ob auch dazu heute etwas kommt, ist offen. Zuletzt hatte Team Cherry einen letzten „bedeutenden“ Patch vor der Erweiterung veröffentlicht.",
+            "Wie groß die Wirkung des Studios ist, zeigt eine Randnotiz von PC Gamer: Ein Entwicklerteam, das sein Spiel einst um ein Jahr verschoben hatte, um nicht gegen Silksong anzutreten, kündigte an, diesmal nicht auszuweichen, was auch immer Team Cherry ankündige."
+          ],
+          "highlight": "Die kostenlose Erweiterung trägt den Namen Sea of Sorrow und ist nautisch geprägt, mit neuen Bossen und Gebieten.",
+          "assessment": [
+            "Team Cherry ist berühmt dafür, wenig zu sagen und lange zu schweigen. Eine eigene Präsentation ist deshalb schon ein Ereignis. Spannend ist vor allem, ob es einen Termin gibt; nach den Erfahrungen mit Silksong selbst sollte man mit Erwartungen an Zeitpläne vorsichtig sein.",
+            "Dass ein so großes Paket kostenlos kommt, ist in einer Branche voller Season Passes fast schon eine Haltung. Heute Abend weiß man mehr."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/cherry-time.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Ankündigungsbild zur Cherry Time Special Presentation von Team Cherry",
+            "credit": "Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update"
+          }
+        },
+        {
+          "title": "GitHub feiert die inoffizielle PC-Portierung von GTA 6 und löscht den Beitrag wieder",
+          "lead": "Der offizielle GitHub-Account bejubelte auf X ein Projekt, das PS5-Spiele auf Windows und Linux lauffähig machen soll, und stellte den Bezug zu GTA 6 ausdrücklich her. Der Beitrag verschwand kurz darauf.",
+          "body": [
+            "Die zu Microsoft gehörende Entwicklerplattform GitHub hat auf X einen Beitrag veröffentlicht, der den Erfolg von AnyPS5 feierte, einem Open-Source-Projekt, das ausführbare PS5-Dateien so umschreibt, dass sie unter Windows und Linux laufen. „GTA 6 ist endlich da und sorgt für eine der größten Wochen für Gaming und Open Source auf GitHub“, hieß es dort. Das Repository habe seit dem Start im August mehr als 58.000 Sterne gesammelt. Dazu die Frage: „Überschreitet es eine rechtliche Grenze, wo Spiele laufen? Was meint ihr? Happy GTA VImas!“",
+            "Ein begleitendes Video machte den Bezug zu GTA 6 noch deutlicher und zitierte einen Mitwirkenden, der der Community riet, „ihre Agenten helfen zu lassen“, wenn es mit der Leistung hakt. Der Beitrag wurde kurz nach der Veröffentlichung gelöscht, aber nicht, bevor er breit wahrgenommen wurde. Auf Reddit sprach jemand davon, GitHub verhöhne Sony und Rockstar offen.",
+            "Brisant ist das, weil Take-Two massiv gegen Rekompilierungsprojekte vorgeht, die GTA 6 auf den PC bringen sollen. Rockstar hatte kürzlich mutmaßlich Project Leonida, eines der größten dieser Projekte, entfernen lassen, und mehrere Leiter solcher Vorhaben haben aufgegeben. Bis vor wenigen Tagen basierte der führende Versuch zudem auf einem geleakten Xbox-Build des Spiels.",
+            "PC Gamer weist auf die Ironie hin, dass ausgerechnet eine Microsoft-Firma öffentlich fragt, ob so etwas legal sein könnte. Eine Stellungnahme von GitHub und Take-Two lag zunächst nicht vor."
+          ],
+          "highlight": "Der Beitrag wurde kurz nach der Veröffentlichung gelöscht, aber nicht, bevor er breit wahrgenommen wurde.",
+          "assessment": [
+            "Ein Social-Media-Ausrutscher, ja, aber ein aufschlussreicher. GTA 6 erscheint vorerst nur auf Konsolen, und die Jagd nach einer PC-Version ist zum eigenen Ereignis geworden. Dass GitHub, das solche Repositories hostet und bei Rechteverletzungen löschen muss, diese Jagd anfeuert, ist mindestens instinktlos.",
+            "Die Episode zeigt auch, wie sehr KI-Agenten die Spielregeln verändern. Portierungen, die früher Jahre an Handarbeit brauchten, werden mit „lass deine Agenten helfen“ beworben. Für Publisher, die auf zeitversetzte PC-Starts setzen, ist das eine echte Bedrohung ihres Geschäftsmodells."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/fcoJMA24BgZGj8SXahRBLF-2560-80.jpg",
+            "alt": "Szene aus GTA 6: Ein Mann mit Hut hält sich die Hand vors Gesicht",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/microsofts-github-posts-message-celebrating-efforts-to-port-playstation-5-version-of-grand-theft-auto-6-to-pc-then-quickly-deletes-it/"
+          }
+        },
+        {
+          "title": "The Witcher 3 bekommt Patch 5.02: 40 Mods für alle Plattformen und weniger Lichtprobleme",
+          "lead": "CD Projekt Red pflegt seinen Klassiker weiter. Das neue Update für die Remastered-Fassung behebt Dutzende Fehler, darunter kuriose, und erweitert die plattformübergreifende Mod-Unterstützung.",
+          "body": [
+            "CD Projekt Red hat Patch 5.02 für The Witcher 3: Wild Hunt Remastered auf allen Plattformen veröffentlicht. „Zwei Dinge sind im Leben eines Hexers sicher: Der Pfad schläft nie, und die Arbeit ist nie getan“, schreibt das Studio zu den ausführlichen Patchnotes für das inzwischen ein Jahrzehnt alte Spiel.",
+            "Behoben werden Dutzende Fehler, von denen einige das Spiel abstürzen ließen. Darunter sind Kuriositäten: Ein Fehler ließ die Zeit „unbegrenzt rückwärts laufen“, ein anderer machte Geralt kahl. Auch Abstürze auf dem PC beim Start mit veralteten Mods sind behoben.",
+            "Ein weiterer Schwerpunkt ist die Beleuchtung, die viele Spieler beim Remaster als teils „leblos“ kritisiert hatten. Das Update korrigiert „verschiedene Beleuchtungsprobleme an mehreren Orten und in Zwischensequenzen“, ausdrücklich zu helle oder zu dunkle Bereiche sowie ungleichmäßige Übergänge und Flackern.",
+            "Dazu kommen 40 neue plattformübergreifende Mods, also auch für Konsolen, darunter leuchtende Augen für Geralt und eine neue Monsterjagd. Weitere sollen folgen. Parallel arbeitet CD Projekt an The Witcher 4 und Cyberpunk 2; Co-Chef Michał Nowakowski versprach jüngst einen Sprung wie von GTA 5 zu GTA 6."
+          ],
+          "highlight": "Dazu kommen 40 neue plattformübergreifende Mods, also auch für Konsolen, darunter leuchtende Augen für Geralt und eine neue Monsterjagd.",
+          "assessment": [
+            "Ein Patch für ein zehn Jahre altes Spiel ist keine Weltnachricht, aber er erzählt etwas über CD Projekt. Das Studio hat nach dem Cyberpunk-Desaster gelernt, dass Pflege Vertrauen schafft, und The Witcher 3 ist das Schaufenster dafür.",
+            "Die Mods auf Konsolen sind der eigentlich interessante Teil. Was früher PC-Spielern vorbehalten war, kommt kuratiert aufs Sofa. Das verlängert das Leben des Spiels und hält die Marke warm, bis The Witcher 4 kommt."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Geralt in The Witcher 3 Remastered",
+            "credit": "Eurogamer / CD Projekt Red",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/the-witcher-3-patch-40-mods-bugs"
+          }
+        },
+        {
+          "title": "Team Ninja nutzt KI in der Qualitätssicherung, aber „Spaß entsteht durch Menschenhand“",
+          "lead": "Der Produzent der Nioh-Reihe bestätigt, dass das Studio KI für QA und Prüfaufgaben einsetzt. Über das Spieldesign sollen aber weiter Menschen entscheiden.",
+          "body": [
+            "Team Ninja, bekannt für Nioh, Ninja Gaiden und Wo Long, setzt KI inzwischen in Teilen seiner Abläufe ein. „Derzeit nutzen wir KI in der Qualitätssicherung und bei verschiedenen Prüfaufgaben, um bestimmte Arbeitsabläufe zu straffen“, sagte Produzent Kohei Shibata auf der südkoreanischen GCON 2026 im Gespräch mit INVEN Global.",
+            "Wenn KI Aufgaben verkürze, könnten Entwickler mehr Zeit darauf verwenden, die Qualität des Spiels insgesamt zu heben. Flächendeckend verordnen will das Studio die Technik aber nicht: Man prüfe laufend, wie sie sich am besten einsetzen lasse, und vermutlich gehe es anderen Firmen ähnlich.",
+            "„Was grundlegend zählt, ist, dass ein Spiel Spaß macht, wenn es von Menschenhand gestaltet wird“, so Shibata. Wiederkehrende, einfache Aufgaben ließen sich mit Technik straffen, aber wie man ein Spiel gestaltet und was es unterhaltsam macht, müssten Menschen entscheiden. „KI selbst darf nie zum Ziel werden.“",
+            "Die Aussagen fallen in eine Woche, in der Ubisoft mit Berichten über eine verpflichtende KI-Strategie für Aufsehen sorgte, die das Unternehmen bestreitet. Laut einer jüngeren Erhebung nutzen rund 40 Prozent der Spieleentwickler KI in irgendeiner Form, obwohl viele die Technik für schädlich halten."
+          ],
+          "highlight": "„Was grundlegend zählt, ist, dass ein Spiel Spaß macht, wenn es von Menschenhand gestaltet wird“, so Shibata.",
+          "assessment": [
+            "Shibata formuliert die Position, auf die sich die Branche gerade einpendelt: KI für die Fleißarbeit, Menschen für das Spiel. Das klingt vernünftig und ist auch eine Botschaft an Spieler, die bei jedem KI-Einsatz Alarm schlagen.",
+            "Gerade QA ist allerdings ein Bereich, in dem viele Einstiegsjobs der Branche stecken. „Straffen“ heißt dort am Ende oft: weniger Tester. Die Grenze zwischen Werkzeug und Ersatz verläuft nicht zwischen Design und Prüfung, sondern quer durch die Belegschaft."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/nioh-3-gameplay-screen-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Spielszene aus Nioh 3",
+            "credit": "Team Ninja / Koei Tecmo",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/nioh-ai-qa-game-human-hands"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Gerald R. Molen ist tot: Der Oscar-Produzent von „Schindlers Liste“ wurde 91",
+          "lead": "Molen arbeitete sich vom Fahrer und Kulissenschieber zu einem der wichtigsten Produzenten an Steven Spielbergs Seite hoch. Für „Schindlers Liste“ gewann er den Oscar für den besten Film.",
+          "body": [
+            "Gerald R. Molen, Oscar-prämierter Produzent aus dem Umfeld von Steven Spielbergs Amblin Entertainment, ist tot. Er wurde 91 Jahre alt. Seine Großnichte Rachel Pullan teilte auf Instagram mit, dass er am Sonntag gestorben sei. „Onkel Jerry war ein Mann von großem moralischem Charakter und hoher Integrität“, schrieb sie.",
+            "Molen wurde am 6. Januar 1935 in Great Falls, Montana, geboren und wuchs in North Hollywood auf. Beim Film begann er ganz unten, mit dem Fahren und Verschieben von Kulissen. 1985 arbeitete er erstmals mit Spielberg zusammen, als Herstellungsleiter bei „Die Farbe Lila“. Danach produzierte er „Hook“ (1991), „Jurassic Park“ (1993) und „Schindlers Liste“ (1993), der den Oscar als bester Film gewann.",
+            "Es folgten weitere gemeinsame Filme: „Vergessene Welt: Jurassic Park“ und „Amistad“ (beide 1997), „Minority Report“ und „Catch Me If You Can“ (beide 2002). Außerdem war er an „Rain Man“ und „The Other Side of Heaven“ beteiligt.",
+            "Pullan erzählt eine bezeichnende Anekdote: „Minority Report“ sei nur deshalb ab 13 freigegeben, weil Molen Spielberg gesagt habe, er mache den Film nur ohne R-Rating, und Spielberg habe es möglich gemacht. Sie werde am Abend „Jurassic Park“ zu seinen Ehren schauen; das sei einer seiner Lieblingsfilme gewesen, wie die vielen Dinosaurier in seinem Haus bewiesen."
+          ],
+          "highlight": "Danach produzierte er „Hook“ (1991), „Jurassic Park“ (1993) und „Schindlers Liste“ (1993), der den Oscar als bester Film gewann.",
+          "assessment": [
+            "Molen gehörte zu den Produzenten, deren Namen kaum jemand kennt, ohne die aber die großen Filme nicht entstehen. Dass „Jurassic Park“ und „Schindlers Liste“ im selben Jahr herauskamen, zwei Filme, die gegensätzlicher kaum sein könnten, ist auch eine logistische Meisterleistung, und daran hatte er großen Anteil.",
+            "Sein Werdegang vom Kulissenschieber zum Oscar-Gewinner ist eine Hollywood-Laufbahn alter Schule, wie es sie heute kaum noch gibt."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/"
+            },
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Gerald-Molen.jpg?w=1024",
+            "alt": "Gerald R. Molen bei einer Filmpremiere 2018 in Washington",
+            "credit": "Shannon Finney / Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/"
+          }
+        },
+        {
+          "title": "Gérard Depardieu muss sich wegen Vergewaltigung vor einem Strafgericht verantworten",
+          "lead": "Das Pariser Berufungsgericht hat den Einspruch seiner Anwälte zurückgewiesen. Verhandelt wird einer der beiden Vorwürfe der Schauspielerin Charlotte Arnould.",
+          "body": [
+            "Gérard Depardieu kommt wegen Vergewaltigung vor ein französisches Strafgericht. Das Pariser Berufungsgericht entschied am Donnerstag, dass das Verfahren zu den Vorwürfen der Schauspielerin Charlotte Arnould teilweise eröffnet wird. Arnould, deren Vater ein alter Freund Depardieus war, wirft ihm vor, sie im Sommer 2018 zweimal in seinem Pariser Stadthaus vergewaltigt und sexuell missbraucht zu haben, nachdem sie ihn um Rat für ihre Schauspielkarriere gebeten hatte.",
+            "Verhandelt wird die mutmaßliche Vergewaltigung vom 7. August 2018. Den zweiten Vorwurf, eine Tat am 13. August, ließ das Gericht wegen unzureichender Beweise fallen.",
+            "Arnould war die erste Frau, die gegen Depardieu juristisch vorging. Ihre Anzeige wurde nach neunmonatigen Ermittlungen zunächst eingestellt. Sie erstattete erneut Anzeige als Nebenklägerin, 2020 wurde ein Untersuchungsrichter eingesetzt, 2021 wurde Depardieu wegen Vergewaltigung und sexueller Nötigung angeklagt. Öffentlich stürzte er spätestens nach der Enthüllungssendung „Complément d’Enquête“ im Dezember 2023 ab.",
+            "Vor acht Monaten war Depardieu wegen sexueller Übergriffe auf zwei Frauen aus dem Team von Jean Beckers Film „Les Volets verts“ zu 18 Monaten auf Bewährung verurteilt worden. Vergangene Woche zog er seine Berufung gegen dieses Urteil zurück, erkannte seine Schuld an und entschuldigte sich. Wenige Tage später berichtete das Investigativportal Mediapart über eine weitere Anzeige wegen sexueller Übergriffe und Vergewaltigung, bezogen auf Dreharbeiten zu Guillaume Nicloux’ „Thalasso“ 2018."
+          ],
+          "highlight": "Verhandelt wird die mutmaßliche Vergewaltigung vom 7. August 2018.",
+          "assessment": [
+            "Für Charlotte Arnould ist das nach sieben Jahren, einer eingestellten Anzeige und einem langen Umweg über die Nebenklage ein später Erfolg. Ihr Fall hat die Auseinandersetzung mit Depardieu überhaupt erst in Gang gebracht.",
+            "Für Frankreichs Kino ist es ein weiterer Schritt im Abschied von der Unantastbarkeit großer Namen. Ein Vergewaltigungsprozess ist eine andere Dimension als das Verfahren um Übergriffe am Set, und Depardieus Schuldeingeständnis der Vorwoche wird dabei kaum unbeachtet bleiben."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/gerard-depardieu-rape-case-trial-criminal-court-arnould-1237234012/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2025/03/GettyImages-2206537649.jpg?w=1024",
+            "alt": "Der französische Schauspieler Gérard Depardieu",
+            "credit": "AFP via Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/gerard-depardieu-rape-case-trial-criminal-court-arnould-1237234012/"
+          }
+        },
+        {
+          "title": "Zurück in die dunklen Wälder: Erster Teaser zu „Sonnental“ von den „Dark“-Machern",
+          "lead": "Jantje Friese und Baran bo Odar bringen mit HBO Max eine neue deutsche Mysteryserie. Eine Profilerin jagt in ihrer Heimatstadt einen Mörder, der sich am „Struwwelpeter“ orientiert.",
+          "body": [
+            "HBO Max hat den ersten Teaser zu „Sonnental“ veröffentlicht, der neuen Serie von Jantje Friese und Baran bo Odar, die mit „Dark“ einen weltweiten Netflix-Erfolg hatten. Die Bilder zeigen, wie The Hollywood Reporter schreibt, wieder unheimliche deutsche Wälder.",
+            "In den sechs Folgen spielt Lisa Vicari die Profilerin Anja Vogler, die einen grausamen Mord in ihrer alten Heimatstadt untersuchen soll. Als weitere Leichen auftauchen, erkennt sie Verbindungen zwischen den Taten und Motiven aus dem „Struwwelpeter“, dem berüchtigten Kinderbuch, das Kinder mit drastischen Geschichten über die Folgen von Ungehorsam erschrecken sollte.",
+            "Peter Kurth („Babylon Berlin“) spielt den Ermittler Norbert Troschitz. Zum Ensemble gehören außerdem Jan Friedrichsen als Anjas Sohn Max, Iris Böhm als ihre Mutter Kerstin sowie Merlin Rose, Maria Simon, Mišel Matičević und Stipe Erceg. Entwickelt hat die Serie Matija Dragojević, der die Bücher gemeinsam mit Bob Konrad („Kleo“, „4 Blocks“) schrieb.",
+            "„Sonnental“ ist eine deutsche Eigenproduktion von HBO Max. Alle sechs Folgen erscheinen im März 2027. „Dark“ lief von 2017 bis 2020 über drei Staffeln; die Nachfolgeserie „1899“ wurde nach einer Staffel eingestellt."
+          ],
+          "highlight": "Als weitere Leichen auftauchen, erkennt sie Verbindungen zwischen den Taten und Motiven aus dem „Struwwelpeter“, dem berüchtigten Kinderbuch, das Kinder mit drastischen Geschichten über die Folgen von Ungehorsam erschrecken sollte.",
+          "assessment": [
+            "Der „Struwwelpeter“ als Mordvorlage ist eine sehr gute Idee: Kaum ein Buch ist so tief im deutschen Kindheitsgedächtnis verankert und zugleich so grausam. Dazu Peter Kurth, eine sichere Bank.",
+            "Nach dem frühen Aus von „1899“ ist das für Friese und Odar eine Rückkehr zu dem, was sie am besten können: deutsche Provinz, Wald, Schuld. Dass HBO Max dafür auf den deutschen Markt setzt, zeigt, wie ernst der Dienst den Start hier nimmt. Kleiner Haken: Die eigentlichen Autoren sind diesmal andere, die bekannten Namen stehen vor allem fürs Etikett."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/"
+            },
+            {
+              "name": "Trailer: Sonnental",
+              "url": "https://www.youtube.com/watch?v=SzDm8k3LAsY"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/STR_PM_brighter_1.18.1.jpg?w=1440&h=810&crop=1",
+            "alt": "Szene aus der HBO-Max-Serie „Sonnental“",
+            "credit": "Courtesy of HBO",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/"
+          }
+        },
+        {
+          "title": "Mark Tildesley ist tot: Der Szenenbildner von „No Time to Die“ und der Olympia-Eröffnung 2012 wurde 63",
+          "lead": "Tildesley prägte über drei Jahrzehnte die Bilder britischer Filme, vor allem an der Seite von Danny Boyle und Michael Winterbottom. Zuletzt arbeitete er an Sam Mendes’ Beatles-Filmen.",
+          "body": [
+            "Mark Tildesley, einer der angesehensten Szenenbildner der Branche, ist mit 63 Jahren gestorben. Zu seinen Arbeiten gehören der Bond-Film „No Time to Die“, „28 Days Later“, „Der ewige Gärtner“, „Die zwei Päpste“, „Jay Kelly“, Joseph Kosinskis „F1“ und Sam Mendes’ kommende Beatles-Filme.",
+            "In über dreißig Jahren arbeitete er mit Regisseuren wie Danny Boyle, Richard Curtis, Michael Winterbottom, Martin McDonagh, Mike Leigh, Paul Thomas Anderson, Cary Joji Fukunaga, Ron Howard, Ben Wheatley und Oliver Stone. Mit Winterbottom drehte er unter anderem „Wonderland“, „24 Hour Party People“ und „Code 46“, mit Boyle „28 Days Later“, „Millions“, „Sunshine“, „Trance“ und „T2 Trainspotting“.",
+            "Gemeinsam mit Boyle gestaltete er 2012 die Eröffnungsfeier der Olympischen Spiele in London, wofür er zusammen mit Suttirat Anne Larlarb einen Emmy gewann. Mit Mendes drehte er „Empire of Light“ und gehörte zum Team des Vierteilers „The Beatles – A Four-Film Cinematic Event“. Er gewann drei Preise der British Film Designers Guild, für „High-Rise“, „Empire of Light“ und „F1“.",
+            "Mendes nannte ihn „einzigartig: sanft, witzig, warmherzig, verschmitzt, vollkommen originell und außergewöhnlich begabt“. Er erinnere sich, wie Tildesley bei „Empire of Light“ mit einem Motorroller die Strandpromenade von Margate hinunterflog, den bunten Schal im Wind, „wie ein Schuljunge, der schwänzt“."
+          ],
+          "highlight": "Gemeinsam mit Boyle gestaltete er 2012 die Eröffnungsfeier der Olympischen Spiele in London, wofür er zusammen mit Suttirat Anne Larlarb einen Emmy gewann.",
+          "assessment": [
+            "Szenenbildner sind die unsichtbaren Autoren eines Films, und Tildesley hatte eine erkennbare Handschrift: das verlassene London in „28 Days Later“, das verfallende Seebad in „Empire of Light“, das hysterische Hochhaus in „High-Rise“.",
+            "Dass er mitten in der Arbeit an Mendes’ Beatles-Projekt stirbt, einem der ehrgeizigsten Kinovorhaben der nächsten Jahre, ist bitter. Seine Olympia-Eröffnung bleibt das Werk, das die meisten Menschen gesehen haben, ohne seinen Namen zu kennen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Mark-Tildesley.jpg?w=1024",
+            "alt": "Porträt des Szenenbildners Mark Tildesley",
+            "credit": "Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/mark-tildesley-dies-no-time-to-die-production-designer-63-1237234068/"
+          }
+        },
+        {
+          "title": "Hazanavicius zeigt in Les Arcs, wie er KI für „The Third Hand“ eingesetzt hat",
+          "lead": "Der Oscar-Gewinner von „The Artist“ präsentiert beim Festival im Dezember exklusives Material seines neuen Stummfilms und erklärt seine KI-Werkzeuge. Gedreht wurde klassisch.",
+          "body": [
+            "Michel Hazanavicius wird beim Les Arcs Film Festival im Dezember exklusives Material aus seinem kommenden Film „The Third Hand“ zeigen, als Teil einer Fallstudie zum Einsatz künstlicher Intelligenz. Gemeinsam mit der Postproduktionsfirma Digital District will er Methoden und Werkzeuge erläutern.",
+            "Hazanavicius und sein Team nutzten KI in Teilen der Entwicklung und der Postproduktion. Der eigentliche Dreh fand mit klassischen Kulissen und herkömmlichen Methoden statt.",
+            "„The Third Hand“ ist als „fantastischer“ Stummfilm in Farbe angelegt. François Civil spielt einen französischen Soldaten, der im Ersten Weltkrieg verwundet wird und im Labor eines verrückten Wissenschaftlers erwacht, der ihm eine deutsche Hand an den Bauch genäht hat. Dazu spielen Bérénice Bejo, Rebecca Marder und Michel Fau. Es ist Hazanavicius’ zweiter Stummfilm nach „The Artist“, der 2012 fünf Oscars gewann, darunter als bester Film, bis heute als einzige französische Produktion.",
+            "Auf die Fallstudie folgt ein Gespräch mit dem Europaabgeordneten David Cormand darüber, wie Europa KI regulieren und dabei die Rechte von Kreativen und die kulturelle Souveränität schützen kann. Hazanavicius ist in diesem Jahr außerdem Pate des Talent Village von Les Arcs, in dem er Erfahrungen an junge Regisseurinnen und Regisseure weitergibt."
+          ],
+          "highlight": "Der eigentliche Dreh fand mit klassischen Kulissen und herkömmlichen Methoden statt.",
+          "assessment": [
+            "Bemerkenswert ist, dass ein Regisseur dieses Rangs offen zeigt, wo er KI genutzt hat, statt es zu verschweigen. Nach dem Streit um den KI-Animationsfilm, den die Academy jüngst vom Oscar ausschloss, ist das der Versuch, eine Mitte zu definieren: KI im Hintergrund, Schauspiel und Kulissen bleiben echt.",
+            "Ob das Publikum diese Trennung honoriert, ist offen. Aber Transparenz ist der richtige Weg, und ein Stummfilm über eine fremde, angenähte Hand ist eine fast zu passende Metapher für die Debatte."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg?w=1024",
+            "alt": "Michel Hazanavicius beim Les Arcs Film Festival 2025",
+            "credit": "Aurore Marechal / Getty Images",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059/"
+          }
+        },
+        {
+          "title": "Asterix kommt zurück ins Kino: Drei restaurierte Zeichentrickklassiker ab Januar in Deutschland",
+          "lead": "StudioCanal und Mediatoon bringen „Asterix der Gallier“, „Asterix und Kleopatra“ und „Asterix erobert Rom“ in restaurierten Fassungen heraus. Den Auftakt macht ein Asterix-Filmfestival in Deutschland.",
+          "body": [
+            "StudioCanal, das Filmstudio der Canal+-Gruppe, und Mediatoon Distribution, der Vertriebsarm von Média-Participations, haben eine europäische Vertriebsvereinbarung für drei restaurierte Asterix-Zeichentrickfilme geschlossen: „Asterix der Gallier“, „Asterix und Kleopatra“ und „Asterix erobert Rom“. Sie gilt unter anderem für Frankreich, Deutschland, Polen und die Niederlande. Finanzielle Details wurden nicht genannt.",
+            "Erstes großes Projekt ist ein Asterix-Filmfestival, das StudioCanal ab Januar 2027 in Deutschland veranstaltet. Es soll die drei Filme in ihren restaurierten Fassungen zurück auf die große Leinwand bringen. Dazu erscheint eine Sammler-DVD-Box mit allen drei Filmen, in Frankreich noch zu den Feiertagen 2026, in Deutschland im Frühjahr 2027. In Polen und den Niederlanden kommen die Filme auf Video-on-Demand-Plattformen.",
+            "Die Aktion soll mehrere Jubiläen der Reihe begleiten, darunter 50 Jahre „Asterix erobert Rom“ und 60 Jahre „Asterix der Gallier“ im Jahr 2028. Die Comics von René Goscinny und Albert Uderzo haben sich weltweit mehr als 400 Millionen Mal verkauft; die Rechte liegen bei Les Éditions Albert René.",
+            "„Asterix ist eines der ikonischsten Werke der europäischen Populärkultur und bringt Generationen zusammen“, sagte Pauline Saint-Hilaire, Katalogchefin bei StudioCanal."
+          ],
+          "highlight": "Erstes großes Projekt ist ein Asterix-Filmfestival, das StudioCanal ab Januar 2027 in Deutschland veranstaltet.",
+          "assessment": [
+            "Eine schöne, unaufgeregte Nachricht. Gerade „Asterix erobert Rom“ mit dem Passierschein A38 ist in Deutschland Kulturgut, und die Chance, das restauriert im Kino zu sehen, dürfte viele Familien und Nostalgiker anziehen.",
+            "Dass das Festival ausgerechnet in Deutschland startet, ist kein Zufall: Hier ist Asterix seit Jahrzehnten stärker verankert als fast überall sonst außerhalb Frankreichs. Kluges Katalog-Geschäft, und eines, über das man sich ausnahmsweise einfach freuen kann."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Asterix-and-Cleopatra-film-still-1968-PRODUCTIONS-DARGAUD-FILMS_RENE-GOSCINNY_ALBERT-UDERZO.jpg?w=1440&h=810&crop=1",
+            "alt": "Szene aus dem Zeichentrickfilm „Asterix und Kleopatra“",
+            "credit": "1968 Productions Dargaud Films / René Goscinny / Albert Uderzo",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Riesenhirsch mit Hiebspuren: Waren Menschen schon vor 13.500 Jahren in Irland?",
+          "lead": "Knochen aus der Ballynamintra-Höhle im County Waterford tragen Spuren, die nach Schlachtung aussehen. Bestätigt sich das, beginnt die Geschichte der Menschen in Irland mehrere Jahrhunderte früher als bisher belegt.",
+          "body": [
+            "Zwei Knochen von Riesenhirschen aus der Ballynamintra-Höhle im irischen County Waterford zeigen Spuren, die auf Schlachtung hindeuten. Einer davon ist rund 13.500 Jahre alt, aus einer Zeit, in der in Britannien bereits Jäger und Sammler lebten. Dass Menschen Irland so früh erreichten, ist bisher nicht nachgewiesen. Der bislang einzige sichere Beleg für eiszeitliche Menschen auf der Insel ist eine Kniescheibe eines Braunbären mit Schnittspuren aus dem County Clare, etwa 12.800 Jahre alt.",
+            "Ein Team um Richard Jennings von der Liverpool John Moores University grub zwischen 2014 und 2018 in der Eingangskammer der Höhle. Lange galt die Annahme, viktorianische Ausgräber hätten irische Höhlen längst geleert; Richard Ussher und Leith Adams gruben hier 1878, 1879 und 1882. Doch das neue Team fand einen unberührten Sedimentstreifen an der Kammerwand. Drei Knochen daraus, zwei vom Riesenhirsch und einer vom Rotfuchs, datieren auf etwa 13.600 bis 13.100 Jahre vor heute, mitten in die Allerød-Warmphase.",
+            "Am genauesten untersucht wurden zwei Knochen aus der alten Sammlung im National Museum of Ireland. Ein Oberarmknochen zeigt einen flachen Schnitt mit einem scharnierartigen Bruch, wie ihn eine schwere Klinge beim Durchtrennen eines frischen Gelenks hinterlässt. Ein Mittelfußknochen zeigt eine wahrscheinliche Aufschlagstelle und feine Risse, als habe jemand ihn mit einem Steinwerkzeug aufgeschlagen, um an das Mark zu kommen. Zwei Stücke davon datieren auf etwa 13.570 bis 13.320 Jahre.",
+            "Die Forschenden sprechen ausdrücklich von möglichen, nicht bestätigten Spuren. Wölfe haben an dem Oberarmknochen genagt, und Verwitterung hat die Oberflächen abgetragen. Andererseits fehlen gerade die fleischreichsten Teile wie Oberschenkel, Rippen und Schädel, was dazu passt, dass Jäger die besten Stücke mitnahmen. In Deutschland, etwa in Endingen und Lüdersdorf, wurden Riesenhirsche in derselben Zeit nachweislich geschlachtet, und ein menschlicher Kiefer aus der Kendrick’s Cave in Wales ist genauso alt.",
+            "Als Nächstes sollen Isotopen- und DNA-Analysen folgen. Erst etwa 95 Meter der Höhle sind kartiert, die eiszeitlichen Schichten ziehen sich weiter nach Süden. Ein einziges Steinwerkzeug oder eine Knochenspitze aus diesen Schichten würde die Frage entscheiden. Die Studie erschien in den Proceedings of the Royal Irish Academy."
+          ],
+          "highlight": "Ein einziges Steinwerkzeug oder eine Knochenspitze aus diesen Schichten würde die Frage entscheiden.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, dass alte Museumsbestände und vermeintlich ausgegrabene Fundstellen noch Überraschungen bergen. Der unberührte Streifen Sediment, den die Viktorianer übersehen haben, ist der eigentliche Glücksfall.",
+            "Die Vorsicht der Autoren ist angebracht: Wolfszähne und Verwitterung können viel vortäuschen. Aber das Gesamtbild, die fehlenden Fleischstücke und die Parallelen in Wales und Deutschland, macht die Hypothese plausibel. Wenn in der Höhle noch ein Werkzeug liegt, wird man es finden."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/giant-deer-bones-with-butchery-marks-in-ireland/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/giant-deer-bones-irish-cave-1.jpg",
+            "alt": "Oberarmknochen eines Riesenhirschs mit markierten möglichen Hiebspuren",
+            "credit": "Ruth Carden, aus Jennings et al., Proceedings of the Royal Irish Academy (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/giant-deer-bones-with-butchery-marks-in-ireland/"
+          }
+        },
+        {
+          "title": "Wegweiser für Jäger: Riesige Elchgravuren in Skandinavien zeigten womöglich gute Jagdplätze an",
+          "lead": "Einige der ältesten Felsbilder Skandinaviens zeigen fast lebensgroße Elche an Stromschnellen und Engstellen. Forschende aus Schweden und Norwegen deuten sie als Hinweise, wo sich die Jagd lohnte.",
+          "body": [
+            "Große Elchgravuren aus der frühen Felsbildtradition Skandinaviens, entstanden etwa zwischen 9000 und 4000 v. Chr., könnten Reisenden gezeigt haben, wo man jagen kann. Das schlägt ein Team aus Schweden und Norwegen in der Fachzeitschrift World Archaeology vor. Untersucht wurden vier Fundorte: Stykket in Norwegen sowie Landverk, Gärde und Duved in Schweden.",
+            "An allen vier Orten stehen große, teils fast lebensgroße Elche, meist allein und ohne andere Figuren. Um 5000 v. Chr. änderte sich der Stil hin zu kleinen, dicht bevölkerten Tafeln, auf denen Menschen und Tiere interagieren, etwa in Nämforsen in Nordschweden. Die großen Elche stehen dagegen fast immer an Stromschnellen, Flüssen und engen Wasserstellen.",
+            "In Landverk stehen zwei Elche auf einem Felsen, der in den See Ånnsjön abfällt; je nach Jahreszeit liegen ihre Hufe knapp über oder unter dem Wasser. Linien überziehen den Körper vor allem dort, wo Herz und Lunge sitzen, also dort, wohin ein Jäger zielt. In Gärde misst ein männlicher Elch 3,7 mal 2,5 Meter. Er steht mit einem Jungtier auf einer Insel in einer Stromschnelle, an einer Furt, durch die Jäger Elche getrieben haben könnten. In Duved blicken fünf Elche auf die Forsaforsen-Stromschnellen, in die laut alten Berichten Tiere getrieben wurden, damit die Strömung sie verletzte.",
+            "Große Bilder an Felswänden sind von Weitem sichtbar, vom Kanu oder im Winter vom Eis aus. Die Autoren nennen die Gravuren nur „implizit erzählend“: Die Geschichte steckte in der Landschaft und im Wissen der Betrachter. Spirituelle Deutungen, etwa Stromschnellen als Tore in andere Welten, klammert das Team bewusst aus und warnt davor, die Idee über diese vier Orte hinaus zu verallgemeinern. Die Tradition ist selten und schwer zu datieren, die Wegweiser-These bleibt eine Hypothese."
+          ],
+          "highlight": "Linien überziehen den Körper vor allem dort, wo Herz und Lunge sitzen, also dort, wohin ein Jäger zielt.",
+          "assessment": [
+            "Die Studie gefällt, weil sie bewusst nüchtern bleibt. Felsbilder werden schnell als Schamanenkunst gedeutet, hier fragt jemand einfach: Was hätte ein Jäger mit einem drei Meter großen Elch an genau dieser Stelle anfangen können?",
+            "Ob es wirklich Wegweiser waren, wird sich kaum beweisen lassen. Aber der Gedanke, dass Landschaft und Bild zusammen eine Geschichte erzählen, die nur Eingeweihte vollständig lesen konnten, ist einleuchtend und erklärt auch, warum der Stil später verschwand."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/stone-age-rock-carvings-in-scandinavia-hunting-signposts/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/carving-scandinavia-hunting-signposts-1.jpg",
+            "alt": "Rot nachgezeichnete steinzeitliche Elchgravur auf einem Felsen in Gärde, Schweden",
+            "credit": "Jan Magne Gjerde, aus Persson et al., World Archaeology (2026)",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/stone-age-rock-carvings-in-scandinavia-hunting-signposts/"
+          }
+        },
+        {
+          "title": "Saure Milch für die Toten: 5000 Jahre alte Gefäße aus dänischen Ganggräbern",
+          "lead": "Die Innenwände von Tongefäßen aus jungsteinzeitlichen Gräbern auf Seeland sind auffällig zerfressen. Experimente mit Nachbauten zeigen: Am ehesten war fermentierte Milch darin.",
+          "body": [
+            "Manche 5000 Jahre alte Tongefäße aus Dänemark enthielten wahrscheinlich fermentierte Milchprodukte. Das berichten Lone Claudi-Hansen von der Universität Kopenhagen und dem Museum Westseeland sowie Adam Cordes vom Dänischen Nationalmuseum in der Fachzeitschrift Antiquity. Sie untersuchten 330 jungsteinzeitliche Gefäße aus Ganggräbern, Feuchtgebieten und Siedlungen in Westseeland.",
+            "Alle 29 Gefäße aus Ganggräbern zeigten Korrosion und Ätzspuren an der Innenseite. Aus Siedlungen und Feuchtgebieten stammten nur einzelne solcher Stücke. Die Spuren häufen sich also in den Grabkammern.",
+            "Zunächst vermutete das Team Bier, weil ähnliche Spuren anderswo auf der Welt mit Bier in Verbindung gebracht werden. Die Keramikerin Inger Heebøll vom Freilichtmuseum Sagnlandet Lejre fertigte Nachbauten nach 5000 Jahre alten Vorbildern. Die Forschenden füllten sie mit Bier, Met, Essig und Rohmilch. Bier, Met und Essig erzeugten nicht die gleichen Schäden. Rohe, unpasteurisierte Milch, die man sauer werden ließ, kam den alten Gefäßen am nächsten; auch Molke und Kefir veränderten die Oberfläche. Der Inhalt dürfte Skyr, isländischem Joghurt oder Kefir geähnelt haben.",
+            "Das passt zu den Menschen der Trichterbecherkultur, die in Dänemark etwa von 4000 bis 2800 v. Chr. Ackerbau und Viehzucht betrieben. DNA-Studien zeigen, dass die Bauern, die vor rund 6000 Jahren einwanderten, laktoseintolerant waren. Fermentieren senkt den Laktosegehalt, macht Milch haltbar und verändert Geschmack und Konsistenz.",
+            "Die Autoren betonen die Grenzen: Oberflächenschäden allein bestimmen keinen Stoff eindeutig. Dass die zerfressenen Gefäße aber fast nur in Grabkammern auftauchen, spricht für eine gezielte rituelle Praxis, bei der Gefäße mit verwandelten Lebensmitteln den Toten beigegeben wurden."
+          ],
+          "highlight": "Rohe, unpasteurisierte Milch, die man sauer werden ließ, kam den alten Gefäßen am nächsten; auch Molke und Kefir veränderten die Oberfläche.",
+          "assessment": [
+            "Experimentelle Archäologie in ihrer besten Form: Statt zu spekulieren, was in den Töpfen war, hat man es einfach ausprobiert. Und das Ergebnis ist charmanter als die Bier-Hypothese, mit der man gerechnet hatte.",
+            "Interessant ist der Zusammenhang mit der Laktoseintoleranz. Fermentierte Milch war für diese Bauern nicht nur Nahrung, sondern eine Technik, die etwas Unbekömmliches genießbar machte. Dass man so etwas den Toten mitgab, wirkt plötzlich sehr nachvollziehbar."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/danish-tomb-pots-milk-neolithic-rituals/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/danish-pots-milk-neolithic-rituals_1.jpg",
+            "alt": "Nachgebaute jungsteinzeitliche Tongefäße, gefüllt mit Milch, Essig und Bier",
+            "credit": "Lone Claudi-Hansen",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/danish-tomb-pots-milk-neolithic-rituals/"
+          }
+        },
+        {
+          "title": "Mondsichel aus Metall: Gräberfeld vor dem neuen Warschauer Großflughafen liefert Tausende Funde",
+          "lead": "Bei Baranów in Zentralpolen haben Archäologen ein über einen Hektar großes Gräberfeld der Przeworsk-Kultur vollständig ausgegraben. Herausragend ist ein filigraner Lunula-Anhänger.",
+          "body": [
+            "Ein Gräberfeld bei Baranów in Zentralpolen hat nach drei Jahren Arbeit mehrere Tausend Funde aus der römischen Kaiserzeit geliefert. Die Grabungen begannen 2023 und wurden in diesem Jahr abgeschlossen; das Gräberfeld erstreckt sich über mehr als einen Hektar. Es liegt im Gebiet des geplanten Großflughafens zwischen Warschau und Łódź, finanziert wurden Grabung und Konservierung über das Investitionsprogramm Port Polska.",
+            "Die Bestatteten gehörten zur Przeworsk-Kultur, die vom 3. Jahrhundert v. Chr. bis ins 5. Jahrhundert n. Chr. weite Teile des heutigen Polens prägte. Das Gräberfeld wurde 200 bis 300 Jahre lang genutzt. Die meisten Gräber enthalten Brandbestattungen, oft in Keramikurnen.",
+            "Männergräber enthielten meist Waffen, darunter Schwerter, die vor der Bestattung absichtlich verbogen oder zerbrochen wurden, sowie Äxte, Lanzenspitzen und Schildbuckel. In Frauengräbern lagen Fibelpaare, Perlen und Spinnwirtel. Das seltenste Stück ist ein fein mit Filigran verzierter Lunula-Anhänger in Mondsichelform, der in Polen als außergewöhnlich gilt. Viele Archäologen verbinden diese Schmuckform mit einem Mondkult.",
+            "Entdeckt wurde der Platz schon Ende der 1960er-Jahre bei Feldbegehungen durch Stefan Woyda. Dass ein Gräberfeld so vollständig untersucht wird, ist in Polen selten. Die Bedingungen waren schwierig: Tiefes Pflügen hatte Teile gestört, schwerer Lehm machte das Graben langsam. Eine zeitgleiche Siedlung in der Nähe wird ebenfalls ausgegraben, sodass sich Alltag und Totenbrauch derselben Gemeinschaft vergleichen lassen."
+          ],
+          "highlight": "Das seltenste Stück ist ein fein mit Filigran verzierter Lunula-Anhänger in Mondsichelform, der in Polen als außergewöhnlich gilt.",
+          "assessment": [
+            "Großbaustellen sind heute einer der wichtigsten Motoren der Archäologie, und dieser Fall zeigt die gute Seite: genug Geld und Zeit, um ein Gräberfeld vollständig statt nur stichprobenartig zu untersuchen.",
+            "Die absichtlich verbogenen Schwerter sind ein bekanntes, aber immer wieder eindrückliches Detail: Waffen wurden mit ihren Besitzern gewissermaßen mitgetötet. Spannend wird der Vergleich mit der benachbarten Siedlung, denn selten bekommt man Lebende und Tote einer Gemeinschaft so sauber nebeneinander."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeologymag.com/2026/11/burial-ground-in-baranow-poland-yields-thousands-of-finds/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/burial-ground-in-baranow-1.jpg",
+            "alt": "Freigelegte Brandbestattung im Gräberfeld von Baranów",
+            "credit": "Port Polska",
+            "license": "Artikelbild Archaeology Magazine",
+            "source": "https://archaeologymag.com/2026/11/burial-ground-in-baranow-poland-yields-thousands-of-finds/"
+          }
+        },
+        {
+          "title": "3000 Tonnen Schutt geräumt: Die Tunnel unter der Hagia Sophia werden erforscht",
+          "lead": "Unter den Gärten der Hagia Sophia in Istanbul haben Fachleute mehr als 400 Meter Tunnel freigelegt. Dabei stießen sie auf eine unterirdische Grabanlage, die älter sein könnte als die Kirche selbst.",
+          "body": [
+            "Unter dem Vezir-Garten und dem West-Garten der Hagia Sophia in Istanbul sind rund 3000 Tonnen Schutt aus Tunneln entfernt worden. Das berichtet die Hürriyet Daily News unter Berufung auf den türkischen Kultur- und Tourismusminister Mehmet Nuri Ersoy. Die Hagia Sophia wurde 537 n. Chr. unter dem byzantinischen Kaiser Justinian I. vollendet.",
+            "Die mehr als 1300 Fuß, also gut 400 Meter, langen Tunnel gehörten vermutlich zum Entwässerungssystem der Stadt. Während der Räumung reparierten die Fachleute beschädigte Gewölbe und sicherten Abschnitte mit Edelstahlstützen.",
+            "Ein knapp 600 Fuß, rund 180 Meter, langer Abschnitt verläuft parallel zum Eingang der Hagia Sophia und war womöglich mit einer römischen Straße verbunden. Im Bereich des Vezir-Gartens stießen die Ausgräber auf eine unterirdische Grabanlage, die möglicherweise älter ist als der Bau der Hagia Sophia.",
+            "Konservierung und Erforschung der unterirdischen Anlagen gehen weiter. Genauere Angaben zur Grabanlage, etwa zu ihrem Alter oder Inhalt, enthält der Bericht nicht."
+          ],
+          "highlight": "Im Bereich des Vezir-Gartens stießen die Ausgräber auf eine unterirdische Grabanlage, die möglicherweise älter ist als der Bau der Hagia Sophia.",
+          "assessment": [
+            "Unter der Hagia Sophia liegen anderthalb Jahrtausende Stadtgeschichte, und das Interessanteste daran ist die mögliche Grabanlage aus der Zeit vor Justinian. Sie könnte etwas über das Byzanz erzählen, bevor es zur Hauptstadt des Reichs ausgebaut wurde.",
+            "Vorsicht ist trotzdem geboten: Bislang gibt es nur eine Ministermeldung und wenige Details. Bei einem Bauwerk, das politisch so aufgeladen ist wie die Hagia Sophia, sollte man auf die wissenschaftliche Veröffentlichung warten, bevor man Schlüsse zieht."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology",
+              "url": "https://archaeology.org/news/2026/11/24/tunnels-underneath-hagia-sophia-excavated/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeology.org/wp-content/uploads/2026/11/News-20261124-Turkey-Hagia-Sophia-Tunnel.jpg",
+            "alt": "Gemauerter Tunnel unter der Hagia Sophia in Istanbul",
+            "credit": "Türkisches Ministerium für Kultur und Tourismus",
+            "license": "Artikelbild Archaeology",
+            "source": "https://archaeology.org/news/2026/11/24/tunnels-underneath-hagia-sophia-excavated/"
+          }
+        }
+      ]
+    }
+  ]
+}

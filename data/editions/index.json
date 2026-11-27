@@ -1,5 +1,39 @@
 [
   {
+    "nr": 50,
+    "date": "2026-11-27",
+    "updated": "2026-11-27T07:50:03+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Nvidia stoppt Serverlieferungen nach Südostasien: Das Schlupfloch für Chinas KI-Labore soll zugehen",
+      "„KI zuerst“: SAP plant laut Bloomberg den Abbau von mindestens 10.000 Stellen",
+      "Neu zur Riemannschen Vermutung: Claude kürzt den KI-Beweis um mehr als 99 Prozent",
+      "BSI warnt vor KI-Agenten als Angreifer: „Eine neue Ära hat begonnen“",
+      "Abrechnungsfehler bei GPT-6.2: ChatGPT-Abonnenten erreichen ihre Limits deutlich früher",
+      "Neu bei Rockstar: Die Belegschaft stimmt mit drei Vierteln gegen die Gewerkschaft",
+      "Heute um 16 Uhr: Team Cherry zeigt die Silksong-Erweiterung „Sea of Sorrow“",
+      "GitHub feiert die inoffizielle PC-Portierung von GTA 6 und löscht den Beitrag wieder",
+      "The Witcher 3 bekommt Patch 5.02: 40 Mods für alle Plattformen und weniger Lichtprobleme",
+      "Team Ninja nutzt KI in der Qualitätssicherung, aber „Spaß entsteht durch Menschenhand“",
+      "Gerald R. Molen ist tot: Der Oscar-Produzent von „Schindlers Liste“ wurde 91",
+      "Gérard Depardieu muss sich wegen Vergewaltigung vor einem Strafgericht verantworten",
+      "Zurück in die dunklen Wälder: Erster Teaser zu „Sonnental“ von den „Dark“-Machern",
+      "Mark Tildesley ist tot: Der Szenenbildner von „No Time to Die“ und der Olympia-Eröffnung 2012 wurde 63",
+      "Hazanavicius zeigt in Les Arcs, wie er KI für „The Third Hand“ eingesetzt hat",
+      "Asterix kommt zurück ins Kino: Drei restaurierte Zeichentrickklassiker ab Januar in Deutschland",
+      "Riesenhirsch mit Hiebspuren: Waren Menschen schon vor 13.500 Jahren in Irland?",
+      "Wegweiser für Jäger: Riesige Elchgravuren in Skandinavien zeigten womöglich gute Jagdplätze an",
+      "Saure Milch für die Toten: 5000 Jahre alte Gefäße aus dänischen Ganggräbern",
+      "Mondsichel aus Metall: Gräberfeld vor dem neuen Warschauer Großflughafen liefert Tausende Funde",
+      "3000 Tonnen Schutt geräumt: Die Tunnel unter der Hagia Sophia werden erforscht"
+    ]
+  },
+  {
     "nr": 49,
     "date": "2026-11-26",
     "updated": "2026-11-26T07:50:59+01:00",
