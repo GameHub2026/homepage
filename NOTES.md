@@ -9,7 +9,7 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - Regal "Spiele ich gerade" liest live aus GameHub (read-only D1-Binding), Fallback data/spiele.json.
 - Deploy: GitHub Action ruft Cloudflare-Deploy-Hook bei jedem Push auf main.
 - .wrenfell-passwort.txt auf Kevins Freigabe in den Papierkorb (Passwort liegt als Pages-Secret SITE_PASSWORD).
-- Heft 49 (2026-11-26) erschienen (am 25.11. lief keine Ausgabe).
+- Heft 50 (2026-11-27) erschienen.
 
 ## Offen
 - Mobile Ansicht der Projektkarten und der Cover-Reihe ungeprüft.
@@ -26,6 +26,7 @@ Regeln: Nur diese Datei ändern, maximal 40 Zeilen, Veraltetes streichen. Dateie
 - Bildquellen gut: archaeologymag.com liefert gute Querformat-Bilder. Fallback: anderen Artikel derselben Meldung nehmen oder Openverse-API (mit &aspect_ratio=wide, Commons-Thumb per /thumb/…/1280px-Datei; Flickr). Wikimedia-API antwortet oft mit Rate-Limit-Text statt JSON.
 - Bildcredits: Deadline/THR als „Courtesy Everett Collection“ bzw. „… via Getty Images“ im HTML, TechCrunch in figcaption. PIL in der Umgebung defekt, Bildmaße per `file`.
 - Trailer-Links: YouTube-Embeds in Artikeln sind oft Fremdkanäle (JoBlo); Kanal per youtube.com/oembed prüfen, offiziellen Kanal über YouTube-Suche finden.
+- Riemann-Beweis lief 2× (zuletzt Heft 50 „Neu zu“), Rockstar-Gewerkschaft: Abstimmung verloren (Heft 50), offen nur noch Arbeitsgerichtsurteil.
 - Texte: Highlight nie mit öffnendem „ beginnen lassen, wenn im Body davor ein Satzteil steht.
 
 ## Entscheidungen
