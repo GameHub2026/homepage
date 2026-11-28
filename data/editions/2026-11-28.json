@@ -1,0 +1,628 @@
+{
+  "nr": 51,
+  "date": "2026-11-28",
+  "intro": "Im KI-Kapitel von Heft 51 mahnen Verbraucherschützer OpenAI und Anthropic ab, billige Inferenz-Marktplätze entpuppen sich als Datenleck, und Gerichtsakten zeigen, wie Washington sich 10 Prozent von Intel nahm. Beim Gaming ziehen wir eine erste Wochenbilanz von GTA 6, im Kino ärgert sich Denis Villeneuve über Marvel. In der Geschichte geht es um den ältesten Eisenpanzer Chinas und um Krokodilmumien mit Hausrezept.",
+  "sections": [
+    {
+      "category": "ki",
+      "items": [
+        {
+          "title": "Verbraucherzentrale Niedersachsen mahnt OpenAI und Anthropic ab",
+          "lead": "Die Verbraucherschützer werfen beiden KI-Anbietern unzulässige Klauseln, unvollständige Preisangaben und ein mangelhaftes Impressum vor. Bei OpenAI geht es vor allem um die Umstellung des Plus-Abos auf Token-Kontingente.",
+          "body": [
+            "Die Verbraucherzentrale Niedersachsen hat die KI-Anbieter OpenAI und Anthropic abgemahnt. Die Schreiben gingen jeweils an die irischen Tochterfirmen der beiden US-Unternehmen, über die das Europageschäft läuft. Beiden wirft die Verbraucherzentrale vor, gegen deutsches Verbraucherrecht zu verstoßen, allerdings mit unterschiedlichen Schwerpunkten.",
+            "Anthropic behält sich in seinen Geschäftsbedingungen vor, Preise und Pläne nach eigenem Ermessen zu ändern. Nach Ansicht der Verbraucherschützer verstößt diese Klausel gegen die strengen Vorgaben für nachträgliche Vertragsänderungen: Die Gründe für eine Änderung müssten vorher konkret benannt und berechtigt sein. Außerdem bewerbe Anthropic die Claude-Abos mit Preisen ohne Steuern. In den USA ist das üblich, weil die je nach Bundesstaat unterschiedliche Sales Tax erst an der Kasse hinzukommt. In Deutschland muss dagegen der Gesamtpreis genannt werden.",
+            "Bei OpenAI dreht sich der Streit um die geplante Zusammenlegung des Chat- und des Work-Bereichs im Plus-Abo. OpenAI will dafür die Kontingente von ChatGPT und Codex bündeln und die Verbrauchsmessung von der Zahl der Nachrichten auf Token umstellen. Wie sich das auf die tatsächlich nutzbaren Kontingente auswirkt, hält die Verbraucherzentrale für völlig unklar. Es sei nicht auszuschließen, dass Nutzer bei gleichem Verhalten künftig öfter kostenpflichtige Zusatz-Credits kaufen müssen. Digitale Produkte dürften aber nur aus triftigem Grund geändert werden, die Folgen müssten verständlich erklärt werden, und zusätzliche Kosten dürften nicht entstehen.",
+            "Bei beiden Firmen kritisiert die Verbraucherzentrale zudem das Impressum: Es sei kaum zu finden, und ein Vertretungsberechtigter werde nirgends genannt. Gegen OpenAI läuft bereits eine Klage der Verbraucherzentrale Brandenburg wegen erschwerter Kündigung und einer einseitigen Preisanpassungsklausel. Die Brandenburger hatten im Juli abgemahnt, OpenAI gab keine Unterlassungserklärung ab.",
+            "Kunden, deren Vertrag ohne ausdrückliche Zustimmung umgestellt wurde oder denen ein höherer Betrag abgebucht wurde, rät die Verbraucherzentrale, die Rückkehr in den ursprünglichen Tarif zu verlangen, zu viel gezahltes Geld zurückzufordern und Belege aufzubewahren. OpenAI und Anthropic hatten sich gegenüber heise bis zur Veröffentlichung nicht geäußert."
+          ],
+          "highlight": "Es sei nicht auszuschließen, dass Nutzer bei gleichem Verhalten künftig öfter kostenpflichtige Zusatz-Credits kaufen müssen.",
+          "assessment": [
+            "Die Abmahnungen treffen einen wunden Punkt der Branche: KI-Abos sind keine festen Produkte, sondern Kontingente, deren Wert sich ständig verschiebt. Wer heute 20 Euro im Monat zahlt, weiß nicht, wie viel Rechenzeit er dafür im nächsten Quartal bekommt. Dass die Umstellung auf Token-Zählung genau das noch undurchsichtiger macht, haben wir in Heft 50 schon an den Abrechnungsfehlern bei GPT-6.2 gesehen.",
+            "Juristisch sind die Vorwürfe nicht spektakulär, Bruttopreise und ein auffindbares Impressum sind deutsches Grundrecht des Onlinehandels. Gerade deshalb dürften die Anbieter hier schnell nachgeben. Spannender ist die Frage, ob Gerichte am Ende auch die Freiheit der Anbieter beschneiden, Leistungen einseitig umzubauen. Das wäre für das ganze Geschäftsmodell ein echter Einschnitt."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/4/5/8/shutterstock_2745004941-99e33e0b1c78b8e1.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild zu KI-Anbietern und Verbraucherschutz",
+            "credit": "Yalcin Sonat / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html"
+          }
+        },
+        {
+          "title": "Billige KI-Inferenz mit Haken: Über Router-Dienste landeten Prompts bei Angreifern und einem chinesischen Labor",
+          "lead": "Der Sicherheitsforscher HD Moore hat mit fast zwei Millionen präparierten Anfragen nachgewiesen, dass Prompts auf dem Weg über KI-Router und Billiganbieter mitgelesen und ausgenutzt wurden. Betroffen waren auch Anfragen, die gar nicht gespeichert werden durften.",
+          "body": [
+            "KI-Router wie OpenRouter oder Vercel bieten Entwicklern einen einzigen Zugang zu vielen Modellen und verteilen die Anfragen an verschiedene Hoster. Manche dieser Router funktionieren als offene Marktplätze: Wer ein Modell am billigsten anbietet, bekommt die Anfrage. Oft wandert ein Prompt so über mehrere Zwischenhändler, und jede Station sieht ihn im Klartext. Genau dieses Modell hat ein Team um HD Moore, Forschungschef der Sicherheitsfirma Dragos, von Juli bis November getestet.",
+            "Die Forscher verschickten sogenannte Canaries, also Köder: AWS-Schlüssel für leere, überwachte Konten oder eindeutige URLs, die kein legitimes System aufruft. Jeder Zugriff bewies, dass jemand in der Kette den Prompt gelesen hatte. Das Ergebnis: Bei drei verschiedenen Hosting-Anbietern stahlen Angreifer aktiv Daten, der früheste Fall reicht bis Mitte Juli zurück, und keiner der Anbieter bemerkte etwas, bis Dragos sie informierte. Beim größten Einbruch ging es um einige hundert AWS-Schlüssel. Jede einzelne Anfrage wurde gestohlen, teils prüften die Täter die Schlüssel binnen Stunden, durchsuchten Speicher und Passwortdienste und versuchten, eigene Nutzerkonten anzulegen.",
+            "Die Täter waren offenbar keine großen Gruppen. Es reichte, ein Modell zum niedrigsten Preis zu listen, die Protokollierung einzuschalten und abzuwarten. In einem Fall versuchte jemand von einem privaten Anschluss in Frankreich aus, sich mit Passwörtern aus den abgefangenen Prompts per SSH als Administrator einzuloggen, jeden Versuch von Hand getippt.",
+            "Besonders heikel: Viele Prompts trugen das Flag „Zero Data Retention“, mit dem Kunden verlangen, dass nichts gespeichert wird. Bei zwei der drei Einbrüche erbeuteten die Angreifer auch solche Anfragen. Ein chinesisches KI-Labor rief laut Dragos zwischen Juli und Oktober die geheimen URLs aus mehr als der Hälfte der Prompts an seine Modelle ab, darunter rund zwei Drittel der Anfragen mit diesem Flag. Der Anbieter MiniMax räumt ein, dass ein automatisches Sicherheitssystem URLs aus weitergeleiteten Anfragen geöffnet habe, auch bei geschützten Anfragen. Die Funktion sei abgeschaltet, eine Weitergabe an Dritte habe man nicht gefunden. In einem weiteren Fall tauchte ein geheimer Link 24 Tage nach der Anfrage an einen US-Anbieter in einem Kanal der Chatplattform Feishu auf und wurde binnen zwei Minuten von Geräten in Peking und Shanghai geöffnet.",
+            "OpenRouter hat inzwischen drei Anbieter von der Plattform genommen und 125 Endpunkten das Datenschutz-Label entzogen. Potenziell betroffene Kunden wurden benachrichtigt, die Köder-Tests will der Dienst künftig selbst laufend durchführen. Einen Einbruch bei sich selbst sieht OpenRouter nicht."
+          ],
+          "highlight": "Es reichte, ein Modell zum niedrigsten Preis zu listen, die Protokollierung einzuschalten und abzuwarten.",
+          "assessment": [
+            "Das ist die vielleicht wichtigste Sicherheitsmeldung der Woche, gerade weil sie so banal ist. Wer seinen Prompt an den billigsten Anbieter eines anonymen Marktplatzes schickt, gibt ihn einem Fremden. Dass Entwickler dabei Zugangsdaten und Passwörter mitschicken, gehört zum Alltag mit Coding-Agenten, und genau das macht die Kette so wertvoll für Angreifer.",
+            "Das Datenschutz-Flag entpuppt sich als Versprechen ohne Kontrolle. Solange niemand prüft, ob ein Reseller sich daran hält, ist es eine Bitte. Für Unternehmen heißt das: direkt beim Modellanbieter oder bei geprüften Hostern buchen und Geheimnisse grundsätzlich nicht in Prompts schreiben. Der Rabatt ist sonst teuer bezahlt."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html"
+            }
+          ],
+          "image": {
+            "url": "https://live.staticflickr.com/3555/3463419826_eebe8fcb07_b.jpg",
+            "alt": "Serverschränke in einem Rechenzentrum",
+            "credit": "torkildr",
+            "license": "CC BY-SA 2.0",
+            "source": "https://www.flickr.com/photos/8718930@N07/3463419826"
+          }
+        },
+        {
+          "title": "Signal sperrt Screenshots: Datenschützer warnen vor KI-Agenten im Betriebssystem",
+          "lead": "Autonome Assistenten von Apple, Google und Microsoft können Inhalte direkt vom Bildschirm lesen und damit Verschlüsselung aushebeln. Aufsichtsbehörden und Bürgerrechtler schlagen Alarm, Signal reagiert mit einer technischen Sperre.",
+          "body": [
+            "KI-Agenten wandern tief in die Betriebssysteme von Smartphones und Computern. Damit können sie Nachrichten, Fotos und E-Mails direkt vom Bildschirm abgreifen, und zwar unabhängig davon, wie gut eine einzelne App ihre Daten schützt. Ende-zu-Ende-Verschlüsselung hilft wenig, wenn der Assistent den entschlüsselten Text auf dem Display mitliest. Das berichtet heise unter Berufung auf Aussagen von Datenschützern gegenüber dem Portal Politico.",
+            "Itxaso Domínguez de Olazábal vom europäischen Netzwerk European Digital Rights (EDRi) fordert strenge Grenzen für den Datenzugriff solcher Agenten. Es sei zutiefst beunruhigend, wenn Betriebssystemhersteller bald faktisch darüber entschieden, wie viel Privatsphäre den Nutzern noch bleibe. In vielen Ländern laufen solche Agenten bereits, in der EU geht es wegen der strengen Wettbewerbs- und Datenschutzregeln langsamer voran. Die britische Datenschutzbehörde ICO warnte schon Ende Oktober zusammen mit anderen Regulierern vor den Risiken. Meta verpflichtete sich nach dem britischen Start seines Agenten Muse zu einem freiwilligen Überwachungs- und Berichtsverfahren.",
+            "Auch die irische Datenschutzkommission DPC, die für viele US-Konzerne in Europa zuständig ist, nimmt sogenannte Drittdaten ins Visier. Sie entstehen, wenn jemand einem Freund schreibt, dessen KI-Agent die Chats mitliest, ohne dass der Absender davon weiß. Unbeteiligte hätten kaum eine Chance auf Information oder Widerspruch, sagt die irische Datenschutzbeauftragte Niamh Sweeney.",
+            "Am deutlichsten wird Signal. Strategiechef Udbhav Tiwari sagte, die Möglichkeit für Milliarden Geräte, ihre Nutzer dauerhaft auszuspionieren, lasse die Snowden-Enthüllungen „wie einen Witz aussehen“. Er fürchtet, dass Regierungen die Konzerne zur Herausgabe der von Agenten gesammelten Daten zwingen könnten und Verschlüsselung dann gar nicht mehr knacken müssten. Signal blockiert deshalb standardmäßig Screenshots: Unter iOS 27 generell, unter Android, sobald ein KI-Assistent auf den Bildschirm zugreifen will. Außerdem fordert der Dienst verbindliche Schnittstellen, über die Apps die KI-Verarbeitung untersagen können. Apple, Google und Microsoft lehnten eine Stellungnahme ab."
+          ],
+          "highlight": "Ende-zu-Ende-Verschlüsselung hilft wenig, wenn der Assistent den entschlüsselten Text auf dem Display mitliest.",
+          "assessment": [
+            "Hier verschiebt sich gerade still eine Machtfrage. Jahrzehntelang galt: Die App entscheidet, was mit ihren Daten passiert. Mit Agenten auf Systemebene entscheidet das der Hersteller des Betriebssystems, und die App kann nur noch den Bildschirm verdunkeln. Signals Screenshot-Sperre ist eine Notlösung, die zeigt, wie wenig Werkzeuge Apps derzeit haben.",
+            "Die Forderung nach einer verbindlichen Schnittstelle, mit der eine App sagen kann „hier liest keine KI mit“, ist vernünftig und überfällig. Dass Europa bei der Einführung solcher Agenten hinterherhinkt, wird oft als Nachteil beklagt. In diesem Fall könnte die Verzögerung die Zeit verschaffen, genau so eine Regel durchzusetzen."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/KI-Agenten-im-Betriebssystem-Datenschuetzer-schlagen-Alarm-wegen-Ueberwachung-11541373.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/8/1/6/shutterstock_2659892843-967596089a182d34.jpg?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Symbolbild: KI-Agent auf dem Smartphone liest mit",
+            "credit": "Yarrrrrbright / Shutterstock.com",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/KI-Agenten-im-Betriebssystem-Datenschuetzer-schlagen-Alarm-wegen-Ueberwachung-11541373.html"
+          }
+        },
+        {
+          "title": "„Kein Verhandlungsangebot“: Gerichtsakten zeigen, wie Washington sich 10 Prozent von Intel nahm",
+          "lead": "Interne Notizen aus einer Aktionärsklage zeigen, mit welchem Druck die Trump-Regierung im August 2025 eine Staatsbeteiligung an Intel durchsetzte. Nach der Rückkehr von Jensen Huang zu Nvidia bekommt der Fall neue Aktualität.",
+          "body": [
+            "Die Botschaft an Intel war unmissverständlich. Man solle nicht den „Fehler machen zu glauben, dass dies eine Verhandlung ist“, sagte David Shapiro, Anwalt im US-Handelsministerium, im August 2025 dem Finanzchef des Konzerns. So steht es in internen Notizen, die in einer Klage des Aktionärs Richard Paisner gegen den Intel-Vorstand enthalten sind und jetzt entschwärzt wurden. Das Magazin WIRED hat die Unterlagen ausgewertet, Ars Technica hat den Bericht veröffentlicht. Der Präsident erwarte, die Einigung am Freitag zu verkünden. Der Vorstand könne das Angebot ablehnen, eine Ablehnung werde aber Folgen haben, die er nicht vorhersagen könne.",
+            "Vorausgegangen war ein öffentlicher Angriff: Trump hatte Intel-Chef Lip-Bu Tan wegen dessen China-Verbindungen als „höchst befangen“ bezeichnet und seinen sofortigen Rücktritt gefordert. Tan bekam am 11. August 40 Minuten im Oval Office und versprach, seine Beteiligungen in China abzugeben. Weder Tans Brief noch Trumps lobende Beiträge nach dem Treffen erwähnten eine Staatsbeteiligung. Trump erzählte später, er habe Tan gesagt, die USA sollten 10 Prozent von Intel bekommen. „Ich hätte mehr verlangen sollen. Es war so einfach.“",
+            "Am 18. August kam laut Klage das mündliche Angebot: etwa ein Zehntel der Aktien, kostenlos, im Gegenzug für die Auszahlung von 8,9 Milliarden Dollar an Fördermitteln, die Intel unter dem CHIPS Act längst zugesagt worden waren. Der Vorstand fand die Bedingungen laut Protokoll „in ihrer jetzigen Form nicht attraktiv“ und stimmte trotzdem zu. Die Klage spricht von Erpressung, Intels Anwälte sagen, es habe Verhandlungen gegeben, die den Deal verbessert hätten. Ein Video, in dem Tan mit Handelsminister Howard Lutnick die neue Partnerschaft feierte, verglichen Mitarbeiter intern mit einem „Geiselvideo“.",
+            "Derselbe Aktionär klagt auch gegen Nvidia. Dort geht es um die Abmachungen, nach denen der Konzern 15 Prozent der Umsätze mit dem H20-Chip und 25 Prozent der Umsätze mit dem H200 in China an die US-Regierung abführt. Paisners Anwälte nennen das „rechtswidrige Steuern“. Nvidia bestreitet jede illegale Vereinbarung. Der Fall gewinnt Gewicht, weil Trump gerade erst verkündet hatte, er habe den Nvidia-Vorstand „überzeugt“, Jensen Huang wieder als Chef einzusetzen. Intel lehnte einen Kommentar ab, Weißes Haus, Handelsministerium und Nvidia antworteten nicht."
+          ],
+          "highlight": "etwa ein Zehntel der Aktien, kostenlos, im Gegenzug für die Auszahlung von 8,9 Milliarden Dollar an Fördermitteln, die Intel unter dem CHIPS Act längst zugesagt worden waren",
+          "assessment": [
+            "Bisher war die Intel-Beteiligung als ungewöhnlicher, aber freiwilliger Deal erzählt worden. Die Akten zeichnen ein anderes Bild: Die Regierung hielt bereits bewilligtes Geld zurück und ließ sich die Freigabe mit Firmenanteilen bezahlen. Das ist eher Schutzgeld als Industriepolitik.",
+            "Für die KI-Branche ist das mehr als eine Episode aus dem Vorjahr. Die beiden wichtigsten amerikanischen Chipkonzerne sind inzwischen politisch verflochten, bei Intel über Anteile, bei Nvidia über Umsatzabgaben und nun sogar über die Personalie an der Spitze. Wer Chips kauft oder in sie investiert, muss diese Abhängigkeit künftig einpreisen."
+          ],
+          "sources": [
+            {
+              "name": "Ars Technica (WIRED)",
+              "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/1280px-Intel_Headquarters_in_2023.jpg",
+            "alt": "Die Intel-Zentrale in Santa Clara",
+            "credit": "Coolcaesar",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/w/index.php?curid=133964425"
+          }
+        },
+        {
+          "title": "Der KI-Boom erreicht die Rohlinge: Wafer-Hersteller warnen vor Knappheit ab 2027",
+          "lead": "Die vier größten Hersteller von Silizium-Wafern sehen Lieferengpässe kommen. Neue Werke lohnten sich zu den aktuellen Preisen nicht, schreibt Marktführer Sumco.",
+          "body": [
+            "Während Chipkonzerne mit dem KI-Boom Rekordgewinne machen, kommt davon bei den Zulieferern der Silizium-Rohlinge wenig an. Die vier weltweit größten Hersteller, Shin-Etsu, Sumco, Globalwafers und das deutsche Unternehmen Siltronic, warnen in ihren aktuellen Geschäftsberichten vor Lieferknappheit spätestens ab 2027. Betroffen sind die beiden verbreitetsten Größen: 300-Millimeter-Scheiben für Prozessoren, KI-Beschleuniger und Speicher sowie 200-Millimeter-Wafer für Leistungshalbleiter.",
+            "Der Bedarf wächst schneller als gedacht. TSMC, Samsung, SK Hynix, Micron und Intel bauen ihre Kapazitäten teils massiv aus. Moderne KI-Beschleuniger mit mehreren Chiplets auf riesigen Silizium-Interposern und gestapeltem HBM-Speicher verbrauchen besonders viel Fläche. Die frühere Sumco-Tochter Formosa Sumco Technology meldet volle Auslastung und teilt 200-Millimeter-Wafer bereits nach Kontingenten zu, weil Power-Management-Chips für KI-Server stärker gefragt sind als erwartet.",
+            "Das Problem liegt in alten Verträgen. Die Zulieferer haben ihre Produktion langfristig zu niedrigen Preisen verkauft und können nur Mengen über diese Verträge hinaus teurer abgeben. Größere Preissteigerungen sind offenbar erst ab Ende 2026 möglich. Entsprechend dünn sind die Margen: Sumco meldete zuletzt umgerechnet 672 Millionen Euro Umsatz und 11 Millionen Euro Betriebsgewinn, Globalwafers 411 und 40 Millionen. Siltronic schrieb wegen Abschreibungen auf sein 2024 eröffnetes Werk in Singapur 42 Millionen Euro Betriebsverlust.",
+            "Neue Werke hat derzeit kein Zulieferer angekündigt, Shin-Etsu will vor allem bestehende Standorte ausbauen. Sumco schrieb Mitte November: „Angesichts des derzeitigen Preisniveaus und der gestiegenen Kosten sind Investitionen in zusätzliche Produktionskapazitäten wirtschaftlich nicht tragfähig.“ Selbst wenn man investiere, dauere es, bis die Kapazität verfügbar sei. Ein neues Waferwerk kostet zwar weit weniger als eine Chipfabrik, kann aber mehrere Milliarden Euro verschlingen."
+          ],
+          "highlight": "Die Zulieferer haben ihre Produktion langfristig zu niedrigen Preisen verkauft und können nur Mengen über diese Verträge hinaus teurer abgeben.",
+          "assessment": [
+            "Nach Speicher, Strom und Servern ist das der nächste Engpass in der KI-Lieferkette, und er sitzt ganz am Anfang. Ohne Rohling kein Chip, egal wie viele Fabriken TSMC baut. Dass die Hersteller ausgerechnet im größten Halbleiterboom der Geschichte kaum Geld verdienen, klingt absurd, ist aber eine typische Folge langer Lieferverträge.",
+            "Die Warnung ist natürlich auch Verhandlungstaktik: Wer vor Knappheit warnt, will höhere Preise durchsetzen. Trotzdem ist sie ernst zu nehmen, denn Waferwerke brauchen Jahre. Für Verbraucher heißt das: Die Hoffnung auf bald sinkende Preise für Grafikkarten, Speicher und Konsolen bekommt einen weiteren Dämpfer."
+          ],
+          "sources": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/news/Silizium-Wafer-werden-knapp-11541071.html"
+            }
+          ],
+          "image": {
+            "url": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/6/6/0/Wafer2_1-7a2a28d14ed467fc-ba7b729d6f202263.webp?func=bound&height=1200&org_if_sml=1&q=85&width=1200",
+            "alt": "Ein von Intel belichteter 300-Millimeter-Wafer",
+            "credit": "Andreas Wodrich / heise medien",
+            "license": "Artikelbild heise online",
+            "source": "https://www.heise.de/news/Silizium-Wafer-werden-knapp-11541071.html"
+          }
+        }
+      ]
+    },
+    {
+      "category": "gaming",
+      "items": [
+        {
+          "title": "Eine Woche GTA 6: Call of Duty verliert fast die Hälfte seiner Spieler, Steam bleibt fast unberührt",
+          "lead": "Nach sieben Tagen lassen sich die Folgen des Rockstar-Starts für die übrige Branche erstmals messen. GamesIndustry.biz hat Analysten, Datenfirmen und mutige Konkurrenten befragt.",
+          "body": [
+            "Die Zahlen zum Start selbst sind bekannt: Am ersten Tag verkaufte Rockstar 32,5 Millionen Exemplare und setzte 3,79 Milliarden Dollar um. Analysten schätzen den Absatz inzwischen auf mehr als 40 Millionen, mehrere Firmen rechnen mit 50 Millionen bis zum Jahresende. Nun zeigt sich, was das für andere Spiele bedeutet. Laut Sensor Tower brachen die täglich aktiven Spieler von Call of Duty auf Konsole und Steam um 46 Prozent ein, bei Fortnite um 25 Prozent.",
+            "Auf Steam dagegen änderte sich kaum etwas. „Es gab keinen offensichtlichen Abfluss gleichzeitiger Spieler auf Steam insgesamt“, sagt Simon Carless von GameDiscoverCo. Kleine Titel, die in derselben Woche erschienen, liefen ordentlich: Das günstige Just Volleyball verkaufte nach Schätzung der Firma mehr als 200.000 Exemplare, Melvor Idle 2 mehr als 100.000. Viele PC-Spieler haben schlicht keine Konsole. Auch Entwickler wie Devolver und der Solo-Entwickler Tomas Sala, die bewusst am 19. November veröffentlichten, berichten von zufriedenstellenden bis sehr guten Starts.",
+            "Bei der Aufmerksamkeit war GTA 6 dagegen allgegenwärtig. Twitch erreichte einen Spitzenwert von 5,1 Millionen gleichzeitigen Zuschauern, das Spiel sammelte in zwei Tagen mehr Sehzeit als jedes andere Spiel in seiner gesamten Startwoche. Die Datenfirma Screen Engine misst einen Rekordanteil von 31,4 Prozent an der gesamten Gaming-Aufmerksamkeit auf Twitch, YouTube und in der Google-Suche, mehr als dreimal so viel wie der bisherige Rekord von Fortnite 2019. Der Anteil von Live-Service-Spielen fiel in der Woche von 57 auf 42,4 Prozent, erstmals unter die Hälfte.",
+            "Getragen wird der Umsatzrekord vom Preis: Die meisten Vorbestellungen entfielen laut Analyst Joost van Dreunen auf die Ultimate Edition für 100 Dollar. Er warnt, das sei für andere Verlage verlockend und gefährlich zugleich. Spitzentitel könnten Premiumpreise verlangen, „hohe Preise für einen Titel zu verlangen, der sie nicht verdient, ist dagegen ein schneller Weg, ein Verlagsimperium zu Fall zu bringen“.",
+            "Die Grenze des Wachstums ist die Hardware. Weltweit gibt es laut van Dreunen rund 137 Millionen Konsolen der aktuellen Generation, ein Viertel der Besitzer kaufte das Spiel schon vor dem Start. Die nächste große Absatzstufe hängt an der noch nicht bestätigten PC-Version. Piers Harding-Rolls von Ampere Analysis sieht trotzdem Gutes für die Branche: Der Start habe die Zahl der Konsolenbesitzer vergrößert, davon profitierten auch andere Verlage."
+          ],
+          "highlight": "Laut Sensor Tower brachen die täglich aktiven Spieler von Call of Duty auf Konsole und Steam um 46 Prozent ein, bei Fortnite um 25 Prozent.",
+          "assessment": [
+            "Die Bilanz ist differenzierter, als die Angst vor dem Start vermuten ließ. GTA 6 hat vor allem die großen Dauerläufer kannibalisiert, also genau die Spiele, die um dieselbe Abendzeit konkurrieren. Kleine PC-Titel mit eigenem Publikum haben die Woche dagegen gut überstanden. Die Schonfrist, die sich die Branche selbst verordnet hatte, war für Indies womöglich gar nicht nötig.",
+            "Bedenklicher ist die Preislektion. GTA 6 beweist, dass ein Ausnahmespiel 100 Dollar holen kann, und jeder Finanzvorstand wird das in seine Planung schreiben. Die Spiele, die diesen Preis nicht rechtfertigen, werden es merken. Für Spieler ist das die eigentlich schlechte Nachricht dieser Woche."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far"
+            },
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Grand Theft Auto 6",
+            "credit": "Rockstar Games",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc"
+          }
+        },
+        {
+          "title": "Neu zu Silksong: „Sea of Sorrow“ erscheint am 11. Dezember, kostenlos und mit Angelspiel",
+          "lead": "Team Cherry hat in seiner Präsentation den Termin für die erste große Erweiterung von Hollow Knight: Silksong genannt. Die maritime Erweiterung ist für alle Spieler gratis.",
+          "body": [
+            "Nach der Ankündigung in Heft 50 hat Team Cherry am Freitag geliefert. In einer „Cherry Time Special Presentation“ zeigte das australische Studio einen Trailer zu „Sea of Sorrow“ und bestätigte den Termin: Die Erweiterung erscheint am 11. Dezember, also in knapp zwei Wochen. Team Cherry nennt sie „eine Erweiterung, wie wir sie noch nie gemacht haben“. Sie ist für alle Besitzer des Spiels kostenlos.",
+            "Der Trailer zeigt neue Umgebungen, Gegner und Bosse. Ganz am Ende ist zu sehen, was nach einem Angel-Minispiel aussieht, passend zum nautischen Thema der Erweiterung. Weitere Details zum Umfang nannte das Studio nicht.",
+            "Die Gründer William Pellen und Ari Gibson nutzten die Präsentation außerdem, um drei kleine Spiele anderer Indie-Entwickler vorzustellen. Silksong ist für PC, Mac, PlayStation 4 und 5, Xbox One und Series X/S sowie Switch und Switch 2 erschienen.",
+            "Es dürfte nicht bei einer Erweiterung bleiben. In den Booklets der Handelsversionen, die erst mehr als ein Jahr nach dem Start bei den Käufern ankamen, ist von „kostenlosen Inhaltspaketen“ in der Mehrzahl die Rede. Die Welt von Silksong werde damit wachsen, mit neuen Freunden, Fähigkeiten und Gegnern. Was nach Sea of Sorrow kommt, verriet Team Cherry nicht."
+          ],
+          "highlight": "Die Erweiterung erscheint am 11. Dezember, also in knapp zwei Wochen.",
+          "assessment": [
+            "Team Cherry bleibt sich treu: Lange nichts, dann ein klarer Termin und alles gratis. Bei einem Studio, das für Silksong fast sieben Jahre gebraucht hat, ist ein Abstand von zwei Wochen zwischen Präsentation und Veröffentlichung fast schon ein Kulturwandel.",
+            "Dass eine Erweiterung dieser Größe nichts kostet, ist in einer Branche, die gerade über 100-Dollar-Editionen diskutiert, ein schönes Gegenmodell. Wer Silksong nach dem Abspann liegen gelassen hat, hat im Dezember einen guten Grund zurückzukehren."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/sea-of-sorrows-silksong.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Hornet im Titelbild der Silksong-Erweiterung Sea of Sorrow",
+            "credit": "Team Cherry / Eurogamer",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame"
+          }
+        },
+        {
+          "title": "Story-of-Seasons-Studio Marvelous will 65 Stellen über Frühruhestand abbauen",
+          "lead": "Der japanische Entwickler bietet Beschäftigten im Konsolengeschäft eine Abfindung für den freiwilligen Ausstieg. Begründung: Projekte werden größer und dauern länger.",
+          "body": [
+            "Marvelous, bekannt für die Bauernhof-Reihe Story of Seasons und Rune Factory, will seine Belegschaft um 65 Stellen verkleinern. Dafür setzt das Unternehmen auf ein Frühruhestandsprogramm. Betroffen ist die Sparte für Konsolen- und PC-Spiele, die im Unterschied zum Mobil- und Live-Service-Geschäft umgebaut wird. Zuerst hatte das japanische Portal Automaton berichtet.",
+            "Freiwillige Kündigungen nimmt Marvelous vom 14. Dezember 2026 bis zum 8. Januar 2027 an, sowohl von Festangestellten als auch von Vertragsmitarbeitern. Wer geht, soll das Unternehmen bis zum Ende des Geschäftsjahres im März 2027 verlassen. Es gibt eine einmalige Sonderzahlung und Hilfe bei der Suche nach einer neuen Stelle.",
+            "Zur Begründung schreibt das Unternehmen, im Konsolenmarkt veränderten sich die Bedingungen, Entwicklungsprojekte würden größer und die Entwicklungszyklen länger. Künftig will Marvelous eigene Entwicklung stärker mit externen Partnern kombinieren und die Belegschaft an das künftige Geschäft anpassen. Das Konsolengeschäft bleibe ein Kerngeschäft, man wolle sich auf Titel konzentrieren, die die eigenen Stärken nutzen, und weiter neue Spiele planen.",
+            "Im Sommer hatte es Berichte gegeben, Tencent erwäge, sich von einigen Minderheitsbeteiligungen an japanischen Studios zu trennen, darunter Marvelous. Tencent hatte 2020 rund 20 Prozent für geschätzte 7 Milliarden Yen übernommen. Gegenüber GamesIndustry.biz erklärte der chinesische Konzern, man bleibe seinen Beteiligungen und dem japanischen Markt langfristig verpflichtet."
+          ],
+          "highlight": "Entwicklungsprojekte würden größer und die Entwicklungszyklen länger",
+          "assessment": [
+            "Freiwilliger Ruhestand ist in Japan die übliche, sanftere Form des Stellenabbaus, Entlassungen wie im Westen sind dort selten und rechtlich heikel. An der Botschaft ändert das nichts: Auch ein mittelgroßer Verlag mit treuer Nische spürt die steigenden Kosten.",
+            "Der Hinweis auf externe Partner heißt im Klartext: weniger eigene Leute, mehr Auftragsarbeit. Für Story of Seasons muss das nicht schlecht sein, die Reihe lebt von Pflege, nicht von Budget. Spannend wird, ob Tencent bleibt. Ein Ausstieg würde Marvelous weiter unter Druck setzen."
+          ],
+          "sources": [
+            {
+              "name": "GamesIndustry.biz",
+              "url": "https://www.gamesindustry.biz/story-of-seasons-studio-marvelous-offering-voluntary-resignations-to-reduce-headcount-by-65-roles"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/story-of-seasons_UP6Fm1B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Szene aus Story of Seasons",
+            "credit": "Marvelous",
+            "license": "Artikelbild GamesIndustry.biz",
+            "source": "https://www.gamesindustry.biz/story-of-seasons-studio-marvelous-offering-voluntary-resignations-to-reduce-headcount-by-65-roles"
+          }
+        },
+        {
+          "title": "Zu teuer für ein kleines Studio: Yooka-Laylees Neuauflage erscheint nicht für Xbox",
+          "lead": "Playtonic bringt die Definitive Edition von Yooka-Laylee and the Impossible Lair im Dezember nur für PlayStation 5 und Switch 2. Das Studio begründet das mit Kosten und technischen Hürden.",
+          "body": [
+            "Am 15. Dezember erscheint Yooka-Laylee and the Impossible Lair: Definitive Edition. Die Neuauflage des Plattformers von 2019 bringt Unterstützung für 120 Bilder pro Sekunde, überarbeitete Beleuchtung, neue Texturen und Schatten sowie das Zusatzpaket Trowzer's Top Tonic Pack. Eine Version für Xbox Series X/S fehlt allerdings, was bei Fans für Ärger sorgte.",
+            "Das britische Studio Playtonic hat sich nun in einem Beitrag erklärt. Man habe die Kräfte bündeln müssen, weil die technischen Herausforderungen und Kosten der überarbeiteten Fassung hoch seien. „Daher können wir uns auf absehbare Zeit auf keine weiteren Plattformen festlegen.“ Weitere Umsetzungen seien für das Studio derzeit wirtschaftlich nicht tragbar. Man verstehe den Frust der Xbox-Spieler, die Entscheidung sei nicht leicht gefallen.",
+            "Playtonic ist weiterhin ein unabhängiges Studio, und die Xbox-Konsolen verkaufen sich seit Längerem deutlich schlechter als die Konkurrenz. Digital-Foundry-Redakteur John Linneman hält den Verzicht für verschmerzbar: Die Version für die Xbox One X laufe bereits in nativem 4K und sei damals „mit Abstand die beste Konsolenfassung“ gewesen, das Upgrade falle eher gering aus.",
+            "Das Spiel selbst setzte nach dem ersten Yooka-Laylee, einem Sammelspiel im Stil von Banjo-Kazooie, auf 2D-Level nach dem Vorbild von Rares Donkey-Kong-Country-Reihe und kam bei der Kritik deutlich besser an als sein Vorgänger."
+          ],
+          "highlight": "Daher können wir uns auf absehbare Zeit auf keine weiteren Plattformen festlegen.",
+          "assessment": [
+            "Eine kleine Meldung mit großer Aussagekraft. Wenn ein unabhängiges Studio, dessen Gründer einst bei Rare für Microsoft arbeiteten, die Xbox-Fassung streicht, sagt das viel über den Stand der Plattform. Bei kleinen Teams entscheidet jede zusätzliche Version über Wochen Arbeit, und die Xbox rechnet sich offenbar nicht mehr.",
+            "Für Xbox-Besitzer ist der Verlust in diesem Fall tatsächlich klein, die alte Fassung läuft gut. Als Trend ist es dennoch bitter: Microsoft verliert zuerst die kleinen Ports, und genau die machen eine Konsole im Alltag lebendig."
+          ],
+          "sources": [
+            {
+              "name": "Eurogamer",
+              "url": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs"
+            }
+          ],
+          "image": {
+            "url": "https://assetsio.gnwcdn.com/yooka-replayee.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "alt": "Yooka, Laylee und die Schlange Trowzer in einer Spielszene",
+            "credit": "Playtonic Games",
+            "license": "Artikelbild Eurogamer",
+            "source": "https://www.eurogamer.net/yooka-laylee-skipping-xbox-costs"
+          }
+        },
+        {
+          "title": "Skate schafft Seasons und Season Pass ab",
+          "lead": "Ein gutes Jahr nach dem Start in den Early Access stellt EAs Skateboard-Spiel auf laufende, kleinere Updates um. Das Entwicklerstudio Full Circle will neue Funktionen künftig unfertig testen lassen.",
+          "body": [
+            "EAs Skate ist seit September 2025 im Early Access, und daran ändert sich vorerst nichts. Wohl aber an der Struktur: Das Studio Full Circle streicht die Seasons, auf denen das Spiel bisher aufbaute. Season 5 endet am 1. Dezember, danach soll es „regelmäßige, agile Inhalts-Updates“ geben. Mit den Seasons verschwindet auch der Season Pass, das Studio will das System für den Fortschritt grundsätzlich überdenken.",
+            "Begründet wird das mit Flexibilität. Ohne starre Season-Blöcke könne man Funktionen früher veröffentlichen, auch in unfertigem Zustand, und direkt Rückmeldungen der Spieler einholen. Erste Beispiele gibt es schon: Spot Battles, Block Parties und ein Sprachchat nach Entfernung wurden im Spiel getestet, bevor sie offiziell erschienen. „Das Spiel ist noch in Arbeit“, schreibt Full Circle, man nutze die Zeit, um zu experimentieren, gerade bei sozialen Funktionen und beim Fortschrittssystem.",
+            "Der Weg von Skate verlief bisher holprig. Der Start war durchwachsen, die Stimmung besserte sich später. Im Februar brach EA das Versprechen, keine neuen Karten hinter Bezahlschranken zu stellen, im selben Monat entließ Full Circle Mitarbeiter.",
+            "Mit dem Update 0.331 kommen weitere Änderungen, die EA auf seiner Website auflistet."
+          ],
+          "highlight": "Season 5 endet am 1. Dezember, danach soll es „regelmäßige, agile Inhalts-Updates“ geben.",
+          "assessment": [
+            "„Agil“ ist hier ein freundliches Wort für weniger. Ein Season-Modell verlangt alle paar Monate ein großes Paket an neuen Inhalten, und genau das kann ein verkleinertes Team offenbar nicht mehr stemmen. PC Gamer liest die Mitteilung zu Recht mit einem Unterton von „trotz allem“.",
+            "Für Spieler muss das nicht schlecht sein. Ein Season Pass ist vor allem ein Druckmittel, regelmäßig einzuloggen. Wenn Skate stattdessen öfter kleine Neuerungen bekommt, kann das dem Spiel sogar guttun. Ein Zeichen von Stärke ist es aber nicht, nach über einem Jahr Early Access die Grundstruktur neu zu denken."
+          ],
+          "sources": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/"
+            }
+          ],
+          "image": {
+            "url": "https://cdn.mos.cms.futurecdn.net/L6Uv3zEQCqJWLrsdQY9RyX-1920-80.jpg",
+            "alt": "Szene aus Skate",
+            "credit": "Electronic Arts",
+            "license": "Artikelbild PC Gamer",
+            "source": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "film",
+      "items": [
+        {
+          "title": "Neu zum Thanksgiving-Kino: „Focker In-Law“ holt Platz zwei, „Cliff Booth“ findet kaum Publikum",
+          "lead": "Panem dominiert das Feiertagswochenende weiter, dahinter kämpfen die Komödie mit Ariana Grande und Disneys „Hexed“ um Platz zwei. Insgesamt liegt Thanksgiving deutlich unter dem Vorjahr.",
+          "body": [
+            "Am Thanksgiving-Donnerstag spielte „The Hunger Games: Sunrise on the Reaping“ in den USA 11,6 Millionen Dollar ein, das zweitbeste Thanksgiving der Reihe nach „Catching Fire“ mit 14,95 Millionen vor 13 Jahren. Der sechste Panem-Film steht damit bei 174,9 Millionen Dollar und hat bereits das Gesamtergebnis seines Vorgängers „The Ballad of Songbirds & Snakes“ (166,3 Millionen) übertroffen. Für die fünf Feiertage von Mittwoch bis Sonntag erwartet Deadline rund 85 Millionen, bis Sonntag dürfte der Film bei etwa 233 Millionen stehen.",
+            "Dahinter liegt Universal und Paramounts „Focker In-Law“, der vierte Teil der „Meet the Parents“-Reihe mit Robert De Niro, Ben Stiller und Ariana Grande. Die Komödie nahm am Donnerstag 7,7 Millionen Dollar in 3382 Kinos ein und steuert auf 40 Millionen für die fünf Tage zu. Disneys Animationsfilm „Hexed“ kam auf 4,5 Millionen und liegt bei erwarteten 35 Millionen für fünf Tage. Für eine Originalproduktion mit 200 Millionen Dollar Budget ist das schwach, Deadline schreibt nüchtern, „Hexed“ sei kein „Coco“ und kein „Frozen“.",
+            "Enttäuschend läuft auch „The Further Mis-Adventures of Cliff Booth“, David Finchers Fortsetzung von „Once Upon a Time in Hollywood“ nach einem Drehbuch von Quentin Tarantino. Netflix zeigt den Film mit Brad Pitt in 252 Kinos, am Donnerstag kamen 590.000 Dollar zusammen, für fünf Tage werden 3,75 Millionen erwartet. Die Kritiken sind mit 79 Prozent positiv auf Rotten Tomatoes ordentlich, das Publikum vergibt sogar 88 Prozent. Nur findet der Film laut Deadline sein Zielpublikum, erwachsene Männer, nicht in großer Zahl. Auch James Grays Krimi „Paper Tiger“ kommt bei seiner Ausweitung auf 1332 Kinos nur auf rund 3 Millionen in fünf Tagen.",
+            "Insgesamt spielten alle Filme am Thanksgiving-Tag 35,6 Millionen Dollar ein, 9 Prozent weniger als vor einem Jahr. Für den Black Friday rechnet Deadline mit 59 Millionen, nach 75 Millionen im Vorjahr, als „Zootopia 2“ und „Wicked: For Good“ liefen. Das Fünf-Tage-Wochenende 2025 hatte mit 290,3 Millionen Dollar das fünftbeste der Geschichte erreicht, so weit wird es diesmal nicht reichen."
+          ],
+          "highlight": "Für eine Originalproduktion mit 200 Millionen Dollar Budget ist das schwach, Deadline schreibt nüchtern, „Hexed“ sei kein „Coco“ und kein „Frozen“.",
+          "assessment": [
+            "Ohne Panem wäre dieses Thanksgiving ein Desaster. Die eigentliche Geschichte des Wochenendes sind aber die beiden Verlierer: Disney tut sich wie schon bei „Wish“ schwer, einen Original-Animationsfilm zum Feiertagsereignis zu machen, und das bei einem Budget, das kaum Spielraum lässt.",
+            "Bei „Cliff Booth“ sollte man die Zahlen nicht überbewerten. Netflix will mit dem Kinostart vor allem Aufmerksamkeit und Preissaison-Tauglichkeit, das Geld wird auf der Plattform verdient. Trotzdem ist es ein Dämpfer, dass ein Pitt-Tarantino-Fincher-Projekt trotz Premium-Sälen kaum jemanden ins Kino lockt. Die guten Publikumswerte sprechen dafür, dass der Film zu Hause sein Publikum finden wird."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG071.jpg?w=1024",
+            "alt": "Joseph Zada als Haymitch Abernathy in „Sunrise on the Reaping“",
+            "credit": "Lionsgate",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+          }
+        },
+        {
+          "title": "Villeneuve „zutiefst enttäuscht“: „Dune: Part Three“ und „Avengers: Doomsday“ starten am selben Wochenende",
+          "lead": "Disney hat seinen Marvel-Film auf den 18. Dezember gelegt, genau auf den Termin des dritten „Dune“-Teils. Im Time-Interview spricht Denis Villeneuve offen über seinen Ärger und über seinen Bond-Film.",
+          "body": [
+            "Denis Villeneuve hat sich in einem Interview mit dem Magazin Time zum direkten Duell mit Marvel geäußert. „Disney hat das größte Franchise aller Zeiten gegen uns gesetzt. Ich bin kein Narr. Diese Filme sind ein Mammut. Also war ich zutiefst enttäuscht“, sagte der Regisseur. Warner Bros und er hätten sich aber auf den Termin und die IMAX-Säle festgelegt, eine Verschiebung sei unmöglich gewesen. „Also habe ich mein Schicksal akzeptiert und zu den Göttern des Kinos gebetet.“",
+            "Villeneuve erinnerte daran, dass schon die ersten beiden „Dune“-Filme unter schwierigen Bedingungen gestartet waren, mitten in der Pandemie und nach den Hollywood-Streiks. Mit dem dritten Teil habe er gedacht, das Schlimmste sei vorbei. „Dune ist kein Mammut wie die Avengers, aber ein sexy kleines Tier mit viel Feuerkraft, und ich hoffe, wir überleben.“ Es könne wegen beider Filme eines der größten Kinowochenenden aller Zeiten werden. Ob er mit den Avengers konkurriere? „Absolut nicht. Das ist ein T. rex. Aber ich bin stolz, weil ich glaube, dass der Film hält, was er verspricht.“",
+            "Die Prognosen geben ihm recht, was die Größenverhältnisse angeht. Laut der Marktforschung NRG, über die Deadline berichtet, peilt „Avengers: Doomsday“ einen US-Start von mehr als 270 Millionen Dollar an, mit Chancen auf 300 Millionen. Es ist die höchste Startprognose, die NRG je abgegeben hat. Für „Dune: Part Three“ werden 75 bis 80 Millionen erwartet, ähnlich wie beim zweiten Teil.",
+            "Im selben Gespräch sprach Villeneuve über seinen James-Bond-Film, das Interview wurde vor der Bekanntgabe von Robert Pattinson als neuem 007 geführt. Er schlafe kaum, weil er „Elektrizität in den Adern“ spüre. „Ich bin nicht hier, um die DNA von James Bond zu ändern, sondern um sie anzunehmen und in die heutige Welt zu bringen.“ Bei der Besetzung rechnete er mit Gegenwind: Als Daniel Craig besetzt wurde, sei das ein Sturm der Entrüstung gewesen, und heute rede man über Bond wegen Craig. „Ich erwarte einen Hurrikan, wenn wir unsere Wahl verkünden.“"
+          ],
+          "highlight": "Es ist die höchste Startprognose, die NRG je abgegeben hat.",
+          "assessment": [
+            "Villeneuve sagt öffentlich, was in Hollywood sonst nur hinter vorgehaltener Hand gesagt wird: Disney setzt seine Riesen gezielt gegen die Konkurrenz. Dass er dabei so entspannt und selbstironisch bleibt, macht den Ärger glaubwürdiger, nicht schwächer.",
+            "Ganz so schlecht steht „Dune“ nicht da. Beide Filme sprechen teils unterschiedliches Publikum an, und das Doppel könnte wie einst „Barbenheimer“ einen Sog erzeugen. Das Problem sind eher die IMAX-Säle, um die sich beide Filme streiten. Wer „Dune“ in bester Form sehen will, sollte früh Karten kaufen."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/denis-villeneuve-disappointed-avengers-dune-release-date-1237234307/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/avengers-doomsday-dune-part-three.jpg?w=1000",
+            "alt": "Motive aus „Avengers: Doomsday“ und „Dune: Part Three“ nebeneinander",
+            "credit": "Disney/Warner Bros Pictures",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/denis-villeneuve-disappointed-avengers-dune-release-date-1237234307/"
+          }
+        },
+        {
+          "title": "Mike Leigh über Hollywoodstars, Krankheit und sein letztes Projekt als Regisseur",
+          "lead": "Der 83-jährige britische Regisseur erklärt, warum er nie mit großen Namen gearbeitet hat. „Tender Loving Care“ soll sein letzter Film als Regisseur sein, aufhören will er trotzdem nicht.",
+          "body": [
+            "In einem Interview mit dem Guardian, über das Deadline berichtet, hat Mike Leigh erneut begründet, warum er bei britischen Charakterdarstellern bleibt. Die Idee, Hollywoodstars zu besetzen, quittierte er mit einem Schnauben. Ein Star müsse sich dafür monatelang an das Projekt binden, vielleicht in der echten Welt recherchieren und womöglich eine Figur spielen, die nicht zu seinem idealisierten Selbstbild passe. „Wenn jemand sagen würde, der Grund, warum du gescheitert bist, ist, dass du keine Stars hattest, würde ich das in aller Demut akzeptieren. Aber das ist schlicht nicht der Fall.“",
+            "Leighs Methode ist bekannt und ungewöhnlich: Die Drehbücher entstehen gemeinsam mit den Schauspielern während einer langen Probenphase. Sein neuer Film „Tender Loving Care“ erzählt von Amy (Kate O’Flynn), die nach einer bitteren Trennung bei ihrer besten Freundin Rosie (Alice Bailey Johnson) einzieht. Beide arbeiten in London als Sozialarbeiterinnen, am jeweils anderen Ende des Altersspektrums ihrer Klienten. Rosie wird für Amys Eltern eine Art zweite Tochter, besonders für den Vater, der allmählich sein Alter spürt. Leighs langjährige Partnerin Marion Bailey spielt ebenfalls mit. Der Film gehört zu den Spitzenreitern bei den Nominierungen für die Gotham Awards.",
+            "Bedauern äußerte der Gewinner der Goldenen Palme nur in einem Punkt: Er habe nie einen großen Film über ein zeitgenössisches Thema mit breiter Leinwand gemacht, nach den aufwendigen Historienfilmen „Mr. Turner“ und „Peterloo“. „Tender Loving Care“ soll sein letzter Film als Regisseur sein. Leigh leidet an Myositis, einer Muskelentzündung, die seine Muskeln geschwächt und seine Beweglichkeit eingeschränkt hat.",
+            "Auf gut gemeinte Ratschläge reagiert er gewohnt deutlich. Er sei es gewohnt, dass ihm alle Welt erkläre, wie er weiterarbeiten könne. „Meine Antwort darauf beginnt mit einem F und endet mit einem off.“ In Rente gehe er trotzdem nicht, er werde sich hinsetzen und etwas schreiben."
+          ],
+          "highlight": "Leigh leidet an Myositis, einer Muskelentzündung, die seine Muskeln geschwächt und seine Beweglichkeit eingeschränkt hat.",
+          "assessment": [
+            "Leighs Abneigung gegen Stars ist keine Pose, sondern Methode. Seine Filme funktionieren, weil die Figuren in monatelanger Arbeit wachsen, und das verträgt sich schlecht mit Terminkalendern und Imagepflege. Dass er recht behalten hat, zeigen zahlreiche Oscar-Nominierungen und eine Goldene Palme, ganz ohne Hollywood.",
+            "Dass ein so körperlicher Beruf wie Regie für ihn nicht mehr geht, ist traurig, aber er geht mit Würde und gewohnter Schärfe. „Tender Loving Care“ als Abschied über Fürsorge und das Älterwerden zu drehen, passt zu einem Werk, das immer von gewöhnlichen Leuten und ihren Beziehungen handelte. Wer Leigh mag, sollte sich diesen Film vormerken."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2300369759.jpg?w=1024",
+            "alt": "Mike Leigh",
+            "credit": "Tristan Fewings/Getty",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216/"
+          }
+        },
+        {
+          "title": "Doha-Festival: Zou Jings Debüt „A Girl Unknown“ gewinnt den Hauptpreis",
+          "lead": "Bei der zweiten Ausgabe des neu aufgestellten Filmfestivals in Katar siegt ein chinesischer Erstlingsfilm. Der Darstellerpreis geht posthum an eine Kameruner Schauspielerin.",
+          "body": [
+            "Die chinesische Regisseurin Zou Jing hat mit ihrem ersten Spielfilm „A Girl Unknown“ den Hauptpreis des Doha Film Festival gewonnen, die Auszeichnung für den besten Spielfilm ist mit 75.000 Dollar dotiert. Der Film erzählt von einem Mädchen, das als Baby ausgesetzt in einem Mülleimer gefunden wird und bis zur Jugend bei drei verschiedenen Pflegepersonen unter ganz unterschiedlichen Umständen aufwächst.",
+            "Den Preis für die beste Darstellerin erhielt posthum Josette Kwanya. Sie spielt in „House of the Wind“, dem Film ihres Sohnes Auguste Bernard Kouemo, eine ältere Frau in Kamerun, die auf die Rückkehr ihrer Kinder wartet, die auf der Suche nach neuen Chancen nach Europa gegangen sind. Der Film hatte im September in der Venedig-Sektion Orizzonti den Löwen der Zukunft für das beste Debüt gewonnen.",
+            "Bester Dokumentarfilm wurde „Concrete Land“ von Asmahan Bkerat über eine Beduinenfamilie, die darum kämpft, ihr traditionelles Leben in Zelten zu bewahren. Der Film erhielt außerdem den Preis der internationalen Filmkritik Fipresci, der in Doha in diesem Jahr erstmals vergeben wurde.",
+            "Die Jury leitete die japanische Regisseurin Naomi Kawase. Zu ihr gehörten der Oscar-prämierte Dokumentarfilmer Gianfranco Rosi, der Schauspieler Adam Bessa, die tunesische Produzentin Dora Bouchoucha und der palästinensische Regisseur Kamal Aljafari. Festivaldirektorin Fatma Hassan Alremaihi sagte zum Abschluss, Kino sei nicht nur ein Spiegel der Welt, sondern eine Kraft, die präge, wie wir sie verstehen."
+          ],
+          "highlight": "Den Preis für die beste Darstellerin erhielt posthum Josette Kwanya.",
+          "assessment": [
+            "Doha hat sich mit dem neuen Format in kurzer Zeit einen Platz im Festivalkalender gesichert, und die Preisvergabe zeigt das Profil: Debüts, Geschichten aus dem Globalen Süden und eine Jury mit echtem Gewicht. Naomi Kawase und Gianfranco Rosi sitzen nicht in jeder Jury.",
+            "Der posthume Preis für Josette Kwanya ist die bewegendste Entscheidung des Abends. Eine Mutter, die im Film ihres Sohnes eine Mutter spielt, die auf ihre Kinder wartet, mehr Echo zwischen Leben und Leinwand geht kaum. „A Girl Unknown“ und „House of the Wind“ sind Namen, die man sich für die Arthouse-Kinos im kommenden Jahr merken kann."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/doha-2026-winners-girl-unknown-concrete-land-1237234325/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/07/A-Girl-Unknown.jpeg?w=1024",
+            "alt": "Szene aus „A Girl Unknown“",
+            "credit": "Cannes Film Festival",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/doha-2026-winners-girl-unknown-concrete-land-1237234325/"
+          }
+        },
+        {
+          "title": "Netflix schneidet Schizophrenie-Szene aus der Tyson-Fury-Doku",
+          "lead": "Im Trailer hatte Paris Fury ihren Mann als „mild schizophren“ bezeichnet. Die Diagnose stimmt nicht, die Szene ist raus, und der Kampf gegen Anthony Joshua ist freigegeben.",
+          "body": [
+            "Netflix hat aus seinem Dokumentarfilm über den britischen Boxer Tyson Fury eine Szene entfernt, in der seine Frau Paris Fury sagt, er sei „mild schizophren“. Die Aussage war im Trailer zu sehen und stand auch in einer Pressemitteilung von Netflix vom Montag. Inzwischen ist klar, dass Fury nicht an Schizophrenie leidet. Der Film mit dem schlichten Titel „Tyson Fury“ ist am Freitag erschienen.",
+            "„Nach neuen Informationen der Familie zu Tysons offizieller Diagnose haben wir gemeinsam mit ihr die Dokumentation vor dem Start entsprechend angepasst“, erklärte eine Netflix-Sprecherin. Der Film soll einen ungefilterten Blick auf den Menschen hinter der Boxikone werfen und erzählt von Furys psychischen Krisen in der Vorbereitung auf den Kampf gegen Anthony Joshua.",
+            "Nach den Aussagen hatte das British Boxing Board of Control geprüft, ob die vermeintliche Diagnose dem lange erwarteten Kampf im Weg stehen könnte. Inzwischen ist er freigegeben: Fury und Joshua treffen am 11. Dezember in Cardiff aufeinander, Netflix überträgt live. Es könnte eines der lukrativsten Live-Sportereignisse des Streamingdienstes werden.",
+            "Fury ist für Netflix ein vertrautes Gesicht. Er war bereits in zwei Staffeln der Dokuserie „At Home With the Furys“ zu sehen, eine dritte ist in Arbeit. Doku und Serie produziert die zu Banijay gehörende Firma Optomen."
+          ],
+          "highlight": "Fury und Joshua treffen am 11. Dezember in Cardiff aufeinander, Netflix überträgt live.",
+          "assessment": [
+            "Eine falsche psychiatrische Diagnose im Trailer, verbreitet per Pressemitteilung, das ist mehr als ein Schnittfehler. Netflix hat hier offenbar eine Schlagzeile mitgenommen, ohne sie zu prüfen, und erst die Boxaufsicht hat das Problem sichtbar gemacht.",
+            "Pikant ist die Verquickung: Derselbe Konzern verkauft die Doku und den Kampf. Eine Diagnose, die den Kampf gefährdet hätte, war für Netflix doppelt heikel. Dass die Szene so schnell verschwand, ist richtig, sagt aber auch viel darüber, wie eng Sportvermarktung und Dokumentarfilm bei Streamingdiensten inzwischen verschmolzen sind."
+          ],
+          "sources": [
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/netflix-edits-tyson-fury-schizophrenia-scene-paris-fury-1237234272/"
+            }
+          ],
+          "image": {
+            "url": "https://deadline.com/wp-content/uploads/2026/11/Tyson_Fury_n_00_57_11_23.png?w=1024",
+            "alt": "Szene aus der Netflix-Dokumentation „Tyson Fury“",
+            "credit": "Netflix",
+            "license": "Artikelbild Deadline",
+            "source": "https://deadline.com/2026/11/netflix-edits-tyson-fury-schizophrenia-scene-paris-fury-1237234272/"
+          }
+        },
+        {
+          "title": "„Die Hürde fürs Kino ist hoch“: Amazon MGMs Verleihchef über „I Play Rocky“, Flops und Bond",
+          "lead": "Kevin Wilson zieht im Hollywood Reporter Bilanz eines wechselhaften Kinojahrs. Den Misserfolg von „How to Rob a Bank“ kann er sich selbst nicht ganz erklären.",
+          "body": [
+            "Amazon MGM Studios hat ein bewegtes Kinojahr hinter sich, und Verleihchef Kevin Wilson spricht im Hollywood Reporter offen über Höhen und Tiefen. Die gute Nachricht ist „I Play Rocky“, Peter Farrellys Film über die Entstehung des ersten „Rocky“ mit Anthony Ippolito in der Hauptrolle. Der Film hat beim Publikum die Bestnote A+ im CinemaScore bekommen. Wilson nennt den Start „großartig“ und hofft auf einen langen Atem. Das Publikum ist bislang eher älter: 53 Prozent waren am vergangenen Wochenende über 45. Nach Deadline-Zahlen steht der Film nach vier Wochen bei rund 22,5 Millionen Dollar in den USA.",
+            "Ein Rückschlag war David Leitchs Heist-Film „How to Rob a Bank“, der 40 Millionen Dollar gekostet hat und Anfang November nur 5,1 Millionen am Startwochenende einspielte. „Natürlich nicht das, was wir uns erhofft hatten“, sagt Wilson. Der Markt sei schwierig, nach unten gebe es keine Grenze mehr. Man versuche intern noch herauszufinden, warum der Film beim jüngeren Publikum nicht gezündet habe.",
+            "Ungewöhnlich war die Strategie für Sacha Baron Cohens „Ali G: Who Iz I?“: nur zwei Abende im Kino, dann sofort zu Prime Video. Wilson begründet das mit Erfahrungen wie bei den „Jackass“-Filmen: „Diese Hürde fürs Kino ist einfach hoch.“ Ein breites Publikum davon zu überzeugen, für so einen Film ins Kino zu gehen, sei nicht leicht. Das Biopic „Madden“ mit Christian Bale sei von Anfang an als Streamingfilm geplant gewesen.",
+            "Das Jahr hatte mit dem Erfolg von „Project Hail Mary“ im Frühjahr begonnen, der Film kommt am 11. Dezember zur Preissaison erneut in die Kinos. Und dann ist da noch Bond: Wilson freut sich auf die „Neuerfindung der Reihe“ mit Robert Pattinson. Er habe einst bei Summit Entertainment die „Twilight“-Filme in die Kinos gebracht, als Pattinson nach seiner Erinnerung 17 war, und später „No Time to Die“, Daniel Craigs letzten Bond."
+          ],
+          "highlight": "Der Markt sei schwierig, nach unten gebe es keine Grenze mehr.",
+          "assessment": [
+            "Selten sagt ein Verleihchef so offen, dass er einen Flop nicht versteht. Der Satz, nach unten gebe es keine Grenze mehr, beschreibt den Kinomarkt 2026 ziemlich genau: Ein solider Genrefilm mit Stars kann heute einfach verschwinden, während ein Nostalgiefilm wie „I Play Rocky“ ältere Zuschauer in die Säle holt.",
+            "Interessanter als die Zahlen ist Amazons Experimentierfreude. Zwei Abende Kino für „Ali G“, reine Streamingstarts für „Madden“, Wiederaufführung für „Project Hail Mary“, das ist ein Studio, das noch sucht, welcher Film wohin gehört. Mit Bond hat es bald den einen Titel, bei dem diese Frage sich nicht stellt."
+          ],
+          "sources": [
+            {
+              "name": "The Hollywood Reporter",
+              "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+            }
+          ],
+          "image": {
+            "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/DSCF1969_C2-H-2026.jpg?w=1296&h=730&crop=1",
+            "alt": "Anthony Ippolito in „I Play Rocky“",
+            "credit": "Claire Folger/Amazon MGM Studios",
+            "license": "Artikelbild The Hollywood Reporter",
+            "source": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
+          }
+        }
+      ]
+    },
+    {
+      "category": "geschichte",
+      "items": [
+        {
+          "title": "Rüstung für einen Hochrangigen: Ältester vollständiger Eisen-Schuppenpanzer Chinas neben dem Grab des Ersten Kaisers",
+          "lead": "In einem reich ausgestatteten Grab beim Mausoleum von Qin Shihuangdi lag ein Haufen aus Hunderten Eisenschuppen. Sie gehörten offenbar zu einem einzigen Panzer, dem frühesten seiner Art in China.",
+          "body": [
+            "Archäologen des University College London und des Museums am Mausoleum des Ersten Kaisers Qin Shihuangdi haben in der Fachzeitschrift Antiquity den ältesten vollständigen eisernen Schuppenpanzer Chinas vorgestellt. Er stammt aus Grab M1, dem dritten von neun großen Gräbern westlich der eigentlichen Grabanlage des Kaisers, der China 221 vor Christus einte. Gegraben wurde dort von 2013 bis 2023.",
+            "Die Grabkammer misst 1900 Quadratmeter und liegt 15,6 Meter unter der Erde. Darin fanden sich zwei Särge, ein vierrädriger Holzwagen und in Seitengruben bestattete Pferde mit Streitwagen. Kein anderes bisher ausgegrabenes Qin-Grab ist reicher oder besser erhalten. Wer dort lag, ist unbekannt, es muss aber eine Person von hohem Rang gewesen sein.",
+            "Die Eisenschuppen lagen als Haufen auf der Südseite der Kammer, vermutlich waren sie von einem Regal gefallen, als die Decke einstürzte. Korrosion hat das meiste Metall in kleine Stücke zerlegt, die Forscher zählten aber mindestens 200 größere Fragmente. Sie schätzen, dass der Panzer aus 800 bis 1200 Schuppen bestand. Für einen Helm wären nur 80 bis 90 nötig, für mehrere Panzer weit mehr, also handelt es sich wohl um einen einzigen Rumpfschutz von etwa 10 Kilogramm. Die meisten Schuppen sind kleine Rechtecke von rund 33 mal 29 Millimetern, 1,5 Millimeter dick, mit zehn Löchern für die Schnürung. Fast alle tragen Spuren von Zinnober, einem roten Quecksilberpigment, manche Reste eines schwarzen Lacks. Gold- oder Silberauflagen fanden sich nicht.",
+            "Unter dem Elektronenmikroskop zeigte sich kohlenstoffarmer Stahl mit 0,1 bis 0,4 Prozent Kohlenstoff, stark gehämmert und fast schlackefrei. Die Schmiede gingen wahrscheinlich von Gusseisen aus, entzogen ihm Kohlenstoff durch Frischen und schmiedeten daraus dünne Bleche. Wie aufwendig das war, verraten Qin-Gesetzestexte auf Bambusstreifen: Als Strafe für ein Vergehen war die Herstellung eines Schuppenpanzers vorgesehen, was 168 bis 224 Arbeitstagen entsprach. Ein Eisenpanzer mit feineren Schuppen könnte eine kleine Werkstatt ein Jahr oder länger beschäftigt haben.",
+            "Das Mausoleum kennt Panzer bislang vor allem in Nachbildungen: Die Terrakotta-Armee trägt Rüstungen aus Ton, in der Grube K9801 wurden 87 Panzer und 43 Helme aus Stein gefunden, deren Schuppen den Eisenschuppen aus M1 stark ähneln. Ein Rätsel bleibt: In M1 lagen auch eiserne Schwerter, während das Mausoleum Zehntausende Bronzewaffen birgt. Ob die Bronze nur symbolisch war, lassen die Autoren offen."
+          ],
+          "highlight": "Sie schätzen, dass der Panzer aus 800 bis 1200 Schuppen bestand.",
+          "assessment": [
+            "Der Fund schließt eine Lücke zwischen Abbild und Wirklichkeit. Seit Jahrzehnten bewundern wir die steinernen und tönernen Rüstungen der Terrakotta-Armee und fragen, wie die echten aussahen. Nun liegt ein echtes Exemplar aus Eisen auf dem Tisch, und es passt erstaunlich gut zu den Steinkopien.",
+            "Besonders reizvoll ist die Rechnung mit den Strafgesetzen: Eine Rüstung als Bußgeld in Arbeitstagen, das ist Wirtschaftsgeschichte in einem Satz. Dass die Elite eiserne Panzer trug, während die Armee mit Bronze kämpfte, deutet auf eine Gesellschaft im technischen Übergang, in der Eisen noch ein Luxus war."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/earliest-iron-scale-armor-in-china-near-first-emperors-tomb/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/earliest-scale-armor-in-china-1.jpg",
+            "alt": "Nachbildungen von Schuppenpanzern aus Ton und Stein aus dem Mausoleum des Ersten Kaisers",
+            "credit": "Michael Charlton & Weisha Du, aus M. Charlton et al., Antiquity (2026)",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/earliest-iron-scale-armor-in-china-near-first-emperors-tomb/"
+          }
+        },
+        {
+          "title": "Bienenwachs und Kiefernharz: Krokodilmumien aus Kom Ombo folgten jahrhundertelang einem Rezept",
+          "lead": "Chemische Analysen des British Museum zeigen, dass Einbalsamierer im südägyptischen Kom Ombo über mehrere Jahrhunderte dieselbe Mischung verwendeten. Das Rezept könnte helfen, die Herkunft namenloser Mumien zu bestimmen.",
+          "body": [
+            "Forscher des British Museum haben in der Zeitschrift Scientific Reports Analysen von sieben Krokodilmumien veröffentlicht. Ihr Ergebnis: In Kom Ombo, rund 50 Kilometer nördlich von Assuan, verwendeten die Einbalsamierer über Jahrhunderte eine eigene Mischung aus Bienenwachs, Harz oder Teer von Kiefern und etwas Zedernteer.",
+            "Krokodile wurden in den letzten Jahrhunderten des alten Ägypten in riesiger Zahl für den Gott Sobek mumifiziert. Einige Tiere lebten in Tempelbezirken und wurden nach ihrem natürlichen Tod einbalsamiert, die meisten aber waren Votivgaben und wurden zu Tausenden an eigenen Stätten bestattet. Bisher waren nur elf Krokodile auf ihre Balsamierungsstoffe untersucht worden, viele davon ohne gesicherte Datierung oder Herkunft.",
+            "Das Team nahm 22 Proben von sieben Mumien aus dem British Museum und dem Natural History Museum, datiert von der Spätzeit bis in die griechisch-römische Epoche. Darunter sind drei Bündel winziger Jungtiere unbekannter Herkunft, zwei ein bis zwei Meter lange Jungtiere aus Manfalut bei Asyut und zwei etwa vier Meter lange erwachsene Tiere aus Kom Ombo. Eines davon trägt mehr als 25 Jungtiere auf dem Rücken. Alle Tiere enthielten Harz von Kieferngewächsen, doch nur die Erwachsenen aus Kom Ombo zeigten die typische Mischung mit Bienenwachs. Die Jungtiere aus Manfalut wurden überwiegend mit Zedernteer behandelt.",
+            "Das Alter erklärt den Unterschied nicht. Das erwachsene Tier mit den Jungen stammt aus der Zeit zwischen 792 und 542 vor Christus, das andere aus der Zeit zwischen 61 und 215 nach Christus. Beide tragen dieselbe Mischung, und eine frühere Studie fand sie auch an zwei Votivkrokodilen aus Kom Ombo. Das Rezept war also nicht heiligen Tempeltieren vorbehalten. Da Nadelholzharz in der Gegend nicht vorkommt, importierten die Werkstätten es wohl aus dem Mittelmeerraum.",
+            "Die Autoren sprechen ausdrücklich von einer vorläufigen Idee. Bisher wurden erst vier Mumien aus Kom Ombo analysiert. Bestätigt sich das Muster, könnte das Rezept wie ein Fingerabdruck dienen, um Krokodilmumien ohne Herkunftsangabe der Stätte zuzuordnen."
+          ],
+          "highlight": "Das erwachsene Tier mit den Jungen stammt aus der Zeit zwischen 792 und 542 vor Christus, das andere aus der Zeit zwischen 61 und 215 nach Christus.",
+          "assessment": [
+            "Ein schönes Beispiel dafür, wie Chemie Archäologie verändert. Museen besitzen Tausende Tiermumien, deren Herkunft im 19. Jahrhundert niemand notiert hat. Ein lokales Rezept als Erkennungsmerkmal könnte viele davon wieder einem Ort zuordnen.",
+            "Erstaunlich ist die Beständigkeit: Über mindestens sechs Jahrhunderte, von der Spätzeit bis in die Römerzeit, hielt eine Werkstatttradition an ihrer Mischung fest. Das spricht für ein Handwerk, das in Familien oder Tempelwerkstätten weitergegeben wurde. Bei nur vier Mumien sollte man aber vorsichtig bleiben, wie es die Autoren selbst tun."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology News (archaeologymag.com)",
+              "url": "https://archaeologymag.com/2026/11/crocodile-mummies-at-kom-ombo-embalming-recipe/"
+            }
+          ],
+          "image": {
+            "url": "https://archaeologymag.com/wp-content/uploads/crocodile-mummies-kom-ombo-1.jpg",
+            "alt": "Mumifizierte Krokodile verschiedenen Alters im Krokodilmuseum von Kom Ombo",
+            "credit": "Wikimedia Commons (CC BY-SA 3.0)",
+            "license": "Artikelbild Archaeology News",
+            "source": "https://archaeologymag.com/2026/11/crocodile-mummies-at-kom-ombo-embalming-recipe/"
+          }
+        },
+        {
+          "title": "Säulen unter dem Stromnetz: Bei Avellino taucht ein römisches Grabmonument auf",
+          "lead": "Bei Vorarbeiten für neue Stromleitungen sind vor den Mauern der antiken Stadt Abellinum die Reste eines kaiserzeitlichen Monuments aus Tuffstein entdeckt worden. Es stand vermutlich an einer der Ausfallstraßen.",
+          "body": [
+            "In Atripalda in der süditalienischen Provinz Avellino haben Archäologen ein Monument aus der römischen Kaiserzeit freigelegt. Entdeckt wurde es bei vorgeschriebenen archäologischen Untersuchungen, die Arbeiten des Netzbetreibers E-Distribuzione für neue Strominfrastruktur im Ortsteil Contrada Civita begleiten. Die zuständige Denkmalbehörde für Salerno und Avellino machte den Fund in den sozialen Medien bekannt.",
+            "Das Gelände liegt außerhalb der Stadtmauern des antiken Abellinum, dessen Zentrum auf der Hochfläche der Civita di Atripalda lag und von einer Mauer in Netzmauerwerk, dem römischen opus reticulatum, umschlossen war. Wenige Meter vor dem nördlichen Abschnitt dieser Befestigung kam ein rechteckiger Bau aus Tuffblöcken zum Vorschein. Seine Basis misst 3,50 mal 5 Meter und bildete den unteren Teil eines größeren Monuments.",
+            "Darauf deuten die Reste eines gestuften Podiums mit Profilen sowie Bauteile des Oberbaus, die ringsum eingestürzt lagen: Säulen, Kapitelle und Bruchstücke des Gebälks, alle aus gelbem und grauem Tuff. Nach ersten Auswertungen der Schichten und Funde stammt der Bau aus der Blütezeit der Kaiserzeit. In der Gegend war bereits ein Teil einer Nekropole derselben Epoche bekannt.",
+            "Die Denkmalbehörde deutet den Bau daher vorläufig als Grab- oder Gedenkmonument, das an einer der Hauptstraßen aus der Stadt stand. Schon in der Spätantike war es offenbar eingestürzt, wurde aufgegeben und verschüttet, vielleicht im Zuge einer Neuordnung des Gebiets vor den Mauern. Bei einer ersten Begehung am 20. November trafen sich Superintendentin Anna Onesti, Bürgermeister Paolo Spagnuolo und Vertreter des Netzbetreibers. Nun wird beraten, wie sich der Schutz des Monuments mit den weiteren Arbeiten vereinbaren lässt."
+          ],
+          "highlight": "Seine Basis misst 3,50 mal 5 Meter und bildete den unteren Teil eines größeren Monuments.",
+          "assessment": [
+            "Ein typischer italienischer Fund im besten Sinne: kein Schatz, aber ein Stück Stadtlandschaft, das zeigt, wie die Römer den Raum vor ihren Städten gestalteten. Grabmonumente an den Ausfallstraßen waren Visitenkarten der lokalen Elite, wer nach Abellinum kam, ging an ihnen vorbei.",
+            "Bemerkenswert ist auch der Rahmen. Dass ein Netzbetreiber seine Bauarbeiten archäologisch begleiten lassen muss, kostet Zeit und Geld, liefert aber immer wieder solche Funde. Jetzt wird sich zeigen, ob Leitung und Monument nebeneinander Platz finden."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull’Arte",
+              "url": "https://www.finestresullarte.info/en/archaeology/in-avellino-a-roman-monument-is-unearthed-during-work-on-the-power-grid"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/avellino-reperti-struttura-pianta-rettangolare-cover.jpg",
+            "alt": "Der rechteckige Bau aus Tuffblöcken in Atripalda",
+            "credit": "Ministero della Cultura – Soprintendenza Archeologia, Belle Arti e Paesaggio per le province di Salerno e Avellino",
+            "license": "Artikelbild Finestre sull’Arte",
+            "source": "https://www.finestresullarte.info/en/archaeology/in-avellino-a-roman-monument-is-unearthed-during-work-on-the-power-grid"
+          }
+        },
+        {
+          "title": "Ein verborgener Teller und ein verschobener Apostel: Restaurierung von Rubens’ „Abendmahl“ zeigt die Arbeit seiner Werkstatt",
+          "lead": "Die Pinacoteca di Brera in Mailand hat Rubens’ „Letztes Abendmahl“ von 1631 restauriert. Die Analysen fanden Korrekturen des Malers und rekonstruieren seine Farbpalette.",
+          "body": [
+            "Die Pinacoteca di Brera hat die Restaurierung des „Letzten Abendmahls“ von Peter Paul Rubens abgeschlossen und die Ergebnisse vorgestellt. Rubens malte das Bild 1631 für die Kathedrale St. Rombout in Mechelen, damals war er bereits der bedeutendste Maler der südlichen Niederlande. Das Werk gehörte zu einem Altarensemble, das später zerlegt wurde. Nach Mailand kam es 1813 durch einen Tausch mit dem Louvre.",
+            "Die Arbeiten liefen von 2025 bis 2026 in der Werkstatt der Brera, mehr als vierzig Jahre nach der letzten Restaurierung von 1984. Vergilbte Firnisse und alte Retuschen hatten die Farbverhältnisse verfälscht und die dunklen Partien flach wirken lassen. Auch der Bildträger aus zehn Eichenbrettern zeigte Verformungen und gelöste Farbschichten. Nach der Abnahme von Firnis und Retuschen haben die Schatten wieder Tiefe, und die Lichtkontraste sind klarer.",
+            "Parallel lief eine umfangreiche Untersuchung mit Universitäten und Forschungsinstituten. Sie fand mehrere Pentimenti, also Änderungen während des Malens. Der Kopf des vierten Apostels von links saß zunächst an anderer Stelle. Auf dem Tisch stand ursprünglich ein Teller, den Rubens später mit dem Tischtuch übermalte. Die Analysen bestimmten außerdem die Pigmente für Haut, Gewänder und andere Partien und zeigen, wie Rubens Farbschichten aufbaute, um Licht und Farbe zu erzeugen.",
+            "Neue Archivforschung von Nils Büttner in Mechelen klärt zudem, welche Handwerker an dem Altar beteiligt waren. Die Ergebnisse sind in einem Band erschienen, „Pieter Paul Rubens: The Last Supper and Its Restoration“, herausgegeben von Andrea Carini und Francesca Debolini bei Marsilio Arte. Inhaltlich ist das Abendmahl als Drama um die Eucharistie angelegt: Die Apostel reagieren mit unterschiedlichen Gesten auf die Ankündigung des Verrats, Judas wendet sich zum Betrachter und zieht ihn in die Szene."
+          ],
+          "highlight": "Auf dem Tisch stand ursprünglich ein Teller, den Rubens später mit dem Tischtuch übermalte.",
+          "assessment": [
+            "Solche Restaurierungen sind die stillen Geschichtsmeldungen: Kein neuer Fund, aber ein bekanntes Bild sieht danach anders aus. Wer das „Abendmahl“ in Mailand kennt, wird es mit tieferen Schatten wiedersehen, und das verändert bei Rubens viel, dessen Dramatik vom Hell-Dunkel lebt.",
+            "Spannend sind die Pentimenti, weil sie Rubens beim Denken zeigen. Ein verschobener Kopf und ein verschwundener Teller sind kleine Entscheidungen, aber sie verraten, wie er an der Komposition gefeilt hat. Und dass ein Altarbild aus Mechelen wegen eines napoleonischen Tauschs in Mailand hängt, ist eine eigene kleine Geschichte europäischer Kunstwanderungen."
+          ],
+          "sources": [
+            {
+              "name": "Finestre sull’Arte",
+              "url": "https://www.finestresullarte.info/en/ancient-art/how-did-rubens-work-the-restoration-of-the-last-supper-reveals-the-secrets-of-his-painting"
+            }
+          ],
+          "image": {
+            "url": "https://www.finestresullarte.info/rivista/immagini/2026/fn/pieter-paul-rubens-cenacolo-cover.jpg",
+            "alt": "Peter Paul Rubens, Das Letzte Abendmahl (1631–1632)",
+            "credit": "Pinacoteca di Brera / Finestre sull’Arte",
+            "license": "Artikelbild Finestre sull’Arte",
+            "source": "https://www.finestresullarte.info/en/ancient-art/how-did-rubens-work-the-restoration-of-the-last-supper-reveals-the-secrets-of-his-painting"
+          }
+        },
+        {
+          "title": "Fast 100 Faustkeile im Busch: Polnische Forscher erschließen das Okwa-Tal in der Kalahari",
+          "lead": "Im kaum erforschten Okwa-Tal in Botswana haben Archäologen nahezu 100 Faustkeile des Acheuléen gefunden. Viele lagen am Ufer eines längst verschwundenen Gewässers.",
+          "body": [
+            "Im Okwa-Tal in der Kalahari in Botswana sind nach einem Bericht des Portals Science in Poland fast 100 Faustkeile des Acheuléen gefunden worden. Diese Werkzeugtradition entstand vor etwa 1,7 Millionen Jahren im Pleistozän, als die heutige Wüste von einem Netz aus Flüssen und Seen durchzogen war. Viele der Faustkeile lagen nahe der einstigen Uferlinie eines solchen Gewässers.",
+            "Das Gebiet ist für die Forschung ausgesprochen schwierig. „Das Okwa-Tal ist ein außergewöhnlich herausforderndes Forschungsgebiet“, sagt Mirosław Masojć von der Universität Wrocław. Dichter Busch versperre den Zugang zu vielen Stellen und erschwere systematische Begehungen. Das sei der Hauptgrund, warum dieser Teil der Kalahari bis heute so wenig erforscht sei.",
+            "Das Acheuléen ist die langlebigste Werkzeugkultur der Menschheitsgeschichte. Ihre typischen Faustkeile, beidseitig zugeschlagene, tropfenförmige Steinwerkzeuge, wurden über mehr als eine Million Jahre in Afrika, Europa und Asien hergestellt. Fundorte im Inneren des südlichen Afrikas sind wichtig, um zu verstehen, wie sich frühe Menschen in Landschaften bewegten, die damals deutlich feuchter waren.",
+            "Masojć und sein Team wollen die Faustkeile aus der Kalahari nun mit Funden weiter nördlich und mit Acheuléen-Werkzeugen aus Südafrika vergleichen. Eine genauere Datierung der neuen Funde nennt der Bericht nicht."
+          ],
+          "highlight": "Viele der Faustkeile lagen nahe der einstigen Uferlinie eines solchen Gewässers.",
+          "assessment": [
+            "Die Meldung ist weniger spektakulär, als die Zahl 100 klingt, denn ohne Datierung lässt sich noch wenig sagen. Ihr Wert liegt woanders: Sie öffnet eine weiße Fläche auf der Karte der Urgeschichte. Die Kalahari gilt als lebensfeindlich, die Faustkeile am alten Ufer erinnern daran, dass hier einmal Wasser stand und Menschen jagten.",
+            "Dass ausgerechnet ein Team aus Wrocław in Botswana arbeitet, zeigt nebenbei, wie international die Steinzeitforschung in Afrika geworden ist. Spannend wird der Vergleich mit Südafrika, wo die Acheuléen-Fundstellen gut erforscht sind. Erst dann wird klar, ob das Okwa-Tal ein Durchgangsraum oder ein eigenes Zentrum war."
+          ],
+          "sources": [
+            {
+              "name": "Archaeology Magazine",
+              "url": "https://archaeology.org/news/2026/11/25/acheulean-handaxes-found-in-kalahari-desert/"
+            }
+          ],
+          "image": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Acheulean_handaxe.png",
+            "alt": "Ein Faustkeil des Acheuléen",
+            "credit": "Loctus Borg",
+            "license": "CC BY-SA 4.0",
+            "source": "https://commons.wikimedia.org/w/index.php?curid=118604210"
+          }
+        }
+      ]
+    }
+  ]
+}

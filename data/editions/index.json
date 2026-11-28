@@ -1,5 +1,39 @@
 [
   {
+    "nr": 51,
+    "date": "2026-11-28",
+    "updated": "2026-11-28T07:52:29+01:00",
+    "counts": {
+      "ki": 5,
+      "gaming": 5,
+      "film": 6,
+      "geschichte": 5
+    },
+    "titles": [
+      "Verbraucherzentrale Niedersachsen mahnt OpenAI und Anthropic ab",
+      "Billige KI-Inferenz mit Haken: Über Router-Dienste landeten Prompts bei Angreifern und einem chinesischen Labor",
+      "Signal sperrt Screenshots: Datenschützer warnen vor KI-Agenten im Betriebssystem",
+      "„Kein Verhandlungsangebot“: Gerichtsakten zeigen, wie Washington sich 10 Prozent von Intel nahm",
+      "Der KI-Boom erreicht die Rohlinge: Wafer-Hersteller warnen vor Knappheit ab 2027",
+      "Eine Woche GTA 6: Call of Duty verliert fast die Hälfte seiner Spieler, Steam bleibt fast unberührt",
+      "Neu zu Silksong: „Sea of Sorrow“ erscheint am 11. Dezember, kostenlos und mit Angelspiel",
+      "Story-of-Seasons-Studio Marvelous will 65 Stellen über Frühruhestand abbauen",
+      "Zu teuer für ein kleines Studio: Yooka-Laylees Neuauflage erscheint nicht für Xbox",
+      "Skate schafft Seasons und Season Pass ab",
+      "Neu zum Thanksgiving-Kino: „Focker In-Law“ holt Platz zwei, „Cliff Booth“ findet kaum Publikum",
+      "Villeneuve „zutiefst enttäuscht“: „Dune: Part Three“ und „Avengers: Doomsday“ starten am selben Wochenende",
+      "Mike Leigh über Hollywoodstars, Krankheit und sein letztes Projekt als Regisseur",
+      "Doha-Festival: Zou Jings Debüt „A Girl Unknown“ gewinnt den Hauptpreis",
+      "Netflix schneidet Schizophrenie-Szene aus der Tyson-Fury-Doku",
+      "„Die Hürde fürs Kino ist hoch“: Amazon MGMs Verleihchef über „I Play Rocky“, Flops und Bond",
+      "Rüstung für einen Hochrangigen: Ältester vollständiger Eisen-Schuppenpanzer Chinas neben dem Grab des Ersten Kaisers",
+      "Bienenwachs und Kiefernharz: Krokodilmumien aus Kom Ombo folgten jahrhundertelang einem Rezept",
+      "Säulen unter dem Stromnetz: Bei Avellino taucht ein römisches Grabmonument auf",
+      "Ein verborgener Teller und ein verschobener Apostel: Restaurierung von Rubens’ „Abendmahl“ zeigt die Arbeit seiner Werkstatt",
+      "Fast 100 Faustkeile im Busch: Polnische Forscher erschließen das Okwa-Tal in der Kalahari"
+    ]
+  },
+  {
     "nr": 50,
     "date": "2026-11-27",
     "updated": "2026-11-27T07:50:03+01:00",
